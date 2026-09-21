@@ -1,0 +1,1172 @@
+No.	Source	Property	Location	City / State	Type / Config	Area	Price / Rent	Furnishing	Bathrooms	Tennants	Listing Type
+1	Tamil Nadu Properties (Tamil_Nadu.txt)	5 BHK Independent House	Tiruchirappalli Sector 1	Tiruchirappalli / Tamil Nadu	Independent House / 5 BHK	2912	₹1.47 Cr	Semi-Furnished	5	Bachelors	Sale
+2	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Independent House	Madurai West	Madurai / Tamil Nadu	Independent House / 2 BHK	1197	₹69.86 L	Fully-Furnished	2	Bachelors	Sale
+3	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Builder Floor	Tiruchirappalli Town Centre	Tiruchirappalli / Tamil Nadu	Builder Floor / 2 BHK	1017	₹18,500/month	Unfurnished	2	Family	Rent
+4	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Apartment	Salem Sector 2	Salem / Tamil Nadu	Apartment / 2 BHK	699	₹59.07 L	Fully-Furnished	2	Bachelors	Sale
+5	Tamil Nadu Properties (Tamil_Nadu.txt)	4 BHK Builder Floor	Coimbatore Colony	Coimbatore / Tamil Nadu	Builder Floor / 4 BHK	1536	₹1.25 Cr	Fully-Furnished	3	Family	Sale
+6	Tamil Nadu Properties (Tamil_Nadu.txt)	3 BHK Villa	Coimbatore West	Coimbatore / Tamil Nadu	Villa / 3 BHK	1540	₹24,500/month	Fully-Furnished	3	Bachelors	Rent
+7	Tamil Nadu Properties (Tamil_Nadu.txt)	1 BHK Studio	Salem Sector 1	Salem / Tamil Nadu	Studio / 1 BHK	395	₹11,900/month	Semi-Furnished	1	Family	Rent
+8	Tamil Nadu Properties (Tamil_Nadu.txt)	3 BHK Apartment	Madurai North	Madurai / Tamil Nadu	Apartment / 3 BHK	1434	₹80.62 L	Fully-Furnished	3	Any	Sale
+9	Tamil Nadu Properties (Tamil_Nadu.txt)	4 BHK Apartment	Coimbatore Sector 2	Coimbatore / Tamil Nadu	Apartment / 4 BHK	1536	₹1.02 Cr	Semi-Furnished	4	Bachelors	Sale
+10	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Villa	Madurai West	Madurai / Tamil Nadu	Villa / 2 BHK	1132	₹16,500/month	Semi-Furnished	2	Bachelors	Rent
+11	Tamil Nadu Properties (Tamil_Nadu.txt)	1 BHK Apartment	Salem West	Salem / Tamil Nadu	Apartment / 1 BHK	640	₹42.55 L	Semi-Furnished	2	Family	Sale
+12	Tamil Nadu Properties (Tamil_Nadu.txt)	4 BHK Apartment	Coimbatore North	Coimbatore / Tamil Nadu	Apartment / 4 BHK	1138	₹1.13 Cr	Semi-Furnished	3	Family	Sale
+13	Tamil Nadu Properties (Tamil_Nadu.txt)	1 BHK Independent House	Madurai Sector 1	Madurai / Tamil Nadu	Independent House / 1 BHK	634	₹36.37 L	Semi-Furnished	1	Family	Sale
+14	Tamil Nadu Properties (Tamil_Nadu.txt)	3 BHK Independent House	Salem Residential Area	Salem / Tamil Nadu	Independent House / 3 BHK	1251	₹24,600/month	Fully-Furnished	3	Family	Rent
+15	Tamil Nadu Properties (Tamil_Nadu.txt)	1 BHK Apartment	Tiruchirappalli West	Tiruchirappalli / Tamil Nadu	Apartment / 1 BHK	544	₹38.46 L	Unfurnished	1	Any	Sale
+16	Tamil Nadu Properties (Tamil_Nadu.txt)	1 BHK Independent House	Chennai Residential Area	Chennai / Tamil Nadu	Independent House / 1 BHK	618	₹11,400/month	Semi-Furnished	1	Any	Rent
+17	Tamil Nadu Properties (Tamil_Nadu.txt)	5 BHK Independent House	Chennai East	Chennai / Tamil Nadu	Independent House / 5 BHK	3003	₹47,900/month	Semi-Furnished	4	Family	Rent
+18	Tamil Nadu Properties (Tamil_Nadu.txt)	3 BHK Apartment	Tiruchirappalli Nagar	Tiruchirappalli / Tamil Nadu	Apartment / 3 BHK	1126	₹99.55 L	Fully-Furnished	3	Bachelors	Sale
+19	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Builder Floor	Chennai Main Road	Chennai / Tamil Nadu	Builder Floor / 2 BHK	778	₹56.15 L	Semi-Furnished	1	Family	Sale
+20	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Apartment	Salem Nagar	Salem / Tamil Nadu	Apartment / 2 BHK	791	₹51.66 L	Semi-Furnished	2	Any	Sale
+21	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Apartment	Chennai Town Centre	Chennai / Tamil Nadu	Apartment / 2 BHK	717	₹15,700/month	Unfurnished	2	Family	Rent
+22	Tamil Nadu Properties (Tamil_Nadu.txt)	1 BHK Studio	Madurai East	Madurai / Tamil Nadu	Studio / 1 BHK	300	₹9,200/month	Fully-Furnished	1	Any	Rent
+23	Tamil Nadu Properties (Tamil_Nadu.txt)	3 BHK Builder Floor	Chennai Central	Chennai / Tamil Nadu	Builder Floor / 3 BHK	1142	₹23,800/month	Semi-Furnished	2	Family	Rent
+24	Tamil Nadu Properties (Tamil_Nadu.txt)	1 BHK Apartment	Coimbatore North	Coimbatore / Tamil Nadu	Apartment / 1 BHK	383	₹41.08 L	Semi-Furnished	1	Any	Sale
+25	Tamil Nadu Properties (Tamil_Nadu.txt)	4 BHK Apartment	Salem West	Salem / Tamil Nadu	Apartment / 4 BHK	1815	₹34,800/month	Semi-Furnished	3	Bachelors	Rent
+26	Tamil Nadu Properties (Tamil_Nadu.txt)	1 BHK Apartment	Salem Nagar	Salem / Tamil Nadu	Apartment / 1 BHK	419	₹45.83 L	Unfurnished	1	Family	Sale
+27	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Builder Floor	Coimbatore Heights	Coimbatore / Tamil Nadu	Builder Floor / 2 BHK	764	₹73.11 L	Semi-Furnished	3	Family	Sale
+28	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Apartment	Madurai West	Madurai / Tamil Nadu	Apartment / 2 BHK	1033	₹76.82 L	Semi-Furnished	2	Family	Sale
+29	Tamil Nadu Properties (Tamil_Nadu.txt)	1 BHK Apartment	Coimbatore Town Centre	Coimbatore / Tamil Nadu	Apartment / 1 BHK	451	₹12,200/month	Semi-Furnished	2	Family	Rent
+30	Tamil Nadu Properties (Tamil_Nadu.txt)	4 BHK Independent House	Madurai Residential Area	Madurai / Tamil Nadu	Independent House / 4 BHK	2310	₹1.06 Cr	Semi-Furnished	4	Bachelors	Sale
+31	Tamil Nadu Properties (Tamil_Nadu.txt)	4 BHK Apartment	Coimbatore West	Coimbatore / Tamil Nadu	Apartment / 4 BHK	1954	₹1.13 Cr	Semi-Furnished	4	Bachelors	Sale
+32	Tamil Nadu Properties (Tamil_Nadu.txt)	3 BHK Independent House	Coimbatore Sector 1	Coimbatore / Tamil Nadu	Independent House / 3 BHK	1412	₹91.29 L	Semi-Furnished	3	Family	Sale
+33	Tamil Nadu Properties (Tamil_Nadu.txt)	4 BHK Apartment	Salem Sector 3	Salem / Tamil Nadu	Apartment / 4 BHK	1612	₹1.29 Cr	Unfurnished	5	Bachelors	Sale
+34	Tamil Nadu Properties (Tamil_Nadu.txt)	3 BHK Apartment	Madurai Heights	Madurai / Tamil Nadu	Apartment / 3 BHK	1303	₹19,800/month	Semi-Furnished	3	Any	Rent
+35	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Builder Floor	Salem Residential Area	Salem / Tamil Nadu	Builder Floor / 2 BHK	899	₹61.82 L	Semi-Furnished	2	Any	Sale
+36	Tamil Nadu Properties (Tamil_Nadu.txt)	3 BHK Apartment	Madurai Nagar	Madurai / Tamil Nadu	Apartment / 3 BHK	1333	₹87.24 L	Unfurnished	2	Family	Sale
+37	Tamil Nadu Properties (Tamil_Nadu.txt)	4 BHK Builder Floor	Tiruchirappalli Extension	Tiruchirappalli / Tamil Nadu	Builder Floor / 4 BHK	1580	₹1.07 Cr	Semi-Furnished	4	Any	Sale
+38	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Builder Floor	Tiruchirappalli Heights	Tiruchirappalli / Tamil Nadu	Builder Floor / 2 BHK	899	₹59.03 L	Semi-Furnished	2	Any	Sale
+39	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Builder Floor	Tiruchirappalli Sector 2	Tiruchirappalli / Tamil Nadu	Builder Floor / 2 BHK	813	₹56.27 L	Semi-Furnished	1	Family	Sale
+40	Tamil Nadu Properties (Tamil_Nadu.txt)	3 BHK Apartment	Salem South	Salem / Tamil Nadu	Apartment / 3 BHK	879	₹89.81 L	Unfurnished	3	Family	Sale
+41	Tamil Nadu Properties (Tamil_Nadu.txt)	1 BHK Apartment	Chennai Sector 2	Chennai / Tamil Nadu	Apartment / 1 BHK	429	₹41.45 L	Semi-Furnished	2	Family	Sale
+42	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Apartment	Tiruchirappalli Sector 2	Tiruchirappalli / Tamil Nadu	Apartment / 2 BHK	850	₹75.57 L	Unfurnished	3	Any	Sale
+43	Tamil Nadu Properties (Tamil_Nadu.txt)	3 BHK Apartment	Madurai Town Centre	Madurai / Tamil Nadu	Apartment / 3 BHK	1312	₹72.19 L	Semi-Furnished	3	Family	Sale
+44	Tamil Nadu Properties (Tamil_Nadu.txt)	1 BHK Builder Floor	Coimbatore South	Coimbatore / Tamil Nadu	Builder Floor / 1 BHK	479	₹12,200/month	Semi-Furnished	1	Any	Rent
+45	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Independent House	Chennai North	Chennai / Tamil Nadu	Independent House / 2 BHK	1226	₹16,800/month	Unfurnished	2	Family	Rent
+46	Tamil Nadu Properties (Tamil_Nadu.txt)	5 BHK Independent House	Salem Main Road	Salem / Tamil Nadu	Independent House / 5 BHK	3218	₹1.40 Cr	Unfurnished	5	Family	Sale
+47	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Independent House	Chennai North	Chennai / Tamil Nadu	Independent House / 2 BHK	783	₹16,800/month	Semi-Furnished	2	Bachelors	Rent
+48	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Builder Floor	Tiruchirappalli South	Tiruchirappalli / Tamil Nadu	Builder Floor / 2 BHK	1068	₹60.43 L	Semi-Furnished	1	Family	Sale
+49	Tamil Nadu Properties (Tamil_Nadu.txt)	1 BHK Studio	Chennai Colony	Chennai / Tamil Nadu	Studio / 1 BHK	407	₹32.13 L	Semi-Furnished	1	Family	Sale
+50	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Apartment	Madurai Extension	Madurai / Tamil Nadu	Apartment / 2 BHK	909	₹54.15 L	Unfurnished	2	Any	Sale
+51	Tamil Nadu Properties (Tamil_Nadu.txt)	3 BHK Apartment	Salem West	Salem / Tamil Nadu	Apartment / 3 BHK	1011	₹80.99 L	Semi-Furnished	2	Any	Sale
+52	Tamil Nadu Properties (Tamil_Nadu.txt)	3 BHK Apartment	Madurai Town Centre	Madurai / Tamil Nadu	Apartment / 3 BHK	1367	₹77.14 L	Fully-Furnished	4	Bachelors	Sale
+53	Tamil Nadu Properties (Tamil_Nadu.txt)	3 BHK Independent House	Chennai Residential Area	Chennai / Tamil Nadu	Independent House / 3 BHK	1439	₹21,500/month	Fully-Furnished	2	Bachelors	Rent
+54	Tamil Nadu Properties (Tamil_Nadu.txt)	1 BHK Studio	Coimbatore Sector 1	Coimbatore / Tamil Nadu	Studio / 1 BHK	306	₹12,300/month	Fully-Furnished	2	Family	Rent
+55	Tamil Nadu Properties (Tamil_Nadu.txt)	3 BHK Apartment	Salem South	Salem / Tamil Nadu	Apartment / 3 BHK	1233	₹27,300/month	Semi-Furnished	2	Family	Rent
+56	Tamil Nadu Properties (Tamil_Nadu.txt)	1 BHK Studio	Salem Residential Area	Salem / Tamil Nadu	Studio / 1 BHK	323	₹31.69 L	Semi-Furnished	1	Any	Sale
+57	Tamil Nadu Properties (Tamil_Nadu.txt)	3 BHK Apartment	Madurai North	Madurai / Tamil Nadu	Apartment / 3 BHK	1308	₹99.41 L	Semi-Furnished	3	Any	Sale
+58	Tamil Nadu Properties (Tamil_Nadu.txt)	1 BHK Apartment	Chennai West	Chennai / Tamil Nadu	Apartment / 1 BHK	546	₹43.82 L	Semi-Furnished	1	Family	Sale
+59	Tamil Nadu Properties (Tamil_Nadu.txt)	3 BHK Independent House	Salem Colony	Salem / Tamil Nadu	Independent House / 3 BHK	1296	₹88.23 L	Fully-Furnished	3	Any	Sale
+60	Tamil Nadu Properties (Tamil_Nadu.txt)	3 BHK Builder Floor	Salem Central	Salem / Tamil Nadu	Builder Floor / 3 BHK	1126	₹25,500/month	Semi-Furnished	3	Family	Rent
+61	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Apartment	Tiruchirappalli Extension	Tiruchirappalli / Tamil Nadu	Apartment / 2 BHK	985	₹62.59 L	Fully-Furnished	3	Bachelors	Sale
+62	Tamil Nadu Properties (Tamil_Nadu.txt)	3 BHK Villa	Madurai Sector 3	Madurai / Tamil Nadu	Villa / 3 BHK	1879	₹86.10 L	Fully-Furnished	3	Bachelors	Sale
+63	Tamil Nadu Properties (Tamil_Nadu.txt)	1 BHK Independent House	Salem Sector 1	Salem / Tamil Nadu	Independent House / 1 BHK	510	₹10,400/month	Fully-Furnished	1	Any	Rent
+64	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Apartment	Madurai Main Road	Madurai / Tamil Nadu	Apartment / 2 BHK	1144	₹59.11 L	Fully-Furnished	2	Bachelors	Sale
+65	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Villa	Salem Colony	Salem / Tamil Nadu	Villa / 2 BHK	945	₹19,000/month	Unfurnished	2	Bachelors	Rent
+66	Tamil Nadu Properties (Tamil_Nadu.txt)	3 BHK Independent House	Madurai Nagar	Madurai / Tamil Nadu	Independent House / 3 BHK	1386	₹24,000/month	Semi-Furnished	3	Family	Rent
+67	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Apartment	Chennai Town Centre	Chennai / Tamil Nadu	Apartment / 2 BHK	864	₹14,400/month	Semi-Furnished	2	Family	Rent
+68	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Builder Floor	Coimbatore Sector 2	Coimbatore / Tamil Nadu	Builder Floor / 2 BHK	738	₹17,000/month	Unfurnished	1	Family	Rent
+69	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Villa	Salem Sector 1	Salem / Tamil Nadu	Villa / 2 BHK	1226	₹60.75 L	Fully-Furnished	3	Family	Sale
+70	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Builder Floor	Tiruchirappalli Heights	Tiruchirappalli / Tamil Nadu	Builder Floor / 2 BHK	796	₹14,900/month	Unfurnished	2	Bachelors	Rent
+71	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Apartment	Coimbatore Residential Area	Coimbatore / Tamil Nadu	Apartment / 2 BHK	910	₹76.42 L	Unfurnished	3	Family	Sale
+72	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Apartment	Madurai West	Madurai / Tamil Nadu	Apartment / 2 BHK	1109	₹20,900/month	Unfurnished	3	Family	Rent
+73	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Villa	Coimbatore Nagar	Coimbatore / Tamil Nadu	Villa / 2 BHK	953	₹19,100/month	Unfurnished	1	Bachelors	Rent
+74	Tamil Nadu Properties (Tamil_Nadu.txt)	1 BHK Studio	Salem Central	Salem / Tamil Nadu	Studio / 1 BHK	360	₹10,000/month	Unfurnished	1	Any	Rent
+75	Tamil Nadu Properties (Tamil_Nadu.txt)	4 BHK Builder Floor	Tiruchirappalli Town Centre	Tiruchirappalli / Tamil Nadu	Builder Floor / 4 BHK	1334	₹23,900/month	Unfurnished	5	Family	Rent
+76	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Builder Floor	Tiruchirappalli Sector 1	Tiruchirappalli / Tamil Nadu	Builder Floor / 2 BHK	1002	₹21,200/month	Semi-Furnished	2	Family	Rent
+77	Tamil Nadu Properties (Tamil_Nadu.txt)	4 BHK Independent House	Salem Central	Salem / Tamil Nadu	Independent House / 4 BHK	2410	₹32,100/month	Semi-Furnished	4	Family	Rent
+78	Tamil Nadu Properties (Tamil_Nadu.txt)	4 BHK Builder Floor	Tiruchirappalli West	Tiruchirappalli / Tamil Nadu	Builder Floor / 4 BHK	1371	₹1.23 Cr	Unfurnished	4	Bachelors	Sale
+79	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Apartment	Salem Extension	Salem / Tamil Nadu	Apartment / 2 BHK	936	₹16,600/month	Semi-Furnished	2	Any	Rent
+80	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Builder Floor	Tiruchirappalli Residential Area	Tiruchirappalli / Tamil Nadu	Builder Floor / 2 BHK	716	₹49.44 L	Fully-Furnished	3	Bachelors	Sale
+81	Tamil Nadu Properties (Tamil_Nadu.txt)	3 BHK Apartment	Salem Colony	Salem / Tamil Nadu	Apartment / 3 BHK	1019	₹25,600/month	Fully-Furnished	3	Any	Rent
+82	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Apartment	Coimbatore Nagar	Coimbatore / Tamil Nadu	Apartment / 2 BHK	995	₹19,800/month	Fully-Furnished	1	Any	Rent
+83	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Apartment	Chennai Sector 1	Chennai / Tamil Nadu	Apartment / 2 BHK	897	₹16,200/month	Semi-Furnished	1	Any	Rent
+84	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Villa	Chennai Sector 1	Chennai / Tamil Nadu	Villa / 2 BHK	1177	₹70.32 L	Semi-Furnished	2	Any	Sale
+85	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Apartment	Chennai Sector 3	Chennai / Tamil Nadu	Apartment / 2 BHK	791	₹62.14 L	Fully-Furnished	2	Any	Sale
+86	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Apartment	Salem Nagar	Salem / Tamil Nadu	Apartment / 2 BHK	852	₹67.05 L	Semi-Furnished	1	Bachelors	Sale
+87	Tamil Nadu Properties (Tamil_Nadu.txt)	3 BHK Independent House	Tiruchirappalli North	Tiruchirappalli / Tamil Nadu	Independent House / 3 BHK	1478	₹20,900/month	Unfurnished	2	Family	Rent
+88	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Independent House	Tiruchirappalli Sector 3	Tiruchirappalli / Tamil Nadu	Independent House / 2 BHK	1030	₹78.05 L	Semi-Furnished	3	Any	Sale
+89	Tamil Nadu Properties (Tamil_Nadu.txt)	3 BHK Builder Floor	Chennai Colony	Chennai / Tamil Nadu	Builder Floor / 3 BHK	1146	₹99.97 L	Semi-Furnished	2	Family	Sale
+90	Tamil Nadu Properties (Tamil_Nadu.txt)	3 BHK Builder Floor	Tiruchirappalli Nagar	Tiruchirappalli / Tamil Nadu	Builder Floor / 3 BHK	1516	₹90.95 L	Unfurnished	2	Family	Sale
+91	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Builder Floor	Tiruchirappalli South	Tiruchirappalli / Tamil Nadu	Builder Floor / 2 BHK	898	₹52.48 L	Unfurnished	2	Any	Sale
+92	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Apartment	Coimbatore Colony	Coimbatore / Tamil Nadu	Apartment / 2 BHK	850	₹56.51 L	Semi-Furnished	2	Any	Sale
+93	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Apartment	Chennai Sector 3	Chennai / Tamil Nadu	Apartment / 2 BHK	800	₹74.31 L	Fully-Furnished	2	Family	Sale
+94	Tamil Nadu Properties (Tamil_Nadu.txt)	3 BHK Apartment	Madurai Main Road	Madurai / Tamil Nadu	Apartment / 3 BHK	1121	₹26,600/month	Fully-Furnished	4	Any	Rent
+95	Tamil Nadu Properties (Tamil_Nadu.txt)	1 BHK Studio	Salem Town Centre	Salem / Tamil Nadu	Studio / 1 BHK	402	₹13,000/month	Semi-Furnished	2	Family	Rent
+96	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Villa	Tiruchirappalli Main Road	Tiruchirappalli / Tamil Nadu	Villa / 2 BHK	1047	₹66 L	Fully-Furnished	2	Bachelors	Sale
+97	Tamil Nadu Properties (Tamil_Nadu.txt)	3 BHK Apartment	Chennai North	Chennai / Tamil Nadu	Apartment / 3 BHK	1212	₹76.10 L	Semi-Furnished	2	Bachelors	Sale
+98	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Builder Floor	Madurai Sector 3	Madurai / Tamil Nadu	Builder Floor / 2 BHK	694	₹18,400/month	Fully-Furnished	1	Bachelors	Rent
+99	Tamil Nadu Properties (Tamil_Nadu.txt)	4 BHK Builder Floor	Madurai South	Madurai / Tamil Nadu	Builder Floor / 4 BHK	1516	₹25,300/month	Unfurnished	3	Bachelors	Rent
+100	Tamil Nadu Properties (Tamil_Nadu.txt)	3 BHK Apartment	Chennai Residential Area	Chennai / Tamil Nadu	Apartment / 3 BHK	1178	₹22,600/month	Semi-Furnished	3	Bachelors	Rent
+101	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Independent House	Madurai South	Madurai / Tamil Nadu	Independent House / 2 BHK	1140	₹19,500/month	Unfurnished	1	Family	Rent
+102	Tamil Nadu Properties (Tamil_Nadu.txt)	3 BHK Apartment	Coimbatore East	Coimbatore / Tamil Nadu	Apartment / 3 BHK	1052	₹21,200/month	Fully-Furnished	3	Any	Rent
+103	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Apartment	Coimbatore North	Coimbatore / Tamil Nadu	Apartment / 2 BHK	789	₹71.68 L	Unfurnished	2	Bachelors	Sale
+104	Tamil Nadu Properties (Tamil_Nadu.txt)	1 BHK Apartment	Coimbatore Residential Area	Coimbatore / Tamil Nadu	Apartment / 1 BHK	508	₹13,000/month	Semi-Furnished	1	Family	Rent
+105	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Builder Floor	Tiruchirappalli South	Tiruchirappalli / Tamil Nadu	Builder Floor / 2 BHK	815	₹74.83 L	Fully-Furnished	2	Bachelors	Sale
+106	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Apartment	Salem Heights	Salem / Tamil Nadu	Apartment / 2 BHK	924	₹59.60 L	Semi-Furnished	3	Bachelors	Sale
+107	Tamil Nadu Properties (Tamil_Nadu.txt)	3 BHK Apartment	Madurai South	Madurai / Tamil Nadu	Apartment / 3 BHK	1402	₹88.29 L	Unfurnished	2	Family	Sale
+108	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Apartment	Tiruchirappalli Colony	Tiruchirappalli / Tamil Nadu	Apartment / 2 BHK	714	₹56.46 L	Semi-Furnished	2	Family	Sale
+109	Tamil Nadu Properties (Tamil_Nadu.txt)	3 BHK Apartment	Tiruchirappalli South	Tiruchirappalli / Tamil Nadu	Apartment / 3 BHK	1289	₹24,200/month	Semi-Furnished	3	Family	Rent
+110	Tamil Nadu Properties (Tamil_Nadu.txt)	1 BHK Apartment	Salem Colony	Salem / Tamil Nadu	Apartment / 1 BHK	502	₹42 L	Semi-Furnished	1	Family	Sale
+111	Tamil Nadu Properties (Tamil_Nadu.txt)	3 BHK Apartment	Chennai East	Chennai / Tamil Nadu	Apartment / 3 BHK	1352	₹26,200/month	Unfurnished	4	Any	Rent
+112	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Apartment	Coimbatore South	Coimbatore / Tamil Nadu	Apartment / 2 BHK	688	₹19,600/month	Fully-Furnished	2	Family	Rent
+113	Tamil Nadu Properties (Tamil_Nadu.txt)	4 BHK Independent House	Chennai East	Chennai / Tamil Nadu	Independent House / 4 BHK	2311	₹1.07 Cr	Semi-Furnished	4	Family	Sale
+114	Tamil Nadu Properties (Tamil_Nadu.txt)	4 BHK Apartment	Madurai Central	Madurai / Tamil Nadu	Apartment / 4 BHK	1995	₹1.11 Cr	Fully-Furnished	3	Bachelors	Sale
+115	Tamil Nadu Properties (Tamil_Nadu.txt)	3 BHK Independent House	Coimbatore Sector 2	Coimbatore / Tamil Nadu	Independent House / 3 BHK	1898	₹28,200/month	Fully-Furnished	4	Family	Rent
+116	Tamil Nadu Properties (Tamil_Nadu.txt)	3 BHK Builder Floor	Coimbatore Sector 1	Coimbatore / Tamil Nadu	Builder Floor / 3 BHK	1333	₹1.02 Cr	Semi-Furnished	3	Any	Sale
+117	Tamil Nadu Properties (Tamil_Nadu.txt)	1 BHK Apartment	Madurai Residential Area	Madurai / Tamil Nadu	Apartment / 1 BHK	554	₹43.82 L	Unfurnished	1	Family	Sale
+118	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Apartment	Chennai West	Chennai / Tamil Nadu	Apartment / 2 BHK	808	₹68.16 L	Semi-Furnished	1	Family	Sale
+119	Tamil Nadu Properties (Tamil_Nadu.txt)	5 BHK Apartment	Chennai West	Chennai / Tamil Nadu	Apartment / 5 BHK	2918	₹1.25 Cr	Unfurnished	6	Bachelors	Sale
+120	Tamil Nadu Properties (Tamil_Nadu.txt)	3 BHK Apartment	Madurai Nagar	Madurai / Tamil Nadu	Apartment / 3 BHK	1135	₹23,200/month	Unfurnished	3	Family	Rent
+121	Tamil Nadu Properties (Tamil_Nadu.txt)	3 BHK Apartment	Salem Colony	Salem / Tamil Nadu	Apartment / 3 BHK	1257	₹82.11 L	Unfurnished	3	Bachelors	Sale
+122	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Apartment	Madurai South	Madurai / Tamil Nadu	Apartment / 2 BHK	667	₹64.37 L	Fully-Furnished	2	Family	Sale
+123	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Apartment	Tiruchirappalli Main Road	Tiruchirappalli / Tamil Nadu	Apartment / 2 BHK	974	₹72.74 L	Unfurnished	1	Bachelors	Sale
+124	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Apartment	Chennai Nagar	Chennai / Tamil Nadu	Apartment / 2 BHK	900	₹60.56 L	Semi-Furnished	1	Family	Sale
+125	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Apartment	Madurai Sector 2	Madurai / Tamil Nadu	Apartment / 2 BHK	780	₹15,900/month	Unfurnished	3	Family	Rent
+126	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Apartment	Coimbatore Heights	Coimbatore / Tamil Nadu	Apartment / 2 BHK	681	₹14,900/month	Semi-Furnished	2	Family	Rent
+127	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Builder Floor	Madurai Town Centre	Madurai / Tamil Nadu	Builder Floor / 2 BHK	1072	₹22,100/month	Semi-Furnished	3	Bachelors	Rent
+128	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Apartment	Madurai Extension	Madurai / Tamil Nadu	Apartment / 2 BHK	1096	₹74.68 L	Fully-Furnished	1	Family	Sale
+129	Tamil Nadu Properties (Tamil_Nadu.txt)	3 BHK Apartment	Tiruchirappalli Central	Tiruchirappalli / Tamil Nadu	Apartment / 3 BHK	1402	₹28,400/month	Fully-Furnished	3	Family	Rent
+130	Tamil Nadu Properties (Tamil_Nadu.txt)	4 BHK Builder Floor	Madurai East	Madurai / Tamil Nadu	Builder Floor / 4 BHK	1574	₹30,500/month	Unfurnished	3	Any	Rent
+131	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Builder Floor	Salem Sector 3	Salem / Tamil Nadu	Builder Floor / 2 BHK	1093	₹22,300/month	Unfurnished	2	Any	Rent
+132	Tamil Nadu Properties (Tamil_Nadu.txt)	5 BHK Apartment	Salem Main Road	Salem / Tamil Nadu	Apartment / 5 BHK	3134	₹46,200/month	Semi-Furnished	5	Any	Rent
+133	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Apartment	Chennai Central	Chennai / Tamil Nadu	Apartment / 2 BHK	663	₹66.12 L	Unfurnished	2	Family	Sale
+134	Tamil Nadu Properties (Tamil_Nadu.txt)	3 BHK Apartment	Madurai Central	Madurai / Tamil Nadu	Apartment / 3 BHK	1152	₹81.38 L	Unfurnished	4	Bachelors	Sale
+135	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Apartment	Tiruchirappalli Colony	Tiruchirappalli / Tamil Nadu	Apartment / 2 BHK	610	₹65.92 L	Semi-Furnished	2	Any	Sale
+136	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Apartment	Madurai West	Madurai / Tamil Nadu	Apartment / 2 BHK	657	₹17,800/month	Fully-Furnished	2	Family	Rent
+137	Tamil Nadu Properties (Tamil_Nadu.txt)	3 BHK Apartment	Chennai Town Centre	Chennai / Tamil Nadu	Apartment / 3 BHK	1302	₹71.92 L	Fully-Furnished	3	Bachelors	Sale
+138	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Villa	Salem Town Centre	Salem / Tamil Nadu	Villa / 2 BHK	1103	₹71.64 L	Fully-Furnished	2	Family	Sale
+139	Tamil Nadu Properties (Tamil_Nadu.txt)	1 BHK Apartment	Madurai Residential Area	Madurai / Tamil Nadu	Apartment / 1 BHK	528	₹48.22 L	Fully-Furnished	1	Family	Sale
+140	Tamil Nadu Properties (Tamil_Nadu.txt)	1 BHK Villa	Salem Sector 3	Salem / Tamil Nadu	Villa / 1 BHK	826	₹46.31 L	Semi-Furnished	1	Bachelors	Sale
+141	Tamil Nadu Properties (Tamil_Nadu.txt)	4 BHK Apartment	Coimbatore Residential Area	Coimbatore / Tamil Nadu	Apartment / 4 BHK	1791	₹29,300/month	Fully-Furnished	4	Family	Rent
+142	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Apartment	Tiruchirappalli Residential Area	Tiruchirappalli / Tamil Nadu	Apartment / 2 BHK	860	₹16,800/month	Semi-Furnished	1	Family	Rent
+143	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Apartment	Coimbatore Sector 3	Coimbatore / Tamil Nadu	Apartment / 2 BHK	820	₹72.30 L	Semi-Furnished	1	Family	Sale
+144	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Apartment	Tiruchirappalli Main Road	Tiruchirappalli / Tamil Nadu	Apartment / 2 BHK	885	₹63.67 L	Semi-Furnished	2	Any	Sale
+145	Tamil Nadu Properties (Tamil_Nadu.txt)	3 BHK Builder Floor	Chennai North	Chennai / Tamil Nadu	Builder Floor / 3 BHK	1369	₹86.92 L	Semi-Furnished	3	Family	Sale
+146	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Apartment	Tiruchirappalli Heights	Tiruchirappalli / Tamil Nadu	Apartment / 2 BHK	1025	₹62.07 L	Unfurnished	2	Any	Sale
+147	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Apartment	Salem Sector 1	Salem / Tamil Nadu	Apartment / 2 BHK	801	₹51.64 L	Semi-Furnished	3	Any	Sale
+148	Tamil Nadu Properties (Tamil_Nadu.txt)	4 BHK Apartment	Salem Nagar	Salem / Tamil Nadu	Apartment / 4 BHK	2037	₹37,000/month	Semi-Furnished	5	Family	Rent
+149	Tamil Nadu Properties (Tamil_Nadu.txt)	5 BHK Builder Floor	Chennai South	Chennai / Tamil Nadu	Builder Floor / 5 BHK	1994	₹31,500/month	Semi-Furnished	5	Bachelors	Rent
+150	Tamil Nadu Properties (Tamil_Nadu.txt)	1 BHK Builder Floor	Coimbatore Sector 1	Coimbatore / Tamil Nadu	Builder Floor / 1 BHK	544	₹48.10 L	Semi-Furnished	2	Any	Sale
+151	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Apartment	Salem Main Road	Salem / Tamil Nadu	Apartment / 2 BHK	845	₹55.69 L	Unfurnished	2	Bachelors	Sale
+152	Tamil Nadu Properties (Tamil_Nadu.txt)	1 BHK Builder Floor	Madurai Colony	Madurai / Tamil Nadu	Builder Floor / 1 BHK	616	₹49.03 L	Semi-Furnished	1	Family	Sale
+153	Tamil Nadu Properties (Tamil_Nadu.txt)	3 BHK Apartment	Chennai Nagar	Chennai / Tamil Nadu	Apartment / 3 BHK	1084	₹21,400/month	Semi-Furnished	3	Bachelors	Rent
+154	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Apartment	Coimbatore Nagar	Coimbatore / Tamil Nadu	Apartment / 2 BHK	898	₹53.99 L	Semi-Furnished	3	Bachelors	Sale
+155	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Builder Floor	Tiruchirappalli Sector 1	Tiruchirappalli / Tamil Nadu	Builder Floor / 2 BHK	660	₹67.73 L	Unfurnished	2	Family	Sale
+156	Tamil Nadu Properties (Tamil_Nadu.txt)	3 BHK Apartment	Madurai West	Madurai / Tamil Nadu	Apartment / 3 BHK	1204	₹27,400/month	Unfurnished	2	Bachelors	Rent
+157	Tamil Nadu Properties (Tamil_Nadu.txt)	1 BHK Independent House	Coimbatore Sector 2	Coimbatore / Tamil Nadu	Independent House / 1 BHK	661	₹10,800/month	Fully-Furnished	1	Family	Rent
+158	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Apartment	Tiruchirappalli Sector 2	Tiruchirappalli / Tamil Nadu	Apartment / 2 BHK	798	₹64.73 L	Fully-Furnished	3	Any	Sale
+159	Tamil Nadu Properties (Tamil_Nadu.txt)	5 BHK Apartment	Tiruchirappalli Colony	Tiruchirappalli / Tamil Nadu	Apartment / 5 BHK	2039	₹34,000/month	Unfurnished	5	Family	Rent
+160	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Independent House	Chennai Extension	Chennai / Tamil Nadu	Independent House / 2 BHK	1001	₹18,800/month	Fully-Furnished	3	Bachelors	Rent
+161	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Apartment	Madurai Town Centre	Madurai / Tamil Nadu	Apartment / 2 BHK	862	₹64.17 L	Semi-Furnished	1	Any	Sale
+162	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Builder Floor	Chennai Central	Chennai / Tamil Nadu	Builder Floor / 2 BHK	954	₹15,600/month	Fully-Furnished	3	Any	Rent
+163	Tamil Nadu Properties (Tamil_Nadu.txt)	4 BHK Independent House	Salem South	Salem / Tamil Nadu	Independent House / 4 BHK	2305	₹1.41 Cr	Fully-Furnished	4	Bachelors	Sale
+164	Tamil Nadu Properties (Tamil_Nadu.txt)	1 BHK Apartment	Chennai East	Chennai / Tamil Nadu	Apartment / 1 BHK	414	₹41.09 L	Fully-Furnished	1	Bachelors	Sale
+165	Tamil Nadu Properties (Tamil_Nadu.txt)	5 BHK Builder Floor	Chennai Sector 1	Chennai / Tamil Nadu	Builder Floor / 5 BHK	2742	₹45,500/month	Semi-Furnished	4	Family	Rent
+166	Tamil Nadu Properties (Tamil_Nadu.txt)	3 BHK Independent House	Madurai Main Road	Madurai / Tamil Nadu	Independent House / 3 BHK	1578	₹29,100/month	Unfurnished	4	Family	Rent
+167	Tamil Nadu Properties (Tamil_Nadu.txt)	4 BHK Apartment	Salem Sector 1	Salem / Tamil Nadu	Apartment / 4 BHK	1725	₹91.99 L	Semi-Furnished	4	Bachelors	Sale
+168	Tamil Nadu Properties (Tamil_Nadu.txt)	4 BHK Independent House	Chennai Main Road	Chennai / Tamil Nadu	Independent House / 4 BHK	1751	₹33,300/month	Semi-Furnished	5	Any	Rent
+169	Tamil Nadu Properties (Tamil_Nadu.txt)	1 BHK Apartment	Chennai Central	Chennai / Tamil Nadu	Apartment / 1 BHK	547	₹11,600/month	Fully-Furnished	1	Family	Rent
+170	Tamil Nadu Properties (Tamil_Nadu.txt)	4 BHK Builder Floor	Salem Sector 3	Salem / Tamil Nadu	Builder Floor / 4 BHK	1499	₹34,000/month	Semi-Furnished	4	Any	Rent
+171	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Villa	Chennai South	Chennai / Tamil Nadu	Villa / 2 BHK	1159	₹70.01 L	Semi-Furnished	1	Any	Sale
+172	Tamil Nadu Properties (Tamil_Nadu.txt)	3 BHK Apartment	Tiruchirappalli Heights	Tiruchirappalli / Tamil Nadu	Apartment / 3 BHK	1348	₹95.24 L	Unfurnished	2	Any	Sale
+173	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Apartment	Coimbatore West	Coimbatore / Tamil Nadu	Apartment / 2 BHK	979	₹56.73 L	Fully-Furnished	3	Any	Sale
+174	Tamil Nadu Properties (Tamil_Nadu.txt)	1 BHK Apartment	Coimbatore Town Centre	Coimbatore / Tamil Nadu	Apartment / 1 BHK	572	₹12,400/month	Fully-Furnished	1	Any	Rent
+175	Tamil Nadu Properties (Tamil_Nadu.txt)	1 BHK Independent House	Chennai South	Chennai / Tamil Nadu	Independent House / 1 BHK	615	₹13,700/month	Unfurnished	1	Family	Rent
+176	Tamil Nadu Properties (Tamil_Nadu.txt)	1 BHK Independent House	Tiruchirappalli Colony	Tiruchirappalli / Tamil Nadu	Independent House / 1 BHK	557	₹48.91 L	Semi-Furnished	2	Any	Sale
+177	Tamil Nadu Properties (Tamil_Nadu.txt)	4 BHK Villa	Coimbatore East	Coimbatore / Tamil Nadu	Villa / 4 BHK	1970	₹1.05 Cr	Semi-Furnished	4	Family	Sale
+178	Tamil Nadu Properties (Tamil_Nadu.txt)	1 BHK Studio	Tiruchirappalli Central	Tiruchirappalli / Tamil Nadu	Studio / 1 BHK	372	₹43.64 L	Semi-Furnished	2	Family	Sale
+179	Tamil Nadu Properties (Tamil_Nadu.txt)	3 BHK Apartment	Coimbatore Main Road	Coimbatore / Tamil Nadu	Apartment / 3 BHK	1081	₹21,400/month	Unfurnished	3	Family	Rent
+180	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Apartment	Coimbatore Heights	Coimbatore / Tamil Nadu	Apartment / 2 BHK	980	₹57.22 L	Unfurnished	2	Any	Sale
+181	Tamil Nadu Properties (Tamil_Nadu.txt)	4 BHK Apartment	Chennai Sector 2	Chennai / Tamil Nadu	Apartment / 4 BHK	2163	₹35,300/month	Semi-Furnished	4	Family	Rent
+182	Tamil Nadu Properties (Tamil_Nadu.txt)	3 BHK Apartment	Salem Nagar	Salem / Tamil Nadu	Apartment / 3 BHK	1406	₹23,900/month	Fully-Furnished	3	Any	Rent
+183	Tamil Nadu Properties (Tamil_Nadu.txt)	3 BHK Independent House	Salem North	Salem / Tamil Nadu	Independent House / 3 BHK	1758	₹90.43 L	Unfurnished	2	Bachelors	Sale
+184	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Apartment	Tiruchirappalli South	Tiruchirappalli / Tamil Nadu	Apartment / 2 BHK	926	₹67.46 L	Semi-Furnished	1	Any	Sale
+185	Tamil Nadu Properties (Tamil_Nadu.txt)	4 BHK Apartment	Chennai Sector 3	Chennai / Tamil Nadu	Apartment / 4 BHK	1815	₹1.22 Cr	Fully-Furnished	5	Family	Sale
+186	Tamil Nadu Properties (Tamil_Nadu.txt)	3 BHK Builder Floor	Tiruchirappalli Heights	Tiruchirappalli / Tamil Nadu	Builder Floor / 3 BHK	1215	₹83.71 L	Semi-Furnished	4	Bachelors	Sale
+187	Tamil Nadu Properties (Tamil_Nadu.txt)	3 BHK Apartment	Salem South	Salem / Tamil Nadu	Apartment / 3 BHK	1407	₹1.02 Cr	Semi-Furnished	3	Bachelors	Sale
+188	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Apartment	Chennai Central	Chennai / Tamil Nadu	Apartment / 2 BHK	822	₹18,700/month	Unfurnished	2	Family	Rent
+189	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Apartment	Salem South	Salem / Tamil Nadu	Apartment / 2 BHK	836	₹54.09 L	Fully-Furnished	2	Any	Sale
+190	Tamil Nadu Properties (Tamil_Nadu.txt)	5 BHK Apartment	Coimbatore Nagar	Coimbatore / Tamil Nadu	Apartment / 5 BHK	1931	₹1.39 Cr	Fully-Furnished	6	Any	Sale
+191	Tamil Nadu Properties (Tamil_Nadu.txt)	4 BHK Apartment	Salem Sector 2	Salem / Tamil Nadu	Apartment / 4 BHK	1810	₹1.04 Cr	Semi-Furnished	4	Bachelors	Sale
+192	Tamil Nadu Properties (Tamil_Nadu.txt)	1 BHK Apartment	Salem Sector 3	Salem / Tamil Nadu	Apartment / 1 BHK	637	₹45.79 L	Semi-Furnished	1	Any	Sale
+193	Tamil Nadu Properties (Tamil_Nadu.txt)	1 BHK Apartment	Chennai Sector 1	Chennai / Tamil Nadu	Apartment / 1 BHK	705	₹12,700/month	Fully-Furnished	1	Bachelors	Rent
+194	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Apartment	Madurai North	Madurai / Tamil Nadu	Apartment / 2 BHK	927	₹59.77 L	Fully-Furnished	1	Any	Sale
+195	Tamil Nadu Properties (Tamil_Nadu.txt)	3 BHK Independent House	Tiruchirappalli Main Road	Tiruchirappalli / Tamil Nadu	Independent House / 3 BHK	1257	₹26,900/month	Semi-Furnished	4	Bachelors	Rent
+196	Tamil Nadu Properties (Tamil_Nadu.txt)	3 BHK Apartment	Chennai Central	Chennai / Tamil Nadu	Apartment / 3 BHK	1466	₹1.08 Cr	Unfurnished	3	Bachelors	Sale
+197	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Apartment	Tiruchirappalli North	Tiruchirappalli / Tamil Nadu	Apartment / 2 BHK	881	₹58.07 L	Fully-Furnished	2	Family	Sale
+198	Tamil Nadu Properties (Tamil_Nadu.txt)	3 BHK Independent House	Tiruchirappalli North	Tiruchirappalli / Tamil Nadu	Independent House / 3 BHK	1256	₹93.90 L	Fully-Furnished	3	Bachelors	Sale
+199	Tamil Nadu Properties (Tamil_Nadu.txt)	3 BHK Apartment	Tiruchirappalli West	Tiruchirappalli / Tamil Nadu	Apartment / 3 BHK	1294	₹83.15 L	Semi-Furnished	3	Any	Sale
+200	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Apartment	Madurai North	Madurai / Tamil Nadu	Apartment / 2 BHK	947	₹68.40 L	Semi-Furnished	2	Any	Sale
+201	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Apartment	Salem North	Salem / Tamil Nadu	Apartment / 2 BHK	863	₹73.04 L	Fully-Furnished	2	Bachelors	Sale
+202	Tamil Nadu Properties (Tamil_Nadu.txt)	1 BHK Independent House	Tiruchirappalli Sector 1	Tiruchirappalli / Tamil Nadu	Independent House / 1 BHK	567	₹48.89 L	Semi-Furnished	1	Any	Sale
+203	Tamil Nadu Properties (Tamil_Nadu.txt)	3 BHK Builder Floor	Tiruchirappalli Central	Tiruchirappalli / Tamil Nadu	Builder Floor / 3 BHK	1288	₹1.01 Cr	Fully-Furnished	3	Any	Sale
+204	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Apartment	Salem Main Road	Salem / Tamil Nadu	Apartment / 2 BHK	897	₹64.98 L	Semi-Furnished	2	Bachelors	Sale
+205	Tamil Nadu Properties (Tamil_Nadu.txt)	3 BHK Apartment	Tiruchirappalli Sector 1	Tiruchirappalli / Tamil Nadu	Apartment / 3 BHK	1439	₹79.99 L	Semi-Furnished	4	Family	Sale
+206	Tamil Nadu Properties (Tamil_Nadu.txt)	4 BHK Independent House	Tiruchirappalli Town Centre	Tiruchirappalli / Tamil Nadu	Independent House / 4 BHK	2028	₹1.29 Cr	Unfurnished	3	Bachelors	Sale
+207	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Builder Floor	Tiruchirappalli Colony	Tiruchirappalli / Tamil Nadu	Builder Floor / 2 BHK	937	₹58.14 L	Fully-Furnished	2	Bachelors	Sale
+208	Tamil Nadu Properties (Tamil_Nadu.txt)	1 BHK Builder Floor	Coimbatore Heights	Coimbatore / Tamil Nadu	Builder Floor / 1 BHK	562	₹34.49 L	Unfurnished	1	Family	Sale
+209	Tamil Nadu Properties (Tamil_Nadu.txt)	4 BHK Villa	Coimbatore Sector 3	Coimbatore / Tamil Nadu	Villa / 4 BHK	2224	₹31,400/month	Fully-Furnished	4	Bachelors	Rent
+210	Tamil Nadu Properties (Tamil_Nadu.txt)	1 BHK Studio	Tiruchirappalli Nagar	Tiruchirappalli / Tamil Nadu	Studio / 1 BHK	473	₹12,000/month	Fully-Furnished	1	Family	Rent
+211	Tamil Nadu Properties (Tamil_Nadu.txt)	3 BHK Builder Floor	Coimbatore Nagar	Coimbatore / Tamil Nadu	Builder Floor / 3 BHK	1385	₹1.05 Cr	Semi-Furnished	4	Family	Sale
+212	Tamil Nadu Properties (Tamil_Nadu.txt)	1 BHK Studio	Madurai Town Centre	Madurai / Tamil Nadu	Studio / 1 BHK	366	₹9,700/month	Unfurnished	1	Family	Rent
+213	Tamil Nadu Properties (Tamil_Nadu.txt)	4 BHK Apartment	Madurai North	Madurai / Tamil Nadu	Apartment / 4 BHK	2109	₹26,200/month	Unfurnished	4	Any	Rent
+214	Tamil Nadu Properties (Tamil_Nadu.txt)	3 BHK Apartment	Salem South	Salem / Tamil Nadu	Apartment / 3 BHK	1574	₹1.09 Cr	Fully-Furnished	3	Bachelors	Sale
+215	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Apartment	Tiruchirappalli Central	Tiruchirappalli / Tamil Nadu	Apartment / 2 BHK	928	₹54.35 L	Semi-Furnished	1	Family	Sale
+216	Tamil Nadu Properties (Tamil_Nadu.txt)	1 BHK Studio	Madurai Heights	Madurai / Tamil Nadu	Studio / 1 BHK	305	₹41.81 L	Semi-Furnished	2	Any	Sale
+217	Tamil Nadu Properties (Tamil_Nadu.txt)	1 BHK Builder Floor	Tiruchirappalli West	Tiruchirappalli / Tamil Nadu	Builder Floor / 1 BHK	545	₹38.18 L	Semi-Furnished	1	Bachelors	Sale
+218	Tamil Nadu Properties (Tamil_Nadu.txt)	3 BHK Apartment	Chennai South	Chennai / Tamil Nadu	Apartment / 3 BHK	1298	₹80.70 L	Semi-Furnished	2	Family	Sale
+219	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Apartment	Salem Sector 2	Salem / Tamil Nadu	Apartment / 2 BHK	980	₹54.38 L	Semi-Furnished	2	Any	Sale
+220	Tamil Nadu Properties (Tamil_Nadu.txt)	1 BHK Builder Floor	Tiruchirappalli Colony	Tiruchirappalli / Tamil Nadu	Builder Floor / 1 BHK	554	₹34.72 L	Semi-Furnished	1	Bachelors	Sale
+221	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Apartment	Salem Colony	Salem / Tamil Nadu	Apartment / 2 BHK	769	₹62.88 L	Semi-Furnished	2	Any	Sale
+222	Tamil Nadu Properties (Tamil_Nadu.txt)	3 BHK Villa	Chennai Heights	Chennai / Tamil Nadu	Villa / 3 BHK	1919	₹1.13 Cr	Semi-Furnished	3	Family	Sale
+223	Tamil Nadu Properties (Tamil_Nadu.txt)	3 BHK Apartment	Tiruchirappalli Sector 3	Tiruchirappalli / Tamil Nadu	Apartment / 3 BHK	1106	₹71.46 L	Fully-Furnished	2	Bachelors	Sale
+224	Tamil Nadu Properties (Tamil_Nadu.txt)	4 BHK Independent House	Salem Central	Salem / Tamil Nadu	Independent House / 4 BHK	2007	₹96.27 L	Fully-Furnished	4	Bachelors	Sale
+225	Tamil Nadu Properties (Tamil_Nadu.txt)	3 BHK Apartment	Chennai Residential Area	Chennai / Tamil Nadu	Apartment / 3 BHK	1188	₹87.20 L	Semi-Furnished	3	Bachelors	Sale
+226	Tamil Nadu Properties (Tamil_Nadu.txt)	3 BHK Apartment	Chennai Nagar	Chennai / Tamil Nadu	Apartment / 3 BHK	1411	₹77.09 L	Semi-Furnished	4	Bachelors	Sale
+227	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Apartment	Coimbatore Heights	Coimbatore / Tamil Nadu	Apartment / 2 BHK	980	₹64.46 L	Semi-Furnished	3	Any	Sale
+228	Tamil Nadu Properties (Tamil_Nadu.txt)	3 BHK Apartment	Chennai East	Chennai / Tamil Nadu	Apartment / 3 BHK	1204	₹97.18 L	Fully-Furnished	2	Any	Sale
+229	Tamil Nadu Properties (Tamil_Nadu.txt)	5 BHK Apartment	Coimbatore North	Coimbatore / Tamil Nadu	Apartment / 5 BHK	1789	₹1.24 Cr	Semi-Furnished	6	Bachelors	Sale
+230	Tamil Nadu Properties (Tamil_Nadu.txt)	4 BHK Independent House	Salem West	Salem / Tamil Nadu	Independent House / 4 BHK	2152	₹1.32 Cr	Semi-Furnished	3	Family	Sale
+231	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Independent House	Tiruchirappalli West	Tiruchirappalli / Tamil Nadu	Independent House / 2 BHK	1231	₹69.18 L	Semi-Furnished	1	Family	Sale
+232	Tamil Nadu Properties (Tamil_Nadu.txt)	3 BHK Apartment	Madurai East	Madurai / Tamil Nadu	Apartment / 3 BHK	1202	₹82.03 L	Fully-Furnished	3	Family	Sale
+233	Tamil Nadu Properties (Tamil_Nadu.txt)	4 BHK Independent House	Salem Sector 2	Salem / Tamil Nadu	Independent House / 4 BHK	2418	₹1.02 Cr	Semi-Furnished	5	Bachelors	Sale
+234	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Apartment	Tiruchirappalli North	Tiruchirappalli / Tamil Nadu	Apartment / 2 BHK	822	₹14,900/month	Semi-Furnished	1	Family	Rent
+235	Tamil Nadu Properties (Tamil_Nadu.txt)	3 BHK Apartment	Chennai Sector 3	Chennai / Tamil Nadu	Apartment / 3 BHK	1520	₹25,800/month	Unfurnished	3	Family	Rent
+236	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Apartment	Coimbatore West	Coimbatore / Tamil Nadu	Apartment / 2 BHK	788	₹71.18 L	Semi-Furnished	3	Bachelors	Sale
+237	Tamil Nadu Properties (Tamil_Nadu.txt)	3 BHK Apartment	Coimbatore West	Coimbatore / Tamil Nadu	Apartment / 3 BHK	923	₹21,800/month	Semi-Furnished	3	Any	Rent
+238	Tamil Nadu Properties (Tamil_Nadu.txt)	3 BHK Apartment	Coimbatore Nagar	Coimbatore / Tamil Nadu	Apartment / 3 BHK	1203	₹1.04 Cr	Fully-Furnished	2	Bachelors	Sale
+239	Tamil Nadu Properties (Tamil_Nadu.txt)	4 BHK Apartment	Tiruchirappalli Sector 2	Tiruchirappalli / Tamil Nadu	Apartment / 4 BHK	2034	₹1.24 Cr	Fully-Furnished	4	Family	Sale
+240	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Apartment	Madurai Sector 1	Madurai / Tamil Nadu	Apartment / 2 BHK	924	₹60.72 L	Semi-Furnished	3	Bachelors	Sale
+241	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Apartment	Tiruchirappalli Residential Area	Tiruchirappalli / Tamil Nadu	Apartment / 2 BHK	883	₹53.83 L	Unfurnished	2	Family	Sale
+242	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Villa	Tiruchirappalli Central	Tiruchirappalli / Tamil Nadu	Villa / 2 BHK	829	₹15,900/month	Semi-Furnished	3	Any	Rent
+243	Tamil Nadu Properties (Tamil_Nadu.txt)	1 BHK Independent House	Tiruchirappalli East	Tiruchirappalli / Tamil Nadu	Independent House / 1 BHK	655	₹34.67 L	Semi-Furnished	1	Family	Sale
+244	Tamil Nadu Properties (Tamil_Nadu.txt)	3 BHK Apartment	Madurai Heights	Madurai / Tamil Nadu	Apartment / 3 BHK	1484	₹74.75 L	Semi-Furnished	3	Family	Sale
+245	Tamil Nadu Properties (Tamil_Nadu.txt)	3 BHK Builder Floor	Madurai Colony	Madurai / Tamil Nadu	Builder Floor / 3 BHK	1287	₹93.68 L	Unfurnished	3	Family	Sale
+246	Tamil Nadu Properties (Tamil_Nadu.txt)	4 BHK Apartment	Coimbatore South	Coimbatore / Tamil Nadu	Apartment / 4 BHK	2098	₹1.32 Cr	Semi-Furnished	5	Family	Sale
+247	Tamil Nadu Properties (Tamil_Nadu.txt)	1 BHK Apartment	Salem Sector 3	Salem / Tamil Nadu	Apartment / 1 BHK	496	₹10,100/month	Unfurnished	1	Family	Rent
+248	Tamil Nadu Properties (Tamil_Nadu.txt)	3 BHK Apartment	Salem Sector 2	Salem / Tamil Nadu	Apartment / 3 BHK	1671	₹98.54 L	Fully-Furnished	4	Any	Sale
+249	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Independent House	Madurai Sector 2	Madurai / Tamil Nadu	Independent House / 2 BHK	1122	₹76.89 L	Unfurnished	2	Family	Sale
+250	Tamil Nadu Properties (Tamil_Nadu.txt)	1 BHK Apartment	Coimbatore East	Coimbatore / Tamil Nadu	Apartment / 1 BHK	529	₹11,600/month	Semi-Furnished	1	Family	Rent
+251	Tamil Nadu Properties (Tamil_Nadu.txt)	3 BHK Apartment	Madurai Main Road	Madurai / Tamil Nadu	Apartment / 3 BHK	1183	₹82.83 L	Unfurnished	3	Family	Sale
+252	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Apartment	Madurai Nagar	Madurai / Tamil Nadu	Apartment / 2 BHK	765	₹51.19 L	Unfurnished	2	Any	Sale
+253	Tamil Nadu Properties (Tamil_Nadu.txt)	1 BHK Villa	Chennai West	Chennai / Tamil Nadu	Villa / 1 BHK	834	₹12,800/month	Unfurnished	1	Family	Rent
+254	Tamil Nadu Properties (Tamil_Nadu.txt)	4 BHK Apartment	Chennai West	Chennai / Tamil Nadu	Apartment / 4 BHK	1593	₹1.20 Cr	Semi-Furnished	4	Family	Sale
+255	Tamil Nadu Properties (Tamil_Nadu.txt)	3 BHK Builder Floor	Tiruchirappalli Main Road	Tiruchirappalli / Tamil Nadu	Builder Floor / 3 BHK	1134	₹87 L	Fully-Furnished	3	Bachelors	Sale
+256	Tamil Nadu Properties (Tamil_Nadu.txt)	1 BHK Studio	Madurai Residential Area	Madurai / Tamil Nadu	Studio / 1 BHK	300	₹10,800/month	Fully-Furnished	1	Family	Rent
+257	Tamil Nadu Properties (Tamil_Nadu.txt)	1 BHK Studio	Madurai North	Madurai / Tamil Nadu	Studio / 1 BHK	369	₹12,200/month	Semi-Furnished	2	Bachelors	Rent
+258	Tamil Nadu Properties (Tamil_Nadu.txt)	1 BHK Studio	Madurai Heights	Madurai / Tamil Nadu	Studio / 1 BHK	371	₹11,300/month	Semi-Furnished	1	Bachelors	Rent
+259	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Independent House	Chennai East	Chennai / Tamil Nadu	Independent House / 2 BHK	842	₹17,400/month	Unfurnished	2	Any	Rent
+260	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Apartment	Coimbatore Heights	Coimbatore / Tamil Nadu	Apartment / 2 BHK	953	₹21,200/month	Unfurnished	1	Bachelors	Rent
+261	Tamil Nadu Properties (Tamil_Nadu.txt)	4 BHK Apartment	Coimbatore Sector 3	Coimbatore / Tamil Nadu	Apartment / 4 BHK	1241	₹86.12 L	Unfurnished	4	Any	Sale
+262	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Independent House	Madurai Sector 2	Madurai / Tamil Nadu	Independent House / 2 BHK	760	₹18,500/month	Semi-Furnished	2	Bachelors	Rent
+263	Tamil Nadu Properties (Tamil_Nadu.txt)	3 BHK Independent House	Chennai North	Chennai / Tamil Nadu	Independent House / 3 BHK	1653	₹1.07 Cr	Unfurnished	3	Bachelors	Sale
+264	Tamil Nadu Properties (Tamil_Nadu.txt)	4 BHK Apartment	Tiruchirappalli South	Tiruchirappalli / Tamil Nadu	Apartment / 4 BHK	1631	₹24,400/month	Semi-Furnished	5	Family	Rent
+265	Tamil Nadu Properties (Tamil_Nadu.txt)	3 BHK Apartment	Salem Nagar	Salem / Tamil Nadu	Apartment / 3 BHK	1152	₹77.26 L	Semi-Furnished	2	Family	Sale
+266	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Independent House	Salem Residential Area	Salem / Tamil Nadu	Independent House / 2 BHK	1169	₹58.66 L	Semi-Furnished	2	Family	Sale
+267	Tamil Nadu Properties (Tamil_Nadu.txt)	1 BHK Builder Floor	Tiruchirappalli Sector 2	Tiruchirappalli / Tamil Nadu	Builder Floor / 1 BHK	497	₹45.02 L	Unfurnished	2	Bachelors	Sale
+268	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Apartment	Chennai West	Chennai / Tamil Nadu	Apartment / 2 BHK	963	₹75.64 L	Fully-Furnished	2	Bachelors	Sale
+269	Tamil Nadu Properties (Tamil_Nadu.txt)	4 BHK Builder Floor	Coimbatore North	Coimbatore / Tamil Nadu	Builder Floor / 4 BHK	1865	₹1.17 Cr	Unfurnished	3	Family	Sale
+270	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Builder Floor	Salem Central	Salem / Tamil Nadu	Builder Floor / 2 BHK	1001	₹16,500/month	Fully-Furnished	2	Family	Rent
+271	Tamil Nadu Properties (Tamil_Nadu.txt)	1 BHK Studio	Salem West	Salem / Tamil Nadu	Studio / 1 BHK	445	₹9,900/month	Unfurnished	1	Family	Rent
+272	Tamil Nadu Properties (Tamil_Nadu.txt)	4 BHK Apartment	Salem Town Centre	Salem / Tamil Nadu	Apartment / 4 BHK	1551	₹1.29 Cr	Unfurnished	4	Bachelors	Sale
+273	Tamil Nadu Properties (Tamil_Nadu.txt)	3 BHK Apartment	Salem South	Salem / Tamil Nadu	Apartment / 3 BHK	1380	₹1.06 Cr	Semi-Furnished	2	Any	Sale
+274	Tamil Nadu Properties (Tamil_Nadu.txt)	4 BHK Apartment	Coimbatore North	Coimbatore / Tamil Nadu	Apartment / 4 BHK	1649	₹96.92 L	Semi-Furnished	4	Family	Sale
+275	Tamil Nadu Properties (Tamil_Nadu.txt)	4 BHK Villa	Madurai South	Madurai / Tamil Nadu	Villa / 4 BHK	2204	₹32,700/month	Semi-Furnished	4	Bachelors	Rent
+276	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Apartment	Coimbatore Sector 1	Coimbatore / Tamil Nadu	Apartment / 2 BHK	986	₹67.34 L	Fully-Furnished	1	Bachelors	Sale
+277	Tamil Nadu Properties (Tamil_Nadu.txt)	1 BHK Apartment	Madurai Sector 1	Madurai / Tamil Nadu	Apartment / 1 BHK	433	₹36.96 L	Fully-Furnished	1	Family	Sale
+278	Tamil Nadu Properties (Tamil_Nadu.txt)	3 BHK Builder Floor	Madurai North	Madurai / Tamil Nadu	Builder Floor / 3 BHK	1325	₹1.01 Cr	Unfurnished	3	Bachelors	Sale
+279	Tamil Nadu Properties (Tamil_Nadu.txt)	4 BHK Builder Floor	Chennai East	Chennai / Tamil Nadu	Builder Floor / 4 BHK	1915	₹95.08 L	Semi-Furnished	4	Any	Sale
+280	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Apartment	Chennai Heights	Chennai / Tamil Nadu	Apartment / 2 BHK	861	₹75.79 L	Fully-Furnished	1	Bachelors	Sale
+281	Tamil Nadu Properties (Tamil_Nadu.txt)	1 BHK Apartment	Salem Nagar	Salem / Tamil Nadu	Apartment / 1 BHK	528	₹40.63 L	Semi-Furnished	1	Bachelors	Sale
+282	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Independent House	Coimbatore Extension	Coimbatore / Tamil Nadu	Independent House / 2 BHK	1112	₹79.04 L	Semi-Furnished	1	Bachelors	Sale
+283	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Apartment	Salem Residential Area	Salem / Tamil Nadu	Apartment / 2 BHK	991	₹53.84 L	Semi-Furnished	2	Any	Sale
+284	Tamil Nadu Properties (Tamil_Nadu.txt)	4 BHK Villa	Madurai Main Road	Madurai / Tamil Nadu	Villa / 4 BHK	3009	₹1.27 Cr	Semi-Furnished	4	Any	Sale
+285	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Apartment	Madurai Nagar	Madurai / Tamil Nadu	Apartment / 2 BHK	860	₹53.16 L	Fully-Furnished	1	Any	Sale
+286	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Independent House	Tiruchirappalli Town Centre	Tiruchirappalli / Tamil Nadu	Independent House / 2 BHK	942	₹55.11 L	Semi-Furnished	2	Family	Sale
+287	Tamil Nadu Properties (Tamil_Nadu.txt)	1 BHK Apartment	Madurai West	Madurai / Tamil Nadu	Apartment / 1 BHK	565	₹34.69 L	Semi-Furnished	1	Family	Sale
+288	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Apartment	Chennai Residential Area	Chennai / Tamil Nadu	Apartment / 2 BHK	883	₹54.07 L	Unfurnished	1	Family	Sale
+289	Tamil Nadu Properties (Tamil_Nadu.txt)	3 BHK Apartment	Tiruchirappalli Sector 2	Tiruchirappalli / Tamil Nadu	Apartment / 3 BHK	1371	₹98.21 L	Unfurnished	2	Family	Sale
+290	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Apartment	Tiruchirappalli Colony	Tiruchirappalli / Tamil Nadu	Apartment / 2 BHK	927	₹58.59 L	Fully-Furnished	2	Family	Sale
+291	Tamil Nadu Properties (Tamil_Nadu.txt)	4 BHK Apartment	Tiruchirappalli Nagar	Tiruchirappalli / Tamil Nadu	Apartment / 4 BHK	2229	₹38,100/month	Fully-Furnished	5	Bachelors	Rent
+292	Tamil Nadu Properties (Tamil_Nadu.txt)	1 BHK Studio	Salem Colony	Salem / Tamil Nadu	Studio / 1 BHK	300	₹39.32 L	Fully-Furnished	1	Family	Sale
+293	Tamil Nadu Properties (Tamil_Nadu.txt)	1 BHK Studio	Madurai Sector 2	Madurai / Tamil Nadu	Studio / 1 BHK	340	₹11,000/month	Fully-Furnished	1	Bachelors	Rent
+294	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Apartment	Chennai Sector 3	Chennai / Tamil Nadu	Apartment / 2 BHK	850	₹15,200/month	Semi-Furnished	1	Bachelors	Rent
+295	Tamil Nadu Properties (Tamil_Nadu.txt)	4 BHK Apartment	Coimbatore Town Centre	Coimbatore / Tamil Nadu	Apartment / 4 BHK	1310	₹95.68 L	Unfurnished	5	Family	Sale
+296	Tamil Nadu Properties (Tamil_Nadu.txt)	4 BHK Apartment	Chennai Residential Area	Chennai / Tamil Nadu	Apartment / 4 BHK	1883	₹28,600/month	Fully-Furnished	5	Bachelors	Rent
+297	Tamil Nadu Properties (Tamil_Nadu.txt)	3 BHK Independent House	Salem East	Salem / Tamil Nadu	Independent House / 3 BHK	1483	₹1.01 Cr	Semi-Furnished	3	Family	Sale
+298	Tamil Nadu Properties (Tamil_Nadu.txt)	1 BHK Apartment	Tiruchirappalli West	Tiruchirappalli / Tamil Nadu	Apartment / 1 BHK	559	₹10,700/month	Fully-Furnished	1	Bachelors	Rent
+299	Tamil Nadu Properties (Tamil_Nadu.txt)	3 BHK Builder Floor	Coimbatore Sector 3	Coimbatore / Tamil Nadu	Builder Floor / 3 BHK	1144	₹25,500/month	Semi-Furnished	3	Bachelors	Rent
+300	Tamil Nadu Properties (Tamil_Nadu.txt)	3 BHK Builder Floor	Tiruchirappalli Sector 2	Tiruchirappalli / Tamil Nadu	Builder Floor / 3 BHK	1361	₹99.73 L	Fully-Furnished	3	Family	Sale
+301	Tamil Nadu Properties (Tamil_Nadu.txt)	3 BHK Apartment	Coimbatore Colony	Coimbatore / Tamil Nadu	Apartment / 3 BHK	1156	₹90.99 L	Unfurnished	4	Any	Sale
+302	Tamil Nadu Properties (Tamil_Nadu.txt)	1 BHK Independent House	Chennai North	Chennai / Tamil Nadu	Independent House / 1 BHK	731	₹46.36 L	Semi-Furnished	1	Any	Sale
+303	Tamil Nadu Properties (Tamil_Nadu.txt)	3 BHK Independent House	Salem West	Salem / Tamil Nadu	Independent House / 3 BHK	1606	₹21,200/month	Semi-Furnished	3	Bachelors	Rent
+304	Tamil Nadu Properties (Tamil_Nadu.txt)	4 BHK Independent House	Chennai Nagar	Chennai / Tamil Nadu	Independent House / 4 BHK	2585	₹1.07 Cr	Fully-Furnished	5	Bachelors	Sale
+305	Tamil Nadu Properties (Tamil_Nadu.txt)	5 BHK Apartment	Madurai Sector 3	Madurai / Tamil Nadu	Apartment / 5 BHK	2424	₹40,200/month	Unfurnished	5	Any	Rent
+306	Tamil Nadu Properties (Tamil_Nadu.txt)	1 BHK Apartment	Madurai Town Centre	Madurai / Tamil Nadu	Apartment / 1 BHK	490	₹35.33 L	Fully-Furnished	1	Bachelors	Sale
+307	Tamil Nadu Properties (Tamil_Nadu.txt)	4 BHK Independent House	Tiruchirappalli East	Tiruchirappalli / Tamil Nadu	Independent House / 4 BHK	2212	₹33,500/month	Unfurnished	4	Family	Rent
+308	Tamil Nadu Properties (Tamil_Nadu.txt)	1 BHK Studio	Madurai Residential Area	Madurai / Tamil Nadu	Studio / 1 BHK	461	₹32.27 L	Unfurnished	1	Family	Sale
+309	Tamil Nadu Properties (Tamil_Nadu.txt)	3 BHK Apartment	Salem East	Salem / Tamil Nadu	Apartment / 3 BHK	1262	₹26,700/month	Unfurnished	2	Family	Rent
+310	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Apartment	Chennai Town Centre	Chennai / Tamil Nadu	Apartment / 2 BHK	801	₹74.78 L	Unfurnished	2	Bachelors	Sale
+311	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Independent House	Madurai Sector 1	Madurai / Tamil Nadu	Independent House / 2 BHK	1112	₹18,600/month	Unfurnished	2	Bachelors	Rent
+312	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Independent House	Chennai Nagar	Chennai / Tamil Nadu	Independent House / 2 BHK	999	₹21,400/month	Unfurnished	2	Family	Rent
+313	Tamil Nadu Properties (Tamil_Nadu.txt)	3 BHK Builder Floor	Tiruchirappalli Sector 1	Tiruchirappalli / Tamil Nadu	Builder Floor / 3 BHK	1473	₹88.16 L	Semi-Furnished	3	Family	Sale
+314	Tamil Nadu Properties (Tamil_Nadu.txt)	1 BHK Apartment	Tiruchirappalli West	Tiruchirappalli / Tamil Nadu	Apartment / 1 BHK	520	₹37.28 L	Fully-Furnished	1	Family	Sale
+315	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Apartment	Tiruchirappalli Colony	Tiruchirappalli / Tamil Nadu	Apartment / 2 BHK	850	₹72.01 L	Unfurnished	2	Bachelors	Sale
+316	Tamil Nadu Properties (Tamil_Nadu.txt)	3 BHK Apartment	Coimbatore Nagar	Coimbatore / Tamil Nadu	Apartment / 3 BHK	1441	₹93.64 L	Fully-Furnished	3	Bachelors	Sale
+317	Tamil Nadu Properties (Tamil_Nadu.txt)	3 BHK Apartment	Chennai Colony	Chennai / Tamil Nadu	Apartment / 3 BHK	1147	₹85.46 L	Semi-Furnished	4	Any	Sale
+318	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Apartment	Coimbatore Sector 1	Coimbatore / Tamil Nadu	Apartment / 2 BHK	964	₹20,600/month	Semi-Furnished	3	Family	Rent
+319	Tamil Nadu Properties (Tamil_Nadu.txt)	3 BHK Apartment	Madurai Town Centre	Madurai / Tamil Nadu	Apartment / 3 BHK	1554	₹1.08 Cr	Semi-Furnished	2	Family	Sale
+320	Tamil Nadu Properties (Tamil_Nadu.txt)	3 BHK Apartment	Salem Nagar	Salem / Tamil Nadu	Apartment / 3 BHK	1226	₹77.78 L	Semi-Furnished	4	Family	Sale
+321	Tamil Nadu Properties (Tamil_Nadu.txt)	1 BHK Studio	Salem Sector 2	Salem / Tamil Nadu	Studio / 1 BHK	486	₹36.80 L	Fully-Furnished	1	Any	Sale
+322	Tamil Nadu Properties (Tamil_Nadu.txt)	3 BHK Apartment	Madurai Residential Area	Madurai / Tamil Nadu	Apartment / 3 BHK	1012	₹68.67 L	Unfurnished	3	Family	Sale
+323	Tamil Nadu Properties (Tamil_Nadu.txt)	4 BHK Apartment	Madurai Town Centre	Madurai / Tamil Nadu	Apartment / 4 BHK	1657	₹95.68 L	Unfurnished	4	Any	Sale
+324	Tamil Nadu Properties (Tamil_Nadu.txt)	1 BHK Independent House	Madurai South	Madurai / Tamil Nadu	Independent House / 1 BHK	615	₹45.96 L	Fully-Furnished	1	Bachelors	Sale
+325	Tamil Nadu Properties (Tamil_Nadu.txt)	3 BHK Builder Floor	Madurai Sector 3	Madurai / Tamil Nadu	Builder Floor / 3 BHK	1392	₹24,000/month	Semi-Furnished	2	Any	Rent
+326	Tamil Nadu Properties (Tamil_Nadu.txt)	3 BHK Apartment	Salem Extension	Salem / Tamil Nadu	Apartment / 3 BHK	1362	₹19,700/month	Semi-Furnished	3	Bachelors	Rent
+327	Tamil Nadu Properties (Tamil_Nadu.txt)	1 BHK Studio	Salem South	Salem / Tamil Nadu	Studio / 1 BHK	300	₹37.77 L	Semi-Furnished	1	Bachelors	Sale
+328	Tamil Nadu Properties (Tamil_Nadu.txt)	4 BHK Apartment	Salem Main Road	Salem / Tamil Nadu	Apartment / 4 BHK	1626	₹1.34 Cr	Unfurnished	4	Family	Sale
+329	Tamil Nadu Properties (Tamil_Nadu.txt)	3 BHK Apartment	Salem Sector 3	Salem / Tamil Nadu	Apartment / 3 BHK	1386	₹94.87 L	Semi-Furnished	3	Bachelors	Sale
+330	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Villa	Madurai Extension	Madurai / Tamil Nadu	Villa / 2 BHK	1371	₹83.75 L	Semi-Furnished	2	Family	Sale
+331	Tamil Nadu Properties (Tamil_Nadu.txt)	3 BHK Independent House	Chennai Nagar	Chennai / Tamil Nadu	Independent House / 3 BHK	1285	₹84.86 L	Semi-Furnished	3	Family	Sale
+332	Tamil Nadu Properties (Tamil_Nadu.txt)	4 BHK Apartment	Tiruchirappalli Nagar	Tiruchirappalli / Tamil Nadu	Apartment / 4 BHK	1901	₹1 Cr	Unfurnished	4	Family	Sale
+333	Tamil Nadu Properties (Tamil_Nadu.txt)	1 BHK Builder Floor	Coimbatore North	Coimbatore / Tamil Nadu	Builder Floor / 1 BHK	429	₹38.80 L	Fully-Furnished	1	Family	Sale
+334	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Apartment	Chennai South	Chennai / Tamil Nadu	Apartment / 2 BHK	832	₹63.91 L	Semi-Furnished	2	Family	Sale
+335	Tamil Nadu Properties (Tamil_Nadu.txt)	4 BHK Apartment	Madurai East	Madurai / Tamil Nadu	Apartment / 4 BHK	1834	₹29,900/month	Unfurnished	4	Family	Rent
+336	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Independent House	Salem West	Salem / Tamil Nadu	Independent House / 2 BHK	1034	₹69.76 L	Unfurnished	2	Family	Sale
+337	Tamil Nadu Properties (Tamil_Nadu.txt)	3 BHK Apartment	Chennai West	Chennai / Tamil Nadu	Apartment / 3 BHK	999	₹24,900/month	Fully-Furnished	3	Any	Rent
+338	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Villa	Chennai East	Chennai / Tamil Nadu	Villa / 2 BHK	1238	₹16,500/month	Unfurnished	2	Family	Rent
+339	Tamil Nadu Properties (Tamil_Nadu.txt)	3 BHK Builder Floor	Madurai Heights	Madurai / Tamil Nadu	Builder Floor / 3 BHK	1147	₹1 Cr	Unfurnished	3	Any	Sale
+340	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Apartment	Madurai Sector 1	Madurai / Tamil Nadu	Apartment / 2 BHK	842	₹54.19 L	Semi-Furnished	1	Any	Sale
+341	Tamil Nadu Properties (Tamil_Nadu.txt)	5 BHK Apartment	Tiruchirappalli Sector 1	Tiruchirappalli / Tamil Nadu	Apartment / 5 BHK	2227	₹1.25 Cr	Semi-Furnished	5	Any	Sale
+342	Tamil Nadu Properties (Tamil_Nadu.txt)	3 BHK Apartment	Madurai Sector 1	Madurai / Tamil Nadu	Apartment / 3 BHK	1163	₹25,400/month	Semi-Furnished	3	Any	Rent
+343	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Independent House	Salem West	Salem / Tamil Nadu	Independent House / 2 BHK	931	₹19,700/month	Semi-Furnished	3	Family	Rent
+344	Tamil Nadu Properties (Tamil_Nadu.txt)	3 BHK Independent House	Tiruchirappalli Sector 1	Tiruchirappalli / Tamil Nadu	Independent House / 3 BHK	1542	₹1.06 Cr	Unfurnished	2	Bachelors	Sale
+345	Tamil Nadu Properties (Tamil_Nadu.txt)	5 BHK Apartment	Coimbatore Central	Coimbatore / Tamil Nadu	Apartment / 5 BHK	2418	₹33,100/month	Semi-Furnished	5	Any	Rent
+346	Tamil Nadu Properties (Tamil_Nadu.txt)	4 BHK Apartment	Tiruchirappalli West	Tiruchirappalli / Tamil Nadu	Apartment / 4 BHK	1991	₹27,900/month	Semi-Furnished	5	Family	Rent
+347	Tamil Nadu Properties (Tamil_Nadu.txt)	1 BHK Apartment	Chennai South	Chennai / Tamil Nadu	Apartment / 1 BHK	448	₹43.81 L	Unfurnished	1	Bachelors	Sale
+348	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Villa	Salem South	Salem / Tamil Nadu	Villa / 2 BHK	961	₹18,100/month	Semi-Furnished	2	Bachelors	Rent
+349	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Villa	Tiruchirappalli North	Tiruchirappalli / Tamil Nadu	Villa / 2 BHK	1306	₹82.68 L	Unfurnished	2	Bachelors	Sale
+350	Tamil Nadu Properties (Tamil_Nadu.txt)	1 BHK Apartment	Tiruchirappalli East	Tiruchirappalli / Tamil Nadu	Apartment / 1 BHK	660	₹35.64 L	Fully-Furnished	2	Family	Sale
+351	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Apartment	Madurai South	Madurai / Tamil Nadu	Apartment / 2 BHK	758	₹62.96 L	Fully-Furnished	2	Family	Sale
+352	Tamil Nadu Properties (Tamil_Nadu.txt)	3 BHK Builder Floor	Chennai Sector 3	Chennai / Tamil Nadu	Builder Floor / 3 BHK	1155	₹1.02 Cr	Unfurnished	4	Bachelors	Sale
+353	Tamil Nadu Properties (Tamil_Nadu.txt)	3 BHK Apartment	Madurai Extension	Madurai / Tamil Nadu	Apartment / 3 BHK	1034	₹24,800/month	Unfurnished	4	Family	Rent
+354	Tamil Nadu Properties (Tamil_Nadu.txt)	5 BHK Builder Floor	Madurai Sector 3	Madurai / Tamil Nadu	Builder Floor / 5 BHK	2637	₹1.55 Cr	Fully-Furnished	6	Bachelors	Sale
+355	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Builder Floor	Tiruchirappalli South	Tiruchirappalli / Tamil Nadu	Builder Floor / 2 BHK	876	₹18,700/month	Semi-Furnished	2	Family	Rent
+356	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Apartment	Coimbatore Main Road	Coimbatore / Tamil Nadu	Apartment / 2 BHK	745	₹17,600/month	Semi-Furnished	1	Bachelors	Rent
+357	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Apartment	Coimbatore South	Coimbatore / Tamil Nadu	Apartment / 2 BHK	931	₹17,500/month	Semi-Furnished	3	Bachelors	Rent
+358	Tamil Nadu Properties (Tamil_Nadu.txt)	5 BHK Independent House	Salem Heights	Salem / Tamil Nadu	Independent House / 5 BHK	3279	₹46,100/month	Semi-Furnished	6	Any	Rent
+359	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Apartment	Chennai East	Chennai / Tamil Nadu	Apartment / 2 BHK	802	₹52.18 L	Semi-Furnished	2	Any	Sale
+360	Tamil Nadu Properties (Tamil_Nadu.txt)	5 BHK Builder Floor	Madurai Town Centre	Madurai / Tamil Nadu	Builder Floor / 5 BHK	2386	₹1.44 Cr	Unfurnished	5	Family	Sale
+361	Tamil Nadu Properties (Tamil_Nadu.txt)	4 BHK Apartment	Tiruchirappalli Nagar	Tiruchirappalli / Tamil Nadu	Apartment / 4 BHK	1518	₹1.17 Cr	Fully-Furnished	4	Family	Sale
+362	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Builder Floor	Salem Sector 2	Salem / Tamil Nadu	Builder Floor / 2 BHK	766	₹73.75 L	Semi-Furnished	2	Family	Sale
+363	Tamil Nadu Properties (Tamil_Nadu.txt)	1 BHK Independent House	Chennai Colony	Chennai / Tamil Nadu	Independent House / 1 BHK	594	₹12,100/month	Semi-Furnished	1	Any	Rent
+364	Tamil Nadu Properties (Tamil_Nadu.txt)	3 BHK Apartment	Coimbatore Colony	Coimbatore / Tamil Nadu	Apartment / 3 BHK	1456	₹91.13 L	Semi-Furnished	3	Bachelors	Sale
+365	Tamil Nadu Properties (Tamil_Nadu.txt)	3 BHK Apartment	Salem Sector 2	Salem / Tamil Nadu	Apartment / 3 BHK	1242	₹72.59 L	Semi-Furnished	2	Family	Sale
+366	Tamil Nadu Properties (Tamil_Nadu.txt)	3 BHK Apartment	Chennai Extension	Chennai / Tamil Nadu	Apartment / 3 BHK	1341	₹97.05 L	Semi-Furnished	4	Bachelors	Sale
+367	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Apartment	Madurai Heights	Madurai / Tamil Nadu	Apartment / 2 BHK	982	₹21,300/month	Semi-Furnished	3	Any	Rent
+368	Tamil Nadu Properties (Tamil_Nadu.txt)	3 BHK Apartment	Coimbatore South	Coimbatore / Tamil Nadu	Apartment / 3 BHK	1048	₹82.50 L	Semi-Furnished	4	Bachelors	Sale
+369	Tamil Nadu Properties (Tamil_Nadu.txt)	3 BHK Apartment	Tiruchirappalli Sector 1	Tiruchirappalli / Tamil Nadu	Apartment / 3 BHK	1346	₹95.68 L	Semi-Furnished	4	Family	Sale
+370	Tamil Nadu Properties (Tamil_Nadu.txt)	3 BHK Builder Floor	Tiruchirappalli Extension	Tiruchirappalli / Tamil Nadu	Builder Floor / 3 BHK	1142	₹27,000/month	Semi-Furnished	3	Bachelors	Rent
+371	Tamil Nadu Properties (Tamil_Nadu.txt)	3 BHK Builder Floor	Tiruchirappalli Heights	Tiruchirappalli / Tamil Nadu	Builder Floor / 3 BHK	1125	₹79.42 L	Fully-Furnished	3	Family	Sale
+372	Tamil Nadu Properties (Tamil_Nadu.txt)	1 BHK Apartment	Chennai Main Road	Chennai / Tamil Nadu	Apartment / 1 BHK	579	₹13,300/month	Fully-Furnished	2	Bachelors	Rent
+373	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Builder Floor	Tiruchirappalli Heights	Tiruchirappalli / Tamil Nadu	Builder Floor / 2 BHK	960	₹19,200/month	Unfurnished	2	Bachelors	Rent
+374	Tamil Nadu Properties (Tamil_Nadu.txt)	3 BHK Apartment	Tiruchirappalli West	Tiruchirappalli / Tamil Nadu	Apartment / 3 BHK	1374	₹96.40 L	Fully-Furnished	3	Any	Sale
+375	Tamil Nadu Properties (Tamil_Nadu.txt)	3 BHK Apartment	Chennai Colony	Chennai / Tamil Nadu	Apartment / 3 BHK	1217	₹28,100/month	Fully-Furnished	3	Family	Rent
+376	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Apartment	Chennai East	Chennai / Tamil Nadu	Apartment / 2 BHK	929	₹16,500/month	Semi-Furnished	3	Family	Rent
+377	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Apartment	Madurai Residential Area	Madurai / Tamil Nadu	Apartment / 2 BHK	838	₹15,500/month	Semi-Furnished	2	Bachelors	Rent
+378	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Builder Floor	Chennai Sector 1	Chennai / Tamil Nadu	Builder Floor / 2 BHK	938	₹69.57 L	Unfurnished	2	Family	Sale
+379	Tamil Nadu Properties (Tamil_Nadu.txt)	3 BHK Apartment	Tiruchirappalli Nagar	Tiruchirappalli / Tamil Nadu	Apartment / 3 BHK	1246	₹92.81 L	Semi-Furnished	3	Family	Sale
+380	Tamil Nadu Properties (Tamil_Nadu.txt)	4 BHK Apartment	Salem Nagar	Salem / Tamil Nadu	Apartment / 4 BHK	1903	₹1.18 Cr	Semi-Furnished	4	Family	Sale
+381	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Apartment	Chennai West	Chennai / Tamil Nadu	Apartment / 2 BHK	719	₹57.42 L	Unfurnished	3	Family	Sale
+382	Tamil Nadu Properties (Tamil_Nadu.txt)	3 BHK Independent House	Coimbatore West	Coimbatore / Tamil Nadu	Independent House / 3 BHK	1427	₹21,900/month	Fully-Furnished	2	Family	Rent
+383	Tamil Nadu Properties (Tamil_Nadu.txt)	5 BHK Apartment	Chennai North	Chennai / Tamil Nadu	Apartment / 5 BHK	2210	₹1.26 Cr	Fully-Furnished	5	Bachelors	Sale
+384	Tamil Nadu Properties (Tamil_Nadu.txt)	5 BHK Villa	Salem Sector 1	Salem / Tamil Nadu	Villa / 5 BHK	2769	₹38,700/month	Unfurnished	5	Bachelors	Rent
+385	Tamil Nadu Properties (Tamil_Nadu.txt)	4 BHK Independent House	Tiruchirappalli Central	Tiruchirappalli / Tamil Nadu	Independent House / 4 BHK	1340	₹91.87 L	Unfurnished	3	Family	Sale
+386	Tamil Nadu Properties (Tamil_Nadu.txt)	1 BHK Apartment	Chennai Sector 1	Chennai / Tamil Nadu	Apartment / 1 BHK	638	₹38.32 L	Unfurnished	1	Any	Sale
+387	Tamil Nadu Properties (Tamil_Nadu.txt)	3 BHK Independent House	Salem Sector 3	Salem / Tamil Nadu	Independent House / 3 BHK	1608	₹1.01 Cr	Semi-Furnished	3	Bachelors	Sale
+388	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Apartment	Salem Sector 1	Salem / Tamil Nadu	Apartment / 2 BHK	980	₹63.82 L	Unfurnished	2	Family	Sale
+389	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Villa	Coimbatore South	Coimbatore / Tamil Nadu	Villa / 2 BHK	1112	₹64.88 L	Semi-Furnished	2	Any	Sale
+390	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Apartment	Salem Heights	Salem / Tamil Nadu	Apartment / 2 BHK	794	₹68.45 L	Unfurnished	1	Family	Sale
+391	Tamil Nadu Properties (Tamil_Nadu.txt)	3 BHK Villa	Madurai Heights	Madurai / Tamil Nadu	Villa / 3 BHK	1969	₹1.05 Cr	Unfurnished	3	Any	Sale
+392	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Independent House	Salem Colony	Salem / Tamil Nadu	Independent House / 2 BHK	931	₹65.74 L	Semi-Furnished	2	Family	Sale
+393	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Apartment	Madurai East	Madurai / Tamil Nadu	Apartment / 2 BHK	733	₹15,400/month	Semi-Furnished	2	Any	Rent
+394	Tamil Nadu Properties (Tamil_Nadu.txt)	3 BHK Apartment	Salem North	Salem / Tamil Nadu	Apartment / 3 BHK	1223	₹72.52 L	Fully-Furnished	3	Any	Sale
+395	Tamil Nadu Properties (Tamil_Nadu.txt)	3 BHK Villa	Madurai Extension	Madurai / Tamil Nadu	Villa / 3 BHK	1467	₹1 Cr	Fully-Furnished	3	Family	Sale
+396	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Apartment	Salem Sector 2	Salem / Tamil Nadu	Apartment / 2 BHK	952	₹15,600/month	Semi-Furnished	2	Bachelors	Rent
+397	Tamil Nadu Properties (Tamil_Nadu.txt)	1 BHK Villa	Chennai Sector 1	Chennai / Tamil Nadu	Villa / 1 BHK	659	₹38.79 L	Unfurnished	1	Family	Sale
+398	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Independent House	Madurai Sector 3	Madurai / Tamil Nadu	Independent House / 2 BHK	1079	₹61.82 L	Semi-Furnished	2	Any	Sale
+399	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Villa	Chennai Nagar	Chennai / Tamil Nadu	Villa / 2 BHK	1280	₹75.03 L	Semi-Furnished	2	Family	Sale
+400	Tamil Nadu Properties (Tamil_Nadu.txt)	3 BHK Independent House	Chennai Nagar	Chennai / Tamil Nadu	Independent House / 3 BHK	1448	₹81.08 L	Fully-Furnished	2	Any	Sale
+401	Tamil Nadu Properties (Tamil_Nadu.txt)	3 BHK Apartment	Madurai Main Road	Madurai / Tamil Nadu	Apartment / 3 BHK	1489	₹23,900/month	Unfurnished	3	Bachelors	Rent
+402	Tamil Nadu Properties (Tamil_Nadu.txt)	4 BHK Apartment	Salem North	Salem / Tamil Nadu	Apartment / 4 BHK	1411	₹27,300/month	Unfurnished	4	Bachelors	Rent
+403	Tamil Nadu Properties (Tamil_Nadu.txt)	1 BHK Apartment	Salem Main Road	Salem / Tamil Nadu	Apartment / 1 BHK	449	₹9,000/month	Unfurnished	1	Any	Rent
+404	Tamil Nadu Properties (Tamil_Nadu.txt)	1 BHK Villa	Chennai Extension	Chennai / Tamil Nadu	Villa / 1 BHK	837	₹49.65 L	Fully-Furnished	1	Family	Sale
+405	Tamil Nadu Properties (Tamil_Nadu.txt)	4 BHK Independent House	Tiruchirappalli Extension	Tiruchirappalli / Tamil Nadu	Independent House / 4 BHK	1995	₹37,800/month	Semi-Furnished	4	Any	Rent
+406	Tamil Nadu Properties (Tamil_Nadu.txt)	3 BHK Apartment	Chennai West	Chennai / Tamil Nadu	Apartment / 3 BHK	1586	₹98.72 L	Fully-Furnished	3	Any	Sale
+407	Tamil Nadu Properties (Tamil_Nadu.txt)	4 BHK Builder Floor	Tiruchirappalli Sector 2	Tiruchirappalli / Tamil Nadu	Builder Floor / 4 BHK	1911	₹27,000/month	Semi-Furnished	3	Bachelors	Rent
+408	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Apartment	Salem West	Salem / Tamil Nadu	Apartment / 2 BHK	892	₹74.90 L	Semi-Furnished	1	Family	Sale
+409	Tamil Nadu Properties (Tamil_Nadu.txt)	3 BHK Apartment	Madurai Town Centre	Madurai / Tamil Nadu	Apartment / 3 BHK	1337	₹1 Cr	Unfurnished	3	Family	Sale
+410	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Independent House	Salem Nagar	Salem / Tamil Nadu	Independent House / 2 BHK	974	₹20,900/month	Fully-Furnished	2	Family	Rent
+411	Tamil Nadu Properties (Tamil_Nadu.txt)	3 BHK Villa	Madurai South	Madurai / Tamil Nadu	Villa / 3 BHK	1384	₹24,300/month	Fully-Furnished	3	Family	Rent
+412	Tamil Nadu Properties (Tamil_Nadu.txt)	1 BHK Builder Floor	Chennai Sector 1	Chennai / Tamil Nadu	Builder Floor / 1 BHK	429	₹11,300/month	Fully-Furnished	1	Any	Rent
+413	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Villa	Salem Nagar	Salem / Tamil Nadu	Villa / 2 BHK	1013	₹61.16 L	Fully-Furnished	3	Bachelors	Sale
+414	Tamil Nadu Properties (Tamil_Nadu.txt)	3 BHK Apartment	Salem West	Salem / Tamil Nadu	Apartment / 3 BHK	1566	₹99.13 L	Fully-Furnished	3	Family	Sale
+415	Tamil Nadu Properties (Tamil_Nadu.txt)	1 BHK Builder Floor	Salem North	Salem / Tamil Nadu	Builder Floor / 1 BHK	510	₹47.76 L	Semi-Furnished	1	Family	Sale
+416	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Apartment	Salem Sector 2	Salem / Tamil Nadu	Apartment / 2 BHK	748	₹15,600/month	Fully-Furnished	2	Bachelors	Rent
+417	Tamil Nadu Properties (Tamil_Nadu.txt)	4 BHK Apartment	Coimbatore Colony	Coimbatore / Tamil Nadu	Apartment / 4 BHK	1682	₹29,500/month	Semi-Furnished	4	Any	Rent
+418	Tamil Nadu Properties (Tamil_Nadu.txt)	5 BHK Apartment	Madurai Nagar	Madurai / Tamil Nadu	Apartment / 5 BHK	2326	₹1.56 Cr	Fully-Furnished	5	Bachelors	Sale
+419	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Apartment	Tiruchirappalli Heights	Tiruchirappalli / Tamil Nadu	Apartment / 2 BHK	726	₹19,400/month	Unfurnished	2	Family	Rent
+420	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Apartment	Madurai Colony	Madurai / Tamil Nadu	Apartment / 2 BHK	675	₹55.17 L	Fully-Furnished	2	Family	Sale
+421	Tamil Nadu Properties (Tamil_Nadu.txt)	3 BHK Apartment	Chennai Sector 1	Chennai / Tamil Nadu	Apartment / 3 BHK	1096	₹94.78 L	Fully-Furnished	4	Any	Sale
+422	Tamil Nadu Properties (Tamil_Nadu.txt)	3 BHK Apartment	Chennai Sector 3	Chennai / Tamil Nadu	Apartment / 3 BHK	1237	₹97.10 L	Unfurnished	3	Family	Sale
+423	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Apartment	Tiruchirappalli North	Tiruchirappalli / Tamil Nadu	Apartment / 2 BHK	796	₹16,000/month	Semi-Furnished	2	Family	Rent
+424	Tamil Nadu Properties (Tamil_Nadu.txt)	3 BHK Independent House	Tiruchirappalli North	Tiruchirappalli / Tamil Nadu	Independent House / 3 BHK	1457	₹95.32 L	Unfurnished	4	Family	Sale
+425	Tamil Nadu Properties (Tamil_Nadu.txt)	3 BHK Builder Floor	Coimbatore Sector 1	Coimbatore / Tamil Nadu	Builder Floor / 3 BHK	1364	₹95.64 L	Unfurnished	3	Family	Sale
+426	Tamil Nadu Properties (Tamil_Nadu.txt)	3 BHK Apartment	Coimbatore Nagar	Coimbatore / Tamil Nadu	Apartment / 3 BHK	1229	₹82.90 L	Fully-Furnished	3	Bachelors	Sale
+427	Tamil Nadu Properties (Tamil_Nadu.txt)	4 BHK Villa	Coimbatore South	Coimbatore / Tamil Nadu	Villa / 4 BHK	1890	₹28,900/month	Fully-Furnished	3	Bachelors	Rent
+428	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Apartment	Coimbatore Central	Coimbatore / Tamil Nadu	Apartment / 2 BHK	781	₹69.68 L	Unfurnished	2	Bachelors	Sale
+429	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Independent House	Madurai Nagar	Madurai / Tamil Nadu	Independent House / 2 BHK	824	₹72.45 L	Unfurnished	2	Family	Sale
+430	Tamil Nadu Properties (Tamil_Nadu.txt)	1 BHK Apartment	Tiruchirappalli Town Centre	Tiruchirappalli / Tamil Nadu	Apartment / 1 BHK	517	₹12,000/month	Semi-Furnished	2	Family	Rent
+431	Tamil Nadu Properties (Tamil_Nadu.txt)	1 BHK Builder Floor	Tiruchirappalli Extension	Tiruchirappalli / Tamil Nadu	Builder Floor / 1 BHK	623	₹10,300/month	Unfurnished	1	Family	Rent
+432	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Apartment	Chennai North	Chennai / Tamil Nadu	Apartment / 2 BHK	702	₹60.15 L	Unfurnished	2	Any	Sale
+433	Tamil Nadu Properties (Tamil_Nadu.txt)	1 BHK Apartment	Tiruchirappalli Sector 2	Tiruchirappalli / Tamil Nadu	Apartment / 1 BHK	423	₹38.05 L	Semi-Furnished	1	Any	Sale
+434	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Apartment	Coimbatore Heights	Coimbatore / Tamil Nadu	Apartment / 2 BHK	992	₹14,900/month	Semi-Furnished	3	Bachelors	Rent
+435	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Apartment	Salem Sector 1	Salem / Tamil Nadu	Apartment / 2 BHK	769	₹19,600/month	Unfurnished	2	Family	Rent
+436	Tamil Nadu Properties (Tamil_Nadu.txt)	3 BHK Villa	Chennai Extension	Chennai / Tamil Nadu	Villa / 3 BHK	1609	₹24,800/month	Unfurnished	3	Family	Rent
+437	Tamil Nadu Properties (Tamil_Nadu.txt)	3 BHK Independent House	Madurai Central	Madurai / Tamil Nadu	Independent House / 3 BHK	1734	₹25,400/month	Unfurnished	3	Any	Rent
+438	Tamil Nadu Properties (Tamil_Nadu.txt)	1 BHK Studio	Salem Colony	Salem / Tamil Nadu	Studio / 1 BHK	323	₹10,600/month	Fully-Furnished	1	Any	Rent
+439	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Apartment	Salem Main Road	Salem / Tamil Nadu	Apartment / 2 BHK	793	₹57.31 L	Semi-Furnished	3	Family	Sale
+440	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Apartment	Tiruchirappalli West	Tiruchirappalli / Tamil Nadu	Apartment / 2 BHK	861	₹59.14 L	Semi-Furnished	2	Any	Sale
+441	Tamil Nadu Properties (Tamil_Nadu.txt)	1 BHK Apartment	Salem Heights	Salem / Tamil Nadu	Apartment / 1 BHK	499	₹10,000/month	Semi-Furnished	1	Family	Rent
+442	Tamil Nadu Properties (Tamil_Nadu.txt)	3 BHK Independent House	Tiruchirappalli Central	Tiruchirappalli / Tamil Nadu	Independent House / 3 BHK	1407	₹73.89 L	Semi-Furnished	3	Bachelors	Sale
+443	Tamil Nadu Properties (Tamil_Nadu.txt)	3 BHK Apartment	Coimbatore Sector 3	Coimbatore / Tamil Nadu	Apartment / 3 BHK	1181	₹20,700/month	Unfurnished	4	Family	Rent
+444	Tamil Nadu Properties (Tamil_Nadu.txt)	3 BHK Apartment	Madurai Residential Area	Madurai / Tamil Nadu	Apartment / 3 BHK	1332	₹24,000/month	Semi-Furnished	2	Family	Rent
+445	Tamil Nadu Properties (Tamil_Nadu.txt)	4 BHK Apartment	Chennai Nagar	Chennai / Tamil Nadu	Apartment / 4 BHK	2118	₹1.03 Cr	Unfurnished	4	Family	Sale
+446	Tamil Nadu Properties (Tamil_Nadu.txt)	1 BHK Villa	Tiruchirappalli East	Tiruchirappalli / Tamil Nadu	Villa / 1 BHK	781	₹45.42 L	Semi-Furnished	2	Bachelors	Sale
+447	Tamil Nadu Properties (Tamil_Nadu.txt)	1 BHK Apartment	Tiruchirappalli Main Road	Tiruchirappalli / Tamil Nadu	Apartment / 1 BHK	562	₹11,700/month	Unfurnished	1	Bachelors	Rent
+448	Tamil Nadu Properties (Tamil_Nadu.txt)	5 BHK Apartment	Salem Sector 3	Salem / Tamil Nadu	Apartment / 5 BHK	1856	₹1.24 Cr	Fully-Furnished	5	Family	Sale
+449	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Villa	Tiruchirappalli Sector 3	Tiruchirappalli / Tamil Nadu	Villa / 2 BHK	1098	₹76.23 L	Unfurnished	2	Bachelors	Sale
+450	Tamil Nadu Properties (Tamil_Nadu.txt)	4 BHK Apartment	Coimbatore Nagar	Coimbatore / Tamil Nadu	Apartment / 4 BHK	1686	₹35,400/month	Semi-Furnished	5	Family	Rent
+451	Tamil Nadu Properties (Tamil_Nadu.txt)	4 BHK Builder Floor	Chennai Extension	Chennai / Tamil Nadu	Builder Floor / 4 BHK	1959	₹1.05 Cr	Semi-Furnished	4	Family	Sale
+452	Tamil Nadu Properties (Tamil_Nadu.txt)	3 BHK Apartment	Salem Main Road	Salem / Tamil Nadu	Apartment / 3 BHK	1313	₹81.25 L	Semi-Furnished	3	Family	Sale
+453	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Apartment	Coimbatore Heights	Coimbatore / Tamil Nadu	Apartment / 2 BHK	785	₹50.98 L	Semi-Furnished	2	Bachelors	Sale
+454	Tamil Nadu Properties (Tamil_Nadu.txt)	4 BHK Apartment	Salem South	Salem / Tamil Nadu	Apartment / 4 BHK	1523	₹1.02 Cr	Fully-Furnished	4	Bachelors	Sale
+455	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Apartment	Coimbatore Extension	Coimbatore / Tamil Nadu	Apartment / 2 BHK	1114	₹59.05 L	Fully-Furnished	3	Bachelors	Sale
+456	Tamil Nadu Properties (Tamil_Nadu.txt)	4 BHK Independent House	Chennai Extension	Chennai / Tamil Nadu	Independent House / 4 BHK	2442	₹1.15 Cr	Unfurnished	4	Family	Sale
+457	Tamil Nadu Properties (Tamil_Nadu.txt)	4 BHK Apartment	Coimbatore Colony	Coimbatore / Tamil Nadu	Apartment / 4 BHK	1959	₹1.09 Cr	Semi-Furnished	5	Bachelors	Sale
+458	Tamil Nadu Properties (Tamil_Nadu.txt)	1 BHK Apartment	Madurai Residential Area	Madurai / Tamil Nadu	Apartment / 1 BHK	577	₹41.45 L	Unfurnished	1	Bachelors	Sale
+459	Tamil Nadu Properties (Tamil_Nadu.txt)	4 BHK Apartment	Tiruchirappalli Nagar	Tiruchirappalli / Tamil Nadu	Apartment / 4 BHK	1510	₹99.65 L	Semi-Furnished	4	Any	Sale
+460	Tamil Nadu Properties (Tamil_Nadu.txt)	1 BHK Apartment	Coimbatore Heights	Coimbatore / Tamil Nadu	Apartment / 1 BHK	676	₹42.08 L	Semi-Furnished	2	Family	Sale
+461	Tamil Nadu Properties (Tamil_Nadu.txt)	4 BHK Independent House	Madurai Sector 1	Madurai / Tamil Nadu	Independent House / 4 BHK	1883	₹1.04 Cr	Fully-Furnished	5	Family	Sale
+462	Tamil Nadu Properties (Tamil_Nadu.txt)	3 BHK Apartment	Chennai Central	Chennai / Tamil Nadu	Apartment / 3 BHK	1106	₹27,000/month	Semi-Furnished	3	Bachelors	Rent
+463	Tamil Nadu Properties (Tamil_Nadu.txt)	3 BHK Builder Floor	Salem Extension	Salem / Tamil Nadu	Builder Floor / 3 BHK	1353	₹20,500/month	Semi-Furnished	3	Bachelors	Rent
+464	Tamil Nadu Properties (Tamil_Nadu.txt)	5 BHK Apartment	Chennai Sector 3	Chennai / Tamil Nadu	Apartment / 5 BHK	2280	₹35,700/month	Fully-Furnished	5	Family	Rent
+465	Tamil Nadu Properties (Tamil_Nadu.txt)	3 BHK Apartment	Tiruchirappalli West	Tiruchirappalli / Tamil Nadu	Apartment / 3 BHK	1114	₹1 Cr	Unfurnished	4	Family	Sale
+466	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Apartment	Tiruchirappalli Residential Area	Tiruchirappalli / Tamil Nadu	Apartment / 2 BHK	820	₹16,100/month	Semi-Furnished	3	Family	Rent
+467	Tamil Nadu Properties (Tamil_Nadu.txt)	3 BHK Apartment	Madurai Heights	Madurai / Tamil Nadu	Apartment / 3 BHK	1071	₹92.32 L	Semi-Furnished	3	Family	Sale
+468	Tamil Nadu Properties (Tamil_Nadu.txt)	5 BHK Apartment	Coimbatore Heights	Coimbatore / Tamil Nadu	Apartment / 5 BHK	2320	₹1.51 Cr	Semi-Furnished	4	Family	Sale
+469	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Villa	Salem Residential Area	Salem / Tamil Nadu	Villa / 2 BHK	1075	₹70.96 L	Semi-Furnished	2	Bachelors	Sale
+470	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Builder Floor	Salem Sector 3	Salem / Tamil Nadu	Builder Floor / 2 BHK	840	₹17,700/month	Unfurnished	1	Family	Rent
+471	Tamil Nadu Properties (Tamil_Nadu.txt)	4 BHK Apartment	Tiruchirappalli Sector 3	Tiruchirappalli / Tamil Nadu	Apartment / 4 BHK	2053	₹27,500/month	Unfurnished	4	Family	Rent
+472	Tamil Nadu Properties (Tamil_Nadu.txt)	3 BHK Apartment	Madurai Town Centre	Madurai / Tamil Nadu	Apartment / 3 BHK	1510	₹1.09 Cr	Unfurnished	3	Bachelors	Sale
+473	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Apartment	Salem North	Salem / Tamil Nadu	Apartment / 2 BHK	813	₹69.07 L	Semi-Furnished	2	Family	Sale
+474	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Apartment	Chennai Main Road	Chennai / Tamil Nadu	Apartment / 2 BHK	833	₹57.64 L	Semi-Furnished	2	Any	Sale
+475	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Builder Floor	Salem South	Salem / Tamil Nadu	Builder Floor / 2 BHK	858	₹57.97 L	Semi-Furnished	2	Family	Sale
+476	Tamil Nadu Properties (Tamil_Nadu.txt)	3 BHK Villa	Tiruchirappalli Central	Tiruchirappalli / Tamil Nadu	Villa / 3 BHK	2290	₹25,400/month	Semi-Furnished	3	Family	Rent
+477	Tamil Nadu Properties (Tamil_Nadu.txt)	4 BHK Independent House	Salem Main Road	Salem / Tamil Nadu	Independent House / 4 BHK	1563	₹89.35 L	Semi-Furnished	4	Any	Sale
+478	Tamil Nadu Properties (Tamil_Nadu.txt)	1 BHK Studio	Salem Sector 1	Salem / Tamil Nadu	Studio / 1 BHK	405	₹11,800/month	Fully-Furnished	1	Family	Rent
+479	Tamil Nadu Properties (Tamil_Nadu.txt)	3 BHK Builder Floor	Chennai South	Chennai / Tamil Nadu	Builder Floor / 3 BHK	1065	₹88.17 L	Semi-Furnished	3	Family	Sale
+480	Tamil Nadu Properties (Tamil_Nadu.txt)	3 BHK Apartment	Madurai North	Madurai / Tamil Nadu	Apartment / 3 BHK	1373	₹24,200/month	Unfurnished	2	Family	Rent
+481	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Apartment	Madurai Sector 2	Madurai / Tamil Nadu	Apartment / 2 BHK	741	₹52.96 L	Fully-Furnished	2	Family	Sale
+482	Tamil Nadu Properties (Tamil_Nadu.txt)	3 BHK Apartment	Salem North	Salem / Tamil Nadu	Apartment / 3 BHK	937	₹18,200/month	Unfurnished	3	Any	Rent
+483	Tamil Nadu Properties (Tamil_Nadu.txt)	1 BHK Apartment	Madurai Town Centre	Madurai / Tamil Nadu	Apartment / 1 BHK	502	₹34.80 L	Unfurnished	1	Family	Sale
+484	Tamil Nadu Properties (Tamil_Nadu.txt)	3 BHK Villa	Chennai Nagar	Chennai / Tamil Nadu	Villa / 3 BHK	1664	₹97.41 L	Semi-Furnished	2	Family	Sale
+485	Tamil Nadu Properties (Tamil_Nadu.txt)	4 BHK Apartment	Coimbatore Colony	Coimbatore / Tamil Nadu	Apartment / 4 BHK	1799	₹1.12 Cr	Fully-Furnished	3	Bachelors	Sale
+486	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Apartment	Tiruchirappalli Residential Area	Tiruchirappalli / Tamil Nadu	Apartment / 2 BHK	952	₹75.68 L	Semi-Furnished	3	Any	Sale
+487	Tamil Nadu Properties (Tamil_Nadu.txt)	3 BHK Apartment	Salem West	Salem / Tamil Nadu	Apartment / 3 BHK	973	₹18,700/month	Semi-Furnished	3	Family	Rent
+488	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Apartment	Salem Sector 2	Salem / Tamil Nadu	Apartment / 2 BHK	975	₹20,400/month	Unfurnished	1	Any	Rent
+489	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Builder Floor	Coimbatore Heights	Coimbatore / Tamil Nadu	Builder Floor / 2 BHK	661	₹60.31 L	Semi-Furnished	3	Any	Sale
+490	Tamil Nadu Properties (Tamil_Nadu.txt)	3 BHK Apartment	Tiruchirappalli North	Tiruchirappalli / Tamil Nadu	Apartment / 3 BHK	1167	₹78.82 L	Semi-Furnished	3	Any	Sale
+491	Tamil Nadu Properties (Tamil_Nadu.txt)	3 BHK Apartment	Salem Heights	Salem / Tamil Nadu	Apartment / 3 BHK	944	₹81.77 L	Fully-Furnished	3	Family	Sale
+492	Tamil Nadu Properties (Tamil_Nadu.txt)	1 BHK Apartment	Tiruchirappalli Town Centre	Tiruchirappalli / Tamil Nadu	Apartment / 1 BHK	532	₹40.94 L	Semi-Furnished	1	Family	Sale
+493	Tamil Nadu Properties (Tamil_Nadu.txt)	3 BHK Apartment	Chennai West	Chennai / Tamil Nadu	Apartment / 3 BHK	1302	₹85.70 L	Fully-Furnished	3	Any	Sale
+494	Tamil Nadu Properties (Tamil_Nadu.txt)	1 BHK Independent House	Salem West	Salem / Tamil Nadu	Independent House / 1 BHK	671	₹43.57 L	Semi-Furnished	1	Family	Sale
+495	Tamil Nadu Properties (Tamil_Nadu.txt)	1 BHK Villa	Chennai Extension	Chennai / Tamil Nadu	Villa / 1 BHK	684	₹36.89 L	Fully-Furnished	1	Any	Sale
+496	Tamil Nadu Properties (Tamil_Nadu.txt)	4 BHK Independent House	Madurai Central	Madurai / Tamil Nadu	Independent House / 4 BHK	2035	₹1.05 Cr	Fully-Furnished	4	Any	Sale
+497	Tamil Nadu Properties (Tamil_Nadu.txt)	1 BHK Apartment	Tiruchirappalli Nagar	Tiruchirappalli / Tamil Nadu	Apartment / 1 BHK	426	₹33.31 L	Semi-Furnished	2	Family	Sale
+498	Tamil Nadu Properties (Tamil_Nadu.txt)	4 BHK Apartment	Salem Sector 3	Salem / Tamil Nadu	Apartment / 4 BHK	1870	₹1.20 Cr	Semi-Furnished	4	Any	Sale
+499	Tamil Nadu Properties (Tamil_Nadu.txt)	3 BHK Villa	Tiruchirappalli Extension	Tiruchirappalli / Tamil Nadu	Villa / 3 BHK	1541	₹93.08 L	Unfurnished	3	Bachelors	Sale
+500	Tamil Nadu Properties (Tamil_Nadu.txt)	4 BHK Villa	Madurai Sector 1	Madurai / Tamil Nadu	Villa / 4 BHK	2446	₹1.06 Cr	Unfurnished	3	Bachelors	Sale
+501	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Independent House	Salem Central	Salem / Tamil Nadu	Independent House / 2 BHK	1137	₹17,700/month	Semi-Furnished	2	Bachelors	Rent
+502	Tamil Nadu Properties (Tamil_Nadu.txt)	4 BHK Independent House	Salem Sector 1	Salem / Tamil Nadu	Independent House / 4 BHK	1668	₹93.91 L	Semi-Furnished	4	Any	Sale
+503	Tamil Nadu Properties (Tamil_Nadu.txt)	4 BHK Builder Floor	Salem North	Salem / Tamil Nadu	Builder Floor / 4 BHK	1538	₹1.31 Cr	Fully-Furnished	5	Any	Sale
+504	Tamil Nadu Properties (Tamil_Nadu.txt)	5 BHK Apartment	Salem Extension	Salem / Tamil Nadu	Apartment / 5 BHK	2536	₹1.72 Cr	Semi-Furnished	5	Any	Sale
+505	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Apartment	Tiruchirappalli Central	Tiruchirappalli / Tamil Nadu	Apartment / 2 BHK	927	₹56.97 L	Semi-Furnished	2	Family	Sale
+506	Tamil Nadu Properties (Tamil_Nadu.txt)	4 BHK Apartment	Salem Sector 2	Salem / Tamil Nadu	Apartment / 4 BHK	1929	₹1.10 Cr	Unfurnished	5	Bachelors	Sale
+507	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Apartment	Madurai Heights	Madurai / Tamil Nadu	Apartment / 2 BHK	936	₹16,600/month	Unfurnished	2	Any	Rent
+508	Tamil Nadu Properties (Tamil_Nadu.txt)	3 BHK Villa	Tiruchirappalli Colony	Tiruchirappalli / Tamil Nadu	Villa / 3 BHK	1515	₹20,500/month	Unfurnished	3	Any	Rent
+509	Tamil Nadu Properties (Tamil_Nadu.txt)	1 BHK Studio	Salem Central	Salem / Tamil Nadu	Studio / 1 BHK	320	₹9,300/month	Unfurnished	1	Any	Rent
+510	Tamil Nadu Properties (Tamil_Nadu.txt)	3 BHK Independent House	Tiruchirappalli Residential Area	Tiruchirappalli / Tamil Nadu	Independent House / 3 BHK	1346	₹1.03 Cr	Unfurnished	3	Any	Sale
+511	Tamil Nadu Properties (Tamil_Nadu.txt)	3 BHK Apartment	Tiruchirappalli North	Tiruchirappalli / Tamil Nadu	Apartment / 3 BHK	1446	₹24,800/month	Semi-Furnished	3	Family	Rent
+512	Tamil Nadu Properties (Tamil_Nadu.txt)	1 BHK Studio	Madurai Heights	Madurai / Tamil Nadu	Studio / 1 BHK	373	₹10,600/month	Semi-Furnished	1	Any	Rent
+513	Tamil Nadu Properties (Tamil_Nadu.txt)	5 BHK Independent House	Madurai Colony	Madurai / Tamil Nadu	Independent House / 5 BHK	3351	₹1.82 Cr	Semi-Furnished	6	Family	Sale
+514	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Villa	Tiruchirappalli West	Tiruchirappalli / Tamil Nadu	Villa / 2 BHK	1143	₹18,000/month	Fully-Furnished	2	Family	Rent
+515	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Independent House	Coimbatore Heights	Coimbatore / Tamil Nadu	Independent House / 2 BHK	1159	₹63.23 L	Fully-Furnished	2	Family	Sale
+516	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Independent House	Salem Heights	Salem / Tamil Nadu	Independent House / 2 BHK	1050	₹68.38 L	Unfurnished	1	Bachelors	Sale
+517	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Apartment	Tiruchirappalli Heights	Tiruchirappalli / Tamil Nadu	Apartment / 2 BHK	826	₹18,500/month	Fully-Furnished	2	Bachelors	Rent
+518	Tamil Nadu Properties (Tamil_Nadu.txt)	1 BHK Apartment	Madurai West	Madurai / Tamil Nadu	Apartment / 1 BHK	519	₹11,900/month	Unfurnished	1	Family	Rent
+519	Tamil Nadu Properties (Tamil_Nadu.txt)	3 BHK Apartment	Coimbatore Extension	Coimbatore / Tamil Nadu	Apartment / 3 BHK	1443	₹27,900/month	Unfurnished	3	Any	Rent
+520	Tamil Nadu Properties (Tamil_Nadu.txt)	3 BHK Builder Floor	Tiruchirappalli East	Tiruchirappalli / Tamil Nadu	Builder Floor / 3 BHK	1273	₹74.14 L	Fully-Furnished	4	Family	Sale
+521	Tamil Nadu Properties (Tamil_Nadu.txt)	4 BHK Apartment	Madurai Sector 1	Madurai / Tamil Nadu	Apartment / 4 BHK	1790	₹1.02 Cr	Unfurnished	4	Family	Sale
+522	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Independent House	Tiruchirappalli Central	Tiruchirappalli / Tamil Nadu	Independent House / 2 BHK	963	₹20,600/month	Unfurnished	2	Bachelors	Rent
+523	Tamil Nadu Properties (Tamil_Nadu.txt)	5 BHK Apartment	Coimbatore East	Coimbatore / Tamil Nadu	Apartment / 5 BHK	3059	₹1.79 Cr	Semi-Furnished	5	Any	Sale
+524	Tamil Nadu Properties (Tamil_Nadu.txt)	3 BHK Villa	Chennai Central	Chennai / Tamil Nadu	Villa / 3 BHK	1665	₹99.57 L	Semi-Furnished	3	Family	Sale
+525	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Builder Floor	Madurai Residential Area	Madurai / Tamil Nadu	Builder Floor / 2 BHK	789	₹18,700/month	Fully-Furnished	1	Bachelors	Rent
+526	Tamil Nadu Properties (Tamil_Nadu.txt)	4 BHK Villa	Salem Heights	Salem / Tamil Nadu	Villa / 4 BHK	2548	₹1.49 Cr	Semi-Furnished	3	Family	Sale
+527	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Apartment	Coimbatore Colony	Coimbatore / Tamil Nadu	Apartment / 2 BHK	784	₹54.56 L	Semi-Furnished	2	Family	Sale
+528	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Apartment	Chennai North	Chennai / Tamil Nadu	Apartment / 2 BHK	1079	₹54.89 L	Semi-Furnished	3	Family	Sale
+529	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Villa	Chennai Sector 2	Chennai / Tamil Nadu	Villa / 2 BHK	897	₹73.55 L	Unfurnished	2	Family	Sale
+530	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Independent House	Tiruchirappalli Sector 1	Tiruchirappalli / Tamil Nadu	Independent House / 2 BHK	748	₹16,000/month	Unfurnished	2	Any	Rent
+531	Tamil Nadu Properties (Tamil_Nadu.txt)	3 BHK Apartment	Salem Sector 1	Salem / Tamil Nadu	Apartment / 3 BHK	1194	₹72.32 L	Unfurnished	2	Bachelors	Sale
+532	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Apartment	Chennai North	Chennai / Tamil Nadu	Apartment / 2 BHK	738	₹67.12 L	Fully-Furnished	2	Family	Sale
+533	Tamil Nadu Properties (Tamil_Nadu.txt)	4 BHK Apartment	Tiruchirappalli Sector 3	Tiruchirappalli / Tamil Nadu	Apartment / 4 BHK	1649	₹94.69 L	Fully-Furnished	3	Family	Sale
+534	Tamil Nadu Properties (Tamil_Nadu.txt)	3 BHK Apartment	Madurai Heights	Madurai / Tamil Nadu	Apartment / 3 BHK	1051	₹72.17 L	Semi-Furnished	2	Family	Sale
+535	Tamil Nadu Properties (Tamil_Nadu.txt)	3 BHK Apartment	Coimbatore Sector 3	Coimbatore / Tamil Nadu	Apartment / 3 BHK	1325	₹72.82 L	Semi-Furnished	4	Family	Sale
+536	Tamil Nadu Properties (Tamil_Nadu.txt)	3 BHK Apartment	Tiruchirappalli Town Centre	Tiruchirappalli / Tamil Nadu	Apartment / 3 BHK	1118	₹96.67 L	Fully-Furnished	3	Family	Sale
+537	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Apartment	Chennai West	Chennai / Tamil Nadu	Apartment / 2 BHK	902	₹75.42 L	Semi-Furnished	3	Any	Sale
+538	Tamil Nadu Properties (Tamil_Nadu.txt)	3 BHK Independent House	Coimbatore Residential Area	Coimbatore / Tamil Nadu	Independent House / 3 BHK	1526	₹95.85 L	Unfurnished	3	Bachelors	Sale
+539	Tamil Nadu Properties (Tamil_Nadu.txt)	5 BHK Apartment	Salem Main Road	Salem / Tamil Nadu	Apartment / 5 BHK	1705	₹1.52 Cr	Unfurnished	5	Any	Sale
+540	Tamil Nadu Properties (Tamil_Nadu.txt)	1 BHK Builder Floor	Chennai Heights	Chennai / Tamil Nadu	Builder Floor / 1 BHK	659	₹11,400/month	Unfurnished	1	Bachelors	Rent
+541	Tamil Nadu Properties (Tamil_Nadu.txt)	3 BHK Independent House	Coimbatore Nagar	Coimbatore / Tamil Nadu	Independent House / 3 BHK	1496	₹24,800/month	Fully-Furnished	3	Family	Rent
+542	Tamil Nadu Properties (Tamil_Nadu.txt)	1 BHK Apartment	Tiruchirappalli Sector 3	Tiruchirappalli / Tamil Nadu	Apartment / 1 BHK	484	₹38.29 L	Semi-Furnished	2	Family	Sale
+543	Tamil Nadu Properties (Tamil_Nadu.txt)	1 BHK Villa	Coimbatore West	Coimbatore / Tamil Nadu	Villa / 1 BHK	746	₹50.05 L	Semi-Furnished	1	Any	Sale
+544	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Builder Floor	Chennai East	Chennai / Tamil Nadu	Builder Floor / 2 BHK	734	₹64.65 L	Semi-Furnished	1	Bachelors	Sale
+545	Tamil Nadu Properties (Tamil_Nadu.txt)	1 BHK Builder Floor	Madurai Main Road	Madurai / Tamil Nadu	Builder Floor / 1 BHK	452	₹9,500/month	Semi-Furnished	1	Bachelors	Rent
+546	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Builder Floor	Madurai West	Madurai / Tamil Nadu	Builder Floor / 2 BHK	826	₹64.48 L	Fully-Furnished	1	Family	Sale
+547	Tamil Nadu Properties (Tamil_Nadu.txt)	1 BHK Apartment	Salem North	Salem / Tamil Nadu	Apartment / 1 BHK	441	₹39.65 L	Semi-Furnished	1	Family	Sale
+548	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Apartment	Coimbatore Sector 3	Coimbatore / Tamil Nadu	Apartment / 2 BHK	827	₹63.10 L	Unfurnished	2	Any	Sale
+549	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Independent House	Salem Residential Area	Salem / Tamil Nadu	Independent House / 2 BHK	798	₹73.79 L	Semi-Furnished	2	Family	Sale
+550	Tamil Nadu Properties (Tamil_Nadu.txt)	3 BHK Builder Floor	Madurai Central	Madurai / Tamil Nadu	Builder Floor / 3 BHK	1290	₹28,600/month	Unfurnished	3	Family	Rent
+551	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Builder Floor	Chennai West	Chennai / Tamil Nadu	Builder Floor / 2 BHK	871	₹14,400/month	Unfurnished	1	Family	Rent
+552	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Independent House	Chennai Sector 1	Chennai / Tamil Nadu	Independent House / 2 BHK	1121	₹68.22 L	Fully-Furnished	2	Family	Sale
+553	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Apartment	Coimbatore Extension	Coimbatore / Tamil Nadu	Apartment / 2 BHK	857	₹54.50 L	Semi-Furnished	3	Family	Sale
+554	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Apartment	Madurai Extension	Madurai / Tamil Nadu	Apartment / 2 BHK	519	₹53.11 L	Semi-Furnished	2	Family	Sale
+555	Tamil Nadu Properties (Tamil_Nadu.txt)	3 BHK Apartment	Coimbatore Colony	Coimbatore / Tamil Nadu	Apartment / 3 BHK	1422	₹24,500/month	Fully-Furnished	3	Family	Rent
+556	Tamil Nadu Properties (Tamil_Nadu.txt)	4 BHK Apartment	Tiruchirappalli Heights	Tiruchirappalli / Tamil Nadu	Apartment / 4 BHK	1858	₹1.29 Cr	Semi-Furnished	4	Bachelors	Sale
+557	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Apartment	Tiruchirappalli Town Centre	Tiruchirappalli / Tamil Nadu	Apartment / 2 BHK	841	₹55.74 L	Unfurnished	2	Family	Sale
+558	Tamil Nadu Properties (Tamil_Nadu.txt)	1 BHK Studio	Madurai East	Madurai / Tamil Nadu	Studio / 1 BHK	402	₹31.66 L	Semi-Furnished	1	Bachelors	Sale
+559	Tamil Nadu Properties (Tamil_Nadu.txt)	3 BHK Apartment	Coimbatore Extension	Coimbatore / Tamil Nadu	Apartment / 3 BHK	1290	₹22,400/month	Semi-Furnished	4	Family	Rent
+560	Tamil Nadu Properties (Tamil_Nadu.txt)	3 BHK Independent House	Salem South	Salem / Tamil Nadu	Independent House / 3 BHK	1652	₹22,000/month	Fully-Furnished	2	Bachelors	Rent
+561	Tamil Nadu Properties (Tamil_Nadu.txt)	3 BHK Builder Floor	Salem Sector 1	Salem / Tamil Nadu	Builder Floor / 3 BHK	1292	₹20,100/month	Semi-Furnished	3	Any	Rent
+562	Tamil Nadu Properties (Tamil_Nadu.txt)	5 BHK Villa	Salem South	Salem / Tamil Nadu	Villa / 5 BHK	3026	₹1.57 Cr	Semi-Furnished	5	Any	Sale
+563	Tamil Nadu Properties (Tamil_Nadu.txt)	3 BHK Apartment	Madurai Colony	Madurai / Tamil Nadu	Apartment / 3 BHK	1014	₹19,800/month	Unfurnished	4	Bachelors	Rent
+564	Tamil Nadu Properties (Tamil_Nadu.txt)	1 BHK Studio	Coimbatore Town Centre	Coimbatore / Tamil Nadu	Studio / 1 BHK	361	₹12,000/month	Unfurnished	1	Bachelors	Rent
+565	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Builder Floor	Chennai Main Road	Chennai / Tamil Nadu	Builder Floor / 2 BHK	669	₹61.96 L	Unfurnished	2	Family	Sale
+566	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Apartment	Tiruchirappalli Extension	Tiruchirappalli / Tamil Nadu	Apartment / 2 BHK	775	₹68.52 L	Semi-Furnished	2	Bachelors	Sale
+567	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Apartment	Salem North	Salem / Tamil Nadu	Apartment / 2 BHK	965	₹69.76 L	Semi-Furnished	2	Family	Sale
+568	Tamil Nadu Properties (Tamil_Nadu.txt)	5 BHK Apartment	Tiruchirappalli Town Centre	Tiruchirappalli / Tamil Nadu	Apartment / 5 BHK	2480	₹32,300/month	Semi-Furnished	5	Any	Rent
+569	Tamil Nadu Properties (Tamil_Nadu.txt)	3 BHK Apartment	Coimbatore Sector 2	Coimbatore / Tamil Nadu	Apartment / 3 BHK	1317	₹80.64 L	Semi-Furnished	2	Family	Sale
+570	Tamil Nadu Properties (Tamil_Nadu.txt)	3 BHK Independent House	Coimbatore Sector 3	Coimbatore / Tamil Nadu	Independent House / 3 BHK	1480	₹82.93 L	Unfurnished	2	Family	Sale
+571	Tamil Nadu Properties (Tamil_Nadu.txt)	4 BHK Independent House	Coimbatore Residential Area	Coimbatore / Tamil Nadu	Independent House / 4 BHK	2417	₹29,100/month	Fully-Furnished	3	Family	Rent
+572	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Apartment	Madurai North	Madurai / Tamil Nadu	Apartment / 2 BHK	852	₹52.88 L	Semi-Furnished	2	Family	Sale
+573	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Independent House	Salem Residential Area	Salem / Tamil Nadu	Independent House / 2 BHK	1113	₹21,000/month	Semi-Furnished	2	Any	Rent
+574	Tamil Nadu Properties (Tamil_Nadu.txt)	3 BHK Apartment	Salem North	Salem / Tamil Nadu	Apartment / 3 BHK	1133	₹79.78 L	Unfurnished	2	Bachelors	Sale
+575	Tamil Nadu Properties (Tamil_Nadu.txt)	3 BHK Apartment	Tiruchirappalli Main Road	Tiruchirappalli / Tamil Nadu	Apartment / 3 BHK	1294	₹88.64 L	Semi-Furnished	3	Bachelors	Sale
+576	Tamil Nadu Properties (Tamil_Nadu.txt)	3 BHK Apartment	Chennai Central	Chennai / Tamil Nadu	Apartment / 3 BHK	1177	₹83.92 L	Unfurnished	3	Family	Sale
+577	Tamil Nadu Properties (Tamil_Nadu.txt)	4 BHK Villa	Tiruchirappalli Residential Area	Tiruchirappalli / Tamil Nadu	Villa / 4 BHK	2273	₹99.99 L	Semi-Furnished	4	Bachelors	Sale
+578	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Apartment	Chennai Nagar	Chennai / Tamil Nadu	Apartment / 2 BHK	913	₹67.29 L	Unfurnished	2	Family	Sale
+579	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Independent House	Tiruchirappalli Heights	Tiruchirappalli / Tamil Nadu	Independent House / 2 BHK	926	₹54.17 L	Semi-Furnished	2	Any	Sale
+580	Tamil Nadu Properties (Tamil_Nadu.txt)	3 BHK Apartment	Chennai Colony	Chennai / Tamil Nadu	Apartment / 3 BHK	851	₹22,200/month	Fully-Furnished	3	Bachelors	Rent
+581	Tamil Nadu Properties (Tamil_Nadu.txt)	4 BHK Apartment	Salem South	Salem / Tamil Nadu	Apartment / 4 BHK	1992	₹1.09 Cr	Semi-Furnished	5	Family	Sale
+582	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Villa	Coimbatore Main Road	Coimbatore / Tamil Nadu	Villa / 2 BHK	1269	₹63.10 L	Fully-Furnished	2	Family	Sale
+583	Tamil Nadu Properties (Tamil_Nadu.txt)	3 BHK Apartment	Tiruchirappalli South	Tiruchirappalli / Tamil Nadu	Apartment / 3 BHK	1154	₹19,500/month	Semi-Furnished	3	Family	Rent
+584	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Independent House	Salem East	Salem / Tamil Nadu	Independent House / 2 BHK	1339	₹67.03 L	Semi-Furnished	2	Any	Sale
+585	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Apartment	Tiruchirappalli North	Tiruchirappalli / Tamil Nadu	Apartment / 2 BHK	758	₹17,500/month	Semi-Furnished	2	Family	Rent
+586	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Apartment	Tiruchirappalli Town Centre	Tiruchirappalli / Tamil Nadu	Apartment / 2 BHK	970	₹17,800/month	Fully-Furnished	2	Any	Rent
+587	Tamil Nadu Properties (Tamil_Nadu.txt)	3 BHK Builder Floor	Chennai East	Chennai / Tamil Nadu	Builder Floor / 3 BHK	1227	₹28,100/month	Semi-Furnished	4	Any	Rent
+588	Tamil Nadu Properties (Tamil_Nadu.txt)	1 BHK Studio	Coimbatore West	Coimbatore / Tamil Nadu	Studio / 1 BHK	357	₹43.75 L	Semi-Furnished	2	Family	Sale
+589	Tamil Nadu Properties (Tamil_Nadu.txt)	1 BHK Apartment	Salem Sector 1	Salem / Tamil Nadu	Apartment / 1 BHK	604	₹11,600/month	Semi-Furnished	1	Family	Rent
+590	Tamil Nadu Properties (Tamil_Nadu.txt)	3 BHK Apartment	Tiruchirappalli Sector 3	Tiruchirappalli / Tamil Nadu	Apartment / 3 BHK	1433	₹1.05 Cr	Unfurnished	3	Family	Sale
+591	Tamil Nadu Properties (Tamil_Nadu.txt)	1 BHK Apartment	Chennai Central	Chennai / Tamil Nadu	Apartment / 1 BHK	529	₹9,800/month	Unfurnished	1	Any	Rent
+592	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Independent House	Chennai Sector 1	Chennai / Tamil Nadu	Independent House / 2 BHK	982	₹21,100/month	Fully-Furnished	2	Family	Rent
+593	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Apartment	Salem South	Salem / Tamil Nadu	Apartment / 2 BHK	967	₹73.32 L	Fully-Furnished	2	Any	Sale
+594	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Independent House	Salem East	Salem / Tamil Nadu	Independent House / 2 BHK	1104	₹19,200/month	Semi-Furnished	2	Family	Rent
+595	Tamil Nadu Properties (Tamil_Nadu.txt)	3 BHK Apartment	Salem Town Centre	Salem / Tamil Nadu	Apartment / 3 BHK	965	₹80.24 L	Fully-Furnished	3	Any	Sale
+596	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Apartment	Salem Sector 1	Salem / Tamil Nadu	Apartment / 2 BHK	729	₹64.66 L	Semi-Furnished	2	Family	Sale
+597	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Apartment	Chennai Residential Area	Chennai / Tamil Nadu	Apartment / 2 BHK	1097	₹16,400/month	Fully-Furnished	1	Any	Rent
+598	Tamil Nadu Properties (Tamil_Nadu.txt)	4 BHK Apartment	Madurai Nagar	Madurai / Tamil Nadu	Apartment / 4 BHK	1512	₹1.15 Cr	Semi-Furnished	4	Any	Sale
+599	Tamil Nadu Properties (Tamil_Nadu.txt)	3 BHK Villa	Chennai Sector 3	Chennai / Tamil Nadu	Villa / 3 BHK	2178	₹95.53 L	Fully-Furnished	3	Family	Sale
+600	Tamil Nadu Properties (Tamil_Nadu.txt)	3 BHK Apartment	Chennai Colony	Chennai / Tamil Nadu	Apartment / 3 BHK	1218	₹20,300/month	Unfurnished	3	Any	Rent
+601	Tamil Nadu Properties (Tamil_Nadu.txt)	3 BHK Builder Floor	Salem Town Centre	Salem / Tamil Nadu	Builder Floor / 3 BHK	1069	₹73.05 L	Unfurnished	4	Family	Sale
+602	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Apartment	Tiruchirappalli West	Tiruchirappalli / Tamil Nadu	Apartment / 2 BHK	820	₹18,000/month	Unfurnished	2	Any	Rent
+603	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Builder Floor	Salem West	Salem / Tamil Nadu	Builder Floor / 2 BHK	1064	₹20,200/month	Fully-Furnished	1	Any	Rent
+604	Tamil Nadu Properties (Tamil_Nadu.txt)	3 BHK Independent House	Madurai East	Madurai / Tamil Nadu	Independent House / 3 BHK	1249	₹87.02 L	Fully-Furnished	3	Family	Sale
+605	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Builder Floor	Coimbatore Sector 1	Coimbatore / Tamil Nadu	Builder Floor / 2 BHK	661	₹60.59 L	Semi-Furnished	2	Family	Sale
+606	Tamil Nadu Properties (Tamil_Nadu.txt)	3 BHK Villa	Tiruchirappalli Central	Tiruchirappalli / Tamil Nadu	Villa / 3 BHK	1388	₹22,400/month	Fully-Furnished	3	Any	Rent
+607	Tamil Nadu Properties (Tamil_Nadu.txt)	1 BHK Studio	Madurai Sector 2	Madurai / Tamil Nadu	Studio / 1 BHK	300	₹37.71 L	Fully-Furnished	1	Family	Sale
+608	Tamil Nadu Properties (Tamil_Nadu.txt)	3 BHK Builder Floor	Coimbatore Extension	Coimbatore / Tamil Nadu	Builder Floor / 3 BHK	1626	₹1 Cr	Unfurnished	4	Family	Sale
+609	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Independent House	Tiruchirappalli Main Road	Tiruchirappalli / Tamil Nadu	Independent House / 2 BHK	989	₹72.03 L	Fully-Furnished	2	Family	Sale
+610	Tamil Nadu Properties (Tamil_Nadu.txt)	3 BHK Apartment	Madurai Heights	Madurai / Tamil Nadu	Apartment / 3 BHK	1289	₹22,300/month	Semi-Furnished	3	Bachelors	Rent
+611	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Apartment	Coimbatore Sector 1	Coimbatore / Tamil Nadu	Apartment / 2 BHK	898	₹55.99 L	Fully-Furnished	1	Family	Sale
+612	Tamil Nadu Properties (Tamil_Nadu.txt)	1 BHK Builder Floor	Coimbatore Sector 1	Coimbatore / Tamil Nadu	Builder Floor / 1 BHK	539	₹36.37 L	Unfurnished	1	Family	Sale
+613	Tamil Nadu Properties (Tamil_Nadu.txt)	4 BHK Builder Floor	Coimbatore East	Coimbatore / Tamil Nadu	Builder Floor / 4 BHK	1657	₹93.15 L	Semi-Furnished	5	Bachelors	Sale
+614	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Independent House	Madurai Nagar	Madurai / Tamil Nadu	Independent House / 2 BHK	1163	₹72.16 L	Semi-Furnished	2	Any	Sale
+615	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Apartment	Tiruchirappalli Residential Area	Tiruchirappalli / Tamil Nadu	Apartment / 2 BHK	844	₹60.13 L	Fully-Furnished	2	Family	Sale
+616	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Apartment	Coimbatore West	Coimbatore / Tamil Nadu	Apartment / 2 BHK	973	₹20,800/month	Fully-Furnished	2	Bachelors	Rent
+617	Tamil Nadu Properties (Tamil_Nadu.txt)	4 BHK Apartment	Coimbatore Extension	Coimbatore / Tamil Nadu	Apartment / 4 BHK	1534	₹25,000/month	Semi-Furnished	4	Any	Rent
+618	Tamil Nadu Properties (Tamil_Nadu.txt)	4 BHK Apartment	Tiruchirappalli Colony	Tiruchirappalli / Tamil Nadu	Apartment / 4 BHK	1631	₹33,900/month	Fully-Furnished	3	Bachelors	Rent
+619	Tamil Nadu Properties (Tamil_Nadu.txt)	4 BHK Apartment	Tiruchirappalli North	Tiruchirappalli / Tamil Nadu	Apartment / 4 BHK	2056	₹31,000/month	Unfurnished	4	Family	Rent
+620	Tamil Nadu Properties (Tamil_Nadu.txt)	3 BHK Independent House	Madurai Residential Area	Madurai / Tamil Nadu	Independent House / 3 BHK	1026	₹91.72 L	Unfurnished	2	Bachelors	Sale
+621	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Independent House	Chennai East	Chennai / Tamil Nadu	Independent House / 2 BHK	839	₹64.83 L	Semi-Furnished	1	Any	Sale
+622	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Apartment	Tiruchirappalli Colony	Tiruchirappalli / Tamil Nadu	Apartment / 2 BHK	871	₹17,800/month	Unfurnished	1	Family	Rent
+623	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Apartment	Salem Heights	Salem / Tamil Nadu	Apartment / 2 BHK	831	₹15,700/month	Fully-Furnished	1	Family	Rent
+624	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Apartment	Chennai Main Road	Chennai / Tamil Nadu	Apartment / 2 BHK	1060	₹78.70 L	Fully-Furnished	2	Family	Sale
+625	Tamil Nadu Properties (Tamil_Nadu.txt)	1 BHK Builder Floor	Madurai Central	Madurai / Tamil Nadu	Builder Floor / 1 BHK	489	₹11,000/month	Fully-Furnished	2	Any	Rent
+626	Tamil Nadu Properties (Tamil_Nadu.txt)	4 BHK Apartment	Madurai Town Centre	Madurai / Tamil Nadu	Apartment / 4 BHK	1900	₹1.36 Cr	Semi-Furnished	3	Any	Sale
+627	Tamil Nadu Properties (Tamil_Nadu.txt)	1 BHK Apartment	Tiruchirappalli Colony	Tiruchirappalli / Tamil Nadu	Apartment / 1 BHK	352	₹34.86 L	Fully-Furnished	1	Family	Sale
+628	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Apartment	Chennai Sector 1	Chennai / Tamil Nadu	Apartment / 2 BHK	976	₹77.84 L	Semi-Furnished	2	Family	Sale
+629	Tamil Nadu Properties (Tamil_Nadu.txt)	3 BHK Builder Floor	Coimbatore Heights	Coimbatore / Tamil Nadu	Builder Floor / 3 BHK	1149	₹26,600/month	Semi-Furnished	4	Family	Rent
+630	Tamil Nadu Properties (Tamil_Nadu.txt)	3 BHK Apartment	Chennai Town Centre	Chennai / Tamil Nadu	Apartment / 3 BHK	1343	₹1.01 Cr	Fully-Furnished	3	Bachelors	Sale
+631	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Apartment	Madurai Residential Area	Madurai / Tamil Nadu	Apartment / 2 BHK	849	₹60.46 L	Unfurnished	2	Family	Sale
+632	Tamil Nadu Properties (Tamil_Nadu.txt)	1 BHK Apartment	Madurai Central	Madurai / Tamil Nadu	Apartment / 1 BHK	571	₹13,600/month	Semi-Furnished	1	Bachelors	Rent
+633	Tamil Nadu Properties (Tamil_Nadu.txt)	3 BHK Independent House	Madurai Sector 3	Madurai / Tamil Nadu	Independent House / 3 BHK	1557	₹91.62 L	Semi-Furnished	2	Family	Sale
+634	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Apartment	Coimbatore South	Coimbatore / Tamil Nadu	Apartment / 2 BHK	867	₹57.76 L	Semi-Furnished	1	Bachelors	Sale
+635	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Apartment	Coimbatore Extension	Coimbatore / Tamil Nadu	Apartment / 2 BHK	788	₹19,700/month	Unfurnished	1	Family	Rent
+636	Tamil Nadu Properties (Tamil_Nadu.txt)	5 BHK Apartment	Coimbatore Main Road	Coimbatore / Tamil Nadu	Apartment / 5 BHK	2658	₹1.73 Cr	Unfurnished	5	Family	Sale
+637	Tamil Nadu Properties (Tamil_Nadu.txt)	3 BHK Villa	Coimbatore Colony	Coimbatore / Tamil Nadu	Villa / 3 BHK	1768	₹30,500/month	Fully-Furnished	3	Family	Rent
+638	Tamil Nadu Properties (Tamil_Nadu.txt)	1 BHK Apartment	Coimbatore Sector 1	Coimbatore / Tamil Nadu	Apartment / 1 BHK	425	₹9,600/month	Fully-Furnished	1	Family	Rent
+639	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Apartment	Tiruchirappalli Sector 3	Tiruchirappalli / Tamil Nadu	Apartment / 2 BHK	850	₹60.91 L	Semi-Furnished	2	Family	Sale
+640	Tamil Nadu Properties (Tamil_Nadu.txt)	4 BHK Villa	Chennai Central	Chennai / Tamil Nadu	Villa / 4 BHK	2914	₹1.47 Cr	Semi-Furnished	3	Bachelors	Sale
+641	Tamil Nadu Properties (Tamil_Nadu.txt)	3 BHK Apartment	Salem West	Salem / Tamil Nadu	Apartment / 3 BHK	1124	₹18,900/month	Unfurnished	3	Any	Rent
+642	Tamil Nadu Properties (Tamil_Nadu.txt)	1 BHK Builder Floor	Coimbatore Extension	Coimbatore / Tamil Nadu	Builder Floor / 1 BHK	529	₹9,500/month	Unfurnished	1	Family	Rent
+643	Tamil Nadu Properties (Tamil_Nadu.txt)	3 BHK Apartment	Salem Extension	Salem / Tamil Nadu	Apartment / 3 BHK	1423	₹1.06 Cr	Semi-Furnished	3	Bachelors	Sale
+644	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Builder Floor	Chennai Nagar	Chennai / Tamil Nadu	Builder Floor / 2 BHK	1193	₹64.70 L	Fully-Furnished	2	Family	Sale
+645	Tamil Nadu Properties (Tamil_Nadu.txt)	4 BHK Apartment	Tiruchirappalli Heights	Tiruchirappalli / Tamil Nadu	Apartment / 4 BHK	1541	₹1.17 Cr	Fully-Furnished	4	Bachelors	Sale
+646	Tamil Nadu Properties (Tamil_Nadu.txt)	3 BHK Apartment	Chennai Town Centre	Chennai / Tamil Nadu	Apartment / 3 BHK	1335	₹76.28 L	Semi-Furnished	3	Family	Sale
+647	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Apartment	Chennai South	Chennai / Tamil Nadu	Apartment / 2 BHK	779	₹53.57 L	Fully-Furnished	1	Bachelors	Sale
+648	Tamil Nadu Properties (Tamil_Nadu.txt)	3 BHK Apartment	Madurai West	Madurai / Tamil Nadu	Apartment / 3 BHK	1075	₹23,900/month	Fully-Furnished	2	Any	Rent
+649	Tamil Nadu Properties (Tamil_Nadu.txt)	5 BHK Builder Floor	Chennai North	Chennai / Tamil Nadu	Builder Floor / 5 BHK	2441	₹1.55 Cr	Semi-Furnished	5	Bachelors	Sale
+650	Tamil Nadu Properties (Tamil_Nadu.txt)	1 BHK Builder Floor	Chennai Sector 3	Chennai / Tamil Nadu	Builder Floor / 1 BHK	517	₹47.83 L	Semi-Furnished	1	Any	Sale
+651	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Apartment	Salem Colony	Salem / Tamil Nadu	Apartment / 2 BHK	885	₹56.32 L	Unfurnished	3	Bachelors	Sale
+652	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Independent House	Coimbatore Sector 2	Coimbatore / Tamil Nadu	Independent House / 2 BHK	1056	₹69.77 L	Unfurnished	1	Bachelors	Sale
+653	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Apartment	Tiruchirappalli Extension	Tiruchirappalli / Tamil Nadu	Apartment / 2 BHK	880	₹19,200/month	Fully-Furnished	2	Family	Rent
+654	Tamil Nadu Properties (Tamil_Nadu.txt)	3 BHK Apartment	Tiruchirappalli East	Tiruchirappalli / Tamil Nadu	Apartment / 3 BHK	1130	₹76.56 L	Unfurnished	3	Any	Sale
+655	Tamil Nadu Properties (Tamil_Nadu.txt)	1 BHK Apartment	Madurai Sector 1	Madurai / Tamil Nadu	Apartment / 1 BHK	512	₹39.32 L	Semi-Furnished	1	Any	Sale
+656	Tamil Nadu Properties (Tamil_Nadu.txt)	1 BHK Builder Floor	Salem Central	Salem / Tamil Nadu	Builder Floor / 1 BHK	532	₹12,700/month	Unfurnished	1	Bachelors	Rent
+657	Tamil Nadu Properties (Tamil_Nadu.txt)	1 BHK Villa	Madurai Sector 2	Madurai / Tamil Nadu	Villa / 1 BHK	710	₹36.56 L	Semi-Furnished	1	Any	Sale
+658	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Apartment	Madurai Sector 2	Madurai / Tamil Nadu	Apartment / 2 BHK	889	₹17,400/month	Fully-Furnished	2	Bachelors	Rent
+659	Tamil Nadu Properties (Tamil_Nadu.txt)	1 BHK Independent House	Chennai Nagar	Chennai / Tamil Nadu	Independent House / 1 BHK	585	₹48.25 L	Unfurnished	1	Bachelors	Sale
+660	Tamil Nadu Properties (Tamil_Nadu.txt)	1 BHK Studio	Chennai Sector 3	Chennai / Tamil Nadu	Studio / 1 BHK	398	₹10,100/month	Unfurnished	1	Bachelors	Rent
+661	Tamil Nadu Properties (Tamil_Nadu.txt)	3 BHK Independent House	Tiruchirappalli Sector 3	Tiruchirappalli / Tamil Nadu	Independent House / 3 BHK	1407	₹23,700/month	Semi-Furnished	3	Family	Rent
+662	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Apartment	Tiruchirappalli Heights	Tiruchirappalli / Tamil Nadu	Apartment / 2 BHK	929	₹19,400/month	Fully-Furnished	3	Family	Rent
+663	Tamil Nadu Properties (Tamil_Nadu.txt)	1 BHK Apartment	Tiruchirappalli Sector 3	Tiruchirappalli / Tamil Nadu	Apartment / 1 BHK	600	₹42.67 L	Unfurnished	1	Family	Sale
+664	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Apartment	Tiruchirappalli Nagar	Tiruchirappalli / Tamil Nadu	Apartment / 2 BHK	934	₹55.77 L	Semi-Furnished	2	Family	Sale
+665	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Apartment	Salem Colony	Salem / Tamil Nadu	Apartment / 2 BHK	880	₹15,100/month	Unfurnished	2	Family	Rent
+666	Tamil Nadu Properties (Tamil_Nadu.txt)	5 BHK Apartment	Madurai Extension	Madurai / Tamil Nadu	Apartment / 5 BHK	2147	₹41,000/month	Fully-Furnished	6	Any	Rent
+667	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Independent House	Chennai Sector 1	Chennai / Tamil Nadu	Independent House / 2 BHK	1330	₹19,900/month	Semi-Furnished	3	Bachelors	Rent
+668	Tamil Nadu Properties (Tamil_Nadu.txt)	4 BHK Apartment	Tiruchirappalli Colony	Tiruchirappalli / Tamil Nadu	Apartment / 4 BHK	2243	₹30,800/month	Unfurnished	3	Bachelors	Rent
+669	Tamil Nadu Properties (Tamil_Nadu.txt)	4 BHK Builder Floor	Chennai Sector 1	Chennai / Tamil Nadu	Builder Floor / 4 BHK	1649	₹1.15 Cr	Unfurnished	4	Any	Sale
+670	Tamil Nadu Properties (Tamil_Nadu.txt)	5 BHK Apartment	Madurai Extension	Madurai / Tamil Nadu	Apartment / 5 BHK	1972	₹1.41 Cr	Unfurnished	4	Bachelors	Sale
+671	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Apartment	Tiruchirappalli East	Tiruchirappalli / Tamil Nadu	Apartment / 2 BHK	963	₹20,800/month	Semi-Furnished	1	Any	Rent
+672	Tamil Nadu Properties (Tamil_Nadu.txt)	1 BHK Independent House	Salem Sector 3	Salem / Tamil Nadu	Independent House / 1 BHK	700	₹41.64 L	Semi-Furnished	1	Family	Sale
+673	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Independent House	Tiruchirappalli North	Tiruchirappalli / Tamil Nadu	Independent House / 2 BHK	1116	₹79.18 L	Unfurnished	2	Family	Sale
+674	Tamil Nadu Properties (Tamil_Nadu.txt)	4 BHK Apartment	Salem North	Salem / Tamil Nadu	Apartment / 4 BHK	1583	₹1.33 Cr	Unfurnished	3	Any	Sale
+675	Tamil Nadu Properties (Tamil_Nadu.txt)	1 BHK Apartment	Madurai East	Madurai / Tamil Nadu	Apartment / 1 BHK	530	₹9,700/month	Unfurnished	2	Bachelors	Rent
+676	Tamil Nadu Properties (Tamil_Nadu.txt)	4 BHK Apartment	Chennai Nagar	Chennai / Tamil Nadu	Apartment / 4 BHK	2082	₹1.27 Cr	Unfurnished	3	Family	Sale
+677	Tamil Nadu Properties (Tamil_Nadu.txt)	1 BHK Apartment	Madurai Heights	Madurai / Tamil Nadu	Apartment / 1 BHK	581	₹47.21 L	Semi-Furnished	2	Bachelors	Sale
+678	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Builder Floor	Coimbatore Nagar	Coimbatore / Tamil Nadu	Builder Floor / 2 BHK	704	₹69.18 L	Semi-Furnished	2	Any	Sale
+679	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Independent House	Tiruchirappalli South	Tiruchirappalli / Tamil Nadu	Independent House / 2 BHK	918	₹19,300/month	Fully-Furnished	2	Bachelors	Rent
+680	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Apartment	Madurai East	Madurai / Tamil Nadu	Apartment / 2 BHK	678	₹57.32 L	Unfurnished	3	Family	Sale
+681	Tamil Nadu Properties (Tamil_Nadu.txt)	3 BHK Apartment	Tiruchirappalli Sector 1	Tiruchirappalli / Tamil Nadu	Apartment / 3 BHK	1488	₹1.01 Cr	Unfurnished	3	Family	Sale
+682	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Independent House	Coimbatore Central	Coimbatore / Tamil Nadu	Independent House / 2 BHK	1187	₹79.21 L	Unfurnished	2	Family	Sale
+683	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Villa	Coimbatore South	Coimbatore / Tamil Nadu	Villa / 2 BHK	1358	₹77.16 L	Fully-Furnished	1	Family	Sale
+684	Tamil Nadu Properties (Tamil_Nadu.txt)	1 BHK Apartment	Madurai Central	Madurai / Tamil Nadu	Apartment / 1 BHK	541	₹9,400/month	Semi-Furnished	1	Any	Rent
+685	Tamil Nadu Properties (Tamil_Nadu.txt)	3 BHK Apartment	Coimbatore Sector 3	Coimbatore / Tamil Nadu	Apartment / 3 BHK	1278	₹87.58 L	Semi-Furnished	3	Bachelors	Sale
+686	Tamil Nadu Properties (Tamil_Nadu.txt)	1 BHK Studio	Salem West	Salem / Tamil Nadu	Studio / 1 BHK	415	₹32.21 L	Unfurnished	1	Any	Sale
+687	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Apartment	Coimbatore Extension	Coimbatore / Tamil Nadu	Apartment / 2 BHK	930	₹15,200/month	Semi-Furnished	2	Family	Rent
+688	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Builder Floor	Tiruchirappalli Colony	Tiruchirappalli / Tamil Nadu	Builder Floor / 2 BHK	1089	₹72.84 L	Fully-Furnished	2	Family	Sale
+689	Tamil Nadu Properties (Tamil_Nadu.txt)	5 BHK Builder Floor	Coimbatore West	Coimbatore / Tamil Nadu	Builder Floor / 5 BHK	1883	₹41,200/month	Semi-Furnished	4	Any	Rent
+690	Tamil Nadu Properties (Tamil_Nadu.txt)	4 BHK Apartment	Coimbatore West	Coimbatore / Tamil Nadu	Apartment / 4 BHK	1597	₹1.16 Cr	Semi-Furnished	4	Any	Sale
+691	Tamil Nadu Properties (Tamil_Nadu.txt)	4 BHK Apartment	Chennai Nagar	Chennai / Tamil Nadu	Apartment / 4 BHK	1590	₹1.32 Cr	Fully-Furnished	5	Family	Sale
+692	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Independent House	Tiruchirappalli Town Centre	Tiruchirappalli / Tamil Nadu	Independent House / 2 BHK	1096	₹66.98 L	Semi-Furnished	2	Family	Sale
+693	Tamil Nadu Properties (Tamil_Nadu.txt)	1 BHK Builder Floor	Coimbatore Main Road	Coimbatore / Tamil Nadu	Builder Floor / 1 BHK	507	₹9,800/month	Unfurnished	1	Bachelors	Rent
+694	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Apartment	Chennai Heights	Chennai / Tamil Nadu	Apartment / 2 BHK	879	₹17,600/month	Semi-Furnished	2	Family	Rent
+695	Tamil Nadu Properties (Tamil_Nadu.txt)	1 BHK Apartment	Salem South	Salem / Tamil Nadu	Apartment / 1 BHK	505	₹13,600/month	Semi-Furnished	1	Bachelors	Rent
+696	Tamil Nadu Properties (Tamil_Nadu.txt)	4 BHK Apartment	Chennai Colony	Chennai / Tamil Nadu	Apartment / 4 BHK	1927	₹1.03 Cr	Semi-Furnished	4	Bachelors	Sale
+697	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Independent House	Madurai Residential Area	Madurai / Tamil Nadu	Independent House / 2 BHK	975	₹73.56 L	Semi-Furnished	2	Any	Sale
+698	Tamil Nadu Properties (Tamil_Nadu.txt)	1 BHK Apartment	Tiruchirappalli Nagar	Tiruchirappalli / Tamil Nadu	Apartment / 1 BHK	467	₹37.46 L	Fully-Furnished	2	Bachelors	Sale
+699	Tamil Nadu Properties (Tamil_Nadu.txt)	3 BHK Independent House	Salem Colony	Salem / Tamil Nadu	Independent House / 3 BHK	1401	₹21,200/month	Unfurnished	4	Bachelors	Rent
+700	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Builder Floor	Coimbatore Main Road	Coimbatore / Tamil Nadu	Builder Floor / 2 BHK	877	₹63.48 L	Fully-Furnished	2	Family	Sale
+701	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Apartment	Coimbatore Sector 1	Coimbatore / Tamil Nadu	Apartment / 2 BHK	913	₹17,300/month	Unfurnished	2	Family	Rent
+702	Tamil Nadu Properties (Tamil_Nadu.txt)	4 BHK Apartment	Madurai Heights	Madurai / Tamil Nadu	Apartment / 4 BHK	2164	₹1.35 Cr	Fully-Furnished	4	Any	Sale
+703	Tamil Nadu Properties (Tamil_Nadu.txt)	4 BHK Builder Floor	Chennai North	Chennai / Tamil Nadu	Builder Floor / 4 BHK	1352	₹98.75 L	Semi-Furnished	3	Family	Sale
+704	Tamil Nadu Properties (Tamil_Nadu.txt)	3 BHK Apartment	Coimbatore Sector 3	Coimbatore / Tamil Nadu	Apartment / 3 BHK	1429	₹97.07 L	Unfurnished	3	Any	Sale
+705	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Apartment	Salem Residential Area	Salem / Tamil Nadu	Apartment / 2 BHK	765	₹15,500/month	Fully-Furnished	1	Family	Rent
+706	Tamil Nadu Properties (Tamil_Nadu.txt)	4 BHK Apartment	Salem Residential Area	Salem / Tamil Nadu	Apartment / 4 BHK	1902	₹1.02 Cr	Fully-Furnished	4	Family	Sale
+707	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Independent House	Coimbatore Nagar	Coimbatore / Tamil Nadu	Independent House / 2 BHK	786	₹19,100/month	Fully-Furnished	3	Bachelors	Rent
+708	Tamil Nadu Properties (Tamil_Nadu.txt)	3 BHK Independent House	Coimbatore Nagar	Coimbatore / Tamil Nadu	Independent House / 3 BHK	1513	₹1.08 Cr	Unfurnished	3	Bachelors	Sale
+709	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Apartment	Tiruchirappalli Sector 2	Tiruchirappalli / Tamil Nadu	Apartment / 2 BHK	974	₹73.49 L	Semi-Furnished	1	Family	Sale
+710	Tamil Nadu Properties (Tamil_Nadu.txt)	4 BHK Apartment	Madurai Nagar	Madurai / Tamil Nadu	Apartment / 4 BHK	1964	₹37,500/month	Fully-Furnished	5	Any	Rent
+711	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Apartment	Tiruchirappalli Sector 3	Tiruchirappalli / Tamil Nadu	Apartment / 2 BHK	703	₹60.06 L	Semi-Furnished	2	Any	Sale
+712	Tamil Nadu Properties (Tamil_Nadu.txt)	3 BHK Builder Floor	Coimbatore Sector 3	Coimbatore / Tamil Nadu	Builder Floor / 3 BHK	1385	₹88.87 L	Semi-Furnished	2	Any	Sale
+713	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Apartment	Tiruchirappalli Town Centre	Tiruchirappalli / Tamil Nadu	Apartment / 2 BHK	685	₹72.43 L	Unfurnished	2	Any	Sale
+714	Tamil Nadu Properties (Tamil_Nadu.txt)	3 BHK Apartment	Tiruchirappalli West	Tiruchirappalli / Tamil Nadu	Apartment / 3 BHK	1199	₹25,000/month	Unfurnished	3	Bachelors	Rent
+715	Tamil Nadu Properties (Tamil_Nadu.txt)	3 BHK Apartment	Madurai West	Madurai / Tamil Nadu	Apartment / 3 BHK	1317	₹22,800/month	Semi-Furnished	3	Any	Rent
+716	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Apartment	Coimbatore Sector 1	Coimbatore / Tamil Nadu	Apartment / 2 BHK	833	₹51.88 L	Semi-Furnished	1	Bachelors	Sale
+717	Tamil Nadu Properties (Tamil_Nadu.txt)	3 BHK Independent House	Chennai Sector 2	Chennai / Tamil Nadu	Independent House / 3 BHK	1438	₹29,100/month	Unfurnished	3	Family	Rent
+718	Tamil Nadu Properties (Tamil_Nadu.txt)	3 BHK Villa	Tiruchirappalli Heights	Tiruchirappalli / Tamil Nadu	Villa / 3 BHK	1540	₹1.01 Cr	Semi-Furnished	3	Any	Sale
+719	Tamil Nadu Properties (Tamil_Nadu.txt)	3 BHK Builder Floor	Madurai Nagar	Madurai / Tamil Nadu	Builder Floor / 3 BHK	1260	₹72.38 L	Unfurnished	2	Any	Sale
+720	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Independent House	Madurai Sector 1	Madurai / Tamil Nadu	Independent House / 2 BHK	1009	₹18,600/month	Fully-Furnished	1	Bachelors	Rent
+721	Tamil Nadu Properties (Tamil_Nadu.txt)	3 BHK Apartment	Madurai West	Madurai / Tamil Nadu	Apartment / 3 BHK	974	₹97.68 L	Unfurnished	3	Bachelors	Sale
+722	Tamil Nadu Properties (Tamil_Nadu.txt)	1 BHK Studio	Coimbatore Sector 2	Coimbatore / Tamil Nadu	Studio / 1 BHK	392	₹45.17 L	Fully-Furnished	1	Bachelors	Sale
+723	Tamil Nadu Properties (Tamil_Nadu.txt)	1 BHK Apartment	Madurai Town Centre	Madurai / Tamil Nadu	Apartment / 1 BHK	504	₹35.14 L	Unfurnished	1	Any	Sale
+724	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Apartment	Salem West	Salem / Tamil Nadu	Apartment / 2 BHK	665	₹15,500/month	Fully-Furnished	3	Family	Rent
+725	Tamil Nadu Properties (Tamil_Nadu.txt)	3 BHK Apartment	Salem Colony	Salem / Tamil Nadu	Apartment / 3 BHK	1193	₹25,200/month	Semi-Furnished	3	Family	Rent
+726	Tamil Nadu Properties (Tamil_Nadu.txt)	3 BHK Apartment	Tiruchirappalli Nagar	Tiruchirappalli / Tamil Nadu	Apartment / 3 BHK	1051	₹24,900/month	Semi-Furnished	3	Any	Rent
+727	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Independent House	Coimbatore Sector 3	Coimbatore / Tamil Nadu	Independent House / 2 BHK	1063	₹79.65 L	Unfurnished	2	Family	Sale
+728	Tamil Nadu Properties (Tamil_Nadu.txt)	4 BHK Apartment	Madurai Residential Area	Madurai / Tamil Nadu	Apartment / 4 BHK	1905	₹1.10 Cr	Unfurnished	5	Bachelors	Sale
+729	Tamil Nadu Properties (Tamil_Nadu.txt)	1 BHK Apartment	Madurai South	Madurai / Tamil Nadu	Apartment / 1 BHK	417	₹11,100/month	Semi-Furnished	1	Bachelors	Rent
+730	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Apartment	Salem Central	Salem / Tamil Nadu	Apartment / 2 BHK	585	₹17,200/month	Unfurnished	3	Bachelors	Rent
+731	Tamil Nadu Properties (Tamil_Nadu.txt)	3 BHK Apartment	Tiruchirappalli West	Tiruchirappalli / Tamil Nadu	Apartment / 3 BHK	1695	₹29,100/month	Semi-Furnished	4	Family	Rent
+732	Tamil Nadu Properties (Tamil_Nadu.txt)	4 BHK Independent House	Salem Sector 1	Salem / Tamil Nadu	Independent House / 4 BHK	1803	₹99.68 L	Fully-Furnished	4	Any	Sale
+733	Tamil Nadu Properties (Tamil_Nadu.txt)	3 BHK Apartment	Madurai West	Madurai / Tamil Nadu	Apartment / 3 BHK	1355	₹21,300/month	Unfurnished	3	Any	Rent
+734	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Villa	Coimbatore Sector 1	Coimbatore / Tamil Nadu	Villa / 2 BHK	1471	₹21,500/month	Fully-Furnished	3	Family	Rent
+735	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Apartment	Salem Heights	Salem / Tamil Nadu	Apartment / 2 BHK	702	₹15,000/month	Fully-Furnished	2	Family	Rent
+736	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Apartment	Tiruchirappalli Sector 1	Tiruchirappalli / Tamil Nadu	Apartment / 2 BHK	701	₹13,700/month	Semi-Furnished	2	Bachelors	Rent
+737	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Apartment	Tiruchirappalli South	Tiruchirappalli / Tamil Nadu	Apartment / 2 BHK	861	₹51.60 L	Semi-Furnished	2	Family	Sale
+738	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Independent House	Salem West	Salem / Tamil Nadu	Independent House / 2 BHK	1154	₹56.23 L	Semi-Furnished	2	Family	Sale
+739	Tamil Nadu Properties (Tamil_Nadu.txt)	4 BHK Villa	Chennai West	Chennai / Tamil Nadu	Villa / 4 BHK	2599	₹33,600/month	Fully-Furnished	5	Family	Rent
+740	Tamil Nadu Properties (Tamil_Nadu.txt)	3 BHK Apartment	Salem East	Salem / Tamil Nadu	Apartment / 3 BHK	974	₹86.56 L	Fully-Furnished	3	Bachelors	Sale
+741	Tamil Nadu Properties (Tamil_Nadu.txt)	1 BHK Independent House	Madurai Colony	Madurai / Tamil Nadu	Independent House / 1 BHK	612	₹47.06 L	Semi-Furnished	1	Any	Sale
+742	Tamil Nadu Properties (Tamil_Nadu.txt)	1 BHK Independent House	Coimbatore Central	Coimbatore / Tamil Nadu	Independent House / 1 BHK	730	₹52.03 L	Semi-Furnished	1	Any	Sale
+743	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Independent House	Tiruchirappalli East	Tiruchirappalli / Tamil Nadu	Independent House / 2 BHK	922	₹55.16 L	Fully-Furnished	3	Family	Sale
+744	Tamil Nadu Properties (Tamil_Nadu.txt)	1 BHK Builder Floor	Chennai Central	Chennai / Tamil Nadu	Builder Floor / 1 BHK	405	₹11,000/month	Semi-Furnished	1	Any	Rent
+745	Tamil Nadu Properties (Tamil_Nadu.txt)	4 BHK Apartment	Tiruchirappalli Central	Tiruchirappalli / Tamil Nadu	Apartment / 4 BHK	1622	₹1.32 Cr	Fully-Furnished	3	Any	Sale
+746	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Apartment	Chennai West	Chennai / Tamil Nadu	Apartment / 2 BHK	1032	₹69.07 L	Fully-Furnished	1	Bachelors	Sale
+747	Tamil Nadu Properties (Tamil_Nadu.txt)	4 BHK Builder Floor	Tiruchirappalli Colony	Tiruchirappalli / Tamil Nadu	Builder Floor / 4 BHK	1601	₹31,700/month	Fully-Furnished	4	Family	Rent
+748	Tamil Nadu Properties (Tamil_Nadu.txt)	3 BHK Apartment	Coimbatore Sector 1	Coimbatore / Tamil Nadu	Apartment / 3 BHK	1230	₹1.03 Cr	Semi-Furnished	3	Family	Sale
+749	Tamil Nadu Properties (Tamil_Nadu.txt)	3 BHK Apartment	Salem East	Salem / Tamil Nadu	Apartment / 3 BHK	1175	₹24,100/month	Fully-Furnished	2	Any	Rent
+750	Tamil Nadu Properties (Tamil_Nadu.txt)	3 BHK Villa	Coimbatore West	Coimbatore / Tamil Nadu	Villa / 3 BHK	1583	₹1 Cr	Semi-Furnished	3	Family	Sale
+751	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Apartment	Chennai Sector 1	Chennai / Tamil Nadu	Apartment / 2 BHK	901	₹54.58 L	Semi-Furnished	2	Family	Sale
+752	Tamil Nadu Properties (Tamil_Nadu.txt)	1 BHK Apartment	Salem North	Salem / Tamil Nadu	Apartment / 1 BHK	546	₹35.79 L	Semi-Furnished	1	Family	Sale
+753	Tamil Nadu Properties (Tamil_Nadu.txt)	3 BHK Apartment	Tiruchirappalli Town Centre	Tiruchirappalli / Tamil Nadu	Apartment / 3 BHK	1146	₹25,200/month	Unfurnished	2	Bachelors	Rent
+754	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Apartment	Salem Extension	Salem / Tamil Nadu	Apartment / 2 BHK	920	₹15,100/month	Fully-Furnished	1	Family	Rent
+755	Tamil Nadu Properties (Tamil_Nadu.txt)	3 BHK Apartment	Madurai South	Madurai / Tamil Nadu	Apartment / 3 BHK	1418	₹98.55 L	Semi-Furnished	3	Family	Sale
+756	Tamil Nadu Properties (Tamil_Nadu.txt)	4 BHK Villa	Madurai Residential Area	Madurai / Tamil Nadu	Villa / 4 BHK	2153	₹1.43 Cr	Semi-Furnished	4	Family	Sale
+757	Tamil Nadu Properties (Tamil_Nadu.txt)	3 BHK Independent House	Madurai South	Madurai / Tamil Nadu	Independent House / 3 BHK	1469	₹79.97 L	Fully-Furnished	3	Bachelors	Sale
+758	Tamil Nadu Properties (Tamil_Nadu.txt)	3 BHK Independent House	Tiruchirappalli Residential Area	Tiruchirappalli / Tamil Nadu	Independent House / 3 BHK	1529	₹90.66 L	Unfurnished	3	Bachelors	Sale
+759	Tamil Nadu Properties (Tamil_Nadu.txt)	3 BHK Apartment	Coimbatore Sector 2	Coimbatore / Tamil Nadu	Apartment / 3 BHK	1271	₹27,500/month	Semi-Furnished	3	Any	Rent
+760	Tamil Nadu Properties (Tamil_Nadu.txt)	3 BHK Apartment	Coimbatore Colony	Coimbatore / Tamil Nadu	Apartment / 3 BHK	1332	₹75.67 L	Fully-Furnished	3	Family	Sale
+761	Tamil Nadu Properties (Tamil_Nadu.txt)	1 BHK Apartment	Coimbatore Sector 2	Coimbatore / Tamil Nadu	Apartment / 1 BHK	348	₹36.34 L	Unfurnished	1	Any	Sale
+762	Tamil Nadu Properties (Tamil_Nadu.txt)	3 BHK Apartment	Coimbatore North	Coimbatore / Tamil Nadu	Apartment / 3 BHK	891	₹24,900/month	Fully-Furnished	2	Family	Rent
+763	Tamil Nadu Properties (Tamil_Nadu.txt)	3 BHK Builder Floor	Coimbatore North	Coimbatore / Tamil Nadu	Builder Floor / 3 BHK	1771	₹1.16 Cr	Semi-Furnished	3	Family	Sale
+764	Tamil Nadu Properties (Tamil_Nadu.txt)	1 BHK Apartment	Tiruchirappalli West	Tiruchirappalli / Tamil Nadu	Apartment / 1 BHK	609	₹36.51 L	Semi-Furnished	1	Family	Sale
+765	Tamil Nadu Properties (Tamil_Nadu.txt)	3 BHK Apartment	Coimbatore Central	Coimbatore / Tamil Nadu	Apartment / 3 BHK	1260	₹75.44 L	Unfurnished	3	Bachelors	Sale
+766	Tamil Nadu Properties (Tamil_Nadu.txt)	4 BHK Apartment	Chennai Nagar	Chennai / Tamil Nadu	Apartment / 4 BHK	1793	₹1.27 Cr	Fully-Furnished	4	Bachelors	Sale
+767	Tamil Nadu Properties (Tamil_Nadu.txt)	1 BHK Independent House	Madurai Sector 1	Madurai / Tamil Nadu	Independent House / 1 BHK	578	₹49.34 L	Fully-Furnished	1	Any	Sale
+768	Tamil Nadu Properties (Tamil_Nadu.txt)	1 BHK Studio	Tiruchirappalli Main Road	Tiruchirappalli / Tamil Nadu	Studio / 1 BHK	324	₹11,500/month	Unfurnished	1	Family	Rent
+769	Tamil Nadu Properties (Tamil_Nadu.txt)	5 BHK Villa	Chennai Extension	Chennai / Tamil Nadu	Villa / 5 BHK	3033	₹33,600/month	Unfurnished	5	Any	Rent
+770	Tamil Nadu Properties (Tamil_Nadu.txt)	4 BHK Apartment	Madurai Extension	Madurai / Tamil Nadu	Apartment / 4 BHK	1427	₹26,700/month	Semi-Furnished	4	Family	Rent
+771	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Builder Floor	Salem Sector 2	Salem / Tamil Nadu	Builder Floor / 2 BHK	805	₹14,100/month	Semi-Furnished	1	Bachelors	Rent
+772	Tamil Nadu Properties (Tamil_Nadu.txt)	3 BHK Apartment	Madurai Sector 1	Madurai / Tamil Nadu	Apartment / 3 BHK	1284	₹19,700/month	Semi-Furnished	4	Bachelors	Rent
+773	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Apartment	Coimbatore Sector 2	Coimbatore / Tamil Nadu	Apartment / 2 BHK	922	₹77.67 L	Fully-Furnished	2	Family	Sale
+774	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Apartment	Madurai Extension	Madurai / Tamil Nadu	Apartment / 2 BHK	744	₹62.14 L	Unfurnished	2	Family	Sale
+775	Tamil Nadu Properties (Tamil_Nadu.txt)	1 BHK Apartment	Tiruchirappalli Colony	Tiruchirappalli / Tamil Nadu	Apartment / 1 BHK	620	₹34.22 L	Semi-Furnished	1	Any	Sale
+776	Tamil Nadu Properties (Tamil_Nadu.txt)	3 BHK Apartment	Chennai Heights	Chennai / Tamil Nadu	Apartment / 3 BHK	1126	₹22,300/month	Semi-Furnished	4	Family	Rent
+777	Tamil Nadu Properties (Tamil_Nadu.txt)	3 BHK Independent House	Coimbatore Colony	Coimbatore / Tamil Nadu	Independent House / 3 BHK	1433	₹1.06 Cr	Fully-Furnished	2	Family	Sale
+778	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Apartment	Chennai Main Road	Chennai / Tamil Nadu	Apartment / 2 BHK	673	₹60.27 L	Unfurnished	1	Family	Sale
+779	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Apartment	Tiruchirappalli North	Tiruchirappalli / Tamil Nadu	Apartment / 2 BHK	916	₹53.46 L	Unfurnished	2	Family	Sale
+780	Tamil Nadu Properties (Tamil_Nadu.txt)	3 BHK Villa	Tiruchirappalli East	Tiruchirappalli / Tamil Nadu	Villa / 3 BHK	1589	₹27,200/month	Semi-Furnished	3	Any	Rent
+781	Tamil Nadu Properties (Tamil_Nadu.txt)	4 BHK Builder Floor	Chennai Main Road	Chennai / Tamil Nadu	Builder Floor / 4 BHK	1399	₹1.01 Cr	Semi-Furnished	4	Family	Sale
+782	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Apartment	Coimbatore Sector 3	Coimbatore / Tamil Nadu	Apartment / 2 BHK	770	₹16,600/month	Semi-Furnished	2	Any	Rent
+783	Tamil Nadu Properties (Tamil_Nadu.txt)	1 BHK Independent House	Chennai Central	Chennai / Tamil Nadu	Independent House / 1 BHK	418	₹41.01 L	Semi-Furnished	1	Bachelors	Sale
+784	Tamil Nadu Properties (Tamil_Nadu.txt)	3 BHK Apartment	Chennai West	Chennai / Tamil Nadu	Apartment / 3 BHK	1375	₹22,500/month	Semi-Furnished	2	Family	Rent
+785	Tamil Nadu Properties (Tamil_Nadu.txt)	3 BHK Apartment	Tiruchirappalli North	Tiruchirappalli / Tamil Nadu	Apartment / 3 BHK	1462	₹1.04 Cr	Semi-Furnished	2	Bachelors	Sale
+786	Tamil Nadu Properties (Tamil_Nadu.txt)	1 BHK Apartment	Tiruchirappalli Main Road	Tiruchirappalli / Tamil Nadu	Apartment / 1 BHK	416	₹8,900/month	Fully-Furnished	1	Family	Rent
+787	Tamil Nadu Properties (Tamil_Nadu.txt)	4 BHK Builder Floor	Salem Town Centre	Salem / Tamil Nadu	Builder Floor / 4 BHK	1889	₹30,000/month	Unfurnished	4	Any	Rent
+788	Tamil Nadu Properties (Tamil_Nadu.txt)	3 BHK Apartment	Tiruchirappalli Sector 2	Tiruchirappalli / Tamil Nadu	Apartment / 3 BHK	1528	₹23,600/month	Semi-Furnished	2	Family	Rent
+789	Tamil Nadu Properties (Tamil_Nadu.txt)	1 BHK Studio	Salem South	Salem / Tamil Nadu	Studio / 1 BHK	460	₹12,100/month	Semi-Furnished	1	Any	Rent
+790	Tamil Nadu Properties (Tamil_Nadu.txt)	4 BHK Apartment	Coimbatore South	Coimbatore / Tamil Nadu	Apartment / 4 BHK	1775	₹30,600/month	Semi-Furnished	4	Family	Rent
+791	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Apartment	Coimbatore Central	Coimbatore / Tamil Nadu	Apartment / 2 BHK	997	₹53.29 L	Fully-Furnished	2	Any	Sale
+792	Tamil Nadu Properties (Tamil_Nadu.txt)	1 BHK Apartment	Salem South	Salem / Tamil Nadu	Apartment / 1 BHK	522	₹11,600/month	Unfurnished	1	Bachelors	Rent
+793	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Builder Floor	Chennai Town Centre	Chennai / Tamil Nadu	Builder Floor / 2 BHK	846	₹16,300/month	Fully-Furnished	2	Family	Rent
+794	Tamil Nadu Properties (Tamil_Nadu.txt)	1 BHK Villa	Madurai West	Madurai / Tamil Nadu	Villa / 1 BHK	760	₹44.98 L	Semi-Furnished	1	Family	Sale
+795	Tamil Nadu Properties (Tamil_Nadu.txt)	4 BHK Independent House	Coimbatore Extension	Coimbatore / Tamil Nadu	Independent House / 4 BHK	2286	₹1.21 Cr	Semi-Furnished	4	Any	Sale
+796	Tamil Nadu Properties (Tamil_Nadu.txt)	4 BHK Apartment	Coimbatore South	Coimbatore / Tamil Nadu	Apartment / 4 BHK	1952	₹1.38 Cr	Unfurnished	5	Family	Sale
+797	Tamil Nadu Properties (Tamil_Nadu.txt)	4 BHK Independent House	Chennai Town Centre	Chennai / Tamil Nadu	Independent House / 4 BHK	2218	₹1.26 Cr	Fully-Furnished	4	Bachelors	Sale
+798	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Apartment	Salem Main Road	Salem / Tamil Nadu	Apartment / 2 BHK	732	₹67.28 L	Fully-Furnished	2	Bachelors	Sale
+799	Tamil Nadu Properties (Tamil_Nadu.txt)	4 BHK Builder Floor	Coimbatore Sector 3	Coimbatore / Tamil Nadu	Builder Floor / 4 BHK	1359	₹26,100/month	Fully-Furnished	4	Bachelors	Rent
+800	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Apartment	Salem East	Salem / Tamil Nadu	Apartment / 2 BHK	917	₹63.41 L	Semi-Furnished	1	Any	Sale
+801	Tamil Nadu Properties (Tamil_Nadu.txt)	1 BHK Apartment	Tiruchirappalli North	Tiruchirappalli / Tamil Nadu	Apartment / 1 BHK	525	₹48.56 L	Unfurnished	1	Bachelors	Sale
+802	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Builder Floor	Tiruchirappalli Extension	Tiruchirappalli / Tamil Nadu	Builder Floor / 2 BHK	667	₹16,800/month	Fully-Furnished	1	Family	Rent
+803	Tamil Nadu Properties (Tamil_Nadu.txt)	1 BHK Builder Floor	Tiruchirappalli Sector 2	Tiruchirappalli / Tamil Nadu	Builder Floor / 1 BHK	490	₹12,000/month	Semi-Furnished	1	Any	Rent
+804	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Apartment	Chennai Colony	Chennai / Tamil Nadu	Apartment / 2 BHK	832	₹53.42 L	Semi-Furnished	3	Bachelors	Sale
+805	Tamil Nadu Properties (Tamil_Nadu.txt)	1 BHK Studio	Chennai Heights	Chennai / Tamil Nadu	Studio / 1 BHK	349	₹33.67 L	Unfurnished	2	Family	Sale
+806	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Apartment	Madurai East	Madurai / Tamil Nadu	Apartment / 2 BHK	924	₹17,700/month	Semi-Furnished	1	Bachelors	Rent
+807	Tamil Nadu Properties (Tamil_Nadu.txt)	5 BHK Builder Floor	Salem Sector 2	Salem / Tamil Nadu	Builder Floor / 5 BHK	2226	₹1.28 Cr	Unfurnished	4	Family	Sale
+808	Tamil Nadu Properties (Tamil_Nadu.txt)	4 BHK Independent House	Coimbatore East	Coimbatore / Tamil Nadu	Independent House / 4 BHK	2303	₹1.47 Cr	Semi-Furnished	4	Any	Sale
+809	Tamil Nadu Properties (Tamil_Nadu.txt)	1 BHK Apartment	Tiruchirappalli Sector 3	Tiruchirappalli / Tamil Nadu	Apartment / 1 BHK	547	₹13,800/month	Unfurnished	1	Bachelors	Rent
+810	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Builder Floor	Chennai Sector 1	Chennai / Tamil Nadu	Builder Floor / 2 BHK	812	₹55.04 L	Unfurnished	3	Family	Sale
+811	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Villa	Tiruchirappalli Extension	Tiruchirappalli / Tamil Nadu	Villa / 2 BHK	1331	₹20,300/month	Unfurnished	2	Family	Rent
+812	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Apartment	Salem North	Salem / Tamil Nadu	Apartment / 2 BHK	853	₹17,800/month	Semi-Furnished	2	Any	Rent
+813	Tamil Nadu Properties (Tamil_Nadu.txt)	5 BHK Apartment	Tiruchirappalli Sector 2	Tiruchirappalli / Tamil Nadu	Apartment / 5 BHK	2174	₹1.60 Cr	Unfurnished	4	Bachelors	Sale
+814	Tamil Nadu Properties (Tamil_Nadu.txt)	4 BHK Builder Floor	Madurai Town Centre	Madurai / Tamil Nadu	Builder Floor / 4 BHK	1897	₹95.15 L	Fully-Furnished	4	Any	Sale
+815	Tamil Nadu Properties (Tamil_Nadu.txt)	3 BHK Apartment	Tiruchirappalli Sector 2	Tiruchirappalli / Tamil Nadu	Apartment / 3 BHK	1209	₹91.13 L	Semi-Furnished	3	Family	Sale
+816	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Apartment	Chennai Heights	Chennai / Tamil Nadu	Apartment / 2 BHK	1077	₹62.52 L	Fully-Furnished	3	Bachelors	Sale
+817	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Builder Floor	Salem South	Salem / Tamil Nadu	Builder Floor / 2 BHK	728	₹15,900/month	Unfurnished	1	Family	Rent
+818	Tamil Nadu Properties (Tamil_Nadu.txt)	4 BHK Apartment	Tiruchirappalli Sector 2	Tiruchirappalli / Tamil Nadu	Apartment / 4 BHK	1472	₹90.21 L	Fully-Furnished	5	Family	Sale
+819	Tamil Nadu Properties (Tamil_Nadu.txt)	3 BHK Apartment	Coimbatore Nagar	Coimbatore / Tamil Nadu	Apartment / 3 BHK	1047	₹90.56 L	Semi-Furnished	2	Any	Sale
+820	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Builder Floor	Chennai West	Chennai / Tamil Nadu	Builder Floor / 2 BHK	638	₹69.48 L	Semi-Furnished	2	Family	Sale
+821	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Builder Floor	Salem Sector 2	Salem / Tamil Nadu	Builder Floor / 2 BHK	900	₹74.87 L	Semi-Furnished	1	Family	Sale
+822	Tamil Nadu Properties (Tamil_Nadu.txt)	3 BHK Apartment	Chennai Extension	Chennai / Tamil Nadu	Apartment / 3 BHK	940	₹74.63 L	Semi-Furnished	4	Any	Sale
+823	Tamil Nadu Properties (Tamil_Nadu.txt)	3 BHK Apartment	Madurai Colony	Madurai / Tamil Nadu	Apartment / 3 BHK	1287	₹93.47 L	Semi-Furnished	4	Any	Sale
+824	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Independent House	Coimbatore Nagar	Coimbatore / Tamil Nadu	Independent House / 2 BHK	984	₹77.11 L	Semi-Furnished	3	Any	Sale
+825	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Independent House	Coimbatore East	Coimbatore / Tamil Nadu	Independent House / 2 BHK	1145	₹17,700/month	Unfurnished	3	Family	Rent
+826	Tamil Nadu Properties (Tamil_Nadu.txt)	4 BHK Apartment	Madurai South	Madurai / Tamil Nadu	Apartment / 4 BHK	1756	₹27,500/month	Semi-Furnished	4	Family	Rent
+827	Tamil Nadu Properties (Tamil_Nadu.txt)	4 BHK Independent House	Madurai Colony	Madurai / Tamil Nadu	Independent House / 4 BHK	1992	₹1.20 Cr	Semi-Furnished	5	Any	Sale
+828	Tamil Nadu Properties (Tamil_Nadu.txt)	1 BHK Studio	Tiruchirappalli Main Road	Tiruchirappalli / Tamil Nadu	Studio / 1 BHK	324	₹37.30 L	Semi-Furnished	1	Family	Sale
+829	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Builder Floor	Madurai Residential Area	Madurai / Tamil Nadu	Builder Floor / 2 BHK	1004	₹73.18 L	Unfurnished	2	Bachelors	Sale
+830	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Independent House	Chennai Nagar	Chennai / Tamil Nadu	Independent House / 2 BHK	999	₹18,800/month	Fully-Furnished	2	Any	Rent
+831	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Apartment	Salem Nagar	Salem / Tamil Nadu	Apartment / 2 BHK	796	₹56.43 L	Fully-Furnished	2	Family	Sale
+832	Tamil Nadu Properties (Tamil_Nadu.txt)	3 BHK Villa	Madurai Main Road	Madurai / Tamil Nadu	Villa / 3 BHK	1218	₹80.41 L	Semi-Furnished	3	Bachelors	Sale
+833	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Apartment	Coimbatore Extension	Coimbatore / Tamil Nadu	Apartment / 2 BHK	887	₹55.76 L	Semi-Furnished	2	Any	Sale
+834	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Apartment	Chennai Central	Chennai / Tamil Nadu	Apartment / 2 BHK	685	₹58.55 L	Unfurnished	2	Bachelors	Sale
+835	Tamil Nadu Properties (Tamil_Nadu.txt)	3 BHK Apartment	Tiruchirappalli Sector 3	Tiruchirappalli / Tamil Nadu	Apartment / 3 BHK	1135	₹25,000/month	Fully-Furnished	2	Bachelors	Rent
+836	Tamil Nadu Properties (Tamil_Nadu.txt)	4 BHK Builder Floor	Madurai Residential Area	Madurai / Tamil Nadu	Builder Floor / 4 BHK	1553	₹1.22 Cr	Fully-Furnished	3	Family	Sale
+837	Tamil Nadu Properties (Tamil_Nadu.txt)	1 BHK Studio	Coimbatore Central	Coimbatore / Tamil Nadu	Studio / 1 BHK	357	₹43.89 L	Semi-Furnished	1	Family	Sale
+838	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Apartment	Coimbatore Heights	Coimbatore / Tamil Nadu	Apartment / 2 BHK	769	₹54.26 L	Unfurnished	2	Family	Sale
+839	Tamil Nadu Properties (Tamil_Nadu.txt)	4 BHK Apartment	Madurai North	Madurai / Tamil Nadu	Apartment / 4 BHK	1714	₹98.19 L	Unfurnished	4	Any	Sale
+840	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Apartment	Tiruchirappalli Sector 1	Tiruchirappalli / Tamil Nadu	Apartment / 2 BHK	719	₹18,300/month	Fully-Furnished	2	Any	Rent
+841	Tamil Nadu Properties (Tamil_Nadu.txt)	3 BHK Apartment	Madurai Residential Area	Madurai / Tamil Nadu	Apartment / 3 BHK	1366	₹25,400/month	Unfurnished	4	Family	Rent
+842	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Apartment	Coimbatore Colony	Coimbatore / Tamil Nadu	Apartment / 2 BHK	824	₹56.01 L	Unfurnished	2	Bachelors	Sale
+843	Tamil Nadu Properties (Tamil_Nadu.txt)	1 BHK Apartment	Madurai Colony	Madurai / Tamil Nadu	Apartment / 1 BHK	569	₹12,500/month	Fully-Furnished	1	Any	Rent
+844	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Apartment	Chennai West	Chennai / Tamil Nadu	Apartment / 2 BHK	691	₹51.26 L	Semi-Furnished	2	Family	Sale
+845	Tamil Nadu Properties (Tamil_Nadu.txt)	1 BHK Villa	Tiruchirappalli Main Road	Tiruchirappalli / Tamil Nadu	Villa / 1 BHK	555	₹12,600/month	Semi-Furnished	1	Family	Rent
+846	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Apartment	Coimbatore Main Road	Coimbatore / Tamil Nadu	Apartment / 2 BHK	659	₹59.33 L	Semi-Furnished	2	Any	Sale
+847	Tamil Nadu Properties (Tamil_Nadu.txt)	1 BHK Studio	Madurai Town Centre	Madurai / Tamil Nadu	Studio / 1 BHK	405	₹10,000/month	Fully-Furnished	1	Any	Rent
+848	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Apartment	Tiruchirappalli Central	Tiruchirappalli / Tamil Nadu	Apartment / 2 BHK	854	₹19,600/month	Unfurnished	2	Any	Rent
+849	Tamil Nadu Properties (Tamil_Nadu.txt)	4 BHK Independent House	Madurai Nagar	Madurai / Tamil Nadu	Independent House / 4 BHK	1560	₹1.06 Cr	Unfurnished	4	Family	Sale
+850	Tamil Nadu Properties (Tamil_Nadu.txt)	3 BHK Apartment	Madurai Residential Area	Madurai / Tamil Nadu	Apartment / 3 BHK	1360	₹98 L	Unfurnished	4	Family	Sale
+851	Tamil Nadu Properties (Tamil_Nadu.txt)	4 BHK Apartment	Chennai Heights	Chennai / Tamil Nadu	Apartment / 4 BHK	1769	₹1.04 Cr	Semi-Furnished	4	Bachelors	Sale
+852	Tamil Nadu Properties (Tamil_Nadu.txt)	3 BHK Builder Floor	Coimbatore Nagar	Coimbatore / Tamil Nadu	Builder Floor / 3 BHK	1254	₹20,400/month	Unfurnished	3	Any	Rent
+853	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Apartment	Chennai Sector 1	Chennai / Tamil Nadu	Apartment / 2 BHK	774	₹16,800/month	Semi-Furnished	2	Family	Rent
+854	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Apartment	Tiruchirappalli Town Centre	Tiruchirappalli / Tamil Nadu	Apartment / 2 BHK	790	₹17,700/month	Fully-Furnished	3	Bachelors	Rent
+855	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Independent House	Salem Nagar	Salem / Tamil Nadu	Independent House / 2 BHK	867	₹75.99 L	Fully-Furnished	3	Any	Sale
+856	Tamil Nadu Properties (Tamil_Nadu.txt)	1 BHK Apartment	Madurai North	Madurai / Tamil Nadu	Apartment / 1 BHK	461	₹40.80 L	Unfurnished	1	Family	Sale
+857	Tamil Nadu Properties (Tamil_Nadu.txt)	4 BHK Apartment	Salem East	Salem / Tamil Nadu	Apartment / 4 BHK	1509	₹25,200/month	Semi-Furnished	3	Any	Rent
+858	Tamil Nadu Properties (Tamil_Nadu.txt)	4 BHK Apartment	Coimbatore Colony	Coimbatore / Tamil Nadu	Apartment / 4 BHK	1732	₹1.29 Cr	Fully-Furnished	3	Bachelors	Sale
+859	Tamil Nadu Properties (Tamil_Nadu.txt)	1 BHK Independent House	Madurai Sector 2	Madurai / Tamil Nadu	Independent House / 1 BHK	618	₹38.68 L	Semi-Furnished	1	Any	Sale
+860	Tamil Nadu Properties (Tamil_Nadu.txt)	4 BHK Independent House	Madurai Main Road	Madurai / Tamil Nadu	Independent House / 4 BHK	2248	₹1.31 Cr	Semi-Furnished	4	Any	Sale
+861	Tamil Nadu Properties (Tamil_Nadu.txt)	3 BHK Builder Floor	Coimbatore Extension	Coimbatore / Tamil Nadu	Builder Floor / 3 BHK	1067	₹89.07 L	Semi-Furnished	2	Any	Sale
+862	Tamil Nadu Properties (Tamil_Nadu.txt)	3 BHK Apartment	Coimbatore Town Centre	Coimbatore / Tamil Nadu	Apartment / 3 BHK	1040	₹82.84 L	Fully-Furnished	3	Family	Sale
+863	Tamil Nadu Properties (Tamil_Nadu.txt)	1 BHK Apartment	Tiruchirappalli Sector 1	Tiruchirappalli / Tamil Nadu	Apartment / 1 BHK	475	₹34.92 L	Semi-Furnished	1	Family	Sale
+864	Tamil Nadu Properties (Tamil_Nadu.txt)	3 BHK Apartment	Chennai Sector 1	Chennai / Tamil Nadu	Apartment / 3 BHK	1319	₹25,400/month	Fully-Furnished	3	Bachelors	Rent
+865	Tamil Nadu Properties (Tamil_Nadu.txt)	1 BHK Apartment	Tiruchirappalli South	Tiruchirappalli / Tamil Nadu	Apartment / 1 BHK	300	₹8,400/month	Unfurnished	1	Bachelors	Rent
+866	Tamil Nadu Properties (Tamil_Nadu.txt)	5 BHK Apartment	Salem Extension	Salem / Tamil Nadu	Apartment / 5 BHK	1979	₹1.53 Cr	Semi-Furnished	5	Any	Sale
+867	Tamil Nadu Properties (Tamil_Nadu.txt)	3 BHK Apartment	Tiruchirappalli Main Road	Tiruchirappalli / Tamil Nadu	Apartment / 3 BHK	987	₹84.63 L	Fully-Furnished	3	Family	Sale
+868	Tamil Nadu Properties (Tamil_Nadu.txt)	3 BHK Independent House	Salem South	Salem / Tamil Nadu	Independent House / 3 BHK	1477	₹93.65 L	Unfurnished	3	Family	Sale
+869	Tamil Nadu Properties (Tamil_Nadu.txt)	5 BHK Independent House	Salem Central	Salem / Tamil Nadu	Independent House / 5 BHK	3527	₹1.67 Cr	Semi-Furnished	6	Family	Sale
+870	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Builder Floor	Salem Sector 1	Salem / Tamil Nadu	Builder Floor / 2 BHK	794	₹51.85 L	Fully-Furnished	3	Bachelors	Sale
+871	Tamil Nadu Properties (Tamil_Nadu.txt)	1 BHK Apartment	Tiruchirappalli Town Centre	Tiruchirappalli / Tamil Nadu	Apartment / 1 BHK	488	₹32.94 L	Semi-Furnished	1	Bachelors	Sale
+872	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Independent House	Salem Sector 2	Salem / Tamil Nadu	Independent House / 2 BHK	823	₹20,500/month	Fully-Furnished	2	Any	Rent
+873	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Independent House	Salem Central	Salem / Tamil Nadu	Independent House / 2 BHK	990	₹71.22 L	Unfurnished	3	Family	Sale
+874	Tamil Nadu Properties (Tamil_Nadu.txt)	1 BHK Builder Floor	Coimbatore Extension	Coimbatore / Tamil Nadu	Builder Floor / 1 BHK	513	₹41.02 L	Semi-Furnished	2	Family	Sale
+875	Tamil Nadu Properties (Tamil_Nadu.txt)	1 BHK Independent House	Salem Sector 1	Salem / Tamil Nadu	Independent House / 1 BHK	571	₹13,600/month	Fully-Furnished	1	Family	Rent
+876	Tamil Nadu Properties (Tamil_Nadu.txt)	4 BHK Apartment	Tiruchirappalli Nagar	Tiruchirappalli / Tamil Nadu	Apartment / 4 BHK	1601	₹1.04 Cr	Semi-Furnished	4	Family	Sale
+877	Tamil Nadu Properties (Tamil_Nadu.txt)	1 BHK Builder Floor	Tiruchirappalli Central	Tiruchirappalli / Tamil Nadu	Builder Floor / 1 BHK	503	₹45.92 L	Unfurnished	1	Any	Sale
+878	Tamil Nadu Properties (Tamil_Nadu.txt)	4 BHK Builder Floor	Coimbatore Extension	Coimbatore / Tamil Nadu	Builder Floor / 4 BHK	1711	₹1.11 Cr	Fully-Furnished	5	Bachelors	Sale
+879	Tamil Nadu Properties (Tamil_Nadu.txt)	1 BHK Apartment	Coimbatore Residential Area	Coimbatore / Tamil Nadu	Apartment / 1 BHK	545	₹11,100/month	Semi-Furnished	1	Bachelors	Rent
+880	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Apartment	Madurai Town Centre	Madurai / Tamil Nadu	Apartment / 2 BHK	1116	₹67.25 L	Unfurnished	1	Family	Sale
+881	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Villa	Chennai Extension	Chennai / Tamil Nadu	Villa / 2 BHK	903	₹71.62 L	Unfurnished	1	Family	Sale
+882	Tamil Nadu Properties (Tamil_Nadu.txt)	3 BHK Builder Floor	Tiruchirappalli Main Road	Tiruchirappalli / Tamil Nadu	Builder Floor / 3 BHK	1580	₹23,400/month	Unfurnished	3	Family	Rent
+883	Tamil Nadu Properties (Tamil_Nadu.txt)	3 BHK Independent House	Tiruchirappalli Sector 3	Tiruchirappalli / Tamil Nadu	Independent House / 3 BHK	1619	₹97.12 L	Unfurnished	3	Any	Sale
+884	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Builder Floor	Tiruchirappalli Main Road	Tiruchirappalli / Tamil Nadu	Builder Floor / 2 BHK	832	₹62.62 L	Fully-Furnished	1	Family	Sale
+885	Tamil Nadu Properties (Tamil_Nadu.txt)	1 BHK Apartment	Coimbatore West	Coimbatore / Tamil Nadu	Apartment / 1 BHK	516	₹48.24 L	Semi-Furnished	1	Any	Sale
+886	Tamil Nadu Properties (Tamil_Nadu.txt)	3 BHK Apartment	Tiruchirappalli West	Tiruchirappalli / Tamil Nadu	Apartment / 3 BHK	1205	₹26,400/month	Unfurnished	3	Bachelors	Rent
+887	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Apartment	Madurai Sector 3	Madurai / Tamil Nadu	Apartment / 2 BHK	1036	₹57.12 L	Semi-Furnished	1	Any	Sale
+888	Tamil Nadu Properties (Tamil_Nadu.txt)	3 BHK Independent House	Chennai Sector 2	Chennai / Tamil Nadu	Independent House / 3 BHK	1739	₹25,200/month	Semi-Furnished	2	Family	Rent
+889	Tamil Nadu Properties (Tamil_Nadu.txt)	3 BHK Apartment	Chennai North	Chennai / Tamil Nadu	Apartment / 3 BHK	1322	₹27,800/month	Fully-Furnished	3	Bachelors	Rent
+890	Tamil Nadu Properties (Tamil_Nadu.txt)	1 BHK Apartment	Coimbatore Central	Coimbatore / Tamil Nadu	Apartment / 1 BHK	495	₹41.87 L	Semi-Furnished	1	Family	Sale
+891	Tamil Nadu Properties (Tamil_Nadu.txt)	4 BHK Apartment	Coimbatore West	Coimbatore / Tamil Nadu	Apartment / 4 BHK	1739	₹26,600/month	Unfurnished	4	Family	Rent
+892	Tamil Nadu Properties (Tamil_Nadu.txt)	4 BHK Apartment	Coimbatore West	Coimbatore / Tamil Nadu	Apartment / 4 BHK	1812	₹31,700/month	Semi-Furnished	4	Family	Rent
+893	Tamil Nadu Properties (Tamil_Nadu.txt)	3 BHK Apartment	Tiruchirappalli North	Tiruchirappalli / Tamil Nadu	Apartment / 3 BHK	1148	₹72.62 L	Semi-Furnished	3	Bachelors	Sale
+894	Tamil Nadu Properties (Tamil_Nadu.txt)	1 BHK Independent House	Madurai Residential Area	Madurai / Tamil Nadu	Independent House / 1 BHK	592	₹35.03 L	Fully-Furnished	1	Any	Sale
+895	Tamil Nadu Properties (Tamil_Nadu.txt)	1 BHK Builder Floor	Tiruchirappalli Extension	Tiruchirappalli / Tamil Nadu	Builder Floor / 1 BHK	474	₹11,100/month	Semi-Furnished	1	Family	Rent
+896	Tamil Nadu Properties (Tamil_Nadu.txt)	1 BHK Independent House	Tiruchirappalli Heights	Tiruchirappalli / Tamil Nadu	Independent House / 1 BHK	579	₹36.02 L	Semi-Furnished	2	Bachelors	Sale
+897	Tamil Nadu Properties (Tamil_Nadu.txt)	3 BHK Independent House	Chennai Sector 1	Chennai / Tamil Nadu	Independent House / 3 BHK	1106	₹89.79 L	Semi-Furnished	2	Bachelors	Sale
+898	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Apartment	Chennai Extension	Chennai / Tamil Nadu	Apartment / 2 BHK	796	₹16,700/month	Fully-Furnished	1	Any	Rent
+899	Tamil Nadu Properties (Tamil_Nadu.txt)	3 BHK Builder Floor	Tiruchirappalli Sector 1	Tiruchirappalli / Tamil Nadu	Builder Floor / 3 BHK	1115	₹1 Cr	Fully-Furnished	3	Family	Sale
+900	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Apartment	Salem Heights	Salem / Tamil Nadu	Apartment / 2 BHK	1066	₹74.47 L	Unfurnished	1	Family	Sale
+901	Tamil Nadu Properties (Tamil_Nadu.txt)	1 BHK Apartment	Tiruchirappalli Central	Tiruchirappalli / Tamil Nadu	Apartment / 1 BHK	582	₹11,300/month	Semi-Furnished	1	Family	Rent
+902	Tamil Nadu Properties (Tamil_Nadu.txt)	4 BHK Apartment	Chennai Sector 3	Chennai / Tamil Nadu	Apartment / 4 BHK	1866	₹26,200/month	Semi-Furnished	4	Any	Rent
+903	Tamil Nadu Properties (Tamil_Nadu.txt)	3 BHK Apartment	Coimbatore West	Coimbatore / Tamil Nadu	Apartment / 3 BHK	1291	₹86.12 L	Fully-Furnished	2	Family	Sale
+904	Tamil Nadu Properties (Tamil_Nadu.txt)	4 BHK Apartment	Coimbatore Central	Coimbatore / Tamil Nadu	Apartment / 4 BHK	1782	₹1.23 Cr	Semi-Furnished	4	Bachelors	Sale
+905	Tamil Nadu Properties (Tamil_Nadu.txt)	4 BHK Independent House	Chennai Heights	Chennai / Tamil Nadu	Independent House / 4 BHK	2174	₹36,600/month	Unfurnished	4	Family	Rent
+906	Tamil Nadu Properties (Tamil_Nadu.txt)	1 BHK Apartment	Chennai East	Chennai / Tamil Nadu	Apartment / 1 BHK	486	₹11,700/month	Semi-Furnished	1	Family	Rent
+907	Tamil Nadu Properties (Tamil_Nadu.txt)	1 BHK Studio	Chennai Colony	Chennai / Tamil Nadu	Studio / 1 BHK	425	₹9,800/month	Fully-Furnished	1	Any	Rent
+908	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Apartment	Coimbatore Extension	Coimbatore / Tamil Nadu	Apartment / 2 BHK	763	₹67.57 L	Unfurnished	1	Family	Sale
+909	Tamil Nadu Properties (Tamil_Nadu.txt)	1 BHK Studio	Chennai Sector 3	Chennai / Tamil Nadu	Studio / 1 BHK	509	₹11,900/month	Fully-Furnished	1	Family	Rent
+910	Tamil Nadu Properties (Tamil_Nadu.txt)	3 BHK Independent House	Salem Sector 1	Salem / Tamil Nadu	Independent House / 3 BHK	1671	₹96.70 L	Unfurnished	2	Any	Sale
+911	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Apartment	Tiruchirappalli West	Tiruchirappalli / Tamil Nadu	Apartment / 2 BHK	902	₹71.45 L	Semi-Furnished	2	Family	Sale
+912	Tamil Nadu Properties (Tamil_Nadu.txt)	1 BHK Apartment	Madurai Sector 3	Madurai / Tamil Nadu	Apartment / 1 BHK	499	₹33.77 L	Fully-Furnished	1	Family	Sale
+913	Tamil Nadu Properties (Tamil_Nadu.txt)	3 BHK Independent House	Madurai Residential Area	Madurai / Tamil Nadu	Independent House / 3 BHK	1362	₹26,100/month	Unfurnished	3	Family	Rent
+914	Tamil Nadu Properties (Tamil_Nadu.txt)	3 BHK Builder Floor	Salem Residential Area	Salem / Tamil Nadu	Builder Floor / 3 BHK	1509	₹90.51 L	Fully-Furnished	4	Family	Sale
+915	Tamil Nadu Properties (Tamil_Nadu.txt)	3 BHK Independent House	Salem East	Salem / Tamil Nadu	Independent House / 3 BHK	1727	₹29,200/month	Unfurnished	2	Bachelors	Rent
+916	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Apartment	Salem Sector 2	Salem / Tamil Nadu	Apartment / 2 BHK	962	₹15,900/month	Fully-Furnished	2	Bachelors	Rent
+917	Tamil Nadu Properties (Tamil_Nadu.txt)	5 BHK Apartment	Coimbatore Main Road	Coimbatore / Tamil Nadu	Apartment / 5 BHK	2305	₹33,000/month	Unfurnished	4	Family	Rent
+918	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Builder Floor	Tiruchirappalli Colony	Tiruchirappalli / Tamil Nadu	Builder Floor / 2 BHK	1049	₹20,300/month	Unfurnished	2	Family	Rent
+919	Tamil Nadu Properties (Tamil_Nadu.txt)	4 BHK Independent House	Salem Sector 2	Salem / Tamil Nadu	Independent House / 4 BHK	1970	₹1.26 Cr	Semi-Furnished	4	Family	Sale
+920	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Apartment	Coimbatore Residential Area	Coimbatore / Tamil Nadu	Apartment / 2 BHK	817	₹50.80 L	Fully-Furnished	2	Bachelors	Sale
+921	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Villa	Chennai Central	Chennai / Tamil Nadu	Villa / 2 BHK	1069	₹19,400/month	Fully-Furnished	1	Bachelors	Rent
+922	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Apartment	Tiruchirappalli North	Tiruchirappalli / Tamil Nadu	Apartment / 2 BHK	837	₹20,500/month	Semi-Furnished	2	Family	Rent
+923	Tamil Nadu Properties (Tamil_Nadu.txt)	4 BHK Apartment	Madurai Colony	Madurai / Tamil Nadu	Apartment / 4 BHK	1868	₹1.09 Cr	Unfurnished	4	Bachelors	Sale
+924	Tamil Nadu Properties (Tamil_Nadu.txt)	1 BHK Villa	Chennai Sector 2	Chennai / Tamil Nadu	Villa / 1 BHK	679	₹39.57 L	Unfurnished	2	Family	Sale
+925	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Apartment	Madurai Heights	Madurai / Tamil Nadu	Apartment / 2 BHK	1071	₹73.05 L	Semi-Furnished	3	Family	Sale
+926	Tamil Nadu Properties (Tamil_Nadu.txt)	3 BHK Builder Floor	Salem Main Road	Salem / Tamil Nadu	Builder Floor / 3 BHK	1384	₹75.19 L	Semi-Furnished	3	Any	Sale
+927	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Apartment	Salem Nagar	Salem / Tamil Nadu	Apartment / 2 BHK	944	₹16,800/month	Semi-Furnished	3	Bachelors	Rent
+928	Tamil Nadu Properties (Tamil_Nadu.txt)	1 BHK Apartment	Madurai Colony	Madurai / Tamil Nadu	Apartment / 1 BHK	404	₹36.71 L	Semi-Furnished	1	Any	Sale
+929	Tamil Nadu Properties (Tamil_Nadu.txt)	1 BHK Villa	Chennai North	Chennai / Tamil Nadu	Villa / 1 BHK	605	₹37.73 L	Semi-Furnished	1	Bachelors	Sale
+930	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Builder Floor	Tiruchirappalli Colony	Tiruchirappalli / Tamil Nadu	Builder Floor / 2 BHK	824	₹17,600/month	Unfurnished	1	Bachelors	Rent
+931	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Apartment	Madurai Town Centre	Madurai / Tamil Nadu	Apartment / 2 BHK	974	₹72.39 L	Fully-Furnished	2	Family	Sale
+932	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Apartment	Salem South	Salem / Tamil Nadu	Apartment / 2 BHK	742	₹16,900/month	Unfurnished	2	Bachelors	Rent
+933	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Independent House	Tiruchirappalli West	Tiruchirappalli / Tamil Nadu	Independent House / 2 BHK	1012	₹65.11 L	Semi-Furnished	3	Family	Sale
+934	Tamil Nadu Properties (Tamil_Nadu.txt)	1 BHK Apartment	Tiruchirappalli East	Tiruchirappalli / Tamil Nadu	Apartment / 1 BHK	540	₹12,300/month	Unfurnished	1	Any	Rent
+935	Tamil Nadu Properties (Tamil_Nadu.txt)	4 BHK Apartment	Madurai Sector 1	Madurai / Tamil Nadu	Apartment / 4 BHK	1943	₹1.09 Cr	Semi-Furnished	4	Family	Sale
+936	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Independent House	Madurai West	Madurai / Tamil Nadu	Independent House / 2 BHK	1107	₹20,200/month	Semi-Furnished	1	Bachelors	Rent
+937	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Apartment	Tiruchirappalli Sector 2	Tiruchirappalli / Tamil Nadu	Apartment / 2 BHK	910	₹20,800/month	Semi-Furnished	2	Any	Rent
+938	Tamil Nadu Properties (Tamil_Nadu.txt)	1 BHK Apartment	Coimbatore Sector 3	Coimbatore / Tamil Nadu	Apartment / 1 BHK	664	₹50.12 L	Fully-Furnished	1	Family	Sale
+939	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Apartment	Madurai Central	Madurai / Tamil Nadu	Apartment / 2 BHK	849	₹55.99 L	Fully-Furnished	2	Family	Sale
+940	Tamil Nadu Properties (Tamil_Nadu.txt)	4 BHK Apartment	Chennai Nagar	Chennai / Tamil Nadu	Apartment / 4 BHK	1633	₹99.08 L	Semi-Furnished	4	Any	Sale
+941	Tamil Nadu Properties (Tamil_Nadu.txt)	3 BHK Independent House	Tiruchirappalli Town Centre	Tiruchirappalli / Tamil Nadu	Independent House / 3 BHK	1350	₹81.33 L	Semi-Furnished	3	Bachelors	Sale
+942	Tamil Nadu Properties (Tamil_Nadu.txt)	4 BHK Apartment	Chennai North	Chennai / Tamil Nadu	Apartment / 4 BHK	2016	₹1.18 Cr	Fully-Furnished	5	Any	Sale
+943	Tamil Nadu Properties (Tamil_Nadu.txt)	1 BHK Studio	Madurai North	Madurai / Tamil Nadu	Studio / 1 BHK	430	₹42.48 L	Unfurnished	1	Family	Sale
+944	Tamil Nadu Properties (Tamil_Nadu.txt)	4 BHK Apartment	Coimbatore Residential Area	Coimbatore / Tamil Nadu	Apartment / 4 BHK	1764	₹1.32 Cr	Semi-Furnished	4	Bachelors	Sale
+945	Tamil Nadu Properties (Tamil_Nadu.txt)	3 BHK Apartment	Madurai Sector 1	Madurai / Tamil Nadu	Apartment / 3 BHK	737	₹65.86 L	Semi-Furnished	3	Any	Sale
+946	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Apartment	Tiruchirappalli East	Tiruchirappalli / Tamil Nadu	Apartment / 2 BHK	989	₹68.89 L	Fully-Furnished	2	Bachelors	Sale
+947	Tamil Nadu Properties (Tamil_Nadu.txt)	4 BHK Apartment	Coimbatore Residential Area	Coimbatore / Tamil Nadu	Apartment / 4 BHK	1471	₹31,800/month	Unfurnished	4	Bachelors	Rent
+948	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Apartment	Salem Nagar	Salem / Tamil Nadu	Apartment / 2 BHK	991	₹15,000/month	Unfurnished	2	Family	Rent
+949	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Independent House	Tiruchirappalli Residential Area	Tiruchirappalli / Tamil Nadu	Independent House / 2 BHK	916	₹62.54 L	Fully-Furnished	2	Bachelors	Sale
+950	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Apartment	Coimbatore Heights	Coimbatore / Tamil Nadu	Apartment / 2 BHK	846	₹61.63 L	Unfurnished	2	Any	Sale
+951	Tamil Nadu Properties (Tamil_Nadu.txt)	1 BHK Independent House	Chennai Town Centre	Chennai / Tamil Nadu	Independent House / 1 BHK	778	₹14,600/month	Fully-Furnished	1	Family	Rent
+952	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Apartment	Coimbatore West	Coimbatore / Tamil Nadu	Apartment / 2 BHK	815	₹62.15 L	Fully-Furnished	2	Any	Sale
+953	Tamil Nadu Properties (Tamil_Nadu.txt)	1 BHK Independent House	Coimbatore Nagar	Coimbatore / Tamil Nadu	Independent House / 1 BHK	618	₹42.13 L	Semi-Furnished	2	Family	Sale
+954	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Builder Floor	Salem Sector 1	Salem / Tamil Nadu	Builder Floor / 2 BHK	811	₹15,300/month	Fully-Furnished	2	Family	Rent
+955	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Apartment	Madurai Residential Area	Madurai / Tamil Nadu	Apartment / 2 BHK	791	₹16,500/month	Unfurnished	2	Bachelors	Rent
+956	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Independent House	Chennai Town Centre	Chennai / Tamil Nadu	Independent House / 2 BHK	1004	₹15,100/month	Semi-Furnished	2	Bachelors	Rent
+957	Tamil Nadu Properties (Tamil_Nadu.txt)	3 BHK Apartment	Salem Nagar	Salem / Tamil Nadu	Apartment / 3 BHK	1359	₹85.67 L	Semi-Furnished	3	Family	Sale
+958	Tamil Nadu Properties (Tamil_Nadu.txt)	3 BHK Builder Floor	Chennai Central	Chennai / Tamil Nadu	Builder Floor / 3 BHK	1131	₹23,000/month	Unfurnished	2	Bachelors	Rent
+959	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Independent House	Chennai Sector 3	Chennai / Tamil Nadu	Independent House / 2 BHK	1234	₹57.09 L	Unfurnished	1	Any	Sale
+960	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Independent House	Salem West	Salem / Tamil Nadu	Independent House / 2 BHK	945	₹15,300/month	Fully-Furnished	2	Family	Rent
+961	Tamil Nadu Properties (Tamil_Nadu.txt)	1 BHK Apartment	Chennai Sector 2	Chennai / Tamil Nadu	Apartment / 1 BHK	476	₹36.65 L	Unfurnished	1	Family	Sale
+962	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Builder Floor	Coimbatore Colony	Coimbatore / Tamil Nadu	Builder Floor / 2 BHK	759	₹70.69 L	Semi-Furnished	2	Any	Sale
+963	Tamil Nadu Properties (Tamil_Nadu.txt)	3 BHK Builder Floor	Salem Residential Area	Salem / Tamil Nadu	Builder Floor / 3 BHK	1265	₹19,900/month	Semi-Furnished	3	Bachelors	Rent
+964	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Apartment	Madurai Nagar	Madurai / Tamil Nadu	Apartment / 2 BHK	896	₹72.76 L	Semi-Furnished	3	Bachelors	Sale
+965	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Apartment	Salem Main Road	Salem / Tamil Nadu	Apartment / 2 BHK	738	₹60.79 L	Semi-Furnished	1	Any	Sale
+966	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Apartment	Tiruchirappalli Heights	Tiruchirappalli / Tamil Nadu	Apartment / 2 BHK	683	₹19,200/month	Fully-Furnished	2	Family	Rent
+967	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Builder Floor	Coimbatore Central	Coimbatore / Tamil Nadu	Builder Floor / 2 BHK	917	₹73.75 L	Fully-Furnished	1	Family	Sale
+968	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Independent House	Salem Town Centre	Salem / Tamil Nadu	Independent House / 2 BHK	1022	₹61.88 L	Fully-Furnished	2	Family	Sale
+969	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Apartment	Chennai Heights	Chennai / Tamil Nadu	Apartment / 2 BHK	946	₹17,300/month	Fully-Furnished	2	Family	Rent
+970	Tamil Nadu Properties (Tamil_Nadu.txt)	3 BHK Apartment	Madurai East	Madurai / Tamil Nadu	Apartment / 3 BHK	1243	₹26,100/month	Semi-Furnished	3	Any	Rent
+971	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Independent House	Salem Sector 3	Salem / Tamil Nadu	Independent House / 2 BHK	1354	₹64.17 L	Fully-Furnished	1	Family	Sale
+972	Tamil Nadu Properties (Tamil_Nadu.txt)	3 BHK Apartment	Coimbatore Sector 2	Coimbatore / Tamil Nadu	Apartment / 3 BHK	1386	₹20,100/month	Fully-Furnished	4	Bachelors	Rent
+973	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Independent House	Salem West	Salem / Tamil Nadu	Independent House / 2 BHK	1142	₹72.03 L	Unfurnished	2	Bachelors	Sale
+974	Tamil Nadu Properties (Tamil_Nadu.txt)	5 BHK Villa	Madurai Nagar	Madurai / Tamil Nadu	Villa / 5 BHK	3355	₹50,900/month	Unfurnished	5	Family	Rent
+975	Tamil Nadu Properties (Tamil_Nadu.txt)	4 BHK Villa	Salem North	Salem / Tamil Nadu	Villa / 4 BHK	1848	₹1.03 Cr	Fully-Furnished	3	Bachelors	Sale
+976	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Independent House	Madurai Sector 1	Madurai / Tamil Nadu	Independent House / 2 BHK	945	₹18,300/month	Semi-Furnished	2	Family	Rent
+977	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Apartment	Tiruchirappalli West	Tiruchirappalli / Tamil Nadu	Apartment / 2 BHK	656	₹69.60 L	Semi-Furnished	2	Bachelors	Sale
+978	Tamil Nadu Properties (Tamil_Nadu.txt)	3 BHK Apartment	Madurai East	Madurai / Tamil Nadu	Apartment / 3 BHK	1360	₹98.17 L	Semi-Furnished	3	Bachelors	Sale
+979	Tamil Nadu Properties (Tamil_Nadu.txt)	3 BHK Apartment	Chennai Sector 1	Chennai / Tamil Nadu	Apartment / 3 BHK	1223	₹20,100/month	Unfurnished	2	Bachelors	Rent
+980	Tamil Nadu Properties (Tamil_Nadu.txt)	3 BHK Builder Floor	Madurai East	Madurai / Tamil Nadu	Builder Floor / 3 BHK	1696	₹79.02 L	Semi-Furnished	3	Family	Sale
+981	Tamil Nadu Properties (Tamil_Nadu.txt)	4 BHK Apartment	Coimbatore Town Centre	Coimbatore / Tamil Nadu	Apartment / 4 BHK	1871	₹29,900/month	Fully-Furnished	5	Family	Rent
+982	Tamil Nadu Properties (Tamil_Nadu.txt)	1 BHK Independent House	Tiruchirappalli Colony	Tiruchirappalli / Tamil Nadu	Independent House / 1 BHK	577	₹42.44 L	Unfurnished	1	Family	Sale
+983	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Apartment	Madurai Central	Madurai / Tamil Nadu	Apartment / 2 BHK	842	₹54.57 L	Semi-Furnished	2	Any	Sale
+984	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Builder Floor	Chennai Nagar	Chennai / Tamil Nadu	Builder Floor / 2 BHK	829	₹69.22 L	Unfurnished	1	Any	Sale
+985	Tamil Nadu Properties (Tamil_Nadu.txt)	3 BHK Apartment	Tiruchirappalli Sector 2	Tiruchirappalli / Tamil Nadu	Apartment / 3 BHK	1288	₹88.90 L	Semi-Furnished	4	Bachelors	Sale
+986	Tamil Nadu Properties (Tamil_Nadu.txt)	3 BHK Apartment	Coimbatore Sector 2	Coimbatore / Tamil Nadu	Apartment / 3 BHK	859	₹96.84 L	Semi-Furnished	2	Family	Sale
+987	Tamil Nadu Properties (Tamil_Nadu.txt)	1 BHK Apartment	Coimbatore Town Centre	Coimbatore / Tamil Nadu	Apartment / 1 BHK	414	₹37.28 L	Unfurnished	1	Family	Sale
+988	Tamil Nadu Properties (Tamil_Nadu.txt)	4 BHK Independent House	Chennai Sector 2	Chennai / Tamil Nadu	Independent House / 4 BHK	1984	₹1.41 Cr	Fully-Furnished	4	Family	Sale
+989	Tamil Nadu Properties (Tamil_Nadu.txt)	3 BHK Villa	Madurai Heights	Madurai / Tamil Nadu	Villa / 3 BHK	1710	₹1.06 Cr	Fully-Furnished	3	Bachelors	Sale
+990	Tamil Nadu Properties (Tamil_Nadu.txt)	3 BHK Villa	Coimbatore South	Coimbatore / Tamil Nadu	Villa / 3 BHK	1602	₹1.09 Cr	Unfurnished	4	Bachelors	Sale
+991	Tamil Nadu Properties (Tamil_Nadu.txt)	4 BHK Independent House	Salem Central	Salem / Tamil Nadu	Independent House / 4 BHK	1972	₹38,000/month	Semi-Furnished	4	Bachelors	Rent
+992	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Apartment	Salem Extension	Salem / Tamil Nadu	Apartment / 2 BHK	819	₹57.03 L	Fully-Furnished	2	Any	Sale
+993	Tamil Nadu Properties (Tamil_Nadu.txt)	3 BHK Apartment	Tiruchirappalli Extension	Tiruchirappalli / Tamil Nadu	Apartment / 3 BHK	1530	₹82.37 L	Semi-Furnished	2	Any	Sale
+994	Tamil Nadu Properties (Tamil_Nadu.txt)	1 BHK Studio	Chennai Main Road	Chennai / Tamil Nadu	Studio / 1 BHK	381	₹9,200/month	Semi-Furnished	1	Family	Rent
+995	Tamil Nadu Properties (Tamil_Nadu.txt)	3 BHK Apartment	Coimbatore Colony	Coimbatore / Tamil Nadu	Apartment / 3 BHK	1345	₹76.88 L	Unfurnished	2	Family	Sale
+996	Tamil Nadu Properties (Tamil_Nadu.txt)	1 BHK Apartment	Coimbatore Heights	Coimbatore / Tamil Nadu	Apartment / 1 BHK	484	₹37.53 L	Semi-Furnished	1	Family	Sale
+997	Tamil Nadu Properties (Tamil_Nadu.txt)	3 BHK Independent House	Salem Heights	Salem / Tamil Nadu	Independent House / 3 BHK	1515	₹23,100/month	Unfurnished	3	Bachelors	Rent
+998	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Builder Floor	Coimbatore Central	Coimbatore / Tamil Nadu	Builder Floor / 2 BHK	735	₹14,900/month	Semi-Furnished	1	Bachelors	Rent
+999	Tamil Nadu Properties (Tamil_Nadu.txt)	3 BHK Builder Floor	Tiruchirappalli West	Tiruchirappalli / Tamil Nadu	Builder Floor / 3 BHK	1117	₹84.50 L	Fully-Furnished	3	Bachelors	Sale
+1000	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Apartment	Salem Town Centre	Salem / Tamil Nadu	Apartment / 2 BHK	865	₹59 L	Unfurnished	2	Bachelors	Sale
+1001	Tamil Nadu Properties (Tamil_Nadu.txt)	1 BHK Studio	Salem Town Centre	Salem / Tamil Nadu	Studio / 1 BHK	449	₹36.91 L	Unfurnished	2	Bachelors	Sale
+1002	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Villa	Salem Main Road	Salem / Tamil Nadu	Villa / 2 BHK	1196	₹19,100/month	Fully-Furnished	2	Family	Rent
+1003	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Independent House	Chennai Extension	Chennai / Tamil Nadu	Independent House / 2 BHK	1311	₹68.90 L	Unfurnished	3	Any	Sale
+1004	Tamil Nadu Properties (Tamil_Nadu.txt)	1 BHK Apartment	Chennai Nagar	Chennai / Tamil Nadu	Apartment / 1 BHK	572	₹33.78 L	Unfurnished	2	Family	Sale
+1005	Tamil Nadu Properties (Tamil_Nadu.txt)	1 BHK Studio	Salem Colony	Salem / Tamil Nadu	Studio / 1 BHK	360	₹12,800/month	Fully-Furnished	1	Family	Rent
+1006	Tamil Nadu Properties (Tamil_Nadu.txt)	3 BHK Builder Floor	Madurai North	Madurai / Tamil Nadu	Builder Floor / 3 BHK	995	₹77.03 L	Fully-Furnished	4	Family	Sale
+1007	Tamil Nadu Properties (Tamil_Nadu.txt)	3 BHK Builder Floor	Salem South	Salem / Tamil Nadu	Builder Floor / 3 BHK	1334	₹1.01 Cr	Semi-Furnished	3	Family	Sale
+1008	Tamil Nadu Properties (Tamil_Nadu.txt)	3 BHK Apartment	Salem Extension	Salem / Tamil Nadu	Apartment / 3 BHK	1289	₹91.37 L	Semi-Furnished	3	Bachelors	Sale
+1009	Tamil Nadu Properties (Tamil_Nadu.txt)	3 BHK Apartment	Coimbatore East	Coimbatore / Tamil Nadu	Apartment / 3 BHK	1331	₹25,200/month	Semi-Furnished	2	Family	Rent
+1010	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Apartment	Coimbatore East	Coimbatore / Tamil Nadu	Apartment / 2 BHK	1016	₹77.75 L	Unfurnished	3	Any	Sale
+1011	Tamil Nadu Properties (Tamil_Nadu.txt)	1 BHK Apartment	Salem Nagar	Salem / Tamil Nadu	Apartment / 1 BHK	554	₹11,400/month	Semi-Furnished	1	Family	Rent
+1012	Tamil Nadu Properties (Tamil_Nadu.txt)	4 BHK Builder Floor	Salem Central	Salem / Tamil Nadu	Builder Floor / 4 BHK	1612	₹94.90 L	Fully-Furnished	4	Any	Sale
+1013	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Builder Floor	Tiruchirappalli Town Centre	Tiruchirappalli / Tamil Nadu	Builder Floor / 2 BHK	865	₹18,500/month	Semi-Furnished	2	Any	Rent
+1014	Tamil Nadu Properties (Tamil_Nadu.txt)	5 BHK Apartment	Chennai Main Road	Chennai / Tamil Nadu	Apartment / 5 BHK	2999	₹33,600/month	Unfurnished	4	Bachelors	Rent
+1015	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Apartment	Coimbatore Sector 1	Coimbatore / Tamil Nadu	Apartment / 2 BHK	1042	₹67.57 L	Fully-Furnished	2	Family	Sale
+1016	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Apartment	Salem Nagar	Salem / Tamil Nadu	Apartment / 2 BHK	674	₹64.79 L	Semi-Furnished	2	Any	Sale
+1017	Tamil Nadu Properties (Tamil_Nadu.txt)	3 BHK Independent House	Coimbatore Town Centre	Coimbatore / Tamil Nadu	Independent House / 3 BHK	1251	₹27,900/month	Fully-Furnished	3	Family	Rent
+1018	Tamil Nadu Properties (Tamil_Nadu.txt)	3 BHK Villa	Salem Extension	Salem / Tamil Nadu	Villa / 3 BHK	1738	₹1.14 Cr	Fully-Furnished	3	Bachelors	Sale
+1019	Tamil Nadu Properties (Tamil_Nadu.txt)	1 BHK Apartment	Madurai Central	Madurai / Tamil Nadu	Apartment / 1 BHK	443	₹36.93 L	Unfurnished	1	Family	Sale
+1020	Tamil Nadu Properties (Tamil_Nadu.txt)	3 BHK Builder Floor	Salem East	Salem / Tamil Nadu	Builder Floor / 3 BHK	1137	₹1.02 Cr	Semi-Furnished	3	Family	Sale
+1021	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Apartment	Madurai Nagar	Madurai / Tamil Nadu	Apartment / 2 BHK	963	₹59.94 L	Unfurnished	1	Family	Sale
+1022	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Villa	Chennai Main Road	Chennai / Tamil Nadu	Villa / 2 BHK	932	₹74.57 L	Semi-Furnished	2	Family	Sale
+1023	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Apartment	Chennai East	Chennai / Tamil Nadu	Apartment / 2 BHK	921	₹59.59 L	Semi-Furnished	2	Family	Sale
+1024	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Apartment	Madurai Sector 1	Madurai / Tamil Nadu	Apartment / 2 BHK	790	₹58.90 L	Semi-Furnished	1	Family	Sale
+1025	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Builder Floor	Chennai North	Chennai / Tamil Nadu	Builder Floor / 2 BHK	897	₹15,200/month	Fully-Furnished	2	Bachelors	Rent
+1026	Tamil Nadu Properties (Tamil_Nadu.txt)	1 BHK Studio	Madurai Residential Area	Madurai / Tamil Nadu	Studio / 1 BHK	317	₹30.41 L	Unfurnished	1	Any	Sale
+1027	Tamil Nadu Properties (Tamil_Nadu.txt)	1 BHK Apartment	Chennai South	Chennai / Tamil Nadu	Apartment / 1 BHK	511	₹43.39 L	Fully-Furnished	1	Family	Sale
+1028	Tamil Nadu Properties (Tamil_Nadu.txt)	1 BHK Apartment	Coimbatore Extension	Coimbatore / Tamil Nadu	Apartment / 1 BHK	512	₹36.18 L	Unfurnished	2	Any	Sale
+1029	Tamil Nadu Properties (Tamil_Nadu.txt)	3 BHK Apartment	Chennai Heights	Chennai / Tamil Nadu	Apartment / 3 BHK	878	₹21,200/month	Semi-Furnished	4	Family	Rent
+1030	Tamil Nadu Properties (Tamil_Nadu.txt)	3 BHK Apartment	Salem Heights	Salem / Tamil Nadu	Apartment / 3 BHK	905	₹77.12 L	Semi-Furnished	4	Bachelors	Sale
+1031	Tamil Nadu Properties (Tamil_Nadu.txt)	1 BHK Apartment	Salem Sector 1	Salem / Tamil Nadu	Apartment / 1 BHK	420	₹45.61 L	Unfurnished	2	Family	Sale
+1032	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Villa	Chennai Nagar	Chennai / Tamil Nadu	Villa / 2 BHK	845	₹69.66 L	Unfurnished	3	Family	Sale
+1033	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Villa	Salem Nagar	Salem / Tamil Nadu	Villa / 2 BHK	1203	₹17,700/month	Semi-Furnished	2	Family	Rent
+1034	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Apartment	Salem West	Salem / Tamil Nadu	Apartment / 2 BHK	841	₹61.89 L	Unfurnished	3	Any	Sale
+1035	Tamil Nadu Properties (Tamil_Nadu.txt)	3 BHK Apartment	Salem Nagar	Salem / Tamil Nadu	Apartment / 3 BHK	1133	₹95.29 L	Semi-Furnished	3	Bachelors	Sale
+1036	Tamil Nadu Properties (Tamil_Nadu.txt)	3 BHK Apartment	Chennai Town Centre	Chennai / Tamil Nadu	Apartment / 3 BHK	1200	₹99.79 L	Unfurnished	3	Family	Sale
+1037	Tamil Nadu Properties (Tamil_Nadu.txt)	3 BHK Apartment	Salem Sector 3	Salem / Tamil Nadu	Apartment / 3 BHK	1377	₹26,100/month	Semi-Furnished	3	Family	Rent
+1038	Tamil Nadu Properties (Tamil_Nadu.txt)	5 BHK Apartment	Madurai Nagar	Madurai / Tamil Nadu	Apartment / 5 BHK	2511	₹1.72 Cr	Semi-Furnished	6	Family	Sale
+1039	Tamil Nadu Properties (Tamil_Nadu.txt)	3 BHK Builder Floor	Coimbatore Nagar	Coimbatore / Tamil Nadu	Builder Floor / 3 BHK	1214	₹20,200/month	Semi-Furnished	3	Any	Rent
+1040	Tamil Nadu Properties (Tamil_Nadu.txt)	5 BHK Apartment	Madurai Heights	Madurai / Tamil Nadu	Apartment / 5 BHK	2104	₹1.25 Cr	Unfurnished	4	Family	Sale
+1041	Tamil Nadu Properties (Tamil_Nadu.txt)	3 BHK Apartment	Tiruchirappalli East	Tiruchirappalli / Tamil Nadu	Apartment / 3 BHK	1558	₹80.94 L	Fully-Furnished	4	Family	Sale
+1042	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Villa	Madurai North	Madurai / Tamil Nadu	Villa / 2 BHK	1152	₹56.67 L	Semi-Furnished	2	Family	Sale
+1043	Tamil Nadu Properties (Tamil_Nadu.txt)	4 BHK Apartment	Salem Nagar	Salem / Tamil Nadu	Apartment / 4 BHK	1771	₹27,400/month	Semi-Furnished	4	Any	Rent
+1044	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Villa	Madurai Heights	Madurai / Tamil Nadu	Villa / 2 BHK	930	₹18,700/month	Fully-Furnished	1	Family	Rent
+1045	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Independent House	Madurai Residential Area	Madurai / Tamil Nadu	Independent House / 2 BHK	686	₹55.55 L	Fully-Furnished	1	Any	Sale
+1046	Tamil Nadu Properties (Tamil_Nadu.txt)	3 BHK Independent House	Tiruchirappalli Colony	Tiruchirappalli / Tamil Nadu	Independent House / 3 BHK	1727	₹77.88 L	Fully-Furnished	4	Bachelors	Sale
+1047	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Independent House	Salem Town Centre	Salem / Tamil Nadu	Independent House / 2 BHK	905	₹19,600/month	Unfurnished	2	Any	Rent
+1048	Tamil Nadu Properties (Tamil_Nadu.txt)	1 BHK Apartment	Madurai Colony	Madurai / Tamil Nadu	Apartment / 1 BHK	608	₹10,500/month	Fully-Furnished	1	Any	Rent
+1049	Tamil Nadu Properties (Tamil_Nadu.txt)	1 BHK Apartment	Madurai Central	Madurai / Tamil Nadu	Apartment / 1 BHK	431	₹12,200/month	Unfurnished	1	Family	Rent
+1050	Tamil Nadu Properties (Tamil_Nadu.txt)	1 BHK Builder Floor	Salem Main Road	Salem / Tamil Nadu	Builder Floor / 1 BHK	468	₹36.50 L	Unfurnished	1	Family	Sale
+1051	Tamil Nadu Properties (Tamil_Nadu.txt)	5 BHK Independent House	Tiruchirappalli South	Tiruchirappalli / Tamil Nadu	Independent House / 5 BHK	3119	₹1.79 Cr	Fully-Furnished	5	Family	Sale
+1052	Tamil Nadu Properties (Tamil_Nadu.txt)	1 BHK Studio	Coimbatore Main Road	Coimbatore / Tamil Nadu	Studio / 1 BHK	331	₹12,000/month	Semi-Furnished	1	Bachelors	Rent
+1053	Tamil Nadu Properties (Tamil_Nadu.txt)	3 BHK Apartment	Madurai Nagar	Madurai / Tamil Nadu	Apartment / 3 BHK	1502	₹28,200/month	Unfurnished	3	Family	Rent
+1054	Tamil Nadu Properties (Tamil_Nadu.txt)	3 BHK Apartment	Coimbatore Sector 1	Coimbatore / Tamil Nadu	Apartment / 3 BHK	1007	₹81.91 L	Semi-Furnished	4	Any	Sale
+1055	Tamil Nadu Properties (Tamil_Nadu.txt)	5 BHK Apartment	Madurai Sector 2	Madurai / Tamil Nadu	Apartment / 5 BHK	2830	₹41,700/month	Fully-Furnished	4	Family	Rent
+1056	Tamil Nadu Properties (Tamil_Nadu.txt)	4 BHK Apartment	Chennai Residential Area	Chennai / Tamil Nadu	Apartment / 4 BHK	2055	₹1.11 Cr	Semi-Furnished	3	Bachelors	Sale
+1057	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Apartment	Coimbatore Central	Coimbatore / Tamil Nadu	Apartment / 2 BHK	801	₹18,200/month	Unfurnished	2	Family	Rent
+1058	Tamil Nadu Properties (Tamil_Nadu.txt)	1 BHK Apartment	Madurai Nagar	Madurai / Tamil Nadu	Apartment / 1 BHK	373	₹39.10 L	Unfurnished	1	Family	Sale
+1059	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Apartment	Coimbatore Main Road	Coimbatore / Tamil Nadu	Apartment / 2 BHK	861	₹57.98 L	Unfurnished	3	Family	Sale
+1060	Tamil Nadu Properties (Tamil_Nadu.txt)	3 BHK Builder Floor	Salem Residential Area	Salem / Tamil Nadu	Builder Floor / 3 BHK	1229	₹92.65 L	Semi-Furnished	2	Bachelors	Sale
+1061	Tamil Nadu Properties (Tamil_Nadu.txt)	4 BHK Apartment	Tiruchirappalli Nagar	Tiruchirappalli / Tamil Nadu	Apartment / 4 BHK	1849	₹1.17 Cr	Semi-Furnished	5	Any	Sale
+1062	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Independent House	Salem Central	Salem / Tamil Nadu	Independent House / 2 BHK	943	₹70.34 L	Semi-Furnished	2	Bachelors	Sale
+1063	Tamil Nadu Properties (Tamil_Nadu.txt)	4 BHK Apartment	Salem Colony	Salem / Tamil Nadu	Apartment / 4 BHK	1906	₹94.61 L	Semi-Furnished	3	Any	Sale
+1064	Tamil Nadu Properties (Tamil_Nadu.txt)	1 BHK Independent House	Salem Colony	Salem / Tamil Nadu	Independent House / 1 BHK	684	₹48.76 L	Fully-Furnished	2	Any	Sale
+1065	Tamil Nadu Properties (Tamil_Nadu.txt)	4 BHK Builder Floor	Coimbatore Sector 3	Coimbatore / Tamil Nadu	Builder Floor / 4 BHK	1682	₹1.24 Cr	Unfurnished	5	Family	Sale
+1066	Tamil Nadu Properties (Tamil_Nadu.txt)	5 BHK Villa	Madurai South	Madurai / Tamil Nadu	Villa / 5 BHK	4010	₹1.83 Cr	Unfurnished	6	Any	Sale
+1067	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Builder Floor	Salem Extension	Salem / Tamil Nadu	Builder Floor / 2 BHK	768	₹14,600/month	Unfurnished	2	Family	Rent
+1068	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Builder Floor	Salem Heights	Salem / Tamil Nadu	Builder Floor / 2 BHK	1060	₹19,500/month	Semi-Furnished	2	Any	Rent
+1069	Tamil Nadu Properties (Tamil_Nadu.txt)	1 BHK Studio	Salem Town Centre	Salem / Tamil Nadu	Studio / 1 BHK	355	₹9,400/month	Fully-Furnished	1	Family	Rent
+1070	Tamil Nadu Properties (Tamil_Nadu.txt)	1 BHK Studio	Salem North	Salem / Tamil Nadu	Studio / 1 BHK	363	₹9,700/month	Semi-Furnished	1	Any	Rent
+1071	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Independent House	Coimbatore Town Centre	Coimbatore / Tamil Nadu	Independent House / 2 BHK	840	₹66.62 L	Fully-Furnished	2	Bachelors	Sale
+1072	Tamil Nadu Properties (Tamil_Nadu.txt)	4 BHK Builder Floor	Chennai Heights	Chennai / Tamil Nadu	Builder Floor / 4 BHK	1331	₹23,800/month	Fully-Furnished	4	Any	Rent
+1073	Tamil Nadu Properties (Tamil_Nadu.txt)	4 BHK Apartment	Madurai Town Centre	Madurai / Tamil Nadu	Apartment / 4 BHK	1503	₹1.22 Cr	Unfurnished	4	Bachelors	Sale
+1074	Tamil Nadu Properties (Tamil_Nadu.txt)	1 BHK Studio	Chennai Colony	Chennai / Tamil Nadu	Studio / 1 BHK	352	₹11,600/month	Fully-Furnished	2	Bachelors	Rent
+1075	Tamil Nadu Properties (Tamil_Nadu.txt)	4 BHK Independent House	Salem Colony	Salem / Tamil Nadu	Independent House / 4 BHK	2008	₹32,900/month	Fully-Furnished	3	Family	Rent
+1076	Tamil Nadu Properties (Tamil_Nadu.txt)	3 BHK Independent House	Salem Main Road	Salem / Tamil Nadu	Independent House / 3 BHK	1456	₹1.05 Cr	Semi-Furnished	4	Any	Sale
+1077	Tamil Nadu Properties (Tamil_Nadu.txt)	3 BHK Builder Floor	Madurai Nagar	Madurai / Tamil Nadu	Builder Floor / 3 BHK	1084	₹19,500/month	Semi-Furnished	4	Bachelors	Rent
+1078	Tamil Nadu Properties (Tamil_Nadu.txt)	3 BHK Apartment	Coimbatore West	Coimbatore / Tamil Nadu	Apartment / 3 BHK	1256	₹71.25 L	Semi-Furnished	3	Bachelors	Sale
+1079	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Apartment	Salem Main Road	Salem / Tamil Nadu	Apartment / 2 BHK	923	₹62.56 L	Semi-Furnished	2	Family	Sale
+1080	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Apartment	Madurai North	Madurai / Tamil Nadu	Apartment / 2 BHK	962	₹72.19 L	Fully-Furnished	2	Family	Sale
+1081	Tamil Nadu Properties (Tamil_Nadu.txt)	3 BHK Villa	Coimbatore North	Coimbatore / Tamil Nadu	Villa / 3 BHK	1611	₹27,400/month	Fully-Furnished	2	Any	Rent
+1082	Tamil Nadu Properties (Tamil_Nadu.txt)	1 BHK Apartment	Coimbatore West	Coimbatore / Tamil Nadu	Apartment / 1 BHK	632	₹41.95 L	Semi-Furnished	1	Family	Sale
+1083	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Apartment	Coimbatore West	Coimbatore / Tamil Nadu	Apartment / 2 BHK	1125	₹69.30 L	Semi-Furnished	3	Any	Sale
+1084	Tamil Nadu Properties (Tamil_Nadu.txt)	3 BHK Apartment	Tiruchirappalli Sector 2	Tiruchirappalli / Tamil Nadu	Apartment / 3 BHK	1371	₹26,200/month	Fully-Furnished	4	Bachelors	Rent
+1085	Tamil Nadu Properties (Tamil_Nadu.txt)	3 BHK Apartment	Coimbatore Residential Area	Coimbatore / Tamil Nadu	Apartment / 3 BHK	1359	₹92.01 L	Semi-Furnished	4	Bachelors	Sale
+1086	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Apartment	Coimbatore Nagar	Coimbatore / Tamil Nadu	Apartment / 2 BHK	1084	₹61.64 L	Fully-Furnished	1	Family	Sale
+1087	Tamil Nadu Properties (Tamil_Nadu.txt)	3 BHK Builder Floor	Madurai Residential Area	Madurai / Tamil Nadu	Builder Floor / 3 BHK	1171	₹80.36 L	Unfurnished	2	Family	Sale
+1088	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Apartment	Salem East	Salem / Tamil Nadu	Apartment / 2 BHK	1119	₹78.42 L	Fully-Furnished	2	Bachelors	Sale
+1089	Tamil Nadu Properties (Tamil_Nadu.txt)	3 BHK Builder Floor	Madurai Residential Area	Madurai / Tamil Nadu	Builder Floor / 3 BHK	1171	₹92.14 L	Fully-Furnished	3	Bachelors	Sale
+1090	Tamil Nadu Properties (Tamil_Nadu.txt)	4 BHK Independent House	Madurai Central	Madurai / Tamil Nadu	Independent House / 4 BHK	1771	₹1.01 Cr	Semi-Furnished	4	Family	Sale
+1091	Tamil Nadu Properties (Tamil_Nadu.txt)	1 BHK Studio	Madurai North	Madurai / Tamil Nadu	Studio / 1 BHK	306	₹10,500/month	Fully-Furnished	1	Family	Rent
+1092	Tamil Nadu Properties (Tamil_Nadu.txt)	5 BHK Apartment	Coimbatore Sector 2	Coimbatore / Tamil Nadu	Apartment / 5 BHK	2799	₹36,500/month	Unfurnished	5	Any	Rent
+1093	Tamil Nadu Properties (Tamil_Nadu.txt)	1 BHK Villa	Chennai Central	Chennai / Tamil Nadu	Villa / 1 BHK	624	₹49.37 L	Semi-Furnished	1	Any	Sale
+1094	Tamil Nadu Properties (Tamil_Nadu.txt)	4 BHK Apartment	Tiruchirappalli South	Tiruchirappalli / Tamil Nadu	Apartment / 4 BHK	1663	₹1.14 Cr	Semi-Furnished	4	Bachelors	Sale
+1095	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Builder Floor	Tiruchirappalli Town Centre	Tiruchirappalli / Tamil Nadu	Builder Floor / 2 BHK	830	₹16,300/month	Unfurnished	2	Bachelors	Rent
+1096	Tamil Nadu Properties (Tamil_Nadu.txt)	3 BHK Apartment	Coimbatore Sector 3	Coimbatore / Tamil Nadu	Apartment / 3 BHK	1045	₹24,300/month	Semi-Furnished	3	Bachelors	Rent
+1097	Tamil Nadu Properties (Tamil_Nadu.txt)	3 BHK Apartment	Tiruchirappalli Sector 2	Tiruchirappalli / Tamil Nadu	Apartment / 3 BHK	1196	₹25,700/month	Semi-Furnished	3	Bachelors	Rent
+1098	Tamil Nadu Properties (Tamil_Nadu.txt)	5 BHK Apartment	Chennai North	Chennai / Tamil Nadu	Apartment / 5 BHK	2688	₹1.72 Cr	Fully-Furnished	4	Any	Sale
+1099	Tamil Nadu Properties (Tamil_Nadu.txt)	1 BHK Studio	Tiruchirappalli Town Centre	Tiruchirappalli / Tamil Nadu	Studio / 1 BHK	371	₹36.41 L	Semi-Furnished	2	Family	Sale
+1100	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Apartment	Tiruchirappalli Extension	Tiruchirappalli / Tamil Nadu	Apartment / 2 BHK	793	₹52.91 L	Fully-Furnished	2	Family	Sale
+1101	Tamil Nadu Properties (Tamil_Nadu.txt)	1 BHK Studio	Salem Heights	Salem / Tamil Nadu	Studio / 1 BHK	325	₹35.96 L	Semi-Furnished	1	Any	Sale
+1102	Tamil Nadu Properties (Tamil_Nadu.txt)	4 BHK Independent House	Coimbatore South	Coimbatore / Tamil Nadu	Independent House / 4 BHK	2499	₹1.03 Cr	Unfurnished	4	Family	Sale
+1103	Tamil Nadu Properties (Tamil_Nadu.txt)	3 BHK Apartment	Salem East	Salem / Tamil Nadu	Apartment / 3 BHK	1086	₹98.34 L	Fully-Furnished	3	Any	Sale
+1104	Tamil Nadu Properties (Tamil_Nadu.txt)	3 BHK Independent House	Salem Residential Area	Salem / Tamil Nadu	Independent House / 3 BHK	1152	₹92.10 L	Semi-Furnished	3	Family	Sale
+1105	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Builder Floor	Coimbatore West	Coimbatore / Tamil Nadu	Builder Floor / 2 BHK	986	₹19,300/month	Fully-Furnished	3	Any	Rent
+1106	Tamil Nadu Properties (Tamil_Nadu.txt)	3 BHK Apartment	Chennai Town Centre	Chennai / Tamil Nadu	Apartment / 3 BHK	1053	₹21,600/month	Semi-Furnished	3	Any	Rent
+1107	Tamil Nadu Properties (Tamil_Nadu.txt)	4 BHK Apartment	Chennai Sector 2	Chennai / Tamil Nadu	Apartment / 4 BHK	1713	₹28,300/month	Unfurnished	5	Any	Rent
+1108	Tamil Nadu Properties (Tamil_Nadu.txt)	1 BHK Studio	Chennai Main Road	Chennai / Tamil Nadu	Studio / 1 BHK	347	₹42.65 L	Fully-Furnished	2	Any	Sale
+1109	Tamil Nadu Properties (Tamil_Nadu.txt)	3 BHK Villa	Salem South	Salem / Tamil Nadu	Villa / 3 BHK	2054	₹1.04 Cr	Fully-Furnished	4	Family	Sale
+1110	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Apartment	Chennai Colony	Chennai / Tamil Nadu	Apartment / 2 BHK	1021	₹75.88 L	Semi-Furnished	2	Family	Sale
+1111	Tamil Nadu Properties (Tamil_Nadu.txt)	3 BHK Villa	Madurai Residential Area	Madurai / Tamil Nadu	Villa / 3 BHK	1134	₹22,000/month	Semi-Furnished	2	Family	Rent
+1112	Tamil Nadu Properties (Tamil_Nadu.txt)	1 BHK Apartment	Tiruchirappalli South	Tiruchirappalli / Tamil Nadu	Apartment / 1 BHK	626	₹12,400/month	Fully-Furnished	2	Any	Rent
+1113	Tamil Nadu Properties (Tamil_Nadu.txt)	3 BHK Independent House	Chennai Heights	Chennai / Tamil Nadu	Independent House / 3 BHK	1176	₹1.04 Cr	Semi-Furnished	3	Bachelors	Sale
+1114	Tamil Nadu Properties (Tamil_Nadu.txt)	3 BHK Apartment	Chennai Sector 1	Chennai / Tamil Nadu	Apartment / 3 BHK	1412	₹83.99 L	Semi-Furnished	3	Family	Sale
+1115	Tamil Nadu Properties (Tamil_Nadu.txt)	1 BHK Builder Floor	Madurai Heights	Madurai / Tamil Nadu	Builder Floor / 1 BHK	499	₹40.48 L	Fully-Furnished	1	Any	Sale
+1116	Tamil Nadu Properties (Tamil_Nadu.txt)	1 BHK Apartment	Tiruchirappalli West	Tiruchirappalli / Tamil Nadu	Apartment / 1 BHK	516	₹12,800/month	Semi-Furnished	1	Any	Rent
+1117	Tamil Nadu Properties (Tamil_Nadu.txt)	3 BHK Apartment	Salem West	Salem / Tamil Nadu	Apartment / 3 BHK	1246	₹72.54 L	Unfurnished	3	Bachelors	Sale
+1118	Tamil Nadu Properties (Tamil_Nadu.txt)	1 BHK Villa	Tiruchirappalli Colony	Tiruchirappalli / Tamil Nadu	Villa / 1 BHK	901	₹13,300/month	Unfurnished	2	Family	Rent
+1119	Tamil Nadu Properties (Tamil_Nadu.txt)	3 BHK Builder Floor	Chennai Heights	Chennai / Tamil Nadu	Builder Floor / 3 BHK	952	₹92.94 L	Fully-Furnished	2	Family	Sale
+1120	Tamil Nadu Properties (Tamil_Nadu.txt)	5 BHK Builder Floor	Tiruchirappalli Heights	Tiruchirappalli / Tamil Nadu	Builder Floor / 5 BHK	2804	₹1.37 Cr	Semi-Furnished	4	Family	Sale
+1121	Tamil Nadu Properties (Tamil_Nadu.txt)	4 BHK Independent House	Salem Nagar	Salem / Tamil Nadu	Independent House / 4 BHK	1727	₹91.75 L	Semi-Furnished	4	Any	Sale
+1122	Tamil Nadu Properties (Tamil_Nadu.txt)	3 BHK Apartment	Coimbatore West	Coimbatore / Tamil Nadu	Apartment / 3 BHK	846	₹21,100/month	Semi-Furnished	3	Bachelors	Rent
+1123	Tamil Nadu Properties (Tamil_Nadu.txt)	4 BHK Apartment	Tiruchirappalli Main Road	Tiruchirappalli / Tamil Nadu	Apartment / 4 BHK	2053	₹33,400/month	Unfurnished	5	Any	Rent
+1124	Tamil Nadu Properties (Tamil_Nadu.txt)	3 BHK Independent House	Chennai Colony	Chennai / Tamil Nadu	Independent House / 3 BHK	1552	₹1.08 Cr	Semi-Furnished	3	Any	Sale
+1125	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Apartment	Tiruchirappalli Sector 1	Tiruchirappalli / Tamil Nadu	Apartment / 2 BHK	1031	₹75.83 L	Unfurnished	1	Bachelors	Sale
+1126	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Apartment	Madurai East	Madurai / Tamil Nadu	Apartment / 2 BHK	810	₹59.95 L	Unfurnished	2	Any	Sale
+1127	Tamil Nadu Properties (Tamil_Nadu.txt)	5 BHK Builder Floor	Salem North	Salem / Tamil Nadu	Builder Floor / 5 BHK	2622	₹1.70 Cr	Fully-Furnished	6	Family	Sale
+1128	Tamil Nadu Properties (Tamil_Nadu.txt)	3 BHK Apartment	Chennai Sector 3	Chennai / Tamil Nadu	Apartment / 3 BHK	1361	₹77.13 L	Fully-Furnished	3	Family	Sale
+1129	Tamil Nadu Properties (Tamil_Nadu.txt)	4 BHK Builder Floor	Coimbatore Town Centre	Coimbatore / Tamil Nadu	Builder Floor / 4 BHK	1655	₹1.16 Cr	Fully-Furnished	4	Family	Sale
+1130	Tamil Nadu Properties (Tamil_Nadu.txt)	5 BHK Apartment	Chennai Residential Area	Chennai / Tamil Nadu	Apartment / 5 BHK	2802	₹46,000/month	Semi-Furnished	6	Family	Rent
+1131	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Apartment	Salem Main Road	Salem / Tamil Nadu	Apartment / 2 BHK	914	₹17,400/month	Unfurnished	1	Family	Rent
+1132	Tamil Nadu Properties (Tamil_Nadu.txt)	4 BHK Apartment	Chennai North	Chennai / Tamil Nadu	Apartment / 4 BHK	1524	₹1.20 Cr	Semi-Furnished	4	Family	Sale
+1133	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Independent House	Coimbatore Extension	Coimbatore / Tamil Nadu	Independent House / 2 BHK	1073	₹66.60 L	Semi-Furnished	1	Any	Sale
+1134	Tamil Nadu Properties (Tamil_Nadu.txt)	3 BHK Apartment	Chennai Colony	Chennai / Tamil Nadu	Apartment / 3 BHK	1268	₹75.21 L	Semi-Furnished	2	Family	Sale
+1135	Tamil Nadu Properties (Tamil_Nadu.txt)	4 BHK Independent House	Chennai Sector 3	Chennai / Tamil Nadu	Independent House / 4 BHK	2438	₹1.05 Cr	Unfurnished	4	Family	Sale
+1136	Tamil Nadu Properties (Tamil_Nadu.txt)	3 BHK Apartment	Madurai East	Madurai / Tamil Nadu	Apartment / 3 BHK	871	₹76.36 L	Fully-Furnished	2	Family	Sale
+1137	Tamil Nadu Properties (Tamil_Nadu.txt)	3 BHK Builder Floor	Coimbatore Sector 1	Coimbatore / Tamil Nadu	Builder Floor / 3 BHK	1138	₹97.17 L	Fully-Furnished	2	Family	Sale
+1138	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Apartment	Coimbatore Heights	Coimbatore / Tamil Nadu	Apartment / 2 BHK	889	₹58.80 L	Semi-Furnished	1	Any	Sale
+1139	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Independent House	Coimbatore Sector 3	Coimbatore / Tamil Nadu	Independent House / 2 BHK	921	₹69.58 L	Fully-Furnished	2	Bachelors	Sale
+1140	Tamil Nadu Properties (Tamil_Nadu.txt)	5 BHK Apartment	Salem Nagar	Salem / Tamil Nadu	Apartment / 5 BHK	2669	₹41,600/month	Unfurnished	5	Family	Rent
+1141	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Apartment	Salem Sector 3	Salem / Tamil Nadu	Apartment / 2 BHK	1022	₹66.92 L	Semi-Furnished	2	Family	Sale
+1142	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Builder Floor	Coimbatore Town Centre	Coimbatore / Tamil Nadu	Builder Floor / 2 BHK	1057	₹57.54 L	Fully-Furnished	1	Family	Sale
+1143	Tamil Nadu Properties (Tamil_Nadu.txt)	3 BHK Apartment	Coimbatore Sector 2	Coimbatore / Tamil Nadu	Apartment / 3 BHK	1407	₹26,900/month	Semi-Furnished	2	Family	Rent
+1144	Tamil Nadu Properties (Tamil_Nadu.txt)	4 BHK Apartment	Madurai Town Centre	Madurai / Tamil Nadu	Apartment / 4 BHK	1978	₹29,200/month	Unfurnished	3	Family	Rent
+1145	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Apartment	Tiruchirappalli Sector 1	Tiruchirappalli / Tamil Nadu	Apartment / 2 BHK	603	₹16,000/month	Semi-Furnished	2	Bachelors	Rent
+1146	Tamil Nadu Properties (Tamil_Nadu.txt)	1 BHK Villa	Madurai Main Road	Madurai / Tamil Nadu	Villa / 1 BHK	865	₹44.59 L	Semi-Furnished	1	Family	Sale
+1147	Tamil Nadu Properties (Tamil_Nadu.txt)	1 BHK Apartment	Chennai Central	Chennai / Tamil Nadu	Apartment / 1 BHK	641	₹50.61 L	Fully-Furnished	1	Any	Sale
+1148	Tamil Nadu Properties (Tamil_Nadu.txt)	1 BHK Villa	Coimbatore Sector 1	Coimbatore / Tamil Nadu	Villa / 1 BHK	675	₹14,200/month	Unfurnished	1	Any	Rent
+1149	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Builder Floor	Salem Extension	Salem / Tamil Nadu	Builder Floor / 2 BHK	804	₹57.90 L	Fully-Furnished	1	Bachelors	Sale
+1150	Tamil Nadu Properties (Tamil_Nadu.txt)	1 BHK Apartment	Madurai Extension	Madurai / Tamil Nadu	Apartment / 1 BHK	483	₹36.04 L	Fully-Furnished	1	Bachelors	Sale
+1151	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Builder Floor	Salem Colony	Salem / Tamil Nadu	Builder Floor / 2 BHK	914	₹62.60 L	Fully-Furnished	2	Any	Sale
+1152	Tamil Nadu Properties (Tamil_Nadu.txt)	3 BHK Apartment	Chennai North	Chennai / Tamil Nadu	Apartment / 3 BHK	1397	₹23,500/month	Unfurnished	4	Bachelors	Rent
+1153	Tamil Nadu Properties (Tamil_Nadu.txt)	1 BHK Apartment	Madurai West	Madurai / Tamil Nadu	Apartment / 1 BHK	593	₹44.29 L	Unfurnished	1	Any	Sale
+1154	Tamil Nadu Properties (Tamil_Nadu.txt)	5 BHK Apartment	Chennai North	Chennai / Tamil Nadu	Apartment / 5 BHK	2972	₹1.59 Cr	Fully-Furnished	5	Family	Sale
+1155	Tamil Nadu Properties (Tamil_Nadu.txt)	4 BHK Apartment	Tiruchirappalli Sector 3	Tiruchirappalli / Tamil Nadu	Apartment / 4 BHK	1561	₹1.28 Cr	Semi-Furnished	4	Any	Sale
+1156	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Independent House	Chennai Sector 2	Chennai / Tamil Nadu	Independent House / 2 BHK	1088	₹20,400/month	Semi-Furnished	3	Bachelors	Rent
+1157	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Apartment	Madurai Sector 1	Madurai / Tamil Nadu	Apartment / 2 BHK	756	₹70.60 L	Semi-Furnished	2	Family	Sale
+1158	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Builder Floor	Salem Sector 3	Salem / Tamil Nadu	Builder Floor / 2 BHK	690	₹70.42 L	Semi-Furnished	2	Family	Sale
+1159	Tamil Nadu Properties (Tamil_Nadu.txt)	4 BHK Apartment	Chennai Sector 1	Chennai / Tamil Nadu	Apartment / 4 BHK	1724	₹1.28 Cr	Unfurnished	4	Family	Sale
+1160	Tamil Nadu Properties (Tamil_Nadu.txt)	3 BHK Villa	Salem Sector 2	Salem / Tamil Nadu	Villa / 3 BHK	1517	₹98.95 L	Unfurnished	3	Any	Sale
+1161	Tamil Nadu Properties (Tamil_Nadu.txt)	1 BHK Apartment	Chennai Town Centre	Chennai / Tamil Nadu	Apartment / 1 BHK	421	₹12,000/month	Semi-Furnished	2	Bachelors	Rent
+1162	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Independent House	Coimbatore Sector 1	Coimbatore / Tamil Nadu	Independent House / 2 BHK	1000	₹62.09 L	Unfurnished	2	Family	Sale
+1163	Tamil Nadu Properties (Tamil_Nadu.txt)	1 BHK Apartment	Coimbatore Extension	Coimbatore / Tamil Nadu	Apartment / 1 BHK	510	₹35.88 L	Semi-Furnished	1	Any	Sale
+1164	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Apartment	Chennai Sector 1	Chennai / Tamil Nadu	Apartment / 2 BHK	881	₹72.16 L	Semi-Furnished	2	Any	Sale
+1165	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Apartment	Madurai Town Centre	Madurai / Tamil Nadu	Apartment / 2 BHK	843	₹15,900/month	Semi-Furnished	2	Any	Rent
+1166	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Independent House	Madurai East	Madurai / Tamil Nadu	Independent House / 2 BHK	1305	₹82.26 L	Unfurnished	2	Any	Sale
+1167	Tamil Nadu Properties (Tamil_Nadu.txt)	3 BHK Apartment	Tiruchirappalli Town Centre	Tiruchirappalli / Tamil Nadu	Apartment / 3 BHK	911	₹80.28 L	Semi-Furnished	2	Bachelors	Sale
+1168	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Apartment	Madurai Town Centre	Madurai / Tamil Nadu	Apartment / 2 BHK	916	₹72.17 L	Semi-Furnished	1	Bachelors	Sale
+1169	Tamil Nadu Properties (Tamil_Nadu.txt)	4 BHK Apartment	Chennai Sector 3	Chennai / Tamil Nadu	Apartment / 4 BHK	2027	₹1.33 Cr	Semi-Furnished	4	Any	Sale
+1170	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Apartment	Tiruchirappalli Sector 2	Tiruchirappalli / Tamil Nadu	Apartment / 2 BHK	718	₹70.98 L	Semi-Furnished	2	Family	Sale
+1171	Tamil Nadu Properties (Tamil_Nadu.txt)	2 BHK Apartment	Chennai Extension	Chennai / Tamil Nadu	Apartment / 2 BHK	694	₹51.96 L	Unfurnished	2	Any	Sale
