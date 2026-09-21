@@ -1,0 +1,1172 @@
+No.	Source	Property	Location	City / State	Type / Config	Area	Price / Rent	Furnishing	Bathrooms	Tennants	Listing Type
+1	Tripura Properties (Tripura.txt)	4 BHK Independent House	Dharmanagar South	Dharmanagar / Tripura	Independent House / 4 BHK	2051	₹64.14 L	Fully-Furnished	4	Any	Sale
+2	Tripura Properties (Tripura.txt)	4 BHK Apartment	Dharmanagar Sector 1	Dharmanagar / Tripura	Apartment / 4 BHK	1312	₹53.57 L	Unfurnished	5	Any	Sale
+3	Tripura Properties (Tripura.txt)	2 BHK Independent House	Udaipur South	Udaipur / Tripura	Independent House / 2 BHK	974	₹42.60 L	Fully-Furnished	2	Family	Sale
+4	Tripura Properties (Tripura.txt)	2 BHK Apartment	Udaipur South	Udaipur / Tripura	Apartment / 2 BHK	780	₹34.66 L	Semi-Furnished	3	Family	Sale
+5	Tripura Properties (Tripura.txt)	3 BHK Apartment	Udaipur West	Udaipur / Tripura	Apartment / 3 BHK	941	₹12,600/month	Unfurnished	3	Family	Rent
+6	Tripura Properties (Tripura.txt)	3 BHK Apartment	Dharmanagar Heights	Dharmanagar / Tripura	Apartment / 3 BHK	1239	₹15,300/month	Semi-Furnished	3	Family	Rent
+7	Tripura Properties (Tripura.txt)	3 BHK Independent House	Agartala Central	Agartala / Tripura	Independent House / 3 BHK	1902	₹17,000/month	Semi-Furnished	2	Any	Rent
+8	Tripura Properties (Tripura.txt)	2 BHK Builder Floor	Udaipur South	Udaipur / Tripura	Builder Floor / 2 BHK	797	₹8,900/month	Fully-Furnished	2	Any	Rent
+9	Tripura Properties (Tripura.txt)	5 BHK Apartment	Udaipur Residential Area	Udaipur / Tripura	Apartment / 5 BHK	2325	₹89.45 L	Fully-Furnished	5	Bachelors	Sale
+10	Tripura Properties (Tripura.txt)	1 BHK Independent House	Agartala Sector 3	Agartala / Tripura	Independent House / 1 BHK	631	₹20.70 L	Unfurnished	1	Family	Sale
+11	Tripura Properties (Tripura.txt)	3 BHK Apartment	Udaipur North	Udaipur / Tripura	Apartment / 3 BHK	1030	₹49.08 L	Semi-Furnished	3	Any	Sale
+12	Tripura Properties (Tripura.txt)	4 BHK Apartment	Agartala Sector 3	Agartala / Tripura	Apartment / 4 BHK	2026	₹66.44 L	Unfurnished	4	Family	Sale
+13	Tripura Properties (Tripura.txt)	1 BHK Studio	Agartala Main Road	Agartala / Tripura	Studio / 1 BHK	406	₹21.71 L	Fully-Furnished	1	Family	Sale
+14	Tripura Properties (Tripura.txt)	2 BHK Villa	Udaipur Central	Udaipur / Tripura	Villa / 2 BHK	1293	₹32.22 L	Unfurnished	2	Any	Sale
+15	Tripura Properties (Tripura.txt)	2 BHK Builder Floor	Agartala Central	Agartala / Tripura	Builder Floor / 2 BHK	905	₹33.57 L	Unfurnished	2	Any	Sale
+16	Tripura Properties (Tripura.txt)	3 BHK Apartment	Agartala Sector 3	Agartala / Tripura	Apartment / 3 BHK	1194	₹10,600/month	Unfurnished	3	Any	Rent
+17	Tripura Properties (Tripura.txt)	2 BHK Independent House	Udaipur Main Road	Udaipur / Tripura	Independent House / 2 BHK	969	₹8,600/month	Semi-Furnished	1	Family	Rent
+18	Tripura Properties (Tripura.txt)	1 BHK Builder Floor	Udaipur Residential Area	Udaipur / Tripura	Builder Floor / 1 BHK	443	₹25.75 L	Semi-Furnished	1	Bachelors	Sale
+19	Tripura Properties (Tripura.txt)	3 BHK Apartment	Agartala Nagar	Agartala / Tripura	Apartment / 3 BHK	1149	₹12,400/month	Unfurnished	3	Any	Rent
+20	Tripura Properties (Tripura.txt)	4 BHK Apartment	Dharmanagar Extension	Dharmanagar / Tripura	Apartment / 4 BHK	1853	₹67.19 L	Semi-Furnished	4	Family	Sale
+21	Tripura Properties (Tripura.txt)	3 BHK Apartment	Agartala Town Centre	Agartala / Tripura	Apartment / 3 BHK	705	₹9,900/month	Semi-Furnished	3	Any	Rent
+22	Tripura Properties (Tripura.txt)	2 BHK Apartment	Udaipur Sector 1	Udaipur / Tripura	Apartment / 2 BHK	859	₹7,900/month	Unfurnished	3	Bachelors	Rent
+23	Tripura Properties (Tripura.txt)	2 BHK Independent House	Dharmanagar Sector 3	Dharmanagar / Tripura	Independent House / 2 BHK	1009	₹42.78 L	Semi-Furnished	1	Bachelors	Sale
+24	Tripura Properties (Tripura.txt)	2 BHK Villa	Dharmanagar West	Dharmanagar / Tripura	Villa / 2 BHK	1282	₹31.87 L	Fully-Furnished	2	Any	Sale
+25	Tripura Properties (Tripura.txt)	1 BHK Apartment	Udaipur Sector 2	Udaipur / Tripura	Apartment / 1 BHK	570	₹25.97 L	Unfurnished	1	Any	Sale
+26	Tripura Properties (Tripura.txt)	2 BHK Builder Floor	Udaipur South	Udaipur / Tripura	Builder Floor / 2 BHK	825	₹9,500/month	Semi-Furnished	3	Any	Rent
+27	Tripura Properties (Tripura.txt)	2 BHK Independent House	Dharmanagar Residential Area	Dharmanagar / Tripura	Independent House / 2 BHK	1166	₹12,100/month	Fully-Furnished	2	Family	Rent
+28	Tripura Properties (Tripura.txt)	1 BHK Apartment	Udaipur Town Centre	Udaipur / Tripura	Apartment / 1 BHK	456	₹5,200/month	Semi-Furnished	1	Family	Rent
+29	Tripura Properties (Tripura.txt)	1 BHK Builder Floor	Udaipur South	Udaipur / Tripura	Builder Floor / 1 BHK	589	₹27.51 L	Semi-Furnished	1	Bachelors	Sale
+30	Tripura Properties (Tripura.txt)	2 BHK Apartment	Udaipur Heights	Udaipur / Tripura	Apartment / 2 BHK	774	₹9,800/month	Fully-Furnished	1	Family	Rent
+31	Tripura Properties (Tripura.txt)	3 BHK Apartment	Dharmanagar Sector 1	Dharmanagar / Tripura	Apartment / 3 BHK	1351	₹42.48 L	Fully-Furnished	3	Bachelors	Sale
+32	Tripura Properties (Tripura.txt)	3 BHK Apartment	Agartala Colony	Agartala / Tripura	Apartment / 3 BHK	1350	₹15,100/month	Unfurnished	4	Any	Rent
+33	Tripura Properties (Tripura.txt)	5 BHK Apartment	Udaipur Heights	Udaipur / Tripura	Apartment / 5 BHK	2961	₹77.81 L	Unfurnished	4	Family	Sale
+34	Tripura Properties (Tripura.txt)	3 BHK Apartment	Agartala South	Agartala / Tripura	Apartment / 3 BHK	1582	₹15,300/month	Unfurnished	2	Bachelors	Rent
+35	Tripura Properties (Tripura.txt)	3 BHK Apartment	Dharmanagar Heights	Dharmanagar / Tripura	Apartment / 3 BHK	1563	₹59.36 L	Unfurnished	3	Family	Sale
+36	Tripura Properties (Tripura.txt)	1 BHK Apartment	Agartala Nagar	Agartala / Tripura	Apartment / 1 BHK	562	₹6,500/month	Unfurnished	1	Family	Rent
+37	Tripura Properties (Tripura.txt)	2 BHK Apartment	Udaipur West	Udaipur / Tripura	Apartment / 2 BHK	1006	₹10,600/month	Semi-Furnished	2	Family	Rent
+38	Tripura Properties (Tripura.txt)	3 BHK Independent House	Udaipur Main Road	Udaipur / Tripura	Independent House / 3 BHK	1307	₹11,500/month	Semi-Furnished	3	Family	Rent
+39	Tripura Properties (Tripura.txt)	4 BHK Apartment	Agartala Sector 1	Agartala / Tripura	Apartment / 4 BHK	1528	₹59 L	Unfurnished	4	Family	Sale
+40	Tripura Properties (Tripura.txt)	1 BHK Studio	Dharmanagar North	Dharmanagar / Tripura	Studio / 1 BHK	383	₹4,900/month	Fully-Furnished	1	Family	Rent
+41	Tripura Properties (Tripura.txt)	2 BHK Apartment	Udaipur Sector 2	Udaipur / Tripura	Apartment / 2 BHK	944	₹34.80 L	Semi-Furnished	2	Family	Sale
+42	Tripura Properties (Tripura.txt)	4 BHK Apartment	Agartala Central	Agartala / Tripura	Apartment / 4 BHK	1521	₹15,000/month	Fully-Furnished	4	Any	Rent
+43	Tripura Properties (Tripura.txt)	1 BHK Apartment	Agartala Sector 2	Agartala / Tripura	Apartment / 1 BHK	505	₹7,100/month	Unfurnished	1	Family	Rent
+44	Tripura Properties (Tripura.txt)	2 BHK Apartment	Udaipur South	Udaipur / Tripura	Apartment / 2 BHK	851	₹40.70 L	Fully-Furnished	2	Bachelors	Sale
+45	Tripura Properties (Tripura.txt)	4 BHK Independent House	Udaipur Extension	Udaipur / Tripura	Independent House / 4 BHK	1978	₹53.97 L	Semi-Furnished	4	Family	Sale
+46	Tripura Properties (Tripura.txt)	3 BHK Apartment	Udaipur Sector 1	Udaipur / Tripura	Apartment / 3 BHK	1349	₹42.76 L	Unfurnished	2	Any	Sale
+47	Tripura Properties (Tripura.txt)	4 BHK Apartment	Dharmanagar West	Dharmanagar / Tripura	Apartment / 4 BHK	1731	₹54 L	Semi-Furnished	3	Any	Sale
+48	Tripura Properties (Tripura.txt)	2 BHK Apartment	Agartala South	Agartala / Tripura	Apartment / 2 BHK	765	₹29.25 L	Semi-Furnished	2	Family	Sale
+49	Tripura Properties (Tripura.txt)	4 BHK Apartment	Agartala Residential Area	Agartala / Tripura	Apartment / 4 BHK	1813	₹15,600/month	Semi-Furnished	5	Bachelors	Rent
+50	Tripura Properties (Tripura.txt)	2 BHK Builder Floor	Agartala South	Agartala / Tripura	Builder Floor / 2 BHK	978	₹8,100/month	Semi-Furnished	2	Any	Rent
+51	Tripura Properties (Tripura.txt)	4 BHK Apartment	Agartala Extension	Agartala / Tripura	Apartment / 4 BHK	1464	₹17,400/month	Semi-Furnished	4	Family	Rent
+52	Tripura Properties (Tripura.txt)	1 BHK Apartment	Udaipur Town Centre	Udaipur / Tripura	Apartment / 1 BHK	437	₹6,100/month	Fully-Furnished	2	Any	Rent
+53	Tripura Properties (Tripura.txt)	1 BHK Builder Floor	Udaipur Extension	Udaipur / Tripura	Builder Floor / 1 BHK	440	₹5,400/month	Semi-Furnished	1	Any	Rent
+54	Tripura Properties (Tripura.txt)	1 BHK Independent House	Agartala Extension	Agartala / Tripura	Independent House / 1 BHK	545	₹24.41 L	Fully-Furnished	1	Family	Sale
+55	Tripura Properties (Tripura.txt)	3 BHK Independent House	Agartala Colony	Agartala / Tripura	Independent House / 3 BHK	1796	₹16,600/month	Semi-Furnished	4	Family	Rent
+56	Tripura Properties (Tripura.txt)	2 BHK Builder Floor	Dharmanagar Residential Area	Dharmanagar / Tripura	Builder Floor / 2 BHK	874	₹9,800/month	Fully-Furnished	3	Any	Rent
+57	Tripura Properties (Tripura.txt)	3 BHK Villa	Agartala Nagar	Agartala / Tripura	Villa / 3 BHK	1533	₹11,300/month	Unfurnished	4	Any	Rent
+58	Tripura Properties (Tripura.txt)	3 BHK Builder Floor	Dharmanagar West	Dharmanagar / Tripura	Builder Floor / 3 BHK	1353	₹11,100/month	Semi-Furnished	3	Bachelors	Rent
+59	Tripura Properties (Tripura.txt)	1 BHK Villa	Dharmanagar Extension	Dharmanagar / Tripura	Villa / 1 BHK	558	₹21.03 L	Semi-Furnished	1	Family	Sale
+60	Tripura Properties (Tripura.txt)	4 BHK Apartment	Dharmanagar East	Dharmanagar / Tripura	Apartment / 4 BHK	1887	₹61.80 L	Fully-Furnished	5	Family	Sale
+61	Tripura Properties (Tripura.txt)	1 BHK Builder Floor	Agartala East	Agartala / Tripura	Builder Floor / 1 BHK	527	₹6,400/month	Semi-Furnished	1	Family	Rent
+62	Tripura Properties (Tripura.txt)	3 BHK Villa	Agartala North	Agartala / Tripura	Villa / 3 BHK	1917	₹14,700/month	Fully-Furnished	4	Family	Rent
+63	Tripura Properties (Tripura.txt)	2 BHK Villa	Agartala Main Road	Agartala / Tripura	Villa / 2 BHK	1266	₹33.92 L	Unfurnished	3	Family	Sale
+64	Tripura Properties (Tripura.txt)	1 BHK Independent House	Agartala Nagar	Agartala / Tripura	Independent House / 1 BHK	573	₹25.50 L	Semi-Furnished	2	Bachelors	Sale
+65	Tripura Properties (Tripura.txt)	4 BHK Independent House	Dharmanagar Heights	Dharmanagar / Tripura	Independent House / 4 BHK	2066	₹17,400/month	Fully-Furnished	4	Bachelors	Rent
+66	Tripura Properties (Tripura.txt)	3 BHK Independent House	Agartala Residential Area	Agartala / Tripura	Independent House / 3 BHK	1319	₹41.31 L	Semi-Furnished	2	Any	Sale
+67	Tripura Properties (Tripura.txt)	3 BHK Independent House	Agartala Sector 1	Agartala / Tripura	Independent House / 3 BHK	1705	₹14,300/month	Semi-Furnished	2	Family	Rent
+68	Tripura Properties (Tripura.txt)	1 BHK Apartment	Udaipur Central	Udaipur / Tripura	Apartment / 1 BHK	347	₹22.51 L	Fully-Furnished	1	Family	Sale
+69	Tripura Properties (Tripura.txt)	4 BHK Apartment	Dharmanagar Heights	Dharmanagar / Tripura	Apartment / 4 BHK	1778	₹60.29 L	Semi-Furnished	5	Bachelors	Sale
+70	Tripura Properties (Tripura.txt)	3 BHK Apartment	Agartala Nagar	Agartala / Tripura	Apartment / 3 BHK	1398	₹49.70 L	Semi-Furnished	2	Bachelors	Sale
+71	Tripura Properties (Tripura.txt)	3 BHK Builder Floor	Udaipur Colony	Udaipur / Tripura	Builder Floor / 3 BHK	1191	₹15,500/month	Fully-Furnished	3	Bachelors	Rent
+72	Tripura Properties (Tripura.txt)	2 BHK Apartment	Dharmanagar Central	Dharmanagar / Tripura	Apartment / 2 BHK	869	₹29.47 L	Fully-Furnished	3	Any	Sale
+73	Tripura Properties (Tripura.txt)	4 BHK Apartment	Udaipur South	Udaipur / Tripura	Apartment / 4 BHK	1274	₹69.32 L	Semi-Furnished	4	Any	Sale
+74	Tripura Properties (Tripura.txt)	1 BHK Independent House	Udaipur Town Centre	Udaipur / Tripura	Independent House / 1 BHK	675	₹25.83 L	Semi-Furnished	1	Family	Sale
+75	Tripura Properties (Tripura.txt)	3 BHK Apartment	Dharmanagar Town Centre	Dharmanagar / Tripura	Apartment / 3 BHK	1110	₹55.53 L	Semi-Furnished	3	Bachelors	Sale
+76	Tripura Properties (Tripura.txt)	2 BHK Apartment	Agartala Nagar	Agartala / Tripura	Apartment / 2 BHK	738	₹39.64 L	Unfurnished	2	Any	Sale
+77	Tripura Properties (Tripura.txt)	2 BHK Villa	Dharmanagar Town Centre	Dharmanagar / Tripura	Villa / 2 BHK	1218	₹11,700/month	Semi-Furnished	1	Bachelors	Rent
+78	Tripura Properties (Tripura.txt)	1 BHK Apartment	Dharmanagar Sector 1	Dharmanagar / Tripura	Apartment / 1 BHK	454	₹24.71 L	Unfurnished	1	Any	Sale
+79	Tripura Properties (Tripura.txt)	1 BHK Studio	Dharmanagar North	Dharmanagar / Tripura	Studio / 1 BHK	385	₹17.11 L	Semi-Furnished	1	Any	Sale
+80	Tripura Properties (Tripura.txt)	3 BHK Independent House	Agartala South	Agartala / Tripura	Independent House / 3 BHK	1330	₹49.34 L	Unfurnished	3	Family	Sale
+81	Tripura Properties (Tripura.txt)	1 BHK Apartment	Agartala East	Agartala / Tripura	Apartment / 1 BHK	412	₹18.09 L	Unfurnished	1	Family	Sale
+82	Tripura Properties (Tripura.txt)	3 BHK Apartment	Dharmanagar South	Dharmanagar / Tripura	Apartment / 3 BHK	1021	₹14,100/month	Fully-Furnished	3	Family	Rent
+83	Tripura Properties (Tripura.txt)	3 BHK Apartment	Dharmanagar Main Road	Dharmanagar / Tripura	Apartment / 3 BHK	1046	₹14,800/month	Unfurnished	3	Family	Rent
+84	Tripura Properties (Tripura.txt)	3 BHK Apartment	Agartala Sector 2	Agartala / Tripura	Apartment / 3 BHK	942	₹42.10 L	Semi-Furnished	3	Bachelors	Sale
+85	Tripura Properties (Tripura.txt)	4 BHK Apartment	Udaipur South	Udaipur / Tripura	Apartment / 4 BHK	1247	₹58.72 L	Fully-Furnished	4	Family	Sale
+86	Tripura Properties (Tripura.txt)	3 BHK Builder Floor	Agartala Main Road	Agartala / Tripura	Builder Floor / 3 BHK	1288	₹14,900/month	Fully-Furnished	3	Family	Rent
+87	Tripura Properties (Tripura.txt)	1 BHK Studio	Agartala Central	Agartala / Tripura	Studio / 1 BHK	437	₹6,100/month	Fully-Furnished	1	Bachelors	Rent
+88	Tripura Properties (Tripura.txt)	4 BHK Apartment	Agartala South	Agartala / Tripura	Apartment / 4 BHK	2274	₹65.95 L	Semi-Furnished	4	Family	Sale
+89	Tripura Properties (Tripura.txt)	2 BHK Apartment	Agartala Heights	Agartala / Tripura	Apartment / 2 BHK	810	₹29.85 L	Unfurnished	2	Family	Sale
+90	Tripura Properties (Tripura.txt)	3 BHK Apartment	Udaipur North	Udaipur / Tripura	Apartment / 3 BHK	1433	₹42.44 L	Fully-Furnished	3	Any	Sale
+91	Tripura Properties (Tripura.txt)	2 BHK Builder Floor	Agartala Main Road	Agartala / Tripura	Builder Floor / 2 BHK	680	₹28.52 L	Semi-Furnished	1	Family	Sale
+92	Tripura Properties (Tripura.txt)	3 BHK Independent House	Agartala Heights	Agartala / Tripura	Independent House / 3 BHK	1635	₹11,500/month	Unfurnished	2	Any	Rent
+93	Tripura Properties (Tripura.txt)	4 BHK Apartment	Dharmanagar Colony	Dharmanagar / Tripura	Apartment / 4 BHK	1659	₹52.81 L	Semi-Furnished	4	Family	Sale
+94	Tripura Properties (Tripura.txt)	1 BHK Studio	Udaipur Nagar	Udaipur / Tripura	Studio / 1 BHK	466	₹24.88 L	Unfurnished	1	Family	Sale
+95	Tripura Properties (Tripura.txt)	1 BHK Independent House	Agartala Extension	Agartala / Tripura	Independent House / 1 BHK	573	₹21.31 L	Unfurnished	1	Family	Sale
+96	Tripura Properties (Tripura.txt)	4 BHK Apartment	Dharmanagar Central	Dharmanagar / Tripura	Apartment / 4 BHK	1819	₹63.11 L	Semi-Furnished	3	Any	Sale
+97	Tripura Properties (Tripura.txt)	2 BHK Apartment	Udaipur Town Centre	Udaipur / Tripura	Apartment / 2 BHK	736	₹8,900/month	Semi-Furnished	2	Family	Rent
+98	Tripura Properties (Tripura.txt)	1 BHK Studio	Dharmanagar Town Centre	Dharmanagar / Tripura	Studio / 1 BHK	380	₹5,000/month	Semi-Furnished	1	Any	Rent
+99	Tripura Properties (Tripura.txt)	4 BHK Apartment	Dharmanagar Sector 2	Dharmanagar / Tripura	Apartment / 4 BHK	2131	₹17,900/month	Unfurnished	5	Any	Rent
+100	Tripura Properties (Tripura.txt)	2 BHK Independent House	Dharmanagar Central	Dharmanagar / Tripura	Independent House / 2 BHK	1229	₹9,800/month	Semi-Furnished	3	Family	Rent
+101	Tripura Properties (Tripura.txt)	4 BHK Apartment	Udaipur East	Udaipur / Tripura	Apartment / 4 BHK	2016	₹57.54 L	Semi-Furnished	4	Bachelors	Sale
+102	Tripura Properties (Tripura.txt)	2 BHK Independent House	Agartala West	Agartala / Tripura	Independent House / 2 BHK	1354	₹40.17 L	Fully-Furnished	1	Bachelors	Sale
+103	Tripura Properties (Tripura.txt)	1 BHK Apartment	Udaipur Central	Udaipur / Tripura	Apartment / 1 BHK	656	₹26.83 L	Semi-Furnished	1	Any	Sale
+104	Tripura Properties (Tripura.txt)	3 BHK Independent House	Dharmanagar Sector 2	Dharmanagar / Tripura	Independent House / 3 BHK	1271	₹44.95 L	Fully-Furnished	3	Bachelors	Sale
+105	Tripura Properties (Tripura.txt)	1 BHK Builder Floor	Agartala Nagar	Agartala / Tripura	Builder Floor / 1 BHK	556	₹7,000/month	Semi-Furnished	1	Family	Rent
+106	Tripura Properties (Tripura.txt)	2 BHK Apartment	Udaipur Main Road	Udaipur / Tripura	Apartment / 2 BHK	805	₹35.18 L	Semi-Furnished	3	Family	Sale
+107	Tripura Properties (Tripura.txt)	3 BHK Builder Floor	Udaipur Main Road	Udaipur / Tripura	Builder Floor / 3 BHK	890	₹37.46 L	Semi-Furnished	4	Any	Sale
+108	Tripura Properties (Tripura.txt)	2 BHK Apartment	Udaipur South	Udaipur / Tripura	Apartment / 2 BHK	942	₹41.19 L	Unfurnished	3	Any	Sale
+109	Tripura Properties (Tripura.txt)	3 BHK Apartment	Dharmanagar Sector 2	Dharmanagar / Tripura	Apartment / 3 BHK	1450	₹41.01 L	Fully-Furnished	3	Family	Sale
+110	Tripura Properties (Tripura.txt)	4 BHK Apartment	Dharmanagar Heights	Dharmanagar / Tripura	Apartment / 4 BHK	1015	₹63.92 L	Semi-Furnished	4	Family	Sale
+111	Tripura Properties (Tripura.txt)	4 BHK Apartment	Dharmanagar South	Dharmanagar / Tripura	Apartment / 4 BHK	1459	₹62.41 L	Fully-Furnished	4	Family	Sale
+112	Tripura Properties (Tripura.txt)	3 BHK Builder Floor	Agartala Nagar	Agartala / Tripura	Builder Floor / 3 BHK	1533	₹60.07 L	Semi-Furnished	4	Family	Sale
+113	Tripura Properties (Tripura.txt)	4 BHK Builder Floor	Udaipur East	Udaipur / Tripura	Builder Floor / 4 BHK	2018	₹15,900/month	Semi-Furnished	4	Bachelors	Rent
+114	Tripura Properties (Tripura.txt)	4 BHK Builder Floor	Dharmanagar Colony	Dharmanagar / Tripura	Builder Floor / 4 BHK	1722	₹13,700/month	Unfurnished	3	Bachelors	Rent
+115	Tripura Properties (Tripura.txt)	1 BHK Builder Floor	Agartala Town Centre	Agartala / Tripura	Builder Floor / 1 BHK	593	₹7,800/month	Semi-Furnished	1	Family	Rent
+116	Tripura Properties (Tripura.txt)	5 BHK Builder Floor	Dharmanagar Sector 3	Dharmanagar / Tripura	Builder Floor / 5 BHK	2250	₹78.14 L	Fully-Furnished	4	Bachelors	Sale
+117	Tripura Properties (Tripura.txt)	3 BHK Independent House	Agartala West	Agartala / Tripura	Independent House / 3 BHK	1412	₹54.37 L	Fully-Furnished	3	Any	Sale
+118	Tripura Properties (Tripura.txt)	4 BHK Apartment	Dharmanagar Nagar	Dharmanagar / Tripura	Apartment / 4 BHK	1838	₹58.47 L	Semi-Furnished	4	Bachelors	Sale
+119	Tripura Properties (Tripura.txt)	3 BHK Apartment	Udaipur Colony	Udaipur / Tripura	Apartment / 3 BHK	1263	₹42.65 L	Fully-Furnished	3	Family	Sale
+120	Tripura Properties (Tripura.txt)	1 BHK Villa	Agartala Sector 3	Agartala / Tripura	Villa / 1 BHK	758	₹28.99 L	Unfurnished	2	Family	Sale
+121	Tripura Properties (Tripura.txt)	3 BHK Apartment	Dharmanagar Main Road	Dharmanagar / Tripura	Apartment / 3 BHK	1281	₹11,800/month	Unfurnished	2	Family	Rent
+122	Tripura Properties (Tripura.txt)	1 BHK Apartment	Udaipur Extension	Udaipur / Tripura	Apartment / 1 BHK	414	₹22.66 L	Fully-Furnished	1	Family	Sale
+123	Tripura Properties (Tripura.txt)	2 BHK Builder Floor	Agartala Sector 3	Agartala / Tripura	Builder Floor / 2 BHK	665	₹33.11 L	Fully-Furnished	2	Family	Sale
+124	Tripura Properties (Tripura.txt)	2 BHK Villa	Udaipur Town Centre	Udaipur / Tripura	Villa / 2 BHK	1183	₹11,900/month	Unfurnished	2	Family	Rent
+125	Tripura Properties (Tripura.txt)	3 BHK Villa	Dharmanagar South	Dharmanagar / Tripura	Villa / 3 BHK	1927	₹17,700/month	Semi-Furnished	2	Family	Rent
+126	Tripura Properties (Tripura.txt)	4 BHK Apartment	Agartala West	Agartala / Tripura	Apartment / 4 BHK	2032	₹20,800/month	Unfurnished	3	Bachelors	Rent
+127	Tripura Properties (Tripura.txt)	4 BHK Apartment	Udaipur North	Udaipur / Tripura	Apartment / 4 BHK	2380	₹79.57 L	Semi-Furnished	3	Bachelors	Sale
+128	Tripura Properties (Tripura.txt)	4 BHK Apartment	Agartala Central	Agartala / Tripura	Apartment / 4 BHK	1616	₹67.60 L	Semi-Furnished	3	Bachelors	Sale
+129	Tripura Properties (Tripura.txt)	1 BHK Apartment	Dharmanagar Extension	Dharmanagar / Tripura	Apartment / 1 BHK	489	₹20.72 L	Semi-Furnished	1	Bachelors	Sale
+130	Tripura Properties (Tripura.txt)	4 BHK Independent House	Udaipur Sector 1	Udaipur / Tripura	Independent House / 4 BHK	1949	₹14,200/month	Semi-Furnished	4	Family	Rent
+131	Tripura Properties (Tripura.txt)	3 BHK Apartment	Dharmanagar Sector 3	Dharmanagar / Tripura	Apartment / 3 BHK	1407	₹40.38 L	Fully-Furnished	2	Family	Sale
+132	Tripura Properties (Tripura.txt)	2 BHK Apartment	Agartala Sector 3	Agartala / Tripura	Apartment / 2 BHK	954	₹32.17 L	Unfurnished	1	Any	Sale
+133	Tripura Properties (Tripura.txt)	2 BHK Independent House	Udaipur Nagar	Udaipur / Tripura	Independent House / 2 BHK	908	₹11,600/month	Semi-Furnished	1	Any	Rent
+134	Tripura Properties (Tripura.txt)	3 BHK Builder Floor	Udaipur Central	Udaipur / Tripura	Builder Floor / 3 BHK	1160	₹39.83 L	Fully-Furnished	3	Family	Sale
+135	Tripura Properties (Tripura.txt)	3 BHK Apartment	Dharmanagar Central	Dharmanagar / Tripura	Apartment / 3 BHK	1193	₹50.31 L	Semi-Furnished	3	Family	Sale
+136	Tripura Properties (Tripura.txt)	3 BHK Apartment	Agartala Heights	Agartala / Tripura	Apartment / 3 BHK	1082	₹48.73 L	Semi-Furnished	3	Bachelors	Sale
+137	Tripura Properties (Tripura.txt)	2 BHK Apartment	Dharmanagar Main Road	Dharmanagar / Tripura	Apartment / 2 BHK	735	₹31.39 L	Unfurnished	2	Bachelors	Sale
+138	Tripura Properties (Tripura.txt)	2 BHK Apartment	Agartala West	Agartala / Tripura	Apartment / 2 BHK	1023	₹9,900/month	Unfurnished	2	Family	Rent
+139	Tripura Properties (Tripura.txt)	3 BHK Apartment	Udaipur West	Udaipur / Tripura	Apartment / 3 BHK	1163	₹43.22 L	Unfurnished	3	Bachelors	Sale
+140	Tripura Properties (Tripura.txt)	1 BHK Studio	Udaipur East	Udaipur / Tripura	Studio / 1 BHK	303	₹21.90 L	Fully-Furnished	1	Any	Sale
+141	Tripura Properties (Tripura.txt)	1 BHK Studio	Agartala Colony	Agartala / Tripura	Studio / 1 BHK	300	₹5,200/month	Semi-Furnished	1	Family	Rent
+142	Tripura Properties (Tripura.txt)	1 BHK Builder Floor	Udaipur Extension	Udaipur / Tripura	Builder Floor / 1 BHK	462	₹17.61 L	Semi-Furnished	1	Bachelors	Sale
+143	Tripura Properties (Tripura.txt)	3 BHK Apartment	Agartala Colony	Agartala / Tripura	Apartment / 3 BHK	1547	₹11,800/month	Semi-Furnished	2	Any	Rent
+144	Tripura Properties (Tripura.txt)	4 BHK Builder Floor	Dharmanagar South	Dharmanagar / Tripura	Builder Floor / 4 BHK	1593	₹68.14 L	Semi-Furnished	5	Bachelors	Sale
+145	Tripura Properties (Tripura.txt)	2 BHK Builder Floor	Agartala West	Agartala / Tripura	Builder Floor / 2 BHK	765	₹40.34 L	Semi-Furnished	2	Family	Sale
+146	Tripura Properties (Tripura.txt)	4 BHK Apartment	Dharmanagar Heights	Dharmanagar / Tripura	Apartment / 4 BHK	1482	₹19,300/month	Semi-Furnished	4	Family	Rent
+147	Tripura Properties (Tripura.txt)	2 BHK Apartment	Udaipur West	Udaipur / Tripura	Apartment / 2 BHK	898	₹10,100/month	Semi-Furnished	3	Any	Rent
+148	Tripura Properties (Tripura.txt)	3 BHK Apartment	Udaipur Main Road	Udaipur / Tripura	Apartment / 3 BHK	1464	₹43.51 L	Fully-Furnished	3	Any	Sale
+149	Tripura Properties (Tripura.txt)	3 BHK Apartment	Dharmanagar Central	Dharmanagar / Tripura	Apartment / 3 BHK	1353	₹13,100/month	Semi-Furnished	3	Bachelors	Rent
+150	Tripura Properties (Tripura.txt)	4 BHK Independent House	Agartala Town Centre	Agartala / Tripura	Independent House / 4 BHK	1966	₹14,100/month	Fully-Furnished	4	Bachelors	Rent
+151	Tripura Properties (Tripura.txt)	3 BHK Independent House	Dharmanagar North	Dharmanagar / Tripura	Independent House / 3 BHK	1265	₹51.88 L	Fully-Furnished	3	Bachelors	Sale
+152	Tripura Properties (Tripura.txt)	1 BHK Studio	Agartala North	Agartala / Tripura	Studio / 1 BHK	479	₹25.93 L	Unfurnished	2	Family	Sale
+153	Tripura Properties (Tripura.txt)	3 BHK Independent House	Dharmanagar Colony	Dharmanagar / Tripura	Independent House / 3 BHK	1665	₹12,600/month	Fully-Furnished	3	Family	Rent
+154	Tripura Properties (Tripura.txt)	2 BHK Builder Floor	Dharmanagar North	Dharmanagar / Tripura	Builder Floor / 2 BHK	898	₹9,200/month	Semi-Furnished	2	Any	Rent
+155	Tripura Properties (Tripura.txt)	2 BHK Apartment	Agartala North	Agartala / Tripura	Apartment / 2 BHK	663	₹8,700/month	Unfurnished	1	Family	Rent
+156	Tripura Properties (Tripura.txt)	3 BHK Independent House	Agartala Heights	Agartala / Tripura	Independent House / 3 BHK	1875	₹46.31 L	Semi-Furnished	2	Bachelors	Sale
+157	Tripura Properties (Tripura.txt)	2 BHK Independent House	Udaipur North	Udaipur / Tripura	Independent House / 2 BHK	944	₹34.18 L	Unfurnished	3	Bachelors	Sale
+158	Tripura Properties (Tripura.txt)	3 BHK Independent House	Dharmanagar North	Dharmanagar / Tripura	Independent House / 3 BHK	1592	₹43.64 L	Unfurnished	3	Family	Sale
+159	Tripura Properties (Tripura.txt)	3 BHK Apartment	Agartala Colony	Agartala / Tripura	Apartment / 3 BHK	1172	₹43.99 L	Unfurnished	3	Family	Sale
+160	Tripura Properties (Tripura.txt)	1 BHK Apartment	Udaipur Colony	Udaipur / Tripura	Apartment / 1 BHK	659	₹25.25 L	Unfurnished	2	Any	Sale
+161	Tripura Properties (Tripura.txt)	2 BHK Apartment	Udaipur Sector 3	Udaipur / Tripura	Apartment / 2 BHK	847	₹9,000/month	Semi-Furnished	1	Bachelors	Rent
+162	Tripura Properties (Tripura.txt)	2 BHK Apartment	Agartala Sector 1	Agartala / Tripura	Apartment / 2 BHK	567	₹9,800/month	Semi-Furnished	3	Bachelors	Rent
+163	Tripura Properties (Tripura.txt)	3 BHK Apartment	Agartala Nagar	Agartala / Tripura	Apartment / 3 BHK	1356	₹13,900/month	Semi-Furnished	3	Bachelors	Rent
+164	Tripura Properties (Tripura.txt)	3 BHK Independent House	Dharmanagar Heights	Dharmanagar / Tripura	Independent House / 3 BHK	1619	₹43.76 L	Semi-Furnished	3	Family	Sale
+165	Tripura Properties (Tripura.txt)	3 BHK Builder Floor	Dharmanagar Sector 1	Dharmanagar / Tripura	Builder Floor / 3 BHK	1354	₹10,900/month	Unfurnished	3	Family	Rent
+166	Tripura Properties (Tripura.txt)	3 BHK Apartment	Udaipur Main Road	Udaipur / Tripura	Apartment / 3 BHK	1118	₹14,100/month	Semi-Furnished	3	Family	Rent
+167	Tripura Properties (Tripura.txt)	3 BHK Independent House	Dharmanagar Town Centre	Dharmanagar / Tripura	Independent House / 3 BHK	1460	₹55.24 L	Fully-Furnished	4	Family	Sale
+168	Tripura Properties (Tripura.txt)	3 BHK Apartment	Dharmanagar Sector 3	Dharmanagar / Tripura	Apartment / 3 BHK	1122	₹39.64 L	Semi-Furnished	2	Family	Sale
+169	Tripura Properties (Tripura.txt)	3 BHK Apartment	Udaipur North	Udaipur / Tripura	Apartment / 3 BHK	1099	₹13,900/month	Semi-Furnished	4	Bachelors	Rent
+170	Tripura Properties (Tripura.txt)	3 BHK Independent House	Dharmanagar North	Dharmanagar / Tripura	Independent House / 3 BHK	1329	₹15,000/month	Fully-Furnished	3	Family	Rent
+171	Tripura Properties (Tripura.txt)	2 BHK Apartment	Udaipur East	Udaipur / Tripura	Apartment / 2 BHK	818	₹37.56 L	Semi-Furnished	2	Any	Sale
+172	Tripura Properties (Tripura.txt)	2 BHK Apartment	Udaipur Extension	Udaipur / Tripura	Apartment / 2 BHK	1091	₹35.66 L	Fully-Furnished	2	Bachelors	Sale
+173	Tripura Properties (Tripura.txt)	2 BHK Apartment	Udaipur Sector 1	Udaipur / Tripura	Apartment / 2 BHK	764	₹36.12 L	Semi-Furnished	2	Bachelors	Sale
+174	Tripura Properties (Tripura.txt)	1 BHK Independent House	Agartala Extension	Agartala / Tripura	Independent House / 1 BHK	685	₹21.93 L	Fully-Furnished	1	Any	Sale
+175	Tripura Properties (Tripura.txt)	3 BHK Apartment	Dharmanagar Town Centre	Dharmanagar / Tripura	Apartment / 3 BHK	1091	₹13,300/month	Fully-Furnished	4	Any	Rent
+176	Tripura Properties (Tripura.txt)	2 BHK Independent House	Dharmanagar Colony	Dharmanagar / Tripura	Independent House / 2 BHK	945	₹8,900/month	Unfurnished	3	Family	Rent
+177	Tripura Properties (Tripura.txt)	2 BHK Apartment	Agartala Nagar	Agartala / Tripura	Apartment / 2 BHK	653	₹38.19 L	Fully-Furnished	2	Family	Sale
+178	Tripura Properties (Tripura.txt)	3 BHK Builder Floor	Dharmanagar Central	Dharmanagar / Tripura	Builder Floor / 3 BHK	1447	₹43.82 L	Unfurnished	3	Family	Sale
+179	Tripura Properties (Tripura.txt)	3 BHK Builder Floor	Udaipur Sector 2	Udaipur / Tripura	Builder Floor / 3 BHK	675	₹41.31 L	Unfurnished	3	Family	Sale
+180	Tripura Properties (Tripura.txt)	3 BHK Apartment	Dharmanagar West	Dharmanagar / Tripura	Apartment / 3 BHK	1317	₹11,100/month	Fully-Furnished	4	Any	Rent
+181	Tripura Properties (Tripura.txt)	4 BHK Independent House	Udaipur Sector 2	Udaipur / Tripura	Independent House / 4 BHK	2578	₹82.05 L	Semi-Furnished	5	Bachelors	Sale
+182	Tripura Properties (Tripura.txt)	3 BHK Independent House	Udaipur Extension	Udaipur / Tripura	Independent House / 3 BHK	1286	₹49.67 L	Fully-Furnished	2	Any	Sale
+183	Tripura Properties (Tripura.txt)	1 BHK Apartment	Udaipur Town Centre	Udaipur / Tripura	Apartment / 1 BHK	483	₹25.08 L	Semi-Furnished	1	Family	Sale
+184	Tripura Properties (Tripura.txt)	2 BHK Apartment	Agartala Sector 3	Agartala / Tripura	Apartment / 2 BHK	763	₹37.12 L	Unfurnished	3	Bachelors	Sale
+185	Tripura Properties (Tripura.txt)	1 BHK Studio	Dharmanagar North	Dharmanagar / Tripura	Studio / 1 BHK	300	₹21.86 L	Semi-Furnished	2	Bachelors	Sale
+186	Tripura Properties (Tripura.txt)	2 BHK Apartment	Agartala North	Agartala / Tripura	Apartment / 2 BHK	691	₹8,800/month	Semi-Furnished	2	Bachelors	Rent
+187	Tripura Properties (Tripura.txt)	3 BHK Builder Floor	Dharmanagar Sector 2	Dharmanagar / Tripura	Builder Floor / 3 BHK	1468	₹45.42 L	Fully-Furnished	3	Family	Sale
+188	Tripura Properties (Tripura.txt)	1 BHK Builder Floor	Agartala Sector 2	Agartala / Tripura	Builder Floor / 1 BHK	443	₹18.95 L	Unfurnished	1	Any	Sale
+189	Tripura Properties (Tripura.txt)	4 BHK Apartment	Agartala Heights	Agartala / Tripura	Apartment / 4 BHK	1706	₹61.04 L	Unfurnished	3	Family	Sale
+190	Tripura Properties (Tripura.txt)	3 BHK Independent House	Udaipur Residential Area	Udaipur / Tripura	Independent House / 3 BHK	1568	₹48.19 L	Fully-Furnished	2	Family	Sale
+191	Tripura Properties (Tripura.txt)	1 BHK Studio	Dharmanagar Extension	Dharmanagar / Tripura	Studio / 1 BHK	414	₹5,900/month	Unfurnished	1	Bachelors	Rent
+192	Tripura Properties (Tripura.txt)	4 BHK Independent House	Udaipur Residential Area	Udaipur / Tripura	Independent House / 4 BHK	1872	₹56.52 L	Unfurnished	5	Family	Sale
+193	Tripura Properties (Tripura.txt)	1 BHK Apartment	Udaipur Central	Udaipur / Tripura	Apartment / 1 BHK	480	₹23.21 L	Fully-Furnished	1	Bachelors	Sale
+194	Tripura Properties (Tripura.txt)	4 BHK Independent House	Udaipur Extension	Udaipur / Tripura	Independent House / 4 BHK	2096	₹75.89 L	Unfurnished	4	Bachelors	Sale
+195	Tripura Properties (Tripura.txt)	3 BHK Apartment	Udaipur South	Udaipur / Tripura	Apartment / 3 BHK	1062	₹41.66 L	Semi-Furnished	4	Any	Sale
+196	Tripura Properties (Tripura.txt)	3 BHK Apartment	Agartala Heights	Agartala / Tripura	Apartment / 3 BHK	1015	₹38.54 L	Semi-Furnished	3	Bachelors	Sale
+197	Tripura Properties (Tripura.txt)	2 BHK Apartment	Agartala Heights	Agartala / Tripura	Apartment / 2 BHK	1003	₹38.79 L	Semi-Furnished	2	Any	Sale
+198	Tripura Properties (Tripura.txt)	2 BHK Independent House	Dharmanagar Sector 2	Dharmanagar / Tripura	Independent House / 2 BHK	829	₹33.47 L	Semi-Furnished	1	Family	Sale
+199	Tripura Properties (Tripura.txt)	1 BHK Apartment	Dharmanagar Heights	Dharmanagar / Tripura	Apartment / 1 BHK	424	₹25.62 L	Fully-Furnished	1	Bachelors	Sale
+200	Tripura Properties (Tripura.txt)	3 BHK Apartment	Dharmanagar Main Road	Dharmanagar / Tripura	Apartment / 3 BHK	1398	₹54.39 L	Unfurnished	3	Family	Sale
+201	Tripura Properties (Tripura.txt)	1 BHK Villa	Udaipur Town Centre	Udaipur / Tripura	Villa / 1 BHK	534	₹6,000/month	Fully-Furnished	1	Family	Rent
+202	Tripura Properties (Tripura.txt)	5 BHK Independent House	Agartala Main Road	Agartala / Tripura	Independent House / 5 BHK	3740	₹81.68 L	Fully-Furnished	4	Bachelors	Sale
+203	Tripura Properties (Tripura.txt)	3 BHK Villa	Udaipur Main Road	Udaipur / Tripura	Villa / 3 BHK	1727	₹13,700/month	Semi-Furnished	3	Bachelors	Rent
+204	Tripura Properties (Tripura.txt)	2 BHK Builder Floor	Dharmanagar Extension	Dharmanagar / Tripura	Builder Floor / 2 BHK	933	₹35.93 L	Fully-Furnished	3	Family	Sale
+205	Tripura Properties (Tripura.txt)	5 BHK Apartment	Udaipur Sector 1	Udaipur / Tripura	Apartment / 5 BHK	2484	₹20,000/month	Unfurnished	6	Any	Rent
+206	Tripura Properties (Tripura.txt)	4 BHK Apartment	Dharmanagar Residential Area	Dharmanagar / Tripura	Apartment / 4 BHK	1785	₹51.97 L	Semi-Furnished	4	Any	Sale
+207	Tripura Properties (Tripura.txt)	3 BHK Independent House	Udaipur Sector 3	Udaipur / Tripura	Independent House / 3 BHK	1707	₹59.21 L	Semi-Furnished	3	Family	Sale
+208	Tripura Properties (Tripura.txt)	2 BHK Apartment	Udaipur North	Udaipur / Tripura	Apartment / 2 BHK	1028	₹34.49 L	Semi-Furnished	2	Bachelors	Sale
+209	Tripura Properties (Tripura.txt)	3 BHK Villa	Udaipur Sector 2	Udaipur / Tripura	Villa / 3 BHK	1685	₹46.85 L	Semi-Furnished	3	Any	Sale
+210	Tripura Properties (Tripura.txt)	4 BHK Independent House	Udaipur Heights	Udaipur / Tripura	Independent House / 4 BHK	1596	₹14,800/month	Semi-Furnished	4	Family	Rent
+211	Tripura Properties (Tripura.txt)	3 BHK Apartment	Udaipur Town Centre	Udaipur / Tripura	Apartment / 3 BHK	1127	₹50.69 L	Unfurnished	4	Bachelors	Sale
+212	Tripura Properties (Tripura.txt)	1 BHK Studio	Agartala Central	Agartala / Tripura	Studio / 1 BHK	378	₹24.85 L	Fully-Furnished	2	Family	Sale
+213	Tripura Properties (Tripura.txt)	3 BHK Builder Floor	Udaipur Sector 3	Udaipur / Tripura	Builder Floor / 3 BHK	1366	₹48.74 L	Semi-Furnished	4	Bachelors	Sale
+214	Tripura Properties (Tripura.txt)	3 BHK Apartment	Agartala Sector 1	Agartala / Tripura	Apartment / 3 BHK	1245	₹42.10 L	Semi-Furnished	3	Bachelors	Sale
+215	Tripura Properties (Tripura.txt)	5 BHK Apartment	Agartala South	Agartala / Tripura	Apartment / 5 BHK	2755	₹97.53 L	Unfurnished	5	Bachelors	Sale
+216	Tripura Properties (Tripura.txt)	2 BHK Builder Floor	Udaipur Residential Area	Udaipur / Tripura	Builder Floor / 2 BHK	1010	₹35.01 L	Unfurnished	2	Any	Sale
+217	Tripura Properties (Tripura.txt)	4 BHK Villa	Udaipur Extension	Udaipur / Tripura	Villa / 4 BHK	2577	₹20,000/month	Semi-Furnished	4	Bachelors	Rent
+218	Tripura Properties (Tripura.txt)	1 BHK Builder Floor	Udaipur Colony	Udaipur / Tripura	Builder Floor / 1 BHK	517	₹7,100/month	Semi-Furnished	1	Bachelors	Rent
+219	Tripura Properties (Tripura.txt)	3 BHK Apartment	Dharmanagar Sector 1	Dharmanagar / Tripura	Apartment / 3 BHK	980	₹53.37 L	Fully-Furnished	3	Bachelors	Sale
+220	Tripura Properties (Tripura.txt)	2 BHK Apartment	Agartala Central	Agartala / Tripura	Apartment / 2 BHK	815	₹34.03 L	Unfurnished	1	Any	Sale
+221	Tripura Properties (Tripura.txt)	2 BHK Apartment	Agartala Sector 3	Agartala / Tripura	Apartment / 2 BHK	799	₹27.78 L	Semi-Furnished	2	Family	Sale
+222	Tripura Properties (Tripura.txt)	2 BHK Apartment	Agartala North	Agartala / Tripura	Apartment / 2 BHK	709	₹36.74 L	Semi-Furnished	2	Bachelors	Sale
+223	Tripura Properties (Tripura.txt)	2 BHK Apartment	Dharmanagar Extension	Dharmanagar / Tripura	Apartment / 2 BHK	867	₹10,900/month	Unfurnished	3	Any	Rent
+224	Tripura Properties (Tripura.txt)	1 BHK Apartment	Udaipur West	Udaipur / Tripura	Apartment / 1 BHK	619	₹26.28 L	Fully-Furnished	1	Bachelors	Sale
+225	Tripura Properties (Tripura.txt)	3 BHK Apartment	Agartala Extension	Agartala / Tripura	Apartment / 3 BHK	1580	₹58.45 L	Semi-Furnished	4	Family	Sale
+226	Tripura Properties (Tripura.txt)	4 BHK Independent House	Agartala Extension	Agartala / Tripura	Independent House / 4 BHK	2381	₹19,500/month	Fully-Furnished	3	Family	Rent
+227	Tripura Properties (Tripura.txt)	2 BHK Builder Floor	Udaipur Sector 2	Udaipur / Tripura	Builder Floor / 2 BHK	672	₹38.33 L	Fully-Furnished	2	Bachelors	Sale
+228	Tripura Properties (Tripura.txt)	2 BHK Apartment	Udaipur East	Udaipur / Tripura	Apartment / 2 BHK	1022	₹34.66 L	Fully-Furnished	2	Family	Sale
+229	Tripura Properties (Tripura.txt)	2 BHK Apartment	Udaipur South	Udaipur / Tripura	Apartment / 2 BHK	897	₹9,000/month	Semi-Furnished	2	Family	Rent
+230	Tripura Properties (Tripura.txt)	2 BHK Villa	Agartala Sector 1	Agartala / Tripura	Villa / 2 BHK	1204	₹40.24 L	Semi-Furnished	1	Family	Sale
+231	Tripura Properties (Tripura.txt)	4 BHK Independent House	Dharmanagar Nagar	Dharmanagar / Tripura	Independent House / 4 BHK	1961	₹20,700/month	Semi-Furnished	4	Any	Rent
+232	Tripura Properties (Tripura.txt)	2 BHK Independent House	Agartala Sector 1	Agartala / Tripura	Independent House / 2 BHK	895	₹33.18 L	Semi-Furnished	2	Any	Sale
+233	Tripura Properties (Tripura.txt)	1 BHK Studio	Udaipur Town Centre	Udaipur / Tripura	Studio / 1 BHK	404	₹17.11 L	Unfurnished	1	Family	Sale
+234	Tripura Properties (Tripura.txt)	3 BHK Apartment	Dharmanagar Residential Area	Dharmanagar / Tripura	Apartment / 3 BHK	1099	₹10,500/month	Fully-Furnished	3	Bachelors	Rent
+235	Tripura Properties (Tripura.txt)	4 BHK Apartment	Udaipur Town Centre	Udaipur / Tripura	Apartment / 4 BHK	1630	₹58.15 L	Semi-Furnished	4	Family	Sale
+236	Tripura Properties (Tripura.txt)	3 BHK Independent House	Dharmanagar Town Centre	Dharmanagar / Tripura	Independent House / 3 BHK	1300	₹43.40 L	Fully-Furnished	4	Family	Sale
+237	Tripura Properties (Tripura.txt)	5 BHK Builder Floor	Udaipur Main Road	Udaipur / Tripura	Builder Floor / 5 BHK	3236	₹24,900/month	Unfurnished	6	Family	Rent
+238	Tripura Properties (Tripura.txt)	3 BHK Apartment	Agartala West	Agartala / Tripura	Apartment / 3 BHK	1243	₹13,600/month	Unfurnished	4	Bachelors	Rent
+239	Tripura Properties (Tripura.txt)	1 BHK Independent House	Udaipur Sector 3	Udaipur / Tripura	Independent House / 1 BHK	719	₹20.19 L	Fully-Furnished	1	Bachelors	Sale
+240	Tripura Properties (Tripura.txt)	3 BHK Apartment	Dharmanagar East	Dharmanagar / Tripura	Apartment / 3 BHK	1183	₹39.94 L	Unfurnished	4	Bachelors	Sale
+241	Tripura Properties (Tripura.txt)	2 BHK Apartment	Agartala Sector 2	Agartala / Tripura	Apartment / 2 BHK	1030	₹41.08 L	Fully-Furnished	2	Bachelors	Sale
+242	Tripura Properties (Tripura.txt)	2 BHK Apartment	Agartala Central	Agartala / Tripura	Apartment / 2 BHK	859	₹9,700/month	Unfurnished	2	Family	Rent
+243	Tripura Properties (Tripura.txt)	2 BHK Apartment	Agartala Central	Agartala / Tripura	Apartment / 2 BHK	910	₹41.96 L	Fully-Furnished	2	Any	Sale
+244	Tripura Properties (Tripura.txt)	2 BHK Independent House	Dharmanagar West	Dharmanagar / Tripura	Independent House / 2 BHK	1156	₹31.50 L	Unfurnished	1	Family	Sale
+245	Tripura Properties (Tripura.txt)	4 BHK Apartment	Agartala Main Road	Agartala / Tripura	Apartment / 4 BHK	1663	₹15,900/month	Semi-Furnished	5	Family	Rent
+246	Tripura Properties (Tripura.txt)	2 BHK Villa	Udaipur Main Road	Udaipur / Tripura	Villa / 2 BHK	1107	₹8,400/month	Semi-Furnished	3	Any	Rent
+247	Tripura Properties (Tripura.txt)	1 BHK Studio	Udaipur Extension	Udaipur / Tripura	Studio / 1 BHK	397	₹22.65 L	Fully-Furnished	1	Family	Sale
+248	Tripura Properties (Tripura.txt)	2 BHK Independent House	Dharmanagar South	Dharmanagar / Tripura	Independent House / 2 BHK	1240	₹35.66 L	Fully-Furnished	2	Bachelors	Sale
+249	Tripura Properties (Tripura.txt)	2 BHK Apartment	Dharmanagar Residential Area	Dharmanagar / Tripura	Apartment / 2 BHK	791	₹36.23 L	Unfurnished	2	Bachelors	Sale
+250	Tripura Properties (Tripura.txt)	2 BHK Independent House	Dharmanagar Colony	Dharmanagar / Tripura	Independent House / 2 BHK	798	₹30.81 L	Semi-Furnished	3	Bachelors	Sale
+251	Tripura Properties (Tripura.txt)	2 BHK Apartment	Agartala Heights	Agartala / Tripura	Apartment / 2 BHK	874	₹40.28 L	Semi-Furnished	2	Any	Sale
+252	Tripura Properties (Tripura.txt)	2 BHK Apartment	Udaipur Main Road	Udaipur / Tripura	Apartment / 2 BHK	703	₹35.87 L	Semi-Furnished	3	Family	Sale
+253	Tripura Properties (Tripura.txt)	2 BHK Apartment	Udaipur Residential Area	Udaipur / Tripura	Apartment / 2 BHK	1151	₹12,200/month	Fully-Furnished	1	Any	Rent
+254	Tripura Properties (Tripura.txt)	2 BHK Apartment	Udaipur Sector 2	Udaipur / Tripura	Apartment / 2 BHK	715	₹10,800/month	Semi-Furnished	3	Any	Rent
+255	Tripura Properties (Tripura.txt)	4 BHK Builder Floor	Udaipur West	Udaipur / Tripura	Builder Floor / 4 BHK	1624	₹62.04 L	Semi-Furnished	3	Bachelors	Sale
+256	Tripura Properties (Tripura.txt)	4 BHK Independent House	Udaipur South	Udaipur / Tripura	Independent House / 4 BHK	1740	₹68.92 L	Fully-Furnished	4	Bachelors	Sale
+257	Tripura Properties (Tripura.txt)	3 BHK Apartment	Agartala Sector 3	Agartala / Tripura	Apartment / 3 BHK	1176	₹12,200/month	Semi-Furnished	4	Family	Rent
+258	Tripura Properties (Tripura.txt)	2 BHK Builder Floor	Agartala South	Agartala / Tripura	Builder Floor / 2 BHK	577	₹9,400/month	Unfurnished	2	Family	Rent
+259	Tripura Properties (Tripura.txt)	5 BHK Apartment	Dharmanagar Extension	Dharmanagar / Tripura	Apartment / 5 BHK	2472	₹25,100/month	Semi-Furnished	4	Any	Rent
+260	Tripura Properties (Tripura.txt)	1 BHK Apartment	Agartala Main Road	Agartala / Tripura	Apartment / 1 BHK	557	₹19.87 L	Semi-Furnished	1	Family	Sale
+261	Tripura Properties (Tripura.txt)	3 BHK Apartment	Dharmanagar Sector 3	Dharmanagar / Tripura	Apartment / 3 BHK	1366	₹11,100/month	Semi-Furnished	3	Family	Rent
+262	Tripura Properties (Tripura.txt)	2 BHK Villa	Dharmanagar North	Dharmanagar / Tripura	Villa / 2 BHK	1177	₹10,200/month	Unfurnished	2	Bachelors	Rent
+263	Tripura Properties (Tripura.txt)	2 BHK Apartment	Dharmanagar Colony	Dharmanagar / Tripura	Apartment / 2 BHK	663	₹10,200/month	Fully-Furnished	2	Bachelors	Rent
+264	Tripura Properties (Tripura.txt)	4 BHK Apartment	Dharmanagar East	Dharmanagar / Tripura	Apartment / 4 BHK	2119	₹79.13 L	Fully-Furnished	4	Bachelors	Sale
+265	Tripura Properties (Tripura.txt)	2 BHK Apartment	Agartala West	Agartala / Tripura	Apartment / 2 BHK	664	₹37.52 L	Unfurnished	3	Family	Sale
+266	Tripura Properties (Tripura.txt)	1 BHK Builder Floor	Udaipur Sector 3	Udaipur / Tripura	Builder Floor / 1 BHK	301	₹22.04 L	Fully-Furnished	1	Bachelors	Sale
+267	Tripura Properties (Tripura.txt)	2 BHK Apartment	Udaipur Heights	Udaipur / Tripura	Apartment / 2 BHK	765	₹32.78 L	Fully-Furnished	1	Family	Sale
+268	Tripura Properties (Tripura.txt)	1 BHK Apartment	Agartala Sector 2	Agartala / Tripura	Apartment / 1 BHK	549	₹6,800/month	Semi-Furnished	1	Bachelors	Rent
+269	Tripura Properties (Tripura.txt)	5 BHK Apartment	Agartala Sector 1	Agartala / Tripura	Apartment / 5 BHK	2453	₹19,400/month	Fully-Furnished	5	Family	Rent
+270	Tripura Properties (Tripura.txt)	2 BHK Apartment	Agartala Town Centre	Agartala / Tripura	Apartment / 2 BHK	966	₹10,700/month	Semi-Furnished	1	Family	Rent
+271	Tripura Properties (Tripura.txt)	2 BHK Apartment	Agartala East	Agartala / Tripura	Apartment / 2 BHK	923	₹29.78 L	Unfurnished	1	Family	Sale
+272	Tripura Properties (Tripura.txt)	2 BHK Apartment	Dharmanagar Extension	Dharmanagar / Tripura	Apartment / 2 BHK	830	₹30.59 L	Semi-Furnished	2	Any	Sale
+273	Tripura Properties (Tripura.txt)	2 BHK Independent House	Udaipur Nagar	Udaipur / Tripura	Independent House / 2 BHK	969	₹36.57 L	Fully-Furnished	2	Any	Sale
+274	Tripura Properties (Tripura.txt)	2 BHK Builder Floor	Dharmanagar Sector 3	Dharmanagar / Tripura	Builder Floor / 2 BHK	899	₹34.23 L	Semi-Furnished	1	Any	Sale
+275	Tripura Properties (Tripura.txt)	1 BHK Apartment	Dharmanagar Sector 1	Dharmanagar / Tripura	Apartment / 1 BHK	490	₹21.36 L	Semi-Furnished	1	Family	Sale
+276	Tripura Properties (Tripura.txt)	3 BHK Apartment	Agartala Sector 3	Agartala / Tripura	Apartment / 3 BHK	1102	₹48.83 L	Unfurnished	3	Family	Sale
+277	Tripura Properties (Tripura.txt)	2 BHK Builder Floor	Udaipur East	Udaipur / Tripura	Builder Floor / 2 BHK	868	₹8,200/month	Fully-Furnished	3	Bachelors	Rent
+278	Tripura Properties (Tripura.txt)	3 BHK Apartment	Agartala Heights	Agartala / Tripura	Apartment / 3 BHK	1456	₹11,200/month	Semi-Furnished	3	Any	Rent
+279	Tripura Properties (Tripura.txt)	1 BHK Studio	Dharmanagar Sector 3	Dharmanagar / Tripura	Studio / 1 BHK	306	₹21.39 L	Semi-Furnished	1	Bachelors	Sale
+280	Tripura Properties (Tripura.txt)	3 BHK Apartment	Dharmanagar North	Dharmanagar / Tripura	Apartment / 3 BHK	908	₹50.70 L	Fully-Furnished	3	Family	Sale
+281	Tripura Properties (Tripura.txt)	1 BHK Studio	Udaipur Residential Area	Udaipur / Tripura	Studio / 1 BHK	354	₹4,800/month	Semi-Furnished	1	Family	Rent
+282	Tripura Properties (Tripura.txt)	3 BHK Apartment	Udaipur Sector 2	Udaipur / Tripura	Apartment / 3 BHK	1079	₹49.03 L	Semi-Furnished	3	Family	Sale
+283	Tripura Properties (Tripura.txt)	2 BHK Independent House	Dharmanagar Main Road	Dharmanagar / Tripura	Independent House / 2 BHK	1064	₹38.77 L	Unfurnished	2	Family	Sale
+284	Tripura Properties (Tripura.txt)	4 BHK Apartment	Agartala Heights	Agartala / Tripura	Apartment / 4 BHK	1945	₹20,000/month	Fully-Furnished	3	Bachelors	Rent
+285	Tripura Properties (Tripura.txt)	2 BHK Independent House	Agartala Sector 1	Agartala / Tripura	Independent House / 2 BHK	923	₹10,400/month	Unfurnished	2	Family	Rent
+286	Tripura Properties (Tripura.txt)	2 BHK Villa	Udaipur Sector 3	Udaipur / Tripura	Villa / 2 BHK	1391	₹41.10 L	Semi-Furnished	2	Any	Sale
+287	Tripura Properties (Tripura.txt)	3 BHK Apartment	Agartala Nagar	Agartala / Tripura	Apartment / 3 BHK	1222	₹48.40 L	Semi-Furnished	3	Family	Sale
+288	Tripura Properties (Tripura.txt)	2 BHK Apartment	Udaipur Sector 2	Udaipur / Tripura	Apartment / 2 BHK	858	₹38.75 L	Fully-Furnished	1	Family	Sale
+289	Tripura Properties (Tripura.txt)	2 BHK Apartment	Agartala Nagar	Agartala / Tripura	Apartment / 2 BHK	919	₹42.38 L	Semi-Furnished	3	Family	Sale
+290	Tripura Properties (Tripura.txt)	3 BHK Apartment	Udaipur Central	Udaipur / Tripura	Apartment / 3 BHK	960	₹11,200/month	Semi-Furnished	2	Any	Rent
+291	Tripura Properties (Tripura.txt)	2 BHK Apartment	Dharmanagar Main Road	Dharmanagar / Tripura	Apartment / 2 BHK	814	₹9,100/month	Semi-Furnished	3	Any	Rent
+292	Tripura Properties (Tripura.txt)	3 BHK Apartment	Udaipur South	Udaipur / Tripura	Apartment / 3 BHK	1338	₹50.61 L	Unfurnished	3	Any	Sale
+293	Tripura Properties (Tripura.txt)	2 BHK Villa	Udaipur Central	Udaipur / Tripura	Villa / 2 BHK	924	₹34.48 L	Unfurnished	2	Family	Sale
+294	Tripura Properties (Tripura.txt)	2 BHK Apartment	Dharmanagar Colony	Dharmanagar / Tripura	Apartment / 2 BHK	554	₹29.38 L	Semi-Furnished	2	Family	Sale
+295	Tripura Properties (Tripura.txt)	1 BHK Apartment	Dharmanagar Extension	Dharmanagar / Tripura	Apartment / 1 BHK	649	₹24.14 L	Semi-Furnished	1	Any	Sale
+296	Tripura Properties (Tripura.txt)	1 BHK Apartment	Udaipur North	Udaipur / Tripura	Apartment / 1 BHK	520	₹20.16 L	Unfurnished	1	Any	Sale
+297	Tripura Properties (Tripura.txt)	3 BHK Apartment	Udaipur Sector 3	Udaipur / Tripura	Apartment / 3 BHK	1324	₹13,000/month	Semi-Furnished	3	Bachelors	Rent
+298	Tripura Properties (Tripura.txt)	2 BHK Apartment	Agartala Sector 2	Agartala / Tripura	Apartment / 2 BHK	824	₹10,700/month	Semi-Furnished	2	Any	Rent
+299	Tripura Properties (Tripura.txt)	4 BHK Apartment	Agartala Sector 1	Agartala / Tripura	Apartment / 4 BHK	1866	₹17,400/month	Semi-Furnished	4	Family	Rent
+300	Tripura Properties (Tripura.txt)	3 BHK Apartment	Agartala Sector 1	Agartala / Tripura	Apartment / 3 BHK	1119	₹13,500/month	Semi-Furnished	3	Any	Rent
+301	Tripura Properties (Tripura.txt)	2 BHK Apartment	Dharmanagar West	Dharmanagar / Tripura	Apartment / 2 BHK	709	₹39.55 L	Fully-Furnished	2	Bachelors	Sale
+302	Tripura Properties (Tripura.txt)	3 BHK Builder Floor	Dharmanagar Sector 3	Dharmanagar / Tripura	Builder Floor / 3 BHK	1162	₹46.37 L	Semi-Furnished	3	Any	Sale
+303	Tripura Properties (Tripura.txt)	3 BHK Builder Floor	Udaipur Sector 1	Udaipur / Tripura	Builder Floor / 3 BHK	1376	₹13,000/month	Semi-Furnished	3	Family	Rent
+304	Tripura Properties (Tripura.txt)	5 BHK Apartment	Agartala Sector 1	Agartala / Tripura	Apartment / 5 BHK	2336	₹68.79 L	Semi-Furnished	5	Bachelors	Sale
+305	Tripura Properties (Tripura.txt)	2 BHK Independent House	Udaipur Sector 1	Udaipur / Tripura	Independent House / 2 BHK	1009	₹11,700/month	Semi-Furnished	3	Any	Rent
+306	Tripura Properties (Tripura.txt)	2 BHK Independent House	Udaipur West	Udaipur / Tripura	Independent House / 2 BHK	1136	₹42.97 L	Semi-Furnished	2	Bachelors	Sale
+307	Tripura Properties (Tripura.txt)	1 BHK Apartment	Agartala Colony	Agartala / Tripura	Apartment / 1 BHK	443	₹17.39 L	Fully-Furnished	2	Any	Sale
+308	Tripura Properties (Tripura.txt)	2 BHK Independent House	Agartala Sector 1	Agartala / Tripura	Independent House / 2 BHK	1247	₹42.05 L	Semi-Furnished	3	Family	Sale
+309	Tripura Properties (Tripura.txt)	1 BHK Villa	Agartala Town Centre	Agartala / Tripura	Villa / 1 BHK	458	₹6,400/month	Fully-Furnished	1	Bachelors	Rent
+310	Tripura Properties (Tripura.txt)	4 BHK Apartment	Agartala Main Road	Agartala / Tripura	Apartment / 4 BHK	1781	₹18,300/month	Fully-Furnished	4	Bachelors	Rent
+311	Tripura Properties (Tripura.txt)	2 BHK Villa	Dharmanagar Sector 1	Dharmanagar / Tripura	Villa / 2 BHK	1370	₹44.29 L	Unfurnished	2	Bachelors	Sale
+312	Tripura Properties (Tripura.txt)	1 BHK Apartment	Udaipur Town Centre	Udaipur / Tripura	Apartment / 1 BHK	463	₹18.17 L	Semi-Furnished	1	Any	Sale
+313	Tripura Properties (Tripura.txt)	4 BHK Apartment	Udaipur West	Udaipur / Tripura	Apartment / 4 BHK	1536	₹70.94 L	Fully-Furnished	4	Bachelors	Sale
+314	Tripura Properties (Tripura.txt)	1 BHK Apartment	Dharmanagar North	Dharmanagar / Tripura	Apartment / 1 BHK	437	₹20.33 L	Semi-Furnished	1	Bachelors	Sale
+315	Tripura Properties (Tripura.txt)	5 BHK Apartment	Agartala North	Agartala / Tripura	Apartment / 5 BHK	2779	₹24,600/month	Semi-Furnished	5	Any	Rent
+316	Tripura Properties (Tripura.txt)	1 BHK Villa	Dharmanagar Town Centre	Dharmanagar / Tripura	Villa / 1 BHK	733	₹20.07 L	Semi-Furnished	1	Family	Sale
+317	Tripura Properties (Tripura.txt)	2 BHK Apartment	Udaipur Residential Area	Udaipur / Tripura	Apartment / 2 BHK	942	₹10,300/month	Unfurnished	2	Any	Rent
+318	Tripura Properties (Tripura.txt)	3 BHK Apartment	Agartala Sector 2	Agartala / Tripura	Apartment / 3 BHK	1002	₹39.15 L	Fully-Furnished	2	Any	Sale
+319	Tripura Properties (Tripura.txt)	3 BHK Builder Floor	Agartala Central	Agartala / Tripura	Builder Floor / 3 BHK	1331	₹56.10 L	Fully-Furnished	4	Bachelors	Sale
+320	Tripura Properties (Tripura.txt)	1 BHK Studio	Udaipur West	Udaipur / Tripura	Studio / 1 BHK	428	₹18 L	Semi-Furnished	2	Any	Sale
+321	Tripura Properties (Tripura.txt)	2 BHK Builder Floor	Dharmanagar North	Dharmanagar / Tripura	Builder Floor / 2 BHK	926	₹8,700/month	Unfurnished	2	Any	Rent
+322	Tripura Properties (Tripura.txt)	4 BHK Independent House	Agartala Main Road	Agartala / Tripura	Independent House / 4 BHK	2222	₹75.59 L	Unfurnished	4	Family	Sale
+323	Tripura Properties (Tripura.txt)	3 BHK Villa	Agartala Town Centre	Agartala / Tripura	Villa / 3 BHK	2172	₹66.69 L	Semi-Furnished	2	Family	Sale
+324	Tripura Properties (Tripura.txt)	1 BHK Independent House	Agartala Extension	Agartala / Tripura	Independent House / 1 BHK	686	₹7,700/month	Fully-Furnished	2	Family	Rent
+325	Tripura Properties (Tripura.txt)	1 BHK Builder Floor	Agartala Nagar	Agartala / Tripura	Builder Floor / 1 BHK	589	₹26.47 L	Unfurnished	1	Any	Sale
+326	Tripura Properties (Tripura.txt)	2 BHK Apartment	Agartala Extension	Agartala / Tripura	Apartment / 2 BHK	922	₹8,600/month	Semi-Furnished	1	Family	Rent
+327	Tripura Properties (Tripura.txt)	3 BHK Apartment	Agartala West	Agartala / Tripura	Apartment / 3 BHK	1117	₹41.51 L	Unfurnished	2	Family	Sale
+328	Tripura Properties (Tripura.txt)	3 BHK Builder Floor	Udaipur Colony	Udaipur / Tripura	Builder Floor / 3 BHK	1244	₹46.78 L	Unfurnished	3	Any	Sale
+329	Tripura Properties (Tripura.txt)	2 BHK Apartment	Agartala Central	Agartala / Tripura	Apartment / 2 BHK	766	₹38.98 L	Semi-Furnished	2	Any	Sale
+330	Tripura Properties (Tripura.txt)	3 BHK Apartment	Agartala Town Centre	Agartala / Tripura	Apartment / 3 BHK	1130	₹13,300/month	Unfurnished	4	Family	Rent
+331	Tripura Properties (Tripura.txt)	1 BHK Studio	Udaipur Sector 2	Udaipur / Tripura	Studio / 1 BHK	391	₹7,000/month	Semi-Furnished	1	Family	Rent
+332	Tripura Properties (Tripura.txt)	3 BHK Apartment	Udaipur West	Udaipur / Tripura	Apartment / 3 BHK	1188	₹11,700/month	Semi-Furnished	4	Bachelors	Rent
+333	Tripura Properties (Tripura.txt)	4 BHK Independent House	Udaipur Sector 1	Udaipur / Tripura	Independent House / 4 BHK	1909	₹66.99 L	Semi-Furnished	3	Bachelors	Sale
+334	Tripura Properties (Tripura.txt)	3 BHK Apartment	Dharmanagar Colony	Dharmanagar / Tripura	Apartment / 3 BHK	1400	₹47.14 L	Fully-Furnished	3	Family	Sale
+335	Tripura Properties (Tripura.txt)	1 BHK Independent House	Agartala Main Road	Agartala / Tripura	Independent House / 1 BHK	704	₹28.32 L	Fully-Furnished	2	Family	Sale
+336	Tripura Properties (Tripura.txt)	1 BHK Independent House	Dharmanagar Extension	Dharmanagar / Tripura	Independent House / 1 BHK	663	₹25.08 L	Semi-Furnished	1	Bachelors	Sale
+337	Tripura Properties (Tripura.txt)	2 BHK Independent House	Dharmanagar Heights	Dharmanagar / Tripura	Independent House / 2 BHK	931	₹32.86 L	Fully-Furnished	2	Bachelors	Sale
+338	Tripura Properties (Tripura.txt)	2 BHK Independent House	Agartala Sector 3	Agartala / Tripura	Independent House / 2 BHK	969	₹11,300/month	Semi-Furnished	2	Family	Rent
+339	Tripura Properties (Tripura.txt)	2 BHK Builder Floor	Udaipur Main Road	Udaipur / Tripura	Builder Floor / 2 BHK	895	₹39.84 L	Fully-Furnished	2	Family	Sale
+340	Tripura Properties (Tripura.txt)	3 BHK Apartment	Dharmanagar North	Dharmanagar / Tripura	Apartment / 3 BHK	1230	₹49.40 L	Unfurnished	3	Bachelors	Sale
+341	Tripura Properties (Tripura.txt)	2 BHK Independent House	Dharmanagar Colony	Dharmanagar / Tripura	Independent House / 2 BHK	904	₹38.24 L	Fully-Furnished	2	Any	Sale
+342	Tripura Properties (Tripura.txt)	4 BHK Independent House	Dharmanagar Town Centre	Dharmanagar / Tripura	Independent House / 4 BHK	1998	₹15,000/month	Fully-Furnished	4	Family	Rent
+343	Tripura Properties (Tripura.txt)	1 BHK Apartment	Agartala East	Agartala / Tripura	Apartment / 1 BHK	438	₹7,000/month	Semi-Furnished	2	Family	Rent
+344	Tripura Properties (Tripura.txt)	2 BHK Apartment	Dharmanagar Main Road	Dharmanagar / Tripura	Apartment / 2 BHK	880	₹31.59 L	Unfurnished	2	Family	Sale
+345	Tripura Properties (Tripura.txt)	2 BHK Builder Floor	Agartala Central	Agartala / Tripura	Builder Floor / 2 BHK	892	₹38.68 L	Fully-Furnished	2	Bachelors	Sale
+346	Tripura Properties (Tripura.txt)	3 BHK Villa	Dharmanagar Sector 2	Dharmanagar / Tripura	Villa / 3 BHK	1576	₹54.82 L	Unfurnished	3	Bachelors	Sale
+347	Tripura Properties (Tripura.txt)	4 BHK Apartment	Agartala Central	Agartala / Tripura	Apartment / 4 BHK	2288	₹73.68 L	Fully-Furnished	4	Bachelors	Sale
+348	Tripura Properties (Tripura.txt)	4 BHK Independent House	Udaipur South	Udaipur / Tripura	Independent House / 4 BHK	1837	₹65.99 L	Fully-Furnished	3	Family	Sale
+349	Tripura Properties (Tripura.txt)	5 BHK Apartment	Dharmanagar Heights	Dharmanagar / Tripura	Apartment / 5 BHK	2052	₹17,400/month	Unfurnished	5	Bachelors	Rent
+350	Tripura Properties (Tripura.txt)	2 BHK Builder Floor	Agartala North	Agartala / Tripura	Builder Floor / 2 BHK	847	₹39.73 L	Fully-Furnished	1	Family	Sale
+351	Tripura Properties (Tripura.txt)	1 BHK Apartment	Udaipur Heights	Udaipur / Tripura	Apartment / 1 BHK	478	₹5,300/month	Unfurnished	1	Any	Rent
+352	Tripura Properties (Tripura.txt)	4 BHK Independent House	Udaipur North	Udaipur / Tripura	Independent House / 4 BHK	1519	₹14,600/month	Fully-Furnished	4	Family	Rent
+353	Tripura Properties (Tripura.txt)	4 BHK Apartment	Udaipur Colony	Udaipur / Tripura	Apartment / 4 BHK	1723	₹18,800/month	Fully-Furnished	3	Bachelors	Rent
+354	Tripura Properties (Tripura.txt)	2 BHK Apartment	Udaipur Sector 2	Udaipur / Tripura	Apartment / 2 BHK	769	₹11,100/month	Fully-Furnished	2	Bachelors	Rent
+355	Tripura Properties (Tripura.txt)	1 BHK Studio	Dharmanagar Town Centre	Dharmanagar / Tripura	Studio / 1 BHK	358	₹23.92 L	Fully-Furnished	1	Family	Sale
+356	Tripura Properties (Tripura.txt)	2 BHK Builder Floor	Dharmanagar Sector 2	Dharmanagar / Tripura	Builder Floor / 2 BHK	1001	₹42.64 L	Semi-Furnished	2	Any	Sale
+357	Tripura Properties (Tripura.txt)	1 BHK Apartment	Dharmanagar Sector 1	Dharmanagar / Tripura	Apartment / 1 BHK	509	₹26.14 L	Unfurnished	1	Bachelors	Sale
+358	Tripura Properties (Tripura.txt)	2 BHK Apartment	Udaipur North	Udaipur / Tripura	Apartment / 2 BHK	935	₹10,800/month	Fully-Furnished	2	Bachelors	Rent
+359	Tripura Properties (Tripura.txt)	4 BHK Apartment	Dharmanagar North	Dharmanagar / Tripura	Apartment / 4 BHK	2017	₹56.91 L	Semi-Furnished	4	Family	Sale
+360	Tripura Properties (Tripura.txt)	1 BHK Independent House	Agartala East	Agartala / Tripura	Independent House / 1 BHK	701	₹5,800/month	Unfurnished	2	Bachelors	Rent
+361	Tripura Properties (Tripura.txt)	2 BHK Independent House	Agartala Residential Area	Agartala / Tripura	Independent House / 2 BHK	1150	₹8,500/month	Semi-Furnished	3	Bachelors	Rent
+362	Tripura Properties (Tripura.txt)	4 BHK Apartment	Dharmanagar Residential Area	Dharmanagar / Tripura	Apartment / 4 BHK	1789	₹75.24 L	Fully-Furnished	4	Family	Sale
+363	Tripura Properties (Tripura.txt)	1 BHK Apartment	Agartala Sector 2	Agartala / Tripura	Apartment / 1 BHK	444	₹22.96 L	Unfurnished	1	Bachelors	Sale
+364	Tripura Properties (Tripura.txt)	4 BHK Independent House	Dharmanagar Heights	Dharmanagar / Tripura	Independent House / 4 BHK	1898	₹19,200/month	Unfurnished	5	Bachelors	Rent
+365	Tripura Properties (Tripura.txt)	3 BHK Apartment	Agartala Sector 1	Agartala / Tripura	Apartment / 3 BHK	1298	₹12,900/month	Semi-Furnished	3	Family	Rent
+366	Tripura Properties (Tripura.txt)	2 BHK Apartment	Dharmanagar Town Centre	Dharmanagar / Tripura	Apartment / 2 BHK	696	₹27.07 L	Unfurnished	2	Any	Sale
+367	Tripura Properties (Tripura.txt)	3 BHK Apartment	Dharmanagar Sector 1	Dharmanagar / Tripura	Apartment / 3 BHK	1215	₹13,400/month	Unfurnished	3	Bachelors	Rent
+368	Tripura Properties (Tripura.txt)	1 BHK Independent House	Dharmanagar Sector 2	Dharmanagar / Tripura	Independent House / 1 BHK	568	₹22.83 L	Fully-Furnished	2	Family	Sale
+369	Tripura Properties (Tripura.txt)	2 BHK Independent House	Dharmanagar East	Dharmanagar / Tripura	Independent House / 2 BHK	860	₹40.79 L	Semi-Furnished	1	Family	Sale
+370	Tripura Properties (Tripura.txt)	3 BHK Builder Floor	Dharmanagar East	Dharmanagar / Tripura	Builder Floor / 3 BHK	1074	₹40.59 L	Fully-Furnished	4	Family	Sale
+371	Tripura Properties (Tripura.txt)	3 BHK Independent House	Udaipur Heights	Udaipur / Tripura	Independent House / 3 BHK	1235	₹15,600/month	Semi-Furnished	3	Family	Rent
+372	Tripura Properties (Tripura.txt)	1 BHK Studio	Udaipur North	Udaipur / Tripura	Studio / 1 BHK	348	₹22.60 L	Semi-Furnished	1	Bachelors	Sale
+373	Tripura Properties (Tripura.txt)	3 BHK Apartment	Udaipur North	Udaipur / Tripura	Apartment / 3 BHK	1148	₹42.56 L	Fully-Furnished	4	Family	Sale
+374	Tripura Properties (Tripura.txt)	2 BHK Builder Floor	Udaipur South	Udaipur / Tripura	Builder Floor / 2 BHK	822	₹29.98 L	Semi-Furnished	2	Bachelors	Sale
+375	Tripura Properties (Tripura.txt)	4 BHK Apartment	Udaipur East	Udaipur / Tripura	Apartment / 4 BHK	1831	₹14,300/month	Semi-Furnished	3	Family	Rent
+376	Tripura Properties (Tripura.txt)	2 BHK Builder Floor	Udaipur Colony	Udaipur / Tripura	Builder Floor / 2 BHK	707	₹27.81 L	Unfurnished	1	Any	Sale
+377	Tripura Properties (Tripura.txt)	2 BHK Apartment	Dharmanagar Sector 1	Dharmanagar / Tripura	Apartment / 2 BHK	901	₹29.07 L	Fully-Furnished	2	Any	Sale
+378	Tripura Properties (Tripura.txt)	5 BHK Builder Floor	Udaipur Main Road	Udaipur / Tripura	Builder Floor / 5 BHK	2908	₹20,800/month	Fully-Furnished	5	Any	Rent
+379	Tripura Properties (Tripura.txt)	2 BHK Apartment	Dharmanagar North	Dharmanagar / Tripura	Apartment / 2 BHK	572	₹33.59 L	Unfurnished	2	Family	Sale
+380	Tripura Properties (Tripura.txt)	5 BHK Villa	Agartala Sector 2	Agartala / Tripura	Villa / 5 BHK	3592	₹85.15 L	Semi-Furnished	5	Any	Sale
+381	Tripura Properties (Tripura.txt)	4 BHK Apartment	Agartala Sector 1	Agartala / Tripura	Apartment / 4 BHK	1453	₹17,900/month	Semi-Furnished	5	Family	Rent
+382	Tripura Properties (Tripura.txt)	3 BHK Apartment	Agartala East	Agartala / Tripura	Apartment / 3 BHK	1223	₹50.36 L	Semi-Furnished	3	Any	Sale
+383	Tripura Properties (Tripura.txt)	3 BHK Independent House	Udaipur South	Udaipur / Tripura	Independent House / 3 BHK	1722	₹14,400/month	Semi-Furnished	3	Family	Rent
+384	Tripura Properties (Tripura.txt)	1 BHK Studio	Agartala Heights	Agartala / Tripura	Studio / 1 BHK	404	₹22.10 L	Semi-Furnished	2	Any	Sale
+385	Tripura Properties (Tripura.txt)	2 BHK Apartment	Dharmanagar Sector 1	Dharmanagar / Tripura	Apartment / 2 BHK	932	₹10,900/month	Semi-Furnished	2	Family	Rent
+386	Tripura Properties (Tripura.txt)	3 BHK Apartment	Dharmanagar Town Centre	Dharmanagar / Tripura	Apartment / 3 BHK	1506	₹51.45 L	Semi-Furnished	3	Family	Sale
+387	Tripura Properties (Tripura.txt)	5 BHK Apartment	Dharmanagar South	Dharmanagar / Tripura	Apartment / 5 BHK	2487	₹71.45 L	Unfurnished	4	Any	Sale
+388	Tripura Properties (Tripura.txt)	2 BHK Builder Floor	Dharmanagar South	Dharmanagar / Tripura	Builder Floor / 2 BHK	959	₹9,000/month	Semi-Furnished	3	Bachelors	Rent
+389	Tripura Properties (Tripura.txt)	4 BHK Builder Floor	Agartala Residential Area	Agartala / Tripura	Builder Floor / 4 BHK	1170	₹60.66 L	Unfurnished	4	Family	Sale
+390	Tripura Properties (Tripura.txt)	2 BHK Apartment	Udaipur Heights	Udaipur / Tripura	Apartment / 2 BHK	859	₹11,500/month	Semi-Furnished	3	Family	Rent
+391	Tripura Properties (Tripura.txt)	4 BHK Builder Floor	Udaipur Town Centre	Udaipur / Tripura	Builder Floor / 4 BHK	1996	₹58.83 L	Unfurnished	5	Any	Sale
+392	Tripura Properties (Tripura.txt)	1 BHK Villa	Dharmanagar Main Road	Dharmanagar / Tripura	Villa / 1 BHK	785	₹22.23 L	Fully-Furnished	2	Bachelors	Sale
+393	Tripura Properties (Tripura.txt)	2 BHK Apartment	Dharmanagar West	Dharmanagar / Tripura	Apartment / 2 BHK	769	₹9,000/month	Fully-Furnished	3	Family	Rent
+394	Tripura Properties (Tripura.txt)	2 BHK Builder Floor	Dharmanagar West	Dharmanagar / Tripura	Builder Floor / 2 BHK	997	₹39.27 L	Unfurnished	2	Any	Sale
+395	Tripura Properties (Tripura.txt)	1 BHK Builder Floor	Udaipur Heights	Udaipur / Tripura	Builder Floor / 1 BHK	653	₹22.60 L	Semi-Furnished	1	Any	Sale
+396	Tripura Properties (Tripura.txt)	4 BHK Apartment	Dharmanagar Residential Area	Dharmanagar / Tripura	Apartment / 4 BHK	1974	₹70.26 L	Semi-Furnished	4	Bachelors	Sale
+397	Tripura Properties (Tripura.txt)	4 BHK Apartment	Dharmanagar Town Centre	Dharmanagar / Tripura	Apartment / 4 BHK	1542	₹64.86 L	Fully-Furnished	4	Family	Sale
+398	Tripura Properties (Tripura.txt)	4 BHK Apartment	Agartala Sector 1	Agartala / Tripura	Apartment / 4 BHK	2067	₹73.25 L	Fully-Furnished	5	Bachelors	Sale
+399	Tripura Properties (Tripura.txt)	1 BHK Studio	Agartala Heights	Agartala / Tripura	Studio / 1 BHK	436	₹19.19 L	Semi-Furnished	1	Bachelors	Sale
+400	Tripura Properties (Tripura.txt)	2 BHK Apartment	Dharmanagar Sector 2	Dharmanagar / Tripura	Apartment / 2 BHK	690	₹9,600/month	Fully-Furnished	1	Any	Rent
+401	Tripura Properties (Tripura.txt)	2 BHK Apartment	Udaipur Sector 1	Udaipur / Tripura	Apartment / 2 BHK	758	₹31.80 L	Semi-Furnished	2	Any	Sale
+402	Tripura Properties (Tripura.txt)	2 BHK Builder Floor	Agartala Main Road	Agartala / Tripura	Builder Floor / 2 BHK	976	₹9,300/month	Fully-Furnished	3	Family	Rent
+403	Tripura Properties (Tripura.txt)	2 BHK Apartment	Udaipur Central	Udaipur / Tripura	Apartment / 2 BHK	974	₹37.78 L	Semi-Furnished	2	Bachelors	Sale
+404	Tripura Properties (Tripura.txt)	2 BHK Apartment	Agartala East	Agartala / Tripura	Apartment / 2 BHK	533	₹37.97 L	Semi-Furnished	2	Family	Sale
+405	Tripura Properties (Tripura.txt)	1 BHK Apartment	Dharmanagar South	Dharmanagar / Tripura	Apartment / 1 BHK	456	₹5,700/month	Semi-Furnished	2	Bachelors	Rent
+406	Tripura Properties (Tripura.txt)	4 BHK Independent House	Udaipur Central	Udaipur / Tripura	Independent House / 4 BHK	1918	₹69.34 L	Semi-Furnished	4	Family	Sale
+407	Tripura Properties (Tripura.txt)	3 BHK Apartment	Agartala Residential Area	Agartala / Tripura	Apartment / 3 BHK	1174	₹10,700/month	Semi-Furnished	2	Family	Rent
+408	Tripura Properties (Tripura.txt)	1 BHK Studio	Dharmanagar East	Dharmanagar / Tripura	Studio / 1 BHK	385	₹18.04 L	Unfurnished	1	Bachelors	Sale
+409	Tripura Properties (Tripura.txt)	2 BHK Villa	Agartala Heights	Agartala / Tripura	Villa / 2 BHK	1049	₹33.18 L	Semi-Furnished	2	Family	Sale
+410	Tripura Properties (Tripura.txt)	3 BHK Apartment	Dharmanagar West	Dharmanagar / Tripura	Apartment / 3 BHK	681	₹11,100/month	Unfurnished	2	Family	Rent
+411	Tripura Properties (Tripura.txt)	1 BHK Apartment	Dharmanagar Heights	Dharmanagar / Tripura	Apartment / 1 BHK	522	₹20.05 L	Semi-Furnished	1	Bachelors	Sale
+412	Tripura Properties (Tripura.txt)	2 BHK Apartment	Udaipur Main Road	Udaipur / Tripura	Apartment / 2 BHK	953	₹41.12 L	Unfurnished	1	Bachelors	Sale
+413	Tripura Properties (Tripura.txt)	1 BHK Apartment	Agartala Sector 1	Agartala / Tripura	Apartment / 1 BHK	433	₹22.35 L	Semi-Furnished	2	Bachelors	Sale
+414	Tripura Properties (Tripura.txt)	2 BHK Apartment	Udaipur Main Road	Udaipur / Tripura	Apartment / 2 BHK	827	₹37.93 L	Semi-Furnished	1	Bachelors	Sale
+415	Tripura Properties (Tripura.txt)	2 BHK Builder Floor	Agartala Town Centre	Agartala / Tripura	Builder Floor / 2 BHK	848	₹10,800/month	Semi-Furnished	1	Family	Rent
+416	Tripura Properties (Tripura.txt)	3 BHK Independent House	Agartala East	Agartala / Tripura	Independent House / 3 BHK	1190	₹45.21 L	Semi-Furnished	4	Bachelors	Sale
+417	Tripura Properties (Tripura.txt)	2 BHK Apartment	Agartala Extension	Agartala / Tripura	Apartment / 2 BHK	821	₹11,000/month	Fully-Furnished	3	Family	Rent
+418	Tripura Properties (Tripura.txt)	2 BHK Builder Floor	Udaipur Heights	Udaipur / Tripura	Builder Floor / 2 BHK	822	₹33.93 L	Semi-Furnished	3	Family	Sale
+419	Tripura Properties (Tripura.txt)	1 BHK Apartment	Dharmanagar Extension	Dharmanagar / Tripura	Apartment / 1 BHK	516	₹6,600/month	Semi-Furnished	1	Any	Rent
+420	Tripura Properties (Tripura.txt)	2 BHK Apartment	Dharmanagar Residential Area	Dharmanagar / Tripura	Apartment / 2 BHK	798	₹10,800/month	Unfurnished	2	Family	Rent
+421	Tripura Properties (Tripura.txt)	4 BHK Apartment	Udaipur South	Udaipur / Tripura	Apartment / 4 BHK	1821	₹68.89 L	Fully-Furnished	3	Family	Sale
+422	Tripura Properties (Tripura.txt)	3 BHK Apartment	Udaipur South	Udaipur / Tripura	Apartment / 3 BHK	1147	₹11,600/month	Semi-Furnished	3	Family	Rent
+423	Tripura Properties (Tripura.txt)	3 BHK Builder Floor	Udaipur East	Udaipur / Tripura	Builder Floor / 3 BHK	1267	₹11,300/month	Semi-Furnished	3	Family	Rent
+424	Tripura Properties (Tripura.txt)	2 BHK Independent House	Agartala Sector 1	Agartala / Tripura	Independent House / 2 BHK	1079	₹41.69 L	Semi-Furnished	2	Any	Sale
+425	Tripura Properties (Tripura.txt)	1 BHK Independent House	Dharmanagar Colony	Dharmanagar / Tripura	Independent House / 1 BHK	704	₹28.26 L	Semi-Furnished	1	Family	Sale
+426	Tripura Properties (Tripura.txt)	3 BHK Apartment	Dharmanagar Main Road	Dharmanagar / Tripura	Apartment / 3 BHK	1329	₹11,400/month	Semi-Furnished	3	Family	Rent
+427	Tripura Properties (Tripura.txt)	2 BHK Builder Floor	Dharmanagar North	Dharmanagar / Tripura	Builder Floor / 2 BHK	751	₹34.71 L	Semi-Furnished	2	Bachelors	Sale
+428	Tripura Properties (Tripura.txt)	2 BHK Independent House	Dharmanagar East	Dharmanagar / Tripura	Independent House / 2 BHK	856	₹33.34 L	Semi-Furnished	2	Any	Sale
+429	Tripura Properties (Tripura.txt)	1 BHK Villa	Dharmanagar Extension	Dharmanagar / Tripura	Villa / 1 BHK	698	₹25.40 L	Semi-Furnished	2	Bachelors	Sale
+430	Tripura Properties (Tripura.txt)	4 BHK Independent House	Udaipur East	Udaipur / Tripura	Independent House / 4 BHK	2432	₹22,300/month	Semi-Furnished	3	Bachelors	Rent
+431	Tripura Properties (Tripura.txt)	4 BHK Apartment	Dharmanagar Colony	Dharmanagar / Tripura	Apartment / 4 BHK	1897	₹69.84 L	Semi-Furnished	3	Bachelors	Sale
+432	Tripura Properties (Tripura.txt)	2 BHK Villa	Dharmanagar Town Centre	Dharmanagar / Tripura	Villa / 2 BHK	1107	₹10,700/month	Fully-Furnished	1	Bachelors	Rent
+433	Tripura Properties (Tripura.txt)	2 BHK Villa	Dharmanagar Central	Dharmanagar / Tripura	Villa / 2 BHK	1018	₹10,000/month	Fully-Furnished	3	Any	Rent
+434	Tripura Properties (Tripura.txt)	3 BHK Apartment	Dharmanagar Sector 2	Dharmanagar / Tripura	Apartment / 3 BHK	1421	₹43.82 L	Unfurnished	2	Family	Sale
+435	Tripura Properties (Tripura.txt)	2 BHK Apartment	Agartala West	Agartala / Tripura	Apartment / 2 BHK	902	₹8,700/month	Semi-Furnished	2	Family	Rent
+436	Tripura Properties (Tripura.txt)	4 BHK Builder Floor	Dharmanagar Sector 3	Dharmanagar / Tripura	Builder Floor / 4 BHK	1980	₹56.90 L	Semi-Furnished	4	Family	Sale
+437	Tripura Properties (Tripura.txt)	4 BHK Independent House	Dharmanagar Heights	Dharmanagar / Tripura	Independent House / 4 BHK	2095	₹16,200/month	Fully-Furnished	3	Family	Rent
+438	Tripura Properties (Tripura.txt)	2 BHK Villa	Agartala Central	Agartala / Tripura	Villa / 2 BHK	1091	₹11,300/month	Unfurnished	1	Family	Rent
+439	Tripura Properties (Tripura.txt)	3 BHK Independent House	Dharmanagar Colony	Dharmanagar / Tripura	Independent House / 3 BHK	1336	₹10,800/month	Fully-Furnished	3	Family	Rent
+440	Tripura Properties (Tripura.txt)	2 BHK Independent House	Agartala Colony	Agartala / Tripura	Independent House / 2 BHK	817	₹10,500/month	Fully-Furnished	2	Bachelors	Rent
+441	Tripura Properties (Tripura.txt)	3 BHK Apartment	Dharmanagar Sector 2	Dharmanagar / Tripura	Apartment / 3 BHK	1387	₹52.08 L	Semi-Furnished	2	Bachelors	Sale
+442	Tripura Properties (Tripura.txt)	1 BHK Studio	Udaipur West	Udaipur / Tripura	Studio / 1 BHK	351	₹21.59 L	Semi-Furnished	1	Family	Sale
+443	Tripura Properties (Tripura.txt)	3 BHK Builder Floor	Agartala West	Agartala / Tripura	Builder Floor / 3 BHK	1305	₹13,100/month	Unfurnished	3	Any	Rent
+444	Tripura Properties (Tripura.txt)	3 BHK Apartment	Dharmanagar Nagar	Dharmanagar / Tripura	Apartment / 3 BHK	1071	₹52.48 L	Fully-Furnished	3	Bachelors	Sale
+445	Tripura Properties (Tripura.txt)	4 BHK Apartment	Udaipur Colony	Udaipur / Tripura	Apartment / 4 BHK	1654	₹18,100/month	Semi-Furnished	4	Any	Rent
+446	Tripura Properties (Tripura.txt)	2 BHK Independent House	Udaipur Residential Area	Udaipur / Tripura	Independent House / 2 BHK	641	₹9,300/month	Fully-Furnished	2	Any	Rent
+447	Tripura Properties (Tripura.txt)	1 BHK Apartment	Udaipur Main Road	Udaipur / Tripura	Apartment / 1 BHK	427	₹24.92 L	Semi-Furnished	1	Any	Sale
+448	Tripura Properties (Tripura.txt)	1 BHK Builder Floor	Dharmanagar Residential Area	Dharmanagar / Tripura	Builder Floor / 1 BHK	462	₹20.66 L	Unfurnished	1	Any	Sale
+449	Tripura Properties (Tripura.txt)	1 BHK Villa	Agartala Extension	Agartala / Tripura	Villa / 1 BHK	599	₹25.27 L	Semi-Furnished	1	Family	Sale
+450	Tripura Properties (Tripura.txt)	3 BHK Apartment	Agartala Sector 3	Agartala / Tripura	Apartment / 3 BHK	1243	₹14,300/month	Semi-Furnished	2	Family	Rent
+451	Tripura Properties (Tripura.txt)	2 BHK Apartment	Udaipur Main Road	Udaipur / Tripura	Apartment / 2 BHK	912	₹35.25 L	Semi-Furnished	2	Family	Sale
+452	Tripura Properties (Tripura.txt)	2 BHK Apartment	Agartala North	Agartala / Tripura	Apartment / 2 BHK	811	₹9,000/month	Semi-Furnished	2	Bachelors	Rent
+453	Tripura Properties (Tripura.txt)	2 BHK Apartment	Udaipur Sector 1	Udaipur / Tripura	Apartment / 2 BHK	712	₹28.29 L	Fully-Furnished	2	Bachelors	Sale
+454	Tripura Properties (Tripura.txt)	5 BHK Apartment	Udaipur Heights	Udaipur / Tripura	Apartment / 5 BHK	2126	₹17,200/month	Semi-Furnished	5	Family	Rent
+455	Tripura Properties (Tripura.txt)	1 BHK Studio	Udaipur Sector 1	Udaipur / Tripura	Studio / 1 BHK	345	₹19.47 L	Semi-Furnished	1	Any	Sale
+456	Tripura Properties (Tripura.txt)	2 BHK Independent House	Agartala Sector 2	Agartala / Tripura	Independent House / 2 BHK	1133	₹35.19 L	Unfurnished	3	Family	Sale
+457	Tripura Properties (Tripura.txt)	3 BHK Apartment	Agartala Sector 3	Agartala / Tripura	Apartment / 3 BHK	1070	₹48.23 L	Semi-Furnished	3	Family	Sale
+458	Tripura Properties (Tripura.txt)	2 BHK Apartment	Dharmanagar Sector 3	Dharmanagar / Tripura	Apartment / 2 BHK	820	₹39.89 L	Fully-Furnished	2	Any	Sale
+459	Tripura Properties (Tripura.txt)	1 BHK Studio	Dharmanagar Sector 1	Dharmanagar / Tripura	Studio / 1 BHK	441	₹24.30 L	Fully-Furnished	2	Any	Sale
+460	Tripura Properties (Tripura.txt)	5 BHK Builder Floor	Udaipur Colony	Udaipur / Tripura	Builder Floor / 5 BHK	2947	₹87.06 L	Semi-Furnished	6	Family	Sale
+461	Tripura Properties (Tripura.txt)	2 BHK Apartment	Dharmanagar Colony	Dharmanagar / Tripura	Apartment / 2 BHK	1112	₹9,500/month	Semi-Furnished	2	Bachelors	Rent
+462	Tripura Properties (Tripura.txt)	3 BHK Apartment	Udaipur Extension	Udaipur / Tripura	Apartment / 3 BHK	886	₹53.06 L	Unfurnished	3	Bachelors	Sale
+463	Tripura Properties (Tripura.txt)	2 BHK Apartment	Agartala Sector 3	Agartala / Tripura	Apartment / 2 BHK	1101	₹40.15 L	Semi-Furnished	1	Family	Sale
+464	Tripura Properties (Tripura.txt)	3 BHK Apartment	Agartala East	Agartala / Tripura	Apartment / 3 BHK	1304	₹43.65 L	Semi-Furnished	3	Family	Sale
+465	Tripura Properties (Tripura.txt)	2 BHK Apartment	Agartala Main Road	Agartala / Tripura	Apartment / 2 BHK	1207	₹36.99 L	Semi-Furnished	3	Family	Sale
+466	Tripura Properties (Tripura.txt)	1 BHK Apartment	Dharmanagar South	Dharmanagar / Tripura	Apartment / 1 BHK	579	₹24.55 L	Semi-Furnished	1	Any	Sale
+467	Tripura Properties (Tripura.txt)	1 BHK Apartment	Agartala East	Agartala / Tripura	Apartment / 1 BHK	599	₹26.91 L	Semi-Furnished	1	Any	Sale
+468	Tripura Properties (Tripura.txt)	2 BHK Independent House	Dharmanagar West	Dharmanagar / Tripura	Independent House / 2 BHK	990	₹39.66 L	Unfurnished	2	Any	Sale
+469	Tripura Properties (Tripura.txt)	2 BHK Builder Floor	Agartala Sector 3	Agartala / Tripura	Builder Floor / 2 BHK	774	₹8,600/month	Semi-Furnished	2	Any	Rent
+470	Tripura Properties (Tripura.txt)	4 BHK Apartment	Dharmanagar Extension	Dharmanagar / Tripura	Apartment / 4 BHK	2023	₹58.60 L	Fully-Furnished	4	Family	Sale
+471	Tripura Properties (Tripura.txt)	2 BHK Builder Floor	Udaipur Main Road	Udaipur / Tripura	Builder Floor / 2 BHK	979	₹35.52 L	Semi-Furnished	1	Family	Sale
+472	Tripura Properties (Tripura.txt)	2 BHK Apartment	Udaipur Heights	Udaipur / Tripura	Apartment / 2 BHK	815	₹30.57 L	Semi-Furnished	1	Any	Sale
+473	Tripura Properties (Tripura.txt)	2 BHK Apartment	Udaipur Sector 1	Udaipur / Tripura	Apartment / 2 BHK	906	₹35.29 L	Unfurnished	2	Family	Sale
+474	Tripura Properties (Tripura.txt)	3 BHK Apartment	Dharmanagar West	Dharmanagar / Tripura	Apartment / 3 BHK	1308	₹42.25 L	Unfurnished	3	Family	Sale
+475	Tripura Properties (Tripura.txt)	1 BHK Villa	Udaipur Sector 1	Udaipur / Tripura	Villa / 1 BHK	763	₹29.09 L	Fully-Furnished	1	Bachelors	Sale
+476	Tripura Properties (Tripura.txt)	4 BHK Apartment	Dharmanagar West	Dharmanagar / Tripura	Apartment / 4 BHK	1567	₹55.81 L	Fully-Furnished	4	Family	Sale
+477	Tripura Properties (Tripura.txt)	1 BHK Independent House	Dharmanagar East	Dharmanagar / Tripura	Independent House / 1 BHK	575	₹5,900/month	Semi-Furnished	1	Any	Rent
+478	Tripura Properties (Tripura.txt)	4 BHK Villa	Agartala Extension	Agartala / Tripura	Villa / 4 BHK	2742	₹69.40 L	Semi-Furnished	4	Family	Sale
+479	Tripura Properties (Tripura.txt)	2 BHK Builder Floor	Agartala Sector 1	Agartala / Tripura	Builder Floor / 2 BHK	930	₹40.97 L	Fully-Furnished	3	Family	Sale
+480	Tripura Properties (Tripura.txt)	4 BHK Independent House	Udaipur South	Udaipur / Tripura	Independent House / 4 BHK	2361	₹76.41 L	Fully-Furnished	5	Family	Sale
+481	Tripura Properties (Tripura.txt)	4 BHK Builder Floor	Dharmanagar North	Dharmanagar / Tripura	Builder Floor / 4 BHK	1691	₹67.45 L	Semi-Furnished	4	Family	Sale
+482	Tripura Properties (Tripura.txt)	1 BHK Apartment	Udaipur Nagar	Udaipur / Tripura	Apartment / 1 BHK	315	₹5,900/month	Fully-Furnished	1	Family	Rent
+483	Tripura Properties (Tripura.txt)	3 BHK Apartment	Dharmanagar Main Road	Dharmanagar / Tripura	Apartment / 3 BHK	1349	₹55.02 L	Unfurnished	3	Bachelors	Sale
+484	Tripura Properties (Tripura.txt)	4 BHK Independent House	Udaipur Nagar	Udaipur / Tripura	Independent House / 4 BHK	2402	₹74.93 L	Unfurnished	5	Family	Sale
+485	Tripura Properties (Tripura.txt)	3 BHK Apartment	Udaipur Colony	Udaipur / Tripura	Apartment / 3 BHK	1037	₹51.67 L	Fully-Furnished	3	Family	Sale
+486	Tripura Properties (Tripura.txt)	3 BHK Apartment	Agartala Extension	Agartala / Tripura	Apartment / 3 BHK	1284	₹43.92 L	Unfurnished	3	Bachelors	Sale
+487	Tripura Properties (Tripura.txt)	4 BHK Builder Floor	Agartala Nagar	Agartala / Tripura	Builder Floor / 4 BHK	1879	₹62.37 L	Semi-Furnished	4	Bachelors	Sale
+488	Tripura Properties (Tripura.txt)	2 BHK Independent House	Udaipur Sector 2	Udaipur / Tripura	Independent House / 2 BHK	1032	₹35.22 L	Fully-Furnished	2	Family	Sale
+489	Tripura Properties (Tripura.txt)	1 BHK Builder Floor	Dharmanagar Sector 2	Dharmanagar / Tripura	Builder Floor / 1 BHK	527	₹26.03 L	Fully-Furnished	1	Any	Sale
+490	Tripura Properties (Tripura.txt)	3 BHK Villa	Udaipur Nagar	Udaipur / Tripura	Villa / 3 BHK	1414	₹52.24 L	Semi-Furnished	3	Family	Sale
+491	Tripura Properties (Tripura.txt)	1 BHK Villa	Agartala South	Agartala / Tripura	Villa / 1 BHK	861	₹7,100/month	Fully-Furnished	2	Any	Rent
+492	Tripura Properties (Tripura.txt)	3 BHK Villa	Agartala North	Agartala / Tripura	Villa / 3 BHK	1440	₹49.32 L	Fully-Furnished	3	Family	Sale
+493	Tripura Properties (Tripura.txt)	5 BHK Apartment	Agartala Sector 2	Agartala / Tripura	Apartment / 5 BHK	2392	₹21,200/month	Fully-Furnished	5	Family	Rent
+494	Tripura Properties (Tripura.txt)	4 BHK Apartment	Agartala North	Agartala / Tripura	Apartment / 4 BHK	1611	₹17,400/month	Unfurnished	3	Bachelors	Rent
+495	Tripura Properties (Tripura.txt)	3 BHK Apartment	Dharmanagar Sector 3	Dharmanagar / Tripura	Apartment / 3 BHK	1206	₹54.86 L	Fully-Furnished	4	Family	Sale
+496	Tripura Properties (Tripura.txt)	5 BHK Villa	Dharmanagar Colony	Dharmanagar / Tripura	Villa / 5 BHK	2637	₹67.82 L	Semi-Furnished	4	Bachelors	Sale
+497	Tripura Properties (Tripura.txt)	2 BHK Builder Floor	Agartala North	Agartala / Tripura	Builder Floor / 2 BHK	760	₹10,800/month	Fully-Furnished	3	Bachelors	Rent
+498	Tripura Properties (Tripura.txt)	4 BHK Apartment	Agartala Main Road	Agartala / Tripura	Apartment / 4 BHK	1954	₹18,200/month	Semi-Furnished	3	Family	Rent
+499	Tripura Properties (Tripura.txt)	3 BHK Apartment	Agartala East	Agartala / Tripura	Apartment / 3 BHK	1445	₹11,200/month	Fully-Furnished	3	Family	Rent
+500	Tripura Properties (Tripura.txt)	3 BHK Apartment	Udaipur Residential Area	Udaipur / Tripura	Apartment / 3 BHK	1213	₹48.71 L	Semi-Furnished	3	Family	Sale
+501	Tripura Properties (Tripura.txt)	5 BHK Builder Floor	Dharmanagar Residential Area	Dharmanagar / Tripura	Builder Floor / 5 BHK	2646	₹71.64 L	Unfurnished	5	Bachelors	Sale
+502	Tripura Properties (Tripura.txt)	1 BHK Studio	Dharmanagar Sector 1	Dharmanagar / Tripura	Studio / 1 BHK	388	₹17.61 L	Semi-Furnished	2	Bachelors	Sale
+503	Tripura Properties (Tripura.txt)	1 BHK Independent House	Udaipur North	Udaipur / Tripura	Independent House / 1 BHK	561	₹6,700/month	Unfurnished	1	Family	Rent
+504	Tripura Properties (Tripura.txt)	1 BHK Studio	Udaipur Sector 2	Udaipur / Tripura	Studio / 1 BHK	385	₹19.15 L	Fully-Furnished	1	Any	Sale
+505	Tripura Properties (Tripura.txt)	3 BHK Apartment	Dharmanagar Central	Dharmanagar / Tripura	Apartment / 3 BHK	1327	₹12,700/month	Unfurnished	3	Any	Rent
+506	Tripura Properties (Tripura.txt)	3 BHK Apartment	Udaipur Sector 2	Udaipur / Tripura	Apartment / 3 BHK	1494	₹11,500/month	Unfurnished	3	Any	Rent
+507	Tripura Properties (Tripura.txt)	1 BHK Studio	Udaipur Central	Udaipur / Tripura	Studio / 1 BHK	388	₹24.73 L	Fully-Furnished	1	Any	Sale
+508	Tripura Properties (Tripura.txt)	1 BHK Studio	Dharmanagar Extension	Dharmanagar / Tripura	Studio / 1 BHK	429	₹20.39 L	Semi-Furnished	2	Family	Sale
+509	Tripura Properties (Tripura.txt)	3 BHK Apartment	Dharmanagar East	Dharmanagar / Tripura	Apartment / 3 BHK	1096	₹13,600/month	Fully-Furnished	4	Bachelors	Rent
+510	Tripura Properties (Tripura.txt)	3 BHK Independent House	Udaipur Sector 2	Udaipur / Tripura	Independent House / 3 BHK	1376	₹59.30 L	Semi-Furnished	3	Family	Sale
+511	Tripura Properties (Tripura.txt)	2 BHK Builder Floor	Udaipur Main Road	Udaipur / Tripura	Builder Floor / 2 BHK	843	₹10,300/month	Fully-Furnished	1	Bachelors	Rent
+512	Tripura Properties (Tripura.txt)	4 BHK Independent House	Agartala North	Agartala / Tripura	Independent House / 4 BHK	2341	₹15,700/month	Semi-Furnished	5	Any	Rent
+513	Tripura Properties (Tripura.txt)	2 BHK Apartment	Udaipur North	Udaipur / Tripura	Apartment / 2 BHK	806	₹11,400/month	Semi-Furnished	3	Any	Rent
+514	Tripura Properties (Tripura.txt)	2 BHK Apartment	Dharmanagar Sector 1	Dharmanagar / Tripura	Apartment / 2 BHK	738	₹36.28 L	Fully-Furnished	2	Bachelors	Sale
+515	Tripura Properties (Tripura.txt)	2 BHK Builder Floor	Agartala Town Centre	Agartala / Tripura	Builder Floor / 2 BHK	927	₹10,600/month	Unfurnished	2	Any	Rent
+516	Tripura Properties (Tripura.txt)	1 BHK Apartment	Agartala Extension	Agartala / Tripura	Apartment / 1 BHK	537	₹6,600/month	Semi-Furnished	1	Family	Rent
+517	Tripura Properties (Tripura.txt)	2 BHK Builder Floor	Agartala Extension	Agartala / Tripura	Builder Floor / 2 BHK	869	₹10,800/month	Semi-Furnished	2	Family	Rent
+518	Tripura Properties (Tripura.txt)	1 BHK Builder Floor	Dharmanagar South	Dharmanagar / Tripura	Builder Floor / 1 BHK	578	₹24.79 L	Unfurnished	1	Family	Sale
+519	Tripura Properties (Tripura.txt)	1 BHK Apartment	Udaipur Sector 1	Udaipur / Tripura	Apartment / 1 BHK	488	₹6,200/month	Unfurnished	2	Bachelors	Rent
+520	Tripura Properties (Tripura.txt)	3 BHK Apartment	Dharmanagar Nagar	Dharmanagar / Tripura	Apartment / 3 BHK	1245	₹15,300/month	Fully-Furnished	3	Family	Rent
+521	Tripura Properties (Tripura.txt)	2 BHK Apartment	Agartala Sector 2	Agartala / Tripura	Apartment / 2 BHK	970	₹40.92 L	Semi-Furnished	2	Family	Sale
+522	Tripura Properties (Tripura.txt)	3 BHK Independent House	Dharmanagar West	Dharmanagar / Tripura	Independent House / 3 BHK	1295	₹11,600/month	Fully-Furnished	4	Bachelors	Rent
+523	Tripura Properties (Tripura.txt)	1 BHK Apartment	Udaipur Sector 3	Udaipur / Tripura	Apartment / 1 BHK	609	₹26.12 L	Semi-Furnished	1	Family	Sale
+524	Tripura Properties (Tripura.txt)	2 BHK Villa	Dharmanagar Sector 3	Dharmanagar / Tripura	Villa / 2 BHK	918	₹30.22 L	Fully-Furnished	2	Any	Sale
+525	Tripura Properties (Tripura.txt)	2 BHK Builder Floor	Dharmanagar West	Dharmanagar / Tripura	Builder Floor / 2 BHK	815	₹30.09 L	Unfurnished	2	Family	Sale
+526	Tripura Properties (Tripura.txt)	2 BHK Independent House	Udaipur East	Udaipur / Tripura	Independent House / 2 BHK	993	₹29.66 L	Semi-Furnished	2	Family	Sale
+527	Tripura Properties (Tripura.txt)	3 BHK Builder Floor	Udaipur Central	Udaipur / Tripura	Builder Floor / 3 BHK	1549	₹15,200/month	Semi-Furnished	2	Bachelors	Rent
+528	Tripura Properties (Tripura.txt)	5 BHK Independent House	Agartala North	Agartala / Tripura	Independent House / 5 BHK	2876	₹95.88 L	Fully-Furnished	5	Family	Sale
+529	Tripura Properties (Tripura.txt)	2 BHK Independent House	Udaipur Sector 1	Udaipur / Tripura	Independent House / 2 BHK	919	₹8,700/month	Unfurnished	3	Bachelors	Rent
+530	Tripura Properties (Tripura.txt)	1 BHK Studio	Dharmanagar Colony	Dharmanagar / Tripura	Studio / 1 BHK	300	₹18.74 L	Semi-Furnished	2	Any	Sale
+531	Tripura Properties (Tripura.txt)	1 BHK Apartment	Udaipur Sector 3	Udaipur / Tripura	Apartment / 1 BHK	631	₹19.67 L	Unfurnished	1	Family	Sale
+532	Tripura Properties (Tripura.txt)	1 BHK Apartment	Udaipur West	Udaipur / Tripura	Apartment / 1 BHK	443	₹24.87 L	Fully-Furnished	1	Bachelors	Sale
+533	Tripura Properties (Tripura.txt)	5 BHK Villa	Udaipur Sector 1	Udaipur / Tripura	Villa / 5 BHK	3658	₹85.95 L	Semi-Furnished	4	Bachelors	Sale
+534	Tripura Properties (Tripura.txt)	2 BHK Apartment	Dharmanagar Heights	Dharmanagar / Tripura	Apartment / 2 BHK	957	₹8,900/month	Unfurnished	2	Bachelors	Rent
+535	Tripura Properties (Tripura.txt)	2 BHK Builder Floor	Udaipur Colony	Udaipur / Tripura	Builder Floor / 2 BHK	767	₹29.28 L	Semi-Furnished	2	Any	Sale
+536	Tripura Properties (Tripura.txt)	2 BHK Apartment	Udaipur Heights	Udaipur / Tripura	Apartment / 2 BHK	643	₹34.78 L	Unfurnished	3	Bachelors	Sale
+537	Tripura Properties (Tripura.txt)	4 BHK Independent House	Dharmanagar North	Dharmanagar / Tripura	Independent House / 4 BHK	2474	₹17,100/month	Unfurnished	5	Any	Rent
+538	Tripura Properties (Tripura.txt)	5 BHK Apartment	Udaipur Central	Udaipur / Tripura	Apartment / 5 BHK	1899	₹19,400/month	Unfurnished	5	Bachelors	Rent
+539	Tripura Properties (Tripura.txt)	4 BHK Apartment	Dharmanagar South	Dharmanagar / Tripura	Apartment / 4 BHK	1699	₹71.62 L	Semi-Furnished	4	Family	Sale
+540	Tripura Properties (Tripura.txt)	2 BHK Independent House	Dharmanagar Colony	Dharmanagar / Tripura	Independent House / 2 BHK	1062	₹33.27 L	Unfurnished	2	Family	Sale
+541	Tripura Properties (Tripura.txt)	2 BHK Builder Floor	Udaipur Sector 2	Udaipur / Tripura	Builder Floor / 2 BHK	672	₹7,800/month	Unfurnished	3	Any	Rent
+542	Tripura Properties (Tripura.txt)	1 BHK Apartment	Agartala Heights	Agartala / Tripura	Apartment / 1 BHK	521	₹24.40 L	Unfurnished	1	Family	Sale
+543	Tripura Properties (Tripura.txt)	1 BHK Apartment	Dharmanagar Town Centre	Dharmanagar / Tripura	Apartment / 1 BHK	559	₹22.86 L	Unfurnished	1	Family	Sale
+544	Tripura Properties (Tripura.txt)	3 BHK Independent House	Udaipur South	Udaipur / Tripura	Independent House / 3 BHK	1308	₹39.52 L	Fully-Furnished	2	Family	Sale
+545	Tripura Properties (Tripura.txt)	5 BHK Independent House	Agartala Sector 3	Agartala / Tripura	Independent House / 5 BHK	3151	₹18,700/month	Semi-Furnished	4	Any	Rent
+546	Tripura Properties (Tripura.txt)	2 BHK Apartment	Udaipur Heights	Udaipur / Tripura	Apartment / 2 BHK	866	₹40.31 L	Fully-Furnished	3	Family	Sale
+547	Tripura Properties (Tripura.txt)	2 BHK Apartment	Agartala Colony	Agartala / Tripura	Apartment / 2 BHK	881	₹29.07 L	Unfurnished	3	Family	Sale
+548	Tripura Properties (Tripura.txt)	3 BHK Apartment	Udaipur Extension	Udaipur / Tripura	Apartment / 3 BHK	1267	₹55.62 L	Semi-Furnished	3	Bachelors	Sale
+549	Tripura Properties (Tripura.txt)	2 BHK Independent House	Udaipur Sector 3	Udaipur / Tripura	Independent House / 2 BHK	906	₹8,900/month	Semi-Furnished	3	Any	Rent
+550	Tripura Properties (Tripura.txt)	3 BHK Builder Floor	Dharmanagar Town Centre	Dharmanagar / Tripura	Builder Floor / 3 BHK	1473	₹41.41 L	Semi-Furnished	3	Family	Sale
+551	Tripura Properties (Tripura.txt)	3 BHK Builder Floor	Agartala North	Agartala / Tripura	Builder Floor / 3 BHK	1064	₹55.75 L	Unfurnished	4	Bachelors	Sale
+552	Tripura Properties (Tripura.txt)	2 BHK Villa	Dharmanagar Sector 3	Dharmanagar / Tripura	Villa / 2 BHK	1351	₹38.83 L	Fully-Furnished	1	Bachelors	Sale
+553	Tripura Properties (Tripura.txt)	5 BHK Apartment	Udaipur Heights	Udaipur / Tripura	Apartment / 5 BHK	2220	₹18,800/month	Semi-Furnished	5	Family	Rent
+554	Tripura Properties (Tripura.txt)	3 BHK Builder Floor	Dharmanagar Residential Area	Dharmanagar / Tripura	Builder Floor / 3 BHK	1269	₹52.94 L	Fully-Furnished	4	Family	Sale
+555	Tripura Properties (Tripura.txt)	2 BHK Apartment	Dharmanagar Colony	Dharmanagar / Tripura	Apartment / 2 BHK	1084	₹32.52 L	Semi-Furnished	1	Bachelors	Sale
+556	Tripura Properties (Tripura.txt)	3 BHK Villa	Agartala South	Agartala / Tripura	Villa / 3 BHK	1572	₹16,600/month	Fully-Furnished	3	Any	Rent
+557	Tripura Properties (Tripura.txt)	2 BHK Apartment	Agartala Residential Area	Agartala / Tripura	Apartment / 2 BHK	793	₹38.21 L	Unfurnished	1	Any	Sale
+558	Tripura Properties (Tripura.txt)	2 BHK Apartment	Agartala Sector 2	Agartala / Tripura	Apartment / 2 BHK	965	₹9,600/month	Semi-Furnished	2	Family	Rent
+559	Tripura Properties (Tripura.txt)	2 BHK Villa	Agartala Sector 2	Agartala / Tripura	Villa / 2 BHK	922	₹10,500/month	Semi-Furnished	3	Bachelors	Rent
+560	Tripura Properties (Tripura.txt)	3 BHK Apartment	Agartala Residential Area	Agartala / Tripura	Apartment / 3 BHK	1604	₹11,600/month	Unfurnished	3	Bachelors	Rent
+561	Tripura Properties (Tripura.txt)	4 BHK Apartment	Agartala Heights	Agartala / Tripura	Apartment / 4 BHK	2049	₹18,900/month	Semi-Furnished	5	Bachelors	Rent
+562	Tripura Properties (Tripura.txt)	4 BHK Builder Floor	Udaipur Residential Area	Udaipur / Tripura	Builder Floor / 4 BHK	2030	₹55.43 L	Semi-Furnished	3	Family	Sale
+563	Tripura Properties (Tripura.txt)	2 BHK Apartment	Dharmanagar Heights	Dharmanagar / Tripura	Apartment / 2 BHK	796	₹7,900/month	Unfurnished	2	Bachelors	Rent
+564	Tripura Properties (Tripura.txt)	2 BHK Apartment	Dharmanagar North	Dharmanagar / Tripura	Apartment / 2 BHK	660	₹27.64 L	Unfurnished	3	Any	Sale
+565	Tripura Properties (Tripura.txt)	2 BHK Builder Floor	Agartala Town Centre	Agartala / Tripura	Builder Floor / 2 BHK	1102	₹31.47 L	Fully-Furnished	2	Family	Sale
+566	Tripura Properties (Tripura.txt)	3 BHK Villa	Agartala Central	Agartala / Tripura	Villa / 3 BHK	1535	₹59.46 L	Unfurnished	3	Family	Sale
+567	Tripura Properties (Tripura.txt)	3 BHK Apartment	Agartala North	Agartala / Tripura	Apartment / 3 BHK	1314	₹15,000/month	Fully-Furnished	3	Family	Rent
+568	Tripura Properties (Tripura.txt)	2 BHK Apartment	Dharmanagar Sector 2	Dharmanagar / Tripura	Apartment / 2 BHK	671	₹27.41 L	Fully-Furnished	2	Bachelors	Sale
+569	Tripura Properties (Tripura.txt)	3 BHK Builder Floor	Agartala Extension	Agartala / Tripura	Builder Floor / 3 BHK	1343	₹44.59 L	Semi-Furnished	3	Family	Sale
+570	Tripura Properties (Tripura.txt)	1 BHK Studio	Dharmanagar Residential Area	Dharmanagar / Tripura	Studio / 1 BHK	309	₹19.58 L	Semi-Furnished	1	Family	Sale
+571	Tripura Properties (Tripura.txt)	2 BHK Builder Floor	Agartala Town Centre	Agartala / Tripura	Builder Floor / 2 BHK	743	₹40.43 L	Fully-Furnished	2	Bachelors	Sale
+572	Tripura Properties (Tripura.txt)	4 BHK Apartment	Udaipur Sector 1	Udaipur / Tripura	Apartment / 4 BHK	1708	₹67.26 L	Semi-Furnished	4	Bachelors	Sale
+573	Tripura Properties (Tripura.txt)	2 BHK Apartment	Udaipur North	Udaipur / Tripura	Apartment / 2 BHK	871	₹30.27 L	Semi-Furnished	2	Any	Sale
+574	Tripura Properties (Tripura.txt)	3 BHK Builder Floor	Dharmanagar West	Dharmanagar / Tripura	Builder Floor / 3 BHK	1034	₹51.99 L	Semi-Furnished	4	Family	Sale
+575	Tripura Properties (Tripura.txt)	3 BHK Apartment	Agartala Nagar	Agartala / Tripura	Apartment / 3 BHK	1332	₹12,500/month	Unfurnished	4	Any	Rent
+576	Tripura Properties (Tripura.txt)	1 BHK Apartment	Dharmanagar Sector 3	Dharmanagar / Tripura	Apartment / 1 BHK	599	₹6,900/month	Unfurnished	2	Bachelors	Rent
+577	Tripura Properties (Tripura.txt)	3 BHK Builder Floor	Udaipur Extension	Udaipur / Tripura	Builder Floor / 3 BHK	1494	₹49.54 L	Fully-Furnished	3	Bachelors	Sale
+578	Tripura Properties (Tripura.txt)	3 BHK Apartment	Agartala Sector 3	Agartala / Tripura	Apartment / 3 BHK	1364	₹51.79 L	Semi-Furnished	3	Any	Sale
+579	Tripura Properties (Tripura.txt)	3 BHK Apartment	Dharmanagar Extension	Dharmanagar / Tripura	Apartment / 3 BHK	1173	₹13,600/month	Semi-Furnished	4	Family	Rent
+580	Tripura Properties (Tripura.txt)	2 BHK Apartment	Dharmanagar Colony	Dharmanagar / Tripura	Apartment / 2 BHK	840	₹32.78 L	Fully-Furnished	1	Bachelors	Sale
+581	Tripura Properties (Tripura.txt)	3 BHK Apartment	Udaipur West	Udaipur / Tripura	Apartment / 3 BHK	1437	₹52.60 L	Unfurnished	2	Family	Sale
+582	Tripura Properties (Tripura.txt)	2 BHK Apartment	Udaipur South	Udaipur / Tripura	Apartment / 2 BHK	797	₹9,500/month	Fully-Furnished	1	Any	Rent
+583	Tripura Properties (Tripura.txt)	2 BHK Villa	Udaipur West	Udaipur / Tripura	Villa / 2 BHK	1088	₹9,800/month	Fully-Furnished	2	Family	Rent
+584	Tripura Properties (Tripura.txt)	4 BHK Builder Floor	Dharmanagar Colony	Dharmanagar / Tripura	Builder Floor / 4 BHK	1533	₹71.05 L	Unfurnished	4	Family	Sale
+585	Tripura Properties (Tripura.txt)	2 BHK Villa	Agartala West	Agartala / Tripura	Villa / 2 BHK	1122	₹8,500/month	Semi-Furnished	2	Bachelors	Rent
+586	Tripura Properties (Tripura.txt)	4 BHK Villa	Agartala Residential Area	Agartala / Tripura	Villa / 4 BHK	1752	₹73.03 L	Semi-Furnished	5	Family	Sale
+587	Tripura Properties (Tripura.txt)	3 BHK Independent House	Agartala Residential Area	Agartala / Tripura	Independent House / 3 BHK	1884	₹64.67 L	Fully-Furnished	3	Bachelors	Sale
+588	Tripura Properties (Tripura.txt)	2 BHK Villa	Dharmanagar Colony	Dharmanagar / Tripura	Villa / 2 BHK	1192	₹11,200/month	Unfurnished	2	Any	Rent
+589	Tripura Properties (Tripura.txt)	3 BHK Villa	Agartala Colony	Agartala / Tripura	Villa / 3 BHK	1578	₹15,600/month	Unfurnished	4	Family	Rent
+590	Tripura Properties (Tripura.txt)	2 BHK Apartment	Dharmanagar South	Dharmanagar / Tripura	Apartment / 2 BHK	1020	₹34.21 L	Semi-Furnished	2	Family	Sale
+591	Tripura Properties (Tripura.txt)	3 BHK Independent House	Agartala East	Agartala / Tripura	Independent House / 3 BHK	1921	₹53.97 L	Unfurnished	4	Bachelors	Sale
+592	Tripura Properties (Tripura.txt)	3 BHK Apartment	Dharmanagar Residential Area	Dharmanagar / Tripura	Apartment / 3 BHK	1293	₹49.64 L	Fully-Furnished	3	Family	Sale
+593	Tripura Properties (Tripura.txt)	3 BHK Apartment	Dharmanagar Main Road	Dharmanagar / Tripura	Apartment / 3 BHK	1209	₹42.97 L	Unfurnished	3	Any	Sale
+594	Tripura Properties (Tripura.txt)	3 BHK Independent House	Dharmanagar Nagar	Dharmanagar / Tripura	Independent House / 3 BHK	1449	₹52.77 L	Unfurnished	3	Family	Sale
+595	Tripura Properties (Tripura.txt)	2 BHK Apartment	Agartala Sector 1	Agartala / Tripura	Apartment / 2 BHK	704	₹32.10 L	Semi-Furnished	2	Any	Sale
+596	Tripura Properties (Tripura.txt)	3 BHK Apartment	Dharmanagar Sector 3	Dharmanagar / Tripura	Apartment / 3 BHK	884	₹9,800/month	Unfurnished	3	Family	Rent
+597	Tripura Properties (Tripura.txt)	1 BHK Apartment	Dharmanagar Sector 2	Dharmanagar / Tripura	Apartment / 1 BHK	542	₹20.52 L	Fully-Furnished	1	Bachelors	Sale
+598	Tripura Properties (Tripura.txt)	3 BHK Independent House	Agartala Residential Area	Agartala / Tripura	Independent House / 3 BHK	1145	₹11,300/month	Unfurnished	2	Bachelors	Rent
+599	Tripura Properties (Tripura.txt)	3 BHK Apartment	Udaipur Main Road	Udaipur / Tripura	Apartment / 3 BHK	1123	₹53.54 L	Unfurnished	4	Family	Sale
+600	Tripura Properties (Tripura.txt)	2 BHK Apartment	Udaipur Sector 1	Udaipur / Tripura	Apartment / 2 BHK	788	₹36.81 L	Semi-Furnished	3	Bachelors	Sale
+601	Tripura Properties (Tripura.txt)	4 BHK Apartment	Agartala Nagar	Agartala / Tripura	Apartment / 4 BHK	1438	₹59.73 L	Fully-Furnished	4	Any	Sale
+602	Tripura Properties (Tripura.txt)	2 BHK Builder Floor	Agartala Sector 2	Agartala / Tripura	Builder Floor / 2 BHK	1000	₹8,100/month	Fully-Furnished	1	Family	Rent
+603	Tripura Properties (Tripura.txt)	4 BHK Independent House	Udaipur Sector 2	Udaipur / Tripura	Independent House / 4 BHK	2480	₹15,700/month	Unfurnished	4	Family	Rent
+604	Tripura Properties (Tripura.txt)	3 BHK Apartment	Udaipur Sector 3	Udaipur / Tripura	Apartment / 3 BHK	1224	₹14,700/month	Semi-Furnished	3	Bachelors	Rent
+605	Tripura Properties (Tripura.txt)	4 BHK Apartment	Udaipur Central	Udaipur / Tripura	Apartment / 4 BHK	1620	₹53.01 L	Fully-Furnished	4	Any	Sale
+606	Tripura Properties (Tripura.txt)	2 BHK Builder Floor	Dharmanagar Sector 1	Dharmanagar / Tripura	Builder Floor / 2 BHK	962	₹11,300/month	Unfurnished	3	Any	Rent
+607	Tripura Properties (Tripura.txt)	1 BHK Apartment	Agartala Sector 2	Agartala / Tripura	Apartment / 1 BHK	563	₹27.19 L	Semi-Furnished	1	Family	Sale
+608	Tripura Properties (Tripura.txt)	5 BHK Builder Floor	Agartala Heights	Agartala / Tripura	Builder Floor / 5 BHK	2273	₹73.87 L	Unfurnished	5	Family	Sale
+609	Tripura Properties (Tripura.txt)	3 BHK Independent House	Udaipur Heights	Udaipur / Tripura	Independent House / 3 BHK	951	₹12,600/month	Semi-Furnished	3	Family	Rent
+610	Tripura Properties (Tripura.txt)	2 BHK Villa	Agartala Residential Area	Agartala / Tripura	Villa / 2 BHK	1010	₹11,300/month	Unfurnished	3	Bachelors	Rent
+611	Tripura Properties (Tripura.txt)	2 BHK Apartment	Dharmanagar Sector 2	Dharmanagar / Tripura	Apartment / 2 BHK	844	₹36.60 L	Unfurnished	2	Family	Sale
+612	Tripura Properties (Tripura.txt)	1 BHK Studio	Agartala East	Agartala / Tripura	Studio / 1 BHK	364	₹20.25 L	Semi-Furnished	1	Family	Sale
+613	Tripura Properties (Tripura.txt)	3 BHK Independent House	Agartala East	Agartala / Tripura	Independent House / 3 BHK	1077	₹47.77 L	Semi-Furnished	3	Any	Sale
+614	Tripura Properties (Tripura.txt)	4 BHK Apartment	Udaipur Central	Udaipur / Tripura	Apartment / 4 BHK	1710	₹16,900/month	Unfurnished	3	Any	Rent
+615	Tripura Properties (Tripura.txt)	3 BHK Apartment	Agartala Sector 3	Agartala / Tripura	Apartment / 3 BHK	1024	₹37.65 L	Fully-Furnished	4	Any	Sale
+616	Tripura Properties (Tripura.txt)	1 BHK Studio	Agartala Central	Agartala / Tripura	Studio / 1 BHK	369	₹19.35 L	Semi-Furnished	1	Family	Sale
+617	Tripura Properties (Tripura.txt)	4 BHK Apartment	Udaipur North	Udaipur / Tripura	Apartment / 4 BHK	2219	₹70 L	Unfurnished	4	Family	Sale
+618	Tripura Properties (Tripura.txt)	1 BHK Apartment	Udaipur Town Centre	Udaipur / Tripura	Apartment / 1 BHK	484	₹6,200/month	Fully-Furnished	2	Any	Rent
+619	Tripura Properties (Tripura.txt)	3 BHK Apartment	Agartala South	Agartala / Tripura	Apartment / 3 BHK	1343	₹57.01 L	Unfurnished	2	Bachelors	Sale
+620	Tripura Properties (Tripura.txt)	1 BHK Studio	Dharmanagar Extension	Dharmanagar / Tripura	Studio / 1 BHK	416	₹21.51 L	Semi-Furnished	1	Family	Sale
+621	Tripura Properties (Tripura.txt)	2 BHK Apartment	Dharmanagar Extension	Dharmanagar / Tripura	Apartment / 2 BHK	831	₹38.23 L	Fully-Furnished	2	Any	Sale
+622	Tripura Properties (Tripura.txt)	2 BHK Apartment	Agartala Sector 3	Agartala / Tripura	Apartment / 2 BHK	873	₹40.63 L	Semi-Furnished	2	Family	Sale
+623	Tripura Properties (Tripura.txt)	2 BHK Apartment	Dharmanagar East	Dharmanagar / Tripura	Apartment / 2 BHK	998	₹35.09 L	Semi-Furnished	2	Bachelors	Sale
+624	Tripura Properties (Tripura.txt)	3 BHK Villa	Agartala Main Road	Agartala / Tripura	Villa / 3 BHK	1965	₹58 L	Semi-Furnished	4	Family	Sale
+625	Tripura Properties (Tripura.txt)	3 BHK Independent House	Dharmanagar Sector 3	Dharmanagar / Tripura	Independent House / 3 BHK	1431	₹15,700/month	Semi-Furnished	3	Family	Rent
+626	Tripura Properties (Tripura.txt)	2 BHK Apartment	Dharmanagar North	Dharmanagar / Tripura	Apartment / 2 BHK	1042	₹42.86 L	Fully-Furnished	2	Bachelors	Sale
+627	Tripura Properties (Tripura.txt)	3 BHK Builder Floor	Agartala West	Agartala / Tripura	Builder Floor / 3 BHK	1306	₹55.73 L	Semi-Furnished	3	Family	Sale
+628	Tripura Properties (Tripura.txt)	1 BHK Independent House	Udaipur Town Centre	Udaipur / Tripura	Independent House / 1 BHK	632	₹24.61 L	Semi-Furnished	2	Bachelors	Sale
+629	Tripura Properties (Tripura.txt)	2 BHK Apartment	Agartala Town Centre	Agartala / Tripura	Apartment / 2 BHK	763	₹10,500/month	Semi-Furnished	2	Bachelors	Rent
+630	Tripura Properties (Tripura.txt)	4 BHK Apartment	Udaipur Central	Udaipur / Tripura	Apartment / 4 BHK	1624	₹59.90 L	Semi-Furnished	4	Bachelors	Sale
+631	Tripura Properties (Tripura.txt)	1 BHK Apartment	Dharmanagar Nagar	Dharmanagar / Tripura	Apartment / 1 BHK	516	₹7,400/month	Unfurnished	1	Any	Rent
+632	Tripura Properties (Tripura.txt)	2 BHK Villa	Udaipur South	Udaipur / Tripura	Villa / 2 BHK	1166	₹43.02 L	Semi-Furnished	2	Any	Sale
+633	Tripura Properties (Tripura.txt)	4 BHK Apartment	Udaipur Central	Udaipur / Tripura	Apartment / 4 BHK	1940	₹53.49 L	Fully-Furnished	4	Family	Sale
+634	Tripura Properties (Tripura.txt)	1 BHK Apartment	Dharmanagar Sector 1	Dharmanagar / Tripura	Apartment / 1 BHK	504	₹23.13 L	Semi-Furnished	1	Bachelors	Sale
+635	Tripura Properties (Tripura.txt)	2 BHK Independent House	Agartala Residential Area	Agartala / Tripura	Independent House / 2 BHK	838	₹33.55 L	Semi-Furnished	2	Family	Sale
+636	Tripura Properties (Tripura.txt)	1 BHK Builder Floor	Dharmanagar North	Dharmanagar / Tripura	Builder Floor / 1 BHK	366	₹23.36 L	Fully-Furnished	1	Family	Sale
+637	Tripura Properties (Tripura.txt)	1 BHK Apartment	Agartala West	Agartala / Tripura	Apartment / 1 BHK	530	₹5,600/month	Fully-Furnished	1	Bachelors	Rent
+638	Tripura Properties (Tripura.txt)	2 BHK Apartment	Dharmanagar Sector 1	Dharmanagar / Tripura	Apartment / 2 BHK	1080	₹9,300/month	Semi-Furnished	2	Bachelors	Rent
+639	Tripura Properties (Tripura.txt)	2 BHK Builder Floor	Dharmanagar Sector 3	Dharmanagar / Tripura	Builder Floor / 2 BHK	671	₹7,400/month	Fully-Furnished	3	Bachelors	Rent
+640	Tripura Properties (Tripura.txt)	3 BHK Builder Floor	Udaipur Colony	Udaipur / Tripura	Builder Floor / 3 BHK	1038	₹39.27 L	Unfurnished	3	Any	Sale
+641	Tripura Properties (Tripura.txt)	4 BHK Independent House	Udaipur West	Udaipur / Tripura	Independent House / 4 BHK	2955	₹73.69 L	Semi-Furnished	3	Family	Sale
+642	Tripura Properties (Tripura.txt)	4 BHK Apartment	Dharmanagar West	Dharmanagar / Tripura	Apartment / 4 BHK	2126	₹15,000/month	Unfurnished	4	Family	Rent
+643	Tripura Properties (Tripura.txt)	4 BHK Apartment	Dharmanagar South	Dharmanagar / Tripura	Apartment / 4 BHK	1912	₹16,000/month	Unfurnished	4	Family	Rent
+644	Tripura Properties (Tripura.txt)	3 BHK Builder Floor	Udaipur West	Udaipur / Tripura	Builder Floor / 3 BHK	1157	₹42 L	Semi-Furnished	3	Any	Sale
+645	Tripura Properties (Tripura.txt)	1 BHK Studio	Dharmanagar Extension	Dharmanagar / Tripura	Studio / 1 BHK	300	₹5,000/month	Semi-Furnished	1	Bachelors	Rent
+646	Tripura Properties (Tripura.txt)	4 BHK Apartment	Dharmanagar Colony	Dharmanagar / Tripura	Apartment / 4 BHK	1558	₹65.21 L	Semi-Furnished	4	Family	Sale
+647	Tripura Properties (Tripura.txt)	4 BHK Builder Floor	Agartala Main Road	Agartala / Tripura	Builder Floor / 4 BHK	2066	₹57.47 L	Semi-Furnished	4	Family	Sale
+648	Tripura Properties (Tripura.txt)	2 BHK Independent House	Dharmanagar East	Dharmanagar / Tripura	Independent House / 2 BHK	783	₹8,200/month	Fully-Furnished	2	Bachelors	Rent
+649	Tripura Properties (Tripura.txt)	5 BHK Villa	Dharmanagar Sector 3	Dharmanagar / Tripura	Villa / 5 BHK	3383	₹23,400/month	Fully-Furnished	4	Family	Rent
+650	Tripura Properties (Tripura.txt)	1 BHK Apartment	Dharmanagar West	Dharmanagar / Tripura	Apartment / 1 BHK	473	₹25 L	Unfurnished	1	Bachelors	Sale
+651	Tripura Properties (Tripura.txt)	2 BHK Builder Floor	Dharmanagar South	Dharmanagar / Tripura	Builder Floor / 2 BHK	959	₹8,300/month	Semi-Furnished	2	Family	Rent
+652	Tripura Properties (Tripura.txt)	2 BHK Apartment	Udaipur South	Udaipur / Tripura	Apartment / 2 BHK	889	₹9,500/month	Semi-Furnished	1	Family	Rent
+653	Tripura Properties (Tripura.txt)	4 BHK Villa	Dharmanagar Town Centre	Dharmanagar / Tripura	Villa / 4 BHK	2749	₹23,200/month	Semi-Furnished	3	Bachelors	Rent
+654	Tripura Properties (Tripura.txt)	2 BHK Builder Floor	Agartala Heights	Agartala / Tripura	Builder Floor / 2 BHK	770	₹11,200/month	Fully-Furnished	2	Family	Rent
+655	Tripura Properties (Tripura.txt)	3 BHK Villa	Dharmanagar Sector 3	Dharmanagar / Tripura	Villa / 3 BHK	1839	₹61.45 L	Unfurnished	3	Any	Sale
+656	Tripura Properties (Tripura.txt)	1 BHK Apartment	Dharmanagar Sector 3	Dharmanagar / Tripura	Apartment / 1 BHK	515	₹6,400/month	Unfurnished	1	Any	Rent
+657	Tripura Properties (Tripura.txt)	1 BHK Apartment	Agartala Extension	Agartala / Tripura	Apartment / 1 BHK	692	₹24.43 L	Semi-Furnished	1	Family	Sale
+658	Tripura Properties (Tripura.txt)	2 BHK Builder Floor	Agartala Heights	Agartala / Tripura	Builder Floor / 2 BHK	838	₹35.26 L	Semi-Furnished	2	Family	Sale
+659	Tripura Properties (Tripura.txt)	3 BHK Apartment	Agartala Main Road	Agartala / Tripura	Apartment / 3 BHK	1373	₹13,600/month	Unfurnished	3	Any	Rent
+660	Tripura Properties (Tripura.txt)	3 BHK Builder Floor	Udaipur Town Centre	Udaipur / Tripura	Builder Floor / 3 BHK	1271	₹14,600/month	Semi-Furnished	3	Family	Rent
+661	Tripura Properties (Tripura.txt)	3 BHK Builder Floor	Udaipur West	Udaipur / Tripura	Builder Floor / 3 BHK	965	₹47.51 L	Semi-Furnished	3	Family	Sale
+662	Tripura Properties (Tripura.txt)	2 BHK Apartment	Agartala Town Centre	Agartala / Tripura	Apartment / 2 BHK	742	₹38.37 L	Semi-Furnished	1	Bachelors	Sale
+663	Tripura Properties (Tripura.txt)	2 BHK Apartment	Agartala Heights	Agartala / Tripura	Apartment / 2 BHK	871	₹30.34 L	Unfurnished	2	Any	Sale
+664	Tripura Properties (Tripura.txt)	2 BHK Apartment	Dharmanagar Sector 1	Dharmanagar / Tripura	Apartment / 2 BHK	884	₹42.27 L	Semi-Furnished	2	Family	Sale
+665	Tripura Properties (Tripura.txt)	4 BHK Independent House	Dharmanagar North	Dharmanagar / Tripura	Independent House / 4 BHK	2598	₹71.49 L	Fully-Furnished	4	Bachelors	Sale
+666	Tripura Properties (Tripura.txt)	3 BHK Apartment	Agartala South	Agartala / Tripura	Apartment / 3 BHK	1252	₹51.69 L	Semi-Furnished	3	Family	Sale
+667	Tripura Properties (Tripura.txt)	2 BHK Apartment	Udaipur Sector 2	Udaipur / Tripura	Apartment / 2 BHK	809	₹39.87 L	Unfurnished	1	Bachelors	Sale
+668	Tripura Properties (Tripura.txt)	1 BHK Independent House	Agartala Sector 3	Agartala / Tripura	Independent House / 1 BHK	597	₹7,200/month	Semi-Furnished	1	Bachelors	Rent
+669	Tripura Properties (Tripura.txt)	1 BHK Apartment	Agartala Nagar	Agartala / Tripura	Apartment / 1 BHK	570	₹23.01 L	Unfurnished	1	Family	Sale
+670	Tripura Properties (Tripura.txt)	2 BHK Apartment	Udaipur South	Udaipur / Tripura	Apartment / 2 BHK	1029	₹37.68 L	Semi-Furnished	2	Any	Sale
+671	Tripura Properties (Tripura.txt)	1 BHK Apartment	Udaipur Sector 2	Udaipur / Tripura	Apartment / 1 BHK	528	₹23.25 L	Unfurnished	1	Bachelors	Sale
+672	Tripura Properties (Tripura.txt)	3 BHK Builder Floor	Dharmanagar Main Road	Dharmanagar / Tripura	Builder Floor / 3 BHK	1086	₹43.12 L	Semi-Furnished	3	Family	Sale
+673	Tripura Properties (Tripura.txt)	1 BHK Apartment	Udaipur Nagar	Udaipur / Tripura	Apartment / 1 BHK	493	₹24.37 L	Unfurnished	2	Any	Sale
+674	Tripura Properties (Tripura.txt)	1 BHK Villa	Agartala Residential Area	Agartala / Tripura	Villa / 1 BHK	692	₹7,400/month	Unfurnished	1	Bachelors	Rent
+675	Tripura Properties (Tripura.txt)	4 BHK Apartment	Agartala West	Agartala / Tripura	Apartment / 4 BHK	1870	₹67.89 L	Unfurnished	4	Family	Sale
+676	Tripura Properties (Tripura.txt)	1 BHK Apartment	Agartala Sector 3	Agartala / Tripura	Apartment / 1 BHK	544	₹7,000/month	Semi-Furnished	1	Bachelors	Rent
+677	Tripura Properties (Tripura.txt)	2 BHK Apartment	Dharmanagar Sector 3	Dharmanagar / Tripura	Apartment / 2 BHK	781	₹36.61 L	Fully-Furnished	1	Bachelors	Sale
+678	Tripura Properties (Tripura.txt)	1 BHK Studio	Agartala Heights	Agartala / Tripura	Studio / 1 BHK	357	₹6,000/month	Fully-Furnished	1	Bachelors	Rent
+679	Tripura Properties (Tripura.txt)	2 BHK Builder Floor	Udaipur Town Centre	Udaipur / Tripura	Builder Floor / 2 BHK	848	₹36.62 L	Unfurnished	1	Family	Sale
+680	Tripura Properties (Tripura.txt)	2 BHK Builder Floor	Agartala Sector 1	Agartala / Tripura	Builder Floor / 2 BHK	940	₹11,700/month	Fully-Furnished	2	Any	Rent
+681	Tripura Properties (Tripura.txt)	3 BHK Apartment	Agartala Heights	Agartala / Tripura	Apartment / 3 BHK	1399	₹47.60 L	Unfurnished	2	Bachelors	Sale
+682	Tripura Properties (Tripura.txt)	3 BHK Apartment	Dharmanagar Nagar	Dharmanagar / Tripura	Apartment / 3 BHK	1143	₹14,300/month	Fully-Furnished	3	Bachelors	Rent
+683	Tripura Properties (Tripura.txt)	1 BHK Independent House	Dharmanagar Central	Dharmanagar / Tripura	Independent House / 1 BHK	598	₹6,300/month	Fully-Furnished	1	Bachelors	Rent
+684	Tripura Properties (Tripura.txt)	4 BHK Apartment	Udaipur South	Udaipur / Tripura	Apartment / 4 BHK	1174	₹65.53 L	Fully-Furnished	4	Bachelors	Sale
+685	Tripura Properties (Tripura.txt)	3 BHK Builder Floor	Dharmanagar Sector 1	Dharmanagar / Tripura	Builder Floor / 3 BHK	1029	₹13,800/month	Semi-Furnished	4	Any	Rent
+686	Tripura Properties (Tripura.txt)	1 BHK Apartment	Agartala West	Agartala / Tripura	Apartment / 1 BHK	726	₹7,400/month	Semi-Furnished	1	Any	Rent
+687	Tripura Properties (Tripura.txt)	4 BHK Apartment	Agartala Residential Area	Agartala / Tripura	Apartment / 4 BHK	1484	₹15,300/month	Unfurnished	4	Family	Rent
+688	Tripura Properties (Tripura.txt)	3 BHK Builder Floor	Udaipur Sector 1	Udaipur / Tripura	Builder Floor / 3 BHK	1391	₹16,100/month	Unfurnished	3	Family	Rent
+689	Tripura Properties (Tripura.txt)	1 BHK Builder Floor	Dharmanagar West	Dharmanagar / Tripura	Builder Floor / 1 BHK	641	₹27.60 L	Semi-Furnished	2	Any	Sale
+690	Tripura Properties (Tripura.txt)	1 BHK Apartment	Udaipur Colony	Udaipur / Tripura	Apartment / 1 BHK	504	₹21.20 L	Semi-Furnished	1	Any	Sale
+691	Tripura Properties (Tripura.txt)	1 BHK Villa	Udaipur Sector 1	Udaipur / Tripura	Villa / 1 BHK	715	₹6,800/month	Unfurnished	1	Any	Rent
+692	Tripura Properties (Tripura.txt)	1 BHK Studio	Agartala Sector 3	Agartala / Tripura	Studio / 1 BHK	409	₹5,600/month	Unfurnished	1	Family	Rent
+693	Tripura Properties (Tripura.txt)	3 BHK Apartment	Dharmanagar East	Dharmanagar / Tripura	Apartment / 3 BHK	852	₹40.76 L	Semi-Furnished	3	Family	Sale
+694	Tripura Properties (Tripura.txt)	3 BHK Builder Floor	Udaipur Extension	Udaipur / Tripura	Builder Floor / 3 BHK	1335	₹15,700/month	Semi-Furnished	2	Family	Rent
+695	Tripura Properties (Tripura.txt)	2 BHK Builder Floor	Dharmanagar Sector 1	Dharmanagar / Tripura	Builder Floor / 2 BHK	712	₹30.42 L	Fully-Furnished	3	Family	Sale
+696	Tripura Properties (Tripura.txt)	1 BHK Apartment	Dharmanagar East	Dharmanagar / Tripura	Apartment / 1 BHK	670	₹7,000/month	Fully-Furnished	2	Bachelors	Rent
+697	Tripura Properties (Tripura.txt)	3 BHK Apartment	Udaipur Residential Area	Udaipur / Tripura	Apartment / 3 BHK	1089	₹15,200/month	Unfurnished	3	Any	Rent
+698	Tripura Properties (Tripura.txt)	3 BHK Apartment	Dharmanagar Central	Dharmanagar / Tripura	Apartment / 3 BHK	1125	₹46.24 L	Fully-Furnished	4	Any	Sale
+699	Tripura Properties (Tripura.txt)	3 BHK Apartment	Udaipur West	Udaipur / Tripura	Apartment / 3 BHK	1126	₹11,200/month	Semi-Furnished	3	Bachelors	Rent
+700	Tripura Properties (Tripura.txt)	2 BHK Builder Floor	Agartala Main Road	Agartala / Tripura	Builder Floor / 2 BHK	815	₹28.96 L	Semi-Furnished	2	Bachelors	Sale
+701	Tripura Properties (Tripura.txt)	2 BHK Builder Floor	Udaipur Colony	Udaipur / Tripura	Builder Floor / 2 BHK	866	₹36.52 L	Unfurnished	2	Family	Sale
+702	Tripura Properties (Tripura.txt)	4 BHK Apartment	Dharmanagar Sector 3	Dharmanagar / Tripura	Apartment / 4 BHK	2395	₹74 L	Semi-Furnished	5	Bachelors	Sale
+703	Tripura Properties (Tripura.txt)	3 BHK Apartment	Udaipur Sector 3	Udaipur / Tripura	Apartment / 3 BHK	1629	₹14,500/month	Semi-Furnished	3	Any	Rent
+704	Tripura Properties (Tripura.txt)	3 BHK Apartment	Udaipur East	Udaipur / Tripura	Apartment / 3 BHK	1331	₹45.25 L	Unfurnished	4	Any	Sale
+705	Tripura Properties (Tripura.txt)	2 BHK Builder Floor	Agartala Main Road	Agartala / Tripura	Builder Floor / 2 BHK	760	₹9,000/month	Semi-Furnished	3	Family	Rent
+706	Tripura Properties (Tripura.txt)	3 BHK Independent House	Agartala Extension	Agartala / Tripura	Independent House / 3 BHK	1520	₹45.32 L	Semi-Furnished	2	Bachelors	Sale
+707	Tripura Properties (Tripura.txt)	3 BHK Apartment	Agartala Residential Area	Agartala / Tripura	Apartment / 3 BHK	1512	₹51.39 L	Semi-Furnished	2	Any	Sale
+708	Tripura Properties (Tripura.txt)	4 BHK Builder Floor	Dharmanagar Main Road	Dharmanagar / Tripura	Builder Floor / 4 BHK	1887	₹63.32 L	Semi-Furnished	4	Bachelors	Sale
+709	Tripura Properties (Tripura.txt)	1 BHK Studio	Dharmanagar Extension	Dharmanagar / Tripura	Studio / 1 BHK	444	₹6,700/month	Unfurnished	1	Bachelors	Rent
+710	Tripura Properties (Tripura.txt)	1 BHK Independent House	Dharmanagar Town Centre	Dharmanagar / Tripura	Independent House / 1 BHK	557	₹5,700/month	Semi-Furnished	2	Family	Rent
+711	Tripura Properties (Tripura.txt)	1 BHK Studio	Agartala South	Agartala / Tripura	Studio / 1 BHK	345	₹5,200/month	Fully-Furnished	1	Family	Rent
+712	Tripura Properties (Tripura.txt)	4 BHK Apartment	Udaipur Heights	Udaipur / Tripura	Apartment / 4 BHK	1770	₹74.49 L	Semi-Furnished	5	Bachelors	Sale
+713	Tripura Properties (Tripura.txt)	2 BHK Apartment	Dharmanagar Main Road	Dharmanagar / Tripura	Apartment / 2 BHK	930	₹36.24 L	Semi-Furnished	2	Bachelors	Sale
+714	Tripura Properties (Tripura.txt)	5 BHK Independent House	Udaipur Sector 2	Udaipur / Tripura	Independent House / 5 BHK	2649	₹74.21 L	Unfurnished	5	Bachelors	Sale
+715	Tripura Properties (Tripura.txt)	3 BHK Builder Floor	Dharmanagar Extension	Dharmanagar / Tripura	Builder Floor / 3 BHK	1343	₹51.98 L	Unfurnished	3	Bachelors	Sale
+716	Tripura Properties (Tripura.txt)	2 BHK Villa	Dharmanagar South	Dharmanagar / Tripura	Villa / 2 BHK	1042	₹37.87 L	Semi-Furnished	2	Family	Sale
+717	Tripura Properties (Tripura.txt)	3 BHK Apartment	Agartala North	Agartala / Tripura	Apartment / 3 BHK	1172	₹13,200/month	Unfurnished	4	Family	Rent
+718	Tripura Properties (Tripura.txt)	3 BHK Apartment	Agartala West	Agartala / Tripura	Apartment / 3 BHK	1243	₹44.09 L	Semi-Furnished	2	Family	Sale
+719	Tripura Properties (Tripura.txt)	2 BHK Independent House	Udaipur East	Udaipur / Tripura	Independent House / 2 BHK	1248	₹33.52 L	Fully-Furnished	2	Family	Sale
+720	Tripura Properties (Tripura.txt)	3 BHK Apartment	Udaipur Colony	Udaipur / Tripura	Apartment / 3 BHK	1317	₹43.22 L	Fully-Furnished	3	Any	Sale
+721	Tripura Properties (Tripura.txt)	2 BHK Apartment	Udaipur North	Udaipur / Tripura	Apartment / 2 BHK	883	₹37.66 L	Fully-Furnished	1	Family	Sale
+722	Tripura Properties (Tripura.txt)	2 BHK Apartment	Dharmanagar West	Dharmanagar / Tripura	Apartment / 2 BHK	843	₹9,100/month	Semi-Furnished	2	Family	Rent
+723	Tripura Properties (Tripura.txt)	3 BHK Independent House	Udaipur East	Udaipur / Tripura	Independent House / 3 BHK	1060	₹13,000/month	Semi-Furnished	3	Any	Rent
+724	Tripura Properties (Tripura.txt)	5 BHK Apartment	Udaipur East	Udaipur / Tripura	Apartment / 5 BHK	2121	₹19,900/month	Semi-Furnished	5	Family	Rent
+725	Tripura Properties (Tripura.txt)	2 BHK Independent House	Agartala Town Centre	Agartala / Tripura	Independent House / 2 BHK	846	₹41.85 L	Fully-Furnished	1	Any	Sale
+726	Tripura Properties (Tripura.txt)	3 BHK Independent House	Dharmanagar Nagar	Dharmanagar / Tripura	Independent House / 3 BHK	1463	₹40.97 L	Unfurnished	3	Bachelors	Sale
+727	Tripura Properties (Tripura.txt)	2 BHK Builder Floor	Agartala Central	Agartala / Tripura	Builder Floor / 2 BHK	749	₹8,000/month	Fully-Furnished	2	Bachelors	Rent
+728	Tripura Properties (Tripura.txt)	2 BHK Villa	Dharmanagar Main Road	Dharmanagar / Tripura	Villa / 2 BHK	1461	₹10,800/month	Semi-Furnished	2	Any	Rent
+729	Tripura Properties (Tripura.txt)	2 BHK Apartment	Dharmanagar Sector 1	Dharmanagar / Tripura	Apartment / 2 BHK	994	₹8,900/month	Semi-Furnished	2	Family	Rent
+730	Tripura Properties (Tripura.txt)	3 BHK Apartment	Agartala Sector 3	Agartala / Tripura	Apartment / 3 BHK	767	₹10,900/month	Semi-Furnished	4	Family	Rent
+731	Tripura Properties (Tripura.txt)	2 BHK Apartment	Agartala Town Centre	Agartala / Tripura	Apartment / 2 BHK	589	₹33.40 L	Unfurnished	2	Bachelors	Sale
+732	Tripura Properties (Tripura.txt)	1 BHK Apartment	Agartala East	Agartala / Tripura	Apartment / 1 BHK	643	₹6,000/month	Semi-Furnished	1	Any	Rent
+733	Tripura Properties (Tripura.txt)	3 BHK Independent House	Udaipur Sector 3	Udaipur / Tripura	Independent House / 3 BHK	1759	₹48.78 L	Semi-Furnished	4	Bachelors	Sale
+734	Tripura Properties (Tripura.txt)	2 BHK Independent House	Udaipur Extension	Udaipur / Tripura	Independent House / 2 BHK	817	₹8,400/month	Unfurnished	1	Bachelors	Rent
+735	Tripura Properties (Tripura.txt)	5 BHK Independent House	Udaipur Residential Area	Udaipur / Tripura	Independent House / 5 BHK	3016	₹96.95 L	Fully-Furnished	4	Bachelors	Sale
+736	Tripura Properties (Tripura.txt)	2 BHK Apartment	Agartala Central	Agartala / Tripura	Apartment / 2 BHK	1097	₹33.89 L	Fully-Furnished	3	Bachelors	Sale
+737	Tripura Properties (Tripura.txt)	5 BHK Villa	Udaipur Main Road	Udaipur / Tripura	Villa / 5 BHK	3526	₹79.01 L	Fully-Furnished	4	Bachelors	Sale
+738	Tripura Properties (Tripura.txt)	3 BHK Apartment	Dharmanagar Town Centre	Dharmanagar / Tripura	Apartment / 3 BHK	1251	₹54.85 L	Semi-Furnished	3	Any	Sale
+739	Tripura Properties (Tripura.txt)	3 BHK Apartment	Dharmanagar Colony	Dharmanagar / Tripura	Apartment / 3 BHK	1101	₹12,700/month	Unfurnished	3	Family	Rent
+740	Tripura Properties (Tripura.txt)	2 BHK Apartment	Dharmanagar Sector 2	Dharmanagar / Tripura	Apartment / 2 BHK	779	₹29.19 L	Semi-Furnished	2	Family	Sale
+741	Tripura Properties (Tripura.txt)	1 BHK Apartment	Udaipur West	Udaipur / Tripura	Apartment / 1 BHK	467	₹7,200/month	Unfurnished	2	Family	Rent
+742	Tripura Properties (Tripura.txt)	3 BHK Apartment	Dharmanagar North	Dharmanagar / Tripura	Apartment / 3 BHK	1290	₹12,100/month	Unfurnished	3	Family	Rent
+743	Tripura Properties (Tripura.txt)	1 BHK Independent House	Agartala East	Agartala / Tripura	Independent House / 1 BHK	651	₹20.83 L	Fully-Furnished	1	Family	Sale
+744	Tripura Properties (Tripura.txt)	2 BHK Apartment	Agartala East	Agartala / Tripura	Apartment / 2 BHK	976	₹9,900/month	Semi-Furnished	2	Family	Rent
+745	Tripura Properties (Tripura.txt)	4 BHK Apartment	Agartala East	Agartala / Tripura	Apartment / 4 BHK	1604	₹66.95 L	Semi-Furnished	5	Bachelors	Sale
+746	Tripura Properties (Tripura.txt)	2 BHK Builder Floor	Udaipur Residential Area	Udaipur / Tripura	Builder Floor / 2 BHK	713	₹29.25 L	Fully-Furnished	2	Family	Sale
+747	Tripura Properties (Tripura.txt)	1 BHK Studio	Agartala Sector 2	Agartala / Tripura	Studio / 1 BHK	345	₹19.33 L	Fully-Furnished	1	Family	Sale
+748	Tripura Properties (Tripura.txt)	1 BHK Villa	Agartala Sector 3	Agartala / Tripura	Villa / 1 BHK	777	₹22.42 L	Fully-Furnished	1	Any	Sale
+749	Tripura Properties (Tripura.txt)	3 BHK Apartment	Dharmanagar Nagar	Dharmanagar / Tripura	Apartment / 3 BHK	1267	₹15,500/month	Unfurnished	3	Family	Rent
+750	Tripura Properties (Tripura.txt)	5 BHK Apartment	Agartala Main Road	Agartala / Tripura	Apartment / 5 BHK	2063	₹83.68 L	Fully-Furnished	5	Family	Sale
+751	Tripura Properties (Tripura.txt)	3 BHK Builder Floor	Udaipur Extension	Udaipur / Tripura	Builder Floor / 3 BHK	1398	₹12,500/month	Unfurnished	4	Bachelors	Rent
+752	Tripura Properties (Tripura.txt)	3 BHK Apartment	Udaipur Sector 3	Udaipur / Tripura	Apartment / 3 BHK	1567	₹55.91 L	Semi-Furnished	3	Any	Sale
+753	Tripura Properties (Tripura.txt)	4 BHK Apartment	Agartala Sector 3	Agartala / Tripura	Apartment / 4 BHK	1769	₹15,900/month	Fully-Furnished	4	Family	Rent
+754	Tripura Properties (Tripura.txt)	2 BHK Independent House	Agartala South	Agartala / Tripura	Independent House / 2 BHK	1185	₹34.77 L	Unfurnished	2	Bachelors	Sale
+755	Tripura Properties (Tripura.txt)	2 BHK Independent House	Agartala Colony	Agartala / Tripura	Independent House / 2 BHK	701	₹34.02 L	Semi-Furnished	2	Bachelors	Sale
+756	Tripura Properties (Tripura.txt)	3 BHK Apartment	Dharmanagar Sector 3	Dharmanagar / Tripura	Apartment / 3 BHK	1332	₹57.15 L	Fully-Furnished	3	Bachelors	Sale
+757	Tripura Properties (Tripura.txt)	2 BHK Apartment	Agartala Central	Agartala / Tripura	Apartment / 2 BHK	956	₹41.78 L	Semi-Furnished	2	Any	Sale
+758	Tripura Properties (Tripura.txt)	2 BHK Independent House	Dharmanagar West	Dharmanagar / Tripura	Independent House / 2 BHK	848	₹30.49 L	Semi-Furnished	2	Bachelors	Sale
+759	Tripura Properties (Tripura.txt)	4 BHK Apartment	Udaipur Sector 3	Udaipur / Tripura	Apartment / 4 BHK	1259	₹61.97 L	Semi-Furnished	4	Family	Sale
+760	Tripura Properties (Tripura.txt)	2 BHK Builder Floor	Agartala Sector 3	Agartala / Tripura	Builder Floor / 2 BHK	942	₹29.78 L	Unfurnished	1	Family	Sale
+761	Tripura Properties (Tripura.txt)	3 BHK Builder Floor	Agartala Sector 1	Agartala / Tripura	Builder Floor / 3 BHK	1287	₹14,000/month	Semi-Furnished	3	Bachelors	Rent
+762	Tripura Properties (Tripura.txt)	2 BHK Apartment	Agartala East	Agartala / Tripura	Apartment / 2 BHK	785	₹10,800/month	Unfurnished	2	Family	Rent
+763	Tripura Properties (Tripura.txt)	4 BHK Villa	Udaipur Extension	Udaipur / Tripura	Villa / 4 BHK	1958	₹15,000/month	Semi-Furnished	3	Family	Rent
+764	Tripura Properties (Tripura.txt)	4 BHK Builder Floor	Agartala Main Road	Agartala / Tripura	Builder Floor / 4 BHK	1920	₹70.12 L	Fully-Furnished	4	Bachelors	Sale
+765	Tripura Properties (Tripura.txt)	1 BHK Studio	Agartala Main Road	Agartala / Tripura	Studio / 1 BHK	384	₹20.35 L	Semi-Furnished	1	Bachelors	Sale
+766	Tripura Properties (Tripura.txt)	1 BHK Apartment	Udaipur Heights	Udaipur / Tripura	Apartment / 1 BHK	610	₹19.84 L	Semi-Furnished	2	Family	Sale
+767	Tripura Properties (Tripura.txt)	2 BHK Apartment	Agartala South	Agartala / Tripura	Apartment / 2 BHK	930	₹11,000/month	Semi-Furnished	1	Any	Rent
+768	Tripura Properties (Tripura.txt)	2 BHK Apartment	Dharmanagar Residential Area	Dharmanagar / Tripura	Apartment / 2 BHK	846	₹38.18 L	Semi-Furnished	3	Any	Sale
+769	Tripura Properties (Tripura.txt)	1 BHK Villa	Agartala Sector 3	Agartala / Tripura	Villa / 1 BHK	710	₹7,900/month	Unfurnished	1	Family	Rent
+770	Tripura Properties (Tripura.txt)	1 BHK Builder Floor	Dharmanagar West	Dharmanagar / Tripura	Builder Floor / 1 BHK	530	₹18.51 L	Fully-Furnished	1	Family	Sale
+771	Tripura Properties (Tripura.txt)	4 BHK Villa	Agartala East	Agartala / Tripura	Villa / 4 BHK	2763	₹83.97 L	Semi-Furnished	4	Bachelors	Sale
+772	Tripura Properties (Tripura.txt)	5 BHK Apartment	Agartala Heights	Agartala / Tripura	Apartment / 5 BHK	2144	₹22,700/month	Fully-Furnished	5	Any	Rent
+773	Tripura Properties (Tripura.txt)	3 BHK Builder Floor	Udaipur Main Road	Udaipur / Tripura	Builder Floor / 3 BHK	1381	₹40.29 L	Semi-Furnished	2	Family	Sale
+774	Tripura Properties (Tripura.txt)	2 BHK Apartment	Udaipur East	Udaipur / Tripura	Apartment / 2 BHK	800	₹32.49 L	Semi-Furnished	2	Any	Sale
+775	Tripura Properties (Tripura.txt)	2 BHK Apartment	Udaipur Central	Udaipur / Tripura	Apartment / 2 BHK	960	₹41.57 L	Semi-Furnished	2	Any	Sale
+776	Tripura Properties (Tripura.txt)	2 BHK Apartment	Dharmanagar Sector 3	Dharmanagar / Tripura	Apartment / 2 BHK	1122	₹10,200/month	Semi-Furnished	1	Bachelors	Rent
+777	Tripura Properties (Tripura.txt)	3 BHK Builder Floor	Agartala Sector 2	Agartala / Tripura	Builder Floor / 3 BHK	1165	₹49.67 L	Unfurnished	3	Family	Sale
+778	Tripura Properties (Tripura.txt)	2 BHK Apartment	Udaipur Sector 1	Udaipur / Tripura	Apartment / 2 BHK	1242	₹44.90 L	Fully-Furnished	2	Family	Sale
+779	Tripura Properties (Tripura.txt)	3 BHK Apartment	Udaipur East	Udaipur / Tripura	Apartment / 3 BHK	1079	₹39.58 L	Fully-Furnished	3	Any	Sale
+780	Tripura Properties (Tripura.txt)	3 BHK Independent House	Udaipur South	Udaipur / Tripura	Independent House / 3 BHK	1505	₹13,500/month	Semi-Furnished	4	Family	Rent
+781	Tripura Properties (Tripura.txt)	2 BHK Apartment	Agartala Colony	Agartala / Tripura	Apartment / 2 BHK	699	₹39.35 L	Fully-Furnished	3	Family	Sale
+782	Tripura Properties (Tripura.txt)	2 BHK Apartment	Agartala South	Agartala / Tripura	Apartment / 2 BHK	868	₹39.02 L	Semi-Furnished	2	Bachelors	Sale
+783	Tripura Properties (Tripura.txt)	2 BHK Apartment	Agartala Main Road	Agartala / Tripura	Apartment / 2 BHK	1022	₹31.64 L	Unfurnished	2	Family	Sale
+784	Tripura Properties (Tripura.txt)	1 BHK Independent House	Udaipur Heights	Udaipur / Tripura	Independent House / 1 BHK	639	₹24.71 L	Semi-Furnished	1	Any	Sale
+785	Tripura Properties (Tripura.txt)	2 BHK Apartment	Udaipur Heights	Udaipur / Tripura	Apartment / 2 BHK	754	₹9,600/month	Unfurnished	3	Bachelors	Rent
+786	Tripura Properties (Tripura.txt)	1 BHK Studio	Dharmanagar Sector 3	Dharmanagar / Tripura	Studio / 1 BHK	510	₹22.38 L	Unfurnished	1	Family	Sale
+787	Tripura Properties (Tripura.txt)	5 BHK Apartment	Udaipur Nagar	Udaipur / Tripura	Apartment / 5 BHK	2586	₹20,700/month	Unfurnished	4	Family	Rent
+788	Tripura Properties (Tripura.txt)	3 BHK Apartment	Dharmanagar Extension	Dharmanagar / Tripura	Apartment / 3 BHK	1257	₹40.46 L	Unfurnished	2	Family	Sale
+789	Tripura Properties (Tripura.txt)	1 BHK Studio	Udaipur Extension	Udaipur / Tripura	Studio / 1 BHK	451	₹23.56 L	Fully-Furnished	1	Family	Sale
+790	Tripura Properties (Tripura.txt)	1 BHK Independent House	Agartala Town Centre	Agartala / Tripura	Independent House / 1 BHK	645	₹7,300/month	Semi-Furnished	1	Any	Rent
+791	Tripura Properties (Tripura.txt)	2 BHK Builder Floor	Dharmanagar Residential Area	Dharmanagar / Tripura	Builder Floor / 2 BHK	772	₹32.11 L	Unfurnished	3	Family	Sale
+792	Tripura Properties (Tripura.txt)	4 BHK Apartment	Agartala Sector 1	Agartala / Tripura	Apartment / 4 BHK	1624	₹15,300/month	Fully-Furnished	3	Bachelors	Rent
+793	Tripura Properties (Tripura.txt)	1 BHK Apartment	Agartala Central	Agartala / Tripura	Apartment / 1 BHK	491	₹23.30 L	Unfurnished	2	Family	Sale
+794	Tripura Properties (Tripura.txt)	2 BHK Apartment	Agartala Main Road	Agartala / Tripura	Apartment / 2 BHK	960	₹31.05 L	Semi-Furnished	2	Any	Sale
+795	Tripura Properties (Tripura.txt)	3 BHK Apartment	Dharmanagar West	Dharmanagar / Tripura	Apartment / 3 BHK	1377	₹15,100/month	Semi-Furnished	2	Any	Rent
+796	Tripura Properties (Tripura.txt)	5 BHK Apartment	Dharmanagar Residential Area	Dharmanagar / Tripura	Apartment / 5 BHK	2444	₹77.33 L	Semi-Furnished	5	Family	Sale
+797	Tripura Properties (Tripura.txt)	2 BHK Apartment	Udaipur Central	Udaipur / Tripura	Apartment / 2 BHK	862	₹37.42 L	Semi-Furnished	2	Family	Sale
+798	Tripura Properties (Tripura.txt)	2 BHK Apartment	Udaipur North	Udaipur / Tripura	Apartment / 2 BHK	659	₹37.04 L	Unfurnished	2	Family	Sale
+799	Tripura Properties (Tripura.txt)	2 BHK Apartment	Agartala Heights	Agartala / Tripura	Apartment / 2 BHK	661	₹27.96 L	Unfurnished	2	Bachelors	Sale
+800	Tripura Properties (Tripura.txt)	2 BHK Apartment	Dharmanagar Extension	Dharmanagar / Tripura	Apartment / 2 BHK	1027	₹10,600/month	Semi-Furnished	3	Bachelors	Rent
+801	Tripura Properties (Tripura.txt)	3 BHK Apartment	Agartala Extension	Agartala / Tripura	Apartment / 3 BHK	1352	₹11,400/month	Unfurnished	4	Bachelors	Rent
+802	Tripura Properties (Tripura.txt)	1 BHK Apartment	Agartala Residential Area	Agartala / Tripura	Apartment / 1 BHK	556	₹18.55 L	Semi-Furnished	1	Bachelors	Sale
+803	Tripura Properties (Tripura.txt)	3 BHK Builder Floor	Dharmanagar Sector 3	Dharmanagar / Tripura	Builder Floor / 3 BHK	1268	₹43.82 L	Unfurnished	3	Bachelors	Sale
+804	Tripura Properties (Tripura.txt)	5 BHK Independent House	Dharmanagar Extension	Dharmanagar / Tripura	Independent House / 5 BHK	2457	₹63.64 L	Semi-Furnished	6	Family	Sale
+805	Tripura Properties (Tripura.txt)	2 BHK Apartment	Dharmanagar West	Dharmanagar / Tripura	Apartment / 2 BHK	672	₹8,900/month	Fully-Furnished	2	Bachelors	Rent
+806	Tripura Properties (Tripura.txt)	1 BHK Apartment	Udaipur West	Udaipur / Tripura	Apartment / 1 BHK	508	₹20.96 L	Unfurnished	2	Any	Sale
+807	Tripura Properties (Tripura.txt)	2 BHK Villa	Agartala West	Agartala / Tripura	Villa / 2 BHK	1193	₹8,900/month	Semi-Furnished	2	Family	Rent
+808	Tripura Properties (Tripura.txt)	3 BHK Apartment	Udaipur Sector 1	Udaipur / Tripura	Apartment / 3 BHK	1455	₹12,600/month	Fully-Furnished	4	Bachelors	Rent
+809	Tripura Properties (Tripura.txt)	3 BHK Builder Floor	Agartala North	Agartala / Tripura	Builder Floor / 3 BHK	906	₹11,200/month	Unfurnished	3	Family	Rent
+810	Tripura Properties (Tripura.txt)	3 BHK Apartment	Dharmanagar Town Centre	Dharmanagar / Tripura	Apartment / 3 BHK	1266	₹10,800/month	Semi-Furnished	3	Family	Rent
+811	Tripura Properties (Tripura.txt)	3 BHK Independent House	Udaipur Nagar	Udaipur / Tripura	Independent House / 3 BHK	1731	₹14,800/month	Semi-Furnished	2	Family	Rent
+812	Tripura Properties (Tripura.txt)	3 BHK Independent House	Agartala Colony	Agartala / Tripura	Independent House / 3 BHK	1295	₹44.08 L	Fully-Furnished	3	Any	Sale
+813	Tripura Properties (Tripura.txt)	3 BHK Apartment	Dharmanagar Nagar	Dharmanagar / Tripura	Apartment / 3 BHK	1602	₹56.44 L	Unfurnished	3	Any	Sale
+814	Tripura Properties (Tripura.txt)	2 BHK Apartment	Agartala Main Road	Agartala / Tripura	Apartment / 2 BHK	893	₹11,000/month	Fully-Furnished	2	Any	Rent
+815	Tripura Properties (Tripura.txt)	1 BHK Apartment	Dharmanagar Colony	Dharmanagar / Tripura	Apartment / 1 BHK	556	₹26.81 L	Semi-Furnished	1	Bachelors	Sale
+816	Tripura Properties (Tripura.txt)	4 BHK Apartment	Dharmanagar Sector 3	Dharmanagar / Tripura	Apartment / 4 BHK	1993	₹65.62 L	Unfurnished	4	Any	Sale
+817	Tripura Properties (Tripura.txt)	3 BHK Apartment	Udaipur Sector 1	Udaipur / Tripura	Apartment / 3 BHK	1192	₹55.52 L	Semi-Furnished	3	Bachelors	Sale
+818	Tripura Properties (Tripura.txt)	1 BHK Apartment	Udaipur Residential Area	Udaipur / Tripura	Apartment / 1 BHK	540	₹20.73 L	Semi-Furnished	2	Bachelors	Sale
+819	Tripura Properties (Tripura.txt)	2 BHK Builder Floor	Udaipur Town Centre	Udaipur / Tripura	Builder Floor / 2 BHK	851	₹8,100/month	Semi-Furnished	3	Family	Rent
+820	Tripura Properties (Tripura.txt)	2 BHK Apartment	Dharmanagar West	Dharmanagar / Tripura	Apartment / 2 BHK	695	₹8,000/month	Unfurnished	2	Any	Rent
+821	Tripura Properties (Tripura.txt)	4 BHK Apartment	Agartala South	Agartala / Tripura	Apartment / 4 BHK	1813	₹71.27 L	Semi-Furnished	4	Family	Sale
+822	Tripura Properties (Tripura.txt)	4 BHK Apartment	Udaipur West	Udaipur / Tripura	Apartment / 4 BHK	1752	₹74.26 L	Semi-Furnished	4	Any	Sale
+823	Tripura Properties (Tripura.txt)	2 BHK Apartment	Agartala Residential Area	Agartala / Tripura	Apartment / 2 BHK	895	₹11,000/month	Unfurnished	2	Family	Rent
+824	Tripura Properties (Tripura.txt)	2 BHK Apartment	Agartala Sector 2	Agartala / Tripura	Apartment / 2 BHK	800	₹31.40 L	Fully-Furnished	2	Any	Sale
+825	Tripura Properties (Tripura.txt)	3 BHK Independent House	Udaipur Colony	Udaipur / Tripura	Independent House / 3 BHK	1546	₹56.74 L	Unfurnished	2	Family	Sale
+826	Tripura Properties (Tripura.txt)	3 BHK Apartment	Dharmanagar Residential Area	Dharmanagar / Tripura	Apartment / 3 BHK	1015	₹10,500/month	Semi-Furnished	3	Bachelors	Rent
+827	Tripura Properties (Tripura.txt)	1 BHK Apartment	Dharmanagar Residential Area	Dharmanagar / Tripura	Apartment / 1 BHK	529	₹6,900/month	Semi-Furnished	1	Bachelors	Rent
+828	Tripura Properties (Tripura.txt)	3 BHK Builder Floor	Dharmanagar Central	Dharmanagar / Tripura	Builder Floor / 3 BHK	836	₹46.97 L	Fully-Furnished	2	Bachelors	Sale
+829	Tripura Properties (Tripura.txt)	3 BHK Independent House	Dharmanagar West	Dharmanagar / Tripura	Independent House / 3 BHK	1369	₹53.54 L	Unfurnished	3	Any	Sale
+830	Tripura Properties (Tripura.txt)	2 BHK Apartment	Udaipur Sector 1	Udaipur / Tripura	Apartment / 2 BHK	776	₹7,700/month	Fully-Furnished	2	Family	Rent
+831	Tripura Properties (Tripura.txt)	2 BHK Villa	Udaipur East	Udaipur / Tripura	Villa / 2 BHK	1081	₹9,500/month	Semi-Furnished	2	Family	Rent
+832	Tripura Properties (Tripura.txt)	2 BHK Independent House	Agartala Town Centre	Agartala / Tripura	Independent House / 2 BHK	1082	₹34.88 L	Semi-Furnished	2	Bachelors	Sale
+833	Tripura Properties (Tripura.txt)	2 BHK Independent House	Udaipur Nagar	Udaipur / Tripura	Independent House / 2 BHK	902	₹9,100/month	Unfurnished	1	Family	Rent
+834	Tripura Properties (Tripura.txt)	2 BHK Apartment	Udaipur Central	Udaipur / Tripura	Apartment / 2 BHK	874	₹31.54 L	Fully-Furnished	2	Family	Sale
+835	Tripura Properties (Tripura.txt)	3 BHK Builder Floor	Dharmanagar Sector 2	Dharmanagar / Tripura	Builder Floor / 3 BHK	1362	₹12,900/month	Semi-Furnished	3	Any	Rent
+836	Tripura Properties (Tripura.txt)	4 BHK Apartment	Udaipur Town Centre	Udaipur / Tripura	Apartment / 4 BHK	1527	₹14,000/month	Semi-Furnished	5	Any	Rent
+837	Tripura Properties (Tripura.txt)	3 BHK Apartment	Dharmanagar Heights	Dharmanagar / Tripura	Apartment / 3 BHK	1091	₹11,300/month	Semi-Furnished	3	Any	Rent
+838	Tripura Properties (Tripura.txt)	1 BHK Independent House	Dharmanagar Sector 3	Dharmanagar / Tripura	Independent House / 1 BHK	502	₹6,000/month	Fully-Furnished	1	Family	Rent
+839	Tripura Properties (Tripura.txt)	2 BHK Apartment	Agartala East	Agartala / Tripura	Apartment / 2 BHK	819	₹34.94 L	Fully-Furnished	2	Bachelors	Sale
+840	Tripura Properties (Tripura.txt)	2 BHK Apartment	Agartala South	Agartala / Tripura	Apartment / 2 BHK	882	₹10,100/month	Semi-Furnished	1	Family	Rent
+841	Tripura Properties (Tripura.txt)	3 BHK Apartment	Udaipur West	Udaipur / Tripura	Apartment / 3 BHK	1130	₹11,800/month	Fully-Furnished	3	Family	Rent
+842	Tripura Properties (Tripura.txt)	2 BHK Villa	Agartala Colony	Agartala / Tripura	Villa / 2 BHK	1105	₹11,500/month	Fully-Furnished	1	Family	Rent
+843	Tripura Properties (Tripura.txt)	2 BHK Villa	Dharmanagar Heights	Dharmanagar / Tripura	Villa / 2 BHK	1227	₹34.89 L	Unfurnished	2	Bachelors	Sale
+844	Tripura Properties (Tripura.txt)	5 BHK Villa	Agartala West	Agartala / Tripura	Villa / 5 BHK	3813	₹24,600/month	Fully-Furnished	5	Family	Rent
+845	Tripura Properties (Tripura.txt)	4 BHK Independent House	Udaipur Heights	Udaipur / Tripura	Independent House / 4 BHK	1665	₹17,900/month	Fully-Furnished	3	Bachelors	Rent
+846	Tripura Properties (Tripura.txt)	3 BHK Apartment	Agartala Nagar	Agartala / Tripura	Apartment / 3 BHK	1601	₹43.76 L	Semi-Furnished	3	Family	Sale
+847	Tripura Properties (Tripura.txt)	4 BHK Independent House	Dharmanagar South	Dharmanagar / Tripura	Independent House / 4 BHK	1789	₹58.27 L	Semi-Furnished	5	Bachelors	Sale
+848	Tripura Properties (Tripura.txt)	2 BHK Apartment	Udaipur Central	Udaipur / Tripura	Apartment / 2 BHK	762	₹34.07 L	Semi-Furnished	1	Family	Sale
+849	Tripura Properties (Tripura.txt)	3 BHK Builder Floor	Agartala West	Agartala / Tripura	Builder Floor / 3 BHK	1317	₹44.48 L	Fully-Furnished	3	Family	Sale
+850	Tripura Properties (Tripura.txt)	2 BHK Villa	Agartala Heights	Agartala / Tripura	Villa / 2 BHK	962	₹31.38 L	Fully-Furnished	3	Family	Sale
+851	Tripura Properties (Tripura.txt)	1 BHK Villa	Agartala Nagar	Agartala / Tripura	Villa / 1 BHK	728	₹22.04 L	Unfurnished	1	Family	Sale
+852	Tripura Properties (Tripura.txt)	4 BHK Apartment	Udaipur Sector 2	Udaipur / Tripura	Apartment / 4 BHK	1295	₹69.29 L	Semi-Furnished	4	Bachelors	Sale
+853	Tripura Properties (Tripura.txt)	2 BHK Apartment	Dharmanagar Colony	Dharmanagar / Tripura	Apartment / 2 BHK	795	₹31.45 L	Fully-Furnished	1	Bachelors	Sale
+854	Tripura Properties (Tripura.txt)	2 BHK Apartment	Agartala Sector 1	Agartala / Tripura	Apartment / 2 BHK	833	₹9,100/month	Unfurnished	2	Family	Rent
+855	Tripura Properties (Tripura.txt)	3 BHK Apartment	Dharmanagar West	Dharmanagar / Tripura	Apartment / 3 BHK	1198	₹12,600/month	Unfurnished	3	Bachelors	Rent
+856	Tripura Properties (Tripura.txt)	2 BHK Builder Floor	Agartala North	Agartala / Tripura	Builder Floor / 2 BHK	841	₹41.24 L	Semi-Furnished	2	Any	Sale
+857	Tripura Properties (Tripura.txt)	3 BHK Apartment	Agartala Residential Area	Agartala / Tripura	Apartment / 3 BHK	1240	₹49.60 L	Semi-Furnished	2	Bachelors	Sale
+858	Tripura Properties (Tripura.txt)	3 BHK Apartment	Dharmanagar Sector 1	Dharmanagar / Tripura	Apartment / 3 BHK	1247	₹55.98 L	Unfurnished	2	Family	Sale
+859	Tripura Properties (Tripura.txt)	1 BHK Builder Floor	Agartala South	Agartala / Tripura	Builder Floor / 1 BHK	398	₹18.48 L	Unfurnished	2	Family	Sale
+860	Tripura Properties (Tripura.txt)	1 BHK Apartment	Dharmanagar Sector 2	Dharmanagar / Tripura	Apartment / 1 BHK	543	₹26.10 L	Fully-Furnished	1	Bachelors	Sale
+861	Tripura Properties (Tripura.txt)	2 BHK Apartment	Dharmanagar Heights	Dharmanagar / Tripura	Apartment / 2 BHK	865	₹40 L	Semi-Furnished	1	Bachelors	Sale
+862	Tripura Properties (Tripura.txt)	4 BHK Builder Floor	Dharmanagar West	Dharmanagar / Tripura	Builder Floor / 4 BHK	1925	₹20,300/month	Fully-Furnished	5	Bachelors	Rent
+863	Tripura Properties (Tripura.txt)	3 BHK Builder Floor	Udaipur Main Road	Udaipur / Tripura	Builder Floor / 3 BHK	1161	₹50.80 L	Unfurnished	3	Bachelors	Sale
+864	Tripura Properties (Tripura.txt)	2 BHK Apartment	Dharmanagar Colony	Dharmanagar / Tripura	Apartment / 2 BHK	961	₹11,800/month	Fully-Furnished	2	Any	Rent
+865	Tripura Properties (Tripura.txt)	2 BHK Builder Floor	Dharmanagar Main Road	Dharmanagar / Tripura	Builder Floor / 2 BHK	992	₹31.55 L	Semi-Furnished	3	Family	Sale
+866	Tripura Properties (Tripura.txt)	1 BHK Apartment	Dharmanagar Sector 3	Dharmanagar / Tripura	Apartment / 1 BHK	484	₹18.75 L	Semi-Furnished	1	Any	Sale
+867	Tripura Properties (Tripura.txt)	5 BHK Apartment	Udaipur Central	Udaipur / Tripura	Apartment / 5 BHK	1826	₹65.07 L	Semi-Furnished	5	Family	Sale
+868	Tripura Properties (Tripura.txt)	2 BHK Apartment	Agartala Sector 3	Agartala / Tripura	Apartment / 2 BHK	632	₹10,500/month	Unfurnished	1	Family	Rent
+869	Tripura Properties (Tripura.txt)	2 BHK Independent House	Udaipur Sector 3	Udaipur / Tripura	Independent House / 2 BHK	943	₹36.63 L	Fully-Furnished	2	Bachelors	Sale
+870	Tripura Properties (Tripura.txt)	3 BHK Independent House	Agartala Nagar	Agartala / Tripura	Independent House / 3 BHK	1379	₹13,800/month	Unfurnished	4	Bachelors	Rent
+871	Tripura Properties (Tripura.txt)	2 BHK Apartment	Dharmanagar Extension	Dharmanagar / Tripura	Apartment / 2 BHK	724	₹32.86 L	Semi-Furnished	2	Family	Sale
+872	Tripura Properties (Tripura.txt)	5 BHK Builder Floor	Udaipur North	Udaipur / Tripura	Builder Floor / 5 BHK	2055	₹20,900/month	Semi-Furnished	5	Bachelors	Rent
+873	Tripura Properties (Tripura.txt)	2 BHK Independent House	Dharmanagar Residential Area	Dharmanagar / Tripura	Independent House / 2 BHK	1120	₹10,400/month	Fully-Furnished	3	Bachelors	Rent
+874	Tripura Properties (Tripura.txt)	3 BHK Apartment	Agartala Central	Agartala / Tripura	Apartment / 3 BHK	1220	₹48.10 L	Fully-Furnished	3	Bachelors	Sale
+875	Tripura Properties (Tripura.txt)	2 BHK Apartment	Dharmanagar North	Dharmanagar / Tripura	Apartment / 2 BHK	850	₹29.58 L	Unfurnished	1	Family	Sale
+876	Tripura Properties (Tripura.txt)	3 BHK Apartment	Dharmanagar Town Centre	Dharmanagar / Tripura	Apartment / 3 BHK	1166	₹48.13 L	Unfurnished	3	Any	Sale
+877	Tripura Properties (Tripura.txt)	1 BHK Apartment	Dharmanagar Central	Dharmanagar / Tripura	Apartment / 1 BHK	413	₹7,100/month	Semi-Furnished	1	Family	Rent
+878	Tripura Properties (Tripura.txt)	1 BHK Apartment	Udaipur Central	Udaipur / Tripura	Apartment / 1 BHK	568	₹18.36 L	Fully-Furnished	1	Family	Sale
+879	Tripura Properties (Tripura.txt)	2 BHK Apartment	Agartala Central	Agartala / Tripura	Apartment / 2 BHK	772	₹33.76 L	Fully-Furnished	2	Family	Sale
+880	Tripura Properties (Tripura.txt)	3 BHK Apartment	Agartala Extension	Agartala / Tripura	Apartment / 3 BHK	1081	₹50.58 L	Fully-Furnished	3	Bachelors	Sale
+881	Tripura Properties (Tripura.txt)	5 BHK Independent House	Udaipur Sector 1	Udaipur / Tripura	Independent House / 5 BHK	2659	₹69.13 L	Fully-Furnished	4	Family	Sale
+882	Tripura Properties (Tripura.txt)	3 BHK Builder Floor	Udaipur Heights	Udaipur / Tripura	Builder Floor / 3 BHK	1585	₹51.37 L	Unfurnished	4	Bachelors	Sale
+883	Tripura Properties (Tripura.txt)	2 BHK Apartment	Udaipur Nagar	Udaipur / Tripura	Apartment / 2 BHK	951	₹10,300/month	Unfurnished	2	Family	Rent
+884	Tripura Properties (Tripura.txt)	2 BHK Builder Floor	Agartala Extension	Agartala / Tripura	Builder Floor / 2 BHK	817	₹32.27 L	Fully-Furnished	2	Any	Sale
+885	Tripura Properties (Tripura.txt)	4 BHK Apartment	Agartala West	Agartala / Tripura	Apartment / 4 BHK	2010	₹15,200/month	Fully-Furnished	4	Family	Rent
+886	Tripura Properties (Tripura.txt)	1 BHK Apartment	Dharmanagar Town Centre	Dharmanagar / Tripura	Apartment / 1 BHK	444	₹18.57 L	Semi-Furnished	1	Family	Sale
+887	Tripura Properties (Tripura.txt)	5 BHK Apartment	Udaipur Sector 3	Udaipur / Tripura	Apartment / 5 BHK	2019	₹23,900/month	Semi-Furnished	6	Any	Rent
+888	Tripura Properties (Tripura.txt)	1 BHK Apartment	Agartala Nagar	Agartala / Tripura	Apartment / 1 BHK	527	₹25.91 L	Semi-Furnished	1	Family	Sale
+889	Tripura Properties (Tripura.txt)	3 BHK Builder Floor	Dharmanagar Heights	Dharmanagar / Tripura	Builder Floor / 3 BHK	1339	₹11,900/month	Fully-Furnished	3	Family	Rent
+890	Tripura Properties (Tripura.txt)	2 BHK Apartment	Dharmanagar Sector 3	Dharmanagar / Tripura	Apartment / 2 BHK	1012	₹41.69 L	Unfurnished	2	Any	Sale
+891	Tripura Properties (Tripura.txt)	2 BHK Builder Floor	Agartala Colony	Agartala / Tripura	Builder Floor / 2 BHK	898	₹39.15 L	Unfurnished	2	Any	Sale
+892	Tripura Properties (Tripura.txt)	3 BHK Apartment	Agartala Town Centre	Agartala / Tripura	Apartment / 3 BHK	1314	₹39.57 L	Semi-Furnished	3	Any	Sale
+893	Tripura Properties (Tripura.txt)	2 BHK Apartment	Udaipur Nagar	Udaipur / Tripura	Apartment / 2 BHK	1045	₹34.88 L	Unfurnished	3	Any	Sale
+894	Tripura Properties (Tripura.txt)	2 BHK Independent House	Dharmanagar Extension	Dharmanagar / Tripura	Independent House / 2 BHK	1010	₹40.01 L	Semi-Furnished	3	Bachelors	Sale
+895	Tripura Properties (Tripura.txt)	2 BHK Apartment	Agartala Colony	Agartala / Tripura	Apartment / 2 BHK	907	₹33.78 L	Fully-Furnished	1	Bachelors	Sale
+896	Tripura Properties (Tripura.txt)	1 BHK Studio	Agartala Central	Agartala / Tripura	Studio / 1 BHK	303	₹20.57 L	Semi-Furnished	1	Bachelors	Sale
+897	Tripura Properties (Tripura.txt)	3 BHK Builder Floor	Dharmanagar North	Dharmanagar / Tripura	Builder Floor / 3 BHK	1263	₹50.36 L	Semi-Furnished	4	Family	Sale
+898	Tripura Properties (Tripura.txt)	1 BHK Villa	Dharmanagar South	Dharmanagar / Tripura	Villa / 1 BHK	738	₹7,900/month	Semi-Furnished	2	Family	Rent
+899	Tripura Properties (Tripura.txt)	2 BHK Apartment	Udaipur Sector 2	Udaipur / Tripura	Apartment / 2 BHK	744	₹34.34 L	Semi-Furnished	1	Bachelors	Sale
+900	Tripura Properties (Tripura.txt)	3 BHK Apartment	Udaipur East	Udaipur / Tripura	Apartment / 3 BHK	1365	₹13,100/month	Unfurnished	2	Bachelors	Rent
+901	Tripura Properties (Tripura.txt)	2 BHK Apartment	Udaipur Sector 1	Udaipur / Tripura	Apartment / 2 BHK	796	₹29.74 L	Semi-Furnished	2	Family	Sale
+902	Tripura Properties (Tripura.txt)	3 BHK Builder Floor	Udaipur Main Road	Udaipur / Tripura	Builder Floor / 3 BHK	1457	₹12,100/month	Unfurnished	4	Family	Rent
+903	Tripura Properties (Tripura.txt)	3 BHK Independent House	Dharmanagar Heights	Dharmanagar / Tripura	Independent House / 3 BHK	1639	₹48.43 L	Semi-Furnished	2	Bachelors	Sale
+904	Tripura Properties (Tripura.txt)	2 BHK Apartment	Agartala Heights	Agartala / Tripura	Apartment / 2 BHK	891	₹8,300/month	Semi-Furnished	1	Family	Rent
+905	Tripura Properties (Tripura.txt)	2 BHK Villa	Dharmanagar East	Dharmanagar / Tripura	Villa / 2 BHK	991	₹30.56 L	Unfurnished	2	Family	Sale
+906	Tripura Properties (Tripura.txt)	3 BHK Apartment	Dharmanagar Town Centre	Dharmanagar / Tripura	Apartment / 3 BHK	1009	₹40.09 L	Unfurnished	2	Bachelors	Sale
+907	Tripura Properties (Tripura.txt)	4 BHK Apartment	Udaipur Main Road	Udaipur / Tripura	Apartment / 4 BHK	1219	₹14,800/month	Fully-Furnished	4	Bachelors	Rent
+908	Tripura Properties (Tripura.txt)	4 BHK Builder Floor	Agartala West	Agartala / Tripura	Builder Floor / 4 BHK	2000	₹64.16 L	Unfurnished	4	Family	Sale
+909	Tripura Properties (Tripura.txt)	1 BHK Studio	Udaipur Nagar	Udaipur / Tripura	Studio / 1 BHK	300	₹22.93 L	Semi-Furnished	1	Any	Sale
+910	Tripura Properties (Tripura.txt)	2 BHK Apartment	Agartala Central	Agartala / Tripura	Apartment / 2 BHK	794	₹39.41 L	Semi-Furnished	3	Bachelors	Sale
+911	Tripura Properties (Tripura.txt)	2 BHK Apartment	Agartala Central	Agartala / Tripura	Apartment / 2 BHK	716	₹34.71 L	Unfurnished	2	Bachelors	Sale
+912	Tripura Properties (Tripura.txt)	3 BHK Apartment	Udaipur Main Road	Udaipur / Tripura	Apartment / 3 BHK	1324	₹48.14 L	Fully-Furnished	3	Bachelors	Sale
+913	Tripura Properties (Tripura.txt)	3 BHK Apartment	Udaipur Town Centre	Udaipur / Tripura	Apartment / 3 BHK	1538	₹57.11 L	Semi-Furnished	4	Family	Sale
+914	Tripura Properties (Tripura.txt)	3 BHK Builder Floor	Agartala Sector 3	Agartala / Tripura	Builder Floor / 3 BHK	1357	₹41.98 L	Semi-Furnished	3	Family	Sale
+915	Tripura Properties (Tripura.txt)	2 BHK Apartment	Dharmanagar Central	Dharmanagar / Tripura	Apartment / 2 BHK	708	₹7,900/month	Semi-Furnished	1	Bachelors	Rent
+916	Tripura Properties (Tripura.txt)	2 BHK Builder Floor	Dharmanagar Colony	Dharmanagar / Tripura	Builder Floor / 2 BHK	717	₹27.65 L	Unfurnished	2	Family	Sale
+917	Tripura Properties (Tripura.txt)	5 BHK Apartment	Dharmanagar Extension	Dharmanagar / Tripura	Apartment / 5 BHK	2439	₹92.07 L	Semi-Furnished	4	Family	Sale
+918	Tripura Properties (Tripura.txt)	2 BHK Apartment	Dharmanagar Main Road	Dharmanagar / Tripura	Apartment / 2 BHK	920	₹33.63 L	Semi-Furnished	3	Family	Sale
+919	Tripura Properties (Tripura.txt)	2 BHK Apartment	Udaipur North	Udaipur / Tripura	Apartment / 2 BHK	838	₹10,500/month	Unfurnished	2	Any	Rent
+920	Tripura Properties (Tripura.txt)	3 BHK Apartment	Dharmanagar North	Dharmanagar / Tripura	Apartment / 3 BHK	1384	₹45.26 L	Semi-Furnished	3	Family	Sale
+921	Tripura Properties (Tripura.txt)	2 BHK Apartment	Dharmanagar Nagar	Dharmanagar / Tripura	Apartment / 2 BHK	930	₹39.22 L	Fully-Furnished	3	Bachelors	Sale
+922	Tripura Properties (Tripura.txt)	3 BHK Builder Floor	Agartala East	Agartala / Tripura	Builder Floor / 3 BHK	1640	₹51.06 L	Unfurnished	3	Family	Sale
+923	Tripura Properties (Tripura.txt)	3 BHK Apartment	Dharmanagar South	Dharmanagar / Tripura	Apartment / 3 BHK	1302	₹12,900/month	Unfurnished	3	Family	Rent
+924	Tripura Properties (Tripura.txt)	2 BHK Builder Floor	Dharmanagar Sector 2	Dharmanagar / Tripura	Builder Floor / 2 BHK	669	₹31.36 L	Fully-Furnished	2	Any	Sale
+925	Tripura Properties (Tripura.txt)	3 BHK Independent House	Udaipur Sector 1	Udaipur / Tripura	Independent House / 3 BHK	1416	₹11,300/month	Semi-Furnished	3	Family	Rent
+926	Tripura Properties (Tripura.txt)	3 BHK Villa	Agartala West	Agartala / Tripura	Villa / 3 BHK	1923	₹62.15 L	Fully-Furnished	3	Family	Sale
+927	Tripura Properties (Tripura.txt)	2 BHK Independent House	Dharmanagar Extension	Dharmanagar / Tripura	Independent House / 2 BHK	1244	₹31.30 L	Unfurnished	2	Family	Sale
+928	Tripura Properties (Tripura.txt)	1 BHK Apartment	Agartala Extension	Agartala / Tripura	Apartment / 1 BHK	621	₹7,400/month	Fully-Furnished	1	Any	Rent
+929	Tripura Properties (Tripura.txt)	1 BHK Studio	Agartala South	Agartala / Tripura	Studio / 1 BHK	300	₹18.76 L	Fully-Furnished	1	Family	Sale
+930	Tripura Properties (Tripura.txt)	1 BHK Independent House	Agartala West	Agartala / Tripura	Independent House / 1 BHK	738	₹5,900/month	Semi-Furnished	1	Family	Rent
+931	Tripura Properties (Tripura.txt)	2 BHK Builder Floor	Agartala Sector 2	Agartala / Tripura	Builder Floor / 2 BHK	954	₹34.76 L	Fully-Furnished	1	Bachelors	Sale
+932	Tripura Properties (Tripura.txt)	1 BHK Apartment	Dharmanagar South	Dharmanagar / Tripura	Apartment / 1 BHK	587	₹26.47 L	Fully-Furnished	2	Bachelors	Sale
+933	Tripura Properties (Tripura.txt)	4 BHK Apartment	Agartala East	Agartala / Tripura	Apartment / 4 BHK	1654	₹68.58 L	Fully-Furnished	4	Family	Sale
+934	Tripura Properties (Tripura.txt)	2 BHK Villa	Dharmanagar East	Dharmanagar / Tripura	Villa / 2 BHK	1067	₹8,500/month	Unfurnished	2	Bachelors	Rent
+935	Tripura Properties (Tripura.txt)	3 BHK Apartment	Agartala North	Agartala / Tripura	Apartment / 3 BHK	1407	₹16,100/month	Semi-Furnished	4	Bachelors	Rent
+936	Tripura Properties (Tripura.txt)	3 BHK Apartment	Agartala Central	Agartala / Tripura	Apartment / 3 BHK	1293	₹15,200/month	Semi-Furnished	3	Any	Rent
+937	Tripura Properties (Tripura.txt)	1 BHK Studio	Dharmanagar Sector 1	Dharmanagar / Tripura	Studio / 1 BHK	447	₹18.62 L	Semi-Furnished	1	Bachelors	Sale
+938	Tripura Properties (Tripura.txt)	4 BHK Apartment	Dharmanagar North	Dharmanagar / Tripura	Apartment / 4 BHK	1467	₹16,300/month	Unfurnished	4	Bachelors	Rent
+939	Tripura Properties (Tripura.txt)	3 BHK Independent House	Dharmanagar South	Dharmanagar / Tripura	Independent House / 3 BHK	1285	₹58.26 L	Fully-Furnished	3	Family	Sale
+940	Tripura Properties (Tripura.txt)	1 BHK Studio	Udaipur Nagar	Udaipur / Tripura	Studio / 1 BHK	349	₹6,100/month	Unfurnished	1	Bachelors	Rent
+941	Tripura Properties (Tripura.txt)	3 BHK Independent House	Dharmanagar Residential Area	Dharmanagar / Tripura	Independent House / 3 BHK	1525	₹14,200/month	Semi-Furnished	3	Family	Rent
+942	Tripura Properties (Tripura.txt)	2 BHK Apartment	Agartala North	Agartala / Tripura	Apartment / 2 BHK	893	₹9,300/month	Semi-Furnished	1	Family	Rent
+943	Tripura Properties (Tripura.txt)	1 BHK Studio	Agartala Sector 3	Agartala / Tripura	Studio / 1 BHK	306	₹17.38 L	Unfurnished	2	Any	Sale
+944	Tripura Properties (Tripura.txt)	3 BHK Apartment	Dharmanagar Sector 2	Dharmanagar / Tripura	Apartment / 3 BHK	1193	₹45.36 L	Semi-Furnished	4	Family	Sale
+945	Tripura Properties (Tripura.txt)	2 BHK Builder Floor	Dharmanagar Main Road	Dharmanagar / Tripura	Builder Floor / 2 BHK	651	₹9,800/month	Unfurnished	2	Family	Rent
+946	Tripura Properties (Tripura.txt)	3 BHK Apartment	Udaipur Main Road	Udaipur / Tripura	Apartment / 3 BHK	1492	₹12,200/month	Semi-Furnished	3	Bachelors	Rent
+947	Tripura Properties (Tripura.txt)	2 BHK Independent House	Udaipur Central	Udaipur / Tripura	Independent House / 2 BHK	1124	₹42.94 L	Unfurnished	1	Bachelors	Sale
+948	Tripura Properties (Tripura.txt)	3 BHK Apartment	Agartala South	Agartala / Tripura	Apartment / 3 BHK	1176	₹47.77 L	Semi-Furnished	3	Any	Sale
+949	Tripura Properties (Tripura.txt)	1 BHK Independent House	Agartala Main Road	Agartala / Tripura	Independent House / 1 BHK	732	₹22.33 L	Unfurnished	1	Family	Sale
+950	Tripura Properties (Tripura.txt)	1 BHK Apartment	Dharmanagar North	Dharmanagar / Tripura	Apartment / 1 BHK	460	₹5,600/month	Semi-Furnished	1	Bachelors	Rent
+951	Tripura Properties (Tripura.txt)	4 BHK Apartment	Udaipur West	Udaipur / Tripura	Apartment / 4 BHK	1105	₹47.64 L	Fully-Furnished	4	Any	Sale
+952	Tripura Properties (Tripura.txt)	1 BHK Apartment	Udaipur Residential Area	Udaipur / Tripura	Apartment / 1 BHK	419	₹25.10 L	Unfurnished	1	Family	Sale
+953	Tripura Properties (Tripura.txt)	1 BHK Apartment	Dharmanagar Sector 1	Dharmanagar / Tripura	Apartment / 1 BHK	510	₹23.46 L	Semi-Furnished	2	Family	Sale
+954	Tripura Properties (Tripura.txt)	2 BHK Villa	Udaipur Sector 2	Udaipur / Tripura	Villa / 2 BHK	1378	₹13,100/month	Semi-Furnished	2	Family	Rent
+955	Tripura Properties (Tripura.txt)	4 BHK Villa	Agartala Sector 2	Agartala / Tripura	Villa / 4 BHK	2318	₹19,100/month	Semi-Furnished	4	Any	Rent
+956	Tripura Properties (Tripura.txt)	3 BHK Builder Floor	Udaipur Heights	Udaipur / Tripura	Builder Floor / 3 BHK	1206	₹38.75 L	Semi-Furnished	4	Family	Sale
+957	Tripura Properties (Tripura.txt)	2 BHK Apartment	Udaipur Main Road	Udaipur / Tripura	Apartment / 2 BHK	706	₹8,000/month	Fully-Furnished	1	Any	Rent
+958	Tripura Properties (Tripura.txt)	2 BHK Apartment	Agartala Town Centre	Agartala / Tripura	Apartment / 2 BHK	848	₹41.51 L	Semi-Furnished	3	Family	Sale
+959	Tripura Properties (Tripura.txt)	5 BHK Apartment	Agartala Sector 1	Agartala / Tripura	Apartment / 5 BHK	2520	₹86.24 L	Semi-Furnished	5	Bachelors	Sale
+960	Tripura Properties (Tripura.txt)	1 BHK Apartment	Agartala South	Agartala / Tripura	Apartment / 1 BHK	488	₹22.11 L	Semi-Furnished	1	Bachelors	Sale
+961	Tripura Properties (Tripura.txt)	3 BHK Apartment	Dharmanagar North	Dharmanagar / Tripura	Apartment / 3 BHK	1145	₹13,400/month	Fully-Furnished	3	Any	Rent
+962	Tripura Properties (Tripura.txt)	3 BHK Apartment	Udaipur West	Udaipur / Tripura	Apartment / 3 BHK	1081	₹40.22 L	Unfurnished	3	Family	Sale
+963	Tripura Properties (Tripura.txt)	1 BHK Builder Floor	Dharmanagar Nagar	Dharmanagar / Tripura	Builder Floor / 1 BHK	424	₹22.78 L	Unfurnished	1	Family	Sale
+964	Tripura Properties (Tripura.txt)	3 BHK Villa	Dharmanagar South	Dharmanagar / Tripura	Villa / 3 BHK	1679	₹54.45 L	Semi-Furnished	3	Family	Sale
+965	Tripura Properties (Tripura.txt)	2 BHK Apartment	Dharmanagar West	Dharmanagar / Tripura	Apartment / 2 BHK	947	₹37.71 L	Fully-Furnished	2	Family	Sale
+966	Tripura Properties (Tripura.txt)	4 BHK Apartment	Agartala Sector 3	Agartala / Tripura	Apartment / 4 BHK	1478	₹68.01 L	Unfurnished	4	Family	Sale
+967	Tripura Properties (Tripura.txt)	3 BHK Apartment	Dharmanagar Sector 2	Dharmanagar / Tripura	Apartment / 3 BHK	1219	₹39.94 L	Unfurnished	3	Family	Sale
+968	Tripura Properties (Tripura.txt)	2 BHK Independent House	Udaipur East	Udaipur / Tripura	Independent House / 2 BHK	902	₹10,300/month	Semi-Furnished	3	Any	Rent
+969	Tripura Properties (Tripura.txt)	2 BHK Independent House	Dharmanagar Extension	Dharmanagar / Tripura	Independent House / 2 BHK	757	₹11,200/month	Semi-Furnished	2	Family	Rent
+970	Tripura Properties (Tripura.txt)	2 BHK Apartment	Udaipur Heights	Udaipur / Tripura	Apartment / 2 BHK	882	₹39.19 L	Fully-Furnished	3	Any	Sale
+971	Tripura Properties (Tripura.txt)	4 BHK Apartment	Agartala West	Agartala / Tripura	Apartment / 4 BHK	2338	₹66.48 L	Unfurnished	4	Family	Sale
+972	Tripura Properties (Tripura.txt)	5 BHK Apartment	Dharmanagar Sector 2	Dharmanagar / Tripura	Apartment / 5 BHK	2492	₹19,300/month	Unfurnished	4	Family	Rent
+973	Tripura Properties (Tripura.txt)	3 BHK Independent House	Udaipur Sector 3	Udaipur / Tripura	Independent House / 3 BHK	1844	₹56.62 L	Semi-Furnished	3	Any	Sale
+974	Tripura Properties (Tripura.txt)	2 BHK Apartment	Agartala West	Agartala / Tripura	Apartment / 2 BHK	807	₹10,100/month	Fully-Furnished	3	Family	Rent
+975	Tripura Properties (Tripura.txt)	3 BHK Apartment	Udaipur Extension	Udaipur / Tripura	Apartment / 3 BHK	1243	₹43.27 L	Semi-Furnished	4	Family	Sale
+976	Tripura Properties (Tripura.txt)	3 BHK Builder Floor	Udaipur Central	Udaipur / Tripura	Builder Floor / 3 BHK	1193	₹49.36 L	Semi-Furnished	3	Family	Sale
+977	Tripura Properties (Tripura.txt)	4 BHK Apartment	Dharmanagar Sector 2	Dharmanagar / Tripura	Apartment / 4 BHK	1502	₹61.23 L	Semi-Furnished	4	Any	Sale
+978	Tripura Properties (Tripura.txt)	1 BHK Independent House	Udaipur Town Centre	Udaipur / Tripura	Independent House / 1 BHK	728	₹21.43 L	Semi-Furnished	1	Family	Sale
+979	Tripura Properties (Tripura.txt)	2 BHK Builder Floor	Udaipur Colony	Udaipur / Tripura	Builder Floor / 2 BHK	936	₹32.42 L	Fully-Furnished	1	Any	Sale
+980	Tripura Properties (Tripura.txt)	1 BHK Independent House	Agartala Sector 1	Agartala / Tripura	Independent House / 1 BHK	609	₹19.92 L	Fully-Furnished	1	Bachelors	Sale
+981	Tripura Properties (Tripura.txt)	3 BHK Villa	Agartala East	Agartala / Tripura	Villa / 3 BHK	1675	₹59.72 L	Fully-Furnished	4	Any	Sale
+982	Tripura Properties (Tripura.txt)	3 BHK Villa	Udaipur South	Udaipur / Tripura	Villa / 3 BHK	1641	₹60.55 L	Unfurnished	2	Family	Sale
+983	Tripura Properties (Tripura.txt)	3 BHK Builder Floor	Dharmanagar Sector 1	Dharmanagar / Tripura	Builder Floor / 3 BHK	1349	₹12,200/month	Fully-Furnished	3	Bachelors	Rent
+984	Tripura Properties (Tripura.txt)	4 BHK Apartment	Udaipur Sector 3	Udaipur / Tripura	Apartment / 4 BHK	1808	₹53.62 L	Fully-Furnished	4	Bachelors	Sale
+985	Tripura Properties (Tripura.txt)	2 BHK Apartment	Dharmanagar North	Dharmanagar / Tripura	Apartment / 2 BHK	685	₹8,500/month	Semi-Furnished	3	Family	Rent
+986	Tripura Properties (Tripura.txt)	3 BHK Apartment	Udaipur Nagar	Udaipur / Tripura	Apartment / 3 BHK	1414	₹44.98 L	Fully-Furnished	3	Any	Sale
+987	Tripura Properties (Tripura.txt)	2 BHK Apartment	Udaipur Main Road	Udaipur / Tripura	Apartment / 2 BHK	930	₹38.09 L	Semi-Furnished	3	Bachelors	Sale
+988	Tripura Properties (Tripura.txt)	5 BHK Builder Floor	Udaipur North	Udaipur / Tripura	Builder Floor / 5 BHK	2396	₹22,500/month	Unfurnished	6	Bachelors	Rent
+989	Tripura Properties (Tripura.txt)	2 BHK Villa	Agartala West	Agartala / Tripura	Villa / 2 BHK	1193	₹44.30 L	Unfurnished	1	Family	Sale
+990	Tripura Properties (Tripura.txt)	3 BHK Apartment	Dharmanagar Sector 2	Dharmanagar / Tripura	Apartment / 3 BHK	1356	₹58.44 L	Fully-Furnished	3	Bachelors	Sale
+991	Tripura Properties (Tripura.txt)	2 BHK Independent House	Dharmanagar Sector 2	Dharmanagar / Tripura	Independent House / 2 BHK	929	₹8,400/month	Semi-Furnished	1	Any	Rent
+992	Tripura Properties (Tripura.txt)	2 BHK Apartment	Dharmanagar Nagar	Dharmanagar / Tripura	Apartment / 2 BHK	880	₹7,900/month	Semi-Furnished	2	Family	Rent
+993	Tripura Properties (Tripura.txt)	4 BHK Apartment	Udaipur Extension	Udaipur / Tripura	Apartment / 4 BHK	1567	₹54.37 L	Semi-Furnished	5	Family	Sale
+994	Tripura Properties (Tripura.txt)	1 BHK Apartment	Udaipur West	Udaipur / Tripura	Apartment / 1 BHK	478	₹25.52 L	Semi-Furnished	1	Bachelors	Sale
+995	Tripura Properties (Tripura.txt)	1 BHK Studio	Agartala East	Agartala / Tripura	Studio / 1 BHK	501	₹7,400/month	Semi-Furnished	1	Family	Rent
+996	Tripura Properties (Tripura.txt)	4 BHK Villa	Agartala West	Agartala / Tripura	Villa / 4 BHK	2345	₹62.92 L	Fully-Furnished	3	Family	Sale
+997	Tripura Properties (Tripura.txt)	1 BHK Apartment	Udaipur Colony	Udaipur / Tripura	Apartment / 1 BHK	549	₹23.06 L	Unfurnished	1	Bachelors	Sale
+998	Tripura Properties (Tripura.txt)	2 BHK Apartment	Dharmanagar Sector 3	Dharmanagar / Tripura	Apartment / 2 BHK	832	₹30.42 L	Unfurnished	2	Family	Sale
+999	Tripura Properties (Tripura.txt)	3 BHK Apartment	Dharmanagar Sector 2	Dharmanagar / Tripura	Apartment / 3 BHK	1234	₹12,900/month	Fully-Furnished	3	Any	Rent
+1000	Tripura Properties (Tripura.txt)	1 BHK Studio	Udaipur West	Udaipur / Tripura	Studio / 1 BHK	300	₹4,700/month	Semi-Furnished	1	Any	Rent
+1001	Tripura Properties (Tripura.txt)	2 BHK Builder Floor	Dharmanagar Main Road	Dharmanagar / Tripura	Builder Floor / 2 BHK	873	₹28.57 L	Unfurnished	3	Any	Sale
+1002	Tripura Properties (Tripura.txt)	3 BHK Apartment	Agartala North	Agartala / Tripura	Apartment / 3 BHK	1146	₹50.16 L	Unfurnished	3	Family	Sale
+1003	Tripura Properties (Tripura.txt)	2 BHK Apartment	Udaipur Residential Area	Udaipur / Tripura	Apartment / 2 BHK	790	₹33.52 L	Semi-Furnished	2	Family	Sale
+1004	Tripura Properties (Tripura.txt)	1 BHK Apartment	Agartala Residential Area	Agartala / Tripura	Apartment / 1 BHK	507	₹23.15 L	Fully-Furnished	1	Any	Sale
+1005	Tripura Properties (Tripura.txt)	2 BHK Builder Floor	Dharmanagar Colony	Dharmanagar / Tripura	Builder Floor / 2 BHK	787	₹39.62 L	Semi-Furnished	1	Bachelors	Sale
+1006	Tripura Properties (Tripura.txt)	3 BHK Independent House	Agartala Sector 3	Agartala / Tripura	Independent House / 3 BHK	1608	₹50.90 L	Semi-Furnished	3	Family	Sale
+1007	Tripura Properties (Tripura.txt)	2 BHK Independent House	Dharmanagar East	Dharmanagar / Tripura	Independent House / 2 BHK	1151	₹37.53 L	Semi-Furnished	1	Any	Sale
+1008	Tripura Properties (Tripura.txt)	1 BHK Apartment	Dharmanagar Colony	Dharmanagar / Tripura	Apartment / 1 BHK	528	₹5,800/month	Fully-Furnished	1	Family	Rent
+1009	Tripura Properties (Tripura.txt)	4 BHK Builder Floor	Agartala Nagar	Agartala / Tripura	Builder Floor / 4 BHK	1990	₹16,600/month	Fully-Furnished	5	Family	Rent
+1010	Tripura Properties (Tripura.txt)	2 BHK Villa	Udaipur Nagar	Udaipur / Tripura	Villa / 2 BHK	1096	₹35.88 L	Semi-Furnished	2	Bachelors	Sale
+1011	Tripura Properties (Tripura.txt)	2 BHK Builder Floor	Dharmanagar Nagar	Dharmanagar / Tripura	Builder Floor / 2 BHK	686	₹32.29 L	Unfurnished	2	Family	Sale
+1012	Tripura Properties (Tripura.txt)	2 BHK Apartment	Agartala Sector 3	Agartala / Tripura	Apartment / 2 BHK	712	₹37.17 L	Semi-Furnished	3	Family	Sale
+1013	Tripura Properties (Tripura.txt)	1 BHK Studio	Agartala Central	Agartala / Tripura	Studio / 1 BHK	455	₹20.12 L	Fully-Furnished	1	Family	Sale
+1014	Tripura Properties (Tripura.txt)	5 BHK Independent House	Udaipur Extension	Udaipur / Tripura	Independent House / 5 BHK	3493	₹25,400/month	Semi-Furnished	4	Bachelors	Rent
+1015	Tripura Properties (Tripura.txt)	3 BHK Apartment	Agartala Colony	Agartala / Tripura	Apartment / 3 BHK	1502	₹15,400/month	Semi-Furnished	3	Bachelors	Rent
+1016	Tripura Properties (Tripura.txt)	3 BHK Independent House	Agartala Heights	Agartala / Tripura	Independent House / 3 BHK	1678	₹12,000/month	Semi-Furnished	3	Bachelors	Rent
+1017	Tripura Properties (Tripura.txt)	2 BHK Apartment	Udaipur Sector 3	Udaipur / Tripura	Apartment / 2 BHK	1020	₹43.18 L	Fully-Furnished	1	Family	Sale
+1018	Tripura Properties (Tripura.txt)	3 BHK Apartment	Udaipur Sector 2	Udaipur / Tripura	Apartment / 3 BHK	1554	₹11,400/month	Fully-Furnished	3	Family	Rent
+1019	Tripura Properties (Tripura.txt)	1 BHK Villa	Agartala Sector 2	Agartala / Tripura	Villa / 1 BHK	789	₹7,800/month	Unfurnished	1	Bachelors	Rent
+1020	Tripura Properties (Tripura.txt)	1 BHK Studio	Agartala Sector 1	Agartala / Tripura	Studio / 1 BHK	445	₹18.17 L	Semi-Furnished	1	Bachelors	Sale
+1021	Tripura Properties (Tripura.txt)	3 BHK Apartment	Agartala Central	Agartala / Tripura	Apartment / 3 BHK	1266	₹11,200/month	Unfurnished	3	Any	Rent
+1022	Tripura Properties (Tripura.txt)	2 BHK Independent House	Dharmanagar Heights	Dharmanagar / Tripura	Independent House / 2 BHK	1139	₹38.82 L	Semi-Furnished	2	Any	Sale
+1023	Tripura Properties (Tripura.txt)	3 BHK Apartment	Dharmanagar Residential Area	Dharmanagar / Tripura	Apartment / 3 BHK	1419	₹15,000/month	Semi-Furnished	3	Family	Rent
+1024	Tripura Properties (Tripura.txt)	4 BHK Villa	Udaipur Central	Udaipur / Tripura	Villa / 4 BHK	2738	₹70.68 L	Semi-Furnished	3	Family	Sale
+1025	Tripura Properties (Tripura.txt)	1 BHK Apartment	Dharmanagar West	Dharmanagar / Tripura	Apartment / 1 BHK	461	₹7,000/month	Unfurnished	1	Family	Rent
+1026	Tripura Properties (Tripura.txt)	2 BHK Villa	Dharmanagar North	Dharmanagar / Tripura	Villa / 2 BHK	945	₹39.47 L	Unfurnished	1	Bachelors	Sale
+1027	Tripura Properties (Tripura.txt)	3 BHK Villa	Agartala Nagar	Agartala / Tripura	Villa / 3 BHK	1526	₹52.09 L	Semi-Furnished	3	Bachelors	Sale
+1028	Tripura Properties (Tripura.txt)	3 BHK Builder Floor	Agartala East	Agartala / Tripura	Builder Floor / 3 BHK	1534	₹42.91 L	Fully-Furnished	3	Family	Sale
+1029	Tripura Properties (Tripura.txt)	3 BHK Apartment	Dharmanagar Residential Area	Dharmanagar / Tripura	Apartment / 3 BHK	1454	₹51.33 L	Fully-Furnished	3	Any	Sale
+1030	Tripura Properties (Tripura.txt)	3 BHK Apartment	Udaipur Residential Area	Udaipur / Tripura	Apartment / 3 BHK	1329	₹14,000/month	Fully-Furnished	2	Bachelors	Rent
+1031	Tripura Properties (Tripura.txt)	4 BHK Apartment	Agartala Main Road	Agartala / Tripura	Apartment / 4 BHK	1889	₹14,300/month	Fully-Furnished	4	Family	Rent
+1032	Tripura Properties (Tripura.txt)	1 BHK Apartment	Dharmanagar Extension	Dharmanagar / Tripura	Apartment / 1 BHK	524	₹6,600/month	Semi-Furnished	1	Family	Rent
+1033	Tripura Properties (Tripura.txt)	2 BHK Apartment	Agartala North	Agartala / Tripura	Apartment / 2 BHK	983	₹41.21 L	Semi-Furnished	1	Family	Sale
+1034	Tripura Properties (Tripura.txt)	3 BHK Independent House	Dharmanagar Central	Dharmanagar / Tripura	Independent House / 3 BHK	1381	₹13,700/month	Semi-Furnished	3	Any	Rent
+1035	Tripura Properties (Tripura.txt)	3 BHK Independent House	Udaipur Sector 1	Udaipur / Tripura	Independent House / 3 BHK	1366	₹44.97 L	Semi-Furnished	3	Any	Sale
+1036	Tripura Properties (Tripura.txt)	1 BHK Apartment	Dharmanagar South	Dharmanagar / Tripura	Apartment / 1 BHK	477	₹18.38 L	Semi-Furnished	1	Family	Sale
+1037	Tripura Properties (Tripura.txt)	2 BHK Apartment	Dharmanagar Residential Area	Dharmanagar / Tripura	Apartment / 2 BHK	772	₹7,900/month	Unfurnished	2	Bachelors	Rent
+1038	Tripura Properties (Tripura.txt)	2 BHK Apartment	Dharmanagar South	Dharmanagar / Tripura	Apartment / 2 BHK	948	₹11,400/month	Semi-Furnished	3	Family	Rent
+1039	Tripura Properties (Tripura.txt)	3 BHK Builder Floor	Agartala Nagar	Agartala / Tripura	Builder Floor / 3 BHK	1797	₹55.88 L	Semi-Furnished	3	Any	Sale
+1040	Tripura Properties (Tripura.txt)	1 BHK Apartment	Dharmanagar Residential Area	Dharmanagar / Tripura	Apartment / 1 BHK	683	₹20.32 L	Semi-Furnished	2	Family	Sale
+1041	Tripura Properties (Tripura.txt)	2 BHK Builder Floor	Agartala Residential Area	Agartala / Tripura	Builder Floor / 2 BHK	798	₹40.70 L	Semi-Furnished	1	Bachelors	Sale
+1042	Tripura Properties (Tripura.txt)	2 BHK Independent House	Dharmanagar East	Dharmanagar / Tripura	Independent House / 2 BHK	1026	₹35.04 L	Semi-Furnished	2	Bachelors	Sale
+1043	Tripura Properties (Tripura.txt)	4 BHK Villa	Agartala Central	Agartala / Tripura	Villa / 4 BHK	2680	₹20,500/month	Semi-Furnished	3	Any	Rent
+1044	Tripura Properties (Tripura.txt)	4 BHK Apartment	Udaipur Town Centre	Udaipur / Tripura	Apartment / 4 BHK	1675	₹14,900/month	Semi-Furnished	3	Any	Rent
+1045	Tripura Properties (Tripura.txt)	4 BHK Apartment	Udaipur Sector 1	Udaipur / Tripura	Apartment / 4 BHK	1546	₹62.69 L	Fully-Furnished	4	Bachelors	Sale
+1046	Tripura Properties (Tripura.txt)	2 BHK Apartment	Dharmanagar West	Dharmanagar / Tripura	Apartment / 2 BHK	1010	₹42.19 L	Unfurnished	2	Family	Sale
+1047	Tripura Properties (Tripura.txt)	2 BHK Builder Floor	Dharmanagar Nagar	Dharmanagar / Tripura	Builder Floor / 2 BHK	816	₹10,200/month	Fully-Furnished	3	Bachelors	Rent
+1048	Tripura Properties (Tripura.txt)	1 BHK Studio	Udaipur Extension	Udaipur / Tripura	Studio / 1 BHK	434	₹20.43 L	Unfurnished	1	Family	Sale
+1049	Tripura Properties (Tripura.txt)	2 BHK Apartment	Agartala Extension	Agartala / Tripura	Apartment / 2 BHK	927	₹11,400/month	Fully-Furnished	3	Family	Rent
+1050	Tripura Properties (Tripura.txt)	3 BHK Apartment	Dharmanagar Town Centre	Dharmanagar / Tripura	Apartment / 3 BHK	1036	₹38.31 L	Fully-Furnished	3	Family	Sale
+1051	Tripura Properties (Tripura.txt)	2 BHK Independent House	Dharmanagar East	Dharmanagar / Tripura	Independent House / 2 BHK	1064	₹34.30 L	Semi-Furnished	2	Bachelors	Sale
+1052	Tripura Properties (Tripura.txt)	3 BHK Independent House	Udaipur Sector 2	Udaipur / Tripura	Independent House / 3 BHK	1495	₹45.53 L	Semi-Furnished	3	Any	Sale
+1053	Tripura Properties (Tripura.txt)	3 BHK Independent House	Dharmanagar Colony	Dharmanagar / Tripura	Independent House / 3 BHK	1585	₹56.16 L	Fully-Furnished	3	Any	Sale
+1054	Tripura Properties (Tripura.txt)	3 BHK Apartment	Dharmanagar North	Dharmanagar / Tripura	Apartment / 3 BHK	1310	₹57.60 L	Fully-Furnished	3	Bachelors	Sale
+1055	Tripura Properties (Tripura.txt)	2 BHK Apartment	Udaipur East	Udaipur / Tripura	Apartment / 2 BHK	954	₹32.99 L	Semi-Furnished	3	Any	Sale
+1056	Tripura Properties (Tripura.txt)	3 BHK Apartment	Udaipur Sector 1	Udaipur / Tripura	Apartment / 3 BHK	1373	₹54.63 L	Unfurnished	3	Family	Sale
+1057	Tripura Properties (Tripura.txt)	1 BHK Apartment	Agartala Nagar	Agartala / Tripura	Apartment / 1 BHK	572	₹24.83 L	Semi-Furnished	1	Any	Sale
+1058	Tripura Properties (Tripura.txt)	1 BHK Apartment	Udaipur Sector 1	Udaipur / Tripura	Apartment / 1 BHK	394	₹20.37 L	Unfurnished	1	Family	Sale
+1059	Tripura Properties (Tripura.txt)	4 BHK Independent House	Agartala Nagar	Agartala / Tripura	Independent House / 4 BHK	1840	₹18,700/month	Semi-Furnished	4	Any	Rent
+1060	Tripura Properties (Tripura.txt)	3 BHK Independent House	Agartala Sector 1	Agartala / Tripura	Independent House / 3 BHK	1029	₹41.26 L	Unfurnished	3	Bachelors	Sale
+1061	Tripura Properties (Tripura.txt)	2 BHK Apartment	Agartala Residential Area	Agartala / Tripura	Apartment / 2 BHK	867	₹9,600/month	Semi-Furnished	2	Family	Rent
+1062	Tripura Properties (Tripura.txt)	3 BHK Independent House	Udaipur Residential Area	Udaipur / Tripura	Independent House / 3 BHK	1241	₹12,800/month	Unfurnished	3	Bachelors	Rent
+1063	Tripura Properties (Tripura.txt)	4 BHK Apartment	Dharmanagar Sector 2	Dharmanagar / Tripura	Apartment / 4 BHK	1804	₹70.40 L	Fully-Furnished	3	Any	Sale
+1064	Tripura Properties (Tripura.txt)	2 BHK Apartment	Agartala East	Agartala / Tripura	Apartment / 2 BHK	752	₹35.84 L	Semi-Furnished	2	Family	Sale
+1065	Tripura Properties (Tripura.txt)	3 BHK Apartment	Agartala Central	Agartala / Tripura	Apartment / 3 BHK	1107	₹12,800/month	Semi-Furnished	3	Family	Rent
+1066	Tripura Properties (Tripura.txt)	3 BHK Apartment	Agartala North	Agartala / Tripura	Apartment / 3 BHK	901	₹41.49 L	Fully-Furnished	4	Family	Sale
+1067	Tripura Properties (Tripura.txt)	4 BHK Apartment	Dharmanagar North	Dharmanagar / Tripura	Apartment / 4 BHK	1934	₹18,700/month	Semi-Furnished	3	Any	Rent
+1068	Tripura Properties (Tripura.txt)	2 BHK Builder Floor	Agartala South	Agartala / Tripura	Builder Floor / 2 BHK	1008	₹8,100/month	Semi-Furnished	2	Family	Rent
+1069	Tripura Properties (Tripura.txt)	1 BHK Studio	Dharmanagar Extension	Dharmanagar / Tripura	Studio / 1 BHK	390	₹17.54 L	Fully-Furnished	2	Family	Sale
+1070	Tripura Properties (Tripura.txt)	3 BHK Builder Floor	Dharmanagar East	Dharmanagar / Tripura	Builder Floor / 3 BHK	1342	₹14,700/month	Fully-Furnished	3	Family	Rent
+1071	Tripura Properties (Tripura.txt)	2 BHK Apartment	Agartala Sector 1	Agartala / Tripura	Apartment / 2 BHK	811	₹7,800/month	Unfurnished	2	Family	Rent
+1072	Tripura Properties (Tripura.txt)	5 BHK Independent House	Dharmanagar Main Road	Dharmanagar / Tripura	Independent House / 5 BHK	3556	₹28,100/month	Fully-Furnished	4	Bachelors	Rent
+1073	Tripura Properties (Tripura.txt)	2 BHK Independent House	Udaipur Main Road	Udaipur / Tripura	Independent House / 2 BHK	990	₹33.06 L	Semi-Furnished	1	Any	Sale
+1074	Tripura Properties (Tripura.txt)	4 BHK Independent House	Dharmanagar Colony	Dharmanagar / Tripura	Independent House / 4 BHK	2168	₹56.95 L	Unfurnished	4	Family	Sale
+1075	Tripura Properties (Tripura.txt)	4 BHK Apartment	Dharmanagar Main Road	Dharmanagar / Tripura	Apartment / 4 BHK	1757	₹67.66 L	Semi-Furnished	3	Any	Sale
+1076	Tripura Properties (Tripura.txt)	2 BHK Builder Floor	Dharmanagar North	Dharmanagar / Tripura	Builder Floor / 2 BHK	833	₹11,100/month	Unfurnished	2	Bachelors	Rent
+1077	Tripura Properties (Tripura.txt)	2 BHK Apartment	Udaipur South	Udaipur / Tripura	Apartment / 2 BHK	814	₹29.91 L	Unfurnished	2	Bachelors	Sale
+1078	Tripura Properties (Tripura.txt)	3 BHK Builder Floor	Agartala Sector 1	Agartala / Tripura	Builder Floor / 3 BHK	1021	₹11,700/month	Semi-Furnished	3	Any	Rent
+1079	Tripura Properties (Tripura.txt)	2 BHK Apartment	Udaipur South	Udaipur / Tripura	Apartment / 2 BHK	770	₹27.72 L	Semi-Furnished	2	Bachelors	Sale
+1080	Tripura Properties (Tripura.txt)	1 BHK Studio	Agartala Heights	Agartala / Tripura	Studio / 1 BHK	437	₹22.40 L	Semi-Furnished	1	Bachelors	Sale
+1081	Tripura Properties (Tripura.txt)	2 BHK Independent House	Udaipur Extension	Udaipur / Tripura	Independent House / 2 BHK	1171	₹34.72 L	Fully-Furnished	1	Bachelors	Sale
+1082	Tripura Properties (Tripura.txt)	3 BHK Apartment	Udaipur East	Udaipur / Tripura	Apartment / 3 BHK	1276	₹44.99 L	Fully-Furnished	3	Family	Sale
+1083	Tripura Properties (Tripura.txt)	2 BHK Apartment	Dharmanagar Sector 3	Dharmanagar / Tripura	Apartment / 2 BHK	731	₹40.39 L	Semi-Furnished	2	Family	Sale
+1084	Tripura Properties (Tripura.txt)	2 BHK Apartment	Udaipur Colony	Udaipur / Tripura	Apartment / 2 BHK	832	₹38.62 L	Fully-Furnished	1	Family	Sale
+1085	Tripura Properties (Tripura.txt)	3 BHK Apartment	Dharmanagar Sector 3	Dharmanagar / Tripura	Apartment / 3 BHK	1217	₹49.77 L	Unfurnished	3	Family	Sale
+1086	Tripura Properties (Tripura.txt)	2 BHK Apartment	Udaipur South	Udaipur / Tripura	Apartment / 2 BHK	833	₹10,600/month	Semi-Furnished	2	Bachelors	Rent
+1087	Tripura Properties (Tripura.txt)	4 BHK Builder Floor	Dharmanagar Sector 3	Dharmanagar / Tripura	Builder Floor / 4 BHK	1803	₹14,300/month	Semi-Furnished	4	Family	Rent
+1088	Tripura Properties (Tripura.txt)	1 BHK Studio	Agartala Sector 2	Agartala / Tripura	Studio / 1 BHK	379	₹6,600/month	Unfurnished	1	Bachelors	Rent
+1089	Tripura Properties (Tripura.txt)	2 BHK Builder Floor	Dharmanagar Heights	Dharmanagar / Tripura	Builder Floor / 2 BHK	678	₹34.91 L	Unfurnished	2	Family	Sale
+1090	Tripura Properties (Tripura.txt)	3 BHK Villa	Udaipur Heights	Udaipur / Tripura	Villa / 3 BHK	1538	₹60.18 L	Semi-Furnished	2	Bachelors	Sale
+1091	Tripura Properties (Tripura.txt)	1 BHK Apartment	Dharmanagar Heights	Dharmanagar / Tripura	Apartment / 1 BHK	480	₹5,400/month	Semi-Furnished	1	Any	Rent
+1092	Tripura Properties (Tripura.txt)	5 BHK Apartment	Udaipur South	Udaipur / Tripura	Apartment / 5 BHK	2263	₹90.98 L	Fully-Furnished	5	Any	Sale
+1093	Tripura Properties (Tripura.txt)	4 BHK Independent House	Agartala West	Agartala / Tripura	Independent House / 4 BHK	2317	₹70.93 L	Fully-Furnished	4	Family	Sale
+1094	Tripura Properties (Tripura.txt)	2 BHK Independent House	Udaipur Sector 1	Udaipur / Tripura	Independent House / 2 BHK	1147	₹43.60 L	Semi-Furnished	1	Family	Sale
+1095	Tripura Properties (Tripura.txt)	2 BHK Apartment	Dharmanagar Extension	Dharmanagar / Tripura	Apartment / 2 BHK	780	₹27.65 L	Semi-Furnished	3	Any	Sale
+1096	Tripura Properties (Tripura.txt)	3 BHK Apartment	Agartala Heights	Agartala / Tripura	Apartment / 3 BHK	1355	₹15,100/month	Unfurnished	3	Family	Rent
+1097	Tripura Properties (Tripura.txt)	3 BHK Builder Floor	Dharmanagar Central	Dharmanagar / Tripura	Builder Floor / 3 BHK	1220	₹45.09 L	Fully-Furnished	3	Bachelors	Sale
+1098	Tripura Properties (Tripura.txt)	3 BHK Apartment	Udaipur Main Road	Udaipur / Tripura	Apartment / 3 BHK	1433	₹58.20 L	Semi-Furnished	2	Family	Sale
+1099	Tripura Properties (Tripura.txt)	2 BHK Apartment	Udaipur Central	Udaipur / Tripura	Apartment / 2 BHK	698	₹7,600/month	Unfurnished	2	Bachelors	Rent
+1100	Tripura Properties (Tripura.txt)	3 BHK Apartment	Udaipur Colony	Udaipur / Tripura	Apartment / 3 BHK	1266	₹45.75 L	Semi-Furnished	3	Bachelors	Sale
+1101	Tripura Properties (Tripura.txt)	3 BHK Builder Floor	Agartala Nagar	Agartala / Tripura	Builder Floor / 3 BHK	1109	₹41.05 L	Semi-Furnished	3	Bachelors	Sale
+1102	Tripura Properties (Tripura.txt)	1 BHK Studio	Dharmanagar Central	Dharmanagar / Tripura	Studio / 1 BHK	420	₹5,800/month	Unfurnished	1	Any	Rent
+1103	Tripura Properties (Tripura.txt)	2 BHK Apartment	Udaipur Sector 3	Udaipur / Tripura	Apartment / 2 BHK	1015	₹31.19 L	Unfurnished	2	Family	Sale
+1104	Tripura Properties (Tripura.txt)	1 BHK Studio	Udaipur Town Centre	Udaipur / Tripura	Studio / 1 BHK	450	₹25.83 L	Fully-Furnished	1	Bachelors	Sale
+1105	Tripura Properties (Tripura.txt)	2 BHK Independent House	Agartala Sector 1	Agartala / Tripura	Independent House / 2 BHK	939	₹8,300/month	Semi-Furnished	1	Bachelors	Rent
+1106	Tripura Properties (Tripura.txt)	2 BHK Apartment	Dharmanagar Nagar	Dharmanagar / Tripura	Apartment / 2 BHK	1024	₹32.24 L	Fully-Furnished	2	Any	Sale
+1107	Tripura Properties (Tripura.txt)	2 BHK Apartment	Dharmanagar Sector 3	Dharmanagar / Tripura	Apartment / 2 BHK	925	₹36.19 L	Unfurnished	3	Bachelors	Sale
+1108	Tripura Properties (Tripura.txt)	3 BHK Villa	Dharmanagar Main Road	Dharmanagar / Tripura	Villa / 3 BHK	1500	₹53.31 L	Fully-Furnished	3	Family	Sale
+1109	Tripura Properties (Tripura.txt)	2 BHK Villa	Agartala Central	Agartala / Tripura	Villa / 2 BHK	1120	₹9,300/month	Semi-Furnished	2	Family	Rent
+1110	Tripura Properties (Tripura.txt)	2 BHK Builder Floor	Dharmanagar North	Dharmanagar / Tripura	Builder Floor / 2 BHK	613	₹31.76 L	Semi-Furnished	3	Family	Sale
+1111	Tripura Properties (Tripura.txt)	2 BHK Apartment	Udaipur Extension	Udaipur / Tripura	Apartment / 2 BHK	923	₹37.15 L	Semi-Furnished	3	Family	Sale
+1112	Tripura Properties (Tripura.txt)	1 BHK Builder Floor	Udaipur North	Udaipur / Tripura	Builder Floor / 1 BHK	618	₹7,100/month	Unfurnished	1	Family	Rent
+1113	Tripura Properties (Tripura.txt)	3 BHK Villa	Agartala Colony	Agartala / Tripura	Villa / 3 BHK	1458	₹13,200/month	Unfurnished	3	Bachelors	Rent
+1114	Tripura Properties (Tripura.txt)	3 BHK Apartment	Udaipur Extension	Udaipur / Tripura	Apartment / 3 BHK	1308	₹52.98 L	Semi-Furnished	3	Any	Sale
+1115	Tripura Properties (Tripura.txt)	3 BHK Villa	Udaipur South	Udaipur / Tripura	Villa / 3 BHK	1619	₹42.21 L	Fully-Furnished	3	Any	Sale
+1116	Tripura Properties (Tripura.txt)	1 BHK Apartment	Agartala Colony	Agartala / Tripura	Apartment / 1 BHK	570	₹7,500/month	Semi-Furnished	2	Family	Rent
+1117	Tripura Properties (Tripura.txt)	2 BHK Apartment	Udaipur Central	Udaipur / Tripura	Apartment / 2 BHK	964	₹37.58 L	Unfurnished	2	Family	Sale
+1118	Tripura Properties (Tripura.txt)	2 BHK Apartment	Udaipur North	Udaipur / Tripura	Apartment / 2 BHK	882	₹10,400/month	Unfurnished	3	Any	Rent
+1119	Tripura Properties (Tripura.txt)	2 BHK Apartment	Dharmanagar North	Dharmanagar / Tripura	Apartment / 2 BHK	796	₹28.17 L	Fully-Furnished	2	Family	Sale
+1120	Tripura Properties (Tripura.txt)	4 BHK Apartment	Udaipur North	Udaipur / Tripura	Apartment / 4 BHK	1364	₹58.81 L	Fully-Furnished	5	Bachelors	Sale
+1121	Tripura Properties (Tripura.txt)	1 BHK Apartment	Agartala Town Centre	Agartala / Tripura	Apartment / 1 BHK	525	₹19.94 L	Unfurnished	1	Any	Sale
+1122	Tripura Properties (Tripura.txt)	1 BHK Independent House	Udaipur Sector 3	Udaipur / Tripura	Independent House / 1 BHK	567	₹24.36 L	Semi-Furnished	1	Family	Sale
+1123	Tripura Properties (Tripura.txt)	3 BHK Apartment	Dharmanagar East	Dharmanagar / Tripura	Apartment / 3 BHK	1035	₹14,700/month	Unfurnished	4	Any	Rent
+1124	Tripura Properties (Tripura.txt)	2 BHK Builder Floor	Udaipur Main Road	Udaipur / Tripura	Builder Floor / 2 BHK	858	₹31.91 L	Unfurnished	2	Any	Sale
+1125	Tripura Properties (Tripura.txt)	4 BHK Apartment	Agartala Extension	Agartala / Tripura	Apartment / 4 BHK	1736	₹16,800/month	Semi-Furnished	5	Family	Rent
+1126	Tripura Properties (Tripura.txt)	4 BHK Apartment	Udaipur Residential Area	Udaipur / Tripura	Apartment / 4 BHK	1160	₹16,100/month	Semi-Furnished	3	Bachelors	Rent
+1127	Tripura Properties (Tripura.txt)	3 BHK Builder Floor	Dharmanagar Main Road	Dharmanagar / Tripura	Builder Floor / 3 BHK	1112	₹48.85 L	Unfurnished	4	Any	Sale
+1128	Tripura Properties (Tripura.txt)	2 BHK Apartment	Agartala Nagar	Agartala / Tripura	Apartment / 2 BHK	1033	₹34.74 L	Unfurnished	2	Family	Sale
+1129	Tripura Properties (Tripura.txt)	3 BHK Builder Floor	Udaipur Town Centre	Udaipur / Tripura	Builder Floor / 3 BHK	1346	₹14,700/month	Unfurnished	3	Family	Rent
+1130	Tripura Properties (Tripura.txt)	2 BHK Apartment	Dharmanagar Town Centre	Dharmanagar / Tripura	Apartment / 2 BHK	872	₹8,500/month	Unfurnished	2	Any	Rent
+1131	Tripura Properties (Tripura.txt)	1 BHK Apartment	Dharmanagar Colony	Dharmanagar / Tripura	Apartment / 1 BHK	484	₹25.38 L	Semi-Furnished	1	Bachelors	Sale
+1132	Tripura Properties (Tripura.txt)	3 BHK Apartment	Dharmanagar Central	Dharmanagar / Tripura	Apartment / 3 BHK	1235	₹45.35 L	Semi-Furnished	3	Family	Sale
+1133	Tripura Properties (Tripura.txt)	3 BHK Apartment	Agartala Sector 1	Agartala / Tripura	Apartment / 3 BHK	1396	₹11,000/month	Fully-Furnished	2	Family	Rent
+1134	Tripura Properties (Tripura.txt)	4 BHK Apartment	Dharmanagar Residential Area	Dharmanagar / Tripura	Apartment / 4 BHK	1573	₹15,300/month	Unfurnished	4	Bachelors	Rent
+1135	Tripura Properties (Tripura.txt)	3 BHK Apartment	Agartala Sector 2	Agartala / Tripura	Apartment / 3 BHK	1016	₹42 L	Semi-Furnished	3	Family	Sale
+1136	Tripura Properties (Tripura.txt)	3 BHK Builder Floor	Agartala West	Agartala / Tripura	Builder Floor / 3 BHK	1391	₹56.77 L	Fully-Furnished	3	Any	Sale
+1137	Tripura Properties (Tripura.txt)	3 BHK Independent House	Agartala Town Centre	Agartala / Tripura	Independent House / 3 BHK	1651	₹11,700/month	Semi-Furnished	3	Family	Rent
+1138	Tripura Properties (Tripura.txt)	4 BHK Apartment	Dharmanagar Sector 2	Dharmanagar / Tripura	Apartment / 4 BHK	1652	₹16,700/month	Unfurnished	5	Bachelors	Rent
+1139	Tripura Properties (Tripura.txt)	1 BHK Studio	Dharmanagar Sector 1	Dharmanagar / Tripura	Studio / 1 BHK	423	₹22.19 L	Unfurnished	1	Family	Sale
+1140	Tripura Properties (Tripura.txt)	2 BHK Apartment	Udaipur Residential Area	Udaipur / Tripura	Apartment / 2 BHK	824	₹39.02 L	Unfurnished	3	Bachelors	Sale
+1141	Tripura Properties (Tripura.txt)	5 BHK Apartment	Udaipur Extension	Udaipur / Tripura	Apartment / 5 BHK	2633	₹83.69 L	Semi-Furnished	5	Any	Sale
+1142	Tripura Properties (Tripura.txt)	1 BHK Apartment	Dharmanagar Sector 2	Dharmanagar / Tripura	Apartment / 1 BHK	467	₹5,300/month	Unfurnished	1	Bachelors	Rent
+1143	Tripura Properties (Tripura.txt)	3 BHK Apartment	Agartala Town Centre	Agartala / Tripura	Apartment / 3 BHK	1121	₹49.23 L	Unfurnished	4	Family	Sale
+1144	Tripura Properties (Tripura.txt)	2 BHK Villa	Agartala Colony	Agartala / Tripura	Villa / 2 BHK	828	₹7,900/month	Fully-Furnished	2	Bachelors	Rent
+1145	Tripura Properties (Tripura.txt)	2 BHK Apartment	Dharmanagar Sector 3	Dharmanagar / Tripura	Apartment / 2 BHK	731	₹34.11 L	Unfurnished	2	Bachelors	Sale
+1146	Tripura Properties (Tripura.txt)	1 BHK Villa	Udaipur Colony	Udaipur / Tripura	Villa / 1 BHK	626	₹21.76 L	Fully-Furnished	1	Family	Sale
+1147	Tripura Properties (Tripura.txt)	2 BHK Builder Floor	Dharmanagar Central	Dharmanagar / Tripura	Builder Floor / 2 BHK	818	₹29.81 L	Fully-Furnished	2	Family	Sale
+1148	Tripura Properties (Tripura.txt)	3 BHK Independent House	Agartala East	Agartala / Tripura	Independent House / 3 BHK	1903	₹16,300/month	Semi-Furnished	3	Family	Rent
+1149	Tripura Properties (Tripura.txt)	1 BHK Builder Floor	Dharmanagar Sector 3	Dharmanagar / Tripura	Builder Floor / 1 BHK	444	₹24.40 L	Fully-Furnished	1	Family	Sale
+1150	Tripura Properties (Tripura.txt)	2 BHK Independent House	Udaipur Heights	Udaipur / Tripura	Independent House / 2 BHK	1083	₹9,800/month	Fully-Furnished	1	Bachelors	Rent
+1151	Tripura Properties (Tripura.txt)	3 BHK Apartment	Dharmanagar East	Dharmanagar / Tripura	Apartment / 3 BHK	1582	₹42.32 L	Semi-Furnished	2	Family	Sale
+1152	Tripura Properties (Tripura.txt)	3 BHK Villa	Dharmanagar Sector 2	Dharmanagar / Tripura	Villa / 3 BHK	1536	₹14,300/month	Unfurnished	3	Bachelors	Rent
+1153	Tripura Properties (Tripura.txt)	2 BHK Builder Floor	Agartala Heights	Agartala / Tripura	Builder Floor / 2 BHK	745	₹7,900/month	Semi-Furnished	1	Family	Rent
+1154	Tripura Properties (Tripura.txt)	2 BHK Apartment	Dharmanagar West	Dharmanagar / Tripura	Apartment / 2 BHK	676	₹10,600/month	Unfurnished	1	Family	Rent
+1155	Tripura Properties (Tripura.txt)	2 BHK Apartment	Dharmanagar Main Road	Dharmanagar / Tripura	Apartment / 2 BHK	990	₹29.62 L	Unfurnished	2	Bachelors	Sale
+1156	Tripura Properties (Tripura.txt)	2 BHK Apartment	Agartala Colony	Agartala / Tripura	Apartment / 2 BHK	656	₹38.19 L	Unfurnished	1	Family	Sale
+1157	Tripura Properties (Tripura.txt)	1 BHK Apartment	Agartala South	Agartala / Tripura	Apartment / 1 BHK	501	₹17.95 L	Unfurnished	1	Any	Sale
+1158	Tripura Properties (Tripura.txt)	3 BHK Apartment	Udaipur Town Centre	Udaipur / Tripura	Apartment / 3 BHK	1453	₹15,900/month	Semi-Furnished	3	Family	Rent
+1159	Tripura Properties (Tripura.txt)	4 BHK Apartment	Udaipur Town Centre	Udaipur / Tripura	Apartment / 4 BHK	1784	₹19,700/month	Fully-Furnished	4	Bachelors	Rent
+1160	Tripura Properties (Tripura.txt)	1 BHK Apartment	Agartala Town Centre	Agartala / Tripura	Apartment / 1 BHK	519	₹6,800/month	Fully-Furnished	2	Family	Rent
+1161	Tripura Properties (Tripura.txt)	2 BHK Villa	Udaipur North	Udaipur / Tripura	Villa / 2 BHK	1126	₹12,100/month	Semi-Furnished	2	Family	Rent
+1162	Tripura Properties (Tripura.txt)	2 BHK Villa	Agartala South	Agartala / Tripura	Villa / 2 BHK	1171	₹10,800/month	Semi-Furnished	1	Family	Rent
+1163	Tripura Properties (Tripura.txt)	4 BHK Builder Floor	Agartala Sector 2	Agartala / Tripura	Builder Floor / 4 BHK	1678	₹53.02 L	Fully-Furnished	5	Family	Sale
+1164	Tripura Properties (Tripura.txt)	2 BHK Builder Floor	Dharmanagar West	Dharmanagar / Tripura	Builder Floor / 2 BHK	740	₹10,200/month	Fully-Furnished	2	Family	Rent
+1165	Tripura Properties (Tripura.txt)	3 BHK Apartment	Agartala East	Agartala / Tripura	Apartment / 3 BHK	875	₹41.30 L	Fully-Furnished	2	Bachelors	Sale
+1166	Tripura Properties (Tripura.txt)	2 BHK Villa	Udaipur Sector 3	Udaipur / Tripura	Villa / 2 BHK	821	₹10,200/month	Semi-Furnished	3	Family	Rent
+1167	Tripura Properties (Tripura.txt)	2 BHK Apartment	Dharmanagar Sector 3	Dharmanagar / Tripura	Apartment / 2 BHK	902	₹38.01 L	Semi-Furnished	2	Family	Sale
+1168	Tripura Properties (Tripura.txt)	4 BHK Independent House	Agartala Town Centre	Agartala / Tripura	Independent House / 4 BHK	2113	₹73.90 L	Semi-Furnished	3	Family	Sale
+1169	Tripura Properties (Tripura.txt)	3 BHK Independent House	Dharmanagar Main Road	Dharmanagar / Tripura	Independent House / 3 BHK	1485	₹56.49 L	Semi-Furnished	2	Bachelors	Sale
+1170	Tripura Properties (Tripura.txt)	2 BHK Apartment	Agartala Town Centre	Agartala / Tripura	Apartment / 2 BHK	743	₹38.31 L	Unfurnished	2	Family	Sale
+1171	Tripura Properties (Tripura.txt)	2 BHK Villa	Agartala Nagar	Agartala / Tripura	Villa / 2 BHK	1077	₹11,600/month	Semi-Furnished	2	Any	Rent
