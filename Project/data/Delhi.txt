@@ -1,0 +1,1172 @@
+No.	Source	Property	Location	City / State	Type / Config	Area	Price / Rent	Furnishing	Bathrooms	Tennants	Listing Type
+1	Delhi Properties (Delhi.txt)	5 BHK Villa	Dwarka Sector 2	Dwarka / Delhi	Villa / 5 BHK	3306	₹1.85 Cr	Semi-Furnished	5	Family	Sale
+2	Delhi Properties (Delhi.txt)	2 BHK Builder Floor	Dwarka West	Dwarka / Delhi	Builder Floor / 2 BHK	869	₹96.66 L	Semi-Furnished	1	Bachelors	Sale
+3	Delhi Properties (Delhi.txt)	4 BHK Independent House	New Delhi West	New Delhi / Delhi	Independent House / 4 BHK	1463	₹43,500/month	Unfurnished	4	Family	Rent
+4	Delhi Properties (Delhi.txt)	2 BHK Builder Floor	Rohini Heights	Rohini / Delhi	Builder Floor / 2 BHK	711	₹21,700/month	Unfurnished	1	Family	Rent
+5	Delhi Properties (Delhi.txt)	4 BHK Apartment	Rohini North	Rohini / Delhi	Apartment / 4 BHK	1729	₹1.44 Cr	Unfurnished	3	Any	Sale
+6	Delhi Properties (Delhi.txt)	4 BHK Builder Floor	Rohini Sector 3	Rohini / Delhi	Builder Floor / 4 BHK	1990	₹51,000/month	Fully-Furnished	3	Family	Rent
+7	Delhi Properties (Delhi.txt)	2 BHK Apartment	Saket West	Saket / Delhi	Apartment / 2 BHK	677	₹76.64 L	Semi-Furnished	3	Bachelors	Sale
+8	Delhi Properties (Delhi.txt)	3 BHK Apartment	Rohini South	Rohini / Delhi	Apartment / 3 BHK	1353	₹1.07 Cr	Fully-Furnished	3	Bachelors	Sale
+9	Delhi Properties (Delhi.txt)	2 BHK Independent House	Dwarka Colony	Dwarka / Delhi	Independent House / 2 BHK	1246	₹27,100/month	Semi-Furnished	1	Bachelors	Rent
+10	Delhi Properties (Delhi.txt)	3 BHK Apartment	Dwarka Town Centre	Dwarka / Delhi	Apartment / 3 BHK	1307	₹35,400/month	Semi-Furnished	4	Bachelors	Rent
+11	Delhi Properties (Delhi.txt)	3 BHK Apartment	Dwarka Sector 2	Dwarka / Delhi	Apartment / 3 BHK	987	₹1.12 Cr	Fully-Furnished	3	Family	Sale
+12	Delhi Properties (Delhi.txt)	4 BHK Apartment	Dwarka East	Dwarka / Delhi	Apartment / 4 BHK	2293	₹1.53 Cr	Semi-Furnished	5	Bachelors	Sale
+13	Delhi Properties (Delhi.txt)	3 BHK Builder Floor	Rohini East	Rohini / Delhi	Builder Floor / 3 BHK	1335	₹1.18 Cr	Unfurnished	4	Family	Sale
+14	Delhi Properties (Delhi.txt)	1 BHK Apartment	Dwarka Extension	Dwarka / Delhi	Apartment / 1 BHK	384	₹42.20 L	Fully-Furnished	1	Bachelors	Sale
+15	Delhi Properties (Delhi.txt)	2 BHK Villa	Rohini Residential Area	Rohini / Delhi	Villa / 2 BHK	1063	₹28,000/month	Semi-Furnished	2	Family	Rent
+16	Delhi Properties (Delhi.txt)	3 BHK Apartment	New Delhi Extension	New Delhi / Delhi	Apartment / 3 BHK	1034	₹34,500/month	Semi-Furnished	3	Any	Rent
+17	Delhi Properties (Delhi.txt)	5 BHK Apartment	Rohini Nagar	Rohini / Delhi	Apartment / 5 BHK	2562	₹48,400/month	Semi-Furnished	5	Bachelors	Rent
+18	Delhi Properties (Delhi.txt)	2 BHK Apartment	New Delhi East	New Delhi / Delhi	Apartment / 2 BHK	641	₹70.94 L	Semi-Furnished	1	Family	Sale
+19	Delhi Properties (Delhi.txt)	2 BHK Apartment	Dwarka West	Dwarka / Delhi	Apartment / 2 BHK	831	₹71.98 L	Unfurnished	3	Any	Sale
+20	Delhi Properties (Delhi.txt)	5 BHK Villa	Saket Extension	Saket / Delhi	Villa / 5 BHK	3607	₹2.27 Cr	Semi-Furnished	6	Family	Sale
+21	Delhi Properties (Delhi.txt)	4 BHK Apartment	Dwarka Town Centre	Dwarka / Delhi	Apartment / 4 BHK	1544	₹46,100/month	Semi-Furnished	5	Any	Rent
+22	Delhi Properties (Delhi.txt)	3 BHK Builder Floor	New Delhi North	New Delhi / Delhi	Builder Floor / 3 BHK	1168	₹95.78 L	Fully-Furnished	2	Any	Sale
+23	Delhi Properties (Delhi.txt)	4 BHK Independent House	Saket North	Saket / Delhi	Independent House / 4 BHK	2598	₹46,700/month	Fully-Furnished	4	Family	Rent
+24	Delhi Properties (Delhi.txt)	1 BHK Studio	New Delhi South	New Delhi / Delhi	Studio / 1 BHK	374	₹15,900/month	Semi-Furnished	2	Bachelors	Rent
+25	Delhi Properties (Delhi.txt)	4 BHK Villa	Saket Sector 3	Saket / Delhi	Villa / 4 BHK	2447	₹52,500/month	Semi-Furnished	4	Any	Rent
+26	Delhi Properties (Delhi.txt)	2 BHK Builder Floor	Dwarka Colony	Dwarka / Delhi	Builder Floor / 2 BHK	776	₹26,100/month	Fully-Furnished	2	Family	Rent
+27	Delhi Properties (Delhi.txt)	2 BHK Apartment	Rohini Residential Area	Rohini / Delhi	Apartment / 2 BHK	773	₹84.95 L	Unfurnished	2	Any	Sale
+28	Delhi Properties (Delhi.txt)	3 BHK Apartment	Dwarka West	Dwarka / Delhi	Apartment / 3 BHK	1061	₹1.24 Cr	Fully-Furnished	2	Family	Sale
+29	Delhi Properties (Delhi.txt)	4 BHK Independent House	New Delhi Sector 2	New Delhi / Delhi	Independent House / 4 BHK	1897	₹1.28 Cr	Fully-Furnished	4	Family	Sale
+30	Delhi Properties (Delhi.txt)	4 BHK Apartment	New Delhi East	New Delhi / Delhi	Apartment / 4 BHK	1430	₹44,400/month	Semi-Furnished	3	Family	Rent
+31	Delhi Properties (Delhi.txt)	4 BHK Independent House	Dwarka Extension	Dwarka / Delhi	Independent House / 4 BHK	2225	₹1.46 Cr	Semi-Furnished	3	Family	Sale
+32	Delhi Properties (Delhi.txt)	1 BHK Studio	Dwarka South	Dwarka / Delhi	Studio / 1 BHK	404	₹48.31 L	Unfurnished	2	Any	Sale
+33	Delhi Properties (Delhi.txt)	4 BHK Independent House	Dwarka Sector 2	Dwarka / Delhi	Independent House / 4 BHK	2223	₹1.44 Cr	Unfurnished	4	Family	Sale
+34	Delhi Properties (Delhi.txt)	3 BHK Independent House	Dwarka Nagar	Dwarka / Delhi	Independent House / 3 BHK	1662	₹32,100/month	Fully-Furnished	3	Bachelors	Rent
+35	Delhi Properties (Delhi.txt)	2 BHK Builder Floor	Rohini Main Road	Rohini / Delhi	Builder Floor / 2 BHK	700	₹76.70 L	Fully-Furnished	3	Family	Sale
+36	Delhi Properties (Delhi.txt)	2 BHK Independent House	Rohini West	Rohini / Delhi	Independent House / 2 BHK	1006	₹1.01 Cr	Semi-Furnished	2	Any	Sale
+37	Delhi Properties (Delhi.txt)	3 BHK Apartment	Saket Main Road	Saket / Delhi	Apartment / 3 BHK	1497	₹31,100/month	Fully-Furnished	3	Bachelors	Rent
+38	Delhi Properties (Delhi.txt)	3 BHK Apartment	Rohini South	Rohini / Delhi	Apartment / 3 BHK	1207	₹95.20 L	Semi-Furnished	3	Family	Sale
+39	Delhi Properties (Delhi.txt)	3 BHK Independent House	Saket North	Saket / Delhi	Independent House / 3 BHK	1366	₹1.17 Cr	Semi-Furnished	2	Family	Sale
+40	Delhi Properties (Delhi.txt)	2 BHK Builder Floor	New Delhi Sector 1	New Delhi / Delhi	Builder Floor / 2 BHK	637	₹80.74 L	Fully-Furnished	2	Any	Sale
+41	Delhi Properties (Delhi.txt)	3 BHK Builder Floor	Rohini Nagar	Rohini / Delhi	Builder Floor / 3 BHK	1512	₹28,500/month	Unfurnished	4	Family	Rent
+42	Delhi Properties (Delhi.txt)	4 BHK Builder Floor	New Delhi Extension	New Delhi / Delhi	Builder Floor / 4 BHK	1688	₹41,500/month	Unfurnished	4	Family	Rent
+43	Delhi Properties (Delhi.txt)	2 BHK Apartment	Saket Sector 2	Saket / Delhi	Apartment / 2 BHK	792	₹18,800/month	Semi-Furnished	2	Family	Rent
+44	Delhi Properties (Delhi.txt)	3 BHK Apartment	New Delhi Colony	New Delhi / Delhi	Apartment / 3 BHK	1309	₹1.07 Cr	Semi-Furnished	4	Family	Sale
+45	Delhi Properties (Delhi.txt)	1 BHK Apartment	Saket Town Centre	Saket / Delhi	Apartment / 1 BHK	582	₹55.95 L	Fully-Furnished	1	Bachelors	Sale
+46	Delhi Properties (Delhi.txt)	2 BHK Apartment	Rohini North	Rohini / Delhi	Apartment / 2 BHK	698	₹24,500/month	Semi-Furnished	2	Family	Rent
+47	Delhi Properties (Delhi.txt)	2 BHK Apartment	Dwarka Heights	Dwarka / Delhi	Apartment / 2 BHK	751	₹21,800/month	Semi-Furnished	1	Family	Rent
+48	Delhi Properties (Delhi.txt)	3 BHK Apartment	Rohini South	Rohini / Delhi	Apartment / 3 BHK	1231	₹28,800/month	Semi-Furnished	2	Bachelors	Rent
+49	Delhi Properties (Delhi.txt)	3 BHK Apartment	Saket Sector 3	Saket / Delhi	Apartment / 3 BHK	1845	₹41,300/month	Semi-Furnished	3	Family	Rent
+50	Delhi Properties (Delhi.txt)	2 BHK Villa	Saket Nagar	Saket / Delhi	Villa / 2 BHK	944	₹1.01 Cr	Semi-Furnished	2	Family	Sale
+51	Delhi Properties (Delhi.txt)	2 BHK Apartment	New Delhi Nagar	New Delhi / Delhi	Apartment / 2 BHK	807	₹86.24 L	Unfurnished	1	Family	Sale
+52	Delhi Properties (Delhi.txt)	2 BHK Independent House	Rohini North	Rohini / Delhi	Independent House / 2 BHK	1023	₹25,700/month	Semi-Furnished	2	Family	Rent
+53	Delhi Properties (Delhi.txt)	3 BHK Villa	Dwarka Residential Area	Dwarka / Delhi	Villa / 3 BHK	1695	₹1.51 Cr	Semi-Furnished	3	Family	Sale
+54	Delhi Properties (Delhi.txt)	3 BHK Villa	Rohini Colony	Rohini / Delhi	Villa / 3 BHK	1640	₹29,000/month	Unfurnished	3	Bachelors	Rent
+55	Delhi Properties (Delhi.txt)	2 BHK Apartment	Rohini East	Rohini / Delhi	Apartment / 2 BHK	922	₹27,000/month	Fully-Furnished	2	Any	Rent
+56	Delhi Properties (Delhi.txt)	5 BHK Villa	Saket Sector 3	Saket / Delhi	Villa / 5 BHK	2641	₹2.10 Cr	Semi-Furnished	5	Any	Sale
+57	Delhi Properties (Delhi.txt)	2 BHK Villa	Dwarka Colony	Dwarka / Delhi	Villa / 2 BHK	1169	₹84.49 L	Fully-Furnished	2	Family	Sale
+58	Delhi Properties (Delhi.txt)	1 BHK Studio	Saket Colony	Saket / Delhi	Studio / 1 BHK	365	₹13,200/month	Fully-Furnished	1	Family	Rent
+59	Delhi Properties (Delhi.txt)	2 BHK Apartment	Saket South	Saket / Delhi	Apartment / 2 BHK	853	₹82.32 L	Unfurnished	3	Any	Sale
+60	Delhi Properties (Delhi.txt)	3 BHK Apartment	New Delhi Nagar	New Delhi / Delhi	Apartment / 3 BHK	1156	₹96.16 L	Unfurnished	3	Any	Sale
+61	Delhi Properties (Delhi.txt)	2 BHK Builder Floor	Saket Heights	Saket / Delhi	Builder Floor / 2 BHK	977	₹19,800/month	Fully-Furnished	3	Any	Rent
+62	Delhi Properties (Delhi.txt)	1 BHK Apartment	Dwarka Town Centre	Dwarka / Delhi	Apartment / 1 BHK	507	₹56 L	Semi-Furnished	2	Family	Sale
+63	Delhi Properties (Delhi.txt)	2 BHK Apartment	New Delhi South	New Delhi / Delhi	Apartment / 2 BHK	1100	₹86.89 L	Unfurnished	2	Any	Sale
+64	Delhi Properties (Delhi.txt)	4 BHK Apartment	New Delhi Heights	New Delhi / Delhi	Apartment / 4 BHK	1410	₹38,200/month	Semi-Furnished	4	Family	Rent
+65	Delhi Properties (Delhi.txt)	4 BHK Apartment	Rohini Sector 2	Rohini / Delhi	Apartment / 4 BHK	1747	₹1.53 Cr	Semi-Furnished	4	Bachelors	Sale
+66	Delhi Properties (Delhi.txt)	4 BHK Apartment	New Delhi Nagar	New Delhi / Delhi	Apartment / 4 BHK	1506	₹35,300/month	Semi-Furnished	4	Family	Rent
+67	Delhi Properties (Delhi.txt)	1 BHK Apartment	Dwarka Colony	Dwarka / Delhi	Apartment / 1 BHK	486	₹13,800/month	Semi-Furnished	1	Any	Rent
+68	Delhi Properties (Delhi.txt)	2 BHK Apartment	Saket East	Saket / Delhi	Apartment / 2 BHK	874	₹19,300/month	Fully-Furnished	3	Family	Rent
+69	Delhi Properties (Delhi.txt)	1 BHK Apartment	Rohini Town Centre	Rohini / Delhi	Apartment / 1 BHK	448	₹56.24 L	Unfurnished	1	Family	Sale
+70	Delhi Properties (Delhi.txt)	3 BHK Apartment	Dwarka Town Centre	Dwarka / Delhi	Apartment / 3 BHK	1387	₹35,300/month	Fully-Furnished	2	Family	Rent
+71	Delhi Properties (Delhi.txt)	1 BHK Studio	Saket Residential Area	Saket / Delhi	Studio / 1 BHK	427	₹56.94 L	Fully-Furnished	1	Any	Sale
+72	Delhi Properties (Delhi.txt)	4 BHK Independent House	Dwarka Town Centre	Dwarka / Delhi	Independent House / 4 BHK	2029	₹1.35 Cr	Fully-Furnished	4	Any	Sale
+73	Delhi Properties (Delhi.txt)	1 BHK Apartment	Saket Central	Saket / Delhi	Apartment / 1 BHK	491	₹17,600/month	Semi-Furnished	1	Family	Rent
+74	Delhi Properties (Delhi.txt)	2 BHK Villa	Saket Heights	Saket / Delhi	Villa / 2 BHK	1272	₹1.10 Cr	Fully-Furnished	2	Family	Sale
+75	Delhi Properties (Delhi.txt)	2 BHK Apartment	New Delhi Town Centre	New Delhi / Delhi	Apartment / 2 BHK	649	₹23,100/month	Semi-Furnished	2	Any	Rent
+76	Delhi Properties (Delhi.txt)	2 BHK Apartment	New Delhi Sector 1	New Delhi / Delhi	Apartment / 2 BHK	866	₹92.96 L	Semi-Furnished	1	Any	Sale
+77	Delhi Properties (Delhi.txt)	5 BHK Apartment	New Delhi Extension	New Delhi / Delhi	Apartment / 5 BHK	2497	₹2.31 Cr	Unfurnished	6	Bachelors	Sale
+78	Delhi Properties (Delhi.txt)	2 BHK Apartment	New Delhi Extension	New Delhi / Delhi	Apartment / 2 BHK	629	₹25,300/month	Fully-Furnished	2	Family	Rent
+79	Delhi Properties (Delhi.txt)	2 BHK Independent House	Rohini West	Rohini / Delhi	Independent House / 2 BHK	1145	₹75.33 L	Semi-Furnished	2	Bachelors	Sale
+80	Delhi Properties (Delhi.txt)	3 BHK Apartment	New Delhi Town Centre	New Delhi / Delhi	Apartment / 3 BHK	985	₹1.17 Cr	Fully-Furnished	3	Any	Sale
+81	Delhi Properties (Delhi.txt)	3 BHK Apartment	Rohini Town Centre	Rohini / Delhi	Apartment / 3 BHK	1059	₹33,800/month	Semi-Furnished	4	Bachelors	Rent
+82	Delhi Properties (Delhi.txt)	3 BHK Apartment	Dwarka South	Dwarka / Delhi	Apartment / 3 BHK	1088	₹97.75 L	Semi-Furnished	3	Family	Sale
+83	Delhi Properties (Delhi.txt)	3 BHK Builder Floor	Saket Sector 3	Saket / Delhi	Builder Floor / 3 BHK	1122	₹1.34 Cr	Fully-Furnished	4	Family	Sale
+84	Delhi Properties (Delhi.txt)	4 BHK Villa	Rohini Central	Rohini / Delhi	Villa / 4 BHK	2651	₹2.03 Cr	Semi-Furnished	3	Family	Sale
+85	Delhi Properties (Delhi.txt)	2 BHK Apartment	Rohini Sector 2	Rohini / Delhi	Apartment / 2 BHK	1013	₹98.37 L	Fully-Furnished	2	Bachelors	Sale
+86	Delhi Properties (Delhi.txt)	1 BHK Studio	Saket North	Saket / Delhi	Studio / 1 BHK	397	₹12,800/month	Unfurnished	2	Family	Rent
+87	Delhi Properties (Delhi.txt)	2 BHK Independent House	Rohini Sector 1	Rohini / Delhi	Independent House / 2 BHK	1232	₹1.11 Cr	Fully-Furnished	2	Family	Sale
+88	Delhi Properties (Delhi.txt)	4 BHK Apartment	Dwarka Main Road	Dwarka / Delhi	Apartment / 4 BHK	2168	₹45,800/month	Unfurnished	4	Family	Rent
+89	Delhi Properties (Delhi.txt)	3 BHK Apartment	New Delhi West	New Delhi / Delhi	Apartment / 3 BHK	1138	₹1.02 Cr	Semi-Furnished	4	Family	Sale
+90	Delhi Properties (Delhi.txt)	4 BHK Apartment	Dwarka Extension	Dwarka / Delhi	Apartment / 4 BHK	2111	₹1.58 Cr	Semi-Furnished	4	Bachelors	Sale
+91	Delhi Properties (Delhi.txt)	2 BHK Apartment	New Delhi Nagar	New Delhi / Delhi	Apartment / 2 BHK	684	₹88.24 L	Unfurnished	2	Bachelors	Sale
+92	Delhi Properties (Delhi.txt)	1 BHK Apartment	Dwarka Residential Area	Dwarka / Delhi	Apartment / 1 BHK	491	₹56.28 L	Unfurnished	2	Family	Sale
+93	Delhi Properties (Delhi.txt)	2 BHK Independent House	Dwarka Sector 2	Dwarka / Delhi	Independent House / 2 BHK	1007	₹1.07 Cr	Semi-Furnished	3	Bachelors	Sale
+94	Delhi Properties (Delhi.txt)	3 BHK Independent House	Saket North	Saket / Delhi	Independent House / 3 BHK	1854	₹38,900/month	Semi-Furnished	3	Family	Rent
+95	Delhi Properties (Delhi.txt)	2 BHK Builder Floor	Saket Extension	Saket / Delhi	Builder Floor / 2 BHK	961	₹89.49 L	Fully-Furnished	2	Bachelors	Sale
+96	Delhi Properties (Delhi.txt)	4 BHK Apartment	Dwarka East	Dwarka / Delhi	Apartment / 4 BHK	1781	₹43,200/month	Fully-Furnished	5	Family	Rent
+97	Delhi Properties (Delhi.txt)	3 BHK Villa	Dwarka Heights	Dwarka / Delhi	Villa / 3 BHK	1805	₹1.46 Cr	Semi-Furnished	3	Family	Sale
+98	Delhi Properties (Delhi.txt)	4 BHK Independent House	Rohini South	Rohini / Delhi	Independent House / 4 BHK	1779	₹1.79 Cr	Fully-Furnished	4	Family	Sale
+99	Delhi Properties (Delhi.txt)	1 BHK Studio	Dwarka Colony	Dwarka / Delhi	Studio / 1 BHK	394	₹58.05 L	Fully-Furnished	1	Family	Sale
+100	Delhi Properties (Delhi.txt)	3 BHK Apartment	Rohini Sector 1	Rohini / Delhi	Apartment / 3 BHK	1223	₹32,700/month	Fully-Furnished	3	Any	Rent
+101	Delhi Properties (Delhi.txt)	2 BHK Builder Floor	Saket Residential Area	Saket / Delhi	Builder Floor / 2 BHK	676	₹77.12 L	Semi-Furnished	2	Bachelors	Sale
+102	Delhi Properties (Delhi.txt)	3 BHK Independent House	New Delhi Extension	New Delhi / Delhi	Independent House / 3 BHK	1372	₹1.39 Cr	Semi-Furnished	3	Family	Sale
+103	Delhi Properties (Delhi.txt)	3 BHK Apartment	New Delhi Extension	New Delhi / Delhi	Apartment / 3 BHK	1277	₹97.32 L	Semi-Furnished	4	Any	Sale
+104	Delhi Properties (Delhi.txt)	3 BHK Independent House	New Delhi South	New Delhi / Delhi	Independent House / 3 BHK	1692	₹38,500/month	Fully-Furnished	4	Any	Rent
+105	Delhi Properties (Delhi.txt)	3 BHK Independent House	New Delhi Town Centre	New Delhi / Delhi	Independent House / 3 BHK	1639	₹1.22 Cr	Semi-Furnished	3	Any	Sale
+106	Delhi Properties (Delhi.txt)	5 BHK Apartment	Dwarka East	Dwarka / Delhi	Apartment / 5 BHK	2955	₹48,500/month	Semi-Furnished	5	Family	Rent
+107	Delhi Properties (Delhi.txt)	1 BHK Apartment	Rohini West	Rohini / Delhi	Apartment / 1 BHK	457	₹15,800/month	Unfurnished	1	Any	Rent
+108	Delhi Properties (Delhi.txt)	3 BHK Apartment	New Delhi Heights	New Delhi / Delhi	Apartment / 3 BHK	1246	₹1.07 Cr	Unfurnished	2	Family	Sale
+109	Delhi Properties (Delhi.txt)	2 BHK Apartment	Rohini Nagar	Rohini / Delhi	Apartment / 2 BHK	877	₹74.15 L	Semi-Furnished	2	Bachelors	Sale
+110	Delhi Properties (Delhi.txt)	2 BHK Apartment	Rohini Sector 2	Rohini / Delhi	Apartment / 2 BHK	592	₹80.42 L	Semi-Furnished	2	Family	Sale
+111	Delhi Properties (Delhi.txt)	4 BHK Independent House	Rohini East	Rohini / Delhi	Independent House / 4 BHK	1851	₹1.30 Cr	Semi-Furnished	5	Any	Sale
+112	Delhi Properties (Delhi.txt)	4 BHK Apartment	Saket Sector 3	Saket / Delhi	Apartment / 4 BHK	1469	₹38,200/month	Semi-Furnished	4	Bachelors	Rent
+113	Delhi Properties (Delhi.txt)	3 BHK Builder Floor	New Delhi Colony	New Delhi / Delhi	Builder Floor / 3 BHK	1211	₹1.02 Cr	Unfurnished	4	Any	Sale
+114	Delhi Properties (Delhi.txt)	1 BHK Independent House	Rohini South	Rohini / Delhi	Independent House / 1 BHK	560	₹16,000/month	Unfurnished	1	Family	Rent
+115	Delhi Properties (Delhi.txt)	2 BHK Apartment	Saket Heights	Saket / Delhi	Apartment / 2 BHK	864	₹92.89 L	Semi-Furnished	2	Family	Sale
+116	Delhi Properties (Delhi.txt)	1 BHK Apartment	Saket South	Saket / Delhi	Apartment / 1 BHK	522	₹64.80 L	Semi-Furnished	2	Any	Sale
+117	Delhi Properties (Delhi.txt)	4 BHK Independent House	New Delhi South	New Delhi / Delhi	Independent House / 4 BHK	2740	₹1.83 Cr	Fully-Furnished	4	Bachelors	Sale
+118	Delhi Properties (Delhi.txt)	4 BHK Independent House	Dwarka Nagar	Dwarka / Delhi	Independent House / 4 BHK	2033	₹1.56 Cr	Fully-Furnished	4	Family	Sale
+119	Delhi Properties (Delhi.txt)	1 BHK Apartment	New Delhi East	New Delhi / Delhi	Apartment / 1 BHK	441	₹13,300/month	Semi-Furnished	1	Bachelors	Rent
+120	Delhi Properties (Delhi.txt)	4 BHK Builder Floor	Saket Sector 1	Saket / Delhi	Builder Floor / 4 BHK	2106	₹1.82 Cr	Fully-Furnished	4	Bachelors	Sale
+121	Delhi Properties (Delhi.txt)	4 BHK Villa	Rohini Sector 2	Rohini / Delhi	Villa / 4 BHK	2459	₹43,500/month	Semi-Furnished	4	Bachelors	Rent
+122	Delhi Properties (Delhi.txt)	1 BHK Builder Floor	New Delhi Sector 3	New Delhi / Delhi	Builder Floor / 1 BHK	464	₹46.27 L	Semi-Furnished	2	Bachelors	Sale
+123	Delhi Properties (Delhi.txt)	3 BHK Independent House	Rohini Central	Rohini / Delhi	Independent House / 3 BHK	1750	₹1.33 Cr	Fully-Furnished	2	Family	Sale
+124	Delhi Properties (Delhi.txt)	1 BHK Builder Floor	Rohini Sector 3	Rohini / Delhi	Builder Floor / 1 BHK	620	₹13,200/month	Semi-Furnished	2	Family	Rent
+125	Delhi Properties (Delhi.txt)	3 BHK Apartment	Rohini Sector 1	Rohini / Delhi	Apartment / 3 BHK	1382	₹38,300/month	Semi-Furnished	4	Any	Rent
+126	Delhi Properties (Delhi.txt)	3 BHK Apartment	Rohini Residential Area	Rohini / Delhi	Apartment / 3 BHK	1301	₹1.36 Cr	Semi-Furnished	3	Bachelors	Sale
+127	Delhi Properties (Delhi.txt)	2 BHK Independent House	New Delhi Central	New Delhi / Delhi	Independent House / 2 BHK	1091	₹99.46 L	Semi-Furnished	2	Any	Sale
+128	Delhi Properties (Delhi.txt)	2 BHK Apartment	Dwarka Nagar	Dwarka / Delhi	Apartment / 2 BHK	885	₹26,200/month	Semi-Furnished	2	Bachelors	Rent
+129	Delhi Properties (Delhi.txt)	4 BHK Apartment	Saket Sector 2	Saket / Delhi	Apartment / 4 BHK	1858	₹1.56 Cr	Unfurnished	4	Family	Sale
+130	Delhi Properties (Delhi.txt)	5 BHK Apartment	Saket Sector 1	Saket / Delhi	Apartment / 5 BHK	2260	₹2.10 Cr	Unfurnished	5	Family	Sale
+131	Delhi Properties (Delhi.txt)	1 BHK Apartment	New Delhi East	New Delhi / Delhi	Apartment / 1 BHK	384	₹60.22 L	Semi-Furnished	1	Any	Sale
+132	Delhi Properties (Delhi.txt)	1 BHK Independent House	Saket South	Saket / Delhi	Independent House / 1 BHK	648	₹68.39 L	Unfurnished	2	Bachelors	Sale
+133	Delhi Properties (Delhi.txt)	2 BHK Villa	Saket Sector 3	Saket / Delhi	Villa / 2 BHK	985	₹86.73 L	Fully-Furnished	3	Bachelors	Sale
+134	Delhi Properties (Delhi.txt)	1 BHK Studio	Dwarka Residential Area	Dwarka / Delhi	Studio / 1 BHK	348	₹41.71 L	Semi-Furnished	1	Bachelors	Sale
+135	Delhi Properties (Delhi.txt)	3 BHK Builder Floor	Rohini South	Rohini / Delhi	Builder Floor / 3 BHK	1070	₹1.09 Cr	Semi-Furnished	4	Bachelors	Sale
+136	Delhi Properties (Delhi.txt)	3 BHK Builder Floor	Rohini Sector 2	Rohini / Delhi	Builder Floor / 3 BHK	1260	₹1.32 Cr	Semi-Furnished	4	Any	Sale
+137	Delhi Properties (Delhi.txt)	3 BHK Apartment	Dwarka East	Dwarka / Delhi	Apartment / 3 BHK	1397	₹1.32 Cr	Unfurnished	3	Bachelors	Sale
+138	Delhi Properties (Delhi.txt)	3 BHK Apartment	Dwarka Main Road	Dwarka / Delhi	Apartment / 3 BHK	1320	₹1.17 Cr	Fully-Furnished	4	Family	Sale
+139	Delhi Properties (Delhi.txt)	2 BHK Independent House	Saket Colony	Saket / Delhi	Independent House / 2 BHK	991	₹23,000/month	Semi-Furnished	3	Family	Rent
+140	Delhi Properties (Delhi.txt)	3 BHK Independent House	Rohini East	Rohini / Delhi	Independent House / 3 BHK	1588	₹1.31 Cr	Fully-Furnished	3	Family	Sale
+141	Delhi Properties (Delhi.txt)	2 BHK Builder Floor	Rohini Sector 1	Rohini / Delhi	Builder Floor / 2 BHK	703	₹71.15 L	Fully-Furnished	2	Any	Sale
+142	Delhi Properties (Delhi.txt)	5 BHK Builder Floor	Dwarka Nagar	Dwarka / Delhi	Builder Floor / 5 BHK	2536	₹2.32 Cr	Unfurnished	5	Any	Sale
+143	Delhi Properties (Delhi.txt)	2 BHK Apartment	Dwarka Heights	Dwarka / Delhi	Apartment / 2 BHK	766	₹85.74 L	Semi-Furnished	1	Bachelors	Sale
+144	Delhi Properties (Delhi.txt)	3 BHK Independent House	Saket South	Saket / Delhi	Independent House / 3 BHK	1275	₹29,400/month	Fully-Furnished	4	Bachelors	Rent
+145	Delhi Properties (Delhi.txt)	4 BHK Apartment	Saket Sector 2	Saket / Delhi	Apartment / 4 BHK	1774	₹1.49 Cr	Semi-Furnished	3	Family	Sale
+146	Delhi Properties (Delhi.txt)	1 BHK Builder Floor	Dwarka Colony	Dwarka / Delhi	Builder Floor / 1 BHK	548	₹47.05 L	Unfurnished	1	Bachelors	Sale
+147	Delhi Properties (Delhi.txt)	4 BHK Apartment	Saket West	Saket / Delhi	Apartment / 4 BHK	1839	₹39,000/month	Fully-Furnished	5	Bachelors	Rent
+148	Delhi Properties (Delhi.txt)	2 BHK Apartment	New Delhi Heights	New Delhi / Delhi	Apartment / 2 BHK	950	₹23,000/month	Semi-Furnished	2	Family	Rent
+149	Delhi Properties (Delhi.txt)	3 BHK Independent House	Saket Heights	Saket / Delhi	Independent House / 3 BHK	1711	₹1.05 Cr	Fully-Furnished	2	Family	Sale
+150	Delhi Properties (Delhi.txt)	2 BHK Builder Floor	New Delhi West	New Delhi / Delhi	Builder Floor / 2 BHK	845	₹83.46 L	Semi-Furnished	2	Family	Sale
+151	Delhi Properties (Delhi.txt)	2 BHK Apartment	Dwarka East	Dwarka / Delhi	Apartment / 2 BHK	1063	₹95.85 L	Semi-Furnished	2	Any	Sale
+152	Delhi Properties (Delhi.txt)	4 BHK Apartment	New Delhi Sector 1	New Delhi / Delhi	Apartment / 4 BHK	1336	₹1.44 Cr	Semi-Furnished	3	Any	Sale
+153	Delhi Properties (Delhi.txt)	5 BHK Apartment	Rohini Colony	Rohini / Delhi	Apartment / 5 BHK	1920	₹45,600/month	Unfurnished	5	Bachelors	Rent
+154	Delhi Properties (Delhi.txt)	1 BHK Apartment	Dwarka Nagar	Dwarka / Delhi	Apartment / 1 BHK	613	₹58.90 L	Semi-Furnished	1	Family	Sale
+155	Delhi Properties (Delhi.txt)	1 BHK Studio	New Delhi Colony	New Delhi / Delhi	Studio / 1 BHK	411	₹45.29 L	Semi-Furnished	1	Family	Sale
+156	Delhi Properties (Delhi.txt)	1 BHK Studio	Dwarka Sector 1	Dwarka / Delhi	Studio / 1 BHK	352	₹15,800/month	Fully-Furnished	1	Family	Rent
+157	Delhi Properties (Delhi.txt)	1 BHK Apartment	Saket Residential Area	Saket / Delhi	Apartment / 1 BHK	461	₹45.63 L	Semi-Furnished	1	Any	Sale
+158	Delhi Properties (Delhi.txt)	2 BHK Apartment	New Delhi South	New Delhi / Delhi	Apartment / 2 BHK	819	₹22,500/month	Semi-Furnished	3	Any	Rent
+159	Delhi Properties (Delhi.txt)	3 BHK Apartment	Rohini Extension	Rohini / Delhi	Apartment / 3 BHK	1161	₹1.39 Cr	Semi-Furnished	3	Family	Sale
+160	Delhi Properties (Delhi.txt)	2 BHK Apartment	Rohini North	Rohini / Delhi	Apartment / 2 BHK	633	₹25,800/month	Fully-Furnished	1	Family	Rent
+161	Delhi Properties (Delhi.txt)	2 BHK Builder Floor	New Delhi Nagar	New Delhi / Delhi	Builder Floor / 2 BHK	857	₹95.05 L	Semi-Furnished	2	Family	Sale
+162	Delhi Properties (Delhi.txt)	1 BHK Apartment	Rohini Residential Area	Rohini / Delhi	Apartment / 1 BHK	534	₹16,800/month	Fully-Furnished	2	Family	Rent
+163	Delhi Properties (Delhi.txt)	3 BHK Independent House	Dwarka North	Dwarka / Delhi	Independent House / 3 BHK	1286	₹1.28 Cr	Fully-Furnished	2	Bachelors	Sale
+164	Delhi Properties (Delhi.txt)	2 BHK Apartment	Dwarka Heights	Dwarka / Delhi	Apartment / 2 BHK	774	₹24,100/month	Fully-Furnished	2	Family	Rent
+165	Delhi Properties (Delhi.txt)	1 BHK Studio	Dwarka Colony	Dwarka / Delhi	Studio / 1 BHK	304	₹49.35 L	Fully-Furnished	2	Family	Sale
+166	Delhi Properties (Delhi.txt)	2 BHK Independent House	New Delhi Nagar	New Delhi / Delhi	Independent House / 2 BHK	1044	₹76 L	Semi-Furnished	2	Any	Sale
+167	Delhi Properties (Delhi.txt)	3 BHK Builder Floor	Dwarka Colony	Dwarka / Delhi	Builder Floor / 3 BHK	1020	₹25,400/month	Fully-Furnished	3	Bachelors	Rent
+168	Delhi Properties (Delhi.txt)	5 BHK Builder Floor	New Delhi West	New Delhi / Delhi	Builder Floor / 5 BHK	2713	₹2.28 Cr	Unfurnished	5	Any	Sale
+169	Delhi Properties (Delhi.txt)	4 BHK Builder Floor	New Delhi West	New Delhi / Delhi	Builder Floor / 4 BHK	1691	₹1.75 Cr	Unfurnished	4	Bachelors	Sale
+170	Delhi Properties (Delhi.txt)	3 BHK Apartment	Saket Heights	Saket / Delhi	Apartment / 3 BHK	1405	₹31,600/month	Semi-Furnished	2	Family	Rent
+171	Delhi Properties (Delhi.txt)	3 BHK Independent House	Rohini Main Road	Rohini / Delhi	Independent House / 3 BHK	1254	₹1.04 Cr	Unfurnished	3	Any	Sale
+172	Delhi Properties (Delhi.txt)	4 BHK Apartment	Saket South	Saket / Delhi	Apartment / 4 BHK	1878	₹1.40 Cr	Semi-Furnished	5	Bachelors	Sale
+173	Delhi Properties (Delhi.txt)	2 BHK Apartment	New Delhi Town Centre	New Delhi / Delhi	Apartment / 2 BHK	916	₹22,900/month	Semi-Furnished	2	Family	Rent
+174	Delhi Properties (Delhi.txt)	2 BHK Independent House	New Delhi Nagar	New Delhi / Delhi	Independent House / 2 BHK	789	₹98.30 L	Unfurnished	2	Bachelors	Sale
+175	Delhi Properties (Delhi.txt)	1 BHK Apartment	New Delhi North	New Delhi / Delhi	Apartment / 1 BHK	526	₹51.78 L	Semi-Furnished	1	Family	Sale
+176	Delhi Properties (Delhi.txt)	4 BHK Independent House	New Delhi Sector 1	New Delhi / Delhi	Independent House / 4 BHK	2287	₹1.91 Cr	Semi-Furnished	4	Bachelors	Sale
+177	Delhi Properties (Delhi.txt)	2 BHK Apartment	New Delhi Extension	New Delhi / Delhi	Apartment / 2 BHK	870	₹23,500/month	Semi-Furnished	2	Any	Rent
+178	Delhi Properties (Delhi.txt)	4 BHK Apartment	Saket West	Saket / Delhi	Apartment / 4 BHK	2142	₹38,900/month	Unfurnished	4	Bachelors	Rent
+179	Delhi Properties (Delhi.txt)	2 BHK Builder Floor	Dwarka North	Dwarka / Delhi	Builder Floor / 2 BHK	842	₹24,000/month	Fully-Furnished	2	Any	Rent
+180	Delhi Properties (Delhi.txt)	2 BHK Villa	Rohini Sector 3	Rohini / Delhi	Villa / 2 BHK	1365	₹28,400/month	Fully-Furnished	1	Bachelors	Rent
+181	Delhi Properties (Delhi.txt)	4 BHK Apartment	Saket Central	Saket / Delhi	Apartment / 4 BHK	1500	₹38,600/month	Fully-Furnished	3	Any	Rent
+182	Delhi Properties (Delhi.txt)	3 BHK Apartment	Saket Sector 2	Saket / Delhi	Apartment / 3 BHK	1406	₹1.11 Cr	Semi-Furnished	3	Bachelors	Sale
+183	Delhi Properties (Delhi.txt)	2 BHK Apartment	New Delhi South	New Delhi / Delhi	Apartment / 2 BHK	737	₹25,000/month	Unfurnished	3	Any	Rent
+184	Delhi Properties (Delhi.txt)	3 BHK Apartment	Saket Colony	Saket / Delhi	Apartment / 3 BHK	1401	₹1.33 Cr	Semi-Furnished	3	Bachelors	Sale
+185	Delhi Properties (Delhi.txt)	3 BHK Apartment	New Delhi South	New Delhi / Delhi	Apartment / 3 BHK	1277	₹1.36 Cr	Semi-Furnished	4	Family	Sale
+186	Delhi Properties (Delhi.txt)	3 BHK Apartment	New Delhi Town Centre	New Delhi / Delhi	Apartment / 3 BHK	1169	₹1.22 Cr	Semi-Furnished	3	Any	Sale
+187	Delhi Properties (Delhi.txt)	3 BHK Apartment	Rohini Nagar	Rohini / Delhi	Apartment / 3 BHK	1421	₹1.39 Cr	Unfurnished	3	Any	Sale
+188	Delhi Properties (Delhi.txt)	3 BHK Apartment	Rohini Town Centre	Rohini / Delhi	Apartment / 3 BHK	1221	₹1.19 Cr	Unfurnished	2	Any	Sale
+189	Delhi Properties (Delhi.txt)	1 BHK Independent House	Rohini West	Rohini / Delhi	Independent House / 1 BHK	538	₹47.27 L	Semi-Furnished	2	Bachelors	Sale
+190	Delhi Properties (Delhi.txt)	3 BHK Builder Floor	Saket East	Saket / Delhi	Builder Floor / 3 BHK	965	₹99.05 L	Semi-Furnished	4	Bachelors	Sale
+191	Delhi Properties (Delhi.txt)	1 BHK Builder Floor	Dwarka Main Road	Dwarka / Delhi	Builder Floor / 1 BHK	516	₹17,200/month	Semi-Furnished	1	Family	Rent
+192	Delhi Properties (Delhi.txt)	2 BHK Independent House	Saket Sector 1	Saket / Delhi	Independent House / 2 BHK	1054	₹97.98 L	Fully-Furnished	3	Any	Sale
+193	Delhi Properties (Delhi.txt)	2 BHK Apartment	Saket Extension	Saket / Delhi	Apartment / 2 BHK	827	₹92.78 L	Semi-Furnished	2	Family	Sale
+194	Delhi Properties (Delhi.txt)	3 BHK Independent House	Dwarka Main Road	Dwarka / Delhi	Independent House / 3 BHK	1463	₹37,500/month	Semi-Furnished	4	Family	Rent
+195	Delhi Properties (Delhi.txt)	1 BHK Apartment	New Delhi West	New Delhi / Delhi	Apartment / 1 BHK	528	₹52.08 L	Semi-Furnished	1	Family	Sale
+196	Delhi Properties (Delhi.txt)	3 BHK Builder Floor	Saket Main Road	Saket / Delhi	Builder Floor / 3 BHK	1189	₹31,300/month	Fully-Furnished	3	Bachelors	Rent
+197	Delhi Properties (Delhi.txt)	4 BHK Apartment	New Delhi Nagar	New Delhi / Delhi	Apartment / 4 BHK	1256	₹41,600/month	Fully-Furnished	4	Family	Rent
+198	Delhi Properties (Delhi.txt)	3 BHK Villa	Saket Town Centre	Saket / Delhi	Villa / 3 BHK	1605	₹1.11 Cr	Fully-Furnished	3	Family	Sale
+199	Delhi Properties (Delhi.txt)	2 BHK Apartment	Rohini Residential Area	Rohini / Delhi	Apartment / 2 BHK	738	₹26,900/month	Unfurnished	1	Bachelors	Rent
+200	Delhi Properties (Delhi.txt)	3 BHK Independent House	Saket Extension	Saket / Delhi	Independent House / 3 BHK	1577	₹37,700/month	Fully-Furnished	4	Family	Rent
+201	Delhi Properties (Delhi.txt)	2 BHK Villa	Saket Town Centre	Saket / Delhi	Villa / 2 BHK	1126	₹30,300/month	Unfurnished	2	Family	Rent
+202	Delhi Properties (Delhi.txt)	3 BHK Independent House	Rohini Central	Rohini / Delhi	Independent House / 3 BHK	1845	₹30,000/month	Semi-Furnished	3	Bachelors	Rent
+203	Delhi Properties (Delhi.txt)	2 BHK Builder Floor	New Delhi East	New Delhi / Delhi	Builder Floor / 2 BHK	698	₹89.67 L	Semi-Furnished	2	Bachelors	Sale
+204	Delhi Properties (Delhi.txt)	1 BHK Apartment	Saket Nagar	Saket / Delhi	Apartment / 1 BHK	504	₹58.21 L	Fully-Furnished	1	Bachelors	Sale
+205	Delhi Properties (Delhi.txt)	3 BHK Apartment	New Delhi Central	New Delhi / Delhi	Apartment / 3 BHK	1303	₹1.19 Cr	Semi-Furnished	3	Any	Sale
+206	Delhi Properties (Delhi.txt)	2 BHK Apartment	Rohini Sector 2	Rohini / Delhi	Apartment / 2 BHK	799	₹21,700/month	Semi-Furnished	1	Bachelors	Rent
+207	Delhi Properties (Delhi.txt)	2 BHK Builder Floor	Rohini Sector 3	Rohini / Delhi	Builder Floor / 2 BHK	758	₹75.83 L	Semi-Furnished	3	Any	Sale
+208	Delhi Properties (Delhi.txt)	1 BHK Apartment	Dwarka South	Dwarka / Delhi	Apartment / 1 BHK	609	₹53.80 L	Semi-Furnished	1	Family	Sale
+209	Delhi Properties (Delhi.txt)	1 BHK Builder Floor	Saket Colony	Saket / Delhi	Builder Floor / 1 BHK	489	₹58.87 L	Fully-Furnished	1	Any	Sale
+210	Delhi Properties (Delhi.txt)	3 BHK Independent House	Dwarka Town Centre	Dwarka / Delhi	Independent House / 3 BHK	1478	₹1.28 Cr	Semi-Furnished	3	Bachelors	Sale
+211	Delhi Properties (Delhi.txt)	3 BHK Apartment	New Delhi Sector 1	New Delhi / Delhi	Apartment / 3 BHK	1247	₹37,800/month	Semi-Furnished	3	Any	Rent
+212	Delhi Properties (Delhi.txt)	1 BHK Apartment	Rohini Nagar	Rohini / Delhi	Apartment / 1 BHK	456	₹55.57 L	Unfurnished	1	Family	Sale
+213	Delhi Properties (Delhi.txt)	2 BHK Villa	Dwarka Heights	Dwarka / Delhi	Villa / 2 BHK	1127	₹1.09 Cr	Semi-Furnished	2	Any	Sale
+214	Delhi Properties (Delhi.txt)	3 BHK Independent House	Dwarka Town Centre	Dwarka / Delhi	Independent House / 3 BHK	1633	₹33,500/month	Semi-Furnished	3	Family	Rent
+215	Delhi Properties (Delhi.txt)	3 BHK Apartment	Dwarka Extension	Dwarka / Delhi	Apartment / 3 BHK	1226	₹95.78 L	Unfurnished	3	Any	Sale
+216	Delhi Properties (Delhi.txt)	2 BHK Apartment	New Delhi West	New Delhi / Delhi	Apartment / 2 BHK	826	₹85.10 L	Semi-Furnished	2	Family	Sale
+217	Delhi Properties (Delhi.txt)	1 BHK Studio	Dwarka Main Road	Dwarka / Delhi	Studio / 1 BHK	362	₹49.58 L	Unfurnished	1	Family	Sale
+218	Delhi Properties (Delhi.txt)	5 BHK Builder Floor	New Delhi Colony	New Delhi / Delhi	Builder Floor / 5 BHK	2705	₹1.65 Cr	Fully-Furnished	5	Family	Sale
+219	Delhi Properties (Delhi.txt)	2 BHK Villa	Dwarka North	Dwarka / Delhi	Villa / 2 BHK	1479	₹91.49 L	Semi-Furnished	2	Family	Sale
+220	Delhi Properties (Delhi.txt)	3 BHK Apartment	Rohini Town Centre	Rohini / Delhi	Apartment / 3 BHK	1195	₹1.25 Cr	Semi-Furnished	3	Any	Sale
+221	Delhi Properties (Delhi.txt)	3 BHK Apartment	Dwarka Sector 3	Dwarka / Delhi	Apartment / 3 BHK	924	₹1.09 Cr	Fully-Furnished	4	Any	Sale
+222	Delhi Properties (Delhi.txt)	3 BHK Builder Floor	Rohini Sector 1	Rohini / Delhi	Builder Floor / 3 BHK	1180	₹31,100/month	Unfurnished	3	Bachelors	Rent
+223	Delhi Properties (Delhi.txt)	1 BHK Apartment	New Delhi Colony	New Delhi / Delhi	Apartment / 1 BHK	606	₹18,900/month	Fully-Furnished	1	Any	Rent
+224	Delhi Properties (Delhi.txt)	1 BHK Independent House	Rohini West	Rohini / Delhi	Independent House / 1 BHK	638	₹15,600/month	Semi-Furnished	1	Bachelors	Rent
+225	Delhi Properties (Delhi.txt)	2 BHK Apartment	Saket Extension	Saket / Delhi	Apartment / 2 BHK	782	₹27,000/month	Fully-Furnished	3	Bachelors	Rent
+226	Delhi Properties (Delhi.txt)	3 BHK Apartment	New Delhi Sector 2	New Delhi / Delhi	Apartment / 3 BHK	1129	₹96.51 L	Unfurnished	4	Family	Sale
+227	Delhi Properties (Delhi.txt)	2 BHK Apartment	Dwarka Sector 2	Dwarka / Delhi	Apartment / 2 BHK	835	₹24,700/month	Unfurnished	2	Bachelors	Rent
+228	Delhi Properties (Delhi.txt)	2 BHK Apartment	Rohini Residential Area	Rohini / Delhi	Apartment / 2 BHK	1080	₹76.49 L	Semi-Furnished	1	Family	Sale
+229	Delhi Properties (Delhi.txt)	2 BHK Independent House	Saket Sector 3	Saket / Delhi	Independent House / 2 BHK	875	₹85.86 L	Fully-Furnished	1	Family	Sale
+230	Delhi Properties (Delhi.txt)	3 BHK Apartment	Rohini Town Centre	Rohini / Delhi	Apartment / 3 BHK	1297	₹1.05 Cr	Unfurnished	3	Bachelors	Sale
+231	Delhi Properties (Delhi.txt)	2 BHK Apartment	Saket Nagar	Saket / Delhi	Apartment / 2 BHK	986	₹22,800/month	Unfurnished	2	Family	Rent
+232	Delhi Properties (Delhi.txt)	3 BHK Builder Floor	Rohini Town Centre	Rohini / Delhi	Builder Floor / 3 BHK	1194	₹30,400/month	Fully-Furnished	3	Family	Rent
+233	Delhi Properties (Delhi.txt)	3 BHK Independent House	Saket North	Saket / Delhi	Independent House / 3 BHK	1728	₹1.09 Cr	Fully-Furnished	3	Family	Sale
+234	Delhi Properties (Delhi.txt)	2 BHK Builder Floor	New Delhi Sector 1	New Delhi / Delhi	Builder Floor / 2 BHK	899	₹27,500/month	Unfurnished	2	Family	Rent
+235	Delhi Properties (Delhi.txt)	2 BHK Apartment	Dwarka Nagar	Dwarka / Delhi	Apartment / 2 BHK	919	₹22,900/month	Semi-Furnished	2	Family	Rent
+236	Delhi Properties (Delhi.txt)	3 BHK Villa	Saket South	Saket / Delhi	Villa / 3 BHK	1926	₹37,900/month	Fully-Furnished	3	Bachelors	Rent
+237	Delhi Properties (Delhi.txt)	3 BHK Independent House	Dwarka West	Dwarka / Delhi	Independent House / 3 BHK	1259	₹1.41 Cr	Semi-Furnished	3	Any	Sale
+238	Delhi Properties (Delhi.txt)	2 BHK Builder Floor	Saket Residential Area	Saket / Delhi	Builder Floor / 2 BHK	782	₹95.70 L	Semi-Furnished	2	Any	Sale
+239	Delhi Properties (Delhi.txt)	2 BHK Apartment	Saket North	Saket / Delhi	Apartment / 2 BHK	917	₹73.62 L	Unfurnished	2	Family	Sale
+240	Delhi Properties (Delhi.txt)	2 BHK Apartment	Saket Town Centre	Saket / Delhi	Apartment / 2 BHK	792	₹26,400/month	Semi-Furnished	2	Any	Rent
+241	Delhi Properties (Delhi.txt)	3 BHK Apartment	Saket Sector 3	Saket / Delhi	Apartment / 3 BHK	1287	₹1.14 Cr	Semi-Furnished	2	Family	Sale
+242	Delhi Properties (Delhi.txt)	1 BHK Apartment	Saket Nagar	Saket / Delhi	Apartment / 1 BHK	492	₹53.61 L	Unfurnished	2	Family	Sale
+243	Delhi Properties (Delhi.txt)	2 BHK Builder Floor	New Delhi Sector 1	New Delhi / Delhi	Builder Floor / 2 BHK	964	₹99.11 L	Unfurnished	3	Bachelors	Sale
+244	Delhi Properties (Delhi.txt)	2 BHK Builder Floor	Saket Extension	Saket / Delhi	Builder Floor / 2 BHK	836	₹92.85 L	Semi-Furnished	2	Bachelors	Sale
+245	Delhi Properties (Delhi.txt)	2 BHK Apartment	Saket Residential Area	Saket / Delhi	Apartment / 2 BHK	778	₹78.53 L	Fully-Furnished	2	Family	Sale
+246	Delhi Properties (Delhi.txt)	2 BHK Independent House	Dwarka East	Dwarka / Delhi	Independent House / 2 BHK	1038	₹29,600/month	Semi-Furnished	1	Bachelors	Rent
+247	Delhi Properties (Delhi.txt)	4 BHK Independent House	Dwarka Town Centre	Dwarka / Delhi	Independent House / 4 BHK	2165	₹1.38 Cr	Unfurnished	3	Any	Sale
+248	Delhi Properties (Delhi.txt)	2 BHK Apartment	New Delhi Nagar	New Delhi / Delhi	Apartment / 2 BHK	754	₹76.53 L	Fully-Furnished	2	Any	Sale
+249	Delhi Properties (Delhi.txt)	3 BHK Apartment	Rohini North	Rohini / Delhi	Apartment / 3 BHK	1160	₹1.05 Cr	Semi-Furnished	4	Any	Sale
+250	Delhi Properties (Delhi.txt)	3 BHK Apartment	New Delhi Town Centre	New Delhi / Delhi	Apartment / 3 BHK	987	₹96.28 L	Semi-Furnished	3	Family	Sale
+251	Delhi Properties (Delhi.txt)	3 BHK Apartment	Saket Heights	Saket / Delhi	Apartment / 3 BHK	871	₹1.02 Cr	Semi-Furnished	2	Bachelors	Sale
+252	Delhi Properties (Delhi.txt)	1 BHK Independent House	Dwarka Colony	Dwarka / Delhi	Independent House / 1 BHK	755	₹50.70 L	Fully-Furnished	1	Any	Sale
+253	Delhi Properties (Delhi.txt)	1 BHK Apartment	Rohini Nagar	Rohini / Delhi	Apartment / 1 BHK	569	₹64.25 L	Unfurnished	1	Family	Sale
+254	Delhi Properties (Delhi.txt)	1 BHK Builder Floor	Dwarka Residential Area	Dwarka / Delhi	Builder Floor / 1 BHK	542	₹16,500/month	Unfurnished	1	Bachelors	Rent
+255	Delhi Properties (Delhi.txt)	4 BHK Villa	Dwarka Main Road	Dwarka / Delhi	Villa / 4 BHK	2364	₹1.40 Cr	Fully-Furnished	4	Family	Sale
+256	Delhi Properties (Delhi.txt)	2 BHK Builder Floor	Dwarka Sector 2	Dwarka / Delhi	Builder Floor / 2 BHK	858	₹81.34 L	Fully-Furnished	2	Family	Sale
+257	Delhi Properties (Delhi.txt)	3 BHK Apartment	Dwarka Residential Area	Dwarka / Delhi	Apartment / 3 BHK	1149	₹31,300/month	Fully-Furnished	4	Bachelors	Rent
+258	Delhi Properties (Delhi.txt)	1 BHK Studio	Rohini Town Centre	Rohini / Delhi	Studio / 1 BHK	300	₹14,400/month	Semi-Furnished	1	Bachelors	Rent
+259	Delhi Properties (Delhi.txt)	1 BHK Villa	Saket Extension	Saket / Delhi	Villa / 1 BHK	698	₹55.74 L	Semi-Furnished	1	Family	Sale
+260	Delhi Properties (Delhi.txt)	3 BHK Apartment	Dwarka West	Dwarka / Delhi	Apartment / 3 BHK	1155	₹1.23 Cr	Fully-Furnished	3	Family	Sale
+261	Delhi Properties (Delhi.txt)	4 BHK Apartment	Rohini Central	Rohini / Delhi	Apartment / 4 BHK	1215	₹33,500/month	Unfurnished	5	Any	Rent
+262	Delhi Properties (Delhi.txt)	1 BHK Apartment	Saket Residential Area	Saket / Delhi	Apartment / 1 BHK	578	₹14,800/month	Fully-Furnished	1	Family	Rent
+263	Delhi Properties (Delhi.txt)	3 BHK Builder Floor	Saket South	Saket / Delhi	Builder Floor / 3 BHK	1327	₹31,500/month	Unfurnished	3	Family	Rent
+264	Delhi Properties (Delhi.txt)	1 BHK Builder Floor	New Delhi Sector 1	New Delhi / Delhi	Builder Floor / 1 BHK	439	₹42.86 L	Semi-Furnished	1	Family	Sale
+265	Delhi Properties (Delhi.txt)	3 BHK Villa	Saket West	Saket / Delhi	Villa / 3 BHK	1303	₹27,000/month	Unfurnished	3	Family	Rent
+266	Delhi Properties (Delhi.txt)	2 BHK Independent House	Dwarka North	Dwarka / Delhi	Independent House / 2 BHK	789	₹22,300/month	Semi-Furnished	3	Bachelors	Rent
+267	Delhi Properties (Delhi.txt)	1 BHK Studio	Dwarka North	Dwarka / Delhi	Studio / 1 BHK	376	₹14,600/month	Fully-Furnished	1	Family	Rent
+268	Delhi Properties (Delhi.txt)	3 BHK Apartment	Saket Extension	Saket / Delhi	Apartment / 3 BHK	1259	₹31,900/month	Fully-Furnished	3	Family	Rent
+269	Delhi Properties (Delhi.txt)	1 BHK Apartment	Rohini Sector 2	Rohini / Delhi	Apartment / 1 BHK	551	₹53.21 L	Unfurnished	2	Any	Sale
+270	Delhi Properties (Delhi.txt)	1 BHK Apartment	Saket Heights	Saket / Delhi	Apartment / 1 BHK	569	₹15,700/month	Semi-Furnished	1	Family	Rent
+271	Delhi Properties (Delhi.txt)	2 BHK Apartment	New Delhi Sector 1	New Delhi / Delhi	Apartment / 2 BHK	790	₹97.96 L	Unfurnished	2	Family	Sale
+272	Delhi Properties (Delhi.txt)	4 BHK Apartment	Dwarka Heights	Dwarka / Delhi	Apartment / 4 BHK	2032	₹1.54 Cr	Unfurnished	4	Family	Sale
+273	Delhi Properties (Delhi.txt)	2 BHK Apartment	Rohini West	Rohini / Delhi	Apartment / 2 BHK	1061	₹75.49 L	Fully-Furnished	2	Bachelors	Sale
+274	Delhi Properties (Delhi.txt)	3 BHK Apartment	Rohini North	Rohini / Delhi	Apartment / 3 BHK	1136	₹1.01 Cr	Semi-Furnished	3	Any	Sale
+275	Delhi Properties (Delhi.txt)	3 BHK Apartment	Rohini West	Rohini / Delhi	Apartment / 3 BHK	1364	₹1.09 Cr	Unfurnished	2	Family	Sale
+276	Delhi Properties (Delhi.txt)	3 BHK Apartment	Dwarka Central	Dwarka / Delhi	Apartment / 3 BHK	1357	₹33,700/month	Semi-Furnished	3	Bachelors	Rent
+277	Delhi Properties (Delhi.txt)	2 BHK Apartment	Rohini Sector 2	Rohini / Delhi	Apartment / 2 BHK	707	₹88.33 L	Semi-Furnished	3	Bachelors	Sale
+278	Delhi Properties (Delhi.txt)	3 BHK Apartment	Saket Sector 3	Saket / Delhi	Apartment / 3 BHK	1174	₹26,700/month	Unfurnished	3	Any	Rent
+279	Delhi Properties (Delhi.txt)	4 BHK Apartment	New Delhi East	New Delhi / Delhi	Apartment / 4 BHK	1465	₹1.31 Cr	Semi-Furnished	4	Family	Sale
+280	Delhi Properties (Delhi.txt)	1 BHK Apartment	Dwarka West	Dwarka / Delhi	Apartment / 1 BHK	490	₹14,900/month	Unfurnished	1	Bachelors	Rent
+281	Delhi Properties (Delhi.txt)	2 BHK Apartment	Saket North	Saket / Delhi	Apartment / 2 BHK	838	₹72.43 L	Semi-Furnished	3	Family	Sale
+282	Delhi Properties (Delhi.txt)	3 BHK Independent House	Rohini South	Rohini / Delhi	Independent House / 3 BHK	1090	₹98.19 L	Semi-Furnished	3	Bachelors	Sale
+283	Delhi Properties (Delhi.txt)	3 BHK Apartment	New Delhi Central	New Delhi / Delhi	Apartment / 3 BHK	1182	₹30,200/month	Unfurnished	3	Family	Rent
+284	Delhi Properties (Delhi.txt)	4 BHK Apartment	Saket Central	Saket / Delhi	Apartment / 4 BHK	1914	₹1.64 Cr	Semi-Furnished	4	Bachelors	Sale
+285	Delhi Properties (Delhi.txt)	3 BHK Independent House	Rohini East	Rohini / Delhi	Independent House / 3 BHK	1723	₹31,500/month	Semi-Furnished	3	Bachelors	Rent
+286	Delhi Properties (Delhi.txt)	2 BHK Apartment	Dwarka Heights	Dwarka / Delhi	Apartment / 2 BHK	1060	₹1.05 Cr	Unfurnished	3	Family	Sale
+287	Delhi Properties (Delhi.txt)	3 BHK Apartment	Saket Sector 3	Saket / Delhi	Apartment / 3 BHK	904	₹1.30 Cr	Unfurnished	4	Bachelors	Sale
+288	Delhi Properties (Delhi.txt)	3 BHK Apartment	Rohini West	Rohini / Delhi	Apartment / 3 BHK	1192	₹1.11 Cr	Fully-Furnished	3	Family	Sale
+289	Delhi Properties (Delhi.txt)	1 BHK Studio	Saket Sector 3	Saket / Delhi	Studio / 1 BHK	376	₹56.84 L	Fully-Furnished	1	Family	Sale
+290	Delhi Properties (Delhi.txt)	3 BHK Apartment	Saket East	Saket / Delhi	Apartment / 3 BHK	1297	₹1.03 Cr	Semi-Furnished	4	Bachelors	Sale
+291	Delhi Properties (Delhi.txt)	3 BHK Independent House	Saket West	Saket / Delhi	Independent House / 3 BHK	1218	₹1.01 Cr	Fully-Furnished	3	Family	Sale
+292	Delhi Properties (Delhi.txt)	4 BHK Apartment	Dwarka Nagar	Dwarka / Delhi	Apartment / 4 BHK	1617	₹1.30 Cr	Unfurnished	4	Family	Sale
+293	Delhi Properties (Delhi.txt)	3 BHK Builder Floor	Saket Residential Area	Saket / Delhi	Builder Floor / 3 BHK	1503	₹1.23 Cr	Unfurnished	4	Family	Sale
+294	Delhi Properties (Delhi.txt)	3 BHK Apartment	New Delhi Colony	New Delhi / Delhi	Apartment / 3 BHK	905	₹29,300/month	Semi-Furnished	4	Any	Rent
+295	Delhi Properties (Delhi.txt)	4 BHK Apartment	Saket West	Saket / Delhi	Apartment / 4 BHK	1573	₹39,700/month	Semi-Furnished	4	Family	Rent
+296	Delhi Properties (Delhi.txt)	4 BHK Builder Floor	Dwarka East	Dwarka / Delhi	Builder Floor / 4 BHK	1838	₹36,500/month	Semi-Furnished	4	Family	Rent
+297	Delhi Properties (Delhi.txt)	3 BHK Independent House	Dwarka West	Dwarka / Delhi	Independent House / 3 BHK	1125	₹1.36 Cr	Semi-Furnished	3	Family	Sale
+298	Delhi Properties (Delhi.txt)	1 BHK Apartment	Saket Heights	Saket / Delhi	Apartment / 1 BHK	564	₹14,100/month	Unfurnished	1	Family	Rent
+299	Delhi Properties (Delhi.txt)	2 BHK Apartment	Rohini Colony	Rohini / Delhi	Apartment / 2 BHK	765	₹19,400/month	Unfurnished	2	Bachelors	Rent
+300	Delhi Properties (Delhi.txt)	2 BHK Apartment	New Delhi Sector 3	New Delhi / Delhi	Apartment / 2 BHK	729	₹75.62 L	Semi-Furnished	2	Bachelors	Sale
+301	Delhi Properties (Delhi.txt)	3 BHK Apartment	Dwarka South	Dwarka / Delhi	Apartment / 3 BHK	1349	₹1.13 Cr	Fully-Furnished	3	Family	Sale
+302	Delhi Properties (Delhi.txt)	3 BHK Builder Floor	Dwarka Extension	Dwarka / Delhi	Builder Floor / 3 BHK	1440	₹28,700/month	Semi-Furnished	3	Bachelors	Rent
+303	Delhi Properties (Delhi.txt)	2 BHK Apartment	Rohini Colony	Rohini / Delhi	Apartment / 2 BHK	763	₹21,000/month	Semi-Furnished	2	Family	Rent
+304	Delhi Properties (Delhi.txt)	5 BHK Apartment	New Delhi Heights	New Delhi / Delhi	Apartment / 5 BHK	2019	₹1.65 Cr	Semi-Furnished	5	Bachelors	Sale
+305	Delhi Properties (Delhi.txt)	3 BHK Apartment	Saket Sector 3	Saket / Delhi	Apartment / 3 BHK	1171	₹1.10 Cr	Fully-Furnished	4	Bachelors	Sale
+306	Delhi Properties (Delhi.txt)	3 BHK Apartment	Saket Nagar	Saket / Delhi	Apartment / 3 BHK	1035	₹1.19 Cr	Semi-Furnished	3	Family	Sale
+307	Delhi Properties (Delhi.txt)	3 BHK Independent House	New Delhi East	New Delhi / Delhi	Independent House / 3 BHK	1912	₹1.09 Cr	Semi-Furnished	3	Family	Sale
+308	Delhi Properties (Delhi.txt)	3 BHK Apartment	New Delhi Heights	New Delhi / Delhi	Apartment / 3 BHK	1312	₹1.34 Cr	Fully-Furnished	3	Any	Sale
+309	Delhi Properties (Delhi.txt)	4 BHK Apartment	New Delhi Heights	New Delhi / Delhi	Apartment / 4 BHK	1606	₹1.56 Cr	Fully-Furnished	4	Any	Sale
+310	Delhi Properties (Delhi.txt)	2 BHK Apartment	New Delhi Extension	New Delhi / Delhi	Apartment / 2 BHK	843	₹27,600/month	Unfurnished	3	Any	Rent
+311	Delhi Properties (Delhi.txt)	2 BHK Apartment	Saket Extension	Saket / Delhi	Apartment / 2 BHK	846	₹83.42 L	Fully-Furnished	1	Any	Sale
+312	Delhi Properties (Delhi.txt)	3 BHK Apartment	Dwarka Town Centre	Dwarka / Delhi	Apartment / 3 BHK	1586	₹37,400/month	Semi-Furnished	2	Bachelors	Rent
+313	Delhi Properties (Delhi.txt)	1 BHK Villa	New Delhi Residential Area	New Delhi / Delhi	Villa / 1 BHK	718	₹19,800/month	Unfurnished	2	Bachelors	Rent
+314	Delhi Properties (Delhi.txt)	3 BHK Apartment	New Delhi North	New Delhi / Delhi	Apartment / 3 BHK	866	₹1.31 Cr	Semi-Furnished	4	Family	Sale
+315	Delhi Properties (Delhi.txt)	5 BHK Builder Floor	Dwarka West	Dwarka / Delhi	Builder Floor / 5 BHK	2510	₹44,000/month	Unfurnished	5	Family	Rent
+316	Delhi Properties (Delhi.txt)	2 BHK Apartment	Dwarka East	Dwarka / Delhi	Apartment / 2 BHK	786	₹26,500/month	Unfurnished	1	Family	Rent
+317	Delhi Properties (Delhi.txt)	3 BHK Independent House	New Delhi Nagar	New Delhi / Delhi	Independent House / 3 BHK	1443	₹34,600/month	Fully-Furnished	4	Any	Rent
+318	Delhi Properties (Delhi.txt)	1 BHK Apartment	Saket South	Saket / Delhi	Apartment / 1 BHK	523	₹53.26 L	Semi-Furnished	1	Bachelors	Sale
+319	Delhi Properties (Delhi.txt)	1 BHK Villa	Dwarka Nagar	Dwarka / Delhi	Villa / 1 BHK	835	₹74.04 L	Semi-Furnished	1	Family	Sale
+320	Delhi Properties (Delhi.txt)	1 BHK Apartment	Dwarka North	Dwarka / Delhi	Apartment / 1 BHK	545	₹51.34 L	Fully-Furnished	1	Bachelors	Sale
+321	Delhi Properties (Delhi.txt)	2 BHK Apartment	Dwarka East	Dwarka / Delhi	Apartment / 2 BHK	598	₹93.17 L	Fully-Furnished	2	Any	Sale
+322	Delhi Properties (Delhi.txt)	3 BHK Villa	Rohini Nagar	Rohini / Delhi	Villa / 3 BHK	1964	₹37,600/month	Unfurnished	4	Bachelors	Rent
+323	Delhi Properties (Delhi.txt)	4 BHK Apartment	Dwarka Heights	Dwarka / Delhi	Apartment / 4 BHK	1943	₹1.32 Cr	Unfurnished	5	Any	Sale
+324	Delhi Properties (Delhi.txt)	3 BHK Apartment	Rohini West	Rohini / Delhi	Apartment / 3 BHK	1338	₹1.38 Cr	Semi-Furnished	3	Family	Sale
+325	Delhi Properties (Delhi.txt)	3 BHK Apartment	Rohini Colony	Rohini / Delhi	Apartment / 3 BHK	1285	₹26,200/month	Semi-Furnished	3	Bachelors	Rent
+326	Delhi Properties (Delhi.txt)	3 BHK Independent House	Rohini Residential Area	Rohini / Delhi	Independent House / 3 BHK	1476	₹1.05 Cr	Semi-Furnished	3	Family	Sale
+327	Delhi Properties (Delhi.txt)	3 BHK Apartment	Rohini Main Road	Rohini / Delhi	Apartment / 3 BHK	1471	₹1.18 Cr	Semi-Furnished	4	Any	Sale
+328	Delhi Properties (Delhi.txt)	3 BHK Apartment	Rohini Nagar	Rohini / Delhi	Apartment / 3 BHK	1538	₹1.02 Cr	Unfurnished	2	Family	Sale
+329	Delhi Properties (Delhi.txt)	1 BHK Apartment	Rohini Residential Area	Rohini / Delhi	Apartment / 1 BHK	559	₹13,000/month	Unfurnished	1	Bachelors	Rent
+330	Delhi Properties (Delhi.txt)	2 BHK Apartment	Dwarka Extension	Dwarka / Delhi	Apartment / 2 BHK	747	₹23,400/month	Unfurnished	3	Any	Rent
+331	Delhi Properties (Delhi.txt)	1 BHK Studio	Rohini Central	Rohini / Delhi	Studio / 1 BHK	363	₹49.58 L	Fully-Furnished	1	Family	Sale
+332	Delhi Properties (Delhi.txt)	1 BHK Studio	Saket Sector 3	Saket / Delhi	Studio / 1 BHK	383	₹15,700/month	Unfurnished	1	Family	Rent
+333	Delhi Properties (Delhi.txt)	3 BHK Independent House	Saket East	Saket / Delhi	Independent House / 3 BHK	1586	₹1.10 Cr	Semi-Furnished	4	Family	Sale
+334	Delhi Properties (Delhi.txt)	3 BHK Builder Floor	New Delhi Extension	New Delhi / Delhi	Builder Floor / 3 BHK	1209	₹99.66 L	Fully-Furnished	2	Family	Sale
+335	Delhi Properties (Delhi.txt)	3 BHK Apartment	Dwarka North	Dwarka / Delhi	Apartment / 3 BHK	1174	₹1.31 Cr	Fully-Furnished	3	Any	Sale
+336	Delhi Properties (Delhi.txt)	3 BHK Builder Floor	New Delhi Residential Area	New Delhi / Delhi	Builder Floor / 3 BHK	1584	₹1.19 Cr	Unfurnished	2	Bachelors	Sale
+337	Delhi Properties (Delhi.txt)	3 BHK Apartment	Rohini Heights	Rohini / Delhi	Apartment / 3 BHK	1420	₹1.41 Cr	Fully-Furnished	4	Family	Sale
+338	Delhi Properties (Delhi.txt)	2 BHK Apartment	New Delhi Extension	New Delhi / Delhi	Apartment / 2 BHK	883	₹21,200/month	Unfurnished	2	Family	Rent
+339	Delhi Properties (Delhi.txt)	1 BHK Villa	Saket Heights	Saket / Delhi	Villa / 1 BHK	660	₹64 L	Semi-Furnished	2	Family	Sale
+340	Delhi Properties (Delhi.txt)	3 BHK Apartment	New Delhi West	New Delhi / Delhi	Apartment / 3 BHK	1181	₹32,200/month	Semi-Furnished	2	Bachelors	Rent
+341	Delhi Properties (Delhi.txt)	1 BHK Studio	New Delhi East	New Delhi / Delhi	Studio / 1 BHK	334	₹44.89 L	Semi-Furnished	2	Bachelors	Sale
+342	Delhi Properties (Delhi.txt)	3 BHK Villa	New Delhi West	New Delhi / Delhi	Villa / 3 BHK	1780	₹29,300/month	Unfurnished	4	Family	Rent
+343	Delhi Properties (Delhi.txt)	1 BHK Villa	Rohini Sector 2	Rohini / Delhi	Villa / 1 BHK	781	₹70.86 L	Fully-Furnished	1	Family	Sale
+344	Delhi Properties (Delhi.txt)	2 BHK Apartment	New Delhi Central	New Delhi / Delhi	Apartment / 2 BHK	918	₹79.75 L	Unfurnished	2	Family	Sale
+345	Delhi Properties (Delhi.txt)	1 BHK Studio	Saket West	Saket / Delhi	Studio / 1 BHK	345	₹51.01 L	Unfurnished	2	Any	Sale
+346	Delhi Properties (Delhi.txt)	4 BHK Apartment	New Delhi Residential Area	New Delhi / Delhi	Apartment / 4 BHK	2099	₹1.86 Cr	Unfurnished	4	Any	Sale
+347	Delhi Properties (Delhi.txt)	1 BHK Studio	Rohini Heights	Rohini / Delhi	Studio / 1 BHK	459	₹12,800/month	Fully-Furnished	2	Family	Rent
+348	Delhi Properties (Delhi.txt)	2 BHK Apartment	New Delhi Residential Area	New Delhi / Delhi	Apartment / 2 BHK	767	₹24,000/month	Semi-Furnished	3	Bachelors	Rent
+349	Delhi Properties (Delhi.txt)	1 BHK Studio	Dwarka Sector 2	Dwarka / Delhi	Studio / 1 BHK	445	₹49.10 L	Unfurnished	1	Family	Sale
+350	Delhi Properties (Delhi.txt)	2 BHK Apartment	New Delhi West	New Delhi / Delhi	Apartment / 2 BHK	1003	₹27,000/month	Unfurnished	1	Family	Rent
+351	Delhi Properties (Delhi.txt)	2 BHK Builder Floor	Rohini Colony	Rohini / Delhi	Builder Floor / 2 BHK	970	₹81.10 L	Semi-Furnished	2	Any	Sale
+352	Delhi Properties (Delhi.txt)	4 BHK Apartment	Dwarka Heights	Dwarka / Delhi	Apartment / 4 BHK	1460	₹1.32 Cr	Semi-Furnished	4	Family	Sale
+353	Delhi Properties (Delhi.txt)	2 BHK Villa	Saket West	Saket / Delhi	Villa / 2 BHK	1130	₹79.29 L	Fully-Furnished	2	Family	Sale
+354	Delhi Properties (Delhi.txt)	2 BHK Builder Floor	Dwarka Nagar	Dwarka / Delhi	Builder Floor / 2 BHK	847	₹79.89 L	Semi-Furnished	2	Any	Sale
+355	Delhi Properties (Delhi.txt)	3 BHK Independent House	Saket Nagar	Saket / Delhi	Independent House / 3 BHK	1176	₹1.21 Cr	Fully-Furnished	4	Family	Sale
+356	Delhi Properties (Delhi.txt)	1 BHK Studio	New Delhi Extension	New Delhi / Delhi	Studio / 1 BHK	306	₹42.50 L	Semi-Furnished	1	Family	Sale
+357	Delhi Properties (Delhi.txt)	1 BHK Apartment	Saket Main Road	Saket / Delhi	Apartment / 1 BHK	521	₹65.07 L	Unfurnished	1	Bachelors	Sale
+358	Delhi Properties (Delhi.txt)	1 BHK Builder Floor	Rohini Extension	Rohini / Delhi	Builder Floor / 1 BHK	560	₹65.50 L	Fully-Furnished	1	Family	Sale
+359	Delhi Properties (Delhi.txt)	2 BHK Apartment	Rohini Sector 3	Rohini / Delhi	Apartment / 2 BHK	915	₹74.20 L	Semi-Furnished	1	Family	Sale
+360	Delhi Properties (Delhi.txt)	2 BHK Independent House	Rohini Sector 2	Rohini / Delhi	Independent House / 2 BHK	957	₹21,400/month	Semi-Furnished	3	Family	Rent
+361	Delhi Properties (Delhi.txt)	2 BHK Apartment	New Delhi Sector 2	New Delhi / Delhi	Apartment / 2 BHK	866	₹87.07 L	Unfurnished	3	Bachelors	Sale
+362	Delhi Properties (Delhi.txt)	3 BHK Apartment	Dwarka Central	Dwarka / Delhi	Apartment / 3 BHK	1223	₹1.23 Cr	Unfurnished	3	Family	Sale
+363	Delhi Properties (Delhi.txt)	4 BHK Apartment	Rohini Sector 3	Rohini / Delhi	Apartment / 4 BHK	1858	₹1.40 Cr	Fully-Furnished	4	Any	Sale
+364	Delhi Properties (Delhi.txt)	4 BHK Villa	Rohini Main Road	Rohini / Delhi	Villa / 4 BHK	2342	₹1.90 Cr	Fully-Furnished	5	Any	Sale
+365	Delhi Properties (Delhi.txt)	2 BHK Apartment	New Delhi Heights	New Delhi / Delhi	Apartment / 2 BHK	957	₹79.30 L	Unfurnished	1	Family	Sale
+366	Delhi Properties (Delhi.txt)	2 BHK Apartment	Saket Town Centre	Saket / Delhi	Apartment / 2 BHK	814	₹87.94 L	Unfurnished	2	Family	Sale
+367	Delhi Properties (Delhi.txt)	1 BHK Independent House	New Delhi East	New Delhi / Delhi	Independent House / 1 BHK	631	₹19,400/month	Unfurnished	1	Bachelors	Rent
+368	Delhi Properties (Delhi.txt)	2 BHK Apartment	Rohini Main Road	Rohini / Delhi	Apartment / 2 BHK	727	₹70.60 L	Fully-Furnished	2	Bachelors	Sale
+369	Delhi Properties (Delhi.txt)	1 BHK Studio	New Delhi Sector 3	New Delhi / Delhi	Studio / 1 BHK	300	₹13,500/month	Fully-Furnished	1	Bachelors	Rent
+370	Delhi Properties (Delhi.txt)	3 BHK Apartment	Dwarka Extension	Dwarka / Delhi	Apartment / 3 BHK	1054	₹94.21 L	Unfurnished	2	Family	Sale
+371	Delhi Properties (Delhi.txt)	4 BHK Independent House	New Delhi Heights	New Delhi / Delhi	Independent House / 4 BHK	1774	₹39,600/month	Semi-Furnished	4	Any	Rent
+372	Delhi Properties (Delhi.txt)	1 BHK Apartment	Dwarka Sector 1	Dwarka / Delhi	Apartment / 1 BHK	712	₹63.22 L	Fully-Furnished	1	Bachelors	Sale
+373	Delhi Properties (Delhi.txt)	3 BHK Apartment	Dwarka Sector 2	Dwarka / Delhi	Apartment / 3 BHK	1084	₹28,000/month	Fully-Furnished	4	Bachelors	Rent
+374	Delhi Properties (Delhi.txt)	2 BHK Apartment	Saket South	Saket / Delhi	Apartment / 2 BHK	857	₹97.27 L	Semi-Furnished	2	Family	Sale
+375	Delhi Properties (Delhi.txt)	2 BHK Apartment	Saket Town Centre	Saket / Delhi	Apartment / 2 BHK	749	₹80.16 L	Fully-Furnished	2	Family	Sale
+376	Delhi Properties (Delhi.txt)	3 BHK Builder Floor	Rohini Residential Area	Rohini / Delhi	Builder Floor / 3 BHK	1070	₹1.19 Cr	Semi-Furnished	4	Family	Sale
+377	Delhi Properties (Delhi.txt)	3 BHK Apartment	Dwarka West	Dwarka / Delhi	Apartment / 3 BHK	1104	₹1.37 Cr	Unfurnished	3	Family	Sale
+378	Delhi Properties (Delhi.txt)	2 BHK Apartment	Rohini Main Road	Rohini / Delhi	Apartment / 2 BHK	834	₹75.71 L	Unfurnished	2	Bachelors	Sale
+379	Delhi Properties (Delhi.txt)	1 BHK Apartment	Saket East	Saket / Delhi	Apartment / 1 BHK	556	₹55.39 L	Semi-Furnished	1	Any	Sale
+380	Delhi Properties (Delhi.txt)	2 BHK Apartment	Dwarka Town Centre	Dwarka / Delhi	Apartment / 2 BHK	917	₹71.62 L	Fully-Furnished	2	Bachelors	Sale
+381	Delhi Properties (Delhi.txt)	5 BHK Independent House	Saket West	Saket / Delhi	Independent House / 5 BHK	2830	₹2.17 Cr	Unfurnished	5	Bachelors	Sale
+382	Delhi Properties (Delhi.txt)	2 BHK Apartment	Rohini Nagar	Rohini / Delhi	Apartment / 2 BHK	789	₹78.76 L	Semi-Furnished	3	Family	Sale
+383	Delhi Properties (Delhi.txt)	3 BHK Apartment	Saket North	Saket / Delhi	Apartment / 3 BHK	1225	₹1.33 Cr	Unfurnished	3	Any	Sale
+384	Delhi Properties (Delhi.txt)	1 BHK Apartment	Saket Central	Saket / Delhi	Apartment / 1 BHK	518	₹44.15 L	Semi-Furnished	1	Any	Sale
+385	Delhi Properties (Delhi.txt)	1 BHK Apartment	New Delhi Main Road	New Delhi / Delhi	Apartment / 1 BHK	486	₹15,600/month	Fully-Furnished	2	Family	Rent
+386	Delhi Properties (Delhi.txt)	4 BHK Apartment	Saket Town Centre	Saket / Delhi	Apartment / 4 BHK	1633	₹1.75 Cr	Semi-Furnished	4	Bachelors	Sale
+387	Delhi Properties (Delhi.txt)	3 BHK Apartment	Saket Central	Saket / Delhi	Apartment / 3 BHK	1326	₹1.32 Cr	Fully-Furnished	3	Any	Sale
+388	Delhi Properties (Delhi.txt)	2 BHK Independent House	New Delhi Main Road	New Delhi / Delhi	Independent House / 2 BHK	1315	₹1.13 Cr	Semi-Furnished	2	Bachelors	Sale
+389	Delhi Properties (Delhi.txt)	2 BHK Apartment	Rohini Heights	Rohini / Delhi	Apartment / 2 BHK	659	₹78.28 L	Unfurnished	2	Family	Sale
+390	Delhi Properties (Delhi.txt)	3 BHK Apartment	Saket Heights	Saket / Delhi	Apartment / 3 BHK	1373	₹28,400/month	Fully-Furnished	3	Any	Rent
+391	Delhi Properties (Delhi.txt)	1 BHK Apartment	New Delhi Heights	New Delhi / Delhi	Apartment / 1 BHK	382	₹12,400/month	Semi-Furnished	2	Bachelors	Rent
+392	Delhi Properties (Delhi.txt)	3 BHK Apartment	Rohini West	Rohini / Delhi	Apartment / 3 BHK	1367	₹31,200/month	Semi-Furnished	3	Family	Rent
+393	Delhi Properties (Delhi.txt)	1 BHK Studio	Rohini South	Rohini / Delhi	Studio / 1 BHK	350	₹13,200/month	Fully-Furnished	1	Any	Rent
+394	Delhi Properties (Delhi.txt)	3 BHK Apartment	New Delhi Colony	New Delhi / Delhi	Apartment / 3 BHK	1341	₹27,400/month	Unfurnished	3	Family	Rent
+395	Delhi Properties (Delhi.txt)	4 BHK Apartment	Saket Main Road	Saket / Delhi	Apartment / 4 BHK	1755	₹1.41 Cr	Unfurnished	5	Bachelors	Sale
+396	Delhi Properties (Delhi.txt)	4 BHK Apartment	Dwarka North	Dwarka / Delhi	Apartment / 4 BHK	1949	₹40,300/month	Semi-Furnished	4	Bachelors	Rent
+397	Delhi Properties (Delhi.txt)	2 BHK Apartment	Dwarka Nagar	Dwarka / Delhi	Apartment / 2 BHK	1006	₹21,000/month	Semi-Furnished	2	Family	Rent
+398	Delhi Properties (Delhi.txt)	4 BHK Apartment	Dwarka Colony	Dwarka / Delhi	Apartment / 4 BHK	1546	₹1.76 Cr	Semi-Furnished	4	Family	Sale
+399	Delhi Properties (Delhi.txt)	1 BHK Apartment	New Delhi Nagar	New Delhi / Delhi	Apartment / 1 BHK	517	₹65.50 L	Semi-Furnished	1	Any	Sale
+400	Delhi Properties (Delhi.txt)	4 BHK Builder Floor	Rohini North	Rohini / Delhi	Builder Floor / 4 BHK	2039	₹1.53 Cr	Fully-Furnished	4	Bachelors	Sale
+401	Delhi Properties (Delhi.txt)	2 BHK Builder Floor	New Delhi Colony	New Delhi / Delhi	Builder Floor / 2 BHK	944	₹23,300/month	Semi-Furnished	2	Any	Rent
+402	Delhi Properties (Delhi.txt)	4 BHK Apartment	Dwarka Central	Dwarka / Delhi	Apartment / 4 BHK	1418	₹1.53 Cr	Semi-Furnished	4	Bachelors	Sale
+403	Delhi Properties (Delhi.txt)	4 BHK Apartment	Rohini South	Rohini / Delhi	Apartment / 4 BHK	1884	₹1.72 Cr	Fully-Furnished	3	Family	Sale
+404	Delhi Properties (Delhi.txt)	3 BHK Builder Floor	Rohini Sector 2	Rohini / Delhi	Builder Floor / 3 BHK	1133	₹32,800/month	Fully-Furnished	4	Any	Rent
+405	Delhi Properties (Delhi.txt)	2 BHK Apartment	Rohini East	Rohini / Delhi	Apartment / 2 BHK	816	₹83.76 L	Fully-Furnished	1	Bachelors	Sale
+406	Delhi Properties (Delhi.txt)	3 BHK Apartment	Saket Sector 1	Saket / Delhi	Apartment / 3 BHK	1300	₹31,200/month	Unfurnished	3	Family	Rent
+407	Delhi Properties (Delhi.txt)	3 BHK Villa	New Delhi Colony	New Delhi / Delhi	Villa / 3 BHK	1262	₹1.19 Cr	Unfurnished	3	Family	Sale
+408	Delhi Properties (Delhi.txt)	2 BHK Independent House	New Delhi Sector 1	New Delhi / Delhi	Independent House / 2 BHK	1123	₹90.11 L	Fully-Furnished	3	Bachelors	Sale
+409	Delhi Properties (Delhi.txt)	1 BHK Apartment	New Delhi Central	New Delhi / Delhi	Apartment / 1 BHK	476	₹12,600/month	Semi-Furnished	2	Any	Rent
+410	Delhi Properties (Delhi.txt)	3 BHK Independent House	Dwarka Central	Dwarka / Delhi	Independent House / 3 BHK	1623	₹1.22 Cr	Semi-Furnished	4	Bachelors	Sale
+411	Delhi Properties (Delhi.txt)	2 BHK Villa	Dwarka North	Dwarka / Delhi	Villa / 2 BHK	1155	₹25,900/month	Semi-Furnished	2	Any	Rent
+412	Delhi Properties (Delhi.txt)	5 BHK Apartment	Dwarka East	Dwarka / Delhi	Apartment / 5 BHK	2594	₹2.03 Cr	Unfurnished	5	Family	Sale
+413	Delhi Properties (Delhi.txt)	3 BHK Builder Floor	Saket West	Saket / Delhi	Builder Floor / 3 BHK	990	₹30,100/month	Semi-Furnished	3	Bachelors	Rent
+414	Delhi Properties (Delhi.txt)	3 BHK Independent House	Rohini North	Rohini / Delhi	Independent House / 3 BHK	1464	₹1.46 Cr	Fully-Furnished	3	Bachelors	Sale
+415	Delhi Properties (Delhi.txt)	4 BHK Apartment	New Delhi North	New Delhi / Delhi	Apartment / 4 BHK	2181	₹1.71 Cr	Semi-Furnished	3	Any	Sale
+416	Delhi Properties (Delhi.txt)	4 BHK Builder Floor	Rohini Sector 3	Rohini / Delhi	Builder Floor / 4 BHK	1479	₹44,800/month	Fully-Furnished	3	Family	Rent
+417	Delhi Properties (Delhi.txt)	1 BHK Builder Floor	Saket Sector 3	Saket / Delhi	Builder Floor / 1 BHK	613	₹53.77 L	Unfurnished	1	Bachelors	Sale
+418	Delhi Properties (Delhi.txt)	3 BHK Apartment	Saket Sector 2	Saket / Delhi	Apartment / 3 BHK	1400	₹1.16 Cr	Unfurnished	3	Bachelors	Sale
+419	Delhi Properties (Delhi.txt)	2 BHK Apartment	New Delhi Sector 2	New Delhi / Delhi	Apartment / 2 BHK	921	₹76.74 L	Semi-Furnished	1	Family	Sale
+420	Delhi Properties (Delhi.txt)	2 BHK Independent House	Saket West	Saket / Delhi	Independent House / 2 BHK	912	₹25,700/month	Fully-Furnished	3	Any	Rent
+421	Delhi Properties (Delhi.txt)	3 BHK Independent House	Dwarka Residential Area	Dwarka / Delhi	Independent House / 3 BHK	1402	₹39,400/month	Semi-Furnished	4	Family	Rent
+422	Delhi Properties (Delhi.txt)	2 BHK Apartment	Dwarka East	Dwarka / Delhi	Apartment / 2 BHK	591	₹92.27 L	Fully-Furnished	2	Any	Sale
+423	Delhi Properties (Delhi.txt)	4 BHK Apartment	Rohini Main Road	Rohini / Delhi	Apartment / 4 BHK	1879	₹44,800/month	Fully-Furnished	3	Bachelors	Rent
+424	Delhi Properties (Delhi.txt)	1 BHK Apartment	Rohini West	Rohini / Delhi	Apartment / 1 BHK	545	₹49.14 L	Semi-Furnished	1	Family	Sale
+425	Delhi Properties (Delhi.txt)	3 BHK Apartment	Saket Sector 3	Saket / Delhi	Apartment / 3 BHK	824	₹32,200/month	Semi-Furnished	4	Bachelors	Rent
+426	Delhi Properties (Delhi.txt)	2 BHK Independent House	Rohini South	Rohini / Delhi	Independent House / 2 BHK	999	₹25,200/month	Unfurnished	2	Bachelors	Rent
+427	Delhi Properties (Delhi.txt)	1 BHK Independent House	Dwarka South	Dwarka / Delhi	Independent House / 1 BHK	494	₹51.99 L	Semi-Furnished	1	Family	Sale
+428	Delhi Properties (Delhi.txt)	5 BHK Apartment	Dwarka Residential Area	Dwarka / Delhi	Apartment / 5 BHK	2762	₹1.62 Cr	Unfurnished	6	Family	Sale
+429	Delhi Properties (Delhi.txt)	1 BHK Builder Floor	Saket Colony	Saket / Delhi	Builder Floor / 1 BHK	584	₹18,000/month	Fully-Furnished	2	Family	Rent
+430	Delhi Properties (Delhi.txt)	3 BHK Apartment	Rohini West	Rohini / Delhi	Apartment / 3 BHK	1133	₹1.02 Cr	Semi-Furnished	4	Bachelors	Sale
+431	Delhi Properties (Delhi.txt)	1 BHK Independent House	Dwarka Extension	Dwarka / Delhi	Independent House / 1 BHK	814	₹19,300/month	Fully-Furnished	2	Family	Rent
+432	Delhi Properties (Delhi.txt)	3 BHK Apartment	Saket Central	Saket / Delhi	Apartment / 3 BHK	1138	₹1.13 Cr	Unfurnished	3	Any	Sale
+433	Delhi Properties (Delhi.txt)	1 BHK Studio	Dwarka Nagar	Dwarka / Delhi	Studio / 1 BHK	347	₹45.17 L	Unfurnished	1	Any	Sale
+434	Delhi Properties (Delhi.txt)	2 BHK Apartment	Dwarka West	Dwarka / Delhi	Apartment / 2 BHK	927	₹26,400/month	Unfurnished	2	Bachelors	Rent
+435	Delhi Properties (Delhi.txt)	4 BHK Apartment	Rohini Sector 2	Rohini / Delhi	Apartment / 4 BHK	1857	₹49,600/month	Unfurnished	5	Bachelors	Rent
+436	Delhi Properties (Delhi.txt)	2 BHK Apartment	Saket North	Saket / Delhi	Apartment / 2 BHK	799	₹25,200/month	Unfurnished	1	Any	Rent
+437	Delhi Properties (Delhi.txt)	3 BHK Independent House	Saket South	Saket / Delhi	Independent House / 3 BHK	1416	₹1.40 Cr	Semi-Furnished	3	Bachelors	Sale
+438	Delhi Properties (Delhi.txt)	3 BHK Apartment	Saket North	Saket / Delhi	Apartment / 3 BHK	1389	₹1.35 Cr	Semi-Furnished	3	Bachelors	Sale
+439	Delhi Properties (Delhi.txt)	3 BHK Apartment	Saket Main Road	Saket / Delhi	Apartment / 3 BHK	1288	₹38,000/month	Semi-Furnished	4	Family	Rent
+440	Delhi Properties (Delhi.txt)	2 BHK Apartment	New Delhi Sector 1	New Delhi / Delhi	Apartment / 2 BHK	784	₹74.77 L	Fully-Furnished	3	Bachelors	Sale
+441	Delhi Properties (Delhi.txt)	4 BHK Builder Floor	Saket Nagar	Saket / Delhi	Builder Floor / 4 BHK	1801	₹49,700/month	Semi-Furnished	4	Family	Rent
+442	Delhi Properties (Delhi.txt)	4 BHK Independent House	New Delhi South	New Delhi / Delhi	Independent House / 4 BHK	2278	₹1.86 Cr	Fully-Furnished	4	Any	Sale
+443	Delhi Properties (Delhi.txt)	1 BHK Studio	Saket Sector 3	Saket / Delhi	Studio / 1 BHK	428	₹43.45 L	Fully-Furnished	1	Any	Sale
+444	Delhi Properties (Delhi.txt)	2 BHK Villa	Rohini Extension	Rohini / Delhi	Villa / 2 BHK	1120	₹1.02 Cr	Fully-Furnished	2	Bachelors	Sale
+445	Delhi Properties (Delhi.txt)	3 BHK Apartment	Dwarka Main Road	Dwarka / Delhi	Apartment / 3 BHK	1563	₹36,600/month	Semi-Furnished	4	Family	Rent
+446	Delhi Properties (Delhi.txt)	3 BHK Builder Floor	Saket Sector 2	Saket / Delhi	Builder Floor / 3 BHK	1164	₹27,200/month	Unfurnished	2	Bachelors	Rent
+447	Delhi Properties (Delhi.txt)	3 BHK Apartment	Rohini Heights	Rohini / Delhi	Apartment / 3 BHK	1619	₹1.31 Cr	Semi-Furnished	4	Any	Sale
+448	Delhi Properties (Delhi.txt)	2 BHK Apartment	New Delhi Colony	New Delhi / Delhi	Apartment / 2 BHK	833	₹20,700/month	Semi-Furnished	1	Family	Rent
+449	Delhi Properties (Delhi.txt)	1 BHK Apartment	New Delhi Main Road	New Delhi / Delhi	Apartment / 1 BHK	351	₹16,000/month	Unfurnished	1	Family	Rent
+450	Delhi Properties (Delhi.txt)	2 BHK Apartment	Saket Heights	Saket / Delhi	Apartment / 2 BHK	943	₹1.04 Cr	Fully-Furnished	2	Family	Sale
+451	Delhi Properties (Delhi.txt)	2 BHK Apartment	New Delhi Sector 3	New Delhi / Delhi	Apartment / 2 BHK	929	₹25,900/month	Semi-Furnished	3	Family	Rent
+452	Delhi Properties (Delhi.txt)	1 BHK Studio	Rohini East	Rohini / Delhi	Studio / 1 BHK	348	₹60.09 L	Semi-Furnished	1	Bachelors	Sale
+453	Delhi Properties (Delhi.txt)	1 BHK Builder Floor	Saket Sector 1	Saket / Delhi	Builder Floor / 1 BHK	607	₹15,400/month	Unfurnished	2	Family	Rent
+454	Delhi Properties (Delhi.txt)	1 BHK Independent House	Dwarka Sector 1	Dwarka / Delhi	Independent House / 1 BHK	525	₹17,500/month	Fully-Furnished	1	Bachelors	Rent
+455	Delhi Properties (Delhi.txt)	3 BHK Apartment	Dwarka Main Road	Dwarka / Delhi	Apartment / 3 BHK	1095	₹98.96 L	Semi-Furnished	3	Family	Sale
+456	Delhi Properties (Delhi.txt)	2 BHK Independent House	Rohini Heights	Rohini / Delhi	Independent House / 2 BHK	860	₹25,100/month	Semi-Furnished	2	Family	Rent
+457	Delhi Properties (Delhi.txt)	2 BHK Apartment	Saket Nagar	Saket / Delhi	Apartment / 2 BHK	855	₹22,400/month	Semi-Furnished	2	Family	Rent
+458	Delhi Properties (Delhi.txt)	3 BHK Apartment	Saket North	Saket / Delhi	Apartment / 3 BHK	1148	₹26,100/month	Unfurnished	2	Bachelors	Rent
+459	Delhi Properties (Delhi.txt)	2 BHK Apartment	New Delhi Main Road	New Delhi / Delhi	Apartment / 2 BHK	908	₹27,300/month	Fully-Furnished	2	Bachelors	Rent
+460	Delhi Properties (Delhi.txt)	2 BHK Apartment	New Delhi Colony	New Delhi / Delhi	Apartment / 2 BHK	963	₹1 Cr	Semi-Furnished	3	Family	Sale
+461	Delhi Properties (Delhi.txt)	3 BHK Independent House	New Delhi Heights	New Delhi / Delhi	Independent House / 3 BHK	1239	₹26,300/month	Semi-Furnished	3	Any	Rent
+462	Delhi Properties (Delhi.txt)	3 BHK Builder Floor	New Delhi Residential Area	New Delhi / Delhi	Builder Floor / 3 BHK	1325	₹1.14 Cr	Fully-Furnished	2	Any	Sale
+463	Delhi Properties (Delhi.txt)	2 BHK Builder Floor	Dwarka South	Dwarka / Delhi	Builder Floor / 2 BHK	870	₹19,900/month	Semi-Furnished	1	Any	Rent
+464	Delhi Properties (Delhi.txt)	2 BHK Apartment	Rohini Extension	Rohini / Delhi	Apartment / 2 BHK	792	₹22,600/month	Fully-Furnished	3	Family	Rent
+465	Delhi Properties (Delhi.txt)	4 BHK Independent House	Rohini Extension	Rohini / Delhi	Independent House / 4 BHK	2152	₹1.52 Cr	Semi-Furnished	4	Family	Sale
+466	Delhi Properties (Delhi.txt)	4 BHK Apartment	Saket Residential Area	Saket / Delhi	Apartment / 4 BHK	1818	₹1.48 Cr	Unfurnished	4	Any	Sale
+467	Delhi Properties (Delhi.txt)	2 BHK Apartment	Dwarka Central	Dwarka / Delhi	Apartment / 2 BHK	859	₹99.37 L	Fully-Furnished	2	Bachelors	Sale
+468	Delhi Properties (Delhi.txt)	4 BHK Apartment	Saket Main Road	Saket / Delhi	Apartment / 4 BHK	1305	₹1.25 Cr	Fully-Furnished	4	Family	Sale
+469	Delhi Properties (Delhi.txt)	3 BHK Independent House	Dwarka Sector 3	Dwarka / Delhi	Independent House / 3 BHK	1360	₹1.15 Cr	Semi-Furnished	3	Bachelors	Sale
+470	Delhi Properties (Delhi.txt)	5 BHK Apartment	Dwarka Heights	Dwarka / Delhi	Apartment / 5 BHK	2146	₹1.69 Cr	Semi-Furnished	5	Any	Sale
+471	Delhi Properties (Delhi.txt)	1 BHK Independent House	New Delhi Sector 1	New Delhi / Delhi	Independent House / 1 BHK	582	₹62.09 L	Unfurnished	1	Family	Sale
+472	Delhi Properties (Delhi.txt)	3 BHK Builder Floor	New Delhi South	New Delhi / Delhi	Builder Floor / 3 BHK	1331	₹1.10 Cr	Fully-Furnished	3	Family	Sale
+473	Delhi Properties (Delhi.txt)	2 BHK Apartment	Dwarka Sector 2	Dwarka / Delhi	Apartment / 2 BHK	875	₹70.73 L	Semi-Furnished	1	Bachelors	Sale
+474	Delhi Properties (Delhi.txt)	3 BHK Apartment	Dwarka Residential Area	Dwarka / Delhi	Apartment / 3 BHK	1364	₹1.02 Cr	Unfurnished	3	Any	Sale
+475	Delhi Properties (Delhi.txt)	2 BHK Independent House	Rohini Sector 1	Rohini / Delhi	Independent House / 2 BHK	1104	₹29,400/month	Fully-Furnished	2	Family	Rent
+476	Delhi Properties (Delhi.txt)	1 BHK Apartment	Saket Town Centre	Saket / Delhi	Apartment / 1 BHK	548	₹62.78 L	Unfurnished	2	Any	Sale
+477	Delhi Properties (Delhi.txt)	3 BHK Villa	New Delhi Sector 2	New Delhi / Delhi	Villa / 3 BHK	1990	₹1.22 Cr	Unfurnished	3	Bachelors	Sale
+478	Delhi Properties (Delhi.txt)	1 BHK Apartment	New Delhi Town Centre	New Delhi / Delhi	Apartment / 1 BHK	528	₹18,400/month	Semi-Furnished	1	Bachelors	Rent
+479	Delhi Properties (Delhi.txt)	2 BHK Apartment	Dwarka Sector 1	Dwarka / Delhi	Apartment / 2 BHK	792	₹19,800/month	Semi-Furnished	3	Family	Rent
+480	Delhi Properties (Delhi.txt)	3 BHK Builder Floor	Saket Extension	Saket / Delhi	Builder Floor / 3 BHK	1144	₹26,400/month	Semi-Furnished	2	Any	Rent
+481	Delhi Properties (Delhi.txt)	3 BHK Apartment	Dwarka Central	Dwarka / Delhi	Apartment / 3 BHK	1285	₹1.10 Cr	Unfurnished	3	Any	Sale
+482	Delhi Properties (Delhi.txt)	2 BHK Independent House	Dwarka Colony	Dwarka / Delhi	Independent House / 2 BHK	780	₹72.02 L	Semi-Furnished	3	Family	Sale
+483	Delhi Properties (Delhi.txt)	2 BHK Apartment	Saket Heights	Saket / Delhi	Apartment / 2 BHK	692	₹72.12 L	Fully-Furnished	2	Bachelors	Sale
+484	Delhi Properties (Delhi.txt)	4 BHK Independent House	Rohini East	Rohini / Delhi	Independent House / 4 BHK	1786	₹39,000/month	Semi-Furnished	4	Family	Rent
+485	Delhi Properties (Delhi.txt)	2 BHK Apartment	Saket Colony	Saket / Delhi	Apartment / 2 BHK	567	₹76.29 L	Unfurnished	3	Any	Sale
+486	Delhi Properties (Delhi.txt)	2 BHK Independent House	Dwarka Town Centre	Dwarka / Delhi	Independent House / 2 BHK	1202	₹82.43 L	Fully-Furnished	3	Family	Sale
+487	Delhi Properties (Delhi.txt)	2 BHK Apartment	Saket Sector 3	Saket / Delhi	Apartment / 2 BHK	870	₹82.14 L	Semi-Furnished	2	Bachelors	Sale
+488	Delhi Properties (Delhi.txt)	4 BHK Apartment	New Delhi Town Centre	New Delhi / Delhi	Apartment / 4 BHK	1723	₹1.67 Cr	Fully-Furnished	3	Family	Sale
+489	Delhi Properties (Delhi.txt)	2 BHK Builder Floor	New Delhi Extension	New Delhi / Delhi	Builder Floor / 2 BHK	1134	₹79.48 L	Semi-Furnished	2	Bachelors	Sale
+490	Delhi Properties (Delhi.txt)	4 BHK Apartment	Dwarka Residential Area	Dwarka / Delhi	Apartment / 4 BHK	1379	₹1.61 Cr	Semi-Furnished	4	Family	Sale
+491	Delhi Properties (Delhi.txt)	2 BHK Villa	New Delhi East	New Delhi / Delhi	Villa / 2 BHK	1377	₹89.69 L	Semi-Furnished	2	Family	Sale
+492	Delhi Properties (Delhi.txt)	2 BHK Apartment	New Delhi Heights	New Delhi / Delhi	Apartment / 2 BHK	657	₹26,700/month	Fully-Furnished	2	Any	Rent
+493	Delhi Properties (Delhi.txt)	2 BHK Builder Floor	Rohini Nagar	Rohini / Delhi	Builder Floor / 2 BHK	821	₹77.22 L	Fully-Furnished	1	Family	Sale
+494	Delhi Properties (Delhi.txt)	4 BHK Villa	New Delhi Heights	New Delhi / Delhi	Villa / 4 BHK	2725	₹2.03 Cr	Semi-Furnished	3	Family	Sale
+495	Delhi Properties (Delhi.txt)	4 BHK Independent House	New Delhi Sector 3	New Delhi / Delhi	Independent House / 4 BHK	1965	₹1.84 Cr	Semi-Furnished	5	Bachelors	Sale
+496	Delhi Properties (Delhi.txt)	5 BHK Builder Floor	New Delhi South	New Delhi / Delhi	Builder Floor / 5 BHK	2128	₹2.03 Cr	Fully-Furnished	5	Bachelors	Sale
+497	Delhi Properties (Delhi.txt)	2 BHK Apartment	Dwarka Sector 3	Dwarka / Delhi	Apartment / 2 BHK	907	₹24,100/month	Unfurnished	3	Family	Rent
+498	Delhi Properties (Delhi.txt)	2 BHK Apartment	New Delhi Extension	New Delhi / Delhi	Apartment / 2 BHK	937	₹77.23 L	Semi-Furnished	2	Family	Sale
+499	Delhi Properties (Delhi.txt)	3 BHK Builder Floor	New Delhi Colony	New Delhi / Delhi	Builder Floor / 3 BHK	1463	₹1.32 Cr	Fully-Furnished	4	Family	Sale
+500	Delhi Properties (Delhi.txt)	2 BHK Apartment	New Delhi Town Centre	New Delhi / Delhi	Apartment / 2 BHK	728	₹78.94 L	Unfurnished	2	Bachelors	Sale
+501	Delhi Properties (Delhi.txt)	2 BHK Apartment	New Delhi Main Road	New Delhi / Delhi	Apartment / 2 BHK	963	₹87.31 L	Fully-Furnished	2	Any	Sale
+502	Delhi Properties (Delhi.txt)	3 BHK Villa	Dwarka Town Centre	Dwarka / Delhi	Villa / 3 BHK	1903	₹1.09 Cr	Semi-Furnished	2	Bachelors	Sale
+503	Delhi Properties (Delhi.txt)	2 BHK Villa	Rohini Town Centre	Rohini / Delhi	Villa / 2 BHK	937	₹86.95 L	Fully-Furnished	2	Family	Sale
+504	Delhi Properties (Delhi.txt)	2 BHK Apartment	Rohini Central	Rohini / Delhi	Apartment / 2 BHK	781	₹75.14 L	Semi-Furnished	2	Any	Sale
+505	Delhi Properties (Delhi.txt)	3 BHK Apartment	New Delhi Town Centre	New Delhi / Delhi	Apartment / 3 BHK	1178	₹1.24 Cr	Semi-Furnished	3	Family	Sale
+506	Delhi Properties (Delhi.txt)	4 BHK Villa	Rohini West	Rohini / Delhi	Villa / 4 BHK	2300	₹1.79 Cr	Semi-Furnished	4	Any	Sale
+507	Delhi Properties (Delhi.txt)	3 BHK Apartment	New Delhi Colony	New Delhi / Delhi	Apartment / 3 BHK	1167	₹27,600/month	Semi-Furnished	4	Family	Rent
+508	Delhi Properties (Delhi.txt)	2 BHK Apartment	Saket Sector 3	Saket / Delhi	Apartment / 2 BHK	886	₹80.48 L	Fully-Furnished	2	Family	Sale
+509	Delhi Properties (Delhi.txt)	2 BHK Apartment	Saket East	Saket / Delhi	Apartment / 2 BHK	593	₹19,000/month	Fully-Furnished	3	Any	Rent
+510	Delhi Properties (Delhi.txt)	3 BHK Villa	Dwarka Town Centre	Dwarka / Delhi	Villa / 3 BHK	1760	₹1.37 Cr	Fully-Furnished	4	Bachelors	Sale
+511	Delhi Properties (Delhi.txt)	3 BHK Apartment	Saket Sector 2	Saket / Delhi	Apartment / 3 BHK	1226	₹98.94 L	Fully-Furnished	2	Any	Sale
+512	Delhi Properties (Delhi.txt)	3 BHK Independent House	New Delhi Extension	New Delhi / Delhi	Independent House / 3 BHK	1538	₹1.35 Cr	Unfurnished	3	Bachelors	Sale
+513	Delhi Properties (Delhi.txt)	3 BHK Apartment	Dwarka South	Dwarka / Delhi	Apartment / 3 BHK	1179	₹26,100/month	Semi-Furnished	2	Any	Rent
+514	Delhi Properties (Delhi.txt)	2 BHK Apartment	Rohini Heights	Rohini / Delhi	Apartment / 2 BHK	779	₹19,000/month	Semi-Furnished	2	Any	Rent
+515	Delhi Properties (Delhi.txt)	2 BHK Independent House	Rohini Town Centre	Rohini / Delhi	Independent House / 2 BHK	1106	₹23,800/month	Unfurnished	2	Bachelors	Rent
+516	Delhi Properties (Delhi.txt)	2 BHK Apartment	Dwarka Town Centre	Dwarka / Delhi	Apartment / 2 BHK	651	₹81.24 L	Semi-Furnished	2	Any	Sale
+517	Delhi Properties (Delhi.txt)	2 BHK Builder Floor	Saket Heights	Saket / Delhi	Builder Floor / 2 BHK	1046	₹86.54 L	Unfurnished	2	Bachelors	Sale
+518	Delhi Properties (Delhi.txt)	3 BHK Apartment	Dwarka Nagar	Dwarka / Delhi	Apartment / 3 BHK	1404	₹1.36 Cr	Semi-Furnished	3	Family	Sale
+519	Delhi Properties (Delhi.txt)	1 BHK Studio	Dwarka Central	Dwarka / Delhi	Studio / 1 BHK	469	₹62.76 L	Fully-Furnished	2	Any	Sale
+520	Delhi Properties (Delhi.txt)	2 BHK Apartment	Dwarka Sector 2	Dwarka / Delhi	Apartment / 2 BHK	683	₹81.54 L	Unfurnished	3	Family	Sale
+521	Delhi Properties (Delhi.txt)	1 BHK Apartment	Rohini East	Rohini / Delhi	Apartment / 1 BHK	502	₹15,900/month	Semi-Furnished	1	Bachelors	Rent
+522	Delhi Properties (Delhi.txt)	1 BHK Studio	Saket Residential Area	Saket / Delhi	Studio / 1 BHK	332	₹16,400/month	Semi-Furnished	1	Family	Rent
+523	Delhi Properties (Delhi.txt)	2 BHK Apartment	Saket Nagar	Saket / Delhi	Apartment / 2 BHK	781	₹25,300/month	Unfurnished	1	Family	Rent
+524	Delhi Properties (Delhi.txt)	4 BHK Independent House	Dwarka Central	Dwarka / Delhi	Independent House / 4 BHK	1703	₹1.35 Cr	Fully-Furnished	4	Family	Sale
+525	Delhi Properties (Delhi.txt)	2 BHK Apartment	New Delhi North	New Delhi / Delhi	Apartment / 2 BHK	679	₹78.12 L	Fully-Furnished	2	Any	Sale
+526	Delhi Properties (Delhi.txt)	3 BHK Apartment	Saket Sector 2	Saket / Delhi	Apartment / 3 BHK	1127	₹97.76 L	Fully-Furnished	3	Family	Sale
+527	Delhi Properties (Delhi.txt)	3 BHK Apartment	Dwarka Town Centre	Dwarka / Delhi	Apartment / 3 BHK	1138	₹27,400/month	Fully-Furnished	2	Family	Rent
+528	Delhi Properties (Delhi.txt)	1 BHK Apartment	Rohini Nagar	Rohini / Delhi	Apartment / 1 BHK	402	₹57.90 L	Fully-Furnished	1	Bachelors	Sale
+529	Delhi Properties (Delhi.txt)	1 BHK Studio	Rohini Colony	Rohini / Delhi	Studio / 1 BHK	312	₹48.50 L	Semi-Furnished	1	Any	Sale
+530	Delhi Properties (Delhi.txt)	2 BHK Apartment	Rohini Heights	Rohini / Delhi	Apartment / 2 BHK	1001	₹19,900/month	Semi-Furnished	3	Any	Rent
+531	Delhi Properties (Delhi.txt)	2 BHK Apartment	Rohini Central	Rohini / Delhi	Apartment / 2 BHK	809	₹79.95 L	Semi-Furnished	1	Family	Sale
+532	Delhi Properties (Delhi.txt)	2 BHK Apartment	Dwarka Colony	Dwarka / Delhi	Apartment / 2 BHK	1015	₹98.79 L	Fully-Furnished	2	Any	Sale
+533	Delhi Properties (Delhi.txt)	3 BHK Independent House	Dwarka North	Dwarka / Delhi	Independent House / 3 BHK	1233	₹1.05 Cr	Unfurnished	3	Bachelors	Sale
+534	Delhi Properties (Delhi.txt)	2 BHK Builder Floor	Dwarka West	Dwarka / Delhi	Builder Floor / 2 BHK	936	₹20,500/month	Semi-Furnished	2	Bachelors	Rent
+535	Delhi Properties (Delhi.txt)	2 BHK Apartment	Dwarka South	Dwarka / Delhi	Apartment / 2 BHK	847	₹23,100/month	Fully-Furnished	2	Family	Rent
+536	Delhi Properties (Delhi.txt)	4 BHK Apartment	Rohini North	Rohini / Delhi	Apartment / 4 BHK	1695	₹1.63 Cr	Semi-Furnished	4	Bachelors	Sale
+537	Delhi Properties (Delhi.txt)	3 BHK Apartment	Rohini Town Centre	Rohini / Delhi	Apartment / 3 BHK	970	₹92.99 L	Unfurnished	3	Bachelors	Sale
+538	Delhi Properties (Delhi.txt)	2 BHK Independent House	New Delhi Colony	New Delhi / Delhi	Independent House / 2 BHK	1005	₹75.37 L	Fully-Furnished	2	Bachelors	Sale
+539	Delhi Properties (Delhi.txt)	2 BHK Apartment	Rohini West	Rohini / Delhi	Apartment / 2 BHK	961	₹88.67 L	Semi-Furnished	1	Family	Sale
+540	Delhi Properties (Delhi.txt)	2 BHK Independent House	Rohini East	Rohini / Delhi	Independent House / 2 BHK	1373	₹26,500/month	Semi-Furnished	2	Family	Rent
+541	Delhi Properties (Delhi.txt)	1 BHK Apartment	Dwarka East	Dwarka / Delhi	Apartment / 1 BHK	502	₹46.86 L	Semi-Furnished	1	Any	Sale
+542	Delhi Properties (Delhi.txt)	2 BHK Apartment	Rohini Main Road	Rohini / Delhi	Apartment / 2 BHK	963	₹76.13 L	Fully-Furnished	2	Bachelors	Sale
+543	Delhi Properties (Delhi.txt)	3 BHK Apartment	Dwarka Sector 1	Dwarka / Delhi	Apartment / 3 BHK	931	₹1.20 Cr	Unfurnished	3	Bachelors	Sale
+544	Delhi Properties (Delhi.txt)	3 BHK Independent House	Rohini South	Rohini / Delhi	Independent House / 3 BHK	1072	₹1.01 Cr	Unfurnished	3	Any	Sale
+545	Delhi Properties (Delhi.txt)	2 BHK Independent House	Rohini Sector 2	Rohini / Delhi	Independent House / 2 BHK	989	₹26,400/month	Fully-Furnished	2	Any	Rent
+546	Delhi Properties (Delhi.txt)	1 BHK Apartment	Dwarka Town Centre	Dwarka / Delhi	Apartment / 1 BHK	592	₹52.96 L	Fully-Furnished	1	Bachelors	Sale
+547	Delhi Properties (Delhi.txt)	4 BHK Apartment	Dwarka Main Road	Dwarka / Delhi	Apartment / 4 BHK	1520	₹1.38 Cr	Fully-Furnished	5	Any	Sale
+548	Delhi Properties (Delhi.txt)	1 BHK Apartment	Rohini East	Rohini / Delhi	Apartment / 1 BHK	486	₹16,200/month	Fully-Furnished	2	Family	Rent
+549	Delhi Properties (Delhi.txt)	1 BHK Builder Floor	New Delhi Heights	New Delhi / Delhi	Builder Floor / 1 BHK	459	₹45.85 L	Fully-Furnished	1	Bachelors	Sale
+550	Delhi Properties (Delhi.txt)	1 BHK Apartment	Saket West	Saket / Delhi	Apartment / 1 BHK	440	₹17,100/month	Semi-Furnished	1	Bachelors	Rent
+551	Delhi Properties (Delhi.txt)	5 BHK Apartment	Dwarka Central	Dwarka / Delhi	Apartment / 5 BHK	1766	₹55,700/month	Fully-Furnished	5	Family	Rent
+552	Delhi Properties (Delhi.txt)	2 BHK Apartment	New Delhi West	New Delhi / Delhi	Apartment / 2 BHK	940	₹21,000/month	Fully-Furnished	2	Family	Rent
+553	Delhi Properties (Delhi.txt)	2 BHK Apartment	Saket Town Centre	Saket / Delhi	Apartment / 2 BHK	892	₹72.38 L	Fully-Furnished	2	Family	Sale
+554	Delhi Properties (Delhi.txt)	1 BHK Apartment	Dwarka Town Centre	Dwarka / Delhi	Apartment / 1 BHK	595	₹14,500/month	Unfurnished	1	Family	Rent
+555	Delhi Properties (Delhi.txt)	2 BHK Builder Floor	Rohini Town Centre	Rohini / Delhi	Builder Floor / 2 BHK	695	₹83.15 L	Unfurnished	2	Family	Sale
+556	Delhi Properties (Delhi.txt)	3 BHK Apartment	New Delhi Sector 3	New Delhi / Delhi	Apartment / 3 BHK	1146	₹27,600/month	Semi-Furnished	2	Family	Rent
+557	Delhi Properties (Delhi.txt)	5 BHK Independent House	Dwarka Sector 1	Dwarka / Delhi	Independent House / 5 BHK	3042	₹1.98 Cr	Semi-Furnished	4	Bachelors	Sale
+558	Delhi Properties (Delhi.txt)	1 BHK Studio	Dwarka Town Centre	Dwarka / Delhi	Studio / 1 BHK	351	₹53.28 L	Fully-Furnished	1	Bachelors	Sale
+559	Delhi Properties (Delhi.txt)	3 BHK Independent House	Rohini North	Rohini / Delhi	Independent House / 3 BHK	1708	₹1.05 Cr	Semi-Furnished	4	Family	Sale
+560	Delhi Properties (Delhi.txt)	2 BHK Apartment	Dwarka Town Centre	Dwarka / Delhi	Apartment / 2 BHK	945	₹23,400/month	Unfurnished	2	Any	Rent
+561	Delhi Properties (Delhi.txt)	2 BHK Apartment	New Delhi East	New Delhi / Delhi	Apartment / 2 BHK	657	₹20,700/month	Fully-Furnished	1	Family	Rent
+562	Delhi Properties (Delhi.txt)	4 BHK Builder Floor	Dwarka West	Dwarka / Delhi	Builder Floor / 4 BHK	1755	₹1.48 Cr	Semi-Furnished	3	Family	Sale
+563	Delhi Properties (Delhi.txt)	5 BHK Apartment	New Delhi Residential Area	New Delhi / Delhi	Apartment / 5 BHK	2597	₹45,200/month	Unfurnished	6	Any	Rent
+564	Delhi Properties (Delhi.txt)	3 BHK Apartment	New Delhi Nagar	New Delhi / Delhi	Apartment / 3 BHK	999	₹31,900/month	Semi-Furnished	3	Bachelors	Rent
+565	Delhi Properties (Delhi.txt)	3 BHK Builder Floor	Saket Nagar	Saket / Delhi	Builder Floor / 3 BHK	1041	₹1.26 Cr	Semi-Furnished	4	Bachelors	Sale
+566	Delhi Properties (Delhi.txt)	2 BHK Apartment	Saket Sector 2	Saket / Delhi	Apartment / 2 BHK	1023	₹23,700/month	Fully-Furnished	2	Bachelors	Rent
+567	Delhi Properties (Delhi.txt)	2 BHK Villa	Dwarka Sector 2	Dwarka / Delhi	Villa / 2 BHK	1506	₹1.13 Cr	Fully-Furnished	2	Any	Sale
+568	Delhi Properties (Delhi.txt)	3 BHK Builder Floor	Saket Town Centre	Saket / Delhi	Builder Floor / 3 BHK	1040	₹1.16 Cr	Fully-Furnished	3	Bachelors	Sale
+569	Delhi Properties (Delhi.txt)	1 BHK Apartment	Dwarka Town Centre	Dwarka / Delhi	Apartment / 1 BHK	556	₹62.27 L	Semi-Furnished	1	Bachelors	Sale
+570	Delhi Properties (Delhi.txt)	5 BHK Independent House	Rohini Main Road	Rohini / Delhi	Independent House / 5 BHK	2727	₹1.85 Cr	Fully-Furnished	5	Any	Sale
+571	Delhi Properties (Delhi.txt)	3 BHK Independent House	Rohini Nagar	Rohini / Delhi	Independent House / 3 BHK	1873	₹1.21 Cr	Semi-Furnished	3	Family	Sale
+572	Delhi Properties (Delhi.txt)	2 BHK Independent House	Saket Sector 2	Saket / Delhi	Independent House / 2 BHK	856	₹26,400/month	Semi-Furnished	2	Any	Rent
+573	Delhi Properties (Delhi.txt)	3 BHK Independent House	Dwarka Colony	Dwarka / Delhi	Independent House / 3 BHK	1496	₹1.48 Cr	Unfurnished	3	Bachelors	Sale
+574	Delhi Properties (Delhi.txt)	3 BHK Apartment	New Delhi Extension	New Delhi / Delhi	Apartment / 3 BHK	1311	₹1 Cr	Unfurnished	3	Any	Sale
+575	Delhi Properties (Delhi.txt)	2 BHK Builder Floor	New Delhi West	New Delhi / Delhi	Builder Floor / 2 BHK	821	₹23,400/month	Semi-Furnished	2	Bachelors	Rent
+576	Delhi Properties (Delhi.txt)	1 BHK Studio	Saket Main Road	Saket / Delhi	Studio / 1 BHK	370	₹54.33 L	Unfurnished	1	Any	Sale
+577	Delhi Properties (Delhi.txt)	1 BHK Apartment	New Delhi Nagar	New Delhi / Delhi	Apartment / 1 BHK	452	₹17,800/month	Semi-Furnished	1	Family	Rent
+578	Delhi Properties (Delhi.txt)	3 BHK Builder Floor	Dwarka Extension	Dwarka / Delhi	Builder Floor / 3 BHK	1059	₹1.01 Cr	Fully-Furnished	3	Bachelors	Sale
+579	Delhi Properties (Delhi.txt)	2 BHK Builder Floor	New Delhi Extension	New Delhi / Delhi	Builder Floor / 2 BHK	1161	₹1.06 Cr	Semi-Furnished	2	Bachelors	Sale
+580	Delhi Properties (Delhi.txt)	4 BHK Apartment	Saket Heights	Saket / Delhi	Apartment / 4 BHK	1554	₹1.71 Cr	Semi-Furnished	4	Family	Sale
+581	Delhi Properties (Delhi.txt)	2 BHK Apartment	New Delhi Sector 2	New Delhi / Delhi	Apartment / 2 BHK	868	₹24,300/month	Unfurnished	2	Family	Rent
+582	Delhi Properties (Delhi.txt)	2 BHK Independent House	Dwarka North	Dwarka / Delhi	Independent House / 2 BHK	1155	₹29,100/month	Semi-Furnished	2	Family	Rent
+583	Delhi Properties (Delhi.txt)	3 BHK Apartment	Rohini Heights	Rohini / Delhi	Apartment / 3 BHK	1422	₹33,200/month	Semi-Furnished	2	Any	Rent
+584	Delhi Properties (Delhi.txt)	3 BHK Independent House	Rohini South	Rohini / Delhi	Independent House / 3 BHK	1569	₹1.39 Cr	Unfurnished	3	Bachelors	Sale
+585	Delhi Properties (Delhi.txt)	2 BHK Independent House	Dwarka Extension	Dwarka / Delhi	Independent House / 2 BHK	899	₹86.70 L	Unfurnished	2	Bachelors	Sale
+586	Delhi Properties (Delhi.txt)	1 BHK Apartment	Dwarka Residential Area	Dwarka / Delhi	Apartment / 1 BHK	557	₹16,200/month	Semi-Furnished	2	Family	Rent
+587	Delhi Properties (Delhi.txt)	3 BHK Apartment	Saket Nagar	Saket / Delhi	Apartment / 3 BHK	1194	₹1.25 Cr	Semi-Furnished	2	Any	Sale
+588	Delhi Properties (Delhi.txt)	1 BHK Apartment	Rohini Sector 3	Rohini / Delhi	Apartment / 1 BHK	527	₹18,100/month	Semi-Furnished	1	Family	Rent
+589	Delhi Properties (Delhi.txt)	2 BHK Apartment	Rohini Sector 1	Rohini / Delhi	Apartment / 2 BHK	735	₹26,000/month	Semi-Furnished	2	Family	Rent
+590	Delhi Properties (Delhi.txt)	2 BHK Independent House	New Delhi Central	New Delhi / Delhi	Independent House / 2 BHK	1058	₹26,800/month	Unfurnished	3	Bachelors	Rent
+591	Delhi Properties (Delhi.txt)	2 BHK Apartment	Saket Nagar	Saket / Delhi	Apartment / 2 BHK	991	₹21,600/month	Semi-Furnished	2	Family	Rent
+592	Delhi Properties (Delhi.txt)	1 BHK Villa	Rohini Sector 2	Rohini / Delhi	Villa / 1 BHK	667	₹53.73 L	Unfurnished	1	Bachelors	Sale
+593	Delhi Properties (Delhi.txt)	3 BHK Apartment	Dwarka Heights	Dwarka / Delhi	Apartment / 3 BHK	1021	₹1.03 Cr	Semi-Furnished	4	Family	Sale
+594	Delhi Properties (Delhi.txt)	1 BHK Apartment	Dwarka Sector 1	Dwarka / Delhi	Apartment / 1 BHK	611	₹16,300/month	Semi-Furnished	1	Family	Rent
+595	Delhi Properties (Delhi.txt)	2 BHK Villa	Rohini South	Rohini / Delhi	Villa / 2 BHK	1193	₹77.86 L	Unfurnished	2	Family	Sale
+596	Delhi Properties (Delhi.txt)	2 BHK Apartment	New Delhi Sector 3	New Delhi / Delhi	Apartment / 2 BHK	842	₹79.90 L	Fully-Furnished	2	Family	Sale
+597	Delhi Properties (Delhi.txt)	1 BHK Studio	Rohini Colony	Rohini / Delhi	Studio / 1 BHK	339	₹46.42 L	Semi-Furnished	1	Family	Sale
+598	Delhi Properties (Delhi.txt)	2 BHK Independent House	New Delhi Sector 3	New Delhi / Delhi	Independent House / 2 BHK	756	₹74.25 L	Unfurnished	3	Family	Sale
+599	Delhi Properties (Delhi.txt)	3 BHK Villa	Dwarka East	Dwarka / Delhi	Villa / 3 BHK	1819	₹41,900/month	Semi-Furnished	2	Family	Rent
+600	Delhi Properties (Delhi.txt)	3 BHK Independent House	Saket Colony	Saket / Delhi	Independent House / 3 BHK	1663	₹40,300/month	Semi-Furnished	3	Bachelors	Rent
+601	Delhi Properties (Delhi.txt)	4 BHK Apartment	New Delhi Nagar	New Delhi / Delhi	Apartment / 4 BHK	1470	₹45,000/month	Semi-Furnished	3	Any	Rent
+602	Delhi Properties (Delhi.txt)	3 BHK Villa	Dwarka Heights	Dwarka / Delhi	Villa / 3 BHK	1650	₹1.43 Cr	Semi-Furnished	4	Family	Sale
+603	Delhi Properties (Delhi.txt)	2 BHK Apartment	Dwarka South	Dwarka / Delhi	Apartment / 2 BHK	894	₹88.47 L	Fully-Furnished	3	Bachelors	Sale
+604	Delhi Properties (Delhi.txt)	4 BHK Builder Floor	Dwarka Sector 2	Dwarka / Delhi	Builder Floor / 4 BHK	1820	₹1.28 Cr	Unfurnished	4	Family	Sale
+605	Delhi Properties (Delhi.txt)	3 BHK Apartment	Dwarka North	Dwarka / Delhi	Apartment / 3 BHK	1189	₹27,700/month	Fully-Furnished	4	Any	Rent
+606	Delhi Properties (Delhi.txt)	4 BHK Apartment	Saket North	Saket / Delhi	Apartment / 4 BHK	1491	₹1.70 Cr	Semi-Furnished	4	Any	Sale
+607	Delhi Properties (Delhi.txt)	5 BHK Independent House	Dwarka North	Dwarka / Delhi	Independent House / 5 BHK	3414	₹64,800/month	Semi-Furnished	5	Family	Rent
+608	Delhi Properties (Delhi.txt)	2 BHK Independent House	New Delhi Main Road	New Delhi / Delhi	Independent House / 2 BHK	1083	₹1.07 Cr	Unfurnished	1	Family	Sale
+609	Delhi Properties (Delhi.txt)	2 BHK Independent House	Dwarka Central	Dwarka / Delhi	Independent House / 2 BHK	1285	₹26,900/month	Unfurnished	2	Family	Rent
+610	Delhi Properties (Delhi.txt)	1 BHK Studio	New Delhi Extension	New Delhi / Delhi	Studio / 1 BHK	351	₹12,900/month	Semi-Furnished	1	Any	Rent
+611	Delhi Properties (Delhi.txt)	3 BHK Independent House	Saket South	Saket / Delhi	Independent House / 3 BHK	1558	₹1.49 Cr	Semi-Furnished	3	Family	Sale
+612	Delhi Properties (Delhi.txt)	1 BHK Studio	Dwarka Sector 1	Dwarka / Delhi	Studio / 1 BHK	332	₹51.27 L	Semi-Furnished	1	Any	Sale
+613	Delhi Properties (Delhi.txt)	4 BHK Apartment	Rohini Heights	Rohini / Delhi	Apartment / 4 BHK	2245	₹39,600/month	Semi-Furnished	5	Family	Rent
+614	Delhi Properties (Delhi.txt)	3 BHK Independent House	New Delhi Nagar	New Delhi / Delhi	Independent House / 3 BHK	1698	₹1.29 Cr	Semi-Furnished	2	Family	Sale
+615	Delhi Properties (Delhi.txt)	2 BHK Apartment	Rohini Central	Rohini / Delhi	Apartment / 2 BHK	877	₹99.18 L	Semi-Furnished	2	Family	Sale
+616	Delhi Properties (Delhi.txt)	4 BHK Apartment	Saket East	Saket / Delhi	Apartment / 4 BHK	1421	₹41,400/month	Semi-Furnished	4	Bachelors	Rent
+617	Delhi Properties (Delhi.txt)	2 BHK Independent House	Saket South	Saket / Delhi	Independent House / 2 BHK	997	₹1.02 Cr	Unfurnished	3	Family	Sale
+618	Delhi Properties (Delhi.txt)	1 BHK Apartment	New Delhi Main Road	New Delhi / Delhi	Apartment / 1 BHK	589	₹54.69 L	Semi-Furnished	2	Bachelors	Sale
+619	Delhi Properties (Delhi.txt)	1 BHK Apartment	Dwarka Heights	Dwarka / Delhi	Apartment / 1 BHK	621	₹46.56 L	Fully-Furnished	2	Any	Sale
+620	Delhi Properties (Delhi.txt)	4 BHK Builder Floor	New Delhi East	New Delhi / Delhi	Builder Floor / 4 BHK	1882	₹1.50 Cr	Fully-Furnished	4	Any	Sale
+621	Delhi Properties (Delhi.txt)	1 BHK Independent House	Rohini Sector 3	Rohini / Delhi	Independent House / 1 BHK	643	₹63.82 L	Fully-Furnished	1	Family	Sale
+622	Delhi Properties (Delhi.txt)	1 BHK Apartment	Dwarka Town Centre	Dwarka / Delhi	Apartment / 1 BHK	564	₹55.66 L	Fully-Furnished	1	Family	Sale
+623	Delhi Properties (Delhi.txt)	1 BHK Builder Floor	Dwarka Town Centre	Dwarka / Delhi	Builder Floor / 1 BHK	561	₹62.16 L	Unfurnished	1	Family	Sale
+624	Delhi Properties (Delhi.txt)	5 BHK Apartment	New Delhi Colony	New Delhi / Delhi	Apartment / 5 BHK	2422	₹2.07 Cr	Unfurnished	5	Family	Sale
+625	Delhi Properties (Delhi.txt)	1 BHK Builder Floor	Rohini Extension	Rohini / Delhi	Builder Floor / 1 BHK	510	₹58.76 L	Fully-Furnished	1	Family	Sale
+626	Delhi Properties (Delhi.txt)	3 BHK Independent House	Dwarka West	Dwarka / Delhi	Independent House / 3 BHK	1295	₹29,600/month	Semi-Furnished	2	Family	Rent
+627	Delhi Properties (Delhi.txt)	3 BHK Apartment	Saket Main Road	Saket / Delhi	Apartment / 3 BHK	1100	₹1.32 Cr	Semi-Furnished	4	Family	Sale
+628	Delhi Properties (Delhi.txt)	2 BHK Apartment	Rohini Town Centre	Rohini / Delhi	Apartment / 2 BHK	893	₹74.49 L	Unfurnished	1	Family	Sale
+629	Delhi Properties (Delhi.txt)	1 BHK Studio	New Delhi Sector 3	New Delhi / Delhi	Studio / 1 BHK	370	₹17,300/month	Semi-Furnished	1	Any	Rent
+630	Delhi Properties (Delhi.txt)	2 BHK Apartment	Dwarka North	Dwarka / Delhi	Apartment / 2 BHK	956	₹75.35 L	Semi-Furnished	2	Family	Sale
+631	Delhi Properties (Delhi.txt)	4 BHK Apartment	Saket Town Centre	Saket / Delhi	Apartment / 4 BHK	1339	₹43,300/month	Semi-Furnished	4	Family	Rent
+632	Delhi Properties (Delhi.txt)	1 BHK Villa	New Delhi North	New Delhi / Delhi	Villa / 1 BHK	634	₹18,400/month	Fully-Furnished	2	Family	Rent
+633	Delhi Properties (Delhi.txt)	1 BHK Apartment	Dwarka Heights	Dwarka / Delhi	Apartment / 1 BHK	575	₹18,600/month	Semi-Furnished	1	Bachelors	Rent
+634	Delhi Properties (Delhi.txt)	2 BHK Builder Floor	Rohini West	Rohini / Delhi	Builder Floor / 2 BHK	895	₹22,900/month	Unfurnished	3	Bachelors	Rent
+635	Delhi Properties (Delhi.txt)	2 BHK Apartment	Rohini West	Rohini / Delhi	Apartment / 2 BHK	823	₹96.06 L	Unfurnished	2	Family	Sale
+636	Delhi Properties (Delhi.txt)	2 BHK Apartment	New Delhi West	New Delhi / Delhi	Apartment / 2 BHK	752	₹22,300/month	Semi-Furnished	2	Family	Rent
+637	Delhi Properties (Delhi.txt)	2 BHK Apartment	Rohini South	Rohini / Delhi	Apartment / 2 BHK	974	₹22,200/month	Fully-Furnished	2	Family	Rent
+638	Delhi Properties (Delhi.txt)	3 BHK Apartment	Saket Sector 1	Saket / Delhi	Apartment / 3 BHK	1331	₹1.19 Cr	Fully-Furnished	2	Family	Sale
+639	Delhi Properties (Delhi.txt)	1 BHK Studio	New Delhi Sector 2	New Delhi / Delhi	Studio / 1 BHK	374	₹46.52 L	Semi-Furnished	1	Family	Sale
+640	Delhi Properties (Delhi.txt)	1 BHK Apartment	New Delhi Colony	New Delhi / Delhi	Apartment / 1 BHK	505	₹12,700/month	Fully-Furnished	1	Bachelors	Rent
+641	Delhi Properties (Delhi.txt)	3 BHK Builder Floor	Saket Residential Area	Saket / Delhi	Builder Floor / 3 BHK	1093	₹1.25 Cr	Semi-Furnished	3	Family	Sale
+642	Delhi Properties (Delhi.txt)	4 BHK Villa	Dwarka Extension	Dwarka / Delhi	Villa / 4 BHK	2677	₹1.60 Cr	Semi-Furnished	4	Family	Sale
+643	Delhi Properties (Delhi.txt)	2 BHK Builder Floor	New Delhi Town Centre	New Delhi / Delhi	Builder Floor / 2 BHK	805	₹95.29 L	Fully-Furnished	2	Family	Sale
+644	Delhi Properties (Delhi.txt)	3 BHK Apartment	New Delhi Extension	New Delhi / Delhi	Apartment / 3 BHK	1244	₹1.09 Cr	Semi-Furnished	3	Family	Sale
+645	Delhi Properties (Delhi.txt)	2 BHK Apartment	Dwarka Nagar	Dwarka / Delhi	Apartment / 2 BHK	799	₹94.79 L	Semi-Furnished	2	Bachelors	Sale
+646	Delhi Properties (Delhi.txt)	3 BHK Apartment	Rohini Central	Rohini / Delhi	Apartment / 3 BHK	1377	₹29,400/month	Semi-Furnished	3	Any	Rent
+647	Delhi Properties (Delhi.txt)	2 BHK Apartment	Dwarka Colony	Dwarka / Delhi	Apartment / 2 BHK	765	₹87.90 L	Fully-Furnished	2	Any	Sale
+648	Delhi Properties (Delhi.txt)	2 BHK Builder Floor	Saket Sector 3	Saket / Delhi	Builder Floor / 2 BHK	782	₹71.75 L	Fully-Furnished	1	Family	Sale
+649	Delhi Properties (Delhi.txt)	3 BHK Villa	Dwarka Town Centre	Dwarka / Delhi	Villa / 3 BHK	2343	₹1.42 Cr	Semi-Furnished	2	Family	Sale
+650	Delhi Properties (Delhi.txt)	3 BHK Builder Floor	Dwarka Heights	Dwarka / Delhi	Builder Floor / 3 BHK	1386	₹1.35 Cr	Fully-Furnished	3	Any	Sale
+651	Delhi Properties (Delhi.txt)	2 BHK Villa	Dwarka Extension	Dwarka / Delhi	Villa / 2 BHK	1324	₹24,700/month	Semi-Furnished	2	Family	Rent
+652	Delhi Properties (Delhi.txt)	2 BHK Apartment	New Delhi Central	New Delhi / Delhi	Apartment / 2 BHK	878	₹1.04 Cr	Fully-Furnished	2	Family	Sale
+653	Delhi Properties (Delhi.txt)	2 BHK Apartment	Saket East	Saket / Delhi	Apartment / 2 BHK	603	₹23,000/month	Semi-Furnished	2	Family	Rent
+654	Delhi Properties (Delhi.txt)	5 BHK Builder Floor	New Delhi Sector 2	New Delhi / Delhi	Builder Floor / 5 BHK	2856	₹55,900/month	Semi-Furnished	4	Bachelors	Rent
+655	Delhi Properties (Delhi.txt)	3 BHK Builder Floor	Rohini West	Rohini / Delhi	Builder Floor / 3 BHK	1196	₹99.82 L	Fully-Furnished	3	Bachelors	Sale
+656	Delhi Properties (Delhi.txt)	5 BHK Builder Floor	Saket Sector 1	Saket / Delhi	Builder Floor / 5 BHK	2089	₹2.13 Cr	Fully-Furnished	6	Bachelors	Sale
+657	Delhi Properties (Delhi.txt)	3 BHK Apartment	Rohini Heights	Rohini / Delhi	Apartment / 3 BHK	1024	₹31,900/month	Unfurnished	3	Family	Rent
+658	Delhi Properties (Delhi.txt)	2 BHK Apartment	Rohini Main Road	Rohini / Delhi	Apartment / 2 BHK	606	₹89.79 L	Fully-Furnished	1	Family	Sale
+659	Delhi Properties (Delhi.txt)	4 BHK Apartment	Dwarka Nagar	Dwarka / Delhi	Apartment / 4 BHK	1692	₹1.70 Cr	Fully-Furnished	4	Bachelors	Sale
+660	Delhi Properties (Delhi.txt)	4 BHK Apartment	Saket Town Centre	Saket / Delhi	Apartment / 4 BHK	1583	₹39,800/month	Semi-Furnished	4	Any	Rent
+661	Delhi Properties (Delhi.txt)	3 BHK Apartment	Rohini Sector 3	Rohini / Delhi	Apartment / 3 BHK	1222	₹1.23 Cr	Semi-Furnished	2	Family	Sale
+662	Delhi Properties (Delhi.txt)	3 BHK Apartment	Saket Heights	Saket / Delhi	Apartment / 3 BHK	1097	₹1.06 Cr	Semi-Furnished	4	Any	Sale
+663	Delhi Properties (Delhi.txt)	1 BHK Apartment	Dwarka South	Dwarka / Delhi	Apartment / 1 BHK	465	₹14,100/month	Semi-Furnished	2	Any	Rent
+664	Delhi Properties (Delhi.txt)	3 BHK Apartment	Rohini Central	Rohini / Delhi	Apartment / 3 BHK	1154	₹1.24 Cr	Unfurnished	3	Family	Sale
+665	Delhi Properties (Delhi.txt)	3 BHK Apartment	Dwarka Sector 1	Dwarka / Delhi	Apartment / 3 BHK	1224	₹1.10 Cr	Semi-Furnished	4	Family	Sale
+666	Delhi Properties (Delhi.txt)	2 BHK Builder Floor	Dwarka South	Dwarka / Delhi	Builder Floor / 2 BHK	823	₹21,400/month	Unfurnished	2	Any	Rent
+667	Delhi Properties (Delhi.txt)	3 BHK Apartment	Dwarka Nagar	Dwarka / Delhi	Apartment / 3 BHK	924	₹25,700/month	Fully-Furnished	4	Family	Rent
+668	Delhi Properties (Delhi.txt)	3 BHK Villa	Rohini Extension	Rohini / Delhi	Villa / 3 BHK	1422	₹1.31 Cr	Semi-Furnished	3	Family	Sale
+669	Delhi Properties (Delhi.txt)	3 BHK Apartment	Rohini East	Rohini / Delhi	Apartment / 3 BHK	1161	₹28,700/month	Unfurnished	3	Family	Rent
+670	Delhi Properties (Delhi.txt)	1 BHK Apartment	Rohini Central	Rohini / Delhi	Apartment / 1 BHK	574	₹56.95 L	Unfurnished	1	Bachelors	Sale
+671	Delhi Properties (Delhi.txt)	3 BHK Apartment	Rohini Central	Rohini / Delhi	Apartment / 3 BHK	1521	₹1.01 Cr	Semi-Furnished	4	Family	Sale
+672	Delhi Properties (Delhi.txt)	2 BHK Apartment	Dwarka Nagar	Dwarka / Delhi	Apartment / 2 BHK	996	₹25,900/month	Fully-Furnished	1	Any	Rent
+673	Delhi Properties (Delhi.txt)	2 BHK Apartment	Dwarka Sector 1	Dwarka / Delhi	Apartment / 2 BHK	1003	₹81.68 L	Semi-Furnished	2	Family	Sale
+674	Delhi Properties (Delhi.txt)	4 BHK Apartment	New Delhi Colony	New Delhi / Delhi	Apartment / 4 BHK	1639	₹1.75 Cr	Fully-Furnished	4	Any	Sale
+675	Delhi Properties (Delhi.txt)	1 BHK Apartment	Saket Sector 3	Saket / Delhi	Apartment / 1 BHK	518	₹15,800/month	Unfurnished	2	Bachelors	Rent
+676	Delhi Properties (Delhi.txt)	4 BHK Apartment	New Delhi Nagar	New Delhi / Delhi	Apartment / 4 BHK	1957	₹1.60 Cr	Semi-Furnished	4	Any	Sale
+677	Delhi Properties (Delhi.txt)	1 BHK Studio	Rohini North	Rohini / Delhi	Studio / 1 BHK	312	₹56.43 L	Unfurnished	1	Family	Sale
+678	Delhi Properties (Delhi.txt)	2 BHK Builder Floor	New Delhi Main Road	New Delhi / Delhi	Builder Floor / 2 BHK	792	₹19,300/month	Semi-Furnished	2	Family	Rent
+679	Delhi Properties (Delhi.txt)	1 BHK Villa	New Delhi Sector 2	New Delhi / Delhi	Villa / 1 BHK	746	₹14,200/month	Fully-Furnished	1	Bachelors	Rent
+680	Delhi Properties (Delhi.txt)	3 BHK Independent House	Dwarka North	Dwarka / Delhi	Independent House / 3 BHK	1552	₹1.49 Cr	Unfurnished	4	Family	Sale
+681	Delhi Properties (Delhi.txt)	1 BHK Apartment	Dwarka West	Dwarka / Delhi	Apartment / 1 BHK	498	₹55.96 L	Fully-Furnished	1	Bachelors	Sale
+682	Delhi Properties (Delhi.txt)	1 BHK Apartment	Dwarka Heights	Dwarka / Delhi	Apartment / 1 BHK	554	₹60.26 L	Semi-Furnished	1	Family	Sale
+683	Delhi Properties (Delhi.txt)	3 BHK Villa	New Delhi Heights	New Delhi / Delhi	Villa / 3 BHK	1674	₹1.38 Cr	Semi-Furnished	3	Family	Sale
+684	Delhi Properties (Delhi.txt)	1 BHK Studio	Rohini East	Rohini / Delhi	Studio / 1 BHK	428	₹61.69 L	Semi-Furnished	2	Any	Sale
+685	Delhi Properties (Delhi.txt)	1 BHK Apartment	New Delhi West	New Delhi / Delhi	Apartment / 1 BHK	309	₹54.68 L	Fully-Furnished	1	Family	Sale
+686	Delhi Properties (Delhi.txt)	4 BHK Villa	Saket Sector 3	Saket / Delhi	Villa / 4 BHK	2205	₹39,200/month	Fully-Furnished	4	Bachelors	Rent
+687	Delhi Properties (Delhi.txt)	2 BHK Apartment	Saket Heights	Saket / Delhi	Apartment / 2 BHK	729	₹21,000/month	Semi-Furnished	2	Bachelors	Rent
+688	Delhi Properties (Delhi.txt)	2 BHK Apartment	Saket Heights	Saket / Delhi	Apartment / 2 BHK	1050	₹29,300/month	Semi-Furnished	1	Bachelors	Rent
+689	Delhi Properties (Delhi.txt)	3 BHK Villa	Dwarka Sector 2	Dwarka / Delhi	Villa / 3 BHK	2271	₹1.18 Cr	Semi-Furnished	4	Bachelors	Sale
+690	Delhi Properties (Delhi.txt)	3 BHK Apartment	Dwarka Town Centre	Dwarka / Delhi	Apartment / 3 BHK	1141	₹27,700/month	Semi-Furnished	3	Bachelors	Rent
+691	Delhi Properties (Delhi.txt)	1 BHK Studio	New Delhi Town Centre	New Delhi / Delhi	Studio / 1 BHK	407	₹42.63 L	Semi-Furnished	1	Family	Sale
+692	Delhi Properties (Delhi.txt)	3 BHK Apartment	Saket North	Saket / Delhi	Apartment / 3 BHK	1258	₹29,500/month	Fully-Furnished	2	Family	Rent
+693	Delhi Properties (Delhi.txt)	1 BHK Studio	Dwarka Nagar	Dwarka / Delhi	Studio / 1 BHK	320	₹14,900/month	Unfurnished	1	Family	Rent
+694	Delhi Properties (Delhi.txt)	2 BHK Builder Floor	Saket South	Saket / Delhi	Builder Floor / 2 BHK	987	₹92.02 L	Semi-Furnished	2	Family	Sale
+695	Delhi Properties (Delhi.txt)	3 BHK Apartment	Saket Sector 1	Saket / Delhi	Apartment / 3 BHK	1283	₹29,400/month	Fully-Furnished	3	Any	Rent
+696	Delhi Properties (Delhi.txt)	2 BHK Apartment	Dwarka West	Dwarka / Delhi	Apartment / 2 BHK	509	₹72.44 L	Semi-Furnished	2	Bachelors	Sale
+697	Delhi Properties (Delhi.txt)	4 BHK Apartment	Dwarka North	Dwarka / Delhi	Apartment / 4 BHK	2073	₹1.92 Cr	Semi-Furnished	3	Family	Sale
+698	Delhi Properties (Delhi.txt)	4 BHK Apartment	New Delhi Heights	New Delhi / Delhi	Apartment / 4 BHK	1698	₹40,400/month	Semi-Furnished	3	Any	Rent
+699	Delhi Properties (Delhi.txt)	1 BHK Studio	Saket Sector 2	Saket / Delhi	Studio / 1 BHK	455	₹58.27 L	Fully-Furnished	2	Any	Sale
+700	Delhi Properties (Delhi.txt)	3 BHK Builder Floor	Saket North	Saket / Delhi	Builder Floor / 3 BHK	1084	₹1.36 Cr	Semi-Furnished	3	Family	Sale
+701	Delhi Properties (Delhi.txt)	2 BHK Builder Floor	Rohini Main Road	Rohini / Delhi	Builder Floor / 2 BHK	771	₹78.24 L	Fully-Furnished	2	Bachelors	Sale
+702	Delhi Properties (Delhi.txt)	3 BHK Apartment	Dwarka Sector 3	Dwarka / Delhi	Apartment / 3 BHK	1209	₹36,700/month	Unfurnished	4	Bachelors	Rent
+703	Delhi Properties (Delhi.txt)	3 BHK Apartment	Dwarka Sector 2	Dwarka / Delhi	Apartment / 3 BHK	992	₹1.19 Cr	Fully-Furnished	3	Bachelors	Sale
+704	Delhi Properties (Delhi.txt)	2 BHK Builder Floor	Saket East	Saket / Delhi	Builder Floor / 2 BHK	938	₹27,700/month	Semi-Furnished	2	Bachelors	Rent
+705	Delhi Properties (Delhi.txt)	4 BHK Apartment	Dwarka Heights	Dwarka / Delhi	Apartment / 4 BHK	1788	₹41,800/month	Unfurnished	4	Bachelors	Rent
+706	Delhi Properties (Delhi.txt)	3 BHK Apartment	Rohini South	Rohini / Delhi	Apartment / 3 BHK	1249	₹1.27 Cr	Fully-Furnished	3	Family	Sale
+707	Delhi Properties (Delhi.txt)	2 BHK Apartment	Dwarka Sector 1	Dwarka / Delhi	Apartment / 2 BHK	761	₹74.79 L	Semi-Furnished	2	Family	Sale
+708	Delhi Properties (Delhi.txt)	2 BHK Villa	Saket West	Saket / Delhi	Villa / 2 BHK	1461	₹24,100/month	Unfurnished	3	Family	Rent
+709	Delhi Properties (Delhi.txt)	2 BHK Apartment	Saket Sector 3	Saket / Delhi	Apartment / 2 BHK	923	₹21,500/month	Semi-Furnished	2	Bachelors	Rent
+710	Delhi Properties (Delhi.txt)	4 BHK Builder Floor	Saket East	Saket / Delhi	Builder Floor / 4 BHK	2009	₹38,700/month	Semi-Furnished	3	Family	Rent
+711	Delhi Properties (Delhi.txt)	1 BHK Studio	Saket Town Centre	Saket / Delhi	Studio / 1 BHK	325	₹12,900/month	Unfurnished	1	Bachelors	Rent
+712	Delhi Properties (Delhi.txt)	2 BHK Builder Floor	Dwarka Main Road	Dwarka / Delhi	Builder Floor / 2 BHK	964	₹20,900/month	Unfurnished	2	Family	Rent
+713	Delhi Properties (Delhi.txt)	1 BHK Apartment	New Delhi Sector 2	New Delhi / Delhi	Apartment / 1 BHK	607	₹53.09 L	Unfurnished	1	Bachelors	Sale
+714	Delhi Properties (Delhi.txt)	2 BHK Apartment	New Delhi North	New Delhi / Delhi	Apartment / 2 BHK	885	₹74.79 L	Unfurnished	1	Bachelors	Sale
+715	Delhi Properties (Delhi.txt)	2 BHK Villa	Dwarka West	Dwarka / Delhi	Villa / 2 BHK	1364	₹24,100/month	Semi-Furnished	3	Family	Rent
+716	Delhi Properties (Delhi.txt)	2 BHK Apartment	Saket Extension	Saket / Delhi	Apartment / 2 BHK	780	₹88.50 L	Semi-Furnished	3	Family	Sale
+717	Delhi Properties (Delhi.txt)	3 BHK Apartment	New Delhi North	New Delhi / Delhi	Apartment / 3 BHK	1263	₹1.24 Cr	Semi-Furnished	3	Any	Sale
+718	Delhi Properties (Delhi.txt)	3 BHK Villa	New Delhi Town Centre	New Delhi / Delhi	Villa / 3 BHK	1661	₹1.47 Cr	Unfurnished	3	Bachelors	Sale
+719	Delhi Properties (Delhi.txt)	3 BHK Independent House	Saket Sector 2	Saket / Delhi	Independent House / 3 BHK	1207	₹1.25 Cr	Fully-Furnished	3	Any	Sale
+720	Delhi Properties (Delhi.txt)	3 BHK Apartment	Rohini Extension	Rohini / Delhi	Apartment / 3 BHK	1708	₹1.07 Cr	Unfurnished	3	Family	Sale
+721	Delhi Properties (Delhi.txt)	4 BHK Villa	Dwarka North	Dwarka / Delhi	Villa / 4 BHK	2412	₹1.66 Cr	Semi-Furnished	4	Bachelors	Sale
+722	Delhi Properties (Delhi.txt)	2 BHK Apartment	Rohini South	Rohini / Delhi	Apartment / 2 BHK	821	₹27,800/month	Fully-Furnished	1	Any	Rent
+723	Delhi Properties (Delhi.txt)	4 BHK Apartment	Saket Nagar	Saket / Delhi	Apartment / 4 BHK	1932	₹1.71 Cr	Fully-Furnished	3	Bachelors	Sale
+724	Delhi Properties (Delhi.txt)	3 BHK Independent House	Saket Sector 1	Saket / Delhi	Independent House / 3 BHK	1701	₹36,200/month	Semi-Furnished	3	Family	Rent
+725	Delhi Properties (Delhi.txt)	3 BHK Apartment	Rohini Sector 2	Rohini / Delhi	Apartment / 3 BHK	1369	₹1.17 Cr	Unfurnished	3	Any	Sale
+726	Delhi Properties (Delhi.txt)	4 BHK Independent House	Dwarka South	Dwarka / Delhi	Independent House / 4 BHK	1870	₹43,300/month	Semi-Furnished	4	Any	Rent
+727	Delhi Properties (Delhi.txt)	2 BHK Apartment	Rohini Sector 1	Rohini / Delhi	Apartment / 2 BHK	813	₹74.31 L	Fully-Furnished	2	Any	Sale
+728	Delhi Properties (Delhi.txt)	4 BHK Apartment	Saket Extension	Saket / Delhi	Apartment / 4 BHK	1850	₹40,700/month	Unfurnished	3	Bachelors	Rent
+729	Delhi Properties (Delhi.txt)	4 BHK Builder Floor	Saket Colony	Saket / Delhi	Builder Floor / 4 BHK	1895	₹1.61 Cr	Semi-Furnished	5	Any	Sale
+730	Delhi Properties (Delhi.txt)	2 BHK Builder Floor	Rohini Main Road	Rohini / Delhi	Builder Floor / 2 BHK	894	₹80.44 L	Fully-Furnished	2	Family	Sale
+731	Delhi Properties (Delhi.txt)	2 BHK Apartment	Saket Colony	Saket / Delhi	Apartment / 2 BHK	855	₹96.18 L	Fully-Furnished	3	Any	Sale
+732	Delhi Properties (Delhi.txt)	2 BHK Villa	Saket North	Saket / Delhi	Villa / 2 BHK	921	₹1.03 Cr	Unfurnished	2	Any	Sale
+733	Delhi Properties (Delhi.txt)	1 BHK Apartment	Dwarka West	Dwarka / Delhi	Apartment / 1 BHK	533	₹56.17 L	Semi-Furnished	2	Any	Sale
+734	Delhi Properties (Delhi.txt)	1 BHK Independent House	Saket Colony	Saket / Delhi	Independent House / 1 BHK	571	₹48.13 L	Fully-Furnished	1	Bachelors	Sale
+735	Delhi Properties (Delhi.txt)	2 BHK Villa	Saket Central	Saket / Delhi	Villa / 2 BHK	1174	₹77.75 L	Unfurnished	1	Bachelors	Sale
+736	Delhi Properties (Delhi.txt)	2 BHK Independent House	Saket Nagar	Saket / Delhi	Independent House / 2 BHK	1018	₹24,100/month	Semi-Furnished	1	Any	Rent
+737	Delhi Properties (Delhi.txt)	3 BHK Builder Floor	Rohini Sector 2	Rohini / Delhi	Builder Floor / 3 BHK	1254	₹1.22 Cr	Semi-Furnished	2	Bachelors	Sale
+738	Delhi Properties (Delhi.txt)	3 BHK Apartment	Dwarka Extension	Dwarka / Delhi	Apartment / 3 BHK	1471	₹1.42 Cr	Fully-Furnished	3	Any	Sale
+739	Delhi Properties (Delhi.txt)	4 BHK Villa	Saket Colony	Saket / Delhi	Villa / 4 BHK	1964	₹1.90 Cr	Unfurnished	4	Family	Sale
+740	Delhi Properties (Delhi.txt)	2 BHK Apartment	Dwarka Sector 2	Dwarka / Delhi	Apartment / 2 BHK	783	₹25,900/month	Semi-Furnished	2	Family	Rent
+741	Delhi Properties (Delhi.txt)	1 BHK Studio	Saket South	Saket / Delhi	Studio / 1 BHK	356	₹16,200/month	Fully-Furnished	1	Any	Rent
+742	Delhi Properties (Delhi.txt)	2 BHK Independent House	New Delhi West	New Delhi / Delhi	Independent House / 2 BHK	1024	₹80.56 L	Fully-Furnished	1	Family	Sale
+743	Delhi Properties (Delhi.txt)	3 BHK Villa	Dwarka West	Dwarka / Delhi	Villa / 3 BHK	1773	₹1.45 Cr	Unfurnished	3	Bachelors	Sale
+744	Delhi Properties (Delhi.txt)	3 BHK Villa	Rohini West	Rohini / Delhi	Villa / 3 BHK	1599	₹1.05 Cr	Fully-Furnished	3	Any	Sale
+745	Delhi Properties (Delhi.txt)	3 BHK Apartment	New Delhi Nagar	New Delhi / Delhi	Apartment / 3 BHK	909	₹30,100/month	Unfurnished	3	Bachelors	Rent
+746	Delhi Properties (Delhi.txt)	2 BHK Apartment	New Delhi Sector 1	New Delhi / Delhi	Apartment / 2 BHK	763	₹84.52 L	Unfurnished	2	Family	Sale
+747	Delhi Properties (Delhi.txt)	3 BHK Builder Floor	Dwarka East	Dwarka / Delhi	Builder Floor / 3 BHK	1135	₹1.10 Cr	Fully-Furnished	3	Any	Sale
+748	Delhi Properties (Delhi.txt)	2 BHK Apartment	Dwarka Nagar	Dwarka / Delhi	Apartment / 2 BHK	836	₹19,500/month	Semi-Furnished	2	Bachelors	Rent
+749	Delhi Properties (Delhi.txt)	2 BHK Apartment	New Delhi Central	New Delhi / Delhi	Apartment / 2 BHK	733	₹69.57 L	Semi-Furnished	1	Any	Sale
+750	Delhi Properties (Delhi.txt)	3 BHK Apartment	New Delhi Sector 3	New Delhi / Delhi	Apartment / 3 BHK	1186	₹96.31 L	Fully-Furnished	4	Family	Sale
+751	Delhi Properties (Delhi.txt)	4 BHK Independent House	Saket Central	Saket / Delhi	Independent House / 4 BHK	2697	₹51,900/month	Fully-Furnished	4	Any	Rent
+752	Delhi Properties (Delhi.txt)	2 BHK Apartment	Saket Heights	Saket / Delhi	Apartment / 2 BHK	887	₹81.92 L	Semi-Furnished	1	Family	Sale
+753	Delhi Properties (Delhi.txt)	4 BHK Builder Floor	Rohini Central	Rohini / Delhi	Builder Floor / 4 BHK	1909	₹40,900/month	Semi-Furnished	3	Bachelors	Rent
+754	Delhi Properties (Delhi.txt)	1 BHK Apartment	Saket Sector 2	Saket / Delhi	Apartment / 1 BHK	561	₹62.29 L	Semi-Furnished	1	Family	Sale
+755	Delhi Properties (Delhi.txt)	2 BHK Builder Floor	Rohini Main Road	Rohini / Delhi	Builder Floor / 2 BHK	856	₹69.85 L	Semi-Furnished	3	Family	Sale
+756	Delhi Properties (Delhi.txt)	4 BHK Villa	New Delhi Extension	New Delhi / Delhi	Villa / 4 BHK	2592	₹48,900/month	Unfurnished	4	Family	Rent
+757	Delhi Properties (Delhi.txt)	3 BHK Builder Floor	Dwarka Extension	Dwarka / Delhi	Builder Floor / 3 BHK	1220	₹1.30 Cr	Fully-Furnished	3	Bachelors	Sale
+758	Delhi Properties (Delhi.txt)	2 BHK Apartment	Saket Sector 3	Saket / Delhi	Apartment / 2 BHK	927	₹72.26 L	Semi-Furnished	2	Any	Sale
+759	Delhi Properties (Delhi.txt)	2 BHK Apartment	Saket Nagar	Saket / Delhi	Apartment / 2 BHK	772	₹92.24 L	Unfurnished	1	Bachelors	Sale
+760	Delhi Properties (Delhi.txt)	3 BHK Builder Floor	Saket West	Saket / Delhi	Builder Floor / 3 BHK	1412	₹1.16 Cr	Semi-Furnished	3	Family	Sale
+761	Delhi Properties (Delhi.txt)	2 BHK Apartment	Rohini Central	Rohini / Delhi	Apartment / 2 BHK	883	₹26,700/month	Semi-Furnished	3	Bachelors	Rent
+762	Delhi Properties (Delhi.txt)	1 BHK Studio	Saket East	Saket / Delhi	Studio / 1 BHK	300	₹46.68 L	Semi-Furnished	1	Family	Sale
+763	Delhi Properties (Delhi.txt)	2 BHK Apartment	Dwarka Sector 3	Dwarka / Delhi	Apartment / 2 BHK	892	₹74.70 L	Semi-Furnished	3	Any	Sale
+764	Delhi Properties (Delhi.txt)	1 BHK Studio	Rohini Sector 3	Rohini / Delhi	Studio / 1 BHK	422	₹17,000/month	Fully-Furnished	2	Any	Rent
+765	Delhi Properties (Delhi.txt)	3 BHK Apartment	Saket Nagar	Saket / Delhi	Apartment / 3 BHK	1440	₹38,500/month	Unfurnished	4	Family	Rent
+766	Delhi Properties (Delhi.txt)	1 BHK Independent House	New Delhi Sector 2	New Delhi / Delhi	Independent House / 1 BHK	552	₹47.51 L	Fully-Furnished	2	Bachelors	Sale
+767	Delhi Properties (Delhi.txt)	1 BHK Studio	New Delhi Sector 2	New Delhi / Delhi	Studio / 1 BHK	371	₹16,900/month	Semi-Furnished	1	Family	Rent
+768	Delhi Properties (Delhi.txt)	1 BHK Builder Floor	New Delhi Colony	New Delhi / Delhi	Builder Floor / 1 BHK	419	₹12,000/month	Fully-Furnished	2	Family	Rent
+769	Delhi Properties (Delhi.txt)	2 BHK Villa	Saket South	Saket / Delhi	Villa / 2 BHK	1337	₹82.01 L	Semi-Furnished	3	Bachelors	Sale
+770	Delhi Properties (Delhi.txt)	1 BHK Apartment	New Delhi Residential Area	New Delhi / Delhi	Apartment / 1 BHK	436	₹59.48 L	Unfurnished	1	Any	Sale
+771	Delhi Properties (Delhi.txt)	4 BHK Apartment	Saket Main Road	Saket / Delhi	Apartment / 4 BHK	1654	₹1.49 Cr	Fully-Furnished	4	Any	Sale
+772	Delhi Properties (Delhi.txt)	2 BHK Builder Floor	Dwarka North	Dwarka / Delhi	Builder Floor / 2 BHK	966	₹78.91 L	Unfurnished	3	Bachelors	Sale
+773	Delhi Properties (Delhi.txt)	3 BHK Independent House	Rohini Colony	Rohini / Delhi	Independent House / 3 BHK	1610	₹36,400/month	Semi-Furnished	3	Bachelors	Rent
+774	Delhi Properties (Delhi.txt)	4 BHK Independent House	Saket Colony	Saket / Delhi	Independent House / 4 BHK	1447	₹35,000/month	Unfurnished	4	Family	Rent
+775	Delhi Properties (Delhi.txt)	5 BHK Apartment	Rohini Sector 3	Rohini / Delhi	Apartment / 5 BHK	2538	₹2.21 Cr	Semi-Furnished	5	Family	Sale
+776	Delhi Properties (Delhi.txt)	3 BHK Apartment	Dwarka Heights	Dwarka / Delhi	Apartment / 3 BHK	1239	₹97.20 L	Fully-Furnished	3	Any	Sale
+777	Delhi Properties (Delhi.txt)	2 BHK Apartment	New Delhi Central	New Delhi / Delhi	Apartment / 2 BHK	745	₹98.64 L	Semi-Furnished	2	Family	Sale
+778	Delhi Properties (Delhi.txt)	2 BHK Independent House	New Delhi Sector 1	New Delhi / Delhi	Independent House / 2 BHK	1227	₹81.45 L	Fully-Furnished	3	Bachelors	Sale
+779	Delhi Properties (Delhi.txt)	2 BHK Apartment	Saket South	Saket / Delhi	Apartment / 2 BHK	635	₹92.69 L	Unfurnished	3	Family	Sale
+780	Delhi Properties (Delhi.txt)	4 BHK Villa	Saket Heights	Saket / Delhi	Villa / 4 BHK	2656	₹2.04 Cr	Fully-Furnished	3	Family	Sale
+781	Delhi Properties (Delhi.txt)	2 BHK Apartment	New Delhi Main Road	New Delhi / Delhi	Apartment / 2 BHK	825	₹23,700/month	Fully-Furnished	2	Bachelors	Rent
+782	Delhi Properties (Delhi.txt)	2 BHK Independent House	New Delhi Town Centre	New Delhi / Delhi	Independent House / 2 BHK	999	₹21,600/month	Fully-Furnished	1	Family	Rent
+783	Delhi Properties (Delhi.txt)	1 BHK Apartment	New Delhi Nagar	New Delhi / Delhi	Apartment / 1 BHK	437	₹12,300/month	Fully-Furnished	1	Any	Rent
+784	Delhi Properties (Delhi.txt)	3 BHK Builder Floor	New Delhi Extension	New Delhi / Delhi	Builder Floor / 3 BHK	1133	₹93.72 L	Semi-Furnished	3	Family	Sale
+785	Delhi Properties (Delhi.txt)	3 BHK Independent House	Rohini South	Rohini / Delhi	Independent House / 3 BHK	1534	₹1.40 Cr	Semi-Furnished	2	Bachelors	Sale
+786	Delhi Properties (Delhi.txt)	3 BHK Apartment	Dwarka Extension	Dwarka / Delhi	Apartment / 3 BHK	1464	₹1.24 Cr	Semi-Furnished	2	Family	Sale
+787	Delhi Properties (Delhi.txt)	2 BHK Apartment	Rohini Extension	Rohini / Delhi	Apartment / 2 BHK	868	₹86.90 L	Fully-Furnished	2	Family	Sale
+788	Delhi Properties (Delhi.txt)	3 BHK Apartment	Dwarka Main Road	Dwarka / Delhi	Apartment / 3 BHK	1348	₹27,300/month	Semi-Furnished	2	Any	Rent
+789	Delhi Properties (Delhi.txt)	1 BHK Builder Floor	Saket Sector 2	Saket / Delhi	Builder Floor / 1 BHK	457	₹17,500/month	Semi-Furnished	1	Family	Rent
+790	Delhi Properties (Delhi.txt)	4 BHK Independent House	Rohini West	Rohini / Delhi	Independent House / 4 BHK	1377	₹1.31 Cr	Semi-Furnished	5	Family	Sale
+791	Delhi Properties (Delhi.txt)	3 BHK Apartment	New Delhi Sector 2	New Delhi / Delhi	Apartment / 3 BHK	1605	₹1.47 Cr	Fully-Furnished	3	Bachelors	Sale
+792	Delhi Properties (Delhi.txt)	3 BHK Apartment	Rohini East	Rohini / Delhi	Apartment / 3 BHK	1197	₹94.56 L	Unfurnished	3	Any	Sale
+793	Delhi Properties (Delhi.txt)	4 BHK Villa	New Delhi Colony	New Delhi / Delhi	Villa / 4 BHK	2148	₹38,400/month	Semi-Furnished	4	Family	Rent
+794	Delhi Properties (Delhi.txt)	4 BHK Apartment	Saket West	Saket / Delhi	Apartment / 4 BHK	1871	₹45,300/month	Fully-Furnished	4	Family	Rent
+795	Delhi Properties (Delhi.txt)	2 BHK Builder Floor	New Delhi Colony	New Delhi / Delhi	Builder Floor / 2 BHK	707	₹93.32 L	Unfurnished	2	Any	Sale
+796	Delhi Properties (Delhi.txt)	1 BHK Studio	New Delhi Residential Area	New Delhi / Delhi	Studio / 1 BHK	398	₹17,400/month	Semi-Furnished	1	Bachelors	Rent
+797	Delhi Properties (Delhi.txt)	4 BHK Apartment	New Delhi Nagar	New Delhi / Delhi	Apartment / 4 BHK	1693	₹1.43 Cr	Semi-Furnished	4	Any	Sale
+798	Delhi Properties (Delhi.txt)	4 BHK Villa	Dwarka South	Dwarka / Delhi	Villa / 4 BHK	2773	₹1.87 Cr	Semi-Furnished	4	Any	Sale
+799	Delhi Properties (Delhi.txt)	4 BHK Apartment	Saket South	Saket / Delhi	Apartment / 4 BHK	1859	₹46,700/month	Unfurnished	4	Family	Rent
+800	Delhi Properties (Delhi.txt)	4 BHK Independent House	Dwarka Central	Dwarka / Delhi	Independent House / 4 BHK	1716	₹1.63 Cr	Semi-Furnished	4	Bachelors	Sale
+801	Delhi Properties (Delhi.txt)	2 BHK Apartment	Dwarka North	Dwarka / Delhi	Apartment / 2 BHK	778	₹21,600/month	Semi-Furnished	2	Family	Rent
+802	Delhi Properties (Delhi.txt)	2 BHK Apartment	Dwarka Heights	Dwarka / Delhi	Apartment / 2 BHK	888	₹93.93 L	Fully-Furnished	2	Family	Sale
+803	Delhi Properties (Delhi.txt)	4 BHK Apartment	Rohini Sector 3	Rohini / Delhi	Apartment / 4 BHK	1963	₹51,000/month	Semi-Furnished	5	Family	Rent
+804	Delhi Properties (Delhi.txt)	2 BHK Apartment	Dwarka Sector 3	Dwarka / Delhi	Apartment / 2 BHK	721	₹85.63 L	Fully-Furnished	2	Bachelors	Sale
+805	Delhi Properties (Delhi.txt)	3 BHK Builder Floor	Saket Extension	Saket / Delhi	Builder Floor / 3 BHK	1555	₹1.22 Cr	Semi-Furnished	4	Any	Sale
+806	Delhi Properties (Delhi.txt)	2 BHK Independent House	Dwarka East	Dwarka / Delhi	Independent House / 2 BHK	1123	₹1.08 Cr	Fully-Furnished	3	Bachelors	Sale
+807	Delhi Properties (Delhi.txt)	3 BHK Independent House	Dwarka Residential Area	Dwarka / Delhi	Independent House / 3 BHK	1577	₹1.47 Cr	Semi-Furnished	3	Any	Sale
+808	Delhi Properties (Delhi.txt)	3 BHK Villa	Rohini Main Road	Rohini / Delhi	Villa / 3 BHK	1134	₹1.31 Cr	Unfurnished	3	Bachelors	Sale
+809	Delhi Properties (Delhi.txt)	1 BHK Independent House	New Delhi West	New Delhi / Delhi	Independent House / 1 BHK	476	₹12,900/month	Semi-Furnished	1	Any	Rent
+810	Delhi Properties (Delhi.txt)	4 BHK Apartment	Dwarka Central	Dwarka / Delhi	Apartment / 4 BHK	1650	₹35,700/month	Unfurnished	3	Family	Rent
+811	Delhi Properties (Delhi.txt)	1 BHK Studio	Dwarka Heights	Dwarka / Delhi	Studio / 1 BHK	306	₹14,400/month	Fully-Furnished	1	Family	Rent
+812	Delhi Properties (Delhi.txt)	1 BHK Independent House	Saket Town Centre	Saket / Delhi	Independent House / 1 BHK	566	₹57.15 L	Semi-Furnished	1	Bachelors	Sale
+813	Delhi Properties (Delhi.txt)	2 BHK Independent House	Saket Colony	Saket / Delhi	Independent House / 2 BHK	853	₹97.76 L	Unfurnished	3	Family	Sale
+814	Delhi Properties (Delhi.txt)	4 BHK Apartment	Saket North	Saket / Delhi	Apartment / 4 BHK	1650	₹47,800/month	Semi-Furnished	4	Family	Rent
+815	Delhi Properties (Delhi.txt)	2 BHK Apartment	New Delhi Main Road	New Delhi / Delhi	Apartment / 2 BHK	738	₹71.76 L	Fully-Furnished	1	Any	Sale
+816	Delhi Properties (Delhi.txt)	3 BHK Apartment	Rohini Residential Area	Rohini / Delhi	Apartment / 3 BHK	1305	₹1.08 Cr	Semi-Furnished	4	Bachelors	Sale
+817	Delhi Properties (Delhi.txt)	3 BHK Builder Floor	Saket Residential Area	Saket / Delhi	Builder Floor / 3 BHK	1321	₹1.15 Cr	Semi-Furnished	3	Any	Sale
+818	Delhi Properties (Delhi.txt)	4 BHK Villa	New Delhi Heights	New Delhi / Delhi	Villa / 4 BHK	2071	₹1.89 Cr	Semi-Furnished	4	Bachelors	Sale
+819	Delhi Properties (Delhi.txt)	2 BHK Apartment	Dwarka Residential Area	Dwarka / Delhi	Apartment / 2 BHK	940	₹28,300/month	Semi-Furnished	2	Bachelors	Rent
+820	Delhi Properties (Delhi.txt)	4 BHK Builder Floor	Dwarka Town Centre	Dwarka / Delhi	Builder Floor / 4 BHK	1965	₹35,200/month	Unfurnished	4	Bachelors	Rent
+821	Delhi Properties (Delhi.txt)	1 BHK Apartment	Rohini North	Rohini / Delhi	Apartment / 1 BHK	445	₹62.16 L	Fully-Furnished	1	Family	Sale
+822	Delhi Properties (Delhi.txt)	1 BHK Studio	Saket Main Road	Saket / Delhi	Studio / 1 BHK	378	₹16,400/month	Fully-Furnished	1	Family	Rent
+823	Delhi Properties (Delhi.txt)	3 BHK Apartment	Rohini Central	Rohini / Delhi	Apartment / 3 BHK	1188	₹1.05 Cr	Semi-Furnished	3	Any	Sale
+824	Delhi Properties (Delhi.txt)	2 BHK Apartment	Rohini North	Rohini / Delhi	Apartment / 2 BHK	855	₹1.01 Cr	Unfurnished	1	Bachelors	Sale
+825	Delhi Properties (Delhi.txt)	2 BHK Apartment	Saket Sector 2	Saket / Delhi	Apartment / 2 BHK	772	₹23,100/month	Unfurnished	2	Family	Rent
+826	Delhi Properties (Delhi.txt)	3 BHK Builder Floor	Saket Main Road	Saket / Delhi	Builder Floor / 3 BHK	1270	₹99.45 L	Fully-Furnished	3	Bachelors	Sale
+827	Delhi Properties (Delhi.txt)	2 BHK Builder Floor	New Delhi Residential Area	New Delhi / Delhi	Builder Floor / 2 BHK	931	₹83.30 L	Semi-Furnished	3	Family	Sale
+828	Delhi Properties (Delhi.txt)	1 BHK Apartment	Dwarka Sector 3	Dwarka / Delhi	Apartment / 1 BHK	570	₹17,100/month	Semi-Furnished	2	Family	Rent
+829	Delhi Properties (Delhi.txt)	2 BHK Builder Floor	Dwarka Colony	Dwarka / Delhi	Builder Floor / 2 BHK	1021	₹1.05 Cr	Fully-Furnished	2	Bachelors	Sale
+830	Delhi Properties (Delhi.txt)	3 BHK Apartment	Saket Sector 2	Saket / Delhi	Apartment / 3 BHK	844	₹1.09 Cr	Semi-Furnished	2	Family	Sale
+831	Delhi Properties (Delhi.txt)	3 BHK Independent House	Rohini East	Rohini / Delhi	Independent House / 3 BHK	1709	₹1.45 Cr	Semi-Furnished	3	Bachelors	Sale
+832	Delhi Properties (Delhi.txt)	2 BHK Apartment	Rohini Heights	Rohini / Delhi	Apartment / 2 BHK	919	₹81.39 L	Unfurnished	2	Any	Sale
+833	Delhi Properties (Delhi.txt)	2 BHK Apartment	Saket Extension	Saket / Delhi	Apartment / 2 BHK	586	₹25,000/month	Semi-Furnished	3	Family	Rent
+834	Delhi Properties (Delhi.txt)	1 BHK Builder Floor	Saket Extension	Saket / Delhi	Builder Floor / 1 BHK	654	₹50.81 L	Semi-Furnished	1	Family	Sale
+835	Delhi Properties (Delhi.txt)	3 BHK Builder Floor	New Delhi Residential Area	New Delhi / Delhi	Builder Floor / 3 BHK	1036	₹1.11 Cr	Unfurnished	4	Bachelors	Sale
+836	Delhi Properties (Delhi.txt)	3 BHK Apartment	Dwarka East	Dwarka / Delhi	Apartment / 3 BHK	1378	₹1.35 Cr	Semi-Furnished	3	Bachelors	Sale
+837	Delhi Properties (Delhi.txt)	4 BHK Independent House	New Delhi North	New Delhi / Delhi	Independent House / 4 BHK	1543	₹1.28 Cr	Semi-Furnished	5	Any	Sale
+838	Delhi Properties (Delhi.txt)	4 BHK Apartment	Dwarka East	Dwarka / Delhi	Apartment / 4 BHK	1531	₹41,500/month	Fully-Furnished	5	Any	Rent
+839	Delhi Properties (Delhi.txt)	2 BHK Independent House	Saket Sector 1	Saket / Delhi	Independent House / 2 BHK	859	₹99.26 L	Fully-Furnished	2	Any	Sale
+840	Delhi Properties (Delhi.txt)	3 BHK Apartment	Rohini Residential Area	Rohini / Delhi	Apartment / 3 BHK	1103	₹1.33 Cr	Semi-Furnished	2	Family	Sale
+841	Delhi Properties (Delhi.txt)	3 BHK Independent House	Dwarka Central	Dwarka / Delhi	Independent House / 3 BHK	1597	₹1.03 Cr	Fully-Furnished	4	Any	Sale
+842	Delhi Properties (Delhi.txt)	1 BHK Studio	Rohini Colony	Rohini / Delhi	Studio / 1 BHK	352	₹17,100/month	Unfurnished	1	Any	Rent
+843	Delhi Properties (Delhi.txt)	2 BHK Apartment	Dwarka Colony	Dwarka / Delhi	Apartment / 2 BHK	855	₹71.95 L	Unfurnished	2	Family	Sale
+844	Delhi Properties (Delhi.txt)	3 BHK Apartment	Saket Sector 2	Saket / Delhi	Apartment / 3 BHK	1521	₹1.08 Cr	Semi-Furnished	2	Bachelors	Sale
+845	Delhi Properties (Delhi.txt)	4 BHK Apartment	Saket South	Saket / Delhi	Apartment / 4 BHK	1620	₹1.27 Cr	Fully-Furnished	4	Family	Sale
+846	Delhi Properties (Delhi.txt)	2 BHK Independent House	New Delhi South	New Delhi / Delhi	Independent House / 2 BHK	993	₹99.88 L	Semi-Furnished	2	Any	Sale
+847	Delhi Properties (Delhi.txt)	2 BHK Apartment	Saket Sector 1	Saket / Delhi	Apartment / 2 BHK	947	₹96.49 L	Fully-Furnished	2	Family	Sale
+848	Delhi Properties (Delhi.txt)	2 BHK Apartment	Saket Extension	Saket / Delhi	Apartment / 2 BHK	755	₹26,900/month	Semi-Furnished	2	Any	Rent
+849	Delhi Properties (Delhi.txt)	2 BHK Apartment	Rohini Heights	Rohini / Delhi	Apartment / 2 BHK	921	₹20,600/month	Fully-Furnished	3	Bachelors	Rent
+850	Delhi Properties (Delhi.txt)	3 BHK Villa	Rohini Colony	Rohini / Delhi	Villa / 3 BHK	1829	₹1.24 Cr	Fully-Furnished	3	Family	Sale
+851	Delhi Properties (Delhi.txt)	2 BHK Builder Floor	Dwarka East	Dwarka / Delhi	Builder Floor / 2 BHK	693	₹94.76 L	Semi-Furnished	3	Bachelors	Sale
+852	Delhi Properties (Delhi.txt)	2 BHK Independent House	Rohini Heights	Rohini / Delhi	Independent House / 2 BHK	1120	₹1.10 Cr	Semi-Furnished	2	Bachelors	Sale
+853	Delhi Properties (Delhi.txt)	2 BHK Apartment	Dwarka Extension	Dwarka / Delhi	Apartment / 2 BHK	760	₹19,800/month	Unfurnished	2	Family	Rent
+854	Delhi Properties (Delhi.txt)	2 BHK Apartment	Saket Sector 3	Saket / Delhi	Apartment / 2 BHK	750	₹79.66 L	Unfurnished	2	Family	Sale
+855	Delhi Properties (Delhi.txt)	2 BHK Apartment	Saket West	Saket / Delhi	Apartment / 2 BHK	1049	₹87.11 L	Fully-Furnished	2	Family	Sale
+856	Delhi Properties (Delhi.txt)	3 BHK Independent House	Rohini Residential Area	Rohini / Delhi	Independent House / 3 BHK	1282	₹31,300/month	Fully-Furnished	3	Family	Rent
+857	Delhi Properties (Delhi.txt)	3 BHK Builder Floor	Dwarka Extension	Dwarka / Delhi	Builder Floor / 3 BHK	1244	₹1.26 Cr	Fully-Furnished	3	Bachelors	Sale
+858	Delhi Properties (Delhi.txt)	2 BHK Apartment	Saket Nagar	Saket / Delhi	Apartment / 2 BHK	777	₹20,300/month	Semi-Furnished	2	Family	Rent
+859	Delhi Properties (Delhi.txt)	1 BHK Apartment	Saket Colony	Saket / Delhi	Apartment / 1 BHK	511	₹17,700/month	Semi-Furnished	1	Bachelors	Rent
+860	Delhi Properties (Delhi.txt)	4 BHK Apartment	Dwarka Central	Dwarka / Delhi	Apartment / 4 BHK	1352	₹1.44 Cr	Semi-Furnished	3	Any	Sale
+861	Delhi Properties (Delhi.txt)	2 BHK Independent House	Dwarka Sector 3	Dwarka / Delhi	Independent House / 2 BHK	1158	₹30,700/month	Semi-Furnished	3	Family	Rent
+862	Delhi Properties (Delhi.txt)	5 BHK Apartment	Rohini Central	Rohini / Delhi	Apartment / 5 BHK	3247	₹1.74 Cr	Semi-Furnished	5	Bachelors	Sale
+863	Delhi Properties (Delhi.txt)	2 BHK Apartment	New Delhi South	New Delhi / Delhi	Apartment / 2 BHK	965	₹72.75 L	Semi-Furnished	1	Family	Sale
+864	Delhi Properties (Delhi.txt)	1 BHK Apartment	Dwarka Main Road	Dwarka / Delhi	Apartment / 1 BHK	445	₹16,700/month	Unfurnished	1	Family	Rent
+865	Delhi Properties (Delhi.txt)	3 BHK Apartment	New Delhi Extension	New Delhi / Delhi	Apartment / 3 BHK	980	₹1.21 Cr	Semi-Furnished	4	Bachelors	Sale
+866	Delhi Properties (Delhi.txt)	2 BHK Apartment	Saket West	Saket / Delhi	Apartment / 2 BHK	906	₹27,400/month	Semi-Furnished	3	Any	Rent
+867	Delhi Properties (Delhi.txt)	4 BHK Builder Floor	Saket Sector 2	Saket / Delhi	Builder Floor / 4 BHK	1761	₹1.68 Cr	Fully-Furnished	5	Any	Sale
+868	Delhi Properties (Delhi.txt)	3 BHK Apartment	Dwarka Nagar	Dwarka / Delhi	Apartment / 3 BHK	1029	₹1.20 Cr	Fully-Furnished	3	Bachelors	Sale
+869	Delhi Properties (Delhi.txt)	3 BHK Apartment	Dwarka Nagar	Dwarka / Delhi	Apartment / 3 BHK	1236	₹1.29 Cr	Semi-Furnished	2	Bachelors	Sale
+870	Delhi Properties (Delhi.txt)	4 BHK Apartment	Saket Central	Saket / Delhi	Apartment / 4 BHK	1698	₹1.28 Cr	Semi-Furnished	5	Any	Sale
+871	Delhi Properties (Delhi.txt)	4 BHK Apartment	Rohini Main Road	Rohini / Delhi	Apartment / 4 BHK	1473	₹1.31 Cr	Semi-Furnished	5	Bachelors	Sale
+872	Delhi Properties (Delhi.txt)	2 BHK Builder Floor	Dwarka South	Dwarka / Delhi	Builder Floor / 2 BHK	881	₹90.82 L	Unfurnished	1	Family	Sale
+873	Delhi Properties (Delhi.txt)	3 BHK Apartment	Dwarka Sector 2	Dwarka / Delhi	Apartment / 3 BHK	1651	₹1.14 Cr	Semi-Furnished	3	Bachelors	Sale
+874	Delhi Properties (Delhi.txt)	2 BHK Builder Floor	Rohini Central	Rohini / Delhi	Builder Floor / 2 BHK	932	₹91.23 L	Unfurnished	3	Family	Sale
+875	Delhi Properties (Delhi.txt)	3 BHK Apartment	Rohini West	Rohini / Delhi	Apartment / 3 BHK	1068	₹26,900/month	Fully-Furnished	4	Family	Rent
+876	Delhi Properties (Delhi.txt)	3 BHK Apartment	Rohini North	Rohini / Delhi	Apartment / 3 BHK	1140	₹1.32 Cr	Semi-Furnished	3	Family	Sale
+877	Delhi Properties (Delhi.txt)	4 BHK Villa	Rohini Colony	Rohini / Delhi	Villa / 4 BHK	2256	₹36,300/month	Unfurnished	4	Family	Rent
+878	Delhi Properties (Delhi.txt)	1 BHK Independent House	Saket Colony	Saket / Delhi	Independent House / 1 BHK	621	₹49.34 L	Semi-Furnished	2	Any	Sale
+879	Delhi Properties (Delhi.txt)	2 BHK Apartment	Rohini Main Road	Rohini / Delhi	Apartment / 2 BHK	889	₹27,900/month	Unfurnished	1	Bachelors	Rent
+880	Delhi Properties (Delhi.txt)	3 BHK Apartment	Rohini West	Rohini / Delhi	Apartment / 3 BHK	1024	₹1.18 Cr	Semi-Furnished	3	Family	Sale
+881	Delhi Properties (Delhi.txt)	2 BHK Independent House	Dwarka East	Dwarka / Delhi	Independent House / 2 BHK	991	₹20,500/month	Fully-Furnished	2	Family	Rent
+882	Delhi Properties (Delhi.txt)	1 BHK Builder Floor	Saket North	Saket / Delhi	Builder Floor / 1 BHK	576	₹17,100/month	Semi-Furnished	1	Bachelors	Rent
+883	Delhi Properties (Delhi.txt)	2 BHK Apartment	Rohini South	Rohini / Delhi	Apartment / 2 BHK	760	₹97.81 L	Semi-Furnished	2	Bachelors	Sale
+884	Delhi Properties (Delhi.txt)	1 BHK Studio	Dwarka Extension	Dwarka / Delhi	Studio / 1 BHK	352	₹55.23 L	Semi-Furnished	1	Family	Sale
+885	Delhi Properties (Delhi.txt)	4 BHK Apartment	Dwarka Heights	Dwarka / Delhi	Apartment / 4 BHK	1575	₹1.57 Cr	Fully-Furnished	4	Bachelors	Sale
+886	Delhi Properties (Delhi.txt)	4 BHK Villa	Dwarka Sector 1	Dwarka / Delhi	Villa / 4 BHK	2253	₹44,500/month	Semi-Furnished	4	Family	Rent
+887	Delhi Properties (Delhi.txt)	2 BHK Villa	New Delhi North	New Delhi / Delhi	Villa / 2 BHK	1102	₹79.63 L	Semi-Furnished	1	Family	Sale
+888	Delhi Properties (Delhi.txt)	2 BHK Independent House	Dwarka West	Dwarka / Delhi	Independent House / 2 BHK	1055	₹21,900/month	Unfurnished	2	Bachelors	Rent
+889	Delhi Properties (Delhi.txt)	1 BHK Independent House	Rohini Main Road	Rohini / Delhi	Independent House / 1 BHK	755	₹16,900/month	Fully-Furnished	2	Family	Rent
+890	Delhi Properties (Delhi.txt)	3 BHK Villa	Saket Colony	Saket / Delhi	Villa / 3 BHK	2226	₹1.25 Cr	Semi-Furnished	3	Family	Sale
+891	Delhi Properties (Delhi.txt)	2 BHK Independent House	New Delhi Main Road	New Delhi / Delhi	Independent House / 2 BHK	891	₹20,900/month	Fully-Furnished	2	Bachelors	Rent
+892	Delhi Properties (Delhi.txt)	2 BHK Apartment	New Delhi West	New Delhi / Delhi	Apartment / 2 BHK	933	₹1.03 Cr	Unfurnished	1	Family	Sale
+893	Delhi Properties (Delhi.txt)	2 BHK Apartment	Rohini Town Centre	Rohini / Delhi	Apartment / 2 BHK	879	₹82.43 L	Fully-Furnished	2	Family	Sale
+894	Delhi Properties (Delhi.txt)	2 BHK Builder Floor	Dwarka East	Dwarka / Delhi	Builder Floor / 2 BHK	591	₹22,000/month	Semi-Furnished	2	Any	Rent
+895	Delhi Properties (Delhi.txt)	3 BHK Apartment	New Delhi Colony	New Delhi / Delhi	Apartment / 3 BHK	1111	₹1.01 Cr	Unfurnished	3	Family	Sale
+896	Delhi Properties (Delhi.txt)	5 BHK Independent House	Saket South	Saket / Delhi	Independent House / 5 BHK	2146	₹1.73 Cr	Fully-Furnished	5	Family	Sale
+897	Delhi Properties (Delhi.txt)	3 BHK Independent House	Dwarka Residential Area	Dwarka / Delhi	Independent House / 3 BHK	1609	₹31,200/month	Semi-Furnished	3	Any	Rent
+898	Delhi Properties (Delhi.txt)	1 BHK Studio	Saket East	Saket / Delhi	Studio / 1 BHK	376	₹51.17 L	Unfurnished	1	Any	Sale
+899	Delhi Properties (Delhi.txt)	3 BHK Apartment	Saket South	Saket / Delhi	Apartment / 3 BHK	996	₹30,800/month	Semi-Furnished	3	Bachelors	Rent
+900	Delhi Properties (Delhi.txt)	3 BHK Builder Floor	New Delhi Sector 2	New Delhi / Delhi	Builder Floor / 3 BHK	1480	₹1.29 Cr	Unfurnished	3	Family	Sale
+901	Delhi Properties (Delhi.txt)	2 BHK Apartment	Saket Sector 3	Saket / Delhi	Apartment / 2 BHK	690	₹71.94 L	Fully-Furnished	2	Family	Sale
+902	Delhi Properties (Delhi.txt)	1 BHK Apartment	Dwarka North	Dwarka / Delhi	Apartment / 1 BHK	419	₹51.04 L	Semi-Furnished	1	Family	Sale
+903	Delhi Properties (Delhi.txt)	1 BHK Independent House	Dwarka Main Road	Dwarka / Delhi	Independent House / 1 BHK	677	₹16,100/month	Semi-Furnished	1	Family	Rent
+904	Delhi Properties (Delhi.txt)	3 BHK Apartment	Saket South	Saket / Delhi	Apartment / 3 BHK	1277	₹1.31 Cr	Semi-Furnished	3	Any	Sale
+905	Delhi Properties (Delhi.txt)	2 BHK Builder Floor	New Delhi Sector 2	New Delhi / Delhi	Builder Floor / 2 BHK	811	₹82.03 L	Unfurnished	3	Any	Sale
+906	Delhi Properties (Delhi.txt)	4 BHK Villa	Dwarka East	Dwarka / Delhi	Villa / 4 BHK	2179	₹1.48 Cr	Semi-Furnished	4	Family	Sale
+907	Delhi Properties (Delhi.txt)	1 BHK Apartment	Rohini Sector 3	Rohini / Delhi	Apartment / 1 BHK	385	₹55.61 L	Unfurnished	1	Any	Sale
+908	Delhi Properties (Delhi.txt)	4 BHK Apartment	Saket Sector 1	Saket / Delhi	Apartment / 4 BHK	2194	₹44,900/month	Unfurnished	5	Bachelors	Rent
+909	Delhi Properties (Delhi.txt)	2 BHK Apartment	New Delhi Main Road	New Delhi / Delhi	Apartment / 2 BHK	1100	₹92.54 L	Fully-Furnished	2	Family	Sale
+910	Delhi Properties (Delhi.txt)	2 BHK Builder Floor	Dwarka Nagar	Dwarka / Delhi	Builder Floor / 2 BHK	1022	₹29,000/month	Semi-Furnished	2	Bachelors	Rent
+911	Delhi Properties (Delhi.txt)	3 BHK Independent House	New Delhi East	New Delhi / Delhi	Independent House / 3 BHK	1632	₹1.07 Cr	Semi-Furnished	3	Any	Sale
+912	Delhi Properties (Delhi.txt)	3 BHK Apartment	New Delhi South	New Delhi / Delhi	Apartment / 3 BHK	1237	₹1.36 Cr	Semi-Furnished	2	Any	Sale
+913	Delhi Properties (Delhi.txt)	2 BHK Apartment	Saket Central	Saket / Delhi	Apartment / 2 BHK	691	₹22,600/month	Semi-Furnished	2	Family	Rent
+914	Delhi Properties (Delhi.txt)	4 BHK Builder Floor	Rohini North	Rohini / Delhi	Builder Floor / 4 BHK	1666	₹1.35 Cr	Semi-Furnished	5	Any	Sale
+915	Delhi Properties (Delhi.txt)	1 BHK Independent House	New Delhi South	New Delhi / Delhi	Independent House / 1 BHK	586	₹46.32 L	Semi-Furnished	1	Family	Sale
+916	Delhi Properties (Delhi.txt)	4 BHK Villa	Rohini West	Rohini / Delhi	Villa / 4 BHK	2453	₹1.43 Cr	Semi-Furnished	4	Family	Sale
+917	Delhi Properties (Delhi.txt)	1 BHK Builder Floor	Dwarka North	Dwarka / Delhi	Builder Floor / 1 BHK	511	₹58.36 L	Semi-Furnished	1	Any	Sale
+918	Delhi Properties (Delhi.txt)	2 BHK Apartment	Saket Extension	Saket / Delhi	Apartment / 2 BHK	794	₹70.89 L	Semi-Furnished	2	Bachelors	Sale
+919	Delhi Properties (Delhi.txt)	1 BHK Apartment	Saket Central	Saket / Delhi	Apartment / 1 BHK	438	₹45.45 L	Semi-Furnished	2	Bachelors	Sale
+920	Delhi Properties (Delhi.txt)	2 BHK Apartment	Saket Nagar	Saket / Delhi	Apartment / 2 BHK	683	₹72.97 L	Unfurnished	2	Bachelors	Sale
+921	Delhi Properties (Delhi.txt)	5 BHK Apartment	Saket Heights	Saket / Delhi	Apartment / 5 BHK	2393	₹1.91 Cr	Fully-Furnished	5	Family	Sale
+922	Delhi Properties (Delhi.txt)	1 BHK Builder Floor	Dwarka Sector 3	Dwarka / Delhi	Builder Floor / 1 BHK	625	₹54.24 L	Fully-Furnished	1	Family	Sale
+923	Delhi Properties (Delhi.txt)	2 BHK Apartment	Saket Heights	Saket / Delhi	Apartment / 2 BHK	780	₹97.11 L	Unfurnished	2	Bachelors	Sale
+924	Delhi Properties (Delhi.txt)	3 BHK Apartment	Dwarka North	Dwarka / Delhi	Apartment / 3 BHK	1308	₹34,000/month	Fully-Furnished	4	Family	Rent
+925	Delhi Properties (Delhi.txt)	2 BHK Independent House	Rohini Sector 2	Rohini / Delhi	Independent House / 2 BHK	868	₹84.19 L	Fully-Furnished	2	Any	Sale
+926	Delhi Properties (Delhi.txt)	1 BHK Studio	New Delhi Sector 3	New Delhi / Delhi	Studio / 1 BHK	409	₹14,300/month	Fully-Furnished	1	Bachelors	Rent
+927	Delhi Properties (Delhi.txt)	3 BHK Apartment	New Delhi Town Centre	New Delhi / Delhi	Apartment / 3 BHK	1024	₹96.09 L	Semi-Furnished	4	Bachelors	Sale
+928	Delhi Properties (Delhi.txt)	1 BHK Studio	Rohini Town Centre	Rohini / Delhi	Studio / 1 BHK	424	₹14,300/month	Semi-Furnished	2	Any	Rent
+929	Delhi Properties (Delhi.txt)	1 BHK Villa	Dwarka Main Road	Dwarka / Delhi	Villa / 1 BHK	774	₹16,100/month	Semi-Furnished	1	Family	Rent
+930	Delhi Properties (Delhi.txt)	2 BHK Apartment	Rohini Heights	Rohini / Delhi	Apartment / 2 BHK	763	₹92.02 L	Fully-Furnished	2	Any	Sale
+931	Delhi Properties (Delhi.txt)	3 BHK Apartment	Rohini Town Centre	Rohini / Delhi	Apartment / 3 BHK	1231	₹37,900/month	Fully-Furnished	3	Family	Rent
+932	Delhi Properties (Delhi.txt)	1 BHK Studio	New Delhi Extension	New Delhi / Delhi	Studio / 1 BHK	499	₹17,200/month	Semi-Furnished	1	Family	Rent
+933	Delhi Properties (Delhi.txt)	3 BHK Independent House	Rohini Sector 3	Rohini / Delhi	Independent House / 3 BHK	1527	₹40,100/month	Fully-Furnished	3	Bachelors	Rent
+934	Delhi Properties (Delhi.txt)	3 BHK Apartment	Saket Sector 3	Saket / Delhi	Apartment / 3 BHK	1312	₹1.43 Cr	Fully-Furnished	3	Any	Sale
+935	Delhi Properties (Delhi.txt)	4 BHK Apartment	Saket Town Centre	Saket / Delhi	Apartment / 4 BHK	1577	₹1.66 Cr	Unfurnished	3	Any	Sale
+936	Delhi Properties (Delhi.txt)	3 BHK Apartment	Saket East	Saket / Delhi	Apartment / 3 BHK	1629	₹28,500/month	Unfurnished	2	Bachelors	Rent
+937	Delhi Properties (Delhi.txt)	3 BHK Builder Floor	Rohini North	Rohini / Delhi	Builder Floor / 3 BHK	806	₹1.21 Cr	Fully-Furnished	3	Any	Sale
+938	Delhi Properties (Delhi.txt)	3 BHK Apartment	Rohini North	Rohini / Delhi	Apartment / 3 BHK	1394	₹1.36 Cr	Fully-Furnished	4	Family	Sale
+939	Delhi Properties (Delhi.txt)	3 BHK Apartment	Dwarka Town Centre	Dwarka / Delhi	Apartment / 3 BHK	1167	₹27,800/month	Semi-Furnished	2	Bachelors	Rent
+940	Delhi Properties (Delhi.txt)	2 BHK Apartment	New Delhi East	New Delhi / Delhi	Apartment / 2 BHK	1083	₹26,500/month	Semi-Furnished	1	Family	Rent
+941	Delhi Properties (Delhi.txt)	1 BHK Builder Floor	Dwarka Central	Dwarka / Delhi	Builder Floor / 1 BHK	480	₹62.88 L	Fully-Furnished	1	Bachelors	Sale
+942	Delhi Properties (Delhi.txt)	3 BHK Apartment	Saket South	Saket / Delhi	Apartment / 3 BHK	1285	₹27,200/month	Semi-Furnished	3	Family	Rent
+943	Delhi Properties (Delhi.txt)	2 BHK Apartment	New Delhi Colony	New Delhi / Delhi	Apartment / 2 BHK	823	₹74.20 L	Semi-Furnished	1	Bachelors	Sale
+944	Delhi Properties (Delhi.txt)	4 BHK Apartment	Rohini Sector 1	Rohini / Delhi	Apartment / 4 BHK	1624	₹1.68 Cr	Semi-Furnished	3	Any	Sale
+945	Delhi Properties (Delhi.txt)	3 BHK Builder Floor	New Delhi Central	New Delhi / Delhi	Builder Floor / 3 BHK	1530	₹1.45 Cr	Semi-Furnished	3	Bachelors	Sale
+946	Delhi Properties (Delhi.txt)	3 BHK Apartment	Dwarka Sector 2	Dwarka / Delhi	Apartment / 3 BHK	1295	₹34,500/month	Semi-Furnished	3	Family	Rent
+947	Delhi Properties (Delhi.txt)	4 BHK Independent House	New Delhi West	New Delhi / Delhi	Independent House / 4 BHK	1818	₹1.26 Cr	Fully-Furnished	4	Family	Sale
+948	Delhi Properties (Delhi.txt)	5 BHK Apartment	Dwarka Sector 2	Dwarka / Delhi	Apartment / 5 BHK	2440	₹55,900/month	Fully-Furnished	6	Any	Rent
+949	Delhi Properties (Delhi.txt)	2 BHK Apartment	Dwarka Residential Area	Dwarka / Delhi	Apartment / 2 BHK	917	₹23,400/month	Semi-Furnished	2	Bachelors	Rent
+950	Delhi Properties (Delhi.txt)	2 BHK Builder Floor	Saket Nagar	Saket / Delhi	Builder Floor / 2 BHK	772	₹93.94 L	Semi-Furnished	2	Any	Sale
+951	Delhi Properties (Delhi.txt)	2 BHK Apartment	New Delhi Main Road	New Delhi / Delhi	Apartment / 2 BHK	916	₹70.85 L	Unfurnished	3	Any	Sale
+952	Delhi Properties (Delhi.txt)	4 BHK Apartment	Dwarka Nagar	Dwarka / Delhi	Apartment / 4 BHK	1583	₹1.54 Cr	Fully-Furnished	3	Family	Sale
+953	Delhi Properties (Delhi.txt)	2 BHK Villa	New Delhi East	New Delhi / Delhi	Villa / 2 BHK	906	₹83.82 L	Semi-Furnished	3	Family	Sale
+954	Delhi Properties (Delhi.txt)	1 BHK Studio	Saket South	Saket / Delhi	Studio / 1 BHK	315	₹40.30 L	Unfurnished	1	Family	Sale
+955	Delhi Properties (Delhi.txt)	2 BHK Villa	Saket Heights	Saket / Delhi	Villa / 2 BHK	975	₹80.40 L	Fully-Furnished	2	Bachelors	Sale
+956	Delhi Properties (Delhi.txt)	1 BHK Apartment	Dwarka West	Dwarka / Delhi	Apartment / 1 BHK	494	₹60.48 L	Semi-Furnished	1	Any	Sale
+957	Delhi Properties (Delhi.txt)	3 BHK Builder Floor	Rohini Sector 3	Rohini / Delhi	Builder Floor / 3 BHK	1363	₹1.08 Cr	Unfurnished	2	Family	Sale
+958	Delhi Properties (Delhi.txt)	2 BHK Apartment	New Delhi North	New Delhi / Delhi	Apartment / 2 BHK	738	₹87.74 L	Semi-Furnished	2	Family	Sale
+959	Delhi Properties (Delhi.txt)	1 BHK Builder Floor	Dwarka East	Dwarka / Delhi	Builder Floor / 1 BHK	452	₹47.56 L	Semi-Furnished	2	Family	Sale
+960	Delhi Properties (Delhi.txt)	3 BHK Apartment	New Delhi Colony	New Delhi / Delhi	Apartment / 3 BHK	1065	₹32,000/month	Semi-Furnished	3	Family	Rent
+961	Delhi Properties (Delhi.txt)	1 BHK Apartment	Rohini Nagar	Rohini / Delhi	Apartment / 1 BHK	516	₹16,000/month	Semi-Furnished	1	Family	Rent
+962	Delhi Properties (Delhi.txt)	2 BHK Apartment	New Delhi Colony	New Delhi / Delhi	Apartment / 2 BHK	770	₹21,000/month	Semi-Furnished	3	Family	Rent
+963	Delhi Properties (Delhi.txt)	2 BHK Apartment	Dwarka Sector 3	Dwarka / Delhi	Apartment / 2 BHK	1024	₹1.02 Cr	Semi-Furnished	1	Family	Sale
+964	Delhi Properties (Delhi.txt)	2 BHK Apartment	Rohini Nagar	Rohini / Delhi	Apartment / 2 BHK	721	₹77.07 L	Fully-Furnished	1	Any	Sale
+965	Delhi Properties (Delhi.txt)	2 BHK Apartment	Saket Heights	Saket / Delhi	Apartment / 2 BHK	989	₹88.70 L	Fully-Furnished	2	Bachelors	Sale
+966	Delhi Properties (Delhi.txt)	3 BHK Apartment	Saket South	Saket / Delhi	Apartment / 3 BHK	1413	₹1.38 Cr	Semi-Furnished	3	Bachelors	Sale
+967	Delhi Properties (Delhi.txt)	2 BHK Apartment	Dwarka Central	Dwarka / Delhi	Apartment / 2 BHK	921	₹78.70 L	Semi-Furnished	3	Any	Sale
+968	Delhi Properties (Delhi.txt)	2 BHK Apartment	Saket Main Road	Saket / Delhi	Apartment / 2 BHK	703	₹70.09 L	Semi-Furnished	2	Family	Sale
+969	Delhi Properties (Delhi.txt)	3 BHK Builder Floor	Saket Nagar	Saket / Delhi	Builder Floor / 3 BHK	1486	₹1.40 Cr	Semi-Furnished	3	Any	Sale
+970	Delhi Properties (Delhi.txt)	1 BHK Apartment	New Delhi West	New Delhi / Delhi	Apartment / 1 BHK	535	₹47 L	Semi-Furnished	2	Any	Sale
+971	Delhi Properties (Delhi.txt)	3 BHK Apartment	New Delhi Colony	New Delhi / Delhi	Apartment / 3 BHK	1416	₹35,800/month	Fully-Furnished	3	Family	Rent
+972	Delhi Properties (Delhi.txt)	4 BHK Apartment	Rohini Sector 3	Rohini / Delhi	Apartment / 4 BHK	1742	₹38,500/month	Unfurnished	4	Any	Rent
+973	Delhi Properties (Delhi.txt)	1 BHK Builder Floor	Saket Main Road	Saket / Delhi	Builder Floor / 1 BHK	510	₹45.28 L	Semi-Furnished	1	Bachelors	Sale
+974	Delhi Properties (Delhi.txt)	1 BHK Studio	Rohini Heights	Rohini / Delhi	Studio / 1 BHK	361	₹44.41 L	Semi-Furnished	1	Family	Sale
+975	Delhi Properties (Delhi.txt)	2 BHK Independent House	Dwarka North	Dwarka / Delhi	Independent House / 2 BHK	1200	₹24,100/month	Semi-Furnished	2	Bachelors	Rent
+976	Delhi Properties (Delhi.txt)	3 BHK Apartment	Dwarka North	Dwarka / Delhi	Apartment / 3 BHK	1334	₹1.01 Cr	Unfurnished	3	Family	Sale
+977	Delhi Properties (Delhi.txt)	4 BHK Independent House	Dwarka Sector 2	Dwarka / Delhi	Independent House / 4 BHK	1784	₹1.48 Cr	Semi-Furnished	3	Family	Sale
+978	Delhi Properties (Delhi.txt)	4 BHK Apartment	New Delhi Sector 1	New Delhi / Delhi	Apartment / 4 BHK	1904	₹1.63 Cr	Fully-Furnished	4	Family	Sale
+979	Delhi Properties (Delhi.txt)	1 BHK Villa	Saket Heights	Saket / Delhi	Villa / 1 BHK	785	₹59.63 L	Semi-Furnished	1	Family	Sale
+980	Delhi Properties (Delhi.txt)	3 BHK Apartment	Saket Heights	Saket / Delhi	Apartment / 3 BHK	1258	₹34,400/month	Unfurnished	2	Bachelors	Rent
+981	Delhi Properties (Delhi.txt)	4 BHK Apartment	New Delhi Sector 2	New Delhi / Delhi	Apartment / 4 BHK	1912	₹1.52 Cr	Semi-Furnished	4	Any	Sale
+982	Delhi Properties (Delhi.txt)	2 BHK Independent House	Rohini Nagar	Rohini / Delhi	Independent House / 2 BHK	1010	₹87.03 L	Semi-Furnished	2	Family	Sale
+983	Delhi Properties (Delhi.txt)	3 BHK Builder Floor	Rohini Residential Area	Rohini / Delhi	Builder Floor / 3 BHK	1311	₹1.05 Cr	Fully-Furnished	2	Any	Sale
+984	Delhi Properties (Delhi.txt)	3 BHK Apartment	Dwarka Sector 1	Dwarka / Delhi	Apartment / 3 BHK	1257	₹1.16 Cr	Unfurnished	3	Bachelors	Sale
+985	Delhi Properties (Delhi.txt)	2 BHK Villa	Rohini Central	Rohini / Delhi	Villa / 2 BHK	1194	₹27,800/month	Unfurnished	3	Any	Rent
+986	Delhi Properties (Delhi.txt)	2 BHK Apartment	Rohini Nagar	Rohini / Delhi	Apartment / 2 BHK	913	₹84.88 L	Semi-Furnished	1	Family	Sale
+987	Delhi Properties (Delhi.txt)	2 BHK Apartment	Saket Extension	Saket / Delhi	Apartment / 2 BHK	963	₹23,600/month	Semi-Furnished	1	Any	Rent
+988	Delhi Properties (Delhi.txt)	4 BHK Apartment	Saket Colony	Saket / Delhi	Apartment / 4 BHK	2216	₹45,700/month	Semi-Furnished	4	Family	Rent
+989	Delhi Properties (Delhi.txt)	2 BHK Independent House	Dwarka Main Road	Dwarka / Delhi	Independent House / 2 BHK	1250	₹30,400/month	Semi-Furnished	2	Family	Rent
+990	Delhi Properties (Delhi.txt)	3 BHK Builder Floor	Dwarka Town Centre	Dwarka / Delhi	Builder Floor / 3 BHK	1482	₹30,800/month	Semi-Furnished	4	Bachelors	Rent
+991	Delhi Properties (Delhi.txt)	5 BHK Apartment	Saket East	Saket / Delhi	Apartment / 5 BHK	2801	₹2.34 Cr	Semi-Furnished	6	Family	Sale
+992	Delhi Properties (Delhi.txt)	2 BHK Builder Floor	Dwarka Heights	Dwarka / Delhi	Builder Floor / 2 BHK	886	₹75.77 L	Semi-Furnished	3	Family	Sale
+993	Delhi Properties (Delhi.txt)	2 BHK Independent House	Saket East	Saket / Delhi	Independent House / 2 BHK	1089	₹21,900/month	Fully-Furnished	2	Family	Rent
+994	Delhi Properties (Delhi.txt)	1 BHK Independent House	New Delhi Sector 2	New Delhi / Delhi	Independent House / 1 BHK	672	₹47.72 L	Semi-Furnished	1	Any	Sale
+995	Delhi Properties (Delhi.txt)	4 BHK Apartment	Saket Nagar	Saket / Delhi	Apartment / 4 BHK	1746	₹1.56 Cr	Semi-Furnished	4	Any	Sale
+996	Delhi Properties (Delhi.txt)	1 BHK Apartment	Rohini Heights	Rohini / Delhi	Apartment / 1 BHK	566	₹59.59 L	Semi-Furnished	1	Family	Sale
+997	Delhi Properties (Delhi.txt)	3 BHK Apartment	New Delhi Sector 2	New Delhi / Delhi	Apartment / 3 BHK	1342	₹1.19 Cr	Fully-Furnished	3	Family	Sale
+998	Delhi Properties (Delhi.txt)	2 BHK Independent House	Saket Residential Area	Saket / Delhi	Independent House / 2 BHK	1040	₹1.03 Cr	Fully-Furnished	1	Bachelors	Sale
+999	Delhi Properties (Delhi.txt)	3 BHK Apartment	Dwarka Residential Area	Dwarka / Delhi	Apartment / 3 BHK	1252	₹1.30 Cr	Semi-Furnished	2	Family	Sale
+1000	Delhi Properties (Delhi.txt)	4 BHK Builder Floor	Saket East	Saket / Delhi	Builder Floor / 4 BHK	1927	₹1.68 Cr	Fully-Furnished	3	Family	Sale
+1001	Delhi Properties (Delhi.txt)	3 BHK Apartment	Dwarka Colony	Dwarka / Delhi	Apartment / 3 BHK	1122	₹28,200/month	Fully-Furnished	3	Bachelors	Rent
+1002	Delhi Properties (Delhi.txt)	1 BHK Apartment	Saket Main Road	Saket / Delhi	Apartment / 1 BHK	547	₹65.94 L	Semi-Furnished	1	Bachelors	Sale
+1003	Delhi Properties (Delhi.txt)	4 BHK Apartment	Saket South	Saket / Delhi	Apartment / 4 BHK	2054	₹1.62 Cr	Semi-Furnished	4	Bachelors	Sale
+1004	Delhi Properties (Delhi.txt)	4 BHK Apartment	New Delhi Town Centre	New Delhi / Delhi	Apartment / 4 BHK	1654	₹1.35 Cr	Fully-Furnished	4	Family	Sale
+1005	Delhi Properties (Delhi.txt)	3 BHK Apartment	Rohini Sector 1	Rohini / Delhi	Apartment / 3 BHK	1073	₹96.30 L	Fully-Furnished	2	Family	Sale
+1006	Delhi Properties (Delhi.txt)	3 BHK Apartment	Rohini North	Rohini / Delhi	Apartment / 3 BHK	1226	₹1.08 Cr	Semi-Furnished	2	Any	Sale
+1007	Delhi Properties (Delhi.txt)	4 BHK Apartment	Saket Sector 2	Saket / Delhi	Apartment / 4 BHK	1634	₹1.68 Cr	Fully-Furnished	4	Bachelors	Sale
+1008	Delhi Properties (Delhi.txt)	3 BHK Apartment	New Delhi Main Road	New Delhi / Delhi	Apartment / 3 BHK	1183	₹1.16 Cr	Semi-Furnished	3	Bachelors	Sale
+1009	Delhi Properties (Delhi.txt)	3 BHK Builder Floor	Rohini South	Rohini / Delhi	Builder Floor / 3 BHK	1073	₹1.15 Cr	Semi-Furnished	3	Any	Sale
+1010	Delhi Properties (Delhi.txt)	4 BHK Apartment	Saket Sector 1	Saket / Delhi	Apartment / 4 BHK	1935	₹36,100/month	Fully-Furnished	5	Family	Rent
+1011	Delhi Properties (Delhi.txt)	1 BHK Apartment	Saket Sector 3	Saket / Delhi	Apartment / 1 BHK	471	₹14,400/month	Semi-Furnished	1	Family	Rent
+1012	Delhi Properties (Delhi.txt)	3 BHK Builder Floor	Saket West	Saket / Delhi	Builder Floor / 3 BHK	1202	₹1.26 Cr	Semi-Furnished	2	Family	Sale
+1013	Delhi Properties (Delhi.txt)	2 BHK Independent House	Dwarka Sector 2	Dwarka / Delhi	Independent House / 2 BHK	942	₹83.83 L	Fully-Furnished	2	Any	Sale
+1014	Delhi Properties (Delhi.txt)	1 BHK Studio	New Delhi North	New Delhi / Delhi	Studio / 1 BHK	322	₹13,800/month	Unfurnished	1	Any	Rent
+1015	Delhi Properties (Delhi.txt)	3 BHK Builder Floor	Dwarka Heights	Dwarka / Delhi	Builder Floor / 3 BHK	975	₹1.06 Cr	Semi-Furnished	3	Family	Sale
+1016	Delhi Properties (Delhi.txt)	1 BHK Apartment	Saket Colony	Saket / Delhi	Apartment / 1 BHK	515	₹54.81 L	Semi-Furnished	1	Family	Sale
+1017	Delhi Properties (Delhi.txt)	2 BHK Villa	Rohini Residential Area	Rohini / Delhi	Villa / 2 BHK	925	₹94.90 L	Semi-Furnished	3	Family	Sale
+1018	Delhi Properties (Delhi.txt)	2 BHK Apartment	Dwarka Nagar	Dwarka / Delhi	Apartment / 2 BHK	788	₹21,400/month	Fully-Furnished	2	Family	Rent
+1019	Delhi Properties (Delhi.txt)	3 BHK Apartment	New Delhi Town Centre	New Delhi / Delhi	Apartment / 3 BHK	1060	₹30,800/month	Semi-Furnished	4	Any	Rent
+1020	Delhi Properties (Delhi.txt)	2 BHK Apartment	Rohini Central	Rohini / Delhi	Apartment / 2 BHK	857	₹86.12 L	Unfurnished	2	Family	Sale
+1021	Delhi Properties (Delhi.txt)	1 BHK Apartment	Saket Town Centre	Saket / Delhi	Apartment / 1 BHK	519	₹16,200/month	Fully-Furnished	2	Bachelors	Rent
+1022	Delhi Properties (Delhi.txt)	1 BHK Studio	New Delhi Heights	New Delhi / Delhi	Studio / 1 BHK	367	₹17,000/month	Fully-Furnished	1	Bachelors	Rent
+1023	Delhi Properties (Delhi.txt)	1 BHK Independent House	Rohini Extension	Rohini / Delhi	Independent House / 1 BHK	511	₹55.92 L	Fully-Furnished	1	Any	Sale
+1024	Delhi Properties (Delhi.txt)	1 BHK Apartment	Dwarka Town Centre	Dwarka / Delhi	Apartment / 1 BHK	584	₹18,200/month	Fully-Furnished	1	Bachelors	Rent
+1025	Delhi Properties (Delhi.txt)	2 BHK Apartment	Saket South	Saket / Delhi	Apartment / 2 BHK	883	₹91 L	Semi-Furnished	3	Bachelors	Sale
+1026	Delhi Properties (Delhi.txt)	2 BHK Apartment	Rohini Central	Rohini / Delhi	Apartment / 2 BHK	834	₹19,800/month	Semi-Furnished	2	Family	Rent
+1027	Delhi Properties (Delhi.txt)	2 BHK Apartment	Saket Heights	Saket / Delhi	Apartment / 2 BHK	837	₹95.44 L	Semi-Furnished	2	Any	Sale
+1028	Delhi Properties (Delhi.txt)	4 BHK Builder Floor	Rohini Residential Area	Rohini / Delhi	Builder Floor / 4 BHK	1460	₹1.50 Cr	Semi-Furnished	5	Bachelors	Sale
+1029	Delhi Properties (Delhi.txt)	2 BHK Builder Floor	Rohini Sector 2	Rohini / Delhi	Builder Floor / 2 BHK	953	₹76.11 L	Unfurnished	2	Family	Sale
+1030	Delhi Properties (Delhi.txt)	3 BHK Apartment	Dwarka West	Dwarka / Delhi	Apartment / 3 BHK	1061	₹31,500/month	Semi-Furnished	3	Any	Rent
+1031	Delhi Properties (Delhi.txt)	4 BHK Independent House	Saket North	Saket / Delhi	Independent House / 4 BHK	2019	₹37,300/month	Semi-Furnished	3	Family	Rent
+1032	Delhi Properties (Delhi.txt)	4 BHK Independent House	Dwarka East	Dwarka / Delhi	Independent House / 4 BHK	1798	₹1.38 Cr	Semi-Furnished	4	Bachelors	Sale
+1033	Delhi Properties (Delhi.txt)	2 BHK Independent House	Rohini Sector 1	Rohini / Delhi	Independent House / 2 BHK	1076	₹28,500/month	Unfurnished	2	Bachelors	Rent
+1034	Delhi Properties (Delhi.txt)	2 BHK Independent House	Saket Colony	Saket / Delhi	Independent House / 2 BHK	1073	₹92.61 L	Semi-Furnished	2	Family	Sale
+1035	Delhi Properties (Delhi.txt)	1 BHK Apartment	Dwarka Sector 1	Dwarka / Delhi	Apartment / 1 BHK	411	₹52.01 L	Semi-Furnished	2	Family	Sale
+1036	Delhi Properties (Delhi.txt)	4 BHK Apartment	Saket Nagar	Saket / Delhi	Apartment / 4 BHK	1613	₹47,800/month	Semi-Furnished	4	Bachelors	Rent
+1037	Delhi Properties (Delhi.txt)	2 BHK Apartment	Dwarka East	Dwarka / Delhi	Apartment / 2 BHK	854	₹19,100/month	Semi-Furnished	2	Family	Rent
+1038	Delhi Properties (Delhi.txt)	2 BHK Apartment	Rohini Town Centre	Rohini / Delhi	Apartment / 2 BHK	804	₹95.86 L	Fully-Furnished	2	Bachelors	Sale
+1039	Delhi Properties (Delhi.txt)	2 BHK Apartment	Rohini West	Rohini / Delhi	Apartment / 2 BHK	887	₹26,900/month	Fully-Furnished	3	Family	Rent
+1040	Delhi Properties (Delhi.txt)	2 BHK Builder Floor	Saket Colony	Saket / Delhi	Builder Floor / 2 BHK	763	₹80.64 L	Unfurnished	1	Bachelors	Sale
+1041	Delhi Properties (Delhi.txt)	1 BHK Builder Floor	New Delhi Heights	New Delhi / Delhi	Builder Floor / 1 BHK	533	₹58.40 L	Semi-Furnished	1	Family	Sale
+1042	Delhi Properties (Delhi.txt)	1 BHK Independent House	Rohini Central	Rohini / Delhi	Independent House / 1 BHK	671	₹48.13 L	Semi-Furnished	1	Bachelors	Sale
+1043	Delhi Properties (Delhi.txt)	2 BHK Independent House	New Delhi North	New Delhi / Delhi	Independent House / 2 BHK	1075	₹76.28 L	Fully-Furnished	1	Family	Sale
+1044	Delhi Properties (Delhi.txt)	2 BHK Builder Floor	Dwarka Heights	Dwarka / Delhi	Builder Floor / 2 BHK	916	₹99.34 L	Semi-Furnished	1	Bachelors	Sale
+1045	Delhi Properties (Delhi.txt)	4 BHK Villa	Rohini North	Rohini / Delhi	Villa / 4 BHK	2532	₹38,300/month	Fully-Furnished	4	Bachelors	Rent
+1046	Delhi Properties (Delhi.txt)	3 BHK Villa	Saket Main Road	Saket / Delhi	Villa / 3 BHK	1716	₹1.18 Cr	Unfurnished	3	Bachelors	Sale
+1047	Delhi Properties (Delhi.txt)	2 BHK Apartment	New Delhi South	New Delhi / Delhi	Apartment / 2 BHK	823	₹71.51 L	Semi-Furnished	2	Any	Sale
+1048	Delhi Properties (Delhi.txt)	3 BHK Independent House	Dwarka Sector 2	Dwarka / Delhi	Independent House / 3 BHK	1786	₹36,800/month	Fully-Furnished	4	Bachelors	Rent
+1049	Delhi Properties (Delhi.txt)	1 BHK Studio	New Delhi Sector 2	New Delhi / Delhi	Studio / 1 BHK	436	₹53.54 L	Semi-Furnished	1	Any	Sale
+1050	Delhi Properties (Delhi.txt)	3 BHK Apartment	Dwarka Extension	Dwarka / Delhi	Apartment / 3 BHK	1468	₹1.13 Cr	Semi-Furnished	4	Bachelors	Sale
+1051	Delhi Properties (Delhi.txt)	3 BHK Apartment	Rohini Nagar	Rohini / Delhi	Apartment / 3 BHK	1196	₹1.09 Cr	Semi-Furnished	4	Family	Sale
+1052	Delhi Properties (Delhi.txt)	1 BHK Independent House	New Delhi Main Road	New Delhi / Delhi	Independent House / 1 BHK	833	₹17,600/month	Unfurnished	1	Bachelors	Rent
+1053	Delhi Properties (Delhi.txt)	1 BHK Villa	Rohini South	Rohini / Delhi	Villa / 1 BHK	671	₹15,300/month	Unfurnished	1	Family	Rent
+1054	Delhi Properties (Delhi.txt)	4 BHK Apartment	Saket East	Saket / Delhi	Apartment / 4 BHK	1972	₹36,800/month	Semi-Furnished	4	Bachelors	Rent
+1055	Delhi Properties (Delhi.txt)	4 BHK Apartment	New Delhi Sector 3	New Delhi / Delhi	Apartment / 4 BHK	1723	₹1.31 Cr	Fully-Furnished	4	Family	Sale
+1056	Delhi Properties (Delhi.txt)	4 BHK Apartment	Saket Residential Area	Saket / Delhi	Apartment / 4 BHK	1646	₹1.73 Cr	Fully-Furnished	4	Bachelors	Sale
+1057	Delhi Properties (Delhi.txt)	2 BHK Apartment	New Delhi Central	New Delhi / Delhi	Apartment / 2 BHK	788	₹84.48 L	Semi-Furnished	2	Bachelors	Sale
+1058	Delhi Properties (Delhi.txt)	1 BHK Builder Floor	Dwarka East	Dwarka / Delhi	Builder Floor / 1 BHK	450	₹56.12 L	Semi-Furnished	1	Family	Sale
+1059	Delhi Properties (Delhi.txt)	3 BHK Apartment	New Delhi West	New Delhi / Delhi	Apartment / 3 BHK	1131	₹33,900/month	Semi-Furnished	2	Family	Rent
+1060	Delhi Properties (Delhi.txt)	3 BHK Apartment	Rohini Sector 3	Rohini / Delhi	Apartment / 3 BHK	1276	₹1.18 Cr	Semi-Furnished	2	Bachelors	Sale
+1061	Delhi Properties (Delhi.txt)	2 BHK Independent House	Saket Extension	Saket / Delhi	Independent House / 2 BHK	1081	₹29,800/month	Semi-Furnished	1	Family	Rent
+1062	Delhi Properties (Delhi.txt)	4 BHK Apartment	Dwarka Extension	Dwarka / Delhi	Apartment / 4 BHK	2007	₹1.46 Cr	Fully-Furnished	4	Family	Sale
+1063	Delhi Properties (Delhi.txt)	3 BHK Apartment	New Delhi West	New Delhi / Delhi	Apartment / 3 BHK	938	₹35,800/month	Fully-Furnished	3	Any	Rent
+1064	Delhi Properties (Delhi.txt)	2 BHK Apartment	Rohini Sector 1	Rohini / Delhi	Apartment / 2 BHK	797	₹71.16 L	Unfurnished	2	Family	Sale
+1065	Delhi Properties (Delhi.txt)	1 BHK Apartment	Saket Extension	Saket / Delhi	Apartment / 1 BHK	522	₹62.46 L	Semi-Furnished	1	Family	Sale
+1066	Delhi Properties (Delhi.txt)	4 BHK Apartment	New Delhi Sector 2	New Delhi / Delhi	Apartment / 4 BHK	1362	₹1.20 Cr	Semi-Furnished	4	Any	Sale
+1067	Delhi Properties (Delhi.txt)	4 BHK Apartment	New Delhi West	New Delhi / Delhi	Apartment / 4 BHK	1568	₹46,400/month	Fully-Furnished	3	Family	Rent
+1068	Delhi Properties (Delhi.txt)	3 BHK Apartment	New Delhi Sector 2	New Delhi / Delhi	Apartment / 3 BHK	1254	₹1.17 Cr	Fully-Furnished	4	Family	Sale
+1069	Delhi Properties (Delhi.txt)	2 BHK Builder Floor	Saket Extension	Saket / Delhi	Builder Floor / 2 BHK	863	₹97.65 L	Fully-Furnished	2	Family	Sale
+1070	Delhi Properties (Delhi.txt)	3 BHK Apartment	Saket Sector 2	Saket / Delhi	Apartment / 3 BHK	1297	₹34,600/month	Unfurnished	3	Any	Rent
+1071	Delhi Properties (Delhi.txt)	3 BHK Apartment	New Delhi Heights	New Delhi / Delhi	Apartment / 3 BHK	987	₹26,900/month	Semi-Furnished	3	Family	Rent
+1072	Delhi Properties (Delhi.txt)	1 BHK Studio	Rohini Town Centre	Rohini / Delhi	Studio / 1 BHK	422	₹16,500/month	Semi-Furnished	2	Any	Rent
+1073	Delhi Properties (Delhi.txt)	3 BHK Apartment	Rohini Extension	Rohini / Delhi	Apartment / 3 BHK	1254	₹1.24 Cr	Semi-Furnished	3	Any	Sale
+1074	Delhi Properties (Delhi.txt)	2 BHK Apartment	Rohini North	Rohini / Delhi	Apartment / 2 BHK	522	₹74.76 L	Semi-Furnished	1	Any	Sale
+1075	Delhi Properties (Delhi.txt)	3 BHK Builder Floor	New Delhi Sector 1	New Delhi / Delhi	Builder Floor / 3 BHK	1565	₹34,800/month	Fully-Furnished	3	Bachelors	Rent
+1076	Delhi Properties (Delhi.txt)	2 BHK Independent House	Rohini Town Centre	Rohini / Delhi	Independent House / 2 BHK	883	₹75.35 L	Semi-Furnished	2	Family	Sale
+1077	Delhi Properties (Delhi.txt)	3 BHK Apartment	Dwarka Sector 1	Dwarka / Delhi	Apartment / 3 BHK	1312	₹1.26 Cr	Unfurnished	4	Any	Sale
+1078	Delhi Properties (Delhi.txt)	4 BHK Independent House	Rohini North	Rohini / Delhi	Independent House / 4 BHK	1451	₹40,500/month	Unfurnished	5	Any	Rent
+1079	Delhi Properties (Delhi.txt)	4 BHK Independent House	New Delhi Town Centre	New Delhi / Delhi	Independent House / 4 BHK	2312	₹1.36 Cr	Unfurnished	4	Family	Sale
+1080	Delhi Properties (Delhi.txt)	2 BHK Builder Floor	Saket Central	Saket / Delhi	Builder Floor / 2 BHK	956	₹1.05 Cr	Semi-Furnished	2	Any	Sale
+1081	Delhi Properties (Delhi.txt)	4 BHK Apartment	Dwarka Sector 1	Dwarka / Delhi	Apartment / 4 BHK	2202	₹1.45 Cr	Semi-Furnished	4	Bachelors	Sale
+1082	Delhi Properties (Delhi.txt)	4 BHK Apartment	Saket Extension	Saket / Delhi	Apartment / 4 BHK	1501	₹34,600/month	Unfurnished	4	Bachelors	Rent
+1083	Delhi Properties (Delhi.txt)	3 BHK Villa	Saket Town Centre	Saket / Delhi	Villa / 3 BHK	1606	₹30,300/month	Semi-Furnished	3	Any	Rent
+1084	Delhi Properties (Delhi.txt)	4 BHK Independent House	New Delhi Residential Area	New Delhi / Delhi	Independent House / 4 BHK	1752	₹34,100/month	Semi-Furnished	5	Bachelors	Rent
+1085	Delhi Properties (Delhi.txt)	3 BHK Builder Floor	New Delhi East	New Delhi / Delhi	Builder Floor / 3 BHK	1465	₹39,400/month	Semi-Furnished	3	Family	Rent
+1086	Delhi Properties (Delhi.txt)	2 BHK Apartment	Saket Nagar	Saket / Delhi	Apartment / 2 BHK	780	₹21,800/month	Semi-Furnished	2	Any	Rent
+1087	Delhi Properties (Delhi.txt)	1 BHK Apartment	New Delhi Residential Area	New Delhi / Delhi	Apartment / 1 BHK	346	₹53.74 L	Semi-Furnished	1	Bachelors	Sale
+1088	Delhi Properties (Delhi.txt)	1 BHK Studio	Rohini Heights	Rohini / Delhi	Studio / 1 BHK	444	₹15,400/month	Fully-Furnished	1	Any	Rent
+1089	Delhi Properties (Delhi.txt)	2 BHK Apartment	Dwarka East	Dwarka / Delhi	Apartment / 2 BHK	600	₹24,000/month	Semi-Furnished	2	Family	Rent
+1090	Delhi Properties (Delhi.txt)	3 BHK Builder Floor	Dwarka North	Dwarka / Delhi	Builder Floor / 3 BHK	1136	₹26,000/month	Semi-Furnished	3	Bachelors	Rent
+1091	Delhi Properties (Delhi.txt)	2 BHK Builder Floor	Saket Central	Saket / Delhi	Builder Floor / 2 BHK	872	₹80.34 L	Fully-Furnished	1	Family	Sale
+1092	Delhi Properties (Delhi.txt)	1 BHK Independent House	Rohini North	Rohini / Delhi	Independent House / 1 BHK	542	₹17,400/month	Fully-Furnished	1	Bachelors	Rent
+1093	Delhi Properties (Delhi.txt)	3 BHK Villa	Saket West	Saket / Delhi	Villa / 3 BHK	1529	₹30,000/month	Fully-Furnished	3	Bachelors	Rent
+1094	Delhi Properties (Delhi.txt)	4 BHK Apartment	Rohini Town Centre	Rohini / Delhi	Apartment / 4 BHK	1726	₹35,900/month	Unfurnished	5	Bachelors	Rent
+1095	Delhi Properties (Delhi.txt)	5 BHK Apartment	Dwarka North	Dwarka / Delhi	Apartment / 5 BHK	2310	₹48,400/month	Semi-Furnished	5	Bachelors	Rent
+1096	Delhi Properties (Delhi.txt)	1 BHK Villa	Saket West	Saket / Delhi	Villa / 1 BHK	748	₹16,300/month	Unfurnished	1	Any	Rent
+1097	Delhi Properties (Delhi.txt)	1 BHK Studio	Rohini West	Rohini / Delhi	Studio / 1 BHK	390	₹13,700/month	Semi-Furnished	1	Family	Rent
+1098	Delhi Properties (Delhi.txt)	3 BHK Apartment	Dwarka Sector 3	Dwarka / Delhi	Apartment / 3 BHK	1238	₹35,900/month	Semi-Furnished	3	Family	Rent
+1099	Delhi Properties (Delhi.txt)	3 BHK Apartment	Dwarka Main Road	Dwarka / Delhi	Apartment / 3 BHK	1310	₹1.29 Cr	Semi-Furnished	3	Family	Sale
+1100	Delhi Properties (Delhi.txt)	3 BHK Apartment	New Delhi Colony	New Delhi / Delhi	Apartment / 3 BHK	1209	₹35,500/month	Semi-Furnished	4	Family	Rent
+1101	Delhi Properties (Delhi.txt)	2 BHK Builder Floor	Dwarka Residential Area	Dwarka / Delhi	Builder Floor / 2 BHK	987	₹81.87 L	Semi-Furnished	1	Any	Sale
+1102	Delhi Properties (Delhi.txt)	2 BHK Apartment	New Delhi South	New Delhi / Delhi	Apartment / 2 BHK	906	₹79.77 L	Fully-Furnished	2	Family	Sale
+1103	Delhi Properties (Delhi.txt)	3 BHK Apartment	Rohini Extension	Rohini / Delhi	Apartment / 3 BHK	1096	₹1.26 Cr	Fully-Furnished	2	Bachelors	Sale
+1104	Delhi Properties (Delhi.txt)	4 BHK Builder Floor	Rohini Main Road	Rohini / Delhi	Builder Floor / 4 BHK	1910	₹1.76 Cr	Semi-Furnished	5	Family	Sale
+1105	Delhi Properties (Delhi.txt)	1 BHK Apartment	New Delhi West	New Delhi / Delhi	Apartment / 1 BHK	573	₹15,300/month	Semi-Furnished	1	Family	Rent
+1106	Delhi Properties (Delhi.txt)	1 BHK Independent House	Dwarka East	Dwarka / Delhi	Independent House / 1 BHK	734	₹13,700/month	Semi-Furnished	2	Any	Rent
+1107	Delhi Properties (Delhi.txt)	2 BHK Villa	Dwarka Residential Area	Dwarka / Delhi	Villa / 2 BHK	1288	₹27,500/month	Unfurnished	2	Any	Rent
+1108	Delhi Properties (Delhi.txt)	2 BHK Builder Floor	Dwarka East	Dwarka / Delhi	Builder Floor / 2 BHK	700	₹87.79 L	Unfurnished	2	Bachelors	Sale
+1109	Delhi Properties (Delhi.txt)	5 BHK Builder Floor	New Delhi Town Centre	New Delhi / Delhi	Builder Floor / 5 BHK	2379	₹49,100/month	Semi-Furnished	4	Family	Rent
+1110	Delhi Properties (Delhi.txt)	2 BHK Apartment	Dwarka Central	Dwarka / Delhi	Apartment / 2 BHK	908	₹87.87 L	Unfurnished	3	Any	Sale
+1111	Delhi Properties (Delhi.txt)	3 BHK Builder Floor	Rohini Extension	Rohini / Delhi	Builder Floor / 3 BHK	1082	₹36,300/month	Semi-Furnished	3	Any	Rent
+1112	Delhi Properties (Delhi.txt)	4 BHK Villa	New Delhi North	New Delhi / Delhi	Villa / 4 BHK	3317	₹2.21 Cr	Fully-Furnished	3	Family	Sale
+1113	Delhi Properties (Delhi.txt)	2 BHK Apartment	Dwarka Heights	Dwarka / Delhi	Apartment / 2 BHK	727	₹24,200/month	Fully-Furnished	2	Family	Rent
+1114	Delhi Properties (Delhi.txt)	3 BHK Independent House	Dwarka Heights	Dwarka / Delhi	Independent House / 3 BHK	1234	₹35,900/month	Semi-Furnished	2	Bachelors	Rent
+1115	Delhi Properties (Delhi.txt)	2 BHK Apartment	New Delhi Extension	New Delhi / Delhi	Apartment / 2 BHK	835	₹85.41 L	Unfurnished	2	Family	Sale
+1116	Delhi Properties (Delhi.txt)	2 BHK Apartment	Saket Colony	Saket / Delhi	Apartment / 2 BHK	879	₹81.16 L	Semi-Furnished	2	Family	Sale
+1117	Delhi Properties (Delhi.txt)	2 BHK Apartment	Rohini Nagar	Rohini / Delhi	Apartment / 2 BHK	961	₹27,500/month	Fully-Furnished	3	Any	Rent
+1118	Delhi Properties (Delhi.txt)	4 BHK Apartment	Dwarka Heights	Dwarka / Delhi	Apartment / 4 BHK	1566	₹1.76 Cr	Semi-Furnished	4	Any	Sale
+1119	Delhi Properties (Delhi.txt)	3 BHK Apartment	Rohini East	Rohini / Delhi	Apartment / 3 BHK	1026	₹99.04 L	Semi-Furnished	3	Bachelors	Sale
+1120	Delhi Properties (Delhi.txt)	4 BHK Apartment	New Delhi Sector 3	New Delhi / Delhi	Apartment / 4 BHK	994	₹1.32 Cr	Fully-Furnished	5	Bachelors	Sale
+1121	Delhi Properties (Delhi.txt)	2 BHK Apartment	Rohini Colony	Rohini / Delhi	Apartment / 2 BHK	636	₹22,600/month	Unfurnished	2	Bachelors	Rent
+1122	Delhi Properties (Delhi.txt)	3 BHK Apartment	Rohini Colony	Rohini / Delhi	Apartment / 3 BHK	1413	₹1.44 Cr	Semi-Furnished	3	Family	Sale
+1123	Delhi Properties (Delhi.txt)	1 BHK Villa	Saket Town Centre	Saket / Delhi	Villa / 1 BHK	611	₹59.18 L	Semi-Furnished	1	Bachelors	Sale
+1124	Delhi Properties (Delhi.txt)	3 BHK Apartment	New Delhi Town Centre	New Delhi / Delhi	Apartment / 3 BHK	1354	₹28,600/month	Unfurnished	4	Bachelors	Rent
+1125	Delhi Properties (Delhi.txt)	2 BHK Apartment	Rohini Colony	Rohini / Delhi	Apartment / 2 BHK	878	₹25,000/month	Semi-Furnished	2	Any	Rent
+1126	Delhi Properties (Delhi.txt)	2 BHK Apartment	New Delhi Nagar	New Delhi / Delhi	Apartment / 2 BHK	874	₹24,700/month	Fully-Furnished	2	Any	Rent
+1127	Delhi Properties (Delhi.txt)	2 BHK Apartment	Dwarka Sector 3	Dwarka / Delhi	Apartment / 2 BHK	932	₹96.64 L	Semi-Furnished	1	Any	Sale
+1128	Delhi Properties (Delhi.txt)	5 BHK Villa	Rohini Heights	Rohini / Delhi	Villa / 5 BHK	3093	₹61,400/month	Unfurnished	5	Any	Rent
+1129	Delhi Properties (Delhi.txt)	2 BHK Apartment	New Delhi West	New Delhi / Delhi	Apartment / 2 BHK	909	₹26,000/month	Unfurnished	2	Bachelors	Rent
+1130	Delhi Properties (Delhi.txt)	1 BHK Studio	Rohini Central	Rohini / Delhi	Studio / 1 BHK	409	₹56.10 L	Fully-Furnished	2	Family	Sale
+1131	Delhi Properties (Delhi.txt)	3 BHK Villa	Dwarka Sector 2	Dwarka / Delhi	Villa / 3 BHK	1256	₹1.04 Cr	Semi-Furnished	4	Any	Sale
+1132	Delhi Properties (Delhi.txt)	4 BHK Apartment	New Delhi North	New Delhi / Delhi	Apartment / 4 BHK	1817	₹1.60 Cr	Semi-Furnished	4	Family	Sale
+1133	Delhi Properties (Delhi.txt)	3 BHK Independent House	Dwarka West	Dwarka / Delhi	Independent House / 3 BHK	1344	₹28,300/month	Semi-Furnished	4	Any	Rent
+1134	Delhi Properties (Delhi.txt)	2 BHK Independent House	Dwarka Nagar	Dwarka / Delhi	Independent House / 2 BHK	1124	₹84.19 L	Semi-Furnished	1	Family	Sale
+1135	Delhi Properties (Delhi.txt)	4 BHK Villa	New Delhi Sector 2	New Delhi / Delhi	Villa / 4 BHK	2990	₹1.94 Cr	Unfurnished	5	Bachelors	Sale
+1136	Delhi Properties (Delhi.txt)	4 BHK Builder Floor	New Delhi East	New Delhi / Delhi	Builder Floor / 4 BHK	1972	₹1.50 Cr	Fully-Furnished	4	Bachelors	Sale
+1137	Delhi Properties (Delhi.txt)	4 BHK Apartment	Rohini South	Rohini / Delhi	Apartment / 4 BHK	1807	₹44,500/month	Semi-Furnished	4	Family	Rent
+1138	Delhi Properties (Delhi.txt)	3 BHK Apartment	Rohini Nagar	Rohini / Delhi	Apartment / 3 BHK	1316	₹31,700/month	Fully-Furnished	3	Bachelors	Rent
+1139	Delhi Properties (Delhi.txt)	4 BHK Apartment	Rohini Colony	Rohini / Delhi	Apartment / 4 BHK	1943	₹1.86 Cr	Semi-Furnished	4	Family	Sale
+1140	Delhi Properties (Delhi.txt)	3 BHK Apartment	New Delhi Nagar	New Delhi / Delhi	Apartment / 3 BHK	1181	₹36,300/month	Semi-Furnished	3	Family	Rent
+1141	Delhi Properties (Delhi.txt)	3 BHK Apartment	Saket Town Centre	Saket / Delhi	Apartment / 3 BHK	1437	₹1.02 Cr	Fully-Furnished	4	Family	Sale
+1142	Delhi Properties (Delhi.txt)	2 BHK Builder Floor	Dwarka Sector 1	Dwarka / Delhi	Builder Floor / 2 BHK	886	₹95.89 L	Fully-Furnished	2	Bachelors	Sale
+1143	Delhi Properties (Delhi.txt)	4 BHK Apartment	New Delhi Colony	New Delhi / Delhi	Apartment / 4 BHK	1892	₹34,500/month	Semi-Furnished	4	Any	Rent
+1144	Delhi Properties (Delhi.txt)	3 BHK Builder Floor	New Delhi Sector 3	New Delhi / Delhi	Builder Floor / 3 BHK	1463	₹38,200/month	Fully-Furnished	2	Family	Rent
+1145	Delhi Properties (Delhi.txt)	3 BHK Villa	Rohini Extension	Rohini / Delhi	Villa / 3 BHK	1569	₹1.30 Cr	Semi-Furnished	2	Bachelors	Sale
+1146	Delhi Properties (Delhi.txt)	2 BHK Apartment	Dwarka East	Dwarka / Delhi	Apartment / 2 BHK	1065	₹94.28 L	Semi-Furnished	1	Any	Sale
+1147	Delhi Properties (Delhi.txt)	2 BHK Independent House	Rohini Colony	Rohini / Delhi	Independent House / 2 BHK	770	₹25,900/month	Unfurnished	2	Bachelors	Rent
+1148	Delhi Properties (Delhi.txt)	4 BHK Apartment	Saket South	Saket / Delhi	Apartment / 4 BHK	1516	₹37,100/month	Semi-Furnished	4	Family	Rent
+1149	Delhi Properties (Delhi.txt)	3 BHK Apartment	Dwarka Main Road	Dwarka / Delhi	Apartment / 3 BHK	1402	₹1.40 Cr	Semi-Furnished	2	Bachelors	Sale
+1150	Delhi Properties (Delhi.txt)	2 BHK Builder Floor	Dwarka North	Dwarka / Delhi	Builder Floor / 2 BHK	1008	₹94.85 L	Semi-Furnished	3	Bachelors	Sale
+1151	Delhi Properties (Delhi.txt)	3 BHK Apartment	Rohini Sector 3	Rohini / Delhi	Apartment / 3 BHK	1651	₹35,700/month	Unfurnished	3	Any	Rent
+1152	Delhi Properties (Delhi.txt)	3 BHK Villa	Saket Sector 3	Saket / Delhi	Villa / 3 BHK	1562	₹32,600/month	Unfurnished	2	Any	Rent
+1153	Delhi Properties (Delhi.txt)	1 BHK Studio	Saket East	Saket / Delhi	Studio / 1 BHK	381	₹54.84 L	Semi-Furnished	1	Any	Sale
+1154	Delhi Properties (Delhi.txt)	2 BHK Apartment	Dwarka Residential Area	Dwarka / Delhi	Apartment / 2 BHK	1070	₹1.03 Cr	Fully-Furnished	3	Family	Sale
+1155	Delhi Properties (Delhi.txt)	2 BHK Apartment	Rohini Sector 3	Rohini / Delhi	Apartment / 2 BHK	857	₹85.22 L	Unfurnished	1	Family	Sale
+1156	Delhi Properties (Delhi.txt)	3 BHK Apartment	Rohini Central	Rohini / Delhi	Apartment / 3 BHK	1224	₹1.24 Cr	Semi-Furnished	2	Any	Sale
+1157	Delhi Properties (Delhi.txt)	2 BHK Apartment	Dwarka Sector 2	Dwarka / Delhi	Apartment / 2 BHK	779	₹22,700/month	Fully-Furnished	3	Any	Rent
+1158	Delhi Properties (Delhi.txt)	1 BHK Apartment	Dwarka Residential Area	Dwarka / Delhi	Apartment / 1 BHK	623	₹50.58 L	Unfurnished	2	Any	Sale
+1159	Delhi Properties (Delhi.txt)	2 BHK Builder Floor	New Delhi Sector 3	New Delhi / Delhi	Builder Floor / 2 BHK	1060	₹83.25 L	Fully-Furnished	3	Family	Sale
+1160	Delhi Properties (Delhi.txt)	4 BHK Apartment	New Delhi Colony	New Delhi / Delhi	Apartment / 4 BHK	1823	₹1.77 Cr	Semi-Furnished	3	Any	Sale
+1161	Delhi Properties (Delhi.txt)	1 BHK Studio	Saket West	Saket / Delhi	Studio / 1 BHK	309	₹57.96 L	Unfurnished	2	Family	Sale
+1162	Delhi Properties (Delhi.txt)	3 BHK Apartment	New Delhi East	New Delhi / Delhi	Apartment / 3 BHK	903	₹29,100/month	Fully-Furnished	3	Family	Rent
+1163	Delhi Properties (Delhi.txt)	3 BHK Apartment	Rohini East	Rohini / Delhi	Apartment / 3 BHK	1073	₹1.33 Cr	Unfurnished	3	Family	Sale
+1164	Delhi Properties (Delhi.txt)	2 BHK Apartment	New Delhi South	New Delhi / Delhi	Apartment / 2 BHK	1026	₹74.05 L	Unfurnished	2	Family	Sale
+1165	Delhi Properties (Delhi.txt)	3 BHK Apartment	New Delhi Sector 2	New Delhi / Delhi	Apartment / 3 BHK	1315	₹34,600/month	Unfurnished	2	Family	Rent
+1166	Delhi Properties (Delhi.txt)	4 BHK Apartment	Rohini Extension	Rohini / Delhi	Apartment / 4 BHK	1762	₹48,500/month	Semi-Furnished	3	Bachelors	Rent
+1167	Delhi Properties (Delhi.txt)	2 BHK Villa	New Delhi North	New Delhi / Delhi	Villa / 2 BHK	1058	₹23,700/month	Semi-Furnished	2	Any	Rent
+1168	Delhi Properties (Delhi.txt)	2 BHK Builder Floor	New Delhi Sector 2	New Delhi / Delhi	Builder Floor / 2 BHK	735	₹26,500/month	Semi-Furnished	2	Family	Rent
+1169	Delhi Properties (Delhi.txt)	3 BHK Apartment	Saket North	Saket / Delhi	Apartment / 3 BHK	1151	₹30,600/month	Semi-Furnished	3	Any	Rent
+1170	Delhi Properties (Delhi.txt)	2 BHK Apartment	Rohini Residential Area	Rohini / Delhi	Apartment / 2 BHK	879	₹95.27 L	Semi-Furnished	2	Family	Sale
+1171	Delhi Properties (Delhi.txt)	2 BHK Apartment	Saket Heights	Saket / Delhi	Apartment / 2 BHK	809	₹90.66 L	Unfurnished	2	Family	Sale
