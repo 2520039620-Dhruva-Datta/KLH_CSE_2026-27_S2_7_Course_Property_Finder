@@ -1,0 +1,1172 @@
+No.	Source	Property	Location	City / State	Type / Config	Area	Price / Rent	Furnishing	Bathrooms	Tennants	Listing Type
+1	Uttarakhand Properties (Uttarakhand.txt)	5 BHK Apartment	Haldwani Nagar	Haldwani / Uttarakhand	Apartment / 5 BHK	2309	₹27,800/month	Semi-Furnished	5	Any	Rent
+2	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Builder Floor	Haldwani Main Road	Haldwani / Uttarakhand	Builder Floor / 3 BHK	1328	₹85.10 L	Fully-Furnished	3	Family	Sale
+3	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Independent House	Rishikesh Town Centre	Rishikesh / Uttarakhand	Independent House / 3 BHK	1219	₹16,800/month	Semi-Furnished	3	Family	Rent
+4	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Builder Floor	Haridwar Sector 3	Haridwar / Uttarakhand	Builder Floor / 3 BHK	1203	₹70.87 L	Unfurnished	3	Family	Sale
+5	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Apartment	Rishikesh Sector 2	Rishikesh / Uttarakhand	Apartment / 2 BHK	775	₹51.86 L	Semi-Furnished	3	Family	Sale
+6	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Apartment	Dehradun Sector 3	Dehradun / Uttarakhand	Apartment / 2 BHK	896	₹17,300/month	Unfurnished	2	Any	Rent
+7	Uttarakhand Properties (Uttarakhand.txt)	1 BHK Builder Floor	Haldwani Sector 2	Haldwani / Uttarakhand	Builder Floor / 1 BHK	440	₹28.34 L	Unfurnished	1	Family	Sale
+8	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Independent House	Rishikesh Sector 1	Rishikesh / Uttarakhand	Independent House / 2 BHK	1065	₹58.12 L	Semi-Furnished	1	Family	Sale
+9	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Builder Floor	Rishikesh Sector 3	Rishikesh / Uttarakhand	Builder Floor / 2 BHK	645	₹40.44 L	Unfurnished	3	Any	Sale
+10	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Apartment	Dehradun South	Dehradun / Uttarakhand	Apartment / 2 BHK	689	₹15,700/month	Semi-Furnished	3	Family	Rent
+11	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Apartment	Rishikesh West	Rishikesh / Uttarakhand	Apartment / 2 BHK	886	₹61.65 L	Fully-Furnished	2	Any	Sale
+12	Uttarakhand Properties (Uttarakhand.txt)	1 BHK Independent House	Haridwar Sector 3	Haridwar / Uttarakhand	Independent House / 1 BHK	707	₹11,200/month	Fully-Furnished	1	Any	Rent
+13	Uttarakhand Properties (Uttarakhand.txt)	1 BHK Studio	Dehradun Heights	Dehradun / Uttarakhand	Studio / 1 BHK	337	₹33.44 L	Fully-Furnished	1	Family	Sale
+14	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Apartment	Dehradun Main Road	Dehradun / Uttarakhand	Apartment / 2 BHK	1041	₹16,100/month	Fully-Furnished	3	Family	Rent
+15	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Apartment	Haldwani Central	Haldwani / Uttarakhand	Apartment / 2 BHK	620	₹40.74 L	Semi-Furnished	3	Bachelors	Sale
+16	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Apartment	Haridwar Town Centre	Haridwar / Uttarakhand	Apartment / 2 BHK	1052	₹49.58 L	Semi-Furnished	2	Family	Sale
+17	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Builder Floor	Haldwani Residential Area	Haldwani / Uttarakhand	Builder Floor / 2 BHK	856	₹58.16 L	Unfurnished	2	Any	Sale
+18	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Builder Floor	Rishikesh Central	Rishikesh / Uttarakhand	Builder Floor / 2 BHK	885	₹54.11 L	Fully-Furnished	3	Family	Sale
+19	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Villa	Haridwar Town Centre	Haridwar / Uttarakhand	Villa / 3 BHK	1201	₹75.50 L	Semi-Furnished	2	Family	Sale
+20	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Builder Floor	Dehradun North	Dehradun / Uttarakhand	Builder Floor / 3 BHK	1239	₹71.08 L	Semi-Furnished	4	Family	Sale
+21	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Apartment	Dehradun South	Dehradun / Uttarakhand	Apartment / 3 BHK	1229	₹19,300/month	Semi-Furnished	3	Family	Rent
+22	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Builder Floor	Haldwani West	Haldwani / Uttarakhand	Builder Floor / 3 BHK	1534	₹70.13 L	Semi-Furnished	4	Any	Sale
+23	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Builder Floor	Haridwar West	Haridwar / Uttarakhand	Builder Floor / 2 BHK	633	₹40.39 L	Unfurnished	3	Bachelors	Sale
+24	Uttarakhand Properties (Uttarakhand.txt)	4 BHK Apartment	Haldwani Sector 2	Haldwani / Uttarakhand	Apartment / 4 BHK	1547	₹21,700/month	Semi-Furnished	5	Family	Rent
+25	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Villa	Haldwani Main Road	Haldwani / Uttarakhand	Villa / 2 BHK	1049	₹64.09 L	Fully-Furnished	2	Any	Sale
+26	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Villa	Dehradun Sector 1	Dehradun / Uttarakhand	Villa / 2 BHK	1094	₹13,600/month	Fully-Furnished	3	Family	Rent
+27	Uttarakhand Properties (Uttarakhand.txt)	5 BHK Builder Floor	Rishikesh Nagar	Rishikesh / Uttarakhand	Builder Floor / 5 BHK	2492	₹1.20 Cr	Fully-Furnished	5	Family	Sale
+28	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Villa	Rishikesh Residential Area	Rishikesh / Uttarakhand	Villa / 3 BHK	1930	₹96.61 L	Semi-Furnished	3	Family	Sale
+29	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Apartment	Rishikesh Town Centre	Rishikesh / Uttarakhand	Apartment / 2 BHK	775	₹58.23 L	Fully-Furnished	2	Bachelors	Sale
+30	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Apartment	Rishikesh Colony	Rishikesh / Uttarakhand	Apartment / 2 BHK	973	₹59.79 L	Semi-Furnished	2	Bachelors	Sale
+31	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Apartment	Dehradun South	Dehradun / Uttarakhand	Apartment / 2 BHK	926	₹53.96 L	Fully-Furnished	3	Bachelors	Sale
+32	Uttarakhand Properties (Uttarakhand.txt)	4 BHK Independent House	Haldwani North	Haldwani / Uttarakhand	Independent House / 4 BHK	2187	₹97.92 L	Unfurnished	4	Any	Sale
+33	Uttarakhand Properties (Uttarakhand.txt)	1 BHK Apartment	Haridwar Nagar	Haridwar / Uttarakhand	Apartment / 1 BHK	512	₹33.97 L	Semi-Furnished	2	Bachelors	Sale
+34	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Apartment	Haldwani Central	Haldwani / Uttarakhand	Apartment / 3 BHK	1375	₹71.75 L	Fully-Furnished	2	Any	Sale
+35	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Builder Floor	Rishikesh Main Road	Rishikesh / Uttarakhand	Builder Floor / 2 BHK	742	₹55.14 L	Unfurnished	3	Any	Sale
+36	Uttarakhand Properties (Uttarakhand.txt)	4 BHK Builder Floor	Haridwar Extension	Haridwar / Uttarakhand	Builder Floor / 4 BHK	1306	₹83.65 L	Fully-Furnished	3	Family	Sale
+37	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Independent House	Dehradun Sector 2	Dehradun / Uttarakhand	Independent House / 2 BHK	1152	₹53 L	Fully-Furnished	1	Any	Sale
+38	Uttarakhand Properties (Uttarakhand.txt)	4 BHK Villa	Dehradun North	Dehradun / Uttarakhand	Villa / 4 BHK	2611	₹86.92 L	Semi-Furnished	3	Family	Sale
+39	Uttarakhand Properties (Uttarakhand.txt)	5 BHK Apartment	Haridwar East	Haridwar / Uttarakhand	Apartment / 5 BHK	2448	₹28,500/month	Semi-Furnished	6	Bachelors	Rent
+40	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Apartment	Haldwani Extension	Haldwani / Uttarakhand	Apartment / 2 BHK	657	₹15,100/month	Fully-Furnished	2	Bachelors	Rent
+41	Uttarakhand Properties (Uttarakhand.txt)	4 BHK Apartment	Dehradun West	Dehradun / Uttarakhand	Apartment / 4 BHK	1377	₹27,000/month	Unfurnished	3	Family	Rent
+42	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Builder Floor	Haridwar Nagar	Haridwar / Uttarakhand	Builder Floor / 3 BHK	1103	₹61.66 L	Semi-Furnished	4	Family	Sale
+43	Uttarakhand Properties (Uttarakhand.txt)	5 BHK Apartment	Dehradun Central	Dehradun / Uttarakhand	Apartment / 5 BHK	2347	₹27,100/month	Unfurnished	5	Bachelors	Rent
+44	Uttarakhand Properties (Uttarakhand.txt)	1 BHK Studio	Haldwani Heights	Haldwani / Uttarakhand	Studio / 1 BHK	316	₹29.72 L	Semi-Furnished	1	Family	Sale
+45	Uttarakhand Properties (Uttarakhand.txt)	1 BHK Independent House	Haridwar Heights	Haridwar / Uttarakhand	Independent House / 1 BHK	652	₹32.25 L	Unfurnished	2	Family	Sale
+46	Uttarakhand Properties (Uttarakhand.txt)	4 BHK Apartment	Haldwani Residential Area	Haldwani / Uttarakhand	Apartment / 4 BHK	2017	₹93.24 L	Semi-Furnished	4	Family	Sale
+47	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Independent House	Haridwar Nagar	Haridwar / Uttarakhand	Independent House / 2 BHK	1004	₹15,800/month	Unfurnished	2	Bachelors	Rent
+48	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Apartment	Rishikesh South	Rishikesh / Uttarakhand	Apartment / 2 BHK	867	₹62.65 L	Fully-Furnished	2	Family	Sale
+49	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Apartment	Rishikesh Heights	Rishikesh / Uttarakhand	Apartment / 2 BHK	645	₹54.78 L	Semi-Furnished	2	Bachelors	Sale
+50	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Apartment	Haldwani Central	Haldwani / Uttarakhand	Apartment / 2 BHK	563	₹10,700/month	Unfurnished	2	Family	Rent
+51	Uttarakhand Properties (Uttarakhand.txt)	1 BHK Builder Floor	Dehradun North	Dehradun / Uttarakhand	Builder Floor / 1 BHK	508	₹33.84 L	Fully-Furnished	2	Any	Sale
+52	Uttarakhand Properties (Uttarakhand.txt)	1 BHK Apartment	Haldwani Town Centre	Haldwani / Uttarakhand	Apartment / 1 BHK	411	₹33.82 L	Semi-Furnished	1	Bachelors	Sale
+53	Uttarakhand Properties (Uttarakhand.txt)	1 BHK Independent House	Haridwar Town Centre	Haridwar / Uttarakhand	Independent House / 1 BHK	579	₹10,800/month	Semi-Furnished	2	Family	Rent
+54	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Independent House	Haldwani Main Road	Haldwani / Uttarakhand	Independent House / 2 BHK	1259	₹51.03 L	Semi-Furnished	2	Family	Sale
+55	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Apartment	Haridwar North	Haridwar / Uttarakhand	Apartment / 3 BHK	1421	₹88.30 L	Unfurnished	2	Family	Sale
+56	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Apartment	Dehradun Central	Dehradun / Uttarakhand	Apartment / 3 BHK	1330	₹20,800/month	Unfurnished	3	Any	Rent
+57	Uttarakhand Properties (Uttarakhand.txt)	1 BHK Apartment	Dehradun Main Road	Dehradun / Uttarakhand	Apartment / 1 BHK	653	₹33.05 L	Semi-Furnished	1	Bachelors	Sale
+58	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Apartment	Rishikesh Heights	Rishikesh / Uttarakhand	Apartment / 3 BHK	1147	₹19,500/month	Fully-Furnished	2	Bachelors	Rent
+59	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Apartment	Dehradun Extension	Dehradun / Uttarakhand	Apartment / 2 BHK	848	₹12,600/month	Fully-Furnished	3	Any	Rent
+60	Uttarakhand Properties (Uttarakhand.txt)	1 BHK Apartment	Haldwani Sector 1	Haldwani / Uttarakhand	Apartment / 1 BHK	503	₹34.14 L	Unfurnished	2	Bachelors	Sale
+61	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Apartment	Haridwar Heights	Haridwar / Uttarakhand	Apartment / 3 BHK	1269	₹59.17 L	Semi-Furnished	3	Family	Sale
+62	Uttarakhand Properties (Uttarakhand.txt)	4 BHK Apartment	Haridwar West	Haridwar / Uttarakhand	Apartment / 4 BHK	2082	₹31,300/month	Unfurnished	4	Family	Rent
+63	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Independent House	Haldwani Sector 2	Haldwani / Uttarakhand	Independent House / 2 BHK	941	₹12,700/month	Fully-Furnished	3	Family	Rent
+64	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Apartment	Rishikesh Sector 1	Rishikesh / Uttarakhand	Apartment / 2 BHK	641	₹47.85 L	Unfurnished	2	Bachelors	Sale
+65	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Apartment	Haldwani Sector 1	Haldwani / Uttarakhand	Apartment / 2 BHK	821	₹42.30 L	Semi-Furnished	1	Bachelors	Sale
+66	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Villa	Haldwani Sector 3	Haldwani / Uttarakhand	Villa / 2 BHK	1161	₹48.61 L	Unfurnished	2	Any	Sale
+67	Uttarakhand Properties (Uttarakhand.txt)	1 BHK Studio	Haldwani Residential Area	Haldwani / Uttarakhand	Studio / 1 BHK	362	₹26.65 L	Fully-Furnished	2	Any	Sale
+68	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Apartment	Haldwani Sector 3	Haldwani / Uttarakhand	Apartment / 2 BHK	699	₹15,100/month	Semi-Furnished	2	Family	Rent
+69	Uttarakhand Properties (Uttarakhand.txt)	1 BHK Studio	Haldwani South	Haldwani / Uttarakhand	Studio / 1 BHK	409	₹37.73 L	Fully-Furnished	1	Bachelors	Sale
+70	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Apartment	Rishikesh Residential Area	Rishikesh / Uttarakhand	Apartment / 2 BHK	727	₹14,400/month	Semi-Furnished	2	Any	Rent
+71	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Apartment	Haridwar East	Haridwar / Uttarakhand	Apartment / 3 BHK	1280	₹21,800/month	Fully-Furnished	3	Family	Rent
+72	Uttarakhand Properties (Uttarakhand.txt)	1 BHK Studio	Dehradun West	Dehradun / Uttarakhand	Studio / 1 BHK	364	₹30.66 L	Unfurnished	1	Family	Sale
+73	Uttarakhand Properties (Uttarakhand.txt)	5 BHK Independent House	Haldwani South	Haldwani / Uttarakhand	Independent House / 5 BHK	2068	₹1.15 Cr	Unfurnished	5	Family	Sale
+74	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Apartment	Haldwani South	Haldwani / Uttarakhand	Apartment / 3 BHK	1406	₹63.98 L	Fully-Furnished	2	Family	Sale
+75	Uttarakhand Properties (Uttarakhand.txt)	1 BHK Apartment	Haridwar West	Haridwar / Uttarakhand	Apartment / 1 BHK	613	₹29.73 L	Semi-Furnished	1	Family	Sale
+76	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Apartment	Dehradun Nagar	Dehradun / Uttarakhand	Apartment / 2 BHK	901	₹46.22 L	Semi-Furnished	2	Family	Sale
+77	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Apartment	Rishikesh Sector 2	Rishikesh / Uttarakhand	Apartment / 3 BHK	1172	₹21,300/month	Semi-Furnished	2	Any	Rent
+78	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Apartment	Dehradun Central	Dehradun / Uttarakhand	Apartment / 3 BHK	1193	₹18,400/month	Fully-Furnished	3	Bachelors	Rent
+79	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Apartment	Haridwar Extension	Haridwar / Uttarakhand	Apartment / 3 BHK	1440	₹17,200/month	Unfurnished	2	Family	Rent
+80	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Apartment	Haridwar Residential Area	Haridwar / Uttarakhand	Apartment / 2 BHK	626	₹53.93 L	Unfurnished	3	Bachelors	Sale
+81	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Villa	Haridwar Extension	Haridwar / Uttarakhand	Villa / 3 BHK	1458	₹81.17 L	Unfurnished	3	Bachelors	Sale
+82	Uttarakhand Properties (Uttarakhand.txt)	5 BHK Independent House	Haridwar Heights	Haridwar / Uttarakhand	Independent House / 5 BHK	2968	₹1.11 Cr	Unfurnished	5	Bachelors	Sale
+83	Uttarakhand Properties (Uttarakhand.txt)	1 BHK Apartment	Rishikesh Central	Rishikesh / Uttarakhand	Apartment / 1 BHK	521	₹37.14 L	Semi-Furnished	1	Bachelors	Sale
+84	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Apartment	Haldwani Residential Area	Haldwani / Uttarakhand	Apartment / 3 BHK	1326	₹75.65 L	Fully-Furnished	3	Family	Sale
+85	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Builder Floor	Rishikesh Sector 2	Rishikesh / Uttarakhand	Builder Floor / 3 BHK	1417	₹20,900/month	Semi-Furnished	3	Family	Rent
+86	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Villa	Rishikesh Heights	Rishikesh / Uttarakhand	Villa / 2 BHK	1052	₹56.01 L	Fully-Furnished	2	Family	Sale
+87	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Builder Floor	Haridwar Heights	Haridwar / Uttarakhand	Builder Floor / 2 BHK	724	₹13,500/month	Fully-Furnished	2	Any	Rent
+88	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Apartment	Rishikesh Town Centre	Rishikesh / Uttarakhand	Apartment / 2 BHK	886	₹58.34 L	Fully-Furnished	3	Bachelors	Sale
+89	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Apartment	Haldwani Colony	Haldwani / Uttarakhand	Apartment / 3 BHK	1381	₹71.06 L	Semi-Furnished	3	Any	Sale
+90	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Villa	Haldwani Town Centre	Haldwani / Uttarakhand	Villa / 3 BHK	2020	₹18,400/month	Semi-Furnished	4	Any	Rent
+91	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Independent House	Haldwani Main Road	Haldwani / Uttarakhand	Independent House / 2 BHK	1127	₹54.09 L	Semi-Furnished	1	Family	Sale
+92	Uttarakhand Properties (Uttarakhand.txt)	1 BHK Studio	Dehradun Extension	Dehradun / Uttarakhand	Studio / 1 BHK	417	₹33.21 L	Fully-Furnished	2	Bachelors	Sale
+93	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Villa	Dehradun Central	Dehradun / Uttarakhand	Villa / 2 BHK	1501	₹56.94 L	Unfurnished	1	Bachelors	Sale
+94	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Apartment	Haldwani Sector 2	Haldwani / Uttarakhand	Apartment / 2 BHK	847	₹47.31 L	Fully-Furnished	2	Bachelors	Sale
+95	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Builder Floor	Rishikesh Main Road	Rishikesh / Uttarakhand	Builder Floor / 2 BHK	1140	₹18,300/month	Semi-Furnished	3	Bachelors	Rent
+96	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Builder Floor	Rishikesh West	Rishikesh / Uttarakhand	Builder Floor / 3 BHK	1026	₹74.32 L	Semi-Furnished	3	Any	Sale
+97	Uttarakhand Properties (Uttarakhand.txt)	1 BHK Villa	Dehradun Central	Dehradun / Uttarakhand	Villa / 1 BHK	838	₹37.72 L	Fully-Furnished	1	Family	Sale
+98	Uttarakhand Properties (Uttarakhand.txt)	1 BHK Apartment	Haridwar Heights	Haridwar / Uttarakhand	Apartment / 1 BHK	646	₹9,000/month	Fully-Furnished	1	Family	Rent
+99	Uttarakhand Properties (Uttarakhand.txt)	1 BHK Apartment	Rishikesh North	Rishikesh / Uttarakhand	Apartment / 1 BHK	552	₹34.20 L	Unfurnished	1	Family	Sale
+100	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Apartment	Haridwar Colony	Haridwar / Uttarakhand	Apartment / 2 BHK	648	₹57.29 L	Semi-Furnished	2	Any	Sale
+101	Uttarakhand Properties (Uttarakhand.txt)	1 BHK Studio	Haridwar East	Haridwar / Uttarakhand	Studio / 1 BHK	465	₹9,500/month	Unfurnished	1	Bachelors	Rent
+102	Uttarakhand Properties (Uttarakhand.txt)	1 BHK Independent House	Rishikesh Nagar	Rishikesh / Uttarakhand	Independent House / 1 BHK	681	₹10,200/month	Semi-Furnished	2	Family	Rent
+103	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Apartment	Haridwar East	Haridwar / Uttarakhand	Apartment / 2 BHK	889	₹17,300/month	Semi-Furnished	2	Family	Rent
+104	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Independent House	Haldwani West	Haldwani / Uttarakhand	Independent House / 2 BHK	1117	₹57.24 L	Semi-Furnished	1	Any	Sale
+105	Uttarakhand Properties (Uttarakhand.txt)	1 BHK Studio	Haridwar Sector 3	Haridwar / Uttarakhand	Studio / 1 BHK	332	₹30.38 L	Semi-Furnished	1	Bachelors	Sale
+106	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Builder Floor	Dehradun Residential Area	Dehradun / Uttarakhand	Builder Floor / 2 BHK	722	₹42 L	Unfurnished	2	Family	Sale
+107	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Villa	Haldwani Sector 2	Haldwani / Uttarakhand	Villa / 3 BHK	1239	₹74.06 L	Fully-Furnished	3	Family	Sale
+108	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Apartment	Haridwar South	Haridwar / Uttarakhand	Apartment / 2 BHK	928	₹12,800/month	Fully-Furnished	2	Family	Rent
+109	Uttarakhand Properties (Uttarakhand.txt)	4 BHK Apartment	Haldwani Extension	Haldwani / Uttarakhand	Apartment / 4 BHK	1782	₹79.01 L	Semi-Furnished	5	Family	Sale
+110	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Apartment	Dehradun Main Road	Dehradun / Uttarakhand	Apartment / 2 BHK	978	₹55.17 L	Unfurnished	3	Any	Sale
+111	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Builder Floor	Haldwani Extension	Haldwani / Uttarakhand	Builder Floor / 2 BHK	745	₹47.23 L	Semi-Furnished	3	Bachelors	Sale
+112	Uttarakhand Properties (Uttarakhand.txt)	4 BHK Apartment	Dehradun Extension	Dehradun / Uttarakhand	Apartment / 4 BHK	1941	₹24,800/month	Fully-Furnished	5	Family	Rent
+113	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Apartment	Haldwani Main Road	Haldwani / Uttarakhand	Apartment / 3 BHK	1412	₹84.89 L	Fully-Furnished	2	Family	Sale
+114	Uttarakhand Properties (Uttarakhand.txt)	1 BHK Studio	Rishikesh North	Rishikesh / Uttarakhand	Studio / 1 BHK	413	₹8,400/month	Unfurnished	1	Family	Rent
+115	Uttarakhand Properties (Uttarakhand.txt)	4 BHK Apartment	Haldwani Central	Haldwani / Uttarakhand	Apartment / 4 BHK	1606	₹1.02 Cr	Fully-Furnished	4	Any	Sale
+116	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Builder Floor	Haridwar Sector 2	Haridwar / Uttarakhand	Builder Floor / 2 BHK	1053	₹55.79 L	Semi-Furnished	1	Bachelors	Sale
+117	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Apartment	Haridwar East	Haridwar / Uttarakhand	Apartment / 2 BHK	1015	₹53.50 L	Semi-Furnished	2	Any	Sale
+118	Uttarakhand Properties (Uttarakhand.txt)	1 BHK Apartment	Dehradun Main Road	Dehradun / Uttarakhand	Apartment / 1 BHK	564	₹8,900/month	Semi-Furnished	1	Any	Rent
+119	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Apartment	Haldwani Heights	Haldwani / Uttarakhand	Apartment / 3 BHK	1425	₹71.95 L	Unfurnished	2	Family	Sale
+120	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Apartment	Haldwani Colony	Haldwani / Uttarakhand	Apartment / 2 BHK	627	₹54.66 L	Fully-Furnished	2	Any	Sale
+121	Uttarakhand Properties (Uttarakhand.txt)	1 BHK Studio	Dehradun Heights	Dehradun / Uttarakhand	Studio / 1 BHK	334	₹32.71 L	Unfurnished	1	Family	Sale
+122	Uttarakhand Properties (Uttarakhand.txt)	4 BHK Apartment	Haridwar Extension	Haridwar / Uttarakhand	Apartment / 4 BHK	1939	₹28,500/month	Fully-Furnished	5	Family	Rent
+123	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Apartment	Haldwani Colony	Haldwani / Uttarakhand	Apartment / 3 BHK	1282	₹74.10 L	Unfurnished	3	Family	Sale
+124	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Apartment	Haldwani West	Haldwani / Uttarakhand	Apartment / 3 BHK	1406	₹64.08 L	Fully-Furnished	4	Family	Sale
+125	Uttarakhand Properties (Uttarakhand.txt)	1 BHK Villa	Haridwar Colony	Haridwar / Uttarakhand	Villa / 1 BHK	662	₹37.27 L	Semi-Furnished	1	Family	Sale
+126	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Apartment	Dehradun East	Dehradun / Uttarakhand	Apartment / 3 BHK	1300	₹61.21 L	Semi-Furnished	3	Bachelors	Sale
+127	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Independent House	Haldwani Colony	Haldwani / Uttarakhand	Independent House / 2 BHK	1181	₹60.61 L	Semi-Furnished	2	Family	Sale
+128	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Apartment	Haldwani Main Road	Haldwani / Uttarakhand	Apartment / 2 BHK	657	₹14,100/month	Semi-Furnished	1	Family	Rent
+129	Uttarakhand Properties (Uttarakhand.txt)	1 BHK Independent House	Rishikesh Nagar	Rishikesh / Uttarakhand	Independent House / 1 BHK	800	₹37.93 L	Unfurnished	1	Family	Sale
+130	Uttarakhand Properties (Uttarakhand.txt)	1 BHK Builder Floor	Dehradun Sector 3	Dehradun / Uttarakhand	Builder Floor / 1 BHK	404	₹34.09 L	Semi-Furnished	1	Family	Sale
+131	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Independent House	Haridwar Extension	Haridwar / Uttarakhand	Independent House / 3 BHK	1593	₹21,300/month	Semi-Furnished	4	Bachelors	Rent
+132	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Builder Floor	Haldwani Sector 3	Haldwani / Uttarakhand	Builder Floor / 3 BHK	1356	₹76.48 L	Semi-Furnished	3	Any	Sale
+133	Uttarakhand Properties (Uttarakhand.txt)	1 BHK Apartment	Haldwani Heights	Haldwani / Uttarakhand	Apartment / 1 BHK	438	₹8,100/month	Semi-Furnished	1	Family	Rent
+134	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Independent House	Haridwar Sector 2	Haridwar / Uttarakhand	Independent House / 3 BHK	1674	₹17,300/month	Unfurnished	3	Family	Rent
+135	Uttarakhand Properties (Uttarakhand.txt)	1 BHK Independent House	Dehradun Heights	Dehradun / Uttarakhand	Independent House / 1 BHK	556	₹8,700/month	Semi-Furnished	1	Family	Rent
+136	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Independent House	Haridwar South	Haridwar / Uttarakhand	Independent House / 3 BHK	1561	₹20,700/month	Unfurnished	3	Family	Rent
+137	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Builder Floor	Haldwani Sector 2	Haldwani / Uttarakhand	Builder Floor / 2 BHK	778	₹15,200/month	Unfurnished	2	Family	Rent
+138	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Builder Floor	Rishikesh Main Road	Rishikesh / Uttarakhand	Builder Floor / 2 BHK	909	₹60.65 L	Fully-Furnished	2	Bachelors	Sale
+139	Uttarakhand Properties (Uttarakhand.txt)	1 BHK Apartment	Rishikesh Sector 2	Rishikesh / Uttarakhand	Apartment / 1 BHK	614	₹40.76 L	Unfurnished	1	Family	Sale
+140	Uttarakhand Properties (Uttarakhand.txt)	4 BHK Apartment	Rishikesh North	Rishikesh / Uttarakhand	Apartment / 4 BHK	1827	₹88.30 L	Semi-Furnished	4	Family	Sale
+141	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Independent House	Haridwar Sector 2	Haridwar / Uttarakhand	Independent House / 3 BHK	1785	₹71.63 L	Semi-Furnished	3	Any	Sale
+142	Uttarakhand Properties (Uttarakhand.txt)	5 BHK Apartment	Haldwani Sector 3	Haldwani / Uttarakhand	Apartment / 5 BHK	2515	₹1.08 Cr	Fully-Furnished	5	Any	Sale
+143	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Builder Floor	Rishikesh West	Rishikesh / Uttarakhand	Builder Floor / 3 BHK	1268	₹21,800/month	Fully-Furnished	3	Family	Rent
+144	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Independent House	Haridwar Sector 1	Haridwar / Uttarakhand	Independent House / 3 BHK	1465	₹18,000/month	Unfurnished	3	Family	Rent
+145	Uttarakhand Properties (Uttarakhand.txt)	1 BHK Studio	Haldwani East	Haldwani / Uttarakhand	Studio / 1 BHK	427	₹28.07 L	Fully-Furnished	1	Family	Sale
+146	Uttarakhand Properties (Uttarakhand.txt)	4 BHK Apartment	Haldwani East	Haldwani / Uttarakhand	Apartment / 4 BHK	1552	₹23,800/month	Fully-Furnished	4	Family	Rent
+147	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Apartment	Dehradun Extension	Dehradun / Uttarakhand	Apartment / 2 BHK	686	₹15,700/month	Fully-Furnished	2	Family	Rent
+148	Uttarakhand Properties (Uttarakhand.txt)	1 BHK Studio	Rishikesh Central	Rishikesh / Uttarakhand	Studio / 1 BHK	300	₹9,700/month	Unfurnished	2	Bachelors	Rent
+149	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Builder Floor	Dehradun North	Dehradun / Uttarakhand	Builder Floor / 2 BHK	921	₹17,200/month	Semi-Furnished	2	Bachelors	Rent
+150	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Villa	Haldwani North	Haldwani / Uttarakhand	Villa / 3 BHK	1791	₹23,500/month	Fully-Furnished	4	Bachelors	Rent
+151	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Villa	Dehradun East	Dehradun / Uttarakhand	Villa / 3 BHK	1847	₹95.94 L	Semi-Furnished	2	Any	Sale
+152	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Builder Floor	Haridwar Colony	Haridwar / Uttarakhand	Builder Floor / 2 BHK	673	₹40.29 L	Semi-Furnished	2	Bachelors	Sale
+153	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Builder Floor	Haldwani North	Haldwani / Uttarakhand	Builder Floor / 2 BHK	785	₹53.87 L	Fully-Furnished	2	Family	Sale
+154	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Villa	Haldwani Central	Haldwani / Uttarakhand	Villa / 3 BHK	1349	₹62.11 L	Semi-Furnished	3	Family	Sale
+155	Uttarakhand Properties (Uttarakhand.txt)	5 BHK Apartment	Rishikesh Main Road	Rishikesh / Uttarakhand	Apartment / 5 BHK	2367	₹29,900/month	Semi-Furnished	4	Any	Rent
+156	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Builder Floor	Rishikesh Nagar	Rishikesh / Uttarakhand	Builder Floor / 3 BHK	1404	₹17,400/month	Unfurnished	4	Bachelors	Rent
+157	Uttarakhand Properties (Uttarakhand.txt)	1 BHK Apartment	Dehradun Heights	Dehradun / Uttarakhand	Apartment / 1 BHK	476	₹10,600/month	Fully-Furnished	1	Family	Rent
+158	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Apartment	Rishikesh East	Rishikesh / Uttarakhand	Apartment / 2 BHK	1003	₹16,800/month	Unfurnished	2	Any	Rent
+159	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Apartment	Haridwar Colony	Haridwar / Uttarakhand	Apartment / 2 BHK	798	₹60.24 L	Fully-Furnished	2	Any	Sale
+160	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Apartment	Haridwar West	Haridwar / Uttarakhand	Apartment / 2 BHK	821	₹12,000/month	Semi-Furnished	2	Family	Rent
+161	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Builder Floor	Haridwar Sector 2	Haridwar / Uttarakhand	Builder Floor / 2 BHK	832	₹14,300/month	Unfurnished	2	Bachelors	Rent
+162	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Villa	Rishikesh Heights	Rishikesh / Uttarakhand	Villa / 2 BHK	1041	₹59.28 L	Fully-Furnished	2	Bachelors	Sale
+163	Uttarakhand Properties (Uttarakhand.txt)	1 BHK Apartment	Haridwar South	Haridwar / Uttarakhand	Apartment / 1 BHK	459	₹38.22 L	Fully-Furnished	1	Family	Sale
+164	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Apartment	Rishikesh Sector 3	Rishikesh / Uttarakhand	Apartment / 3 BHK	1567	₹82.80 L	Fully-Furnished	3	Family	Sale
+165	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Builder Floor	Haridwar Main Road	Haridwar / Uttarakhand	Builder Floor / 3 BHK	1274	₹81.98 L	Fully-Furnished	2	Any	Sale
+166	Uttarakhand Properties (Uttarakhand.txt)	1 BHK Studio	Rishikesh West	Rishikesh / Uttarakhand	Studio / 1 BHK	352	₹7,400/month	Semi-Furnished	1	Any	Rent
+167	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Independent House	Haridwar Sector 3	Haridwar / Uttarakhand	Independent House / 3 BHK	1502	₹64.29 L	Semi-Furnished	3	Family	Sale
+168	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Villa	Rishikesh Town Centre	Rishikesh / Uttarakhand	Villa / 3 BHK	1549	₹21,700/month	Unfurnished	3	Any	Rent
+169	Uttarakhand Properties (Uttarakhand.txt)	4 BHK Independent House	Dehradun South	Dehradun / Uttarakhand	Independent House / 4 BHK	1693	₹89.40 L	Unfurnished	3	Bachelors	Sale
+170	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Independent House	Haridwar Sector 3	Haridwar / Uttarakhand	Independent House / 3 BHK	1720	₹74.78 L	Semi-Furnished	4	Family	Sale
+171	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Apartment	Haridwar Residential Area	Haridwar / Uttarakhand	Apartment / 3 BHK	1314	₹65.24 L	Fully-Furnished	3	Bachelors	Sale
+172	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Apartment	Rishikesh North	Rishikesh / Uttarakhand	Apartment / 2 BHK	980	₹53.99 L	Fully-Furnished	1	Bachelors	Sale
+173	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Builder Floor	Haldwani South	Haldwani / Uttarakhand	Builder Floor / 3 BHK	1267	₹76.84 L	Fully-Furnished	2	Any	Sale
+174	Uttarakhand Properties (Uttarakhand.txt)	1 BHK Studio	Haldwani Extension	Haldwani / Uttarakhand	Studio / 1 BHK	362	₹34.36 L	Unfurnished	1	Bachelors	Sale
+175	Uttarakhand Properties (Uttarakhand.txt)	4 BHK Independent House	Haridwar South	Haridwar / Uttarakhand	Independent House / 4 BHK	2171	₹87.77 L	Semi-Furnished	4	Family	Sale
+176	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Apartment	Rishikesh North	Rishikesh / Uttarakhand	Apartment / 2 BHK	977	₹59.71 L	Semi-Furnished	3	Bachelors	Sale
+177	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Apartment	Dehradun Sector 3	Dehradun / Uttarakhand	Apartment / 3 BHK	1054	₹69.38 L	Semi-Furnished	2	Any	Sale
+178	Uttarakhand Properties (Uttarakhand.txt)	4 BHK Apartment	Rishikesh Residential Area	Rishikesh / Uttarakhand	Apartment / 4 BHK	1694	₹1.08 Cr	Semi-Furnished	4	Bachelors	Sale
+179	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Builder Floor	Rishikesh Nagar	Rishikesh / Uttarakhand	Builder Floor / 2 BHK	696	₹42.08 L	Semi-Furnished	2	Family	Sale
+180	Uttarakhand Properties (Uttarakhand.txt)	1 BHK Apartment	Rishikesh East	Rishikesh / Uttarakhand	Apartment / 1 BHK	455	₹31.66 L	Semi-Furnished	1	Family	Sale
+181	Uttarakhand Properties (Uttarakhand.txt)	1 BHK Studio	Haridwar Heights	Haridwar / Uttarakhand	Studio / 1 BHK	416	₹31.72 L	Semi-Furnished	1	Bachelors	Sale
+182	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Apartment	Haridwar Sector 2	Haridwar / Uttarakhand	Apartment / 2 BHK	821	₹60.28 L	Unfurnished	2	Family	Sale
+183	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Apartment	Rishikesh Central	Rishikesh / Uttarakhand	Apartment / 2 BHK	724	₹54.10 L	Semi-Furnished	2	Bachelors	Sale
+184	Uttarakhand Properties (Uttarakhand.txt)	4 BHK Apartment	Haldwani Nagar	Haldwani / Uttarakhand	Apartment / 4 BHK	1578	₹75.07 L	Unfurnished	4	Family	Sale
+185	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Independent House	Haldwani Nagar	Haldwani / Uttarakhand	Independent House / 2 BHK	1104	₹61.28 L	Unfurnished	2	Family	Sale
+186	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Apartment	Haridwar Nagar	Haridwar / Uttarakhand	Apartment / 2 BHK	869	₹15,100/month	Unfurnished	2	Family	Rent
+187	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Apartment	Rishikesh Residential Area	Rishikesh / Uttarakhand	Apartment / 2 BHK	1084	₹59.82 L	Unfurnished	2	Family	Sale
+188	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Builder Floor	Haldwani North	Haldwani / Uttarakhand	Builder Floor / 3 BHK	1280	₹70.90 L	Semi-Furnished	2	Family	Sale
+189	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Apartment	Dehradun Nagar	Dehradun / Uttarakhand	Apartment / 3 BHK	1298	₹22,600/month	Fully-Furnished	3	Bachelors	Rent
+190	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Apartment	Haridwar Town Centre	Haridwar / Uttarakhand	Apartment / 3 BHK	1494	₹23,700/month	Unfurnished	3	Any	Rent
+191	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Builder Floor	Rishikesh Colony	Rishikesh / Uttarakhand	Builder Floor / 3 BHK	1265	₹83.21 L	Semi-Furnished	2	Bachelors	Sale
+192	Uttarakhand Properties (Uttarakhand.txt)	1 BHK Villa	Haridwar Colony	Haridwar / Uttarakhand	Villa / 1 BHK	618	₹11,300/month	Semi-Furnished	1	Family	Rent
+193	Uttarakhand Properties (Uttarakhand.txt)	1 BHK Studio	Dehradun Residential Area	Dehradun / Uttarakhand	Studio / 1 BHK	349	₹27.11 L	Fully-Furnished	1	Bachelors	Sale
+194	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Builder Floor	Dehradun East	Dehradun / Uttarakhand	Builder Floor / 3 BHK	918	₹73.95 L	Semi-Furnished	4	Family	Sale
+195	Uttarakhand Properties (Uttarakhand.txt)	1 BHK Studio	Rishikesh Main Road	Rishikesh / Uttarakhand	Studio / 1 BHK	300	₹7,400/month	Semi-Furnished	1	Bachelors	Rent
+196	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Builder Floor	Rishikesh Residential Area	Rishikesh / Uttarakhand	Builder Floor / 2 BHK	850	₹14,000/month	Fully-Furnished	2	Bachelors	Rent
+197	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Apartment	Haldwani East	Haldwani / Uttarakhand	Apartment / 3 BHK	1175	₹17,600/month	Fully-Furnished	3	Any	Rent
+198	Uttarakhand Properties (Uttarakhand.txt)	4 BHK Villa	Haridwar Sector 3	Haridwar / Uttarakhand	Villa / 4 BHK	2130	₹28,900/month	Semi-Furnished	5	Family	Rent
+199	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Apartment	Rishikesh South	Rishikesh / Uttarakhand	Apartment / 2 BHK	950	₹16,600/month	Unfurnished	2	Family	Rent
+200	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Apartment	Haldwani East	Haldwani / Uttarakhand	Apartment / 3 BHK	1449	₹79.52 L	Semi-Furnished	3	Family	Sale
+201	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Builder Floor	Haridwar Sector 3	Haridwar / Uttarakhand	Builder Floor / 2 BHK	925	₹14,300/month	Fully-Furnished	1	Any	Rent
+202	Uttarakhand Properties (Uttarakhand.txt)	1 BHK Studio	Rishikesh Sector 1	Rishikesh / Uttarakhand	Studio / 1 BHK	370	₹28.99 L	Fully-Furnished	1	Bachelors	Sale
+203	Uttarakhand Properties (Uttarakhand.txt)	1 BHK Independent House	Haldwani North	Haldwani / Uttarakhand	Independent House / 1 BHK	546	₹37.54 L	Semi-Furnished	2	Any	Sale
+204	Uttarakhand Properties (Uttarakhand.txt)	4 BHK Builder Floor	Haldwani Residential Area	Haldwani / Uttarakhand	Builder Floor / 4 BHK	2385	₹1.01 Cr	Semi-Furnished	4	Bachelors	Sale
+205	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Apartment	Haldwani Sector 3	Haldwani / Uttarakhand	Apartment / 2 BHK	688	₹41.37 L	Fully-Furnished	2	Family	Sale
+206	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Independent House	Rishikesh Town Centre	Rishikesh / Uttarakhand	Independent House / 3 BHK	1494	₹17,300/month	Unfurnished	4	Family	Rent
+207	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Apartment	Rishikesh Residential Area	Rishikesh / Uttarakhand	Apartment / 2 BHK	981	₹16,000/month	Semi-Furnished	2	Any	Rent
+208	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Independent House	Rishikesh Central	Rishikesh / Uttarakhand	Independent House / 3 BHK	1395	₹69.85 L	Unfurnished	3	Any	Sale
+209	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Apartment	Haridwar Sector 2	Haridwar / Uttarakhand	Apartment / 3 BHK	1313	₹64.90 L	Semi-Furnished	3	Family	Sale
+210	Uttarakhand Properties (Uttarakhand.txt)	4 BHK Apartment	Haldwani Nagar	Haldwani / Uttarakhand	Apartment / 4 BHK	1556	₹87.23 L	Semi-Furnished	5	Family	Sale
+211	Uttarakhand Properties (Uttarakhand.txt)	1 BHK Apartment	Haldwani Sector 1	Haldwani / Uttarakhand	Apartment / 1 BHK	577	₹10,000/month	Unfurnished	1	Bachelors	Rent
+212	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Builder Floor	Haridwar Central	Haridwar / Uttarakhand	Builder Floor / 2 BHK	878	₹59.89 L	Semi-Furnished	3	Bachelors	Sale
+213	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Builder Floor	Haldwani Central	Haldwani / Uttarakhand	Builder Floor / 2 BHK	1032	₹18,100/month	Semi-Furnished	2	Family	Rent
+214	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Apartment	Haridwar Heights	Haridwar / Uttarakhand	Apartment / 2 BHK	1020	₹48.48 L	Semi-Furnished	3	Bachelors	Sale
+215	Uttarakhand Properties (Uttarakhand.txt)	4 BHK Apartment	Dehradun North	Dehradun / Uttarakhand	Apartment / 4 BHK	1893	₹1.09 Cr	Semi-Furnished	4	Bachelors	Sale
+216	Uttarakhand Properties (Uttarakhand.txt)	1 BHK Builder Floor	Haridwar Colony	Haridwar / Uttarakhand	Builder Floor / 1 BHK	635	₹30.43 L	Unfurnished	1	Family	Sale
+217	Uttarakhand Properties (Uttarakhand.txt)	4 BHK Apartment	Haldwani Heights	Haldwani / Uttarakhand	Apartment / 4 BHK	1350	₹95.81 L	Semi-Furnished	4	Family	Sale
+218	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Apartment	Rishikesh Main Road	Rishikesh / Uttarakhand	Apartment / 3 BHK	1048	₹64.92 L	Semi-Furnished	3	Family	Sale
+219	Uttarakhand Properties (Uttarakhand.txt)	1 BHK Apartment	Haridwar South	Haridwar / Uttarakhand	Apartment / 1 BHK	557	₹31.41 L	Unfurnished	1	Family	Sale
+220	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Apartment	Haridwar Central	Haridwar / Uttarakhand	Apartment / 3 BHK	1038	₹69.18 L	Semi-Furnished	3	Any	Sale
+221	Uttarakhand Properties (Uttarakhand.txt)	5 BHK Independent House	Haldwani Central	Haldwani / Uttarakhand	Independent House / 5 BHK	3036	₹1.02 Cr	Unfurnished	6	Family	Sale
+222	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Independent House	Haldwani East	Haldwani / Uttarakhand	Independent House / 2 BHK	1015	₹44.01 L	Semi-Furnished	2	Family	Sale
+223	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Apartment	Haridwar Residential Area	Haridwar / Uttarakhand	Apartment / 2 BHK	905	₹12,100/month	Semi-Furnished	1	Any	Rent
+224	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Apartment	Rishikesh Sector 1	Rishikesh / Uttarakhand	Apartment / 3 BHK	1315	₹65.62 L	Fully-Furnished	2	Bachelors	Sale
+225	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Builder Floor	Dehradun Sector 3	Dehradun / Uttarakhand	Builder Floor / 3 BHK	1271	₹17,100/month	Fully-Furnished	3	Family	Rent
+226	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Independent House	Haridwar North	Haridwar / Uttarakhand	Independent House / 2 BHK	1193	₹67.24 L	Semi-Furnished	2	Family	Sale
+227	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Villa	Haridwar Residential Area	Haridwar / Uttarakhand	Villa / 2 BHK	1122	₹13,900/month	Unfurnished	1	Family	Rent
+228	Uttarakhand Properties (Uttarakhand.txt)	1 BHK Apartment	Dehradun Heights	Dehradun / Uttarakhand	Apartment / 1 BHK	571	₹7,800/month	Unfurnished	1	Family	Rent
+229	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Apartment	Dehradun Heights	Dehradun / Uttarakhand	Apartment / 3 BHK	1368	₹66.94 L	Semi-Furnished	4	Family	Sale
+230	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Apartment	Rishikesh West	Rishikesh / Uttarakhand	Apartment / 2 BHK	777	₹11,600/month	Semi-Furnished	1	Family	Rent
+231	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Apartment	Haldwani Sector 2	Haldwani / Uttarakhand	Apartment / 3 BHK	1472	₹22,800/month	Unfurnished	3	Bachelors	Rent
+232	Uttarakhand Properties (Uttarakhand.txt)	1 BHK Independent House	Dehradun Colony	Dehradun / Uttarakhand	Independent House / 1 BHK	636	₹30.11 L	Unfurnished	1	Family	Sale
+233	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Builder Floor	Rishikesh Colony	Rishikesh / Uttarakhand	Builder Floor / 3 BHK	1170	₹62.16 L	Fully-Furnished	3	Any	Sale
+234	Uttarakhand Properties (Uttarakhand.txt)	1 BHK Studio	Dehradun Town Centre	Dehradun / Uttarakhand	Studio / 1 BHK	300	₹35 L	Semi-Furnished	1	Bachelors	Sale
+235	Uttarakhand Properties (Uttarakhand.txt)	1 BHK Studio	Dehradun Colony	Dehradun / Uttarakhand	Studio / 1 BHK	360	₹35.15 L	Fully-Furnished	2	Bachelors	Sale
+236	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Apartment	Dehradun Sector 3	Dehradun / Uttarakhand	Apartment / 2 BHK	878	₹52.74 L	Semi-Furnished	3	Any	Sale
+237	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Independent House	Rishikesh North	Rishikesh / Uttarakhand	Independent House / 3 BHK	1354	₹21,200/month	Unfurnished	3	Bachelors	Rent
+238	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Apartment	Rishikesh East	Rishikesh / Uttarakhand	Apartment / 2 BHK	1015	₹48.71 L	Semi-Furnished	2	Family	Sale
+239	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Apartment	Haldwani Town Centre	Haldwani / Uttarakhand	Apartment / 2 BHK	953	₹48.68 L	Semi-Furnished	2	Bachelors	Sale
+240	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Apartment	Haridwar Central	Haridwar / Uttarakhand	Apartment / 2 BHK	813	₹60.89 L	Semi-Furnished	1	Family	Sale
+241	Uttarakhand Properties (Uttarakhand.txt)	4 BHK Apartment	Dehradun Heights	Dehradun / Uttarakhand	Apartment / 4 BHK	2021	₹99.44 L	Semi-Furnished	4	Family	Sale
+242	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Apartment	Rishikesh Town Centre	Rishikesh / Uttarakhand	Apartment / 3 BHK	963	₹61.22 L	Semi-Furnished	3	Family	Sale
+243	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Apartment	Rishikesh Heights	Rishikesh / Uttarakhand	Apartment / 2 BHK	867	₹48.90 L	Fully-Furnished	2	Bachelors	Sale
+244	Uttarakhand Properties (Uttarakhand.txt)	4 BHK Apartment	Haldwani Extension	Haldwani / Uttarakhand	Apartment / 4 BHK	1759	₹93.55 L	Semi-Furnished	5	Family	Sale
+245	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Builder Floor	Haridwar Sector 2	Haridwar / Uttarakhand	Builder Floor / 3 BHK	1633	₹79.92 L	Semi-Furnished	4	Any	Sale
+246	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Independent House	Dehradun Town Centre	Dehradun / Uttarakhand	Independent House / 3 BHK	1214	₹20,900/month	Semi-Furnished	3	Bachelors	Rent
+247	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Villa	Haldwani Heights	Haldwani / Uttarakhand	Villa / 2 BHK	1212	₹56.22 L	Unfurnished	1	Family	Sale
+248	Uttarakhand Properties (Uttarakhand.txt)	4 BHK Apartment	Haldwani South	Haldwani / Uttarakhand	Apartment / 4 BHK	1974	₹30,900/month	Unfurnished	4	Bachelors	Rent
+249	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Apartment	Haldwani Central	Haldwani / Uttarakhand	Apartment / 2 BHK	922	₹48.18 L	Semi-Furnished	2	Family	Sale
+250	Uttarakhand Properties (Uttarakhand.txt)	1 BHK Apartment	Rishikesh Sector 1	Rishikesh / Uttarakhand	Apartment / 1 BHK	619	₹29.13 L	Fully-Furnished	1	Any	Sale
+251	Uttarakhand Properties (Uttarakhand.txt)	1 BHK Studio	Rishikesh Sector 1	Rishikesh / Uttarakhand	Studio / 1 BHK	385	₹33.32 L	Semi-Furnished	2	Bachelors	Sale
+252	Uttarakhand Properties (Uttarakhand.txt)	4 BHK Apartment	Haridwar West	Haridwar / Uttarakhand	Apartment / 4 BHK	1686	₹90.30 L	Semi-Furnished	5	Family	Sale
+253	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Apartment	Haridwar Sector 2	Haridwar / Uttarakhand	Apartment / 2 BHK	988	₹56.18 L	Unfurnished	2	Bachelors	Sale
+254	Uttarakhand Properties (Uttarakhand.txt)	4 BHK Builder Floor	Haldwani West	Haldwani / Uttarakhand	Builder Floor / 4 BHK	1858	₹88.04 L	Semi-Furnished	4	Family	Sale
+255	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Apartment	Haldwani Residential Area	Haldwani / Uttarakhand	Apartment / 3 BHK	1184	₹22,000/month	Fully-Furnished	3	Any	Rent
+256	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Apartment	Rishikesh Residential Area	Rishikesh / Uttarakhand	Apartment / 2 BHK	778	₹46.29 L	Unfurnished	2	Bachelors	Sale
+257	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Builder Floor	Haldwani Nagar	Haldwani / Uttarakhand	Builder Floor / 3 BHK	1346	₹60.72 L	Semi-Furnished	3	Family	Sale
+258	Uttarakhand Properties (Uttarakhand.txt)	4 BHK Builder Floor	Haldwani Sector 1	Haldwani / Uttarakhand	Builder Floor / 4 BHK	2196	₹1.16 Cr	Unfurnished	5	Any	Sale
+259	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Builder Floor	Rishikesh Heights	Rishikesh / Uttarakhand	Builder Floor / 2 BHK	827	₹51.51 L	Semi-Furnished	2	Any	Sale
+260	Uttarakhand Properties (Uttarakhand.txt)	1 BHK Villa	Haridwar Sector 2	Haridwar / Uttarakhand	Villa / 1 BHK	558	₹38.62 L	Semi-Furnished	1	Family	Sale
+261	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Villa	Haldwani West	Haldwani / Uttarakhand	Villa / 3 BHK	1238	₹20,800/month	Semi-Furnished	3	Family	Rent
+262	Uttarakhand Properties (Uttarakhand.txt)	1 BHK Studio	Dehradun West	Dehradun / Uttarakhand	Studio / 1 BHK	418	₹8,800/month	Semi-Furnished	1	Family	Rent
+263	Uttarakhand Properties (Uttarakhand.txt)	4 BHK Apartment	Dehradun Sector 1	Dehradun / Uttarakhand	Apartment / 4 BHK	2284	₹1.16 Cr	Semi-Furnished	4	Bachelors	Sale
+264	Uttarakhand Properties (Uttarakhand.txt)	4 BHK Apartment	Dehradun Sector 2	Dehradun / Uttarakhand	Apartment / 4 BHK	1619	₹26,400/month	Unfurnished	4	Family	Rent
+265	Uttarakhand Properties (Uttarakhand.txt)	1 BHK Apartment	Haridwar South	Haridwar / Uttarakhand	Apartment / 1 BHK	551	₹8,200/month	Semi-Furnished	1	Bachelors	Rent
+266	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Apartment	Haldwani Extension	Haldwani / Uttarakhand	Apartment / 3 BHK	1087	₹74.54 L	Unfurnished	2	Family	Sale
+267	Uttarakhand Properties (Uttarakhand.txt)	1 BHK Apartment	Dehradun Main Road	Dehradun / Uttarakhand	Apartment / 1 BHK	481	₹34.44 L	Semi-Furnished	1	Any	Sale
+268	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Apartment	Haridwar Main Road	Haridwar / Uttarakhand	Apartment / 3 BHK	1235	₹79.49 L	Unfurnished	3	Bachelors	Sale
+269	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Apartment	Haldwani North	Haldwani / Uttarakhand	Apartment / 3 BHK	1224	₹73.53 L	Semi-Furnished	3	Family	Sale
+270	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Apartment	Rishikesh Heights	Rishikesh / Uttarakhand	Apartment / 3 BHK	1113	₹59.98 L	Fully-Furnished	4	Bachelors	Sale
+271	Uttarakhand Properties (Uttarakhand.txt)	1 BHK Villa	Dehradun Sector 2	Dehradun / Uttarakhand	Villa / 1 BHK	818	₹37.20 L	Semi-Furnished	2	Family	Sale
+272	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Villa	Rishikesh Colony	Rishikesh / Uttarakhand	Villa / 3 BHK	1909	₹70.24 L	Unfurnished	2	Bachelors	Sale
+273	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Apartment	Rishikesh Sector 2	Rishikesh / Uttarakhand	Apartment / 3 BHK	1334	₹63.44 L	Semi-Furnished	3	Any	Sale
+274	Uttarakhand Properties (Uttarakhand.txt)	1 BHK Apartment	Haldwani West	Haldwani / Uttarakhand	Apartment / 1 BHK	539	₹28.16 L	Unfurnished	1	Family	Sale
+275	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Apartment	Dehradun East	Dehradun / Uttarakhand	Apartment / 3 BHK	1225	₹19,000/month	Fully-Furnished	3	Family	Rent
+276	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Villa	Haridwar Sector 3	Haridwar / Uttarakhand	Villa / 3 BHK	1778	₹69.77 L	Unfurnished	3	Bachelors	Sale
+277	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Builder Floor	Rishikesh Nagar	Rishikesh / Uttarakhand	Builder Floor / 3 BHK	1154	₹16,200/month	Unfurnished	2	Any	Rent
+278	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Apartment	Haldwani Main Road	Haldwani / Uttarakhand	Apartment / 3 BHK	1352	₹20,500/month	Unfurnished	3	Bachelors	Rent
+279	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Apartment	Rishikesh South	Rishikesh / Uttarakhand	Apartment / 3 BHK	1552	₹23,600/month	Fully-Furnished	4	Family	Rent
+280	Uttarakhand Properties (Uttarakhand.txt)	1 BHK Apartment	Rishikesh Extension	Rishikesh / Uttarakhand	Apartment / 1 BHK	534	₹10,800/month	Semi-Furnished	1	Any	Rent
+281	Uttarakhand Properties (Uttarakhand.txt)	4 BHK Independent House	Haldwani Heights	Haldwani / Uttarakhand	Independent House / 4 BHK	2101	₹94.33 L	Semi-Furnished	4	Family	Sale
+282	Uttarakhand Properties (Uttarakhand.txt)	1 BHK Builder Floor	Haldwani North	Haldwani / Uttarakhand	Builder Floor / 1 BHK	624	₹30.03 L	Semi-Furnished	1	Family	Sale
+283	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Apartment	Dehradun Town Centre	Dehradun / Uttarakhand	Apartment / 3 BHK	1547	₹67.04 L	Fully-Furnished	2	Bachelors	Sale
+284	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Apartment	Haldwani North	Haldwani / Uttarakhand	Apartment / 2 BHK	952	₹63.70 L	Semi-Furnished	3	Family	Sale
+285	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Apartment	Haldwani Main Road	Haldwani / Uttarakhand	Apartment / 2 BHK	657	₹15,400/month	Semi-Furnished	3	Bachelors	Rent
+286	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Independent House	Haldwani Main Road	Haldwani / Uttarakhand	Independent House / 2 BHK	1105	₹52.58 L	Fully-Furnished	3	Family	Sale
+287	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Independent House	Rishikesh Main Road	Rishikesh / Uttarakhand	Independent House / 2 BHK	1083	₹65.20 L	Semi-Furnished	3	Bachelors	Sale
+288	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Builder Floor	Haridwar East	Haridwar / Uttarakhand	Builder Floor / 2 BHK	965	₹16,200/month	Semi-Furnished	3	Bachelors	Rent
+289	Uttarakhand Properties (Uttarakhand.txt)	1 BHK Apartment	Rishikesh Sector 1	Rishikesh / Uttarakhand	Apartment / 1 BHK	490	₹31.18 L	Unfurnished	2	Any	Sale
+290	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Independent House	Haldwani Main Road	Haldwani / Uttarakhand	Independent House / 2 BHK	1060	₹54.24 L	Fully-Furnished	2	Any	Sale
+291	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Apartment	Dehradun Residential Area	Dehradun / Uttarakhand	Apartment / 3 BHK	1174	₹63.16 L	Semi-Furnished	3	Any	Sale
+292	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Apartment	Haridwar Nagar	Haridwar / Uttarakhand	Apartment / 2 BHK	819	₹41.86 L	Semi-Furnished	1	Any	Sale
+293	Uttarakhand Properties (Uttarakhand.txt)	1 BHK Apartment	Rishikesh Sector 3	Rishikesh / Uttarakhand	Apartment / 1 BHK	551	₹9,700/month	Unfurnished	2	Bachelors	Rent
+294	Uttarakhand Properties (Uttarakhand.txt)	4 BHK Independent House	Haridwar Town Centre	Haridwar / Uttarakhand	Independent House / 4 BHK	1951	₹28,800/month	Semi-Furnished	4	Family	Rent
+295	Uttarakhand Properties (Uttarakhand.txt)	1 BHK Studio	Rishikesh Main Road	Rishikesh / Uttarakhand	Studio / 1 BHK	413	₹36.07 L	Semi-Furnished	1	Any	Sale
+296	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Apartment	Rishikesh Town Centre	Rishikesh / Uttarakhand	Apartment / 2 BHK	815	₹43.31 L	Semi-Furnished	3	Family	Sale
+297	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Apartment	Dehradun Sector 3	Dehradun / Uttarakhand	Apartment / 2 BHK	802	₹59.36 L	Semi-Furnished	1	Bachelors	Sale
+298	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Villa	Haldwani Sector 1	Haldwani / Uttarakhand	Villa / 3 BHK	2006	₹86.13 L	Fully-Furnished	3	Bachelors	Sale
+299	Uttarakhand Properties (Uttarakhand.txt)	5 BHK Apartment	Haldwani Sector 3	Haldwani / Uttarakhand	Apartment / 5 BHK	2474	₹36,700/month	Unfurnished	5	Bachelors	Rent
+300	Uttarakhand Properties (Uttarakhand.txt)	4 BHK Apartment	Dehradun Central	Dehradun / Uttarakhand	Apartment / 4 BHK	1839	₹29,000/month	Semi-Furnished	3	Any	Rent
+301	Uttarakhand Properties (Uttarakhand.txt)	1 BHK Apartment	Haldwani Heights	Haldwani / Uttarakhand	Apartment / 1 BHK	477	₹10,200/month	Semi-Furnished	1	Bachelors	Rent
+302	Uttarakhand Properties (Uttarakhand.txt)	1 BHK Studio	Haldwani East	Haldwani / Uttarakhand	Studio / 1 BHK	307	₹30.61 L	Fully-Furnished	1	Any	Sale
+303	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Apartment	Dehradun Heights	Dehradun / Uttarakhand	Apartment / 2 BHK	851	₹43.60 L	Unfurnished	2	Family	Sale
+304	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Apartment	Haldwani East	Haldwani / Uttarakhand	Apartment / 3 BHK	1203	₹58.68 L	Unfurnished	4	Family	Sale
+305	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Apartment	Dehradun Nagar	Dehradun / Uttarakhand	Apartment / 2 BHK	830	₹58.63 L	Fully-Furnished	2	Any	Sale
+306	Uttarakhand Properties (Uttarakhand.txt)	1 BHK Independent House	Haldwani Heights	Haldwani / Uttarakhand	Independent House / 1 BHK	678	₹10,300/month	Semi-Furnished	1	Family	Rent
+307	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Apartment	Haldwani Heights	Haldwani / Uttarakhand	Apartment / 2 BHK	962	₹62.79 L	Fully-Furnished	2	Family	Sale
+308	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Apartment	Haridwar North	Haridwar / Uttarakhand	Apartment / 3 BHK	1022	₹18,600/month	Fully-Furnished	3	Any	Rent
+309	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Independent House	Haridwar East	Haridwar / Uttarakhand	Independent House / 2 BHK	1069	₹49.30 L	Unfurnished	2	Family	Sale
+310	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Builder Floor	Haridwar Nagar	Haridwar / Uttarakhand	Builder Floor / 2 BHK	784	₹58.92 L	Semi-Furnished	3	Family	Sale
+311	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Apartment	Dehradun Central	Dehradun / Uttarakhand	Apartment / 2 BHK	777	₹55.85 L	Semi-Furnished	2	Family	Sale
+312	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Apartment	Haldwani Colony	Haldwani / Uttarakhand	Apartment / 2 BHK	926	₹56.03 L	Fully-Furnished	1	Bachelors	Sale
+313	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Apartment	Dehradun Residential Area	Dehradun / Uttarakhand	Apartment / 2 BHK	746	₹54.63 L	Semi-Furnished	1	Family	Sale
+314	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Independent House	Rishikesh Colony	Rishikesh / Uttarakhand	Independent House / 3 BHK	1198	₹21,100/month	Unfurnished	3	Family	Rent
+315	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Apartment	Dehradun Sector 3	Dehradun / Uttarakhand	Apartment / 2 BHK	644	₹52.22 L	Unfurnished	1	Any	Sale
+316	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Builder Floor	Haridwar Sector 1	Haridwar / Uttarakhand	Builder Floor / 3 BHK	1405	₹18,100/month	Semi-Furnished	3	Bachelors	Rent
+317	Uttarakhand Properties (Uttarakhand.txt)	1 BHK Apartment	Haridwar Nagar	Haridwar / Uttarakhand	Apartment / 1 BHK	399	₹8,100/month	Fully-Furnished	1	Any	Rent
+318	Uttarakhand Properties (Uttarakhand.txt)	5 BHK Apartment	Haridwar Town Centre	Haridwar / Uttarakhand	Apartment / 5 BHK	2441	₹33,000/month	Unfurnished	6	Family	Rent
+319	Uttarakhand Properties (Uttarakhand.txt)	4 BHK Apartment	Rishikesh Town Centre	Rishikesh / Uttarakhand	Apartment / 4 BHK	1891	₹92.74 L	Unfurnished	5	Bachelors	Sale
+320	Uttarakhand Properties (Uttarakhand.txt)	1 BHK Apartment	Dehradun Colony	Dehradun / Uttarakhand	Apartment / 1 BHK	475	₹34.44 L	Fully-Furnished	1	Family	Sale
+321	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Independent House	Dehradun North	Dehradun / Uttarakhand	Independent House / 2 BHK	1113	₹17,400/month	Semi-Furnished	2	Family	Rent
+322	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Apartment	Rishikesh East	Rishikesh / Uttarakhand	Apartment / 3 BHK	1510	₹79.03 L	Semi-Furnished	3	Any	Sale
+323	Uttarakhand Properties (Uttarakhand.txt)	4 BHK Apartment	Dehradun North	Dehradun / Uttarakhand	Apartment / 4 BHK	1645	₹86.64 L	Fully-Furnished	3	Bachelors	Sale
+324	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Apartment	Dehradun Central	Dehradun / Uttarakhand	Apartment / 3 BHK	1153	₹18,400/month	Semi-Furnished	3	Any	Rent
+325	Uttarakhand Properties (Uttarakhand.txt)	4 BHK Apartment	Haridwar Residential Area	Haridwar / Uttarakhand	Apartment / 4 BHK	1853	₹1.09 Cr	Semi-Furnished	3	Bachelors	Sale
+326	Uttarakhand Properties (Uttarakhand.txt)	4 BHK Independent House	Rishikesh North	Rishikesh / Uttarakhand	Independent House / 4 BHK	2285	₹85.16 L	Fully-Furnished	4	Family	Sale
+327	Uttarakhand Properties (Uttarakhand.txt)	5 BHK Apartment	Haldwani East	Haldwani / Uttarakhand	Apartment / 5 BHK	2421	₹25,800/month	Semi-Furnished	4	Bachelors	Rent
+328	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Apartment	Haridwar East	Haridwar / Uttarakhand	Apartment / 2 BHK	993	₹15,100/month	Semi-Furnished	2	Any	Rent
+329	Uttarakhand Properties (Uttarakhand.txt)	4 BHK Apartment	Haldwani Central	Haldwani / Uttarakhand	Apartment / 4 BHK	1716	₹81.75 L	Semi-Furnished	5	Any	Sale
+330	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Apartment	Haridwar Sector 1	Haridwar / Uttarakhand	Apartment / 3 BHK	1003	₹69.84 L	Semi-Furnished	3	Family	Sale
+331	Uttarakhand Properties (Uttarakhand.txt)	1 BHK Studio	Rishikesh West	Rishikesh / Uttarakhand	Studio / 1 BHK	335	₹7,400/month	Semi-Furnished	2	Bachelors	Rent
+332	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Independent House	Dehradun Sector 2	Dehradun / Uttarakhand	Independent House / 2 BHK	962	₹54.16 L	Semi-Furnished	2	Family	Sale
+333	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Apartment	Haridwar North	Haridwar / Uttarakhand	Apartment / 3 BHK	1183	₹84.72 L	Fully-Furnished	2	Any	Sale
+334	Uttarakhand Properties (Uttarakhand.txt)	1 BHK Apartment	Dehradun Main Road	Dehradun / Uttarakhand	Apartment / 1 BHK	416	₹25.84 L	Fully-Furnished	2	Family	Sale
+335	Uttarakhand Properties (Uttarakhand.txt)	5 BHK Apartment	Haridwar Sector 1	Haridwar / Uttarakhand	Apartment / 5 BHK	1813	₹1.12 Cr	Semi-Furnished	6	Bachelors	Sale
+336	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Apartment	Dehradun Heights	Dehradun / Uttarakhand	Apartment / 3 BHK	1133	₹20,900/month	Fully-Furnished	3	Family	Rent
+337	Uttarakhand Properties (Uttarakhand.txt)	1 BHK Apartment	Dehradun Residential Area	Dehradun / Uttarakhand	Apartment / 1 BHK	660	₹31.24 L	Fully-Furnished	1	Family	Sale
+338	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Apartment	Dehradun Colony	Dehradun / Uttarakhand	Apartment / 2 BHK	827	₹44.85 L	Semi-Furnished	2	Any	Sale
+339	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Apartment	Rishikesh Residential Area	Rishikesh / Uttarakhand	Apartment / 3 BHK	1024	₹81.40 L	Semi-Furnished	3	Bachelors	Sale
+340	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Apartment	Rishikesh Colony	Rishikesh / Uttarakhand	Apartment / 2 BHK	702	₹57.40 L	Unfurnished	3	Family	Sale
+341	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Apartment	Rishikesh Sector 1	Rishikesh / Uttarakhand	Apartment / 3 BHK	971	₹81.03 L	Semi-Furnished	3	Family	Sale
+342	Uttarakhand Properties (Uttarakhand.txt)	4 BHK Apartment	Dehradun East	Dehradun / Uttarakhand	Apartment / 4 BHK	1652	₹21,500/month	Fully-Furnished	5	Any	Rent
+343	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Apartment	Dehradun Colony	Dehradun / Uttarakhand	Apartment / 2 BHK	1029	₹56.65 L	Semi-Furnished	3	Family	Sale
+344	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Villa	Haldwani Extension	Haldwani / Uttarakhand	Villa / 3 BHK	1720	₹25,500/month	Semi-Furnished	3	Family	Rent
+345	Uttarakhand Properties (Uttarakhand.txt)	4 BHK Builder Floor	Dehradun Colony	Dehradun / Uttarakhand	Builder Floor / 4 BHK	2111	₹28,800/month	Semi-Furnished	5	Any	Rent
+346	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Apartment	Haridwar Central	Haridwar / Uttarakhand	Apartment / 2 BHK	715	₹43.46 L	Fully-Furnished	2	Bachelors	Sale
+347	Uttarakhand Properties (Uttarakhand.txt)	4 BHK Apartment	Dehradun Town Centre	Dehradun / Uttarakhand	Apartment / 4 BHK	1727	₹23,700/month	Unfurnished	3	Bachelors	Rent
+348	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Apartment	Rishikesh West	Rishikesh / Uttarakhand	Apartment / 3 BHK	1324	₹76.03 L	Fully-Furnished	2	Bachelors	Sale
+349	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Apartment	Rishikesh Nagar	Rishikesh / Uttarakhand	Apartment / 3 BHK	1062	₹18,500/month	Fully-Furnished	3	Bachelors	Rent
+350	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Builder Floor	Dehradun Sector 2	Dehradun / Uttarakhand	Builder Floor / 2 BHK	1201	₹55.06 L	Unfurnished	1	Family	Sale
+351	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Villa	Haldwani Nagar	Haldwani / Uttarakhand	Villa / 3 BHK	1847	₹81.07 L	Semi-Furnished	4	Family	Sale
+352	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Apartment	Haldwani Extension	Haldwani / Uttarakhand	Apartment / 3 BHK	1173	₹71.54 L	Unfurnished	4	Any	Sale
+353	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Apartment	Haridwar Residential Area	Haridwar / Uttarakhand	Apartment / 3 BHK	1193	₹66.44 L	Unfurnished	4	Any	Sale
+354	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Apartment	Dehradun Heights	Dehradun / Uttarakhand	Apartment / 3 BHK	1361	₹81.90 L	Fully-Furnished	3	Family	Sale
+355	Uttarakhand Properties (Uttarakhand.txt)	4 BHK Apartment	Haridwar Main Road	Haridwar / Uttarakhand	Apartment / 4 BHK	2023	₹1.12 Cr	Fully-Furnished	4	Bachelors	Sale
+356	Uttarakhand Properties (Uttarakhand.txt)	4 BHK Apartment	Haridwar Sector 1	Haridwar / Uttarakhand	Apartment / 4 BHK	1525	₹1.05 Cr	Fully-Furnished	4	Family	Sale
+357	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Apartment	Dehradun Extension	Dehradun / Uttarakhand	Apartment / 2 BHK	712	₹14,900/month	Fully-Furnished	2	Bachelors	Rent
+358	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Builder Floor	Rishikesh Colony	Rishikesh / Uttarakhand	Builder Floor / 2 BHK	773	₹15,500/month	Semi-Furnished	3	Bachelors	Rent
+359	Uttarakhand Properties (Uttarakhand.txt)	1 BHK Studio	Dehradun North	Dehradun / Uttarakhand	Studio / 1 BHK	422	₹9,100/month	Semi-Furnished	2	Family	Rent
+360	Uttarakhand Properties (Uttarakhand.txt)	1 BHK Studio	Rishikesh Heights	Rishikesh / Uttarakhand	Studio / 1 BHK	342	₹34.85 L	Unfurnished	2	Bachelors	Sale
+361	Uttarakhand Properties (Uttarakhand.txt)	1 BHK Apartment	Haridwar Town Centre	Haridwar / Uttarakhand	Apartment / 1 BHK	411	₹27.01 L	Semi-Furnished	2	Bachelors	Sale
+362	Uttarakhand Properties (Uttarakhand.txt)	4 BHK Apartment	Haridwar East	Haridwar / Uttarakhand	Apartment / 4 BHK	1879	₹1.09 Cr	Semi-Furnished	4	Family	Sale
+363	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Apartment	Rishikesh Sector 1	Rishikesh / Uttarakhand	Apartment / 2 BHK	655	₹12,600/month	Semi-Furnished	3	Any	Rent
+364	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Villa	Dehradun South	Dehradun / Uttarakhand	Villa / 2 BHK	1146	₹16,500/month	Unfurnished	3	Family	Rent
+365	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Apartment	Haridwar Sector 3	Haridwar / Uttarakhand	Apartment / 3 BHK	1331	₹72.79 L	Semi-Furnished	3	Bachelors	Sale
+366	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Villa	Dehradun East	Dehradun / Uttarakhand	Villa / 2 BHK	951	₹56.96 L	Unfurnished	2	Family	Sale
+367	Uttarakhand Properties (Uttarakhand.txt)	4 BHK Independent House	Rishikesh Residential Area	Rishikesh / Uttarakhand	Independent House / 4 BHK	2375	₹1.08 Cr	Semi-Furnished	4	Bachelors	Sale
+368	Uttarakhand Properties (Uttarakhand.txt)	1 BHK Independent House	Dehradun Sector 1	Dehradun / Uttarakhand	Independent House / 1 BHK	621	₹8,600/month	Semi-Furnished	1	Any	Rent
+369	Uttarakhand Properties (Uttarakhand.txt)	5 BHK Independent House	Rishikesh Heights	Rishikesh / Uttarakhand	Independent House / 5 BHK	2827	₹1.19 Cr	Unfurnished	6	Bachelors	Sale
+370	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Apartment	Haldwani West	Haldwani / Uttarakhand	Apartment / 3 BHK	1444	₹18,200/month	Fully-Furnished	3	Any	Rent
+371	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Apartment	Dehradun Residential Area	Dehradun / Uttarakhand	Apartment / 2 BHK	944	₹62.63 L	Semi-Furnished	2	Any	Sale
+372	Uttarakhand Properties (Uttarakhand.txt)	1 BHK Builder Floor	Dehradun Colony	Dehradun / Uttarakhand	Builder Floor / 1 BHK	578	₹11,500/month	Unfurnished	1	Any	Rent
+373	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Apartment	Rishikesh Sector 2	Rishikesh / Uttarakhand	Apartment / 3 BHK	1058	₹16,100/month	Unfurnished	2	Family	Rent
+374	Uttarakhand Properties (Uttarakhand.txt)	4 BHK Villa	Haldwani Main Road	Haldwani / Uttarakhand	Villa / 4 BHK	2186	₹1.18 Cr	Semi-Furnished	5	Any	Sale
+375	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Independent House	Dehradun Sector 1	Dehradun / Uttarakhand	Independent House / 2 BHK	1064	₹46.86 L	Semi-Furnished	2	Any	Sale
+376	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Villa	Haridwar Sector 2	Haridwar / Uttarakhand	Villa / 2 BHK	1056	₹52.17 L	Semi-Furnished	3	Bachelors	Sale
+377	Uttarakhand Properties (Uttarakhand.txt)	1 BHK Independent House	Haridwar Residential Area	Haridwar / Uttarakhand	Independent House / 1 BHK	642	₹8,500/month	Semi-Furnished	1	Bachelors	Rent
+378	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Builder Floor	Haldwani Main Road	Haldwani / Uttarakhand	Builder Floor / 3 BHK	1343	₹20,400/month	Semi-Furnished	2	Any	Rent
+379	Uttarakhand Properties (Uttarakhand.txt)	1 BHK Apartment	Haldwani Sector 2	Haldwani / Uttarakhand	Apartment / 1 BHK	588	₹11,500/month	Semi-Furnished	2	Any	Rent
+380	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Apartment	Haldwani East	Haldwani / Uttarakhand	Apartment / 2 BHK	657	₹42.51 L	Semi-Furnished	2	Bachelors	Sale
+381	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Builder Floor	Rishikesh Sector 3	Rishikesh / Uttarakhand	Builder Floor / 2 BHK	837	₹54.77 L	Semi-Furnished	2	Bachelors	Sale
+382	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Builder Floor	Dehradun West	Dehradun / Uttarakhand	Builder Floor / 3 BHK	1126	₹82.15 L	Semi-Furnished	3	Bachelors	Sale
+383	Uttarakhand Properties (Uttarakhand.txt)	4 BHK Apartment	Dehradun Extension	Dehradun / Uttarakhand	Apartment / 4 BHK	1880	₹24,600/month	Semi-Furnished	4	Any	Rent
+384	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Apartment	Haldwani Colony	Haldwani / Uttarakhand	Apartment / 2 BHK	896	₹59.86 L	Fully-Furnished	2	Any	Sale
+385	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Apartment	Haldwani East	Haldwani / Uttarakhand	Apartment / 2 BHK	1033	₹16,000/month	Semi-Furnished	2	Any	Rent
+386	Uttarakhand Properties (Uttarakhand.txt)	4 BHK Builder Floor	Rishikesh Colony	Rishikesh / Uttarakhand	Builder Floor / 4 BHK	1832	₹1.09 Cr	Semi-Furnished	3	Bachelors	Sale
+387	Uttarakhand Properties (Uttarakhand.txt)	4 BHK Apartment	Haridwar Extension	Haridwar / Uttarakhand	Apartment / 4 BHK	1383	₹1.04 Cr	Unfurnished	4	Family	Sale
+388	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Builder Floor	Rishikesh North	Rishikesh / Uttarakhand	Builder Floor / 3 BHK	1729	₹78.10 L	Fully-Furnished	3	Family	Sale
+389	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Apartment	Dehradun Central	Dehradun / Uttarakhand	Apartment / 2 BHK	979	₹59.50 L	Fully-Furnished	3	Bachelors	Sale
+390	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Apartment	Haridwar South	Haridwar / Uttarakhand	Apartment / 3 BHK	1182	₹76.12 L	Semi-Furnished	3	Family	Sale
+391	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Independent House	Haldwani Sector 3	Haldwani / Uttarakhand	Independent House / 2 BHK	1148	₹17,400/month	Unfurnished	2	Family	Rent
+392	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Builder Floor	Haridwar Sector 2	Haridwar / Uttarakhand	Builder Floor / 2 BHK	1000	₹57.62 L	Fully-Furnished	3	Bachelors	Sale
+393	Uttarakhand Properties (Uttarakhand.txt)	1 BHK Apartment	Rishikesh West	Rishikesh / Uttarakhand	Apartment / 1 BHK	544	₹31.51 L	Fully-Furnished	1	Any	Sale
+394	Uttarakhand Properties (Uttarakhand.txt)	4 BHK Villa	Rishikesh West	Rishikesh / Uttarakhand	Villa / 4 BHK	2375	₹23,100/month	Unfurnished	4	Family	Rent
+395	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Apartment	Haldwani Sector 2	Haldwani / Uttarakhand	Apartment / 3 BHK	1418	₹60.75 L	Fully-Furnished	3	Family	Sale
+396	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Apartment	Rishikesh North	Rishikesh / Uttarakhand	Apartment / 3 BHK	1075	₹20,700/month	Semi-Furnished	3	Bachelors	Rent
+397	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Builder Floor	Rishikesh Main Road	Rishikesh / Uttarakhand	Builder Floor / 2 BHK	1017	₹62.67 L	Semi-Furnished	2	Bachelors	Sale
+398	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Apartment	Haridwar Colony	Haridwar / Uttarakhand	Apartment / 2 BHK	703	₹45.18 L	Unfurnished	3	Family	Sale
+399	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Apartment	Rishikesh Sector 3	Rishikesh / Uttarakhand	Apartment / 3 BHK	1189	₹68.39 L	Fully-Furnished	3	Any	Sale
+400	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Apartment	Haldwani North	Haldwani / Uttarakhand	Apartment / 3 BHK	1210	₹15,700/month	Semi-Furnished	3	Family	Rent
+401	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Apartment	Haridwar Central	Haridwar / Uttarakhand	Apartment / 3 BHK	1076	₹83.08 L	Fully-Furnished	4	Family	Sale
+402	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Builder Floor	Haldwani Town Centre	Haldwani / Uttarakhand	Builder Floor / 3 BHK	1027	₹16,500/month	Semi-Furnished	3	Any	Rent
+403	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Apartment	Rishikesh Sector 2	Rishikesh / Uttarakhand	Apartment / 2 BHK	972	₹16,100/month	Semi-Furnished	1	Any	Rent
+404	Uttarakhand Properties (Uttarakhand.txt)	1 BHK Apartment	Haldwani East	Haldwani / Uttarakhand	Apartment / 1 BHK	583	₹10,900/month	Unfurnished	1	Bachelors	Rent
+405	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Builder Floor	Haridwar Residential Area	Haridwar / Uttarakhand	Builder Floor / 2 BHK	825	₹44.73 L	Semi-Furnished	2	Any	Sale
+406	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Builder Floor	Dehradun Central	Dehradun / Uttarakhand	Builder Floor / 2 BHK	706	₹14,300/month	Fully-Furnished	2	Family	Rent
+407	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Apartment	Rishikesh Main Road	Rishikesh / Uttarakhand	Apartment / 2 BHK	844	₹16,100/month	Unfurnished	2	Any	Rent
+408	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Independent House	Rishikesh North	Rishikesh / Uttarakhand	Independent House / 2 BHK	959	₹14,100/month	Semi-Furnished	2	Bachelors	Rent
+409	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Apartment	Haldwani Nagar	Haldwani / Uttarakhand	Apartment / 2 BHK	891	₹48.61 L	Semi-Furnished	2	Family	Sale
+410	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Builder Floor	Haridwar Sector 2	Haridwar / Uttarakhand	Builder Floor / 3 BHK	1560	₹17,700/month	Semi-Furnished	3	Family	Rent
+411	Uttarakhand Properties (Uttarakhand.txt)	5 BHK Apartment	Dehradun East	Dehradun / Uttarakhand	Apartment / 5 BHK	1924	₹25,300/month	Semi-Furnished	6	Bachelors	Rent
+412	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Apartment	Haldwani Main Road	Haldwani / Uttarakhand	Apartment / 2 BHK	1105	₹53.98 L	Unfurnished	2	Family	Sale
+413	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Apartment	Rishikesh Main Road	Rishikesh / Uttarakhand	Apartment / 2 BHK	749	₹59.71 L	Unfurnished	1	Family	Sale
+414	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Builder Floor	Rishikesh Central	Rishikesh / Uttarakhand	Builder Floor / 2 BHK	843	₹16,100/month	Fully-Furnished	2	Any	Rent
+415	Uttarakhand Properties (Uttarakhand.txt)	4 BHK Apartment	Rishikesh South	Rishikesh / Uttarakhand	Apartment / 4 BHK	1679	₹1.10 Cr	Semi-Furnished	4	Any	Sale
+416	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Apartment	Dehradun East	Dehradun / Uttarakhand	Apartment / 3 BHK	1201	₹58.91 L	Unfurnished	3	Any	Sale
+417	Uttarakhand Properties (Uttarakhand.txt)	4 BHK Independent House	Dehradun Main Road	Dehradun / Uttarakhand	Independent House / 4 BHK	2138	₹31,500/month	Fully-Furnished	3	Any	Rent
+418	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Builder Floor	Rishikesh Sector 1	Rishikesh / Uttarakhand	Builder Floor / 3 BHK	1265	₹23,100/month	Semi-Furnished	2	Bachelors	Rent
+419	Uttarakhand Properties (Uttarakhand.txt)	4 BHK Builder Floor	Rishikesh Nagar	Rishikesh / Uttarakhand	Builder Floor / 4 BHK	1973	₹86.25 L	Semi-Furnished	5	Any	Sale
+420	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Apartment	Haldwani Nagar	Haldwani / Uttarakhand	Apartment / 2 BHK	810	₹11,400/month	Semi-Furnished	1	Any	Rent
+421	Uttarakhand Properties (Uttarakhand.txt)	1 BHK Apartment	Dehradun Central	Dehradun / Uttarakhand	Apartment / 1 BHK	404	₹36.11 L	Fully-Furnished	1	Family	Sale
+422	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Apartment	Haridwar Sector 3	Haridwar / Uttarakhand	Apartment / 2 BHK	818	₹13,600/month	Fully-Furnished	2	Family	Rent
+423	Uttarakhand Properties (Uttarakhand.txt)	4 BHK Builder Floor	Haridwar Town Centre	Haridwar / Uttarakhand	Builder Floor / 4 BHK	1809	₹1.02 Cr	Semi-Furnished	4	Bachelors	Sale
+424	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Builder Floor	Haldwani Nagar	Haldwani / Uttarakhand	Builder Floor / 2 BHK	930	₹50.10 L	Fully-Furnished	2	Family	Sale
+425	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Builder Floor	Dehradun South	Dehradun / Uttarakhand	Builder Floor / 2 BHK	866	₹62.52 L	Fully-Furnished	2	Family	Sale
+426	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Apartment	Haridwar Central	Haridwar / Uttarakhand	Apartment / 3 BHK	1451	₹17,000/month	Semi-Furnished	2	Any	Rent
+427	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Apartment	Dehradun North	Dehradun / Uttarakhand	Apartment / 2 BHK	759	₹45.52 L	Semi-Furnished	1	Any	Sale
+428	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Apartment	Dehradun Sector 2	Dehradun / Uttarakhand	Apartment / 2 BHK	761	₹60.67 L	Semi-Furnished	1	Family	Sale
+429	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Builder Floor	Dehradun Residential Area	Dehradun / Uttarakhand	Builder Floor / 2 BHK	1041	₹13,400/month	Semi-Furnished	3	Any	Rent
+430	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Apartment	Rishikesh Residential Area	Rishikesh / Uttarakhand	Apartment / 3 BHK	1451	₹77.33 L	Semi-Furnished	3	Family	Sale
+431	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Independent House	Rishikesh North	Rishikesh / Uttarakhand	Independent House / 3 BHK	1479	₹22,500/month	Fully-Furnished	2	Family	Rent
+432	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Builder Floor	Rishikesh Heights	Rishikesh / Uttarakhand	Builder Floor / 3 BHK	1190	₹78.52 L	Fully-Furnished	3	Bachelors	Sale
+433	Uttarakhand Properties (Uttarakhand.txt)	1 BHK Studio	Haridwar Heights	Haridwar / Uttarakhand	Studio / 1 BHK	410	₹8,500/month	Semi-Furnished	2	Bachelors	Rent
+434	Uttarakhand Properties (Uttarakhand.txt)	5 BHK Apartment	Haridwar Nagar	Haridwar / Uttarakhand	Apartment / 5 BHK	2401	₹30,500/month	Fully-Furnished	4	Family	Rent
+435	Uttarakhand Properties (Uttarakhand.txt)	1 BHK Apartment	Dehradun Extension	Dehradun / Uttarakhand	Apartment / 1 BHK	555	₹9,100/month	Unfurnished	1	Family	Rent
+436	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Apartment	Haridwar Sector 2	Haridwar / Uttarakhand	Apartment / 2 BHK	865	₹13,800/month	Fully-Furnished	1	Family	Rent
+437	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Apartment	Rishikesh Sector 2	Rishikesh / Uttarakhand	Apartment / 2 BHK	963	₹48.22 L	Semi-Furnished	2	Family	Sale
+438	Uttarakhand Properties (Uttarakhand.txt)	1 BHK Independent House	Dehradun Sector 1	Dehradun / Uttarakhand	Independent House / 1 BHK	564	₹34.85 L	Fully-Furnished	1	Any	Sale
+439	Uttarakhand Properties (Uttarakhand.txt)	1 BHK Studio	Haridwar Extension	Haridwar / Uttarakhand	Studio / 1 BHK	353	₹24.95 L	Semi-Furnished	1	Family	Sale
+440	Uttarakhand Properties (Uttarakhand.txt)	4 BHK Villa	Dehradun Heights	Dehradun / Uttarakhand	Villa / 4 BHK	2049	₹22,100/month	Unfurnished	3	Bachelors	Rent
+441	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Apartment	Haldwani Sector 1	Haldwani / Uttarakhand	Apartment / 3 BHK	1188	₹19,800/month	Semi-Furnished	3	Family	Rent
+442	Uttarakhand Properties (Uttarakhand.txt)	1 BHK Apartment	Haridwar Colony	Haridwar / Uttarakhand	Apartment / 1 BHK	533	₹10,000/month	Semi-Furnished	1	Family	Rent
+443	Uttarakhand Properties (Uttarakhand.txt)	4 BHK Apartment	Rishikesh Central	Rishikesh / Uttarakhand	Apartment / 4 BHK	1574	₹22,900/month	Fully-Furnished	4	Any	Rent
+444	Uttarakhand Properties (Uttarakhand.txt)	1 BHK Villa	Rishikesh Colony	Rishikesh / Uttarakhand	Villa / 1 BHK	621	₹8,500/month	Semi-Furnished	1	Bachelors	Rent
+445	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Apartment	Rishikesh Central	Rishikesh / Uttarakhand	Apartment / 2 BHK	839	₹16,900/month	Fully-Furnished	1	Any	Rent
+446	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Apartment	Dehradun Town Centre	Dehradun / Uttarakhand	Apartment / 3 BHK	846	₹74.68 L	Semi-Furnished	3	Any	Sale
+447	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Builder Floor	Dehradun Sector 1	Dehradun / Uttarakhand	Builder Floor / 3 BHK	1223	₹75.37 L	Semi-Furnished	4	Any	Sale
+448	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Builder Floor	Haridwar Sector 2	Haridwar / Uttarakhand	Builder Floor / 3 BHK	1459	₹18,700/month	Fully-Furnished	3	Any	Rent
+449	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Builder Floor	Haridwar Main Road	Haridwar / Uttarakhand	Builder Floor / 3 BHK	1459	₹63.28 L	Unfurnished	3	Bachelors	Sale
+450	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Builder Floor	Dehradun South	Dehradun / Uttarakhand	Builder Floor / 3 BHK	1415	₹71.63 L	Unfurnished	3	Family	Sale
+451	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Apartment	Dehradun Sector 2	Dehradun / Uttarakhand	Apartment / 2 BHK	434	₹49.68 L	Unfurnished	2	Family	Sale
+452	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Villa	Dehradun Extension	Dehradun / Uttarakhand	Villa / 3 BHK	1580	₹20,600/month	Semi-Furnished	2	Bachelors	Rent
+453	Uttarakhand Properties (Uttarakhand.txt)	1 BHK Villa	Dehradun Central	Dehradun / Uttarakhand	Villa / 1 BHK	810	₹10,000/month	Semi-Furnished	1	Family	Rent
+454	Uttarakhand Properties (Uttarakhand.txt)	1 BHK Apartment	Haridwar North	Haridwar / Uttarakhand	Apartment / 1 BHK	538	₹10,100/month	Unfurnished	2	Bachelors	Rent
+455	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Villa	Rishikesh Sector 1	Rishikesh / Uttarakhand	Villa / 2 BHK	1085	₹52.87 L	Fully-Furnished	2	Family	Sale
+456	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Apartment	Haridwar Sector 1	Haridwar / Uttarakhand	Apartment / 2 BHK	903	₹57.03 L	Semi-Furnished	2	Any	Sale
+457	Uttarakhand Properties (Uttarakhand.txt)	1 BHK Builder Floor	Dehradun Sector 1	Dehradun / Uttarakhand	Builder Floor / 1 BHK	497	₹31.93 L	Semi-Furnished	1	Family	Sale
+458	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Apartment	Haridwar Colony	Haridwar / Uttarakhand	Apartment / 3 BHK	1277	₹74.12 L	Fully-Furnished	2	Bachelors	Sale
+459	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Independent House	Rishikesh Sector 2	Rishikesh / Uttarakhand	Independent House / 2 BHK	944	₹17,400/month	Semi-Furnished	2	Any	Rent
+460	Uttarakhand Properties (Uttarakhand.txt)	1 BHK Apartment	Rishikesh North	Rishikesh / Uttarakhand	Apartment / 1 BHK	415	₹36.92 L	Unfurnished	2	Family	Sale
+461	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Apartment	Haridwar Heights	Haridwar / Uttarakhand	Apartment / 3 BHK	1168	₹18,700/month	Semi-Furnished	4	Any	Rent
+462	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Villa	Rishikesh West	Rishikesh / Uttarakhand	Villa / 2 BHK	1208	₹56.03 L	Semi-Furnished	2	Family	Sale
+463	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Builder Floor	Haridwar East	Haridwar / Uttarakhand	Builder Floor / 3 BHK	1146	₹77.14 L	Unfurnished	3	Family	Sale
+464	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Villa	Haldwani Colony	Haldwani / Uttarakhand	Villa / 3 BHK	1638	₹20,100/month	Semi-Furnished	3	Family	Rent
+465	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Apartment	Haridwar Colony	Haridwar / Uttarakhand	Apartment / 3 BHK	1411	₹23,700/month	Semi-Furnished	4	Any	Rent
+466	Uttarakhand Properties (Uttarakhand.txt)	4 BHK Villa	Rishikesh Nagar	Rishikesh / Uttarakhand	Villa / 4 BHK	2631	₹1.09 Cr	Fully-Furnished	3	Family	Sale
+467	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Builder Floor	Haldwani Sector 3	Haldwani / Uttarakhand	Builder Floor / 3 BHK	896	₹75.58 L	Semi-Furnished	4	Bachelors	Sale
+468	Uttarakhand Properties (Uttarakhand.txt)	1 BHK Studio	Haldwani Colony	Haldwani / Uttarakhand	Studio / 1 BHK	348	₹25.07 L	Unfurnished	2	Bachelors	Sale
+469	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Independent House	Haldwani Sector 1	Haldwani / Uttarakhand	Independent House / 2 BHK	1149	₹18,200/month	Unfurnished	2	Bachelors	Rent
+470	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Apartment	Rishikesh Sector 1	Rishikesh / Uttarakhand	Apartment / 2 BHK	790	₹14,500/month	Semi-Furnished	2	Family	Rent
+471	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Builder Floor	Dehradun Main Road	Dehradun / Uttarakhand	Builder Floor / 2 BHK	785	₹58.86 L	Fully-Furnished	2	Any	Sale
+472	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Builder Floor	Haldwani Central	Haldwani / Uttarakhand	Builder Floor / 2 BHK	874	₹57.36 L	Fully-Furnished	2	Family	Sale
+473	Uttarakhand Properties (Uttarakhand.txt)	5 BHK Apartment	Haldwani Colony	Haldwani / Uttarakhand	Apartment / 5 BHK	2354	₹36,300/month	Semi-Furnished	5	Any	Rent
+474	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Apartment	Rishikesh Heights	Rishikesh / Uttarakhand	Apartment / 3 BHK	1265	₹60.45 L	Unfurnished	2	Family	Sale
+475	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Apartment	Rishikesh Sector 3	Rishikesh / Uttarakhand	Apartment / 2 BHK	786	₹61.34 L	Unfurnished	2	Family	Sale
+476	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Apartment	Haridwar Nagar	Haridwar / Uttarakhand	Apartment / 2 BHK	1146	₹65.42 L	Fully-Furnished	2	Family	Sale
+477	Uttarakhand Properties (Uttarakhand.txt)	1 BHK Villa	Haldwani Main Road	Haldwani / Uttarakhand	Villa / 1 BHK	815	₹42.21 L	Semi-Furnished	1	Family	Sale
+478	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Independent House	Haridwar Sector 2	Haridwar / Uttarakhand	Independent House / 3 BHK	1421	₹22,100/month	Fully-Furnished	3	Family	Rent
+479	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Apartment	Dehradun West	Dehradun / Uttarakhand	Apartment / 3 BHK	1548	₹22,500/month	Semi-Furnished	2	Family	Rent
+480	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Apartment	Haldwani Residential Area	Haldwani / Uttarakhand	Apartment / 2 BHK	1036	₹65.12 L	Fully-Furnished	2	Bachelors	Sale
+481	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Independent House	Haridwar East	Haridwar / Uttarakhand	Independent House / 2 BHK	1202	₹15,000/month	Semi-Furnished	2	Any	Rent
+482	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Apartment	Dehradun West	Dehradun / Uttarakhand	Apartment / 2 BHK	788	₹13,000/month	Unfurnished	3	Any	Rent
+483	Uttarakhand Properties (Uttarakhand.txt)	5 BHK Apartment	Haridwar Sector 1	Haridwar / Uttarakhand	Apartment / 5 BHK	2690	₹1.31 Cr	Unfurnished	6	Family	Sale
+484	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Apartment	Dehradun Central	Dehradun / Uttarakhand	Apartment / 2 BHK	689	₹54.51 L	Fully-Furnished	3	Any	Sale
+485	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Villa	Dehradun Residential Area	Dehradun / Uttarakhand	Villa / 2 BHK	1072	₹59.92 L	Semi-Furnished	2	Bachelors	Sale
+486	Uttarakhand Properties (Uttarakhand.txt)	5 BHK Apartment	Haldwani Residential Area	Haldwani / Uttarakhand	Apartment / 5 BHK	2356	₹93.76 L	Semi-Furnished	5	Family	Sale
+487	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Apartment	Rishikesh Extension	Rishikesh / Uttarakhand	Apartment / 2 BHK	1063	₹64.24 L	Fully-Furnished	2	Any	Sale
+488	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Apartment	Haldwani Heights	Haldwani / Uttarakhand	Apartment / 3 BHK	1392	₹70.12 L	Unfurnished	3	Family	Sale
+489	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Apartment	Dehradun East	Dehradun / Uttarakhand	Apartment / 3 BHK	1545	₹89.02 L	Fully-Furnished	3	Family	Sale
+490	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Apartment	Rishikesh East	Rishikesh / Uttarakhand	Apartment / 3 BHK	1248	₹72.99 L	Semi-Furnished	2	Bachelors	Sale
+491	Uttarakhand Properties (Uttarakhand.txt)	1 BHK Apartment	Haldwani East	Haldwani / Uttarakhand	Apartment / 1 BHK	549	₹9,700/month	Semi-Furnished	1	Any	Rent
+492	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Apartment	Dehradun Extension	Dehradun / Uttarakhand	Apartment / 2 BHK	650	₹49.03 L	Semi-Furnished	2	Family	Sale
+493	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Apartment	Haldwani West	Haldwani / Uttarakhand	Apartment / 2 BHK	971	₹14,000/month	Semi-Furnished	1	Family	Rent
+494	Uttarakhand Properties (Uttarakhand.txt)	4 BHK Apartment	Rishikesh Sector 1	Rishikesh / Uttarakhand	Apartment / 4 BHK	1188	₹74.40 L	Semi-Furnished	4	Bachelors	Sale
+495	Uttarakhand Properties (Uttarakhand.txt)	4 BHK Apartment	Dehradun Central	Dehradun / Uttarakhand	Apartment / 4 BHK	2089	₹21,800/month	Semi-Furnished	3	Any	Rent
+496	Uttarakhand Properties (Uttarakhand.txt)	1 BHK Villa	Haldwani East	Haldwani / Uttarakhand	Villa / 1 BHK	642	₹37.31 L	Semi-Furnished	1	Family	Sale
+497	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Builder Floor	Haldwani Nagar	Haldwani / Uttarakhand	Builder Floor / 3 BHK	1086	₹20,800/month	Fully-Furnished	2	Family	Rent
+498	Uttarakhand Properties (Uttarakhand.txt)	4 BHK Independent House	Dehradun Residential Area	Dehradun / Uttarakhand	Independent House / 4 BHK	1594	₹1.07 Cr	Semi-Furnished	5	Bachelors	Sale
+499	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Independent House	Haldwani Heights	Haldwani / Uttarakhand	Independent House / 2 BHK	1143	₹13,000/month	Semi-Furnished	2	Family	Rent
+500	Uttarakhand Properties (Uttarakhand.txt)	4 BHK Apartment	Rishikesh Main Road	Rishikesh / Uttarakhand	Apartment / 4 BHK	2042	₹96.95 L	Semi-Furnished	5	Family	Sale
+501	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Apartment	Haldwani West	Haldwani / Uttarakhand	Apartment / 2 BHK	544	₹41 L	Unfurnished	2	Family	Sale
+502	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Builder Floor	Haldwani Residential Area	Haldwani / Uttarakhand	Builder Floor / 2 BHK	873	₹12,800/month	Semi-Furnished	3	Family	Rent
+503	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Apartment	Dehradun West	Dehradun / Uttarakhand	Apartment / 2 BHK	828	₹61.17 L	Semi-Furnished	1	Any	Sale
+504	Uttarakhand Properties (Uttarakhand.txt)	4 BHK Villa	Haldwani Town Centre	Haldwani / Uttarakhand	Villa / 4 BHK	1887	₹97.36 L	Fully-Furnished	4	Family	Sale
+505	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Independent House	Haldwani Colony	Haldwani / Uttarakhand	Independent House / 2 BHK	1141	₹60.67 L	Fully-Furnished	2	Family	Sale
+506	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Builder Floor	Dehradun North	Dehradun / Uttarakhand	Builder Floor / 3 BHK	1258	₹19,400/month	Fully-Furnished	3	Family	Rent
+507	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Villa	Haridwar West	Haridwar / Uttarakhand	Villa / 2 BHK	1245	₹69.02 L	Semi-Furnished	3	Family	Sale
+508	Uttarakhand Properties (Uttarakhand.txt)	1 BHK Studio	Dehradun South	Dehradun / Uttarakhand	Studio / 1 BHK	423	₹37.09 L	Fully-Furnished	1	Any	Sale
+509	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Apartment	Dehradun East	Dehradun / Uttarakhand	Apartment / 3 BHK	1171	₹17,200/month	Semi-Furnished	2	Bachelors	Rent
+510	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Villa	Haldwani Extension	Haldwani / Uttarakhand	Villa / 2 BHK	1127	₹14,900/month	Unfurnished	2	Bachelors	Rent
+511	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Builder Floor	Rishikesh Residential Area	Rishikesh / Uttarakhand	Builder Floor / 3 BHK	1387	₹23,800/month	Unfurnished	3	Any	Rent
+512	Uttarakhand Properties (Uttarakhand.txt)	1 BHK Studio	Rishikesh Town Centre	Rishikesh / Uttarakhand	Studio / 1 BHK	388	₹26.31 L	Semi-Furnished	1	Family	Sale
+513	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Apartment	Dehradun Main Road	Dehradun / Uttarakhand	Apartment / 2 BHK	792	₹50.83 L	Fully-Furnished	2	Any	Sale
+514	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Independent House	Haridwar Central	Haridwar / Uttarakhand	Independent House / 3 BHK	1727	₹65.46 L	Fully-Furnished	3	Any	Sale
+515	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Builder Floor	Haldwani South	Haldwani / Uttarakhand	Builder Floor / 2 BHK	1038	₹16,600/month	Unfurnished	2	Any	Rent
+516	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Builder Floor	Haridwar North	Haridwar / Uttarakhand	Builder Floor / 3 BHK	1424	₹89.23 L	Semi-Furnished	3	Bachelors	Sale
+517	Uttarakhand Properties (Uttarakhand.txt)	5 BHK Apartment	Haldwani Residential Area	Haldwani / Uttarakhand	Apartment / 5 BHK	1819	₹91.34 L	Fully-Furnished	4	Any	Sale
+518	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Villa	Haridwar Heights	Haridwar / Uttarakhand	Villa / 2 BHK	1077	₹54.86 L	Unfurnished	2	Any	Sale
+519	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Apartment	Haldwani Nagar	Haldwani / Uttarakhand	Apartment / 2 BHK	620	₹11,400/month	Fully-Furnished	2	Family	Rent
+520	Uttarakhand Properties (Uttarakhand.txt)	1 BHK Studio	Dehradun Town Centre	Dehradun / Uttarakhand	Studio / 1 BHK	309	₹31.51 L	Unfurnished	1	Family	Sale
+521	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Apartment	Rishikesh South	Rishikesh / Uttarakhand	Apartment / 2 BHK	724	₹42.44 L	Unfurnished	1	Family	Sale
+522	Uttarakhand Properties (Uttarakhand.txt)	1 BHK Apartment	Rishikesh Nagar	Rishikesh / Uttarakhand	Apartment / 1 BHK	627	₹8,300/month	Fully-Furnished	1	Family	Rent
+523	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Apartment	Rishikesh North	Rishikesh / Uttarakhand	Apartment / 2 BHK	671	₹43.76 L	Semi-Furnished	1	Family	Sale
+524	Uttarakhand Properties (Uttarakhand.txt)	5 BHK Apartment	Rishikesh West	Rishikesh / Uttarakhand	Apartment / 5 BHK	2944	₹35,600/month	Fully-Furnished	5	Family	Rent
+525	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Independent House	Dehradun Residential Area	Dehradun / Uttarakhand	Independent House / 3 BHK	1665	₹70.91 L	Fully-Furnished	3	Family	Sale
+526	Uttarakhand Properties (Uttarakhand.txt)	1 BHK Studio	Haridwar Town Centre	Haridwar / Uttarakhand	Studio / 1 BHK	374	₹32.03 L	Semi-Furnished	1	Family	Sale
+527	Uttarakhand Properties (Uttarakhand.txt)	4 BHK Independent House	Haridwar West	Haridwar / Uttarakhand	Independent House / 4 BHK	2423	₹1.11 Cr	Semi-Furnished	4	Family	Sale
+528	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Independent House	Haridwar North	Haridwar / Uttarakhand	Independent House / 3 BHK	1322	₹77.55 L	Semi-Furnished	3	Family	Sale
+529	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Apartment	Haridwar North	Haridwar / Uttarakhand	Apartment / 2 BHK	1095	₹48.92 L	Fully-Furnished	2	Any	Sale
+530	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Villa	Dehradun South	Dehradun / Uttarakhand	Villa / 2 BHK	1094	₹46.30 L	Unfurnished	2	Bachelors	Sale
+531	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Builder Floor	Dehradun East	Dehradun / Uttarakhand	Builder Floor / 2 BHK	1054	₹65.01 L	Semi-Furnished	2	Family	Sale
+532	Uttarakhand Properties (Uttarakhand.txt)	1 BHK Builder Floor	Dehradun Colony	Dehradun / Uttarakhand	Builder Floor / 1 BHK	591	₹11,100/month	Semi-Furnished	1	Family	Rent
+533	Uttarakhand Properties (Uttarakhand.txt)	1 BHK Independent House	Haridwar Colony	Haridwar / Uttarakhand	Independent House / 1 BHK	576	₹31.32 L	Unfurnished	1	Family	Sale
+534	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Apartment	Haridwar East	Haridwar / Uttarakhand	Apartment / 3 BHK	1377	₹63.02 L	Fully-Furnished	3	Family	Sale
+535	Uttarakhand Properties (Uttarakhand.txt)	4 BHK Apartment	Rishikesh Town Centre	Rishikesh / Uttarakhand	Apartment / 4 BHK	1772	₹29,900/month	Semi-Furnished	4	Family	Rent
+536	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Apartment	Dehradun Heights	Dehradun / Uttarakhand	Apartment / 3 BHK	1489	₹16,800/month	Semi-Furnished	3	Any	Rent
+537	Uttarakhand Properties (Uttarakhand.txt)	4 BHK Apartment	Haridwar Nagar	Haridwar / Uttarakhand	Apartment / 4 BHK	1716	₹21,300/month	Semi-Furnished	5	Any	Rent
+538	Uttarakhand Properties (Uttarakhand.txt)	5 BHK Apartment	Haridwar Main Road	Haridwar / Uttarakhand	Apartment / 5 BHK	3057	₹32,800/month	Fully-Furnished	4	Any	Rent
+539	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Apartment	Haldwani Sector 1	Haldwani / Uttarakhand	Apartment / 3 BHK	1267	₹73.51 L	Unfurnished	3	Bachelors	Sale
+540	Uttarakhand Properties (Uttarakhand.txt)	1 BHK Apartment	Haridwar Sector 2	Haridwar / Uttarakhand	Apartment / 1 BHK	443	₹9,000/month	Fully-Furnished	1	Family	Rent
+541	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Apartment	Haridwar Extension	Haridwar / Uttarakhand	Apartment / 2 BHK	1052	₹54.90 L	Semi-Furnished	1	Any	Sale
+542	Uttarakhand Properties (Uttarakhand.txt)	5 BHK Independent House	Rishikesh Extension	Rishikesh / Uttarakhand	Independent House / 5 BHK	2915	₹1.18 Cr	Semi-Furnished	6	Bachelors	Sale
+543	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Apartment	Haldwani Extension	Haldwani / Uttarakhand	Apartment / 3 BHK	949	₹56.95 L	Fully-Furnished	3	Family	Sale
+544	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Apartment	Haridwar Heights	Haridwar / Uttarakhand	Apartment / 3 BHK	1357	₹83.98 L	Semi-Furnished	4	Bachelors	Sale
+545	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Apartment	Haridwar South	Haridwar / Uttarakhand	Apartment / 2 BHK	917	₹62.14 L	Unfurnished	3	Bachelors	Sale
+546	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Builder Floor	Haridwar North	Haridwar / Uttarakhand	Builder Floor / 3 BHK	1444	₹66.53 L	Semi-Furnished	3	Any	Sale
+547	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Apartment	Haldwani South	Haldwani / Uttarakhand	Apartment / 2 BHK	872	₹12,000/month	Unfurnished	2	Family	Rent
+548	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Builder Floor	Dehradun Extension	Dehradun / Uttarakhand	Builder Floor / 2 BHK	879	₹13,600/month	Unfurnished	2	Bachelors	Rent
+549	Uttarakhand Properties (Uttarakhand.txt)	5 BHK Apartment	Haridwar Heights	Haridwar / Uttarakhand	Apartment / 5 BHK	3082	₹40,500/month	Semi-Furnished	4	Bachelors	Rent
+550	Uttarakhand Properties (Uttarakhand.txt)	4 BHK Apartment	Haridwar Central	Haridwar / Uttarakhand	Apartment / 4 BHK	1650	₹1.06 Cr	Fully-Furnished	5	Family	Sale
+551	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Apartment	Dehradun Colony	Dehradun / Uttarakhand	Apartment / 2 BHK	783	₹49.19 L	Semi-Furnished	1	Bachelors	Sale
+552	Uttarakhand Properties (Uttarakhand.txt)	1 BHK Apartment	Rishikesh South	Rishikesh / Uttarakhand	Apartment / 1 BHK	591	₹36.69 L	Semi-Furnished	2	Family	Sale
+553	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Builder Floor	Haldwani West	Haldwani / Uttarakhand	Builder Floor / 2 BHK	736	₹16,000/month	Unfurnished	2	Any	Rent
+554	Uttarakhand Properties (Uttarakhand.txt)	1 BHK Independent House	Haridwar Heights	Haridwar / Uttarakhand	Independent House / 1 BHK	778	₹37.06 L	Fully-Furnished	1	Bachelors	Sale
+555	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Apartment	Haridwar Sector 1	Haridwar / Uttarakhand	Apartment / 3 BHK	1069	₹15,400/month	Unfurnished	4	Family	Rent
+556	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Apartment	Dehradun East	Dehradun / Uttarakhand	Apartment / 3 BHK	1471	₹79.20 L	Semi-Furnished	3	Bachelors	Sale
+557	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Apartment	Haldwani Colony	Haldwani / Uttarakhand	Apartment / 2 BHK	955	₹14,700/month	Semi-Furnished	2	Bachelors	Rent
+558	Uttarakhand Properties (Uttarakhand.txt)	1 BHK Studio	Haridwar Main Road	Haridwar / Uttarakhand	Studio / 1 BHK	395	₹10,000/month	Semi-Furnished	1	Family	Rent
+559	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Villa	Dehradun Nagar	Dehradun / Uttarakhand	Villa / 2 BHK	1458	₹71.03 L	Semi-Furnished	3	Any	Sale
+560	Uttarakhand Properties (Uttarakhand.txt)	4 BHK Builder Floor	Dehradun Sector 3	Dehradun / Uttarakhand	Builder Floor / 4 BHK	1621	₹88.76 L	Semi-Furnished	4	Any	Sale
+561	Uttarakhand Properties (Uttarakhand.txt)	4 BHK Independent House	Haridwar Extension	Haridwar / Uttarakhand	Independent House / 4 BHK	2059	₹1.01 Cr	Semi-Furnished	4	Family	Sale
+562	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Builder Floor	Dehradun Main Road	Dehradun / Uttarakhand	Builder Floor / 2 BHK	843	₹14,100/month	Unfurnished	2	Family	Rent
+563	Uttarakhand Properties (Uttarakhand.txt)	5 BHK Builder Floor	Rishikesh Residential Area	Rishikesh / Uttarakhand	Builder Floor / 5 BHK	2039	₹1.18 Cr	Unfurnished	4	Any	Sale
+564	Uttarakhand Properties (Uttarakhand.txt)	5 BHK Independent House	Haridwar South	Haridwar / Uttarakhand	Independent House / 5 BHK	3089	₹1.43 Cr	Unfurnished	4	Bachelors	Sale
+565	Uttarakhand Properties (Uttarakhand.txt)	1 BHK Apartment	Haldwani Colony	Haldwani / Uttarakhand	Apartment / 1 BHK	675	₹42.30 L	Fully-Furnished	1	Family	Sale
+566	Uttarakhand Properties (Uttarakhand.txt)	4 BHK Villa	Rishikesh Main Road	Rishikesh / Uttarakhand	Villa / 4 BHK	2619	₹32,100/month	Semi-Furnished	4	Family	Rent
+567	Uttarakhand Properties (Uttarakhand.txt)	4 BHK Apartment	Rishikesh Central	Rishikesh / Uttarakhand	Apartment / 4 BHK	1737	₹20,400/month	Unfurnished	4	Family	Rent
+568	Uttarakhand Properties (Uttarakhand.txt)	4 BHK Apartment	Dehradun Town Centre	Dehradun / Uttarakhand	Apartment / 4 BHK	2056	₹89.59 L	Fully-Furnished	3	Family	Sale
+569	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Villa	Dehradun East	Dehradun / Uttarakhand	Villa / 2 BHK	1081	₹58.60 L	Fully-Furnished	1	Family	Sale
+570	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Apartment	Haridwar Sector 1	Haridwar / Uttarakhand	Apartment / 2 BHK	1089	₹56.26 L	Unfurnished	2	Any	Sale
+571	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Apartment	Haridwar Nagar	Haridwar / Uttarakhand	Apartment / 3 BHK	1139	₹74.26 L	Fully-Furnished	2	Family	Sale
+572	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Independent House	Dehradun Extension	Dehradun / Uttarakhand	Independent House / 2 BHK	1122	₹18,400/month	Semi-Furnished	2	Family	Rent
+573	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Independent House	Haldwani Town Centre	Haldwani / Uttarakhand	Independent House / 3 BHK	1529	₹18,100/month	Fully-Furnished	2	Family	Rent
+574	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Apartment	Haridwar Town Centre	Haridwar / Uttarakhand	Apartment / 2 BHK	801	₹54.42 L	Unfurnished	2	Family	Sale
+575	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Villa	Haridwar Heights	Haridwar / Uttarakhand	Villa / 2 BHK	1294	₹14,800/month	Fully-Furnished	2	Any	Rent
+576	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Villa	Dehradun Sector 3	Dehradun / Uttarakhand	Villa / 2 BHK	1339	₹18,000/month	Unfurnished	1	Bachelors	Rent
+577	Uttarakhand Properties (Uttarakhand.txt)	4 BHK Apartment	Haldwani Town Centre	Haldwani / Uttarakhand	Apartment / 4 BHK	2143	₹1.10 Cr	Unfurnished	4	Bachelors	Sale
+578	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Builder Floor	Haldwani North	Haldwani / Uttarakhand	Builder Floor / 2 BHK	793	₹14,800/month	Unfurnished	2	Any	Rent
+579	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Apartment	Haridwar West	Haridwar / Uttarakhand	Apartment / 3 BHK	1402	₹71.11 L	Unfurnished	4	Bachelors	Sale
+580	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Apartment	Haldwani Sector 2	Haldwani / Uttarakhand	Apartment / 3 BHK	1553	₹18,300/month	Semi-Furnished	2	Bachelors	Rent
+581	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Apartment	Haldwani Sector 3	Haldwani / Uttarakhand	Apartment / 2 BHK	986	₹17,500/month	Fully-Furnished	2	Family	Rent
+582	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Apartment	Rishikesh Residential Area	Rishikesh / Uttarakhand	Apartment / 3 BHK	1274	₹82.88 L	Unfurnished	2	Any	Sale
+583	Uttarakhand Properties (Uttarakhand.txt)	4 BHK Apartment	Haridwar South	Haridwar / Uttarakhand	Apartment / 4 BHK	1882	₹1.10 Cr	Fully-Furnished	4	Family	Sale
+584	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Apartment	Dehradun Sector 1	Dehradun / Uttarakhand	Apartment / 3 BHK	1096	₹15,600/month	Semi-Furnished	4	Family	Rent
+585	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Independent House	Rishikesh Nagar	Rishikesh / Uttarakhand	Independent House / 3 BHK	1580	₹85.68 L	Semi-Furnished	3	Family	Sale
+586	Uttarakhand Properties (Uttarakhand.txt)	4 BHK Apartment	Rishikesh East	Rishikesh / Uttarakhand	Apartment / 4 BHK	2313	₹1.04 Cr	Unfurnished	3	Family	Sale
+587	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Apartment	Haridwar Central	Haridwar / Uttarakhand	Apartment / 3 BHK	1456	₹19,300/month	Semi-Furnished	2	Family	Rent
+588	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Apartment	Haridwar Sector 2	Haridwar / Uttarakhand	Apartment / 2 BHK	871	₹47.62 L	Semi-Furnished	1	Bachelors	Sale
+589	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Apartment	Rishikesh Main Road	Rishikesh / Uttarakhand	Apartment / 2 BHK	817	₹43.06 L	Unfurnished	2	Any	Sale
+590	Uttarakhand Properties (Uttarakhand.txt)	1 BHK Apartment	Haridwar North	Haridwar / Uttarakhand	Apartment / 1 BHK	485	₹8,900/month	Semi-Furnished	1	Bachelors	Rent
+591	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Apartment	Haridwar Central	Haridwar / Uttarakhand	Apartment / 2 BHK	780	₹53.94 L	Unfurnished	2	Bachelors	Sale
+592	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Builder Floor	Haldwani South	Haldwani / Uttarakhand	Builder Floor / 2 BHK	706	₹16,300/month	Semi-Furnished	2	Family	Rent
+593	Uttarakhand Properties (Uttarakhand.txt)	4 BHK Independent House	Haldwani Heights	Haldwani / Uttarakhand	Independent House / 4 BHK	2590	₹92.57 L	Fully-Furnished	4	Bachelors	Sale
+594	Uttarakhand Properties (Uttarakhand.txt)	5 BHK Apartment	Dehradun West	Dehradun / Uttarakhand	Apartment / 5 BHK	2154	₹27,000/month	Semi-Furnished	5	Family	Rent
+595	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Apartment	Haldwani Extension	Haldwani / Uttarakhand	Apartment / 3 BHK	1043	₹80.55 L	Semi-Furnished	3	Bachelors	Sale
+596	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Apartment	Haridwar Residential Area	Haridwar / Uttarakhand	Apartment / 3 BHK	937	₹54.79 L	Semi-Furnished	2	Bachelors	Sale
+597	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Apartment	Rishikesh Main Road	Rishikesh / Uttarakhand	Apartment / 2 BHK	982	₹17,200/month	Unfurnished	1	Bachelors	Rent
+598	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Apartment	Dehradun Sector 2	Dehradun / Uttarakhand	Apartment / 2 BHK	758	₹54.24 L	Unfurnished	2	Family	Sale
+599	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Apartment	Rishikesh Sector 2	Rishikesh / Uttarakhand	Apartment / 3 BHK	1088	₹81.91 L	Semi-Furnished	4	Any	Sale
+600	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Villa	Haridwar South	Haridwar / Uttarakhand	Villa / 3 BHK	1674	₹91.94 L	Semi-Furnished	4	Family	Sale
+601	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Independent House	Dehradun Sector 2	Dehradun / Uttarakhand	Independent House / 2 BHK	896	₹45.73 L	Unfurnished	2	Family	Sale
+602	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Apartment	Dehradun Extension	Dehradun / Uttarakhand	Apartment / 2 BHK	790	₹13,900/month	Unfurnished	1	Family	Rent
+603	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Apartment	Haridwar Residential Area	Haridwar / Uttarakhand	Apartment / 2 BHK	753	₹12,400/month	Fully-Furnished	2	Family	Rent
+604	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Apartment	Haldwani Central	Haldwani / Uttarakhand	Apartment / 2 BHK	778	₹54.18 L	Fully-Furnished	2	Bachelors	Sale
+605	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Builder Floor	Haldwani Extension	Haldwani / Uttarakhand	Builder Floor / 3 BHK	1105	₹67.18 L	Semi-Furnished	3	Bachelors	Sale
+606	Uttarakhand Properties (Uttarakhand.txt)	1 BHK Apartment	Haldwani Heights	Haldwani / Uttarakhand	Apartment / 1 BHK	458	₹28.31 L	Unfurnished	1	Any	Sale
+607	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Apartment	Haldwani Town Centre	Haldwani / Uttarakhand	Apartment / 2 BHK	864	₹13,600/month	Fully-Furnished	2	Family	Rent
+608	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Builder Floor	Haldwani North	Haldwani / Uttarakhand	Builder Floor / 2 BHK	757	₹57.65 L	Unfurnished	3	Bachelors	Sale
+609	Uttarakhand Properties (Uttarakhand.txt)	4 BHK Apartment	Haldwani Heights	Haldwani / Uttarakhand	Apartment / 4 BHK	1943	₹23,500/month	Unfurnished	4	Bachelors	Rent
+610	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Apartment	Dehradun Central	Dehradun / Uttarakhand	Apartment / 3 BHK	1081	₹78.17 L	Semi-Furnished	2	Bachelors	Sale
+611	Uttarakhand Properties (Uttarakhand.txt)	1 BHK Apartment	Dehradun Town Centre	Dehradun / Uttarakhand	Apartment / 1 BHK	473	₹28.91 L	Semi-Furnished	1	Bachelors	Sale
+612	Uttarakhand Properties (Uttarakhand.txt)	4 BHK Independent House	Haldwani Central	Haldwani / Uttarakhand	Independent House / 4 BHK	1838	₹1.12 Cr	Fully-Furnished	4	Any	Sale
+613	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Independent House	Rishikesh Central	Rishikesh / Uttarakhand	Independent House / 2 BHK	1007	₹14,400/month	Semi-Furnished	2	Any	Rent
+614	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Villa	Rishikesh East	Rishikesh / Uttarakhand	Villa / 2 BHK	1153	₹16,500/month	Fully-Furnished	2	Bachelors	Rent
+615	Uttarakhand Properties (Uttarakhand.txt)	4 BHK Apartment	Rishikesh North	Rishikesh / Uttarakhand	Apartment / 4 BHK	1824	₹27,400/month	Semi-Furnished	4	Family	Rent
+616	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Apartment	Haldwani South	Haldwani / Uttarakhand	Apartment / 2 BHK	773	₹13,000/month	Unfurnished	1	Any	Rent
+617	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Independent House	Haldwani East	Haldwani / Uttarakhand	Independent House / 2 BHK	883	₹15,900/month	Fully-Furnished	2	Any	Rent
+618	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Independent House	Haridwar South	Haridwar / Uttarakhand	Independent House / 2 BHK	561	₹43.56 L	Unfurnished	3	Family	Sale
+619	Uttarakhand Properties (Uttarakhand.txt)	1 BHK Apartment	Dehradun Sector 3	Dehradun / Uttarakhand	Apartment / 1 BHK	500	₹9,600/month	Fully-Furnished	1	Family	Rent
+620	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Apartment	Dehradun Colony	Dehradun / Uttarakhand	Apartment / 3 BHK	1139	₹83.96 L	Semi-Furnished	3	Bachelors	Sale
+621	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Apartment	Rishikesh Residential Area	Rishikesh / Uttarakhand	Apartment / 3 BHK	1332	₹16,900/month	Fully-Furnished	4	Family	Rent
+622	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Apartment	Haridwar East	Haridwar / Uttarakhand	Apartment / 2 BHK	845	₹11,800/month	Semi-Furnished	3	Family	Rent
+623	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Independent House	Dehradun Sector 3	Dehradun / Uttarakhand	Independent House / 3 BHK	1642	₹18,000/month	Semi-Furnished	3	Any	Rent
+624	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Apartment	Haldwani Residential Area	Haldwani / Uttarakhand	Apartment / 3 BHK	1309	₹68.13 L	Semi-Furnished	4	Family	Sale
+625	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Apartment	Dehradun Heights	Dehradun / Uttarakhand	Apartment / 2 BHK	961	₹13,000/month	Unfurnished	2	Family	Rent
+626	Uttarakhand Properties (Uttarakhand.txt)	5 BHK Apartment	Rishikesh South	Rishikesh / Uttarakhand	Apartment / 5 BHK	1610	₹1.15 Cr	Fully-Furnished	5	Family	Sale
+627	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Apartment	Dehradun West	Dehradun / Uttarakhand	Apartment / 2 BHK	964	₹17,600/month	Fully-Furnished	1	Family	Rent
+628	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Apartment	Haridwar Sector 1	Haridwar / Uttarakhand	Apartment / 3 BHK	1400	₹67.24 L	Semi-Furnished	4	Any	Sale
+629	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Independent House	Dehradun Sector 2	Dehradun / Uttarakhand	Independent House / 2 BHK	989	₹16,200/month	Semi-Furnished	1	Any	Rent
+630	Uttarakhand Properties (Uttarakhand.txt)	1 BHK Apartment	Haldwani South	Haldwani / Uttarakhand	Apartment / 1 BHK	427	₹9,600/month	Fully-Furnished	1	Family	Rent
+631	Uttarakhand Properties (Uttarakhand.txt)	4 BHK Builder Floor	Haridwar West	Haridwar / Uttarakhand	Builder Floor / 4 BHK	1673	₹86.57 L	Semi-Furnished	4	Bachelors	Sale
+632	Uttarakhand Properties (Uttarakhand.txt)	4 BHK Apartment	Haldwani Heights	Haldwani / Uttarakhand	Apartment / 4 BHK	1889	₹25,700/month	Fully-Furnished	4	Bachelors	Rent
+633	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Apartment	Haridwar Colony	Haridwar / Uttarakhand	Apartment / 3 BHK	1196	₹22,000/month	Fully-Furnished	3	Bachelors	Rent
+634	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Apartment	Haridwar Main Road	Haridwar / Uttarakhand	Apartment / 3 BHK	1254	₹81.81 L	Semi-Furnished	3	Bachelors	Sale
+635	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Builder Floor	Haldwani East	Haldwani / Uttarakhand	Builder Floor / 3 BHK	1225	₹19,400/month	Semi-Furnished	3	Family	Rent
+636	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Apartment	Haridwar Heights	Haridwar / Uttarakhand	Apartment / 2 BHK	1029	₹61.15 L	Semi-Furnished	2	Family	Sale
+637	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Apartment	Rishikesh Town Centre	Rishikesh / Uttarakhand	Apartment / 3 BHK	1443	₹69.58 L	Semi-Furnished	3	Family	Sale
+638	Uttarakhand Properties (Uttarakhand.txt)	5 BHK Apartment	Haldwani Nagar	Haldwani / Uttarakhand	Apartment / 5 BHK	2351	₹32,200/month	Semi-Furnished	5	Bachelors	Rent
+639	Uttarakhand Properties (Uttarakhand.txt)	4 BHK Apartment	Haldwani Colony	Haldwani / Uttarakhand	Apartment / 4 BHK	1966	₹27,600/month	Semi-Furnished	4	Any	Rent
+640	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Apartment	Haldwani Main Road	Haldwani / Uttarakhand	Apartment / 2 BHK	875	₹17,000/month	Semi-Furnished	1	Bachelors	Rent
+641	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Independent House	Rishikesh North	Rishikesh / Uttarakhand	Independent House / 2 BHK	1058	₹58.28 L	Fully-Furnished	2	Bachelors	Sale
+642	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Apartment	Haridwar Heights	Haridwar / Uttarakhand	Apartment / 3 BHK	1094	₹19,800/month	Semi-Furnished	2	Any	Rent
+643	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Apartment	Rishikesh Colony	Rishikesh / Uttarakhand	Apartment / 2 BHK	822	₹16,400/month	Semi-Furnished	1	Any	Rent
+644	Uttarakhand Properties (Uttarakhand.txt)	4 BHK Apartment	Haridwar Extension	Haridwar / Uttarakhand	Apartment / 4 BHK	1934	₹29,900/month	Semi-Furnished	3	Bachelors	Rent
+645	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Villa	Haridwar Sector 1	Haridwar / Uttarakhand	Villa / 3 BHK	2029	₹24,000/month	Semi-Furnished	3	Bachelors	Rent
+646	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Independent House	Haldwani Sector 2	Haldwani / Uttarakhand	Independent House / 2 BHK	1079	₹44.95 L	Semi-Furnished	2	Bachelors	Sale
+647	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Apartment	Dehradun Residential Area	Dehradun / Uttarakhand	Apartment / 2 BHK	971	₹16,400/month	Fully-Furnished	2	Family	Rent
+648	Uttarakhand Properties (Uttarakhand.txt)	4 BHK Apartment	Haridwar Sector 3	Haridwar / Uttarakhand	Apartment / 4 BHK	1833	₹1.07 Cr	Semi-Furnished	4	Family	Sale
+649	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Builder Floor	Haldwani West	Haldwani / Uttarakhand	Builder Floor / 3 BHK	1411	₹67.43 L	Unfurnished	2	Family	Sale
+650	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Apartment	Haldwani West	Haldwani / Uttarakhand	Apartment / 3 BHK	1206	₹19,400/month	Fully-Furnished	2	Any	Rent
+651	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Apartment	Dehradun Residential Area	Dehradun / Uttarakhand	Apartment / 2 BHK	934	₹60.26 L	Unfurnished	2	Any	Sale
+652	Uttarakhand Properties (Uttarakhand.txt)	1 BHK Apartment	Rishikesh Main Road	Rishikesh / Uttarakhand	Apartment / 1 BHK	452	₹26.13 L	Semi-Furnished	1	Family	Sale
+653	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Apartment	Haldwani Heights	Haldwani / Uttarakhand	Apartment / 2 BHK	985	₹14,700/month	Fully-Furnished	2	Any	Rent
+654	Uttarakhand Properties (Uttarakhand.txt)	4 BHK Apartment	Dehradun North	Dehradun / Uttarakhand	Apartment / 4 BHK	1730	₹1.06 Cr	Unfurnished	3	Any	Sale
+655	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Apartment	Dehradun Heights	Dehradun / Uttarakhand	Apartment / 2 BHK	894	₹50.37 L	Semi-Furnished	2	Family	Sale
+656	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Apartment	Haldwani Town Centre	Haldwani / Uttarakhand	Apartment / 3 BHK	1373	₹20,300/month	Semi-Furnished	3	Bachelors	Rent
+657	Uttarakhand Properties (Uttarakhand.txt)	1 BHK Apartment	Dehradun East	Dehradun / Uttarakhand	Apartment / 1 BHK	552	₹7,800/month	Fully-Furnished	1	Bachelors	Rent
+658	Uttarakhand Properties (Uttarakhand.txt)	4 BHK Independent House	Haldwani South	Haldwani / Uttarakhand	Independent House / 4 BHK	2331	₹1.04 Cr	Fully-Furnished	5	Bachelors	Sale
+659	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Apartment	Haridwar Residential Area	Haridwar / Uttarakhand	Apartment / 3 BHK	1208	₹62.73 L	Semi-Furnished	4	Bachelors	Sale
+660	Uttarakhand Properties (Uttarakhand.txt)	1 BHK Studio	Haldwani Nagar	Haldwani / Uttarakhand	Studio / 1 BHK	411	₹34.41 L	Semi-Furnished	1	Family	Sale
+661	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Apartment	Haldwani Sector 1	Haldwani / Uttarakhand	Apartment / 3 BHK	1173	₹81.16 L	Fully-Furnished	3	Family	Sale
+662	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Apartment	Haridwar Central	Haridwar / Uttarakhand	Apartment / 3 BHK	1031	₹72.73 L	Semi-Furnished	4	Any	Sale
+663	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Builder Floor	Rishikesh West	Rishikesh / Uttarakhand	Builder Floor / 2 BHK	902	₹17,400/month	Semi-Furnished	3	Family	Rent
+664	Uttarakhand Properties (Uttarakhand.txt)	1 BHK Independent House	Dehradun Extension	Dehradun / Uttarakhand	Independent House / 1 BHK	567	₹39.01 L	Fully-Furnished	1	Family	Sale
+665	Uttarakhand Properties (Uttarakhand.txt)	4 BHK Apartment	Haridwar Sector 2	Haridwar / Uttarakhand	Apartment / 4 BHK	1977	₹23,400/month	Fully-Furnished	4	Family	Rent
+666	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Apartment	Dehradun North	Dehradun / Uttarakhand	Apartment / 3 BHK	1013	₹20,100/month	Semi-Furnished	2	Family	Rent
+667	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Apartment	Haldwani West	Haldwani / Uttarakhand	Apartment / 2 BHK	715	₹44.63 L	Semi-Furnished	2	Family	Sale
+668	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Apartment	Dehradun Central	Dehradun / Uttarakhand	Apartment / 2 BHK	782	₹52.90 L	Semi-Furnished	3	Family	Sale
+669	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Builder Floor	Rishikesh Town Centre	Rishikesh / Uttarakhand	Builder Floor / 3 BHK	1579	₹89.81 L	Semi-Furnished	3	Family	Sale
+670	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Independent House	Dehradun North	Dehradun / Uttarakhand	Independent House / 2 BHK	668	₹53.95 L	Fully-Furnished	2	Family	Sale
+671	Uttarakhand Properties (Uttarakhand.txt)	1 BHK Apartment	Rishikesh Nagar	Rishikesh / Uttarakhand	Apartment / 1 BHK	359	₹27.96 L	Fully-Furnished	1	Bachelors	Sale
+672	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Apartment	Haldwani Central	Haldwani / Uttarakhand	Apartment / 3 BHK	1450	₹86.22 L	Unfurnished	3	Family	Sale
+673	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Apartment	Haldwani West	Haldwani / Uttarakhand	Apartment / 2 BHK	670	₹12,000/month	Semi-Furnished	2	Family	Rent
+674	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Apartment	Dehradun Main Road	Dehradun / Uttarakhand	Apartment / 3 BHK	1162	₹60.14 L	Fully-Furnished	2	Any	Sale
+675	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Apartment	Dehradun Town Centre	Dehradun / Uttarakhand	Apartment / 2 BHK	957	₹53.49 L	Semi-Furnished	2	Any	Sale
+676	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Apartment	Rishikesh Town Centre	Rishikesh / Uttarakhand	Apartment / 3 BHK	1275	₹18,700/month	Semi-Furnished	3	Family	Rent
+677	Uttarakhand Properties (Uttarakhand.txt)	4 BHK Apartment	Haridwar Colony	Haridwar / Uttarakhand	Apartment / 4 BHK	1888	₹94.09 L	Unfurnished	4	Family	Sale
+678	Uttarakhand Properties (Uttarakhand.txt)	1 BHK Apartment	Haridwar Heights	Haridwar / Uttarakhand	Apartment / 1 BHK	413	₹27.71 L	Semi-Furnished	2	Bachelors	Sale
+679	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Independent House	Haldwani Town Centre	Haldwani / Uttarakhand	Independent House / 3 BHK	1207	₹21,300/month	Fully-Furnished	3	Bachelors	Rent
+680	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Builder Floor	Haldwani Town Centre	Haldwani / Uttarakhand	Builder Floor / 3 BHK	1263	₹76.34 L	Semi-Furnished	3	Bachelors	Sale
+681	Uttarakhand Properties (Uttarakhand.txt)	1 BHK Apartment	Rishikesh Residential Area	Rishikesh / Uttarakhand	Apartment / 1 BHK	711	₹37.51 L	Unfurnished	1	Family	Sale
+682	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Apartment	Rishikesh Main Road	Rishikesh / Uttarakhand	Apartment / 2 BHK	920	₹61.34 L	Semi-Furnished	2	Family	Sale
+683	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Independent House	Dehradun Extension	Dehradun / Uttarakhand	Independent House / 2 BHK	938	₹14,500/month	Semi-Furnished	2	Bachelors	Rent
+684	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Apartment	Rishikesh South	Rishikesh / Uttarakhand	Apartment / 3 BHK	1174	₹19,300/month	Semi-Furnished	2	Bachelors	Rent
+685	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Independent House	Haldwani Sector 3	Haldwani / Uttarakhand	Independent House / 3 BHK	1591	₹70.66 L	Semi-Furnished	3	Family	Sale
+686	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Apartment	Haldwani Town Centre	Haldwani / Uttarakhand	Apartment / 3 BHK	1100	₹18,700/month	Unfurnished	3	Any	Rent
+687	Uttarakhand Properties (Uttarakhand.txt)	1 BHK Independent House	Haldwani Residential Area	Haldwani / Uttarakhand	Independent House / 1 BHK	644	₹29.43 L	Fully-Furnished	1	Bachelors	Sale
+688	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Apartment	Haldwani Sector 3	Haldwani / Uttarakhand	Apartment / 2 BHK	767	₹11,700/month	Semi-Furnished	2	Any	Rent
+689	Uttarakhand Properties (Uttarakhand.txt)	4 BHK Apartment	Dehradun South	Dehradun / Uttarakhand	Apartment / 4 BHK	2237	₹90.20 L	Semi-Furnished	5	Any	Sale
+690	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Builder Floor	Haridwar Extension	Haridwar / Uttarakhand	Builder Floor / 3 BHK	1410	₹19,800/month	Unfurnished	3	Any	Rent
+691	Uttarakhand Properties (Uttarakhand.txt)	4 BHK Builder Floor	Haldwani Extension	Haldwani / Uttarakhand	Builder Floor / 4 BHK	1654	₹89.08 L	Fully-Furnished	5	Bachelors	Sale
+692	Uttarakhand Properties (Uttarakhand.txt)	1 BHK Independent House	Dehradun Sector 3	Dehradun / Uttarakhand	Independent House / 1 BHK	659	₹38.84 L	Semi-Furnished	1	Any	Sale
+693	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Apartment	Haldwani Residential Area	Haldwani / Uttarakhand	Apartment / 2 BHK	886	₹16,900/month	Fully-Furnished	2	Family	Rent
+694	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Independent House	Haldwani Extension	Haldwani / Uttarakhand	Independent House / 3 BHK	1745	₹23,600/month	Semi-Furnished	2	Bachelors	Rent
+695	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Apartment	Rishikesh Central	Rishikesh / Uttarakhand	Apartment / 3 BHK	1407	₹77.17 L	Semi-Furnished	3	Bachelors	Sale
+696	Uttarakhand Properties (Uttarakhand.txt)	4 BHK Apartment	Rishikesh Sector 2	Rishikesh / Uttarakhand	Apartment / 4 BHK	1864	₹27,200/month	Semi-Furnished	4	Family	Rent
+697	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Independent House	Rishikesh Central	Rishikesh / Uttarakhand	Independent House / 3 BHK	1025	₹18,500/month	Unfurnished	4	Bachelors	Rent
+698	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Builder Floor	Rishikesh North	Rishikesh / Uttarakhand	Builder Floor / 3 BHK	1321	₹19,700/month	Unfurnished	2	Bachelors	Rent
+699	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Apartment	Haldwani Sector 1	Haldwani / Uttarakhand	Apartment / 3 BHK	937	₹16,800/month	Semi-Furnished	3	Family	Rent
+700	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Independent House	Haldwani Colony	Haldwani / Uttarakhand	Independent House / 3 BHK	1526	₹21,100/month	Semi-Furnished	3	Bachelors	Rent
+701	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Apartment	Dehradun East	Dehradun / Uttarakhand	Apartment / 2 BHK	773	₹44.33 L	Unfurnished	2	Family	Sale
+702	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Independent House	Haldwani Sector 3	Haldwani / Uttarakhand	Independent House / 2 BHK	799	₹54.33 L	Fully-Furnished	2	Any	Sale
+703	Uttarakhand Properties (Uttarakhand.txt)	1 BHK Studio	Haldwani Residential Area	Haldwani / Uttarakhand	Studio / 1 BHK	406	₹28.36 L	Unfurnished	2	Any	Sale
+704	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Apartment	Haldwani Sector 3	Haldwani / Uttarakhand	Apartment / 2 BHK	829	₹13,600/month	Semi-Furnished	1	Family	Rent
+705	Uttarakhand Properties (Uttarakhand.txt)	4 BHK Builder Floor	Haldwani Residential Area	Haldwani / Uttarakhand	Builder Floor / 4 BHK	1679	₹1.02 Cr	Fully-Furnished	4	Bachelors	Sale
+706	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Villa	Rishikesh Heights	Rishikesh / Uttarakhand	Villa / 3 BHK	1538	₹87.69 L	Fully-Furnished	3	Any	Sale
+707	Uttarakhand Properties (Uttarakhand.txt)	4 BHK Builder Floor	Dehradun Extension	Dehradun / Uttarakhand	Builder Floor / 4 BHK	1701	₹25,600/month	Fully-Furnished	4	Any	Rent
+708	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Independent House	Dehradun Sector 2	Dehradun / Uttarakhand	Independent House / 2 BHK	1101	₹16,500/month	Unfurnished	2	Family	Rent
+709	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Independent House	Haldwani South	Haldwani / Uttarakhand	Independent House / 2 BHK	1273	₹53.43 L	Semi-Furnished	3	Family	Sale
+710	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Builder Floor	Dehradun East	Dehradun / Uttarakhand	Builder Floor / 2 BHK	828	₹13,500/month	Fully-Furnished	2	Bachelors	Rent
+711	Uttarakhand Properties (Uttarakhand.txt)	5 BHK Builder Floor	Haridwar East	Haridwar / Uttarakhand	Builder Floor / 5 BHK	2606	₹98.49 L	Fully-Furnished	5	Bachelors	Sale
+712	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Apartment	Haldwani Extension	Haldwani / Uttarakhand	Apartment / 3 BHK	1363	₹16,900/month	Semi-Furnished	2	Bachelors	Rent
+713	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Builder Floor	Haridwar Heights	Haridwar / Uttarakhand	Builder Floor / 3 BHK	1395	₹22,600/month	Unfurnished	3	Bachelors	Rent
+714	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Builder Floor	Dehradun East	Dehradun / Uttarakhand	Builder Floor / 3 BHK	1083	₹15,900/month	Semi-Furnished	3	Any	Rent
+715	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Builder Floor	Haldwani Central	Haldwani / Uttarakhand	Builder Floor / 2 BHK	1032	₹63.05 L	Fully-Furnished	3	Bachelors	Sale
+716	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Apartment	Rishikesh Town Centre	Rishikesh / Uttarakhand	Apartment / 3 BHK	1239	₹73.50 L	Semi-Furnished	3	Bachelors	Sale
+717	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Independent House	Rishikesh Nagar	Rishikesh / Uttarakhand	Independent House / 2 BHK	884	₹14,200/month	Semi-Furnished	3	Family	Rent
+718	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Independent House	Haridwar Residential Area	Haridwar / Uttarakhand	Independent House / 2 BHK	1122	₹56.61 L	Fully-Furnished	2	Family	Sale
+719	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Apartment	Dehradun South	Dehradun / Uttarakhand	Apartment / 2 BHK	782	₹12,000/month	Unfurnished	2	Family	Rent
+720	Uttarakhand Properties (Uttarakhand.txt)	4 BHK Apartment	Haridwar Residential Area	Haridwar / Uttarakhand	Apartment / 4 BHK	1776	₹23,200/month	Semi-Furnished	4	Bachelors	Rent
+721	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Independent House	Rishikesh Residential Area	Rishikesh / Uttarakhand	Independent House / 2 BHK	895	₹16,100/month	Unfurnished	3	Family	Rent
+722	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Independent House	Rishikesh Central	Rishikesh / Uttarakhand	Independent House / 3 BHK	1460	₹88.68 L	Fully-Furnished	3	Bachelors	Sale
+723	Uttarakhand Properties (Uttarakhand.txt)	4 BHK Apartment	Dehradun Sector 3	Dehradun / Uttarakhand	Apartment / 4 BHK	1831	₹1 Cr	Semi-Furnished	4	Family	Sale
+724	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Apartment	Haridwar East	Haridwar / Uttarakhand	Apartment / 2 BHK	782	₹42.57 L	Semi-Furnished	2	Any	Sale
+725	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Villa	Haridwar Town Centre	Haridwar / Uttarakhand	Villa / 2 BHK	1085	₹46.44 L	Semi-Furnished	2	Bachelors	Sale
+726	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Independent House	Rishikesh Sector 3	Rishikesh / Uttarakhand	Independent House / 3 BHK	1601	₹23,500/month	Unfurnished	2	Family	Rent
+727	Uttarakhand Properties (Uttarakhand.txt)	5 BHK Apartment	Haridwar Sector 3	Haridwar / Uttarakhand	Apartment / 5 BHK	2144	₹94.60 L	Semi-Furnished	6	Bachelors	Sale
+728	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Apartment	Dehradun Nagar	Dehradun / Uttarakhand	Apartment / 3 BHK	1654	₹92.78 L	Fully-Furnished	3	Family	Sale
+729	Uttarakhand Properties (Uttarakhand.txt)	1 BHK Apartment	Dehradun Sector 1	Dehradun / Uttarakhand	Apartment / 1 BHK	515	₹35.11 L	Fully-Furnished	1	Bachelors	Sale
+730	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Apartment	Rishikesh Extension	Rishikesh / Uttarakhand	Apartment / 3 BHK	1370	₹17,600/month	Fully-Furnished	3	Bachelors	Rent
+731	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Villa	Rishikesh Nagar	Rishikesh / Uttarakhand	Villa / 3 BHK	1743	₹83.43 L	Fully-Furnished	3	Any	Sale
+732	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Apartment	Haldwani Colony	Haldwani / Uttarakhand	Apartment / 2 BHK	767	₹12,600/month	Semi-Furnished	2	Family	Rent
+733	Uttarakhand Properties (Uttarakhand.txt)	5 BHK Apartment	Dehradun West	Dehradun / Uttarakhand	Apartment / 5 BHK	2322	₹34,600/month	Semi-Furnished	5	Bachelors	Rent
+734	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Apartment	Haridwar East	Haridwar / Uttarakhand	Apartment / 2 BHK	891	₹15,700/month	Fully-Furnished	2	Bachelors	Rent
+735	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Apartment	Haldwani Central	Haldwani / Uttarakhand	Apartment / 3 BHK	1308	₹77.92 L	Semi-Furnished	3	Any	Sale
+736	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Apartment	Haridwar North	Haridwar / Uttarakhand	Apartment / 3 BHK	1526	₹21,700/month	Fully-Furnished	3	Any	Rent
+737	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Apartment	Haridwar Sector 1	Haridwar / Uttarakhand	Apartment / 2 BHK	696	₹45.28 L	Fully-Furnished	2	Any	Sale
+738	Uttarakhand Properties (Uttarakhand.txt)	4 BHK Apartment	Haldwani Heights	Haldwani / Uttarakhand	Apartment / 4 BHK	1844	₹99.51 L	Semi-Furnished	4	Any	Sale
+739	Uttarakhand Properties (Uttarakhand.txt)	4 BHK Apartment	Haridwar Sector 2	Haridwar / Uttarakhand	Apartment / 4 BHK	1667	₹26,700/month	Unfurnished	4	Bachelors	Rent
+740	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Apartment	Dehradun Colony	Dehradun / Uttarakhand	Apartment / 2 BHK	903	₹13,100/month	Semi-Furnished	1	Family	Rent
+741	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Apartment	Rishikesh Town Centre	Rishikesh / Uttarakhand	Apartment / 3 BHK	1145	₹83.15 L	Semi-Furnished	3	Bachelors	Sale
+742	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Independent House	Rishikesh West	Rishikesh / Uttarakhand	Independent House / 2 BHK	969	₹51.94 L	Fully-Furnished	2	Family	Sale
+743	Uttarakhand Properties (Uttarakhand.txt)	1 BHK Studio	Rishikesh East	Rishikesh / Uttarakhand	Studio / 1 BHK	422	₹29.29 L	Fully-Furnished	1	Bachelors	Sale
+744	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Villa	Dehradun West	Dehradun / Uttarakhand	Villa / 2 BHK	1300	₹54.39 L	Fully-Furnished	2	Family	Sale
+745	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Apartment	Haridwar Sector 1	Haridwar / Uttarakhand	Apartment / 2 BHK	632	₹47.98 L	Fully-Furnished	1	Family	Sale
+746	Uttarakhand Properties (Uttarakhand.txt)	1 BHK Independent House	Rishikesh Sector 1	Rishikesh / Uttarakhand	Independent House / 1 BHK	674	₹34.75 L	Unfurnished	1	Family	Sale
+747	Uttarakhand Properties (Uttarakhand.txt)	4 BHK Independent House	Rishikesh Main Road	Rishikesh / Uttarakhand	Independent House / 4 BHK	2258	₹22,800/month	Fully-Furnished	5	Bachelors	Rent
+748	Uttarakhand Properties (Uttarakhand.txt)	1 BHK Apartment	Haridwar Central	Haridwar / Uttarakhand	Apartment / 1 BHK	530	₹34 L	Fully-Furnished	1	Any	Sale
+749	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Builder Floor	Rishikesh Sector 2	Rishikesh / Uttarakhand	Builder Floor / 3 BHK	1585	₹17,000/month	Semi-Furnished	2	Family	Rent
+750	Uttarakhand Properties (Uttarakhand.txt)	1 BHK Apartment	Dehradun Extension	Dehradun / Uttarakhand	Apartment / 1 BHK	586	₹29.73 L	Fully-Furnished	1	Any	Sale
+751	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Builder Floor	Haldwani West	Haldwani / Uttarakhand	Builder Floor / 2 BHK	975	₹45.22 L	Fully-Furnished	2	Family	Sale
+752	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Builder Floor	Dehradun Central	Dehradun / Uttarakhand	Builder Floor / 3 BHK	1316	₹67.67 L	Semi-Furnished	4	Family	Sale
+753	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Apartment	Haridwar Residential Area	Haridwar / Uttarakhand	Apartment / 2 BHK	706	₹55.17 L	Unfurnished	2	Family	Sale
+754	Uttarakhand Properties (Uttarakhand.txt)	4 BHK Apartment	Haridwar Sector 1	Haridwar / Uttarakhand	Apartment / 4 BHK	2274	₹1.03 Cr	Semi-Furnished	4	Family	Sale
+755	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Builder Floor	Haldwani West	Haldwani / Uttarakhand	Builder Floor / 2 BHK	941	₹13,700/month	Fully-Furnished	2	Any	Rent
+756	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Apartment	Haridwar West	Haridwar / Uttarakhand	Apartment / 2 BHK	772	₹13,000/month	Unfurnished	2	Family	Rent
+757	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Builder Floor	Haridwar South	Haridwar / Uttarakhand	Builder Floor / 3 BHK	1291	₹67.61 L	Unfurnished	3	Family	Sale
+758	Uttarakhand Properties (Uttarakhand.txt)	5 BHK Villa	Rishikesh North	Rishikesh / Uttarakhand	Villa / 5 BHK	3783	₹1.46 Cr	Fully-Furnished	5	Any	Sale
+759	Uttarakhand Properties (Uttarakhand.txt)	4 BHK Apartment	Rishikesh Nagar	Rishikesh / Uttarakhand	Apartment / 4 BHK	1912	₹80.22 L	Fully-Furnished	4	Bachelors	Sale
+760	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Apartment	Haldwani North	Haldwani / Uttarakhand	Apartment / 2 BHK	669	₹58.73 L	Semi-Furnished	2	Bachelors	Sale
+761	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Apartment	Rishikesh Central	Rishikesh / Uttarakhand	Apartment / 2 BHK	991	₹43.92 L	Fully-Furnished	3	Any	Sale
+762	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Independent House	Haridwar Extension	Haridwar / Uttarakhand	Independent House / 3 BHK	1302	₹68.38 L	Unfurnished	2	Family	Sale
+763	Uttarakhand Properties (Uttarakhand.txt)	1 BHK Builder Floor	Haldwani North	Haldwani / Uttarakhand	Builder Floor / 1 BHK	544	₹9,400/month	Semi-Furnished	1	Any	Rent
+764	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Builder Floor	Haridwar West	Haridwar / Uttarakhand	Builder Floor / 3 BHK	1568	₹22,400/month	Fully-Furnished	3	Any	Rent
+765	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Apartment	Haridwar West	Haridwar / Uttarakhand	Apartment / 3 BHK	1003	₹15,600/month	Semi-Furnished	3	Any	Rent
+766	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Builder Floor	Haldwani Town Centre	Haldwani / Uttarakhand	Builder Floor / 3 BHK	1434	₹19,300/month	Semi-Furnished	3	Family	Rent
+767	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Apartment	Haridwar Extension	Haridwar / Uttarakhand	Apartment / 3 BHK	1123	₹75.01 L	Semi-Furnished	3	Family	Sale
+768	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Apartment	Dehradun Main Road	Dehradun / Uttarakhand	Apartment / 2 BHK	737	₹58.30 L	Fully-Furnished	3	Family	Sale
+769	Uttarakhand Properties (Uttarakhand.txt)	5 BHK Builder Floor	Haridwar Sector 3	Haridwar / Uttarakhand	Builder Floor / 5 BHK	3014	₹1.47 Cr	Semi-Furnished	5	Any	Sale
+770	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Independent House	Rishikesh Nagar	Rishikesh / Uttarakhand	Independent House / 2 BHK	924	₹15,000/month	Unfurnished	1	Family	Rent
+771	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Builder Floor	Dehradun Sector 1	Dehradun / Uttarakhand	Builder Floor / 2 BHK	831	₹49.11 L	Semi-Furnished	2	Family	Sale
+772	Uttarakhand Properties (Uttarakhand.txt)	1 BHK Studio	Rishikesh Nagar	Rishikesh / Uttarakhand	Studio / 1 BHK	300	₹29.18 L	Semi-Furnished	1	Bachelors	Sale
+773	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Apartment	Haridwar Colony	Haridwar / Uttarakhand	Apartment / 2 BHK	685	₹48.72 L	Semi-Furnished	3	Family	Sale
+774	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Independent House	Rishikesh Nagar	Rishikesh / Uttarakhand	Independent House / 3 BHK	1701	₹19,800/month	Unfurnished	3	Family	Rent
+775	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Apartment	Rishikesh North	Rishikesh / Uttarakhand	Apartment / 2 BHK	867	₹12,800/month	Semi-Furnished	2	Any	Rent
+776	Uttarakhand Properties (Uttarakhand.txt)	1 BHK Apartment	Dehradun Sector 2	Dehradun / Uttarakhand	Apartment / 1 BHK	569	₹35.56 L	Fully-Furnished	1	Family	Sale
+777	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Builder Floor	Haldwani Town Centre	Haldwani / Uttarakhand	Builder Floor / 2 BHK	883	₹12,700/month	Semi-Furnished	2	Family	Rent
+778	Uttarakhand Properties (Uttarakhand.txt)	4 BHK Apartment	Haldwani Extension	Haldwani / Uttarakhand	Apartment / 4 BHK	1718	₹74.79 L	Unfurnished	4	Bachelors	Sale
+779	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Apartment	Haridwar South	Haridwar / Uttarakhand	Apartment / 3 BHK	902	₹77.40 L	Semi-Furnished	4	Bachelors	Sale
+780	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Apartment	Haridwar East	Haridwar / Uttarakhand	Apartment / 3 BHK	1190	₹76.20 L	Fully-Furnished	4	Family	Sale
+781	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Apartment	Haridwar East	Haridwar / Uttarakhand	Apartment / 3 BHK	1301	₹75.85 L	Fully-Furnished	3	Bachelors	Sale
+782	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Villa	Haridwar Heights	Haridwar / Uttarakhand	Villa / 3 BHK	1610	₹22,500/month	Semi-Furnished	3	Bachelors	Rent
+783	Uttarakhand Properties (Uttarakhand.txt)	1 BHK Apartment	Rishikesh South	Rishikesh / Uttarakhand	Apartment / 1 BHK	553	₹11,300/month	Semi-Furnished	1	Any	Rent
+784	Uttarakhand Properties (Uttarakhand.txt)	1 BHK Studio	Rishikesh Sector 1	Rishikesh / Uttarakhand	Studio / 1 BHK	389	₹9,500/month	Semi-Furnished	1	Bachelors	Rent
+785	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Apartment	Haridwar Residential Area	Haridwar / Uttarakhand	Apartment / 2 BHK	890	₹54.39 L	Semi-Furnished	2	Family	Sale
+786	Uttarakhand Properties (Uttarakhand.txt)	4 BHK Apartment	Haldwani South	Haldwani / Uttarakhand	Apartment / 4 BHK	2102	₹27,200/month	Unfurnished	4	Family	Rent
+787	Uttarakhand Properties (Uttarakhand.txt)	4 BHK Apartment	Rishikesh East	Rishikesh / Uttarakhand	Apartment / 4 BHK	1637	₹22,600/month	Unfurnished	4	Family	Rent
+788	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Villa	Haridwar South	Haridwar / Uttarakhand	Villa / 3 BHK	1761	₹21,600/month	Semi-Furnished	2	Family	Rent
+789	Uttarakhand Properties (Uttarakhand.txt)	4 BHK Apartment	Dehradun North	Dehradun / Uttarakhand	Apartment / 4 BHK	1675	₹24,500/month	Semi-Furnished	4	Bachelors	Rent
+790	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Apartment	Rishikesh East	Rishikesh / Uttarakhand	Apartment / 3 BHK	1072	₹60.55 L	Semi-Furnished	3	Bachelors	Sale
+791	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Apartment	Dehradun East	Dehradun / Uttarakhand	Apartment / 2 BHK	764	₹55 L	Unfurnished	2	Any	Sale
+792	Uttarakhand Properties (Uttarakhand.txt)	4 BHK Apartment	Dehradun Nagar	Dehradun / Uttarakhand	Apartment / 4 BHK	1590	₹1.05 Cr	Fully-Furnished	4	Bachelors	Sale
+793	Uttarakhand Properties (Uttarakhand.txt)	5 BHK Apartment	Dehradun Heights	Dehradun / Uttarakhand	Apartment / 5 BHK	2999	₹30,100/month	Semi-Furnished	4	Family	Rent
+794	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Apartment	Dehradun Extension	Dehradun / Uttarakhand	Apartment / 2 BHK	669	₹51.62 L	Unfurnished	3	Bachelors	Sale
+795	Uttarakhand Properties (Uttarakhand.txt)	4 BHK Builder Floor	Rishikesh Nagar	Rishikesh / Uttarakhand	Builder Floor / 4 BHK	1730	₹75.66 L	Fully-Furnished	4	Bachelors	Sale
+796	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Independent House	Haridwar Sector 2	Haridwar / Uttarakhand	Independent House / 2 BHK	972	₹47.89 L	Semi-Furnished	2	Bachelors	Sale
+797	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Builder Floor	Haldwani South	Haldwani / Uttarakhand	Builder Floor / 3 BHK	1258	₹18,100/month	Semi-Furnished	3	Bachelors	Rent
+798	Uttarakhand Properties (Uttarakhand.txt)	1 BHK Villa	Haridwar Central	Haridwar / Uttarakhand	Villa / 1 BHK	671	₹32.55 L	Fully-Furnished	1	Family	Sale
+799	Uttarakhand Properties (Uttarakhand.txt)	4 BHK Apartment	Haridwar South	Haridwar / Uttarakhand	Apartment / 4 BHK	1955	₹1.05 Cr	Fully-Furnished	5	Bachelors	Sale
+800	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Apartment	Rishikesh Heights	Rishikesh / Uttarakhand	Apartment / 3 BHK	1090	₹70.60 L	Semi-Furnished	2	Family	Sale
+801	Uttarakhand Properties (Uttarakhand.txt)	1 BHK Apartment	Haldwani Central	Haldwani / Uttarakhand	Apartment / 1 BHK	417	₹34.75 L	Semi-Furnished	2	Any	Sale
+802	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Apartment	Rishikesh East	Rishikesh / Uttarakhand	Apartment / 2 BHK	855	₹49.40 L	Semi-Furnished	2	Bachelors	Sale
+803	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Apartment	Dehradun Sector 2	Dehradun / Uttarakhand	Apartment / 2 BHK	1012	₹45.73 L	Semi-Furnished	3	Family	Sale
+804	Uttarakhand Properties (Uttarakhand.txt)	4 BHK Independent House	Haldwani Sector 1	Haldwani / Uttarakhand	Independent House / 4 BHK	2366	₹25,300/month	Unfurnished	4	Family	Rent
+805	Uttarakhand Properties (Uttarakhand.txt)	1 BHK Builder Floor	Haldwani Central	Haldwani / Uttarakhand	Builder Floor / 1 BHK	439	₹30.16 L	Semi-Furnished	1	Bachelors	Sale
+806	Uttarakhand Properties (Uttarakhand.txt)	5 BHK Apartment	Haridwar Colony	Haridwar / Uttarakhand	Apartment / 5 BHK	2903	₹31,100/month	Semi-Furnished	4	Family	Rent
+807	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Apartment	Haridwar West	Haridwar / Uttarakhand	Apartment / 2 BHK	659	₹14,900/month	Unfurnished	1	Any	Rent
+808	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Apartment	Dehradun Sector 2	Dehradun / Uttarakhand	Apartment / 2 BHK	615	₹47.95 L	Fully-Furnished	2	Family	Sale
+809	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Apartment	Haldwani North	Haldwani / Uttarakhand	Apartment / 3 BHK	1250	₹23,200/month	Semi-Furnished	3	Any	Rent
+810	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Apartment	Dehradun Heights	Dehradun / Uttarakhand	Apartment / 2 BHK	908	₹15,400/month	Semi-Furnished	2	Family	Rent
+811	Uttarakhand Properties (Uttarakhand.txt)	4 BHK Apartment	Haridwar Residential Area	Haridwar / Uttarakhand	Apartment / 4 BHK	1637	₹25,100/month	Semi-Furnished	3	Bachelors	Rent
+812	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Apartment	Rishikesh Sector 2	Rishikesh / Uttarakhand	Apartment / 3 BHK	1294	₹82.15 L	Fully-Furnished	3	Any	Sale
+813	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Independent House	Haridwar North	Haridwar / Uttarakhand	Independent House / 2 BHK	1003	₹50.03 L	Unfurnished	2	Any	Sale
+814	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Apartment	Haridwar East	Haridwar / Uttarakhand	Apartment / 2 BHK	613	₹43.37 L	Fully-Furnished	2	Bachelors	Sale
+815	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Apartment	Dehradun North	Dehradun / Uttarakhand	Apartment / 2 BHK	813	₹55.02 L	Semi-Furnished	2	Family	Sale
+816	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Apartment	Haridwar Residential Area	Haridwar / Uttarakhand	Apartment / 3 BHK	1217	₹15,900/month	Semi-Furnished	4	Any	Rent
+817	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Apartment	Haldwani Heights	Haldwani / Uttarakhand	Apartment / 2 BHK	680	₹40.49 L	Semi-Furnished	2	Bachelors	Sale
+818	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Builder Floor	Dehradun East	Dehradun / Uttarakhand	Builder Floor / 2 BHK	959	₹45.04 L	Fully-Furnished	3	Any	Sale
+819	Uttarakhand Properties (Uttarakhand.txt)	1 BHK Villa	Dehradun Central	Dehradun / Uttarakhand	Villa / 1 BHK	712	₹36.29 L	Unfurnished	1	Family	Sale
+820	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Builder Floor	Dehradun Residential Area	Dehradun / Uttarakhand	Builder Floor / 2 BHK	803	₹60.04 L	Semi-Furnished	3	Family	Sale
+821	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Apartment	Haridwar Nagar	Haridwar / Uttarakhand	Apartment / 2 BHK	792	₹12,100/month	Semi-Furnished	2	Family	Rent
+822	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Builder Floor	Haldwani Colony	Haldwani / Uttarakhand	Builder Floor / 3 BHK	1313	₹73.18 L	Fully-Furnished	3	Bachelors	Sale
+823	Uttarakhand Properties (Uttarakhand.txt)	4 BHK Apartment	Dehradun Sector 3	Dehradun / Uttarakhand	Apartment / 4 BHK	1638	₹84.25 L	Semi-Furnished	5	Family	Sale
+824	Uttarakhand Properties (Uttarakhand.txt)	4 BHK Apartment	Rishikesh Extension	Rishikesh / Uttarakhand	Apartment / 4 BHK	1347	₹83.50 L	Unfurnished	3	Any	Sale
+825	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Independent House	Rishikesh North	Rishikesh / Uttarakhand	Independent House / 3 BHK	1437	₹81.50 L	Fully-Furnished	2	Any	Sale
+826	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Builder Floor	Dehradun Central	Dehradun / Uttarakhand	Builder Floor / 3 BHK	1042	₹72.23 L	Semi-Furnished	3	Any	Sale
+827	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Independent House	Haldwani Residential Area	Haldwani / Uttarakhand	Independent House / 3 BHK	1237	₹84.11 L	Unfurnished	3	Bachelors	Sale
+828	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Apartment	Rishikesh Sector 2	Rishikesh / Uttarakhand	Apartment / 2 BHK	648	₹15,100/month	Unfurnished	2	Any	Rent
+829	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Independent House	Dehradun South	Dehradun / Uttarakhand	Independent House / 3 BHK	1533	₹18,600/month	Semi-Furnished	3	Family	Rent
+830	Uttarakhand Properties (Uttarakhand.txt)	4 BHK Apartment	Rishikesh North	Rishikesh / Uttarakhand	Apartment / 4 BHK	1766	₹28,000/month	Semi-Furnished	4	Family	Rent
+831	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Independent House	Haridwar Town Centre	Haridwar / Uttarakhand	Independent House / 3 BHK	1418	₹77.35 L	Fully-Furnished	3	Family	Sale
+832	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Apartment	Rishikesh West	Rishikesh / Uttarakhand	Apartment / 2 BHK	765	₹56.82 L	Semi-Furnished	2	Bachelors	Sale
+833	Uttarakhand Properties (Uttarakhand.txt)	4 BHK Apartment	Dehradun Colony	Dehradun / Uttarakhand	Apartment / 4 BHK	1898	₹88.12 L	Fully-Furnished	4	Family	Sale
+834	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Apartment	Haridwar West	Haridwar / Uttarakhand	Apartment / 3 BHK	1328	₹22,200/month	Semi-Furnished	4	Family	Rent
+835	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Builder Floor	Haridwar West	Haridwar / Uttarakhand	Builder Floor / 3 BHK	904	₹72.87 L	Semi-Furnished	3	Bachelors	Sale
+836	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Apartment	Dehradun Sector 3	Dehradun / Uttarakhand	Apartment / 2 BHK	891	₹62.60 L	Semi-Furnished	1	Family	Sale
+837	Uttarakhand Properties (Uttarakhand.txt)	4 BHK Apartment	Haldwani Nagar	Haldwani / Uttarakhand	Apartment / 4 BHK	1339	₹24,000/month	Unfurnished	4	Bachelors	Rent
+838	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Builder Floor	Haldwani Sector 1	Haldwani / Uttarakhand	Builder Floor / 2 BHK	807	₹60.24 L	Unfurnished	1	Family	Sale
+839	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Apartment	Haridwar Residential Area	Haridwar / Uttarakhand	Apartment / 3 BHK	1345	₹82.73 L	Unfurnished	3	Any	Sale
+840	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Apartment	Dehradun Heights	Dehradun / Uttarakhand	Apartment / 2 BHK	912	₹13,500/month	Semi-Furnished	2	Any	Rent
+841	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Apartment	Haldwani Sector 3	Haldwani / Uttarakhand	Apartment / 2 BHK	674	₹53.21 L	Fully-Furnished	3	Any	Sale
+842	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Apartment	Rishikesh North	Rishikesh / Uttarakhand	Apartment / 2 BHK	723	₹56.17 L	Semi-Furnished	2	Family	Sale
+843	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Builder Floor	Haridwar Main Road	Haridwar / Uttarakhand	Builder Floor / 2 BHK	855	₹58.80 L	Fully-Furnished	1	Family	Sale
+844	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Independent House	Dehradun Town Centre	Dehradun / Uttarakhand	Independent House / 2 BHK	1058	₹15,900/month	Semi-Furnished	2	Family	Rent
+845	Uttarakhand Properties (Uttarakhand.txt)	5 BHK Builder Floor	Dehradun Residential Area	Dehradun / Uttarakhand	Builder Floor / 5 BHK	2704	₹32,500/month	Unfurnished	4	Family	Rent
+846	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Builder Floor	Dehradun Sector 3	Dehradun / Uttarakhand	Builder Floor / 3 BHK	1231	₹85.57 L	Unfurnished	3	Bachelors	Sale
+847	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Villa	Haldwani Sector 2	Haldwani / Uttarakhand	Villa / 2 BHK	1271	₹17,400/month	Semi-Furnished	2	Family	Rent
+848	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Independent House	Haridwar East	Haridwar / Uttarakhand	Independent House / 2 BHK	1046	₹15,400/month	Semi-Furnished	3	Bachelors	Rent
+849	Uttarakhand Properties (Uttarakhand.txt)	5 BHK Apartment	Haldwani East	Haldwani / Uttarakhand	Apartment / 5 BHK	2433	₹1.37 Cr	Semi-Furnished	5	Family	Sale
+850	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Builder Floor	Rishikesh Main Road	Rishikesh / Uttarakhand	Builder Floor / 3 BHK	1253	₹20,600/month	Semi-Furnished	3	Any	Rent
+851	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Apartment	Dehradun North	Dehradun / Uttarakhand	Apartment / 3 BHK	1355	₹86.25 L	Semi-Furnished	3	Bachelors	Sale
+852	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Apartment	Rishikesh Heights	Rishikesh / Uttarakhand	Apartment / 2 BHK	515	₹54.94 L	Semi-Furnished	2	Any	Sale
+853	Uttarakhand Properties (Uttarakhand.txt)	1 BHK Studio	Dehradun West	Dehradun / Uttarakhand	Studio / 1 BHK	319	₹33.76 L	Fully-Furnished	2	Family	Sale
+854	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Independent House	Rishikesh Town Centre	Rishikesh / Uttarakhand	Independent House / 2 BHK	1008	₹61.36 L	Fully-Furnished	1	Family	Sale
+855	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Builder Floor	Haldwani Residential Area	Haldwani / Uttarakhand	Builder Floor / 3 BHK	1471	₹65.49 L	Semi-Furnished	3	Bachelors	Sale
+856	Uttarakhand Properties (Uttarakhand.txt)	4 BHK Apartment	Rishikesh Colony	Rishikesh / Uttarakhand	Apartment / 4 BHK	1777	₹80.39 L	Semi-Furnished	5	Family	Sale
+857	Uttarakhand Properties (Uttarakhand.txt)	4 BHK Apartment	Haldwani North	Haldwani / Uttarakhand	Apartment / 4 BHK	1487	₹25,600/month	Fully-Furnished	5	Family	Rent
+858	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Apartment	Dehradun West	Dehradun / Uttarakhand	Apartment / 2 BHK	796	₹42.31 L	Semi-Furnished	2	Any	Sale
+859	Uttarakhand Properties (Uttarakhand.txt)	1 BHK Studio	Haridwar Sector 3	Haridwar / Uttarakhand	Studio / 1 BHK	320	₹8,100/month	Unfurnished	1	Any	Rent
+860	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Builder Floor	Dehradun Central	Dehradun / Uttarakhand	Builder Floor / 3 BHK	1303	₹65.99 L	Semi-Furnished	4	Any	Sale
+861	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Apartment	Dehradun Nagar	Dehradun / Uttarakhand	Apartment / 2 BHK	762	₹46.03 L	Semi-Furnished	2	Bachelors	Sale
+862	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Apartment	Rishikesh South	Rishikesh / Uttarakhand	Apartment / 3 BHK	1118	₹21,700/month	Fully-Furnished	2	Family	Rent
+863	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Apartment	Haridwar Residential Area	Haridwar / Uttarakhand	Apartment / 3 BHK	1220	₹70.12 L	Semi-Furnished	4	Bachelors	Sale
+864	Uttarakhand Properties (Uttarakhand.txt)	4 BHK Apartment	Haldwani Residential Area	Haldwani / Uttarakhand	Apartment / 4 BHK	1599	₹26,200/month	Semi-Furnished	4	Any	Rent
+865	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Apartment	Dehradun Central	Dehradun / Uttarakhand	Apartment / 2 BHK	846	₹60.34 L	Unfurnished	3	Bachelors	Sale
+866	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Builder Floor	Dehradun East	Dehradun / Uttarakhand	Builder Floor / 2 BHK	963	₹47.16 L	Fully-Furnished	2	Family	Sale
+867	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Apartment	Dehradun South	Dehradun / Uttarakhand	Apartment / 3 BHK	1661	₹24,600/month	Fully-Furnished	2	Bachelors	Rent
+868	Uttarakhand Properties (Uttarakhand.txt)	4 BHK Independent House	Haldwani Central	Haldwani / Uttarakhand	Independent House / 4 BHK	1970	₹93.68 L	Unfurnished	4	Family	Sale
+869	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Builder Floor	Dehradun Colony	Dehradun / Uttarakhand	Builder Floor / 3 BHK	994	₹75.67 L	Semi-Furnished	3	Family	Sale
+870	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Apartment	Dehradun Central	Dehradun / Uttarakhand	Apartment / 3 BHK	1584	₹69.20 L	Semi-Furnished	2	Any	Sale
+871	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Apartment	Dehradun Sector 2	Dehradun / Uttarakhand	Apartment / 3 BHK	1403	₹21,700/month	Semi-Furnished	4	Bachelors	Rent
+872	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Apartment	Dehradun Extension	Dehradun / Uttarakhand	Apartment / 3 BHK	1098	₹71.69 L	Unfurnished	4	Bachelors	Sale
+873	Uttarakhand Properties (Uttarakhand.txt)	4 BHK Builder Floor	Dehradun Nagar	Dehradun / Uttarakhand	Builder Floor / 4 BHK	2212	₹21,800/month	Semi-Furnished	4	Bachelors	Rent
+874	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Apartment	Rishikesh South	Rishikesh / Uttarakhand	Apartment / 3 BHK	921	₹77.32 L	Semi-Furnished	3	Family	Sale
+875	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Apartment	Rishikesh Heights	Rishikesh / Uttarakhand	Apartment / 2 BHK	698	₹48.64 L	Semi-Furnished	2	Bachelors	Sale
+876	Uttarakhand Properties (Uttarakhand.txt)	4 BHK Independent House	Dehradun Residential Area	Dehradun / Uttarakhand	Independent House / 4 BHK	2852	₹1.15 Cr	Fully-Furnished	3	Bachelors	Sale
+877	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Apartment	Haldwani Sector 3	Haldwani / Uttarakhand	Apartment / 3 BHK	1242	₹66.49 L	Semi-Furnished	3	Bachelors	Sale
+878	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Villa	Haridwar West	Haridwar / Uttarakhand	Villa / 3 BHK	2106	₹96.94 L	Semi-Furnished	3	Family	Sale
+879	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Apartment	Haldwani Colony	Haldwani / Uttarakhand	Apartment / 3 BHK	1231	₹20,700/month	Unfurnished	3	Family	Rent
+880	Uttarakhand Properties (Uttarakhand.txt)	4 BHK Apartment	Dehradun Heights	Dehradun / Uttarakhand	Apartment / 4 BHK	1824	₹90.74 L	Fully-Furnished	4	Family	Sale
+881	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Villa	Haldwani Sector 2	Haldwani / Uttarakhand	Villa / 3 BHK	1718	₹73.54 L	Unfurnished	3	Bachelors	Sale
+882	Uttarakhand Properties (Uttarakhand.txt)	5 BHK Apartment	Rishikesh Extension	Rishikesh / Uttarakhand	Apartment / 5 BHK	2279	₹1.09 Cr	Semi-Furnished	5	Bachelors	Sale
+883	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Independent House	Rishikesh South	Rishikesh / Uttarakhand	Independent House / 2 BHK	900	₹59.41 L	Fully-Furnished	3	Family	Sale
+884	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Builder Floor	Haldwani Sector 3	Haldwani / Uttarakhand	Builder Floor / 3 BHK	1463	₹19,500/month	Fully-Furnished	2	Bachelors	Rent
+885	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Apartment	Haridwar Main Road	Haridwar / Uttarakhand	Apartment / 3 BHK	1099	₹16,600/month	Unfurnished	3	Any	Rent
+886	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Apartment	Rishikesh South	Rishikesh / Uttarakhand	Apartment / 2 BHK	712	₹43.72 L	Semi-Furnished	3	Family	Sale
+887	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Independent House	Dehradun Residential Area	Dehradun / Uttarakhand	Independent House / 2 BHK	887	₹44.86 L	Unfurnished	1	Family	Sale
+888	Uttarakhand Properties (Uttarakhand.txt)	1 BHK Studio	Haldwani Sector 3	Haldwani / Uttarakhand	Studio / 1 BHK	501	₹35.60 L	Unfurnished	1	Family	Sale
+889	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Apartment	Rishikesh Town Centre	Rishikesh / Uttarakhand	Apartment / 3 BHK	1534	₹81.91 L	Semi-Furnished	3	Any	Sale
+890	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Apartment	Dehradun Residential Area	Dehradun / Uttarakhand	Apartment / 2 BHK	982	₹13,400/month	Unfurnished	2	Any	Rent
+891	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Apartment	Rishikesh Main Road	Rishikesh / Uttarakhand	Apartment / 3 BHK	1240	₹58.23 L	Semi-Furnished	3	Family	Sale
+892	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Builder Floor	Dehradun Town Centre	Dehradun / Uttarakhand	Builder Floor / 2 BHK	1006	₹54.02 L	Unfurnished	2	Family	Sale
+893	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Apartment	Rishikesh Sector 3	Rishikesh / Uttarakhand	Apartment / 2 BHK	657	₹11,600/month	Semi-Furnished	3	Family	Rent
+894	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Apartment	Haldwani Sector 2	Haldwani / Uttarakhand	Apartment / 2 BHK	947	₹16,500/month	Semi-Furnished	2	Any	Rent
+895	Uttarakhand Properties (Uttarakhand.txt)	1 BHK Studio	Haridwar Extension	Haridwar / Uttarakhand	Studio / 1 BHK	398	₹8,600/month	Fully-Furnished	2	Bachelors	Rent
+896	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Villa	Haridwar Sector 1	Haridwar / Uttarakhand	Villa / 2 BHK	1169	₹14,400/month	Semi-Furnished	2	Family	Rent
+897	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Independent House	Rishikesh South	Rishikesh / Uttarakhand	Independent House / 3 BHK	1469	₹22,200/month	Unfurnished	2	Bachelors	Rent
+898	Uttarakhand Properties (Uttarakhand.txt)	5 BHK Builder Floor	Rishikesh Sector 2	Rishikesh / Uttarakhand	Builder Floor / 5 BHK	2727	₹35,900/month	Unfurnished	6	Bachelors	Rent
+899	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Independent House	Haridwar Heights	Haridwar / Uttarakhand	Independent House / 3 BHK	1489	₹62.16 L	Unfurnished	3	Family	Sale
+900	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Villa	Haldwani East	Haldwani / Uttarakhand	Villa / 2 BHK	729	₹42.92 L	Unfurnished	3	Bachelors	Sale
+901	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Independent House	Rishikesh Nagar	Rishikesh / Uttarakhand	Independent House / 2 BHK	1093	₹64.18 L	Unfurnished	2	Bachelors	Sale
+902	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Apartment	Rishikesh Heights	Rishikesh / Uttarakhand	Apartment / 3 BHK	887	₹69.86 L	Semi-Furnished	4	Bachelors	Sale
+903	Uttarakhand Properties (Uttarakhand.txt)	1 BHK Apartment	Haridwar Nagar	Haridwar / Uttarakhand	Apartment / 1 BHK	441	₹35.92 L	Semi-Furnished	1	Bachelors	Sale
+904	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Apartment	Haldwani Heights	Haldwani / Uttarakhand	Apartment / 3 BHK	959	₹19,000/month	Fully-Furnished	3	Any	Rent
+905	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Apartment	Haridwar Main Road	Haridwar / Uttarakhand	Apartment / 3 BHK	1347	₹18,700/month	Fully-Furnished	3	Family	Rent
+906	Uttarakhand Properties (Uttarakhand.txt)	1 BHK Studio	Rishikesh Sector 3	Rishikesh / Uttarakhand	Studio / 1 BHK	467	₹37.65 L	Semi-Furnished	1	Family	Sale
+907	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Villa	Rishikesh Heights	Rishikesh / Uttarakhand	Villa / 2 BHK	1220	₹68.32 L	Semi-Furnished	2	Bachelors	Sale
+908	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Villa	Rishikesh Main Road	Rishikesh / Uttarakhand	Villa / 2 BHK	1088	₹17,700/month	Semi-Furnished	2	Family	Rent
+909	Uttarakhand Properties (Uttarakhand.txt)	1 BHK Apartment	Haridwar Nagar	Haridwar / Uttarakhand	Apartment / 1 BHK	568	₹37.49 L	Fully-Furnished	2	Any	Sale
+910	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Apartment	Haridwar South	Haridwar / Uttarakhand	Apartment / 2 BHK	918	₹56.32 L	Semi-Furnished	2	Family	Sale
+911	Uttarakhand Properties (Uttarakhand.txt)	4 BHK Apartment	Rishikesh Central	Rishikesh / Uttarakhand	Apartment / 4 BHK	1637	₹1.06 Cr	Semi-Furnished	5	Bachelors	Sale
+912	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Builder Floor	Haldwani Residential Area	Haldwani / Uttarakhand	Builder Floor / 2 BHK	832	₹53.33 L	Semi-Furnished	2	Family	Sale
+913	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Builder Floor	Rishikesh Sector 2	Rishikesh / Uttarakhand	Builder Floor / 2 BHK	750	₹47.17 L	Fully-Furnished	2	Family	Sale
+914	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Apartment	Haridwar West	Haridwar / Uttarakhand	Apartment / 2 BHK	578	₹48.04 L	Semi-Furnished	3	Any	Sale
+915	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Independent House	Haridwar Town Centre	Haridwar / Uttarakhand	Independent House / 3 BHK	1557	₹21,600/month	Semi-Furnished	3	Family	Rent
+916	Uttarakhand Properties (Uttarakhand.txt)	1 BHK Villa	Rishikesh South	Rishikesh / Uttarakhand	Villa / 1 BHK	810	₹12,400/month	Semi-Furnished	1	Any	Rent
+917	Uttarakhand Properties (Uttarakhand.txt)	1 BHK Studio	Haridwar Extension	Haridwar / Uttarakhand	Studio / 1 BHK	341	₹27.79 L	Semi-Furnished	1	Family	Sale
+918	Uttarakhand Properties (Uttarakhand.txt)	1 BHK Independent House	Haldwani West	Haldwani / Uttarakhand	Independent House / 1 BHK	573	₹8,500/month	Semi-Furnished	1	Family	Rent
+919	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Apartment	Haridwar North	Haridwar / Uttarakhand	Apartment / 3 BHK	1106	₹17,300/month	Semi-Furnished	3	Family	Rent
+920	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Apartment	Haridwar Main Road	Haridwar / Uttarakhand	Apartment / 3 BHK	1318	₹66.88 L	Semi-Furnished	3	Any	Sale
+921	Uttarakhand Properties (Uttarakhand.txt)	4 BHK Apartment	Haldwani Extension	Haldwani / Uttarakhand	Apartment / 4 BHK	1607	₹85.02 L	Fully-Furnished	4	Family	Sale
+922	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Apartment	Dehradun South	Dehradun / Uttarakhand	Apartment / 2 BHK	903	₹52.61 L	Semi-Furnished	1	Bachelors	Sale
+923	Uttarakhand Properties (Uttarakhand.txt)	5 BHK Apartment	Haldwani Nagar	Haldwani / Uttarakhand	Apartment / 5 BHK	2642	₹1.30 Cr	Unfurnished	6	Family	Sale
+924	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Apartment	Rishikesh Sector 3	Rishikesh / Uttarakhand	Apartment / 3 BHK	1403	₹19,400/month	Semi-Furnished	3	Family	Rent
+925	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Apartment	Dehradun North	Dehradun / Uttarakhand	Apartment / 3 BHK	1382	₹18,700/month	Semi-Furnished	2	Any	Rent
+926	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Apartment	Dehradun Sector 1	Dehradun / Uttarakhand	Apartment / 2 BHK	799	₹42.37 L	Unfurnished	2	Family	Sale
+927	Uttarakhand Properties (Uttarakhand.txt)	1 BHK Apartment	Haridwar Central	Haridwar / Uttarakhand	Apartment / 1 BHK	476	₹29.54 L	Fully-Furnished	1	Bachelors	Sale
+928	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Apartment	Rishikesh Sector 2	Rishikesh / Uttarakhand	Apartment / 3 BHK	1125	₹58.18 L	Semi-Furnished	3	Bachelors	Sale
+929	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Independent House	Rishikesh Sector 2	Rishikesh / Uttarakhand	Independent House / 3 BHK	1628	₹88.50 L	Semi-Furnished	3	Family	Sale
+930	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Builder Floor	Haridwar Town Centre	Haridwar / Uttarakhand	Builder Floor / 3 BHK	939	₹66.03 L	Fully-Furnished	3	Bachelors	Sale
+931	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Apartment	Dehradun Main Road	Dehradun / Uttarakhand	Apartment / 2 BHK	712	₹57.74 L	Semi-Furnished	2	Any	Sale
+932	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Apartment	Dehradun Residential Area	Dehradun / Uttarakhand	Apartment / 2 BHK	1003	₹44.42 L	Semi-Furnished	2	Family	Sale
+933	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Apartment	Haridwar West	Haridwar / Uttarakhand	Apartment / 3 BHK	880	₹60.07 L	Fully-Furnished	3	Family	Sale
+934	Uttarakhand Properties (Uttarakhand.txt)	4 BHK Apartment	Dehradun Sector 1	Dehradun / Uttarakhand	Apartment / 4 BHK	2019	₹97.22 L	Semi-Furnished	4	Family	Sale
+935	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Builder Floor	Dehradun Sector 1	Dehradun / Uttarakhand	Builder Floor / 2 BHK	684	₹52.06 L	Fully-Furnished	2	Family	Sale
+936	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Apartment	Haridwar Central	Haridwar / Uttarakhand	Apartment / 2 BHK	808	₹16,000/month	Fully-Furnished	2	Any	Rent
+937	Uttarakhand Properties (Uttarakhand.txt)	4 BHK Apartment	Dehradun Sector 3	Dehradun / Uttarakhand	Apartment / 4 BHK	1982	₹1.03 Cr	Semi-Furnished	4	Bachelors	Sale
+938	Uttarakhand Properties (Uttarakhand.txt)	4 BHK Builder Floor	Dehradun Extension	Dehradun / Uttarakhand	Builder Floor / 4 BHK	1632	₹1.04 Cr	Semi-Furnished	4	Family	Sale
+939	Uttarakhand Properties (Uttarakhand.txt)	4 BHK Apartment	Dehradun Extension	Dehradun / Uttarakhand	Apartment / 4 BHK	2429	₹1.04 Cr	Semi-Furnished	3	Bachelors	Sale
+940	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Builder Floor	Haridwar Sector 1	Haridwar / Uttarakhand	Builder Floor / 2 BHK	731	₹41.11 L	Semi-Furnished	3	Family	Sale
+941	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Villa	Rishikesh Sector 1	Rishikesh / Uttarakhand	Villa / 3 BHK	1557	₹16,700/month	Semi-Furnished	4	Bachelors	Rent
+942	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Villa	Rishikesh West	Rishikesh / Uttarakhand	Villa / 3 BHK	1558	₹65.79 L	Fully-Furnished	2	Family	Sale
+943	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Apartment	Rishikesh East	Rishikesh / Uttarakhand	Apartment / 2 BHK	811	₹58.39 L	Semi-Furnished	2	Bachelors	Sale
+944	Uttarakhand Properties (Uttarakhand.txt)	4 BHK Independent House	Haldwani Residential Area	Haldwani / Uttarakhand	Independent House / 4 BHK	1692	₹77.29 L	Fully-Furnished	4	Family	Sale
+945	Uttarakhand Properties (Uttarakhand.txt)	4 BHK Apartment	Haldwani West	Haldwani / Uttarakhand	Apartment / 4 BHK	1742	₹83.05 L	Fully-Furnished	4	Family	Sale
+946	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Independent House	Rishikesh Main Road	Rishikesh / Uttarakhand	Independent House / 2 BHK	1039	₹45.29 L	Semi-Furnished	2	Family	Sale
+947	Uttarakhand Properties (Uttarakhand.txt)	5 BHK Villa	Rishikesh Sector 3	Rishikesh / Uttarakhand	Villa / 5 BHK	2986	₹1.20 Cr	Semi-Furnished	5	Any	Sale
+948	Uttarakhand Properties (Uttarakhand.txt)	1 BHK Apartment	Haridwar North	Haridwar / Uttarakhand	Apartment / 1 BHK	548	₹35.33 L	Semi-Furnished	2	Family	Sale
+949	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Apartment	Rishikesh Extension	Rishikesh / Uttarakhand	Apartment / 2 BHK	904	₹53.98 L	Fully-Furnished	2	Bachelors	Sale
+950	Uttarakhand Properties (Uttarakhand.txt)	4 BHK Apartment	Dehradun Main Road	Dehradun / Uttarakhand	Apartment / 4 BHK	1859	₹1.02 Cr	Semi-Furnished	4	Family	Sale
+951	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Apartment	Haldwani Main Road	Haldwani / Uttarakhand	Apartment / 3 BHK	1414	₹64.85 L	Fully-Furnished	2	Any	Sale
+952	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Apartment	Haldwani Colony	Haldwani / Uttarakhand	Apartment / 2 BHK	828	₹59.11 L	Semi-Furnished	1	Bachelors	Sale
+953	Uttarakhand Properties (Uttarakhand.txt)	1 BHK Apartment	Rishikesh West	Rishikesh / Uttarakhand	Apartment / 1 BHK	537	₹38.48 L	Semi-Furnished	2	Family	Sale
+954	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Apartment	Dehradun Sector 3	Dehradun / Uttarakhand	Apartment / 2 BHK	927	₹43.85 L	Fully-Furnished	1	Family	Sale
+955	Uttarakhand Properties (Uttarakhand.txt)	1 BHK Apartment	Rishikesh Sector 2	Rishikesh / Uttarakhand	Apartment / 1 BHK	514	₹39.54 L	Fully-Furnished	2	Any	Sale
+956	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Apartment	Rishikesh Main Road	Rishikesh / Uttarakhand	Apartment / 3 BHK	1342	₹84.60 L	Unfurnished	3	Family	Sale
+957	Uttarakhand Properties (Uttarakhand.txt)	1 BHK Apartment	Rishikesh West	Rishikesh / Uttarakhand	Apartment / 1 BHK	525	₹31.84 L	Semi-Furnished	1	Family	Sale
+958	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Independent House	Haridwar Main Road	Haridwar / Uttarakhand	Independent House / 2 BHK	1094	₹18,200/month	Semi-Furnished	2	Family	Rent
+959	Uttarakhand Properties (Uttarakhand.txt)	1 BHK Apartment	Haldwani Sector 3	Haldwani / Uttarakhand	Apartment / 1 BHK	495	₹37.26 L	Unfurnished	1	Family	Sale
+960	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Builder Floor	Rishikesh North	Rishikesh / Uttarakhand	Builder Floor / 2 BHK	966	₹15,100/month	Unfurnished	2	Family	Rent
+961	Uttarakhand Properties (Uttarakhand.txt)	1 BHK Villa	Haldwani East	Haldwani / Uttarakhand	Villa / 1 BHK	635	₹8,100/month	Unfurnished	2	Bachelors	Rent
+962	Uttarakhand Properties (Uttarakhand.txt)	1 BHK Apartment	Rishikesh Town Centre	Rishikesh / Uttarakhand	Apartment / 1 BHK	461	₹10,000/month	Unfurnished	1	Any	Rent
+963	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Independent House	Dehradun Sector 2	Dehradun / Uttarakhand	Independent House / 3 BHK	1314	₹17,400/month	Semi-Furnished	2	Bachelors	Rent
+964	Uttarakhand Properties (Uttarakhand.txt)	4 BHK Apartment	Rishikesh Colony	Rishikesh / Uttarakhand	Apartment / 4 BHK	1966	₹1.02 Cr	Semi-Furnished	3	Any	Sale
+965	Uttarakhand Properties (Uttarakhand.txt)	4 BHK Apartment	Rishikesh Colony	Rishikesh / Uttarakhand	Apartment / 4 BHK	1793	₹1.07 Cr	Semi-Furnished	5	Family	Sale
+966	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Builder Floor	Dehradun Heights	Dehradun / Uttarakhand	Builder Floor / 2 BHK	852	₹15,600/month	Fully-Furnished	2	Family	Rent
+967	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Apartment	Rishikesh Nagar	Rishikesh / Uttarakhand	Apartment / 2 BHK	924	₹60.86 L	Fully-Furnished	3	Bachelors	Sale
+968	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Apartment	Rishikesh Sector 3	Rishikesh / Uttarakhand	Apartment / 3 BHK	1125	₹75.90 L	Semi-Furnished	3	Bachelors	Sale
+969	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Independent House	Haldwani Residential Area	Haldwani / Uttarakhand	Independent House / 3 BHK	1703	₹92.69 L	Semi-Furnished	2	Family	Sale
+970	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Apartment	Rishikesh Central	Rishikesh / Uttarakhand	Apartment / 2 BHK	906	₹16,000/month	Unfurnished	2	Any	Rent
+971	Uttarakhand Properties (Uttarakhand.txt)	4 BHK Apartment	Haldwani Sector 1	Haldwani / Uttarakhand	Apartment / 4 BHK	1446	₹27,500/month	Unfurnished	4	Family	Rent
+972	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Independent House	Haridwar Colony	Haridwar / Uttarakhand	Independent House / 3 BHK	1492	₹19,600/month	Semi-Furnished	3	Bachelors	Rent
+973	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Independent House	Haridwar Extension	Haridwar / Uttarakhand	Independent House / 3 BHK	1478	₹64.02 L	Unfurnished	2	Bachelors	Sale
+974	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Apartment	Haldwani Colony	Haldwani / Uttarakhand	Apartment / 2 BHK	875	₹15,900/month	Semi-Furnished	3	Bachelors	Rent
+975	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Apartment	Haldwani North	Haldwani / Uttarakhand	Apartment / 3 BHK	1300	₹65.33 L	Fully-Furnished	3	Any	Sale
+976	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Apartment	Haldwani Sector 2	Haldwani / Uttarakhand	Apartment / 2 BHK	754	₹55.43 L	Semi-Furnished	1	Family	Sale
+977	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Apartment	Haridwar Extension	Haridwar / Uttarakhand	Apartment / 2 BHK	1155	₹14,600/month	Fully-Furnished	3	Any	Rent
+978	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Independent House	Rishikesh South	Rishikesh / Uttarakhand	Independent House / 3 BHK	1531	₹82.86 L	Unfurnished	3	Bachelors	Sale
+979	Uttarakhand Properties (Uttarakhand.txt)	1 BHK Apartment	Rishikesh Nagar	Rishikesh / Uttarakhand	Apartment / 1 BHK	575	₹30.46 L	Unfurnished	1	Family	Sale
+980	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Villa	Haldwani South	Haldwani / Uttarakhand	Villa / 3 BHK	1689	₹18,600/month	Semi-Furnished	3	Family	Rent
+981	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Independent House	Rishikesh West	Rishikesh / Uttarakhand	Independent House / 3 BHK	1743	₹20,500/month	Unfurnished	3	Family	Rent
+982	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Apartment	Rishikesh Sector 3	Rishikesh / Uttarakhand	Apartment / 2 BHK	684	₹46.61 L	Unfurnished	2	Family	Sale
+983	Uttarakhand Properties (Uttarakhand.txt)	1 BHK Apartment	Haridwar Sector 1	Haridwar / Uttarakhand	Apartment / 1 BHK	563	₹30.81 L	Semi-Furnished	1	Family	Sale
+984	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Independent House	Haridwar Sector 1	Haridwar / Uttarakhand	Independent House / 2 BHK	1062	₹16,400/month	Fully-Furnished	2	Any	Rent
+985	Uttarakhand Properties (Uttarakhand.txt)	5 BHK Builder Floor	Haldwani East	Haldwani / Uttarakhand	Builder Floor / 5 BHK	2920	₹33,800/month	Unfurnished	5	Any	Rent
+986	Uttarakhand Properties (Uttarakhand.txt)	4 BHK Villa	Haldwani Extension	Haldwani / Uttarakhand	Villa / 4 BHK	2225	₹1.11 Cr	Semi-Furnished	4	Bachelors	Sale
+987	Uttarakhand Properties (Uttarakhand.txt)	1 BHK Builder Floor	Haldwani Nagar	Haldwani / Uttarakhand	Builder Floor / 1 BHK	488	₹8,600/month	Semi-Furnished	1	Family	Rent
+988	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Independent House	Dehradun Central	Dehradun / Uttarakhand	Independent House / 3 BHK	1612	₹75.44 L	Semi-Furnished	3	Bachelors	Sale
+989	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Apartment	Dehradun Sector 3	Dehradun / Uttarakhand	Apartment / 2 BHK	972	₹17,300/month	Unfurnished	2	Family	Rent
+990	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Builder Floor	Haldwani Main Road	Haldwani / Uttarakhand	Builder Floor / 3 BHK	1485	₹84.98 L	Unfurnished	3	Bachelors	Sale
+991	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Apartment	Haldwani East	Haldwani / Uttarakhand	Apartment / 2 BHK	754	₹14,400/month	Unfurnished	3	Family	Rent
+992	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Builder Floor	Dehradun South	Dehradun / Uttarakhand	Builder Floor / 2 BHK	912	₹50.36 L	Fully-Furnished	2	Bachelors	Sale
+993	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Apartment	Haridwar Heights	Haridwar / Uttarakhand	Apartment / 2 BHK	895	₹12,300/month	Fully-Furnished	2	Family	Rent
+994	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Apartment	Haldwani Extension	Haldwani / Uttarakhand	Apartment / 2 BHK	842	₹45.18 L	Fully-Furnished	2	Any	Sale
+995	Uttarakhand Properties (Uttarakhand.txt)	1 BHK Builder Floor	Haridwar Heights	Haridwar / Uttarakhand	Builder Floor / 1 BHK	501	₹27.56 L	Unfurnished	1	Bachelors	Sale
+996	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Apartment	Rishikesh Sector 3	Rishikesh / Uttarakhand	Apartment / 3 BHK	1149	₹57.01 L	Unfurnished	4	Any	Sale
+997	Uttarakhand Properties (Uttarakhand.txt)	4 BHK Apartment	Haldwani Town Centre	Haldwani / Uttarakhand	Apartment / 4 BHK	1766	₹25,300/month	Semi-Furnished	3	Bachelors	Rent
+998	Uttarakhand Properties (Uttarakhand.txt)	1 BHK Studio	Rishikesh Sector 2	Rishikesh / Uttarakhand	Studio / 1 BHK	315	₹9,900/month	Semi-Furnished	2	Bachelors	Rent
+999	Uttarakhand Properties (Uttarakhand.txt)	4 BHK Apartment	Haridwar Town Centre	Haridwar / Uttarakhand	Apartment / 4 BHK	1594	₹24,300/month	Fully-Furnished	4	Bachelors	Rent
+1000	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Independent House	Rishikesh West	Rishikesh / Uttarakhand	Independent House / 3 BHK	2137	₹22,200/month	Semi-Furnished	3	Bachelors	Rent
+1001	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Apartment	Haridwar Town Centre	Haridwar / Uttarakhand	Apartment / 2 BHK	1017	₹50.49 L	Unfurnished	2	Family	Sale
+1002	Uttarakhand Properties (Uttarakhand.txt)	1 BHK Studio	Haridwar Main Road	Haridwar / Uttarakhand	Studio / 1 BHK	389	₹31.04 L	Semi-Furnished	2	Family	Sale
+1003	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Apartment	Rishikesh West	Rishikesh / Uttarakhand	Apartment / 2 BHK	843	₹15,500/month	Fully-Furnished	2	Any	Rent
+1004	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Apartment	Haldwani Colony	Haldwani / Uttarakhand	Apartment / 3 BHK	1345	₹78.90 L	Fully-Furnished	4	Any	Sale
+1005	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Apartment	Rishikesh Heights	Rishikesh / Uttarakhand	Apartment / 3 BHK	1841	₹18,700/month	Unfurnished	3	Bachelors	Rent
+1006	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Apartment	Rishikesh East	Rishikesh / Uttarakhand	Apartment / 2 BHK	1016	₹12,200/month	Semi-Furnished	2	Bachelors	Rent
+1007	Uttarakhand Properties (Uttarakhand.txt)	1 BHK Villa	Dehradun East	Dehradun / Uttarakhand	Villa / 1 BHK	599	₹10,400/month	Semi-Furnished	1	Family	Rent
+1008	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Apartment	Haldwani Sector 2	Haldwani / Uttarakhand	Apartment / 2 BHK	860	₹12,500/month	Unfurnished	2	Any	Rent
+1009	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Apartment	Dehradun Nagar	Dehradun / Uttarakhand	Apartment / 2 BHK	989	₹16,900/month	Fully-Furnished	2	Bachelors	Rent
+1010	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Apartment	Haldwani Sector 3	Haldwani / Uttarakhand	Apartment / 3 BHK	1136	₹83.70 L	Fully-Furnished	3	Any	Sale
+1011	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Apartment	Haridwar West	Haridwar / Uttarakhand	Apartment / 2 BHK	893	₹45.08 L	Fully-Furnished	2	Family	Sale
+1012	Uttarakhand Properties (Uttarakhand.txt)	5 BHK Apartment	Dehradun North	Dehradun / Uttarakhand	Apartment / 5 BHK	1995	₹1.07 Cr	Semi-Furnished	6	Bachelors	Sale
+1013	Uttarakhand Properties (Uttarakhand.txt)	1 BHK Studio	Dehradun Sector 2	Dehradun / Uttarakhand	Studio / 1 BHK	312	₹7,800/month	Semi-Furnished	1	Any	Rent
+1014	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Apartment	Haridwar Nagar	Haridwar / Uttarakhand	Apartment / 3 BHK	1234	₹59.65 L	Semi-Furnished	4	Family	Sale
+1015	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Apartment	Haldwani Extension	Haldwani / Uttarakhand	Apartment / 3 BHK	1448	₹22,500/month	Semi-Furnished	3	Family	Rent
+1016	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Independent House	Haridwar East	Haridwar / Uttarakhand	Independent House / 3 BHK	1823	₹69.77 L	Semi-Furnished	4	Any	Sale
+1017	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Apartment	Rishikesh Extension	Rishikesh / Uttarakhand	Apartment / 2 BHK	838	₹42.95 L	Fully-Furnished	2	Family	Sale
+1018	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Independent House	Haldwani Main Road	Haldwani / Uttarakhand	Independent House / 3 BHK	1667	₹21,000/month	Unfurnished	4	Bachelors	Rent
+1019	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Apartment	Dehradun South	Dehradun / Uttarakhand	Apartment / 3 BHK	1328	₹21,100/month	Semi-Furnished	3	Family	Rent
+1020	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Builder Floor	Haridwar Sector 3	Haridwar / Uttarakhand	Builder Floor / 2 BHK	736	₹12,400/month	Unfurnished	1	Family	Rent
+1021	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Apartment	Haridwar West	Haridwar / Uttarakhand	Apartment / 2 BHK	860	₹51.21 L	Semi-Furnished	2	Family	Sale
+1022	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Apartment	Haridwar Sector 2	Haridwar / Uttarakhand	Apartment / 2 BHK	1082	₹56.21 L	Fully-Furnished	2	Family	Sale
+1023	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Apartment	Rishikesh Town Centre	Rishikesh / Uttarakhand	Apartment / 2 BHK	767	₹46.51 L	Unfurnished	2	Any	Sale
+1024	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Apartment	Rishikesh Sector 2	Rishikesh / Uttarakhand	Apartment / 2 BHK	928	₹49.45 L	Semi-Furnished	3	Family	Sale
+1025	Uttarakhand Properties (Uttarakhand.txt)	1 BHK Apartment	Haldwani Heights	Haldwani / Uttarakhand	Apartment / 1 BHK	493	₹28.69 L	Fully-Furnished	2	Family	Sale
+1026	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Villa	Haridwar Heights	Haridwar / Uttarakhand	Villa / 3 BHK	1962	₹72.88 L	Semi-Furnished	3	Family	Sale
+1027	Uttarakhand Properties (Uttarakhand.txt)	1 BHK Studio	Haldwani East	Haldwani / Uttarakhand	Studio / 1 BHK	355	₹7,200/month	Unfurnished	1	Bachelors	Rent
+1028	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Apartment	Haridwar Main Road	Haridwar / Uttarakhand	Apartment / 2 BHK	899	₹16,800/month	Fully-Furnished	3	Bachelors	Rent
+1029	Uttarakhand Properties (Uttarakhand.txt)	1 BHK Apartment	Rishikesh West	Rishikesh / Uttarakhand	Apartment / 1 BHK	409	₹26.86 L	Unfurnished	1	Bachelors	Sale
+1030	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Apartment	Haridwar West	Haridwar / Uttarakhand	Apartment / 2 BHK	779	₹50.45 L	Semi-Furnished	3	Any	Sale
+1031	Uttarakhand Properties (Uttarakhand.txt)	1 BHK Apartment	Dehradun West	Dehradun / Uttarakhand	Apartment / 1 BHK	581	₹33.79 L	Unfurnished	2	Family	Sale
+1032	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Apartment	Haridwar East	Haridwar / Uttarakhand	Apartment / 2 BHK	664	₹11,400/month	Semi-Furnished	2	Family	Rent
+1033	Uttarakhand Properties (Uttarakhand.txt)	1 BHK Apartment	Haridwar Nagar	Haridwar / Uttarakhand	Apartment / 1 BHK	533	₹32.08 L	Unfurnished	1	Bachelors	Sale
+1034	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Villa	Haridwar Central	Haridwar / Uttarakhand	Villa / 2 BHK	1272	₹55.15 L	Fully-Furnished	2	Bachelors	Sale
+1035	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Apartment	Haridwar South	Haridwar / Uttarakhand	Apartment / 2 BHK	996	₹49.42 L	Unfurnished	2	Family	Sale
+1036	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Apartment	Rishikesh East	Rishikesh / Uttarakhand	Apartment / 3 BHK	1304	₹70.30 L	Unfurnished	4	Any	Sale
+1037	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Apartment	Dehradun South	Dehradun / Uttarakhand	Apartment / 3 BHK	1033	₹65.37 L	Semi-Furnished	3	Any	Sale
+1038	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Apartment	Haldwani Sector 3	Haldwani / Uttarakhand	Apartment / 3 BHK	1136	₹22,300/month	Unfurnished	3	Bachelors	Rent
+1039	Uttarakhand Properties (Uttarakhand.txt)	1 BHK Apartment	Dehradun Sector 3	Dehradun / Uttarakhand	Apartment / 1 BHK	591	₹31.50 L	Semi-Furnished	1	Family	Sale
+1040	Uttarakhand Properties (Uttarakhand.txt)	4 BHK Apartment	Haldwani Sector 1	Haldwani / Uttarakhand	Apartment / 4 BHK	1276	₹83.10 L	Semi-Furnished	4	Family	Sale
+1041	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Builder Floor	Dehradun Sector 1	Dehradun / Uttarakhand	Builder Floor / 2 BHK	934	₹12,000/month	Unfurnished	1	Any	Rent
+1042	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Builder Floor	Dehradun Sector 1	Dehradun / Uttarakhand	Builder Floor / 2 BHK	797	₹59.17 L	Fully-Furnished	1	Family	Sale
+1043	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Apartment	Haldwani South	Haldwani / Uttarakhand	Apartment / 3 BHK	1194	₹21,200/month	Fully-Furnished	3	Family	Rent
+1044	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Apartment	Rishikesh Sector 3	Rishikesh / Uttarakhand	Apartment / 3 BHK	1208	₹79.68 L	Semi-Furnished	2	Family	Sale
+1045	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Independent House	Haridwar North	Haridwar / Uttarakhand	Independent House / 2 BHK	1285	₹64.03 L	Fully-Furnished	2	Family	Sale
+1046	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Independent House	Haridwar Extension	Haridwar / Uttarakhand	Independent House / 3 BHK	1368	₹21,500/month	Semi-Furnished	3	Any	Rent
+1047	Uttarakhand Properties (Uttarakhand.txt)	1 BHK Studio	Haldwani Sector 3	Haldwani / Uttarakhand	Studio / 1 BHK	361	₹31.72 L	Semi-Furnished	2	Any	Sale
+1048	Uttarakhand Properties (Uttarakhand.txt)	4 BHK Apartment	Dehradun Extension	Dehradun / Uttarakhand	Apartment / 4 BHK	1796	₹24,200/month	Semi-Furnished	4	Family	Rent
+1049	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Apartment	Rishikesh Sector 1	Rishikesh / Uttarakhand	Apartment / 3 BHK	1237	₹21,400/month	Unfurnished	4	Family	Rent
+1050	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Apartment	Dehradun Heights	Dehradun / Uttarakhand	Apartment / 3 BHK	1228	₹20,800/month	Semi-Furnished	3	Bachelors	Rent
+1051	Uttarakhand Properties (Uttarakhand.txt)	4 BHK Apartment	Rishikesh West	Rishikesh / Uttarakhand	Apartment / 4 BHK	2014	₹1 Cr	Unfurnished	4	Bachelors	Sale
+1052	Uttarakhand Properties (Uttarakhand.txt)	5 BHK Builder Floor	Dehradun West	Dehradun / Uttarakhand	Builder Floor / 5 BHK	2386	₹1.02 Cr	Semi-Furnished	5	Bachelors	Sale
+1053	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Villa	Dehradun Extension	Dehradun / Uttarakhand	Villa / 3 BHK	1468	₹24,000/month	Semi-Furnished	3	Bachelors	Rent
+1054	Uttarakhand Properties (Uttarakhand.txt)	4 BHK Independent House	Haridwar Nagar	Haridwar / Uttarakhand	Independent House / 4 BHK	2409	₹1.05 Cr	Unfurnished	4	Bachelors	Sale
+1055	Uttarakhand Properties (Uttarakhand.txt)	1 BHK Apartment	Dehradun South	Dehradun / Uttarakhand	Apartment / 1 BHK	559	₹38.25 L	Semi-Furnished	1	Any	Sale
+1056	Uttarakhand Properties (Uttarakhand.txt)	4 BHK Apartment	Haldwani Main Road	Haldwani / Uttarakhand	Apartment / 4 BHK	1094	₹92.33 L	Semi-Furnished	3	Any	Sale
+1057	Uttarakhand Properties (Uttarakhand.txt)	4 BHK Apartment	Dehradun West	Dehradun / Uttarakhand	Apartment / 4 BHK	1605	₹21,900/month	Semi-Furnished	3	Any	Rent
+1058	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Builder Floor	Dehradun North	Dehradun / Uttarakhand	Builder Floor / 3 BHK	820	₹70.62 L	Semi-Furnished	2	Family	Sale
+1059	Uttarakhand Properties (Uttarakhand.txt)	4 BHK Villa	Rishikesh Central	Rishikesh / Uttarakhand	Villa / 4 BHK	2165	₹22,700/month	Fully-Furnished	3	Bachelors	Rent
+1060	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Apartment	Haldwani Central	Haldwani / Uttarakhand	Apartment / 3 BHK	1591	₹91.03 L	Fully-Furnished	4	Any	Sale
+1061	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Apartment	Haldwani South	Haldwani / Uttarakhand	Apartment / 3 BHK	1167	₹21,500/month	Unfurnished	3	Family	Rent
+1062	Uttarakhand Properties (Uttarakhand.txt)	4 BHK Builder Floor	Rishikesh Nagar	Rishikesh / Uttarakhand	Builder Floor / 4 BHK	2021	₹90.94 L	Fully-Furnished	3	Bachelors	Sale
+1063	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Builder Floor	Rishikesh East	Rishikesh / Uttarakhand	Builder Floor / 3 BHK	1334	₹17,700/month	Fully-Furnished	3	Bachelors	Rent
+1064	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Apartment	Rishikesh West	Rishikesh / Uttarakhand	Apartment / 2 BHK	935	₹13,300/month	Fully-Furnished	3	Bachelors	Rent
+1065	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Apartment	Rishikesh Sector 1	Rishikesh / Uttarakhand	Apartment / 2 BHK	699	₹51.24 L	Fully-Furnished	1	Any	Sale
+1066	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Independent House	Haldwani Sector 1	Haldwani / Uttarakhand	Independent House / 2 BHK	1128	₹13,000/month	Fully-Furnished	2	Family	Rent
+1067	Uttarakhand Properties (Uttarakhand.txt)	1 BHK Apartment	Haridwar North	Haridwar / Uttarakhand	Apartment / 1 BHK	556	₹10,700/month	Unfurnished	1	Any	Rent
+1068	Uttarakhand Properties (Uttarakhand.txt)	4 BHK Builder Floor	Dehradun Central	Dehradun / Uttarakhand	Builder Floor / 4 BHK	1488	₹26,800/month	Semi-Furnished	3	Any	Rent
+1069	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Apartment	Dehradun East	Dehradun / Uttarakhand	Apartment / 2 BHK	684	₹44.42 L	Unfurnished	2	Any	Sale
+1070	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Builder Floor	Dehradun Residential Area	Dehradun / Uttarakhand	Builder Floor / 2 BHK	712	₹11,700/month	Semi-Furnished	2	Bachelors	Rent
+1071	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Apartment	Haldwani Heights	Haldwani / Uttarakhand	Apartment / 3 BHK	1126	₹58.32 L	Unfurnished	4	Bachelors	Sale
+1072	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Independent House	Rishikesh Main Road	Rishikesh / Uttarakhand	Independent House / 2 BHK	1022	₹15,700/month	Semi-Furnished	2	Any	Rent
+1073	Uttarakhand Properties (Uttarakhand.txt)	1 BHK Builder Floor	Dehradun East	Dehradun / Uttarakhand	Builder Floor / 1 BHK	426	₹9,200/month	Semi-Furnished	1	Family	Rent
+1074	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Apartment	Haridwar Town Centre	Haridwar / Uttarakhand	Apartment / 2 BHK	963	₹15,200/month	Semi-Furnished	1	Any	Rent
+1075	Uttarakhand Properties (Uttarakhand.txt)	4 BHK Apartment	Haldwani Extension	Haldwani / Uttarakhand	Apartment / 4 BHK	1455	₹92.26 L	Fully-Furnished	3	Bachelors	Sale
+1076	Uttarakhand Properties (Uttarakhand.txt)	4 BHK Apartment	Dehradun Main Road	Dehradun / Uttarakhand	Apartment / 4 BHK	1870	₹1.10 Cr	Fully-Furnished	5	Bachelors	Sale
+1077	Uttarakhand Properties (Uttarakhand.txt)	4 BHK Apartment	Haldwani Nagar	Haldwani / Uttarakhand	Apartment / 4 BHK	1950	₹80.69 L	Unfurnished	4	Family	Sale
+1078	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Apartment	Haridwar North	Haridwar / Uttarakhand	Apartment / 3 BHK	1110	₹73.16 L	Semi-Furnished	4	Family	Sale
+1079	Uttarakhand Properties (Uttarakhand.txt)	1 BHK Builder Floor	Haridwar Sector 1	Haridwar / Uttarakhand	Builder Floor / 1 BHK	402	₹26.81 L	Unfurnished	1	Bachelors	Sale
+1080	Uttarakhand Properties (Uttarakhand.txt)	1 BHK Independent House	Haridwar West	Haridwar / Uttarakhand	Independent House / 1 BHK	723	₹38.79 L	Semi-Furnished	1	Bachelors	Sale
+1081	Uttarakhand Properties (Uttarakhand.txt)	4 BHK Builder Floor	Haridwar Sector 3	Haridwar / Uttarakhand	Builder Floor / 4 BHK	1696	₹98.80 L	Fully-Furnished	5	Family	Sale
+1082	Uttarakhand Properties (Uttarakhand.txt)	1 BHK Independent House	Dehradun Sector 1	Dehradun / Uttarakhand	Independent House / 1 BHK	593	₹39.59 L	Semi-Furnished	1	Bachelors	Sale
+1083	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Villa	Rishikesh South	Rishikesh / Uttarakhand	Villa / 2 BHK	1051	₹14,900/month	Fully-Furnished	2	Any	Rent
+1084	Uttarakhand Properties (Uttarakhand.txt)	4 BHK Apartment	Haridwar Town Centre	Haridwar / Uttarakhand	Apartment / 4 BHK	2026	₹1.02 Cr	Unfurnished	3	Any	Sale
+1085	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Builder Floor	Haridwar Nagar	Haridwar / Uttarakhand	Builder Floor / 3 BHK	1166	₹80.95 L	Semi-Furnished	3	Family	Sale
+1086	Uttarakhand Properties (Uttarakhand.txt)	1 BHK Apartment	Haridwar East	Haridwar / Uttarakhand	Apartment / 1 BHK	489	₹8,000/month	Semi-Furnished	1	Family	Rent
+1087	Uttarakhand Properties (Uttarakhand.txt)	1 BHK Studio	Dehradun Main Road	Dehradun / Uttarakhand	Studio / 1 BHK	396	₹9,100/month	Fully-Furnished	1	Any	Rent
+1088	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Villa	Dehradun North	Dehradun / Uttarakhand	Villa / 2 BHK	1249	₹15,500/month	Semi-Furnished	2	Any	Rent
+1089	Uttarakhand Properties (Uttarakhand.txt)	4 BHK Apartment	Haldwani Sector 2	Haldwani / Uttarakhand	Apartment / 4 BHK	1689	₹22,400/month	Fully-Furnished	3	Any	Rent
+1090	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Builder Floor	Dehradun Main Road	Dehradun / Uttarakhand	Builder Floor / 2 BHK	897	₹51.47 L	Fully-Furnished	3	Any	Sale
+1091	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Apartment	Dehradun South	Dehradun / Uttarakhand	Apartment / 2 BHK	494	₹51.82 L	Semi-Furnished	2	Family	Sale
+1092	Uttarakhand Properties (Uttarakhand.txt)	1 BHK Apartment	Haridwar South	Haridwar / Uttarakhand	Apartment / 1 BHK	575	₹28.74 L	Semi-Furnished	1	Bachelors	Sale
+1093	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Apartment	Haridwar South	Haridwar / Uttarakhand	Apartment / 2 BHK	878	₹44.72 L	Unfurnished	1	Family	Sale
+1094	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Independent House	Dehradun North	Dehradun / Uttarakhand	Independent House / 3 BHK	1470	₹81.69 L	Fully-Furnished	3	Family	Sale
+1095	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Villa	Rishikesh South	Rishikesh / Uttarakhand	Villa / 3 BHK	1770	₹72.25 L	Fully-Furnished	3	Any	Sale
+1096	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Builder Floor	Rishikesh Main Road	Rishikesh / Uttarakhand	Builder Floor / 3 BHK	1127	₹18,500/month	Fully-Furnished	2	Any	Rent
+1097	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Independent House	Haridwar Central	Haridwar / Uttarakhand	Independent House / 2 BHK	1249	₹67.34 L	Semi-Furnished	2	Family	Sale
+1098	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Apartment	Dehradun Colony	Dehradun / Uttarakhand	Apartment / 2 BHK	828	₹44.08 L	Semi-Furnished	1	Bachelors	Sale
+1099	Uttarakhand Properties (Uttarakhand.txt)	1 BHK Builder Floor	Haridwar Extension	Haridwar / Uttarakhand	Builder Floor / 1 BHK	478	₹28.38 L	Semi-Furnished	1	Family	Sale
+1100	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Apartment	Haridwar Sector 1	Haridwar / Uttarakhand	Apartment / 2 BHK	893	₹62.71 L	Semi-Furnished	1	Any	Sale
+1101	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Apartment	Rishikesh Colony	Rishikesh / Uttarakhand	Apartment / 3 BHK	1222	₹22,600/month	Fully-Furnished	2	Family	Rent
+1102	Uttarakhand Properties (Uttarakhand.txt)	1 BHK Apartment	Rishikesh Central	Rishikesh / Uttarakhand	Apartment / 1 BHK	558	₹29.21 L	Fully-Furnished	1	Bachelors	Sale
+1103	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Apartment	Haldwani Main Road	Haldwani / Uttarakhand	Apartment / 2 BHK	715	₹49.86 L	Unfurnished	2	Family	Sale
+1104	Uttarakhand Properties (Uttarakhand.txt)	1 BHK Apartment	Rishikesh East	Rishikesh / Uttarakhand	Apartment / 1 BHK	512	₹8,300/month	Semi-Furnished	1	Bachelors	Rent
+1105	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Apartment	Rishikesh South	Rishikesh / Uttarakhand	Apartment / 3 BHK	1452	₹66.81 L	Semi-Furnished	3	Any	Sale
+1106	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Apartment	Dehradun North	Dehradun / Uttarakhand	Apartment / 3 BHK	1277	₹82.70 L	Unfurnished	3	Bachelors	Sale
+1107	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Apartment	Dehradun Heights	Dehradun / Uttarakhand	Apartment / 2 BHK	732	₹15,100/month	Semi-Furnished	2	Bachelors	Rent
+1108	Uttarakhand Properties (Uttarakhand.txt)	1 BHK Apartment	Dehradun Nagar	Dehradun / Uttarakhand	Apartment / 1 BHK	505	₹10,000/month	Semi-Furnished	1	Bachelors	Rent
+1109	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Apartment	Dehradun West	Dehradun / Uttarakhand	Apartment / 2 BHK	950	₹50.38 L	Unfurnished	1	Any	Sale
+1110	Uttarakhand Properties (Uttarakhand.txt)	5 BHK Apartment	Haldwani Main Road	Haldwani / Uttarakhand	Apartment / 5 BHK	2285	₹1.22 Cr	Unfurnished	5	Family	Sale
+1111	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Apartment	Rishikesh Central	Rishikesh / Uttarakhand	Apartment / 3 BHK	1471	₹19,200/month	Semi-Furnished	3	Bachelors	Rent
+1112	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Independent House	Haridwar Sector 1	Haridwar / Uttarakhand	Independent House / 2 BHK	930	₹14,300/month	Unfurnished	2	Family	Rent
+1113	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Apartment	Haldwani Sector 1	Haldwani / Uttarakhand	Apartment / 2 BHK	1002	₹46.08 L	Semi-Furnished	2	Family	Sale
+1114	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Apartment	Dehradun Nagar	Dehradun / Uttarakhand	Apartment / 2 BHK	792	₹56.34 L	Semi-Furnished	1	Any	Sale
+1115	Uttarakhand Properties (Uttarakhand.txt)	1 BHK Apartment	Haridwar Residential Area	Haridwar / Uttarakhand	Apartment / 1 BHK	425	₹28.98 L	Semi-Furnished	1	Family	Sale
+1116	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Independent House	Haridwar Sector 2	Haridwar / Uttarakhand	Independent House / 2 BHK	1011	₹16,200/month	Semi-Furnished	3	Any	Rent
+1117	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Independent House	Haldwani Colony	Haldwani / Uttarakhand	Independent House / 3 BHK	1603	₹78.11 L	Semi-Furnished	3	Family	Sale
+1118	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Apartment	Rishikesh Residential Area	Rishikesh / Uttarakhand	Apartment / 3 BHK	1092	₹22,100/month	Unfurnished	2	Family	Rent
+1119	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Independent House	Haridwar Extension	Haridwar / Uttarakhand	Independent House / 3 BHK	1408	₹60.70 L	Fully-Furnished	3	Any	Sale
+1120	Uttarakhand Properties (Uttarakhand.txt)	1 BHK Builder Floor	Haridwar East	Haridwar / Uttarakhand	Builder Floor / 1 BHK	535	₹9,000/month	Semi-Furnished	2	Bachelors	Rent
+1121	Uttarakhand Properties (Uttarakhand.txt)	1 BHK Apartment	Haridwar Central	Haridwar / Uttarakhand	Apartment / 1 BHK	434	₹30.90 L	Unfurnished	1	Family	Sale
+1122	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Independent House	Rishikesh North	Rishikesh / Uttarakhand	Independent House / 2 BHK	737	₹16,200/month	Fully-Furnished	1	Any	Rent
+1123	Uttarakhand Properties (Uttarakhand.txt)	1 BHK Apartment	Dehradun North	Dehradun / Uttarakhand	Apartment / 1 BHK	502	₹28.98 L	Semi-Furnished	2	Bachelors	Sale
+1124	Uttarakhand Properties (Uttarakhand.txt)	5 BHK Apartment	Dehradun Sector 2	Dehradun / Uttarakhand	Apartment / 5 BHK	1601	₹88.82 L	Fully-Furnished	5	Family	Sale
+1125	Uttarakhand Properties (Uttarakhand.txt)	4 BHK Apartment	Rishikesh Extension	Rishikesh / Uttarakhand	Apartment / 4 BHK	1581	₹73.52 L	Fully-Furnished	3	Family	Sale
+1126	Uttarakhand Properties (Uttarakhand.txt)	1 BHK Apartment	Haldwani West	Haldwani / Uttarakhand	Apartment / 1 BHK	499	₹9,700/month	Semi-Furnished	2	Any	Rent
+1127	Uttarakhand Properties (Uttarakhand.txt)	1 BHK Apartment	Dehradun Sector 2	Dehradun / Uttarakhand	Apartment / 1 BHK	521	₹10,400/month	Semi-Furnished	1	Bachelors	Rent
+1128	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Apartment	Rishikesh East	Rishikesh / Uttarakhand	Apartment / 2 BHK	1023	₹50.83 L	Semi-Furnished	3	Family	Sale
+1129	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Independent House	Haldwani Heights	Haldwani / Uttarakhand	Independent House / 2 BHK	1082	₹57.26 L	Fully-Furnished	2	Family	Sale
+1130	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Apartment	Haldwani Town Centre	Haldwani / Uttarakhand	Apartment / 3 BHK	1281	₹74.44 L	Unfurnished	3	Bachelors	Sale
+1131	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Apartment	Haldwani Colony	Haldwani / Uttarakhand	Apartment / 3 BHK	1187	₹18,200/month	Fully-Furnished	4	Family	Rent
+1132	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Apartment	Haldwani Main Road	Haldwani / Uttarakhand	Apartment / 2 BHK	891	₹12,700/month	Unfurnished	2	Family	Rent
+1133	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Apartment	Haridwar Heights	Haridwar / Uttarakhand	Apartment / 3 BHK	1095	₹16,700/month	Semi-Furnished	2	Bachelors	Rent
+1134	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Villa	Dehradun Central	Dehradun / Uttarakhand	Villa / 3 BHK	1101	₹66.60 L	Fully-Furnished	2	Family	Sale
+1135	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Apartment	Dehradun Colony	Dehradun / Uttarakhand	Apartment / 3 BHK	1459	₹23,900/month	Unfurnished	2	Bachelors	Rent
+1136	Uttarakhand Properties (Uttarakhand.txt)	1 BHK Villa	Haridwar North	Haridwar / Uttarakhand	Villa / 1 BHK	865	₹43.55 L	Fully-Furnished	1	Bachelors	Sale
+1137	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Villa	Haridwar South	Haridwar / Uttarakhand	Villa / 3 BHK	1919	₹21,200/month	Semi-Furnished	3	Family	Rent
+1138	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Apartment	Haridwar Heights	Haridwar / Uttarakhand	Apartment / 2 BHK	767	₹14,100/month	Semi-Furnished	2	Any	Rent
+1139	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Apartment	Rishikesh Heights	Rishikesh / Uttarakhand	Apartment / 2 BHK	724	₹45.63 L	Semi-Furnished	1	Any	Sale
+1140	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Apartment	Haridwar Extension	Haridwar / Uttarakhand	Apartment / 2 BHK	818	₹14,300/month	Fully-Furnished	1	Any	Rent
+1141	Uttarakhand Properties (Uttarakhand.txt)	1 BHK Apartment	Haldwani Main Road	Haldwani / Uttarakhand	Apartment / 1 BHK	539	₹10,100/month	Fully-Furnished	1	Family	Rent
+1142	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Builder Floor	Rishikesh East	Rishikesh / Uttarakhand	Builder Floor / 3 BHK	1446	₹22,400/month	Semi-Furnished	3	Bachelors	Rent
+1143	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Apartment	Haridwar Colony	Haridwar / Uttarakhand	Apartment / 2 BHK	815	₹61.79 L	Semi-Furnished	2	Any	Sale
+1144	Uttarakhand Properties (Uttarakhand.txt)	1 BHK Apartment	Dehradun West	Dehradun / Uttarakhand	Apartment / 1 BHK	509	₹9,300/month	Semi-Furnished	1	Any	Rent
+1145	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Apartment	Dehradun Sector 2	Dehradun / Uttarakhand	Apartment / 2 BHK	807	₹59.02 L	Semi-Furnished	1	Any	Sale
+1146	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Apartment	Haldwani Sector 3	Haldwani / Uttarakhand	Apartment / 3 BHK	1149	₹16,900/month	Semi-Furnished	2	Family	Rent
+1147	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Independent House	Dehradun Colony	Dehradun / Uttarakhand	Independent House / 2 BHK	898	₹53.45 L	Semi-Furnished	2	Any	Sale
+1148	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Apartment	Haridwar North	Haridwar / Uttarakhand	Apartment / 2 BHK	640	₹15,900/month	Fully-Furnished	2	Family	Rent
+1149	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Apartment	Haldwani North	Haldwani / Uttarakhand	Apartment / 3 BHK	1295	₹18,600/month	Fully-Furnished	3	Family	Rent
+1150	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Apartment	Haridwar Town Centre	Haridwar / Uttarakhand	Apartment / 3 BHK	855	₹53.88 L	Semi-Furnished	3	Any	Sale
+1151	Uttarakhand Properties (Uttarakhand.txt)	4 BHK Builder Floor	Haldwani Central	Haldwani / Uttarakhand	Builder Floor / 4 BHK	2080	₹92.20 L	Unfurnished	4	Family	Sale
+1152	Uttarakhand Properties (Uttarakhand.txt)	1 BHK Apartment	Haldwani West	Haldwani / Uttarakhand	Apartment / 1 BHK	476	₹27.72 L	Fully-Furnished	2	Family	Sale
+1153	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Apartment	Haldwani North	Haldwani / Uttarakhand	Apartment / 3 BHK	1306	₹64.86 L	Semi-Furnished	2	Family	Sale
+1154	Uttarakhand Properties (Uttarakhand.txt)	1 BHK Apartment	Haridwar South	Haridwar / Uttarakhand	Apartment / 1 BHK	648	₹10,300/month	Fully-Furnished	1	Family	Rent
+1155	Uttarakhand Properties (Uttarakhand.txt)	5 BHK Apartment	Haridwar Nagar	Haridwar / Uttarakhand	Apartment / 5 BHK	2535	₹34,500/month	Fully-Furnished	5	Family	Rent
+1156	Uttarakhand Properties (Uttarakhand.txt)	4 BHK Apartment	Haridwar Residential Area	Haridwar / Uttarakhand	Apartment / 4 BHK	2034	₹93.19 L	Unfurnished	4	Bachelors	Sale
+1157	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Apartment	Dehradun Town Centre	Dehradun / Uttarakhand	Apartment / 2 BHK	822	₹49.29 L	Fully-Furnished	2	Any	Sale
+1158	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Independent House	Haldwani Nagar	Haldwani / Uttarakhand	Independent House / 2 BHK	1163	₹67.01 L	Fully-Furnished	2	Family	Sale
+1159	Uttarakhand Properties (Uttarakhand.txt)	5 BHK Villa	Haridwar Heights	Haridwar / Uttarakhand	Villa / 5 BHK	3267	₹1.45 Cr	Semi-Furnished	5	Bachelors	Sale
+1160	Uttarakhand Properties (Uttarakhand.txt)	1 BHK Apartment	Haridwar Colony	Haridwar / Uttarakhand	Apartment / 1 BHK	512	₹34.15 L	Semi-Furnished	1	Family	Sale
+1161	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Apartment	Haridwar Sector 3	Haridwar / Uttarakhand	Apartment / 2 BHK	1154	₹57.39 L	Fully-Furnished	3	Any	Sale
+1162	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Apartment	Haridwar Sector 1	Haridwar / Uttarakhand	Apartment / 2 BHK	939	₹54.35 L	Unfurnished	2	Bachelors	Sale
+1163	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Apartment	Haldwani Residential Area	Haldwani / Uttarakhand	Apartment / 2 BHK	912	₹47.37 L	Unfurnished	2	Family	Sale
+1164	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Villa	Dehradun West	Dehradun / Uttarakhand	Villa / 3 BHK	1810	₹23,000/month	Fully-Furnished	4	Family	Rent
+1165	Uttarakhand Properties (Uttarakhand.txt)	4 BHK Independent House	Dehradun Main Road	Dehradun / Uttarakhand	Independent House / 4 BHK	2393	₹32,600/month	Fully-Furnished	5	Any	Rent
+1166	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Independent House	Haridwar Extension	Haridwar / Uttarakhand	Independent House / 2 BHK	778	₹42.41 L	Semi-Furnished	1	Any	Sale
+1167	Uttarakhand Properties (Uttarakhand.txt)	4 BHK Apartment	Rishikesh South	Rishikesh / Uttarakhand	Apartment / 4 BHK	1570	₹27,100/month	Unfurnished	3	Family	Rent
+1168	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Apartment	Dehradun Town Centre	Dehradun / Uttarakhand	Apartment / 3 BHK	1208	₹16,300/month	Semi-Furnished	4	Any	Rent
+1169	Uttarakhand Properties (Uttarakhand.txt)	3 BHK Apartment	Haldwani North	Haldwani / Uttarakhand	Apartment / 3 BHK	1270	₹19,300/month	Unfurnished	3	Any	Rent
+1170	Uttarakhand Properties (Uttarakhand.txt)	1 BHK Studio	Haldwani Sector 1	Haldwani / Uttarakhand	Studio / 1 BHK	437	₹36.47 L	Fully-Furnished	2	Family	Sale
+1171	Uttarakhand Properties (Uttarakhand.txt)	2 BHK Apartment	Rishikesh Town Centre	Rishikesh / Uttarakhand	Apartment / 2 BHK	642	₹15,900/month	Semi-Furnished	2	Family	Rent
