@@ -1,0 +1,1172 @@
+No.	Source	Property	Location	City / State	Type / Config	Area	Price / Rent	Furnishing	Bathrooms	Tennants	Listing Type
+1	Assam Properties (Assam.txt)	2 BHK Apartment	Silchar West	Silchar / Assam	Apartment / 2 BHK	608	₹45.37 L	Fully-Furnished	1	Family	Sale
+2	Assam Properties (Assam.txt)	4 BHK Apartment	Dibrugarh Central	Dibrugarh / Assam	Apartment / 4 BHK	1882	₹63.87 L	Unfurnished	3	Any	Sale
+3	Assam Properties (Assam.txt)	2 BHK Villa	Guwahati Colony	Guwahati / Assam	Villa / 2 BHK	1286	₹14,800/month	Semi-Furnished	2	Bachelors	Rent
+4	Assam Properties (Assam.txt)	1 BHK Studio	Guwahati East	Guwahati / Assam	Studio / 1 BHK	376	₹23.86 L	Fully-Furnished	1	Bachelors	Sale
+5	Assam Properties (Assam.txt)	1 BHK Apartment	Guwahati Residential Area	Guwahati / Assam	Apartment / 1 BHK	526	₹6,600/month	Semi-Furnished	2	Bachelors	Rent
+6	Assam Properties (Assam.txt)	2 BHK Builder Floor	Guwahati West	Guwahati / Assam	Builder Floor / 2 BHK	900	₹39.56 L	Semi-Furnished	2	Family	Sale
+7	Assam Properties (Assam.txt)	1 BHK Apartment	Guwahati North	Guwahati / Assam	Apartment / 1 BHK	415	₹28.24 L	Semi-Furnished	1	Bachelors	Sale
+8	Assam Properties (Assam.txt)	1 BHK Apartment	Silchar West	Silchar / Assam	Apartment / 1 BHK	577	₹7,500/month	Semi-Furnished	1	Any	Rent
+9	Assam Properties (Assam.txt)	2 BHK Apartment	Jorhat East	Jorhat / Assam	Apartment / 2 BHK	720	₹45.39 L	Fully-Furnished	1	Family	Sale
+10	Assam Properties (Assam.txt)	4 BHK Independent House	Silchar West	Silchar / Assam	Independent House / 4 BHK	2618	₹24,000/month	Fully-Furnished	3	Family	Rent
+11	Assam Properties (Assam.txt)	4 BHK Apartment	Dibrugarh Extension	Dibrugarh / Assam	Apartment / 4 BHK	1556	₹70.73 L	Semi-Furnished	5	Any	Sale
+12	Assam Properties (Assam.txt)	5 BHK Apartment	Silchar Sector 1	Silchar / Assam	Apartment / 5 BHK	2476	₹25,000/month	Semi-Furnished	5	Family	Rent
+13	Assam Properties (Assam.txt)	2 BHK Apartment	Dibrugarh Town Centre	Dibrugarh / Assam	Apartment / 2 BHK	807	₹45.29 L	Semi-Furnished	2	Bachelors	Sale
+14	Assam Properties (Assam.txt)	5 BHK Apartment	Guwahati Sector 1	Guwahati / Assam	Apartment / 5 BHK	2027	₹92.26 L	Unfurnished	5	Family	Sale
+15	Assam Properties (Assam.txt)	5 BHK Villa	Dibrugarh Colony	Dibrugarh / Assam	Villa / 5 BHK	3072	₹1.10 Cr	Fully-Furnished	5	Family	Sale
+16	Assam Properties (Assam.txt)	1 BHK Apartment	Dibrugarh Nagar	Dibrugarh / Assam	Apartment / 1 BHK	456	₹8,000/month	Unfurnished	1	Bachelors	Rent
+17	Assam Properties (Assam.txt)	2 BHK Apartment	Jorhat Main Road	Jorhat / Assam	Apartment / 2 BHK	864	₹34.44 L	Unfurnished	2	Bachelors	Sale
+18	Assam Properties (Assam.txt)	3 BHK Independent House	Guwahati Main Road	Guwahati / Assam	Independent House / 3 BHK	1230	₹14,000/month	Unfurnished	3	Any	Rent
+19	Assam Properties (Assam.txt)	3 BHK Independent House	Jorhat Extension	Jorhat / Assam	Independent House / 3 BHK	1682	₹14,300/month	Fully-Furnished	2	Any	Rent
+20	Assam Properties (Assam.txt)	5 BHK Apartment	Silchar West	Silchar / Assam	Apartment / 5 BHK	2614	₹20,700/month	Unfurnished	5	Family	Rent
+21	Assam Properties (Assam.txt)	4 BHK Apartment	Jorhat Sector 2	Jorhat / Assam	Apartment / 4 BHK	1744	₹69.74 L	Fully-Furnished	3	Bachelors	Sale
+22	Assam Properties (Assam.txt)	3 BHK Builder Floor	Jorhat Sector 2	Jorhat / Assam	Builder Floor / 3 BHK	1279	₹51.98 L	Semi-Furnished	3	Family	Sale
+23	Assam Properties (Assam.txt)	2 BHK Apartment	Guwahati Main Road	Guwahati / Assam	Apartment / 2 BHK	794	₹47.09 L	Unfurnished	2	Bachelors	Sale
+24	Assam Properties (Assam.txt)	1 BHK Apartment	Guwahati Main Road	Guwahati / Assam	Apartment / 1 BHK	579	₹7,600/month	Fully-Furnished	1	Family	Rent
+25	Assam Properties (Assam.txt)	4 BHK Apartment	Jorhat Sector 2	Jorhat / Assam	Apartment / 4 BHK	1677	₹17,100/month	Fully-Furnished	5	Bachelors	Rent
+26	Assam Properties (Assam.txt)	3 BHK Apartment	Guwahati Residential Area	Guwahati / Assam	Apartment / 3 BHK	1458	₹55.59 L	Semi-Furnished	3	Family	Sale
+27	Assam Properties (Assam.txt)	4 BHK Villa	Jorhat Heights	Jorhat / Assam	Villa / 4 BHK	2262	₹22,000/month	Fully-Furnished	4	Any	Rent
+28	Assam Properties (Assam.txt)	3 BHK Independent House	Silchar Town Centre	Silchar / Assam	Independent House / 3 BHK	1950	₹18,100/month	Fully-Furnished	3	Family	Rent
+29	Assam Properties (Assam.txt)	2 BHK Apartment	Dibrugarh Sector 3	Dibrugarh / Assam	Apartment / 2 BHK	904	₹38.44 L	Unfurnished	2	Bachelors	Sale
+30	Assam Properties (Assam.txt)	1 BHK Apartment	Jorhat Extension	Jorhat / Assam	Apartment / 1 BHK	412	₹27.17 L	Fully-Furnished	1	Family	Sale
+31	Assam Properties (Assam.txt)	2 BHK Builder Floor	Jorhat Sector 1	Jorhat / Assam	Builder Floor / 2 BHK	858	₹42.52 L	Fully-Furnished	1	Family	Sale
+32	Assam Properties (Assam.txt)	1 BHK Independent House	Dibrugarh Residential Area	Dibrugarh / Assam	Independent House / 1 BHK	571	₹7,600/month	Fully-Furnished	1	Family	Rent
+33	Assam Properties (Assam.txt)	2 BHK Apartment	Silchar Colony	Silchar / Assam	Apartment / 2 BHK	1021	₹46.21 L	Semi-Furnished	2	Any	Sale
+34	Assam Properties (Assam.txt)	2 BHK Independent House	Guwahati Central	Guwahati / Assam	Independent House / 2 BHK	1053	₹51.56 L	Unfurnished	1	Family	Sale
+35	Assam Properties (Assam.txt)	2 BHK Builder Floor	Jorhat Main Road	Jorhat / Assam	Builder Floor / 2 BHK	1057	₹35.74 L	Fully-Furnished	1	Family	Sale
+36	Assam Properties (Assam.txt)	5 BHK Independent House	Silchar Main Road	Silchar / Assam	Independent House / 5 BHK	2862	₹82.23 L	Unfurnished	4	Bachelors	Sale
+37	Assam Properties (Assam.txt)	4 BHK Apartment	Dibrugarh Extension	Dibrugarh / Assam	Apartment / 4 BHK	1689	₹72.72 L	Semi-Furnished	5	Family	Sale
+38	Assam Properties (Assam.txt)	3 BHK Apartment	Silchar Central	Silchar / Assam	Apartment / 3 BHK	1119	₹13,500/month	Fully-Furnished	2	Any	Rent
+39	Assam Properties (Assam.txt)	1 BHK Apartment	Silchar Town Centre	Silchar / Assam	Apartment / 1 BHK	549	₹28.09 L	Semi-Furnished	1	Family	Sale
+40	Assam Properties (Assam.txt)	3 BHK Apartment	Silchar Central	Silchar / Assam	Apartment / 3 BHK	1570	₹14,800/month	Unfurnished	3	Family	Rent
+41	Assam Properties (Assam.txt)	4 BHK Villa	Guwahati Sector 3	Guwahati / Assam	Villa / 4 BHK	2190	₹67.18 L	Fully-Furnished	3	Any	Sale
+42	Assam Properties (Assam.txt)	1 BHK Apartment	Dibrugarh Sector 1	Dibrugarh / Assam	Apartment / 1 BHK	539	₹7,400/month	Fully-Furnished	1	Any	Rent
+43	Assam Properties (Assam.txt)	2 BHK Builder Floor	Guwahati Sector 3	Guwahati / Assam	Builder Floor / 2 BHK	755	₹36.58 L	Fully-Furnished	2	Family	Sale
+44	Assam Properties (Assam.txt)	1 BHK Apartment	Guwahati West	Guwahati / Assam	Apartment / 1 BHK	633	₹7,500/month	Semi-Furnished	2	Any	Rent
+45	Assam Properties (Assam.txt)	2 BHK Apartment	Silchar Heights	Silchar / Assam	Apartment / 2 BHK	891	₹13,600/month	Fully-Furnished	3	Family	Rent
+46	Assam Properties (Assam.txt)	4 BHK Independent House	Silchar East	Silchar / Assam	Independent House / 4 BHK	2272	₹69.50 L	Fully-Furnished	5	Any	Sale
+47	Assam Properties (Assam.txt)	2 BHK Independent House	Jorhat Sector 1	Jorhat / Assam	Independent House / 2 BHK	983	₹44.22 L	Semi-Furnished	2	Any	Sale
+48	Assam Properties (Assam.txt)	2 BHK Apartment	Jorhat Sector 1	Jorhat / Assam	Apartment / 2 BHK	1086	₹45.02 L	Unfurnished	2	Bachelors	Sale
+49	Assam Properties (Assam.txt)	2 BHK Apartment	Jorhat Extension	Jorhat / Assam	Apartment / 2 BHK	785	₹48.27 L	Unfurnished	2	Any	Sale
+50	Assam Properties (Assam.txt)	4 BHK Villa	Dibrugarh Central	Dibrugarh / Assam	Villa / 4 BHK	2675	₹22,100/month	Semi-Furnished	4	Any	Rent
+51	Assam Properties (Assam.txt)	1 BHK Studio	Guwahati Sector 1	Guwahati / Assam	Studio / 1 BHK	386	₹25.60 L	Fully-Furnished	2	Bachelors	Sale
+52	Assam Properties (Assam.txt)	2 BHK Builder Floor	Jorhat Heights	Jorhat / Assam	Builder Floor / 2 BHK	940	₹34.71 L	Semi-Furnished	3	Family	Sale
+53	Assam Properties (Assam.txt)	2 BHK Apartment	Dibrugarh Sector 2	Dibrugarh / Assam	Apartment / 2 BHK	833	₹10,500/month	Semi-Furnished	2	Family	Rent
+54	Assam Properties (Assam.txt)	3 BHK Apartment	Guwahati Heights	Guwahati / Assam	Apartment / 3 BHK	1598	₹69.61 L	Semi-Furnished	3	Family	Sale
+55	Assam Properties (Assam.txt)	3 BHK Villa	Jorhat Town Centre	Jorhat / Assam	Villa / 3 BHK	1362	₹14,900/month	Semi-Furnished	3	Bachelors	Rent
+56	Assam Properties (Assam.txt)	3 BHK Apartment	Dibrugarh North	Dibrugarh / Assam	Apartment / 3 BHK	1167	₹60.04 L	Semi-Furnished	4	Any	Sale
+57	Assam Properties (Assam.txt)	2 BHK Independent House	Dibrugarh Town Centre	Dibrugarh / Assam	Independent House / 2 BHK	1295	₹47.04 L	Fully-Furnished	2	Any	Sale
+58	Assam Properties (Assam.txt)	2 BHK Apartment	Dibrugarh Nagar	Dibrugarh / Assam	Apartment / 2 BHK	669	₹44.78 L	Unfurnished	2	Family	Sale
+59	Assam Properties (Assam.txt)	2 BHK Apartment	Silchar Central	Silchar / Assam	Apartment / 2 BHK	862	₹34.11 L	Semi-Furnished	2	Bachelors	Sale
+60	Assam Properties (Assam.txt)	1 BHK Apartment	Dibrugarh Town Centre	Dibrugarh / Assam	Apartment / 1 BHK	562	₹24.41 L	Semi-Furnished	1	Family	Sale
+61	Assam Properties (Assam.txt)	3 BHK Apartment	Guwahati East	Guwahati / Assam	Apartment / 3 BHK	1554	₹15,300/month	Semi-Furnished	3	Family	Rent
+62	Assam Properties (Assam.txt)	1 BHK Studio	Dibrugarh Town Centre	Dibrugarh / Assam	Studio / 1 BHK	332	₹6,600/month	Semi-Furnished	1	Family	Rent
+63	Assam Properties (Assam.txt)	2 BHK Apartment	Silchar East	Silchar / Assam	Apartment / 2 BHK	868	₹13,500/month	Fully-Furnished	1	Family	Rent
+64	Assam Properties (Assam.txt)	1 BHK Studio	Dibrugarh Nagar	Dibrugarh / Assam	Studio / 1 BHK	409	₹26.61 L	Semi-Furnished	1	Family	Sale
+65	Assam Properties (Assam.txt)	2 BHK Apartment	Dibrugarh Sector 3	Dibrugarh / Assam	Apartment / 2 BHK	901	₹39.51 L	Unfurnished	3	Any	Sale
+66	Assam Properties (Assam.txt)	3 BHK Villa	Guwahati North	Guwahati / Assam	Villa / 3 BHK	1703	₹53.39 L	Fully-Furnished	2	Bachelors	Sale
+67	Assam Properties (Assam.txt)	4 BHK Independent House	Guwahati East	Guwahati / Assam	Independent House / 4 BHK	1598	₹59.89 L	Semi-Furnished	5	Any	Sale
+68	Assam Properties (Assam.txt)	3 BHK Apartment	Silchar Heights	Silchar / Assam	Apartment / 3 BHK	1325	₹62.90 L	Semi-Furnished	3	Family	Sale
+69	Assam Properties (Assam.txt)	1 BHK Builder Floor	Silchar Town Centre	Silchar / Assam	Builder Floor / 1 BHK	554	₹30.29 L	Semi-Furnished	2	Family	Sale
+70	Assam Properties (Assam.txt)	1 BHK Studio	Jorhat Extension	Jorhat / Assam	Studio / 1 BHK	504	₹28.06 L	Semi-Furnished	1	Any	Sale
+71	Assam Properties (Assam.txt)	5 BHK Apartment	Dibrugarh Heights	Dibrugarh / Assam	Apartment / 5 BHK	2560	₹26,500/month	Fully-Furnished	6	Family	Rent
+72	Assam Properties (Assam.txt)	2 BHK Independent House	Dibrugarh Sector 2	Dibrugarh / Assam	Independent House / 2 BHK	1275	₹11,700/month	Fully-Furnished	2	Bachelors	Rent
+73	Assam Properties (Assam.txt)	2 BHK Apartment	Guwahati Residential Area	Guwahati / Assam	Apartment / 2 BHK	863	₹10,700/month	Semi-Furnished	3	Family	Rent
+74	Assam Properties (Assam.txt)	2 BHK Apartment	Guwahati Sector 2	Guwahati / Assam	Apartment / 2 BHK	778	₹40.75 L	Fully-Furnished	3	Bachelors	Sale
+75	Assam Properties (Assam.txt)	2 BHK Villa	Silchar South	Silchar / Assam	Villa / 2 BHK	949	₹10,100/month	Fully-Furnished	1	Bachelors	Rent
+76	Assam Properties (Assam.txt)	3 BHK Apartment	Jorhat Town Centre	Jorhat / Assam	Apartment / 3 BHK	1305	₹16,400/month	Semi-Furnished	3	Bachelors	Rent
+77	Assam Properties (Assam.txt)	3 BHK Builder Floor	Dibrugarh West	Dibrugarh / Assam	Builder Floor / 3 BHK	1271	₹50.96 L	Fully-Furnished	2	Family	Sale
+78	Assam Properties (Assam.txt)	2 BHK Apartment	Dibrugarh Town Centre	Dibrugarh / Assam	Apartment / 2 BHK	794	₹42.52 L	Unfurnished	1	Bachelors	Sale
+79	Assam Properties (Assam.txt)	1 BHK Studio	Dibrugarh Sector 1	Dibrugarh / Assam	Studio / 1 BHK	416	₹5,800/month	Semi-Furnished	1	Family	Rent
+80	Assam Properties (Assam.txt)	3 BHK Apartment	Silchar Main Road	Silchar / Assam	Apartment / 3 BHK	1450	₹65.64 L	Semi-Furnished	3	Bachelors	Sale
+81	Assam Properties (Assam.txt)	2 BHK Apartment	Dibrugarh North	Dibrugarh / Assam	Apartment / 2 BHK	814	₹35.96 L	Unfurnished	2	Any	Sale
+82	Assam Properties (Assam.txt)	5 BHK Independent House	Silchar Extension	Silchar / Assam	Independent House / 5 BHK	3344	₹1.21 Cr	Semi-Furnished	4	Bachelors	Sale
+83	Assam Properties (Assam.txt)	3 BHK Apartment	Dibrugarh Main Road	Dibrugarh / Assam	Apartment / 3 BHK	1505	₹65.38 L	Unfurnished	3	Bachelors	Sale
+84	Assam Properties (Assam.txt)	3 BHK Apartment	Silchar South	Silchar / Assam	Apartment / 3 BHK	1603	₹70.24 L	Semi-Furnished	3	Bachelors	Sale
+85	Assam Properties (Assam.txt)	2 BHK Apartment	Jorhat Main Road	Jorhat / Assam	Apartment / 2 BHK	628	₹9,700/month	Semi-Furnished	2	Family	Rent
+86	Assam Properties (Assam.txt)	3 BHK Apartment	Silchar Nagar	Silchar / Assam	Apartment / 3 BHK	1329	₹59.21 L	Unfurnished	3	Bachelors	Sale
+87	Assam Properties (Assam.txt)	3 BHK Builder Floor	Guwahati Sector 2	Guwahati / Assam	Builder Floor / 3 BHK	1256	₹50.57 L	Semi-Furnished	4	Bachelors	Sale
+88	Assam Properties (Assam.txt)	1 BHK Studio	Guwahati Nagar	Guwahati / Assam	Studio / 1 BHK	326	₹26.58 L	Fully-Furnished	1	Family	Sale
+89	Assam Properties (Assam.txt)	2 BHK Villa	Dibrugarh Main Road	Dibrugarh / Assam	Villa / 2 BHK	1181	₹14,900/month	Semi-Furnished	3	Bachelors	Rent
+90	Assam Properties (Assam.txt)	4 BHK Apartment	Silchar Sector 3	Silchar / Assam	Apartment / 4 BHK	1938	₹22,000/month	Semi-Furnished	4	Family	Rent
+91	Assam Properties (Assam.txt)	3 BHK Independent House	Dibrugarh Residential Area	Dibrugarh / Assam	Independent House / 3 BHK	1272	₹54.11 L	Semi-Furnished	2	Family	Sale
+92	Assam Properties (Assam.txt)	2 BHK Builder Floor	Guwahati Sector 2	Guwahati / Assam	Builder Floor / 2 BHK	852	₹11,800/month	Unfurnished	2	Any	Rent
+93	Assam Properties (Assam.txt)	3 BHK Apartment	Jorhat West	Jorhat / Assam	Apartment / 3 BHK	1100	₹16,700/month	Fully-Furnished	3	Family	Rent
+94	Assam Properties (Assam.txt)	1 BHK Builder Floor	Guwahati Extension	Guwahati / Assam	Builder Floor / 1 BHK	422	₹7,100/month	Unfurnished	1	Any	Rent
+95	Assam Properties (Assam.txt)	2 BHK Apartment	Dibrugarh Heights	Dibrugarh / Assam	Apartment / 2 BHK	859	₹48.85 L	Unfurnished	2	Family	Sale
+96	Assam Properties (Assam.txt)	2 BHK Builder Floor	Jorhat North	Jorhat / Assam	Builder Floor / 2 BHK	1040	₹36.84 L	Semi-Furnished	1	Bachelors	Sale
+97	Assam Properties (Assam.txt)	4 BHK Villa	Guwahati Sector 2	Guwahati / Assam	Villa / 4 BHK	2097	₹72.21 L	Fully-Furnished	4	Family	Sale
+98	Assam Properties (Assam.txt)	3 BHK Apartment	Silchar Nagar	Silchar / Assam	Apartment / 3 BHK	1425	₹13,100/month	Fully-Furnished	3	Family	Rent
+99	Assam Properties (Assam.txt)	3 BHK Independent House	Jorhat West	Jorhat / Assam	Independent House / 3 BHK	1511	₹18,700/month	Fully-Furnished	4	Family	Rent
+100	Assam Properties (Assam.txt)	3 BHK Apartment	Dibrugarh Heights	Dibrugarh / Assam	Apartment / 3 BHK	896	₹60.81 L	Unfurnished	3	Bachelors	Sale
+101	Assam Properties (Assam.txt)	1 BHK Independent House	Silchar Central	Silchar / Assam	Independent House / 1 BHK	589	₹9,200/month	Semi-Furnished	1	Family	Rent
+102	Assam Properties (Assam.txt)	1 BHK Villa	Silchar Town Centre	Silchar / Assam	Villa / 1 BHK	698	₹8,500/month	Fully-Furnished	1	Family	Rent
+103	Assam Properties (Assam.txt)	3 BHK Builder Floor	Jorhat Extension	Jorhat / Assam	Builder Floor / 3 BHK	1350	₹17,300/month	Semi-Furnished	2	Any	Rent
+104	Assam Properties (Assam.txt)	2 BHK Villa	Silchar Colony	Silchar / Assam	Villa / 2 BHK	1276	₹14,100/month	Semi-Furnished	2	Any	Rent
+105	Assam Properties (Assam.txt)	2 BHK Villa	Jorhat Colony	Jorhat / Assam	Villa / 2 BHK	1142	₹12,500/month	Semi-Furnished	2	Family	Rent
+106	Assam Properties (Assam.txt)	3 BHK Independent House	Jorhat Sector 1	Jorhat / Assam	Independent House / 3 BHK	1316	₹16,500/month	Semi-Furnished	2	Family	Rent
+107	Assam Properties (Assam.txt)	4 BHK Independent House	Dibrugarh Sector 1	Dibrugarh / Assam	Independent House / 4 BHK	1816	₹77.20 L	Fully-Furnished	4	Family	Sale
+108	Assam Properties (Assam.txt)	3 BHK Builder Floor	Dibrugarh Town Centre	Dibrugarh / Assam	Builder Floor / 3 BHK	1282	₹64.85 L	Semi-Furnished	2	Family	Sale
+109	Assam Properties (Assam.txt)	1 BHK Studio	Guwahati Main Road	Guwahati / Assam	Studio / 1 BHK	421	₹26.71 L	Fully-Furnished	1	Family	Sale
+110	Assam Properties (Assam.txt)	1 BHK Studio	Jorhat Nagar	Jorhat / Assam	Studio / 1 BHK	363	₹6,400/month	Semi-Furnished	1	Bachelors	Rent
+111	Assam Properties (Assam.txt)	2 BHK Apartment	Dibrugarh Central	Dibrugarh / Assam	Apartment / 2 BHK	773	₹43.05 L	Fully-Furnished	2	Any	Sale
+112	Assam Properties (Assam.txt)	3 BHK Apartment	Jorhat Residential Area	Jorhat / Assam	Apartment / 3 BHK	1205	₹13,200/month	Fully-Furnished	3	Family	Rent
+113	Assam Properties (Assam.txt)	1 BHK Studio	Dibrugarh Nagar	Dibrugarh / Assam	Studio / 1 BHK	343	₹25.25 L	Semi-Furnished	1	Family	Sale
+114	Assam Properties (Assam.txt)	3 BHK Builder Floor	Guwahati Sector 3	Guwahati / Assam	Builder Floor / 3 BHK	1249	₹13,700/month	Semi-Furnished	3	Any	Rent
+115	Assam Properties (Assam.txt)	5 BHK Independent House	Silchar Sector 3	Silchar / Assam	Independent House / 5 BHK	2155	₹1.03 Cr	Unfurnished	5	Any	Sale
+116	Assam Properties (Assam.txt)	1 BHK Studio	Guwahati Town Centre	Guwahati / Assam	Studio / 1 BHK	321	₹6,700/month	Semi-Furnished	2	Any	Rent
+117	Assam Properties (Assam.txt)	4 BHK Apartment	Guwahati Heights	Guwahati / Assam	Apartment / 4 BHK	1275	₹61.94 L	Unfurnished	4	Any	Sale
+118	Assam Properties (Assam.txt)	3 BHK Builder Floor	Jorhat Heights	Jorhat / Assam	Builder Floor / 3 BHK	1385	₹48.42 L	Fully-Furnished	3	Family	Sale
+119	Assam Properties (Assam.txt)	1 BHK Apartment	Jorhat West	Jorhat / Assam	Apartment / 1 BHK	512	₹21.92 L	Fully-Furnished	1	Bachelors	Sale
+120	Assam Properties (Assam.txt)	1 BHK Apartment	Jorhat Residential Area	Jorhat / Assam	Apartment / 1 BHK	505	₹26.61 L	Semi-Furnished	1	Bachelors	Sale
+121	Assam Properties (Assam.txt)	3 BHK Apartment	Dibrugarh Sector 1	Dibrugarh / Assam	Apartment / 3 BHK	1302	₹59.71 L	Fully-Furnished	3	Bachelors	Sale
+122	Assam Properties (Assam.txt)	3 BHK Apartment	Silchar Main Road	Silchar / Assam	Apartment / 3 BHK	1255	₹17,400/month	Semi-Furnished	4	Family	Rent
+123	Assam Properties (Assam.txt)	2 BHK Builder Floor	Jorhat Nagar	Jorhat / Assam	Builder Floor / 2 BHK	910	₹42.53 L	Fully-Furnished	2	Any	Sale
+124	Assam Properties (Assam.txt)	4 BHK Apartment	Guwahati Sector 3	Guwahati / Assam	Apartment / 4 BHK	1595	₹75.33 L	Unfurnished	3	Any	Sale
+125	Assam Properties (Assam.txt)	2 BHK Independent House	Guwahati Town Centre	Guwahati / Assam	Independent House / 2 BHK	1141	₹11,400/month	Unfurnished	2	Any	Rent
+126	Assam Properties (Assam.txt)	1 BHK Studio	Dibrugarh South	Dibrugarh / Assam	Studio / 1 BHK	358	₹24.09 L	Unfurnished	1	Family	Sale
+127	Assam Properties (Assam.txt)	4 BHK Independent House	Jorhat West	Jorhat / Assam	Independent House / 4 BHK	1846	₹62.74 L	Semi-Furnished	3	Family	Sale
+128	Assam Properties (Assam.txt)	1 BHK Apartment	Silchar Heights	Silchar / Assam	Apartment / 1 BHK	408	₹24.05 L	Semi-Furnished	2	Bachelors	Sale
+129	Assam Properties (Assam.txt)	3 BHK Apartment	Jorhat West	Jorhat / Assam	Apartment / 3 BHK	1182	₹66.12 L	Fully-Furnished	3	Family	Sale
+130	Assam Properties (Assam.txt)	1 BHK Independent House	Jorhat Central	Jorhat / Assam	Independent House / 1 BHK	493	₹7,900/month	Fully-Furnished	1	Any	Rent
+131	Assam Properties (Assam.txt)	1 BHK Studio	Guwahati Residential Area	Guwahati / Assam	Studio / 1 BHK	356	₹27.10 L	Fully-Furnished	1	Bachelors	Sale
+132	Assam Properties (Assam.txt)	1 BHK Independent House	Guwahati Central	Guwahati / Assam	Independent House / 1 BHK	634	₹25.87 L	Fully-Furnished	2	Any	Sale
+133	Assam Properties (Assam.txt)	4 BHK Independent House	Guwahati Sector 1	Guwahati / Assam	Independent House / 4 BHK	2120	₹19,300/month	Semi-Furnished	5	Bachelors	Rent
+134	Assam Properties (Assam.txt)	2 BHK Villa	Silchar Main Road	Silchar / Assam	Villa / 2 BHK	1227	₹10,200/month	Fully-Furnished	2	Bachelors	Rent
+135	Assam Properties (Assam.txt)	3 BHK Builder Floor	Silchar Sector 3	Silchar / Assam	Builder Floor / 3 BHK	1472	₹65.80 L	Fully-Furnished	2	Bachelors	Sale
+136	Assam Properties (Assam.txt)	1 BHK Independent House	Dibrugarh South	Dibrugarh / Assam	Independent House / 1 BHK	696	₹26.20 L	Unfurnished	1	Bachelors	Sale
+137	Assam Properties (Assam.txt)	3 BHK Villa	Guwahati Extension	Guwahati / Assam	Villa / 3 BHK	1582	₹15,600/month	Semi-Furnished	3	Any	Rent
+138	Assam Properties (Assam.txt)	2 BHK Apartment	Guwahati West	Guwahati / Assam	Apartment / 2 BHK	849	₹42.40 L	Semi-Furnished	2	Family	Sale
+139	Assam Properties (Assam.txt)	2 BHK Builder Floor	Dibrugarh Sector 3	Dibrugarh / Assam	Builder Floor / 2 BHK	933	₹12,600/month	Fully-Furnished	2	Bachelors	Rent
+140	Assam Properties (Assam.txt)	1 BHK Apartment	Guwahati Sector 1	Guwahati / Assam	Apartment / 1 BHK	466	₹8,200/month	Semi-Furnished	1	Family	Rent
+141	Assam Properties (Assam.txt)	2 BHK Apartment	Jorhat Nagar	Jorhat / Assam	Apartment / 2 BHK	869	₹12,700/month	Semi-Furnished	1	Family	Rent
+142	Assam Properties (Assam.txt)	2 BHK Apartment	Dibrugarh South	Dibrugarh / Assam	Apartment / 2 BHK	761	₹37.12 L	Semi-Furnished	2	Family	Sale
+143	Assam Properties (Assam.txt)	2 BHK Apartment	Guwahati Extension	Guwahati / Assam	Apartment / 2 BHK	796	₹10,100/month	Semi-Furnished	2	Bachelors	Rent
+144	Assam Properties (Assam.txt)	3 BHK Apartment	Jorhat Sector 3	Jorhat / Assam	Apartment / 3 BHK	1417	₹58.19 L	Fully-Furnished	3	Bachelors	Sale
+145	Assam Properties (Assam.txt)	2 BHK Apartment	Guwahati West	Guwahati / Assam	Apartment / 2 BHK	788	₹40.90 L	Fully-Furnished	2	Any	Sale
+146	Assam Properties (Assam.txt)	2 BHK Independent House	Jorhat West	Jorhat / Assam	Independent House / 2 BHK	709	₹11,000/month	Semi-Furnished	2	Any	Rent
+147	Assam Properties (Assam.txt)	4 BHK Apartment	Jorhat Colony	Jorhat / Assam	Apartment / 4 BHK	1929	₹77.18 L	Unfurnished	4	Bachelors	Sale
+148	Assam Properties (Assam.txt)	4 BHK Apartment	Silchar East	Silchar / Assam	Apartment / 4 BHK	1831	₹74.12 L	Unfurnished	4	Any	Sale
+149	Assam Properties (Assam.txt)	2 BHK Builder Floor	Guwahati Main Road	Guwahati / Assam	Builder Floor / 2 BHK	971	₹45.28 L	Semi-Furnished	2	Family	Sale
+150	Assam Properties (Assam.txt)	2 BHK Builder Floor	Guwahati Extension	Guwahati / Assam	Builder Floor / 2 BHK	929	₹49.58 L	Semi-Furnished	1	Bachelors	Sale
+151	Assam Properties (Assam.txt)	3 BHK Independent House	Silchar Heights	Silchar / Assam	Independent House / 3 BHK	1199	₹13,000/month	Semi-Furnished	3	Any	Rent
+152	Assam Properties (Assam.txt)	2 BHK Builder Floor	Silchar Extension	Silchar / Assam	Builder Floor / 2 BHK	826	₹9,900/month	Unfurnished	2	Family	Rent
+153	Assam Properties (Assam.txt)	4 BHK Apartment	Dibrugarh Central	Dibrugarh / Assam	Apartment / 4 BHK	1862	₹23,200/month	Semi-Furnished	4	Bachelors	Rent
+154	Assam Properties (Assam.txt)	5 BHK Apartment	Dibrugarh East	Dibrugarh / Assam	Apartment / 5 BHK	2470	₹96.16 L	Semi-Furnished	4	Any	Sale
+155	Assam Properties (Assam.txt)	1 BHK Studio	Jorhat Residential Area	Jorhat / Assam	Studio / 1 BHK	437	₹8,000/month	Semi-Furnished	1	Any	Rent
+156	Assam Properties (Assam.txt)	2 BHK Apartment	Guwahati South	Guwahati / Assam	Apartment / 2 BHK	750	₹45.18 L	Fully-Furnished	2	Any	Sale
+157	Assam Properties (Assam.txt)	2 BHK Apartment	Silchar East	Silchar / Assam	Apartment / 2 BHK	861	₹38.37 L	Fully-Furnished	3	Family	Sale
+158	Assam Properties (Assam.txt)	3 BHK Apartment	Jorhat North	Jorhat / Assam	Apartment / 3 BHK	1409	₹59.29 L	Semi-Furnished	2	Family	Sale
+159	Assam Properties (Assam.txt)	3 BHK Apartment	Dibrugarh Residential Area	Dibrugarh / Assam	Apartment / 3 BHK	1419	₹63.44 L	Semi-Furnished	3	Bachelors	Sale
+160	Assam Properties (Assam.txt)	3 BHK Apartment	Jorhat Residential Area	Jorhat / Assam	Apartment / 3 BHK	1320	₹61.62 L	Semi-Furnished	3	Family	Sale
+161	Assam Properties (Assam.txt)	2 BHK Apartment	Dibrugarh North	Dibrugarh / Assam	Apartment / 2 BHK	894	₹35.95 L	Semi-Furnished	2	Family	Sale
+162	Assam Properties (Assam.txt)	1 BHK Independent House	Silchar North	Silchar / Assam	Independent House / 1 BHK	583	₹28.32 L	Semi-Furnished	2	Family	Sale
+163	Assam Properties (Assam.txt)	4 BHK Builder Floor	Silchar North	Silchar / Assam	Builder Floor / 4 BHK	1927	₹22,900/month	Fully-Furnished	4	Family	Rent
+164	Assam Properties (Assam.txt)	1 BHK Apartment	Jorhat Sector 1	Jorhat / Assam	Apartment / 1 BHK	554	₹26.77 L	Semi-Furnished	1	Family	Sale
+165	Assam Properties (Assam.txt)	3 BHK Builder Floor	Jorhat Sector 2	Jorhat / Assam	Builder Floor / 3 BHK	1445	₹16,200/month	Semi-Furnished	3	Bachelors	Rent
+166	Assam Properties (Assam.txt)	4 BHK Villa	Silchar Sector 3	Silchar / Assam	Villa / 4 BHK	2638	₹26,700/month	Fully-Furnished	3	Bachelors	Rent
+167	Assam Properties (Assam.txt)	2 BHK Independent House	Silchar Extension	Silchar / Assam	Independent House / 2 BHK	1141	₹43.18 L	Fully-Furnished	1	Family	Sale
+168	Assam Properties (Assam.txt)	1 BHK Studio	Guwahati Main Road	Guwahati / Assam	Studio / 1 BHK	315	₹6,000/month	Fully-Furnished	2	Any	Rent
+169	Assam Properties (Assam.txt)	1 BHK Independent House	Guwahati Town Centre	Guwahati / Assam	Independent House / 1 BHK	675	₹27.05 L	Unfurnished	1	Any	Sale
+170	Assam Properties (Assam.txt)	2 BHK Apartment	Silchar Extension	Silchar / Assam	Apartment / 2 BHK	880	₹40.66 L	Fully-Furnished	1	Bachelors	Sale
+171	Assam Properties (Assam.txt)	4 BHK Builder Floor	Dibrugarh Main Road	Dibrugarh / Assam	Builder Floor / 4 BHK	1851	₹66.82 L	Semi-Furnished	4	Any	Sale
+172	Assam Properties (Assam.txt)	4 BHK Apartment	Guwahati East	Guwahati / Assam	Apartment / 4 BHK	1736	₹66.09 L	Unfurnished	3	Family	Sale
+173	Assam Properties (Assam.txt)	4 BHK Builder Floor	Guwahati South	Guwahati / Assam	Builder Floor / 4 BHK	1859	₹65.08 L	Semi-Furnished	4	Family	Sale
+174	Assam Properties (Assam.txt)	3 BHK Apartment	Dibrugarh East	Dibrugarh / Assam	Apartment / 3 BHK	1641	₹16,100/month	Semi-Furnished	2	Family	Rent
+175	Assam Properties (Assam.txt)	1 BHK Apartment	Jorhat Extension	Jorhat / Assam	Apartment / 1 BHK	500	₹24.77 L	Fully-Furnished	1	Any	Sale
+176	Assam Properties (Assam.txt)	3 BHK Apartment	Dibrugarh East	Dibrugarh / Assam	Apartment / 3 BHK	1351	₹14,500/month	Semi-Furnished	3	Family	Rent
+177	Assam Properties (Assam.txt)	3 BHK Apartment	Guwahati East	Guwahati / Assam	Apartment / 3 BHK	1301	₹16,300/month	Unfurnished	2	Bachelors	Rent
+178	Assam Properties (Assam.txt)	3 BHK Apartment	Silchar South	Silchar / Assam	Apartment / 3 BHK	1083	₹50.62 L	Unfurnished	3	Any	Sale
+179	Assam Properties (Assam.txt)	4 BHK Apartment	Jorhat Sector 2	Jorhat / Assam	Apartment / 4 BHK	1939	₹19,600/month	Fully-Furnished	3	Any	Rent
+180	Assam Properties (Assam.txt)	4 BHK Apartment	Guwahati North	Guwahati / Assam	Apartment / 4 BHK	1613	₹72.79 L	Fully-Furnished	5	Family	Sale
+181	Assam Properties (Assam.txt)	4 BHK Builder Floor	Dibrugarh Sector 3	Dibrugarh / Assam	Builder Floor / 4 BHK	1928	₹21,600/month	Unfurnished	4	Bachelors	Rent
+182	Assam Properties (Assam.txt)	3 BHK Apartment	Dibrugarh Main Road	Dibrugarh / Assam	Apartment / 3 BHK	1294	₹62.14 L	Semi-Furnished	4	Family	Sale
+183	Assam Properties (Assam.txt)	2 BHK Apartment	Jorhat Extension	Jorhat / Assam	Apartment / 2 BHK	877	₹9,600/month	Fully-Furnished	1	Family	Rent
+184	Assam Properties (Assam.txt)	2 BHK Builder Floor	Dibrugarh Sector 2	Dibrugarh / Assam	Builder Floor / 2 BHK	821	₹35.12 L	Semi-Furnished	2	Bachelors	Sale
+185	Assam Properties (Assam.txt)	3 BHK Apartment	Guwahati Main Road	Guwahati / Assam	Apartment / 3 BHK	1048	₹61.47 L	Semi-Furnished	3	Family	Sale
+186	Assam Properties (Assam.txt)	1 BHK Apartment	Silchar Residential Area	Silchar / Assam	Apartment / 1 BHK	511	₹7,600/month	Semi-Furnished	1	Bachelors	Rent
+187	Assam Properties (Assam.txt)	4 BHK Apartment	Guwahati Central	Guwahati / Assam	Apartment / 4 BHK	1683	₹75.07 L	Fully-Furnished	4	Any	Sale
+188	Assam Properties (Assam.txt)	5 BHK Independent House	Guwahati Extension	Guwahati / Assam	Independent House / 5 BHK	3276	₹22,900/month	Unfurnished	6	Bachelors	Rent
+189	Assam Properties (Assam.txt)	4 BHK Apartment	Jorhat West	Jorhat / Assam	Apartment / 4 BHK	2026	₹17,400/month	Unfurnished	4	Any	Rent
+190	Assam Properties (Assam.txt)	1 BHK Independent House	Silchar East	Silchar / Assam	Independent House / 1 BHK	595	₹6,900/month	Semi-Furnished	1	Family	Rent
+191	Assam Properties (Assam.txt)	2 BHK Villa	Dibrugarh Nagar	Dibrugarh / Assam	Villa / 2 BHK	1400	₹54.11 L	Semi-Furnished	1	Family	Sale
+192	Assam Properties (Assam.txt)	4 BHK Apartment	Jorhat North	Jorhat / Assam	Apartment / 4 BHK	1770	₹17,500/month	Semi-Furnished	4	Family	Rent
+193	Assam Properties (Assam.txt)	3 BHK Apartment	Jorhat Heights	Jorhat / Assam	Apartment / 3 BHK	1526	₹67.59 L	Fully-Furnished	3	Family	Sale
+194	Assam Properties (Assam.txt)	5 BHK Apartment	Silchar East	Silchar / Assam	Apartment / 5 BHK	2295	₹97.95 L	Unfurnished	5	Family	Sale
+195	Assam Properties (Assam.txt)	2 BHK Apartment	Jorhat Residential Area	Jorhat / Assam	Apartment / 2 BHK	870	₹35.83 L	Unfurnished	2	Family	Sale
+196	Assam Properties (Assam.txt)	1 BHK Apartment	Jorhat North	Jorhat / Assam	Apartment / 1 BHK	597	₹26.01 L	Semi-Furnished	2	Family	Sale
+197	Assam Properties (Assam.txt)	1 BHK Independent House	Jorhat Nagar	Jorhat / Assam	Independent House / 1 BHK	631	₹9,100/month	Unfurnished	2	Any	Rent
+198	Assam Properties (Assam.txt)	2 BHK Builder Floor	Jorhat Colony	Jorhat / Assam	Builder Floor / 2 BHK	806	₹40.51 L	Fully-Furnished	2	Bachelors	Sale
+199	Assam Properties (Assam.txt)	3 BHK Villa	Jorhat South	Jorhat / Assam	Villa / 3 BHK	1288	₹67.70 L	Semi-Furnished	4	Bachelors	Sale
+200	Assam Properties (Assam.txt)	1 BHK Independent House	Dibrugarh Residential Area	Dibrugarh / Assam	Independent House / 1 BHK	578	₹28.81 L	Fully-Furnished	2	Family	Sale
+201	Assam Properties (Assam.txt)	2 BHK Apartment	Silchar Sector 1	Silchar / Assam	Apartment / 2 BHK	953	₹12,900/month	Fully-Furnished	2	Family	Rent
+202	Assam Properties (Assam.txt)	2 BHK Independent House	Dibrugarh North	Dibrugarh / Assam	Independent House / 2 BHK	968	₹44.12 L	Fully-Furnished	2	Any	Sale
+203	Assam Properties (Assam.txt)	2 BHK Apartment	Guwahati Nagar	Guwahati / Assam	Apartment / 2 BHK	742	₹44.20 L	Unfurnished	2	Family	Sale
+204	Assam Properties (Assam.txt)	5 BHK Apartment	Guwahati West	Guwahati / Assam	Apartment / 5 BHK	2558	₹24,300/month	Semi-Furnished	5	Family	Rent
+205	Assam Properties (Assam.txt)	3 BHK Apartment	Dibrugarh Town Centre	Dibrugarh / Assam	Apartment / 3 BHK	1158	₹60.05 L	Semi-Furnished	3	Any	Sale
+206	Assam Properties (Assam.txt)	3 BHK Apartment	Dibrugarh Nagar	Dibrugarh / Assam	Apartment / 3 BHK	1136	₹47.27 L	Semi-Furnished	3	Family	Sale
+207	Assam Properties (Assam.txt)	3 BHK Builder Floor	Guwahati Town Centre	Guwahati / Assam	Builder Floor / 3 BHK	980	₹44.55 L	Semi-Furnished	3	Family	Sale
+208	Assam Properties (Assam.txt)	1 BHK Studio	Guwahati Residential Area	Guwahati / Assam	Studio / 1 BHK	385	₹22.36 L	Semi-Furnished	2	Bachelors	Sale
+209	Assam Properties (Assam.txt)	2 BHK Apartment	Guwahati Extension	Guwahati / Assam	Apartment / 2 BHK	858	₹11,200/month	Semi-Furnished	1	Family	Rent
+210	Assam Properties (Assam.txt)	2 BHK Apartment	Jorhat Sector 2	Jorhat / Assam	Apartment / 2 BHK	992	₹12,600/month	Unfurnished	3	Family	Rent
+211	Assam Properties (Assam.txt)	1 BHK Apartment	Silchar Sector 2	Silchar / Assam	Apartment / 1 BHK	436	₹7,900/month	Semi-Furnished	1	Bachelors	Rent
+212	Assam Properties (Assam.txt)	2 BHK Independent House	Dibrugarh Central	Dibrugarh / Assam	Independent House / 2 BHK	1254	₹45.72 L	Unfurnished	2	Family	Sale
+213	Assam Properties (Assam.txt)	1 BHK Apartment	Dibrugarh West	Dibrugarh / Assam	Apartment / 1 BHK	622	₹8,500/month	Fully-Furnished	1	Family	Rent
+214	Assam Properties (Assam.txt)	3 BHK Builder Floor	Jorhat Central	Jorhat / Assam	Builder Floor / 3 BHK	1133	₹14,800/month	Fully-Furnished	3	Bachelors	Rent
+215	Assam Properties (Assam.txt)	1 BHK Studio	Dibrugarh East	Dibrugarh / Assam	Studio / 1 BHK	367	₹25.35 L	Semi-Furnished	2	Bachelors	Sale
+216	Assam Properties (Assam.txt)	2 BHK Villa	Guwahati West	Guwahati / Assam	Villa / 2 BHK	1115	₹46.01 L	Fully-Furnished	2	Bachelors	Sale
+217	Assam Properties (Assam.txt)	2 BHK Independent House	Guwahati East	Guwahati / Assam	Independent House / 2 BHK	1170	₹46.59 L	Semi-Furnished	2	Family	Sale
+218	Assam Properties (Assam.txt)	1 BHK Apartment	Guwahati North	Guwahati / Assam	Apartment / 1 BHK	520	₹21.73 L	Semi-Furnished	1	Bachelors	Sale
+219	Assam Properties (Assam.txt)	2 BHK Builder Floor	Jorhat Colony	Jorhat / Assam	Builder Floor / 2 BHK	685	₹42.05 L	Unfurnished	2	Family	Sale
+220	Assam Properties (Assam.txt)	2 BHK Apartment	Silchar Heights	Silchar / Assam	Apartment / 2 BHK	956	₹47.89 L	Semi-Furnished	1	Family	Sale
+221	Assam Properties (Assam.txt)	1 BHK Apartment	Jorhat East	Jorhat / Assam	Apartment / 1 BHK	608	₹26.65 L	Semi-Furnished	1	Any	Sale
+222	Assam Properties (Assam.txt)	1 BHK Villa	Silchar Central	Silchar / Assam	Villa / 1 BHK	851	₹8,100/month	Semi-Furnished	1	Family	Rent
+223	Assam Properties (Assam.txt)	3 BHK Villa	Silchar Residential Area	Silchar / Assam	Villa / 3 BHK	1955	₹19,000/month	Fully-Furnished	4	Bachelors	Rent
+224	Assam Properties (Assam.txt)	1 BHK Apartment	Silchar Sector 1	Silchar / Assam	Apartment / 1 BHK	393	₹22.30 L	Semi-Furnished	1	Bachelors	Sale
+225	Assam Properties (Assam.txt)	2 BHK Apartment	Guwahati Main Road	Guwahati / Assam	Apartment / 2 BHK	665	₹45.88 L	Fully-Furnished	2	Family	Sale
+226	Assam Properties (Assam.txt)	1 BHK Studio	Jorhat Colony	Jorhat / Assam	Studio / 1 BHK	300	₹23.48 L	Fully-Furnished	1	Family	Sale
+227	Assam Properties (Assam.txt)	4 BHK Apartment	Guwahati Sector 1	Guwahati / Assam	Apartment / 4 BHK	1896	₹81.88 L	Semi-Furnished	5	Family	Sale
+228	Assam Properties (Assam.txt)	4 BHK Independent House	Silchar North	Silchar / Assam	Independent House / 4 BHK	2428	₹21,200/month	Semi-Furnished	3	Bachelors	Rent
+229	Assam Properties (Assam.txt)	4 BHK Independent House	Jorhat Town Centre	Jorhat / Assam	Independent House / 4 BHK	1900	₹16,800/month	Unfurnished	4	Family	Rent
+230	Assam Properties (Assam.txt)	1 BHK Apartment	Guwahati North	Guwahati / Assam	Apartment / 1 BHK	530	₹6,400/month	Fully-Furnished	1	Bachelors	Rent
+231	Assam Properties (Assam.txt)	2 BHK Independent House	Jorhat Colony	Jorhat / Assam	Independent House / 2 BHK	1084	₹48.30 L	Semi-Furnished	2	Any	Sale
+232	Assam Properties (Assam.txt)	1 BHK Studio	Guwahati Colony	Guwahati / Assam	Studio / 1 BHK	380	₹24.65 L	Semi-Furnished	1	Family	Sale
+233	Assam Properties (Assam.txt)	2 BHK Apartment	Guwahati Sector 2	Guwahati / Assam	Apartment / 2 BHK	941	₹37.34 L	Semi-Furnished	2	Family	Sale
+234	Assam Properties (Assam.txt)	2 BHK Apartment	Guwahati East	Guwahati / Assam	Apartment / 2 BHK	792	₹10,300/month	Semi-Furnished	2	Any	Rent
+235	Assam Properties (Assam.txt)	4 BHK Apartment	Guwahati West	Guwahati / Assam	Apartment / 4 BHK	1673	₹82.16 L	Unfurnished	5	Bachelors	Sale
+236	Assam Properties (Assam.txt)	2 BHK Independent House	Jorhat Town Centre	Jorhat / Assam	Independent House / 2 BHK	1277	₹47.15 L	Fully-Furnished	2	Family	Sale
+237	Assam Properties (Assam.txt)	3 BHK Independent House	Silchar Extension	Silchar / Assam	Independent House / 3 BHK	1580	₹15,100/month	Unfurnished	3	Any	Rent
+238	Assam Properties (Assam.txt)	4 BHK Apartment	Guwahati Extension	Guwahati / Assam	Apartment / 4 BHK	1760	₹60.95 L	Semi-Furnished	4	Family	Sale
+239	Assam Properties (Assam.txt)	1 BHK Studio	Guwahati Sector 3	Guwahati / Assam	Studio / 1 BHK	402	₹28.75 L	Fully-Furnished	2	Family	Sale
+240	Assam Properties (Assam.txt)	2 BHK Apartment	Jorhat Residential Area	Jorhat / Assam	Apartment / 2 BHK	905	₹40.38 L	Unfurnished	3	Family	Sale
+241	Assam Properties (Assam.txt)	1 BHK Independent House	Silchar East	Silchar / Assam	Independent House / 1 BHK	656	₹29.29 L	Semi-Furnished	1	Bachelors	Sale
+242	Assam Properties (Assam.txt)	1 BHK Independent House	Jorhat Extension	Jorhat / Assam	Independent House / 1 BHK	402	₹6,400/month	Unfurnished	1	Bachelors	Rent
+243	Assam Properties (Assam.txt)	3 BHK Independent House	Silchar Central	Silchar / Assam	Independent House / 3 BHK	1734	₹18,700/month	Semi-Furnished	3	Any	Rent
+244	Assam Properties (Assam.txt)	4 BHK Apartment	Guwahati Nagar	Guwahati / Assam	Apartment / 4 BHK	1708	₹63.94 L	Fully-Furnished	3	Family	Sale
+245	Assam Properties (Assam.txt)	2 BHK Apartment	Dibrugarh West	Dibrugarh / Assam	Apartment / 2 BHK	775	₹36.18 L	Semi-Furnished	2	Family	Sale
+246	Assam Properties (Assam.txt)	3 BHK Apartment	Dibrugarh East	Dibrugarh / Assam	Apartment / 3 BHK	1440	₹50.48 L	Unfurnished	2	Family	Sale
+247	Assam Properties (Assam.txt)	3 BHK Independent House	Guwahati Colony	Guwahati / Assam	Independent House / 3 BHK	968	₹57.51 L	Fully-Furnished	3	Family	Sale
+248	Assam Properties (Assam.txt)	4 BHK Apartment	Jorhat Colony	Jorhat / Assam	Apartment / 4 BHK	2448	₹95.20 L	Semi-Furnished	4	Family	Sale
+249	Assam Properties (Assam.txt)	2 BHK Apartment	Silchar East	Silchar / Assam	Apartment / 2 BHK	619	₹12,500/month	Semi-Furnished	2	Family	Rent
+250	Assam Properties (Assam.txt)	3 BHK Apartment	Jorhat Colony	Jorhat / Assam	Apartment / 3 BHK	1633	₹72.19 L	Semi-Furnished	3	Family	Sale
+251	Assam Properties (Assam.txt)	1 BHK Builder Floor	Jorhat Heights	Jorhat / Assam	Builder Floor / 1 BHK	444	₹6,900/month	Semi-Furnished	2	Any	Rent
+252	Assam Properties (Assam.txt)	3 BHK Apartment	Dibrugarh Sector 2	Dibrugarh / Assam	Apartment / 3 BHK	1485	₹68.05 L	Semi-Furnished	3	Family	Sale
+253	Assam Properties (Assam.txt)	2 BHK Independent House	Dibrugarh Sector 1	Dibrugarh / Assam	Independent House / 2 BHK	865	₹47.13 L	Semi-Furnished	2	Family	Sale
+254	Assam Properties (Assam.txt)	1 BHK Independent House	Guwahati East	Guwahati / Assam	Independent House / 1 BHK	564	₹6,700/month	Fully-Furnished	1	Family	Rent
+255	Assam Properties (Assam.txt)	4 BHK Apartment	Dibrugarh Residential Area	Dibrugarh / Assam	Apartment / 4 BHK	1625	₹61.36 L	Unfurnished	3	Bachelors	Sale
+256	Assam Properties (Assam.txt)	2 BHK Apartment	Silchar Residential Area	Silchar / Assam	Apartment / 2 BHK	862	₹11,900/month	Unfurnished	2	Any	Rent
+257	Assam Properties (Assam.txt)	1 BHK Builder Floor	Silchar Heights	Silchar / Assam	Builder Floor / 1 BHK	447	₹21.08 L	Semi-Furnished	1	Family	Sale
+258	Assam Properties (Assam.txt)	4 BHK Apartment	Jorhat Nagar	Jorhat / Assam	Apartment / 4 BHK	1933	₹77.13 L	Fully-Furnished	3	Family	Sale
+259	Assam Properties (Assam.txt)	1 BHK Studio	Jorhat Extension	Jorhat / Assam	Studio / 1 BHK	405	₹27.54 L	Unfurnished	1	Bachelors	Sale
+260	Assam Properties (Assam.txt)	3 BHK Apartment	Jorhat Central	Jorhat / Assam	Apartment / 3 BHK	1306	₹17,900/month	Unfurnished	2	Bachelors	Rent
+261	Assam Properties (Assam.txt)	2 BHK Apartment	Guwahati Colony	Guwahati / Assam	Apartment / 2 BHK	797	₹35.68 L	Fully-Furnished	2	Any	Sale
+262	Assam Properties (Assam.txt)	3 BHK Apartment	Silchar Colony	Silchar / Assam	Apartment / 3 BHK	1105	₹51.08 L	Semi-Furnished	2	Bachelors	Sale
+263	Assam Properties (Assam.txt)	2 BHK Apartment	Jorhat East	Jorhat / Assam	Apartment / 2 BHK	974	₹48.52 L	Semi-Furnished	2	Family	Sale
+264	Assam Properties (Assam.txt)	3 BHK Apartment	Dibrugarh South	Dibrugarh / Assam	Apartment / 3 BHK	1382	₹13,000/month	Semi-Furnished	3	Bachelors	Rent
+265	Assam Properties (Assam.txt)	2 BHK Apartment	Jorhat Residential Area	Jorhat / Assam	Apartment / 2 BHK	930	₹42.13 L	Semi-Furnished	2	Bachelors	Sale
+266	Assam Properties (Assam.txt)	2 BHK Builder Floor	Dibrugarh Extension	Dibrugarh / Assam	Builder Floor / 2 BHK	688	₹12,500/month	Semi-Furnished	2	Family	Rent
+267	Assam Properties (Assam.txt)	2 BHK Apartment	Silchar Residential Area	Silchar / Assam	Apartment / 2 BHK	1020	₹44.44 L	Fully-Furnished	2	Bachelors	Sale
+268	Assam Properties (Assam.txt)	5 BHK Apartment	Dibrugarh Sector 1	Dibrugarh / Assam	Apartment / 5 BHK	2054	₹22,400/month	Unfurnished	5	Family	Rent
+269	Assam Properties (Assam.txt)	1 BHK Builder Floor	Silchar Sector 2	Silchar / Assam	Builder Floor / 1 BHK	538	₹27.93 L	Semi-Furnished	1	Family	Sale
+270	Assam Properties (Assam.txt)	3 BHK Builder Floor	Silchar West	Silchar / Assam	Builder Floor / 3 BHK	1278	₹56.89 L	Semi-Furnished	3	Any	Sale
+271	Assam Properties (Assam.txt)	3 BHK Apartment	Dibrugarh North	Dibrugarh / Assam	Apartment / 3 BHK	1335	₹15,700/month	Fully-Furnished	2	Family	Rent
+272	Assam Properties (Assam.txt)	2 BHK Apartment	Silchar Sector 1	Silchar / Assam	Apartment / 2 BHK	895	₹10,700/month	Unfurnished	2	Family	Rent
+273	Assam Properties (Assam.txt)	3 BHK Apartment	Silchar Sector 2	Silchar / Assam	Apartment / 3 BHK	1488	₹13,700/month	Semi-Furnished	4	Bachelors	Rent
+274	Assam Properties (Assam.txt)	2 BHK Apartment	Jorhat Nagar	Jorhat / Assam	Apartment / 2 BHK	669	₹40.19 L	Fully-Furnished	2	Bachelors	Sale
+275	Assam Properties (Assam.txt)	1 BHK Studio	Dibrugarh Main Road	Dibrugarh / Assam	Studio / 1 BHK	445	₹6,900/month	Semi-Furnished	1	Family	Rent
+276	Assam Properties (Assam.txt)	2 BHK Apartment	Dibrugarh Extension	Dibrugarh / Assam	Apartment / 2 BHK	1005	₹48.50 L	Semi-Furnished	1	Family	Sale
+277	Assam Properties (Assam.txt)	2 BHK Apartment	Dibrugarh Sector 2	Dibrugarh / Assam	Apartment / 2 BHK	889	₹42.77 L	Semi-Furnished	1	Bachelors	Sale
+278	Assam Properties (Assam.txt)	2 BHK Apartment	Jorhat East	Jorhat / Assam	Apartment / 2 BHK	983	₹37 L	Semi-Furnished	1	Bachelors	Sale
+279	Assam Properties (Assam.txt)	1 BHK Studio	Jorhat Sector 3	Jorhat / Assam	Studio / 1 BHK	427	₹30.10 L	Fully-Furnished	1	Bachelors	Sale
+280	Assam Properties (Assam.txt)	3 BHK Villa	Dibrugarh Colony	Dibrugarh / Assam	Villa / 3 BHK	1888	₹16,000/month	Semi-Furnished	3	Any	Rent
+281	Assam Properties (Assam.txt)	2 BHK Builder Floor	Silchar Extension	Silchar / Assam	Builder Floor / 2 BHK	1027	₹13,900/month	Unfurnished	1	Any	Rent
+282	Assam Properties (Assam.txt)	1 BHK Studio	Silchar Colony	Silchar / Assam	Studio / 1 BHK	461	₹27.16 L	Unfurnished	2	Bachelors	Sale
+283	Assam Properties (Assam.txt)	2 BHK Independent House	Jorhat North	Jorhat / Assam	Independent House / 2 BHK	1027	₹50.22 L	Fully-Furnished	2	Family	Sale
+284	Assam Properties (Assam.txt)	3 BHK Apartment	Dibrugarh Extension	Dibrugarh / Assam	Apartment / 3 BHK	1154	₹60.68 L	Semi-Furnished	4	Any	Sale
+285	Assam Properties (Assam.txt)	2 BHK Apartment	Silchar North	Silchar / Assam	Apartment / 2 BHK	876	₹41.04 L	Semi-Furnished	3	Family	Sale
+286	Assam Properties (Assam.txt)	4 BHK Independent House	Silchar East	Silchar / Assam	Independent House / 4 BHK	2134	₹75.31 L	Fully-Furnished	3	Bachelors	Sale
+287	Assam Properties (Assam.txt)	2 BHK Apartment	Silchar Sector 3	Silchar / Assam	Apartment / 2 BHK	781	₹10,700/month	Unfurnished	3	Family	Rent
+288	Assam Properties (Assam.txt)	3 BHK Apartment	Jorhat Extension	Jorhat / Assam	Apartment / 3 BHK	1592	₹19,700/month	Semi-Furnished	3	Bachelors	Rent
+289	Assam Properties (Assam.txt)	2 BHK Villa	Guwahati Sector 2	Guwahati / Assam	Villa / 2 BHK	1001	₹10,000/month	Semi-Furnished	2	Family	Rent
+290	Assam Properties (Assam.txt)	1 BHK Apartment	Dibrugarh Heights	Dibrugarh / Assam	Apartment / 1 BHK	600	₹26.68 L	Semi-Furnished	1	Family	Sale
+291	Assam Properties (Assam.txt)	2 BHK Builder Floor	Silchar Town Centre	Silchar / Assam	Builder Floor / 2 BHK	790	₹35.53 L	Unfurnished	2	Family	Sale
+292	Assam Properties (Assam.txt)	5 BHK Apartment	Dibrugarh Town Centre	Dibrugarh / Assam	Apartment / 5 BHK	2476	₹27,200/month	Fully-Furnished	6	Family	Rent
+293	Assam Properties (Assam.txt)	2 BHK Apartment	Guwahati Sector 3	Guwahati / Assam	Apartment / 2 BHK	737	₹9,700/month	Semi-Furnished	2	Bachelors	Rent
+294	Assam Properties (Assam.txt)	3 BHK Apartment	Dibrugarh Sector 3	Dibrugarh / Assam	Apartment / 3 BHK	1498	₹50.70 L	Fully-Furnished	3	Bachelors	Sale
+295	Assam Properties (Assam.txt)	1 BHK Apartment	Dibrugarh Town Centre	Dibrugarh / Assam	Apartment / 1 BHK	506	₹28.11 L	Semi-Furnished	1	Any	Sale
+296	Assam Properties (Assam.txt)	4 BHK Independent House	Jorhat East	Jorhat / Assam	Independent House / 4 BHK	1946	₹68.53 L	Semi-Furnished	4	Family	Sale
+297	Assam Properties (Assam.txt)	2 BHK Apartment	Jorhat West	Jorhat / Assam	Apartment / 2 BHK	820	₹9,200/month	Fully-Furnished	3	Bachelors	Rent
+298	Assam Properties (Assam.txt)	4 BHK Apartment	Jorhat Residential Area	Jorhat / Assam	Apartment / 4 BHK	1590	₹18,700/month	Semi-Furnished	3	Any	Rent
+299	Assam Properties (Assam.txt)	4 BHK Apartment	Silchar Colony	Silchar / Assam	Apartment / 4 BHK	1714	₹22,800/month	Unfurnished	4	Bachelors	Rent
+300	Assam Properties (Assam.txt)	4 BHK Independent House	Dibrugarh West	Dibrugarh / Assam	Independent House / 4 BHK	2276	₹84.98 L	Unfurnished	4	Bachelors	Sale
+301	Assam Properties (Assam.txt)	4 BHK Apartment	Dibrugarh South	Dibrugarh / Assam	Apartment / 4 BHK	1813	₹20,400/month	Fully-Furnished	5	Bachelors	Rent
+302	Assam Properties (Assam.txt)	2 BHK Apartment	Silchar Extension	Silchar / Assam	Apartment / 2 BHK	772	₹48.18 L	Fully-Furnished	1	Family	Sale
+303	Assam Properties (Assam.txt)	2 BHK Apartment	Jorhat West	Jorhat / Assam	Apartment / 2 BHK	1159	₹46.23 L	Fully-Furnished	3	Family	Sale
+304	Assam Properties (Assam.txt)	2 BHK Independent House	Silchar Sector 2	Silchar / Assam	Independent House / 2 BHK	1211	₹43.67 L	Unfurnished	2	Bachelors	Sale
+305	Assam Properties (Assam.txt)	2 BHK Apartment	Jorhat Extension	Jorhat / Assam	Apartment / 2 BHK	605	₹11,100/month	Semi-Furnished	3	Bachelors	Rent
+306	Assam Properties (Assam.txt)	3 BHK Apartment	Dibrugarh Residential Area	Dibrugarh / Assam	Apartment / 3 BHK	1009	₹12,300/month	Semi-Furnished	4	Any	Rent
+307	Assam Properties (Assam.txt)	2 BHK Independent House	Dibrugarh South	Dibrugarh / Assam	Independent House / 2 BHK	911	₹11,400/month	Fully-Furnished	2	Family	Rent
+308	Assam Properties (Assam.txt)	3 BHK Apartment	Guwahati Extension	Guwahati / Assam	Apartment / 3 BHK	1250	₹46.12 L	Semi-Furnished	3	Family	Sale
+309	Assam Properties (Assam.txt)	5 BHK Apartment	Jorhat Residential Area	Jorhat / Assam	Apartment / 5 BHK	2364	₹1.09 Cr	Semi-Furnished	4	Bachelors	Sale
+310	Assam Properties (Assam.txt)	1 BHK Apartment	Guwahati Heights	Guwahati / Assam	Apartment / 1 BHK	618	₹9,100/month	Semi-Furnished	1	Family	Rent
+311	Assam Properties (Assam.txt)	3 BHK Apartment	Jorhat Residential Area	Jorhat / Assam	Apartment / 3 BHK	1136	₹14,300/month	Unfurnished	3	Family	Rent
+312	Assam Properties (Assam.txt)	2 BHK Apartment	Dibrugarh East	Dibrugarh / Assam	Apartment / 2 BHK	935	₹49.26 L	Unfurnished	3	Family	Sale
+313	Assam Properties (Assam.txt)	2 BHK Villa	Silchar North	Silchar / Assam	Villa / 2 BHK	812	₹41.28 L	Semi-Furnished	2	Bachelors	Sale
+314	Assam Properties (Assam.txt)	2 BHK Builder Floor	Jorhat Sector 3	Jorhat / Assam	Builder Floor / 2 BHK	1007	₹10,200/month	Semi-Furnished	1	Family	Rent
+315	Assam Properties (Assam.txt)	3 BHK Independent House	Dibrugarh Main Road	Dibrugarh / Assam	Independent House / 3 BHK	1462	₹14,200/month	Semi-Furnished	2	Any	Rent
+316	Assam Properties (Assam.txt)	2 BHK Apartment	Dibrugarh Colony	Dibrugarh / Assam	Apartment / 2 BHK	870	₹47.06 L	Semi-Furnished	1	Any	Sale
+317	Assam Properties (Assam.txt)	2 BHK Independent House	Guwahati Sector 1	Guwahati / Assam	Independent House / 2 BHK	934	₹13,900/month	Semi-Furnished	3	Bachelors	Rent
+318	Assam Properties (Assam.txt)	3 BHK Apartment	Guwahati Main Road	Guwahati / Assam	Apartment / 3 BHK	1009	₹44.26 L	Unfurnished	2	Family	Sale
+319	Assam Properties (Assam.txt)	2 BHK Apartment	Guwahati Nagar	Guwahati / Assam	Apartment / 2 BHK	868	₹38.89 L	Semi-Furnished	2	Family	Sale
+320	Assam Properties (Assam.txt)	3 BHK Independent House	Dibrugarh Town Centre	Dibrugarh / Assam	Independent House / 3 BHK	1409	₹16,700/month	Fully-Furnished	3	Family	Rent
+321	Assam Properties (Assam.txt)	4 BHK Apartment	Silchar East	Silchar / Assam	Apartment / 4 BHK	1491	₹15,800/month	Unfurnished	4	Family	Rent
+322	Assam Properties (Assam.txt)	3 BHK Apartment	Silchar South	Silchar / Assam	Apartment / 3 BHK	1349	₹51.57 L	Fully-Furnished	3	Family	Sale
+323	Assam Properties (Assam.txt)	1 BHK Studio	Dibrugarh Nagar	Dibrugarh / Assam	Studio / 1 BHK	430	₹21.19 L	Unfurnished	1	Family	Sale
+324	Assam Properties (Assam.txt)	2 BHK Apartment	Guwahati Extension	Guwahati / Assam	Apartment / 2 BHK	881	₹37.90 L	Unfurnished	2	Any	Sale
+325	Assam Properties (Assam.txt)	3 BHK Apartment	Silchar Sector 3	Silchar / Assam	Apartment / 3 BHK	1166	₹48.53 L	Semi-Furnished	3	Family	Sale
+326	Assam Properties (Assam.txt)	3 BHK Apartment	Silchar Residential Area	Silchar / Assam	Apartment / 3 BHK	1294	₹66.83 L	Unfurnished	4	Family	Sale
+327	Assam Properties (Assam.txt)	3 BHK Apartment	Silchar East	Silchar / Assam	Apartment / 3 BHK	1285	₹66.22 L	Semi-Furnished	3	Family	Sale
+328	Assam Properties (Assam.txt)	1 BHK Apartment	Dibrugarh Sector 2	Dibrugarh / Assam	Apartment / 1 BHK	643	₹7,700/month	Fully-Furnished	1	Bachelors	Rent
+329	Assam Properties (Assam.txt)	2 BHK Villa	Dibrugarh Extension	Dibrugarh / Assam	Villa / 2 BHK	1047	₹51.33 L	Fully-Furnished	2	Family	Sale
+330	Assam Properties (Assam.txt)	1 BHK Builder Floor	Jorhat Residential Area	Jorhat / Assam	Builder Floor / 1 BHK	448	₹24.25 L	Fully-Furnished	1	Any	Sale
+331	Assam Properties (Assam.txt)	3 BHK Builder Floor	Dibrugarh Sector 3	Dibrugarh / Assam	Builder Floor / 3 BHK	1580	₹19,500/month	Fully-Furnished	2	Any	Rent
+332	Assam Properties (Assam.txt)	3 BHK Independent House	Silchar Residential Area	Silchar / Assam	Independent House / 3 BHK	1518	₹64.51 L	Fully-Furnished	3	Family	Sale
+333	Assam Properties (Assam.txt)	2 BHK Builder Floor	Dibrugarh West	Dibrugarh / Assam	Builder Floor / 2 BHK	949	₹43.82 L	Fully-Furnished	1	Family	Sale
+334	Assam Properties (Assam.txt)	2 BHK Apartment	Jorhat East	Jorhat / Assam	Apartment / 2 BHK	830	₹12,900/month	Unfurnished	1	Family	Rent
+335	Assam Properties (Assam.txt)	2 BHK Apartment	Silchar Sector 3	Silchar / Assam	Apartment / 2 BHK	899	₹39.60 L	Fully-Furnished	1	Bachelors	Sale
+336	Assam Properties (Assam.txt)	3 BHK Apartment	Silchar Residential Area	Silchar / Assam	Apartment / 3 BHK	934	₹60.27 L	Semi-Furnished	3	Family	Sale
+337	Assam Properties (Assam.txt)	5 BHK Independent House	Jorhat Sector 3	Jorhat / Assam	Independent House / 5 BHK	2709	₹88.49 L	Fully-Furnished	5	Family	Sale
+338	Assam Properties (Assam.txt)	4 BHK Independent House	Silchar Sector 3	Silchar / Assam	Independent House / 4 BHK	1832	₹84.40 L	Fully-Furnished	4	Family	Sale
+339	Assam Properties (Assam.txt)	4 BHK Independent House	Guwahati West	Guwahati / Assam	Independent House / 4 BHK	1979	₹23,800/month	Unfurnished	4	Any	Rent
+340	Assam Properties (Assam.txt)	4 BHK Independent House	Guwahati Sector 1	Guwahati / Assam	Independent House / 4 BHK	2095	₹83.84 L	Unfurnished	4	Family	Sale
+341	Assam Properties (Assam.txt)	3 BHK Apartment	Jorhat Sector 2	Jorhat / Assam	Apartment / 3 BHK	1076	₹54.72 L	Fully-Furnished	4	Family	Sale
+342	Assam Properties (Assam.txt)	3 BHK Apartment	Dibrugarh Town Centre	Dibrugarh / Assam	Apartment / 3 BHK	1064	₹45.58 L	Unfurnished	4	Bachelors	Sale
+343	Assam Properties (Assam.txt)	1 BHK Studio	Jorhat Sector 3	Jorhat / Assam	Studio / 1 BHK	416	₹5,900/month	Semi-Furnished	1	Family	Rent
+344	Assam Properties (Assam.txt)	1 BHK Studio	Dibrugarh Main Road	Dibrugarh / Assam	Studio / 1 BHK	456	₹22.14 L	Unfurnished	1	Family	Sale
+345	Assam Properties (Assam.txt)	2 BHK Builder Floor	Guwahati North	Guwahati / Assam	Builder Floor / 2 BHK	903	₹44.51 L	Unfurnished	3	Any	Sale
+346	Assam Properties (Assam.txt)	3 BHK Apartment	Silchar Heights	Silchar / Assam	Apartment / 3 BHK	1348	₹15,300/month	Fully-Furnished	3	Family	Rent
+347	Assam Properties (Assam.txt)	3 BHK Apartment	Guwahati South	Guwahati / Assam	Apartment / 3 BHK	1189	₹64.84 L	Semi-Furnished	3	Any	Sale
+348	Assam Properties (Assam.txt)	2 BHK Apartment	Jorhat Sector 1	Jorhat / Assam	Apartment / 2 BHK	850	₹13,200/month	Semi-Furnished	1	Family	Rent
+349	Assam Properties (Assam.txt)	2 BHK Builder Floor	Jorhat Residential Area	Jorhat / Assam	Builder Floor / 2 BHK	887	₹13,500/month	Semi-Furnished	2	Family	Rent
+350	Assam Properties (Assam.txt)	5 BHK Apartment	Jorhat West	Jorhat / Assam	Apartment / 5 BHK	2336	₹20,000/month	Unfurnished	5	Any	Rent
+351	Assam Properties (Assam.txt)	3 BHK Villa	Dibrugarh Central	Dibrugarh / Assam	Villa / 3 BHK	2086	₹64.92 L	Semi-Furnished	3	Family	Sale
+352	Assam Properties (Assam.txt)	2 BHK Villa	Dibrugarh Town Centre	Dibrugarh / Assam	Villa / 2 BHK	1308	₹12,600/month	Semi-Furnished	2	Bachelors	Rent
+353	Assam Properties (Assam.txt)	1 BHK Apartment	Silchar North	Silchar / Assam	Apartment / 1 BHK	447	₹26.19 L	Unfurnished	1	Bachelors	Sale
+354	Assam Properties (Assam.txt)	4 BHK Apartment	Dibrugarh Sector 3	Dibrugarh / Assam	Apartment / 4 BHK	1770	₹67.75 L	Unfurnished	4	Family	Sale
+355	Assam Properties (Assam.txt)	1 BHK Studio	Silchar Town Centre	Silchar / Assam	Studio / 1 BHK	344	₹22.58 L	Semi-Furnished	2	Family	Sale
+356	Assam Properties (Assam.txt)	2 BHK Apartment	Jorhat South	Jorhat / Assam	Apartment / 2 BHK	846	₹34.10 L	Semi-Furnished	2	Bachelors	Sale
+357	Assam Properties (Assam.txt)	3 BHK Villa	Silchar Sector 3	Silchar / Assam	Villa / 3 BHK	1785	₹59.46 L	Semi-Furnished	3	Family	Sale
+358	Assam Properties (Assam.txt)	4 BHK Apartment	Guwahati Colony	Guwahati / Assam	Apartment / 4 BHK	1245	₹81.68 L	Semi-Furnished	5	Bachelors	Sale
+359	Assam Properties (Assam.txt)	2 BHK Villa	Dibrugarh South	Dibrugarh / Assam	Villa / 2 BHK	1013	₹13,600/month	Semi-Furnished	2	Bachelors	Rent
+360	Assam Properties (Assam.txt)	3 BHK Independent House	Silchar Residential Area	Silchar / Assam	Independent House / 3 BHK	1575	₹60.06 L	Fully-Furnished	2	Bachelors	Sale
+361	Assam Properties (Assam.txt)	3 BHK Apartment	Dibrugarh Sector 3	Dibrugarh / Assam	Apartment / 3 BHK	1164	₹66.84 L	Unfurnished	3	Bachelors	Sale
+362	Assam Properties (Assam.txt)	3 BHK Apartment	Jorhat North	Jorhat / Assam	Apartment / 3 BHK	1392	₹62.65 L	Semi-Furnished	3	Bachelors	Sale
+363	Assam Properties (Assam.txt)	3 BHK Apartment	Jorhat Extension	Jorhat / Assam	Apartment / 3 BHK	1237	₹49.79 L	Semi-Furnished	3	Bachelors	Sale
+364	Assam Properties (Assam.txt)	3 BHK Apartment	Guwahati Colony	Guwahati / Assam	Apartment / 3 BHK	1323	₹15,300/month	Fully-Furnished	3	Any	Rent
+365	Assam Properties (Assam.txt)	2 BHK Apartment	Dibrugarh Residential Area	Dibrugarh / Assam	Apartment / 2 BHK	717	₹11,600/month	Fully-Furnished	2	Any	Rent
+366	Assam Properties (Assam.txt)	4 BHK Apartment	Silchar South	Silchar / Assam	Apartment / 4 BHK	1466	₹65.77 L	Semi-Furnished	4	Family	Sale
+367	Assam Properties (Assam.txt)	3 BHK Independent House	Jorhat Sector 3	Jorhat / Assam	Independent House / 3 BHK	1408	₹16,800/month	Semi-Furnished	4	Bachelors	Rent
+368	Assam Properties (Assam.txt)	3 BHK Apartment	Dibrugarh Town Centre	Dibrugarh / Assam	Apartment / 3 BHK	984	₹17,500/month	Semi-Furnished	3	Bachelors	Rent
+369	Assam Properties (Assam.txt)	5 BHK Apartment	Silchar Nagar	Silchar / Assam	Apartment / 5 BHK	2405	₹26,800/month	Semi-Furnished	5	Any	Rent
+370	Assam Properties (Assam.txt)	3 BHK Apartment	Dibrugarh Town Centre	Dibrugarh / Assam	Apartment / 3 BHK	1343	₹66.54 L	Semi-Furnished	4	Family	Sale
+371	Assam Properties (Assam.txt)	1 BHK Apartment	Guwahati Nagar	Guwahati / Assam	Apartment / 1 BHK	615	₹7,000/month	Unfurnished	2	Any	Rent
+372	Assam Properties (Assam.txt)	1 BHK Apartment	Jorhat Sector 3	Jorhat / Assam	Apartment / 1 BHK	483	₹22.48 L	Unfurnished	1	Family	Sale
+373	Assam Properties (Assam.txt)	4 BHK Apartment	Jorhat Town Centre	Jorhat / Assam	Apartment / 4 BHK	1326	₹17,300/month	Fully-Furnished	4	Family	Rent
+374	Assam Properties (Assam.txt)	4 BHK Apartment	Dibrugarh Central	Dibrugarh / Assam	Apartment / 4 BHK	1401	₹77.26 L	Fully-Furnished	5	Family	Sale
+375	Assam Properties (Assam.txt)	1 BHK Apartment	Dibrugarh West	Dibrugarh / Assam	Apartment / 1 BHK	606	₹8,700/month	Fully-Furnished	1	Family	Rent
+376	Assam Properties (Assam.txt)	2 BHK Apartment	Dibrugarh Residential Area	Dibrugarh / Assam	Apartment / 2 BHK	775	₹37.46 L	Semi-Furnished	2	Any	Sale
+377	Assam Properties (Assam.txt)	2 BHK Apartment	Guwahati Central	Guwahati / Assam	Apartment / 2 BHK	763	₹9,900/month	Semi-Furnished	2	Family	Rent
+378	Assam Properties (Assam.txt)	5 BHK Apartment	Silchar Sector 1	Silchar / Assam	Apartment / 5 BHK	2947	₹1.15 Cr	Fully-Furnished	5	Family	Sale
+379	Assam Properties (Assam.txt)	4 BHK Apartment	Dibrugarh Sector 3	Dibrugarh / Assam	Apartment / 4 BHK	1975	₹24,400/month	Unfurnished	5	Bachelors	Rent
+380	Assam Properties (Assam.txt)	3 BHK Independent House	Silchar Main Road	Silchar / Assam	Independent House / 3 BHK	1225	₹57.21 L	Semi-Furnished	2	Any	Sale
+381	Assam Properties (Assam.txt)	2 BHK Independent House	Jorhat East	Jorhat / Assam	Independent House / 2 BHK	898	₹36.45 L	Semi-Furnished	2	Bachelors	Sale
+382	Assam Properties (Assam.txt)	1 BHK Studio	Guwahati Extension	Guwahati / Assam	Studio / 1 BHK	422	₹7,400/month	Unfurnished	1	Family	Rent
+383	Assam Properties (Assam.txt)	3 BHK Builder Floor	Guwahati Heights	Guwahati / Assam	Builder Floor / 3 BHK	1428	₹56.95 L	Semi-Furnished	4	Family	Sale
+384	Assam Properties (Assam.txt)	2 BHK Apartment	Guwahati West	Guwahati / Assam	Apartment / 2 BHK	946	₹12,000/month	Fully-Furnished	2	Family	Rent
+385	Assam Properties (Assam.txt)	3 BHK Apartment	Jorhat North	Jorhat / Assam	Apartment / 3 BHK	1114	₹54.35 L	Semi-Furnished	3	Any	Sale
+386	Assam Properties (Assam.txt)	2 BHK Apartment	Jorhat Colony	Jorhat / Assam	Apartment / 2 BHK	801	₹38.39 L	Semi-Furnished	2	Any	Sale
+387	Assam Properties (Assam.txt)	3 BHK Apartment	Jorhat East	Jorhat / Assam	Apartment / 3 BHK	1153	₹60.50 L	Unfurnished	4	Family	Sale
+388	Assam Properties (Assam.txt)	4 BHK Apartment	Dibrugarh East	Dibrugarh / Assam	Apartment / 4 BHK	2134	₹66.92 L	Fully-Furnished	5	Any	Sale
+389	Assam Properties (Assam.txt)	3 BHK Apartment	Jorhat Main Road	Jorhat / Assam	Apartment / 3 BHK	995	₹54.20 L	Fully-Furnished	3	Family	Sale
+390	Assam Properties (Assam.txt)	4 BHK Villa	Dibrugarh East	Dibrugarh / Assam	Villa / 4 BHK	2459	₹74.78 L	Unfurnished	5	Family	Sale
+391	Assam Properties (Assam.txt)	3 BHK Apartment	Dibrugarh Main Road	Dibrugarh / Assam	Apartment / 3 BHK	1343	₹47.96 L	Semi-Furnished	2	Bachelors	Sale
+392	Assam Properties (Assam.txt)	4 BHK Builder Floor	Guwahati East	Guwahati / Assam	Builder Floor / 4 BHK	2262	₹24,300/month	Semi-Furnished	4	Family	Rent
+393	Assam Properties (Assam.txt)	4 BHK Apartment	Guwahati Central	Guwahati / Assam	Apartment / 4 BHK	1969	₹66.59 L	Semi-Furnished	5	Family	Sale
+394	Assam Properties (Assam.txt)	5 BHK Apartment	Dibrugarh Central	Dibrugarh / Assam	Apartment / 5 BHK	2592	₹1.13 Cr	Semi-Furnished	5	Family	Sale
+395	Assam Properties (Assam.txt)	1 BHK Apartment	Silchar Extension	Silchar / Assam	Apartment / 1 BHK	603	₹30.26 L	Semi-Furnished	2	Family	Sale
+396	Assam Properties (Assam.txt)	2 BHK Builder Floor	Dibrugarh Nagar	Dibrugarh / Assam	Builder Floor / 2 BHK	930	₹47.08 L	Semi-Furnished	1	Family	Sale
+397	Assam Properties (Assam.txt)	2 BHK Apartment	Guwahati Colony	Guwahati / Assam	Apartment / 2 BHK	667	₹34.51 L	Unfurnished	3	Family	Sale
+398	Assam Properties (Assam.txt)	2 BHK Apartment	Jorhat Nagar	Jorhat / Assam	Apartment / 2 BHK	753	₹9,500/month	Semi-Furnished	3	Any	Rent
+399	Assam Properties (Assam.txt)	3 BHK Independent House	Jorhat Nagar	Jorhat / Assam	Independent House / 3 BHK	1426	₹61.20 L	Unfurnished	3	Bachelors	Sale
+400	Assam Properties (Assam.txt)	1 BHK Apartment	Dibrugarh Sector 3	Dibrugarh / Assam	Apartment / 1 BHK	513	₹6,400/month	Fully-Furnished	1	Any	Rent
+401	Assam Properties (Assam.txt)	2 BHK Apartment	Dibrugarh Sector 2	Dibrugarh / Assam	Apartment / 2 BHK	800	₹33.52 L	Fully-Furnished	2	Bachelors	Sale
+402	Assam Properties (Assam.txt)	3 BHK Apartment	Guwahati Central	Guwahati / Assam	Apartment / 3 BHK	1481	₹17,500/month	Semi-Furnished	3	Bachelors	Rent
+403	Assam Properties (Assam.txt)	1 BHK Apartment	Guwahati Sector 2	Guwahati / Assam	Apartment / 1 BHK	586	₹30.49 L	Fully-Furnished	1	Any	Sale
+404	Assam Properties (Assam.txt)	2 BHK Builder Floor	Silchar Heights	Silchar / Assam	Builder Floor / 2 BHK	871	₹11,300/month	Fully-Furnished	3	Any	Rent
+405	Assam Properties (Assam.txt)	2 BHK Builder Floor	Guwahati South	Guwahati / Assam	Builder Floor / 2 BHK	931	₹12,100/month	Semi-Furnished	1	Family	Rent
+406	Assam Properties (Assam.txt)	2 BHK Builder Floor	Jorhat Residential Area	Jorhat / Assam	Builder Floor / 2 BHK	893	₹48.17 L	Fully-Furnished	3	Any	Sale
+407	Assam Properties (Assam.txt)	5 BHK Apartment	Silchar Town Centre	Silchar / Assam	Apartment / 5 BHK	2672	₹86.69 L	Semi-Furnished	5	Family	Sale
+408	Assam Properties (Assam.txt)	3 BHK Apartment	Jorhat Heights	Jorhat / Assam	Apartment / 3 BHK	1271	₹15,900/month	Semi-Furnished	3	Family	Rent
+409	Assam Properties (Assam.txt)	2 BHK Apartment	Dibrugarh Sector 3	Dibrugarh / Assam	Apartment / 2 BHK	740	₹47.04 L	Unfurnished	1	Family	Sale
+410	Assam Properties (Assam.txt)	4 BHK Independent House	Silchar Town Centre	Silchar / Assam	Independent House / 4 BHK	2073	₹73.64 L	Fully-Furnished	3	Bachelors	Sale
+411	Assam Properties (Assam.txt)	2 BHK Apartment	Dibrugarh Heights	Dibrugarh / Assam	Apartment / 2 BHK	637	₹39.87 L	Fully-Furnished	1	Any	Sale
+412	Assam Properties (Assam.txt)	3 BHK Builder Floor	Guwahati Main Road	Guwahati / Assam	Builder Floor / 3 BHK	1176	₹13,400/month	Semi-Furnished	2	Any	Rent
+413	Assam Properties (Assam.txt)	2 BHK Apartment	Silchar Central	Silchar / Assam	Apartment / 2 BHK	879	₹45.18 L	Unfurnished	2	Bachelors	Sale
+414	Assam Properties (Assam.txt)	3 BHK Apartment	Guwahati South	Guwahati / Assam	Apartment / 3 BHK	1315	₹12,900/month	Semi-Furnished	3	Bachelors	Rent
+415	Assam Properties (Assam.txt)	2 BHK Apartment	Guwahati Sector 2	Guwahati / Assam	Apartment / 2 BHK	925	₹12,700/month	Unfurnished	2	Bachelors	Rent
+416	Assam Properties (Assam.txt)	1 BHK Apartment	Guwahati Sector 2	Guwahati / Assam	Apartment / 1 BHK	393	₹7,000/month	Semi-Furnished	1	Family	Rent
+417	Assam Properties (Assam.txt)	1 BHK Villa	Guwahati West	Guwahati / Assam	Villa / 1 BHK	752	₹34.10 L	Semi-Furnished	1	Family	Sale
+418	Assam Properties (Assam.txt)	3 BHK Builder Floor	Jorhat East	Jorhat / Assam	Builder Floor / 3 BHK	1198	₹60.53 L	Unfurnished	4	Any	Sale
+419	Assam Properties (Assam.txt)	4 BHK Apartment	Jorhat Heights	Jorhat / Assam	Apartment / 4 BHK	1778	₹72.05 L	Semi-Furnished	4	Any	Sale
+420	Assam Properties (Assam.txt)	2 BHK Apartment	Jorhat Main Road	Jorhat / Assam	Apartment / 2 BHK	1099	₹43.31 L	Fully-Furnished	1	Any	Sale
+421	Assam Properties (Assam.txt)	2 BHK Villa	Silchar Town Centre	Silchar / Assam	Villa / 2 BHK	997	₹9,600/month	Semi-Furnished	2	Any	Rent
+422	Assam Properties (Assam.txt)	3 BHK Apartment	Silchar Colony	Silchar / Assam	Apartment / 3 BHK	1205	₹57.98 L	Semi-Furnished	3	Bachelors	Sale
+423	Assam Properties (Assam.txt)	3 BHK Builder Floor	Jorhat South	Jorhat / Assam	Builder Floor / 3 BHK	1011	₹45.58 L	Semi-Furnished	4	Family	Sale
+424	Assam Properties (Assam.txt)	4 BHK Villa	Silchar Central	Silchar / Assam	Villa / 4 BHK	2694	₹22,000/month	Unfurnished	3	Bachelors	Rent
+425	Assam Properties (Assam.txt)	1 BHK Apartment	Guwahati Sector 2	Guwahati / Assam	Apartment / 1 BHK	500	₹6,400/month	Semi-Furnished	1	Bachelors	Rent
+426	Assam Properties (Assam.txt)	1 BHK Apartment	Jorhat Residential Area	Jorhat / Assam	Apartment / 1 BHK	484	₹6,200/month	Semi-Furnished	1	Family	Rent
+427	Assam Properties (Assam.txt)	2 BHK Apartment	Guwahati Town Centre	Guwahati / Assam	Apartment / 2 BHK	809	₹9,200/month	Semi-Furnished	2	Family	Rent
+428	Assam Properties (Assam.txt)	3 BHK Independent House	Silchar North	Silchar / Assam	Independent House / 3 BHK	1392	₹15,500/month	Fully-Furnished	3	Family	Rent
+429	Assam Properties (Assam.txt)	3 BHK Builder Floor	Guwahati Extension	Guwahati / Assam	Builder Floor / 3 BHK	1459	₹62.78 L	Fully-Furnished	4	Bachelors	Sale
+430	Assam Properties (Assam.txt)	2 BHK Apartment	Guwahati Sector 3	Guwahati / Assam	Apartment / 2 BHK	1071	₹47.72 L	Fully-Furnished	3	Bachelors	Sale
+431	Assam Properties (Assam.txt)	3 BHK Apartment	Guwahati Town Centre	Guwahati / Assam	Apartment / 3 BHK	1112	₹14,000/month	Unfurnished	3	Family	Rent
+432	Assam Properties (Assam.txt)	1 BHK Apartment	Guwahati Sector 2	Guwahati / Assam	Apartment / 1 BHK	381	₹22.87 L	Fully-Furnished	1	Family	Sale
+433	Assam Properties (Assam.txt)	2 BHK Apartment	Guwahati Colony	Guwahati / Assam	Apartment / 2 BHK	702	₹11,600/month	Semi-Furnished	2	Family	Rent
+434	Assam Properties (Assam.txt)	3 BHK Apartment	Jorhat Sector 3	Jorhat / Assam	Apartment / 3 BHK	1359	₹64.63 L	Semi-Furnished	3	Family	Sale
+435	Assam Properties (Assam.txt)	4 BHK Independent House	Guwahati Colony	Guwahati / Assam	Independent House / 4 BHK	1994	₹86.31 L	Semi-Furnished	4	Any	Sale
+436	Assam Properties (Assam.txt)	2 BHK Apartment	Jorhat Sector 1	Jorhat / Assam	Apartment / 2 BHK	1174	₹14,100/month	Fully-Furnished	1	Bachelors	Rent
+437	Assam Properties (Assam.txt)	5 BHK Apartment	Silchar Sector 1	Silchar / Assam	Apartment / 5 BHK	2174	₹26,000/month	Unfurnished	5	Any	Rent
+438	Assam Properties (Assam.txt)	4 BHK Apartment	Guwahati Residential Area	Guwahati / Assam	Apartment / 4 BHK	1221	₹59.92 L	Semi-Furnished	4	Family	Sale
+439	Assam Properties (Assam.txt)	2 BHK Apartment	Silchar Sector 1	Silchar / Assam	Apartment / 2 BHK	673	₹10,500/month	Semi-Furnished	2	Any	Rent
+440	Assam Properties (Assam.txt)	2 BHK Builder Floor	Dibrugarh Town Centre	Dibrugarh / Assam	Builder Floor / 2 BHK	876	₹12,900/month	Unfurnished	1	Any	Rent
+441	Assam Properties (Assam.txt)	1 BHK Apartment	Guwahati Central	Guwahati / Assam	Apartment / 1 BHK	502	₹24.95 L	Semi-Furnished	2	Family	Sale
+442	Assam Properties (Assam.txt)	2 BHK Builder Floor	Guwahati Residential Area	Guwahati / Assam	Builder Floor / 2 BHK	884	₹10,400/month	Unfurnished	3	Any	Rent
+443	Assam Properties (Assam.txt)	1 BHK Apartment	Silchar South	Silchar / Assam	Apartment / 1 BHK	585	₹31.80 L	Fully-Furnished	1	Any	Sale
+444	Assam Properties (Assam.txt)	2 BHK Apartment	Silchar East	Silchar / Assam	Apartment / 2 BHK	809	₹10,300/month	Unfurnished	3	Bachelors	Rent
+445	Assam Properties (Assam.txt)	1 BHK Independent House	Dibrugarh Extension	Dibrugarh / Assam	Independent House / 1 BHK	684	₹25.55 L	Unfurnished	1	Bachelors	Sale
+446	Assam Properties (Assam.txt)	1 BHK Independent House	Jorhat North	Jorhat / Assam	Independent House / 1 BHK	692	₹28.76 L	Semi-Furnished	1	Any	Sale
+447	Assam Properties (Assam.txt)	2 BHK Apartment	Jorhat Sector 2	Jorhat / Assam	Apartment / 2 BHK	913	₹40.04 L	Fully-Furnished	1	Any	Sale
+448	Assam Properties (Assam.txt)	2 BHK Builder Floor	Dibrugarh Colony	Dibrugarh / Assam	Builder Floor / 2 BHK	916	₹11,100/month	Semi-Furnished	2	Family	Rent
+449	Assam Properties (Assam.txt)	1 BHK Apartment	Silchar Colony	Silchar / Assam	Apartment / 1 BHK	452	₹7,400/month	Semi-Furnished	2	Bachelors	Rent
+450	Assam Properties (Assam.txt)	3 BHK Apartment	Guwahati Main Road	Guwahati / Assam	Apartment / 3 BHK	1153	₹17,700/month	Unfurnished	3	Any	Rent
+451	Assam Properties (Assam.txt)	2 BHK Independent House	Jorhat Sector 3	Jorhat / Assam	Independent House / 2 BHK	1126	₹43.72 L	Semi-Furnished	1	Bachelors	Sale
+452	Assam Properties (Assam.txt)	3 BHK Apartment	Jorhat Residential Area	Jorhat / Assam	Apartment / 3 BHK	982	₹51.97 L	Semi-Furnished	3	Family	Sale
+453	Assam Properties (Assam.txt)	3 BHK Apartment	Jorhat Sector 3	Jorhat / Assam	Apartment / 3 BHK	1268	₹13,100/month	Semi-Furnished	2	Bachelors	Rent
+454	Assam Properties (Assam.txt)	3 BHK Builder Floor	Dibrugarh Sector 3	Dibrugarh / Assam	Builder Floor / 3 BHK	1038	₹49.30 L	Semi-Furnished	3	Family	Sale
+455	Assam Properties (Assam.txt)	4 BHK Apartment	Silchar Sector 1	Silchar / Assam	Apartment / 4 BHK	1987	₹19,500/month	Unfurnished	3	Family	Rent
+456	Assam Properties (Assam.txt)	4 BHK Builder Floor	Dibrugarh North	Dibrugarh / Assam	Builder Floor / 4 BHK	1932	₹65.74 L	Semi-Furnished	5	Bachelors	Sale
+457	Assam Properties (Assam.txt)	2 BHK Independent House	Dibrugarh Sector 3	Dibrugarh / Assam	Independent House / 2 BHK	1111	₹11,000/month	Fully-Furnished	3	Bachelors	Rent
+458	Assam Properties (Assam.txt)	2 BHK Villa	Silchar Town Centre	Silchar / Assam	Villa / 2 BHK	1267	₹53.17 L	Semi-Furnished	1	Family	Sale
+459	Assam Properties (Assam.txt)	2 BHK Apartment	Dibrugarh Sector 1	Dibrugarh / Assam	Apartment / 2 BHK	948	₹10,700/month	Fully-Furnished	2	Family	Rent
+460	Assam Properties (Assam.txt)	3 BHK Apartment	Jorhat Sector 2	Jorhat / Assam	Apartment / 3 BHK	1148	₹52.33 L	Fully-Furnished	2	Any	Sale
+461	Assam Properties (Assam.txt)	2 BHK Villa	Dibrugarh Sector 3	Dibrugarh / Assam	Villa / 2 BHK	938	₹44.33 L	Unfurnished	3	Bachelors	Sale
+462	Assam Properties (Assam.txt)	2 BHK Apartment	Dibrugarh Extension	Dibrugarh / Assam	Apartment / 2 BHK	934	₹45.29 L	Fully-Furnished	2	Bachelors	Sale
+463	Assam Properties (Assam.txt)	2 BHK Apartment	Jorhat North	Jorhat / Assam	Apartment / 2 BHK	830	₹9,300/month	Unfurnished	2	Bachelors	Rent
+464	Assam Properties (Assam.txt)	2 BHK Independent House	Guwahati Sector 2	Guwahati / Assam	Independent House / 2 BHK	1067	₹40.50 L	Semi-Furnished	2	Family	Sale
+465	Assam Properties (Assam.txt)	3 BHK Apartment	Dibrugarh Extension	Dibrugarh / Assam	Apartment / 3 BHK	1511	₹59.55 L	Fully-Furnished	3	Bachelors	Sale
+466	Assam Properties (Assam.txt)	3 BHK Independent House	Silchar Nagar	Silchar / Assam	Independent House / 3 BHK	1150	₹16,300/month	Semi-Furnished	3	Any	Rent
+467	Assam Properties (Assam.txt)	2 BHK Builder Floor	Dibrugarh Heights	Dibrugarh / Assam	Builder Floor / 2 BHK	768	₹38.81 L	Semi-Furnished	3	Family	Sale
+468	Assam Properties (Assam.txt)	4 BHK Builder Floor	Silchar North	Silchar / Assam	Builder Floor / 4 BHK	1469	₹81.29 L	Unfurnished	4	Family	Sale
+469	Assam Properties (Assam.txt)	1 BHK Studio	Jorhat Colony	Jorhat / Assam	Studio / 1 BHK	384	₹24.90 L	Semi-Furnished	2	Family	Sale
+470	Assam Properties (Assam.txt)	2 BHK Apartment	Jorhat Nagar	Jorhat / Assam	Apartment / 2 BHK	909	₹50.21 L	Fully-Furnished	2	Bachelors	Sale
+471	Assam Properties (Assam.txt)	1 BHK Studio	Guwahati Main Road	Guwahati / Assam	Studio / 1 BHK	386	₹8,000/month	Fully-Furnished	1	Any	Rent
+472	Assam Properties (Assam.txt)	4 BHK Apartment	Guwahati Nagar	Guwahati / Assam	Apartment / 4 BHK	1641	₹63.72 L	Semi-Furnished	4	Bachelors	Sale
+473	Assam Properties (Assam.txt)	2 BHK Apartment	Jorhat Heights	Jorhat / Assam	Apartment / 2 BHK	678	₹43.55 L	Semi-Furnished	1	Bachelors	Sale
+474	Assam Properties (Assam.txt)	3 BHK Apartment	Guwahati East	Guwahati / Assam	Apartment / 3 BHK	1186	₹53.27 L	Unfurnished	3	Family	Sale
+475	Assam Properties (Assam.txt)	3 BHK Builder Floor	Dibrugarh North	Dibrugarh / Assam	Builder Floor / 3 BHK	915	₹54.11 L	Unfurnished	3	Family	Sale
+476	Assam Properties (Assam.txt)	1 BHK Studio	Jorhat Nagar	Jorhat / Assam	Studio / 1 BHK	347	₹6,000/month	Semi-Furnished	2	Any	Rent
+477	Assam Properties (Assam.txt)	3 BHK Apartment	Jorhat West	Jorhat / Assam	Apartment / 3 BHK	1125	₹16,300/month	Fully-Furnished	3	Any	Rent
+478	Assam Properties (Assam.txt)	1 BHK Builder Floor	Silchar Colony	Silchar / Assam	Builder Floor / 1 BHK	388	₹8,100/month	Fully-Furnished	1	Family	Rent
+479	Assam Properties (Assam.txt)	3 BHK Builder Floor	Guwahati Nagar	Guwahati / Assam	Builder Floor / 3 BHK	1235	₹62.23 L	Unfurnished	3	Any	Sale
+480	Assam Properties (Assam.txt)	4 BHK Apartment	Dibrugarh Residential Area	Dibrugarh / Assam	Apartment / 4 BHK	1633	₹74.59 L	Semi-Furnished	4	Bachelors	Sale
+481	Assam Properties (Assam.txt)	3 BHK Builder Floor	Guwahati Sector 2	Guwahati / Assam	Builder Floor / 3 BHK	1364	₹14,100/month	Fully-Furnished	3	Family	Rent
+482	Assam Properties (Assam.txt)	3 BHK Independent House	Jorhat Extension	Jorhat / Assam	Independent House / 3 BHK	1664	₹71.85 L	Semi-Furnished	4	Bachelors	Sale
+483	Assam Properties (Assam.txt)	2 BHK Villa	Guwahati Main Road	Guwahati / Assam	Villa / 2 BHK	1181	₹48.46 L	Fully-Furnished	2	Bachelors	Sale
+484	Assam Properties (Assam.txt)	2 BHK Apartment	Dibrugarh Main Road	Dibrugarh / Assam	Apartment / 2 BHK	829	₹10,300/month	Semi-Furnished	3	Any	Rent
+485	Assam Properties (Assam.txt)	2 BHK Apartment	Dibrugarh Colony	Dibrugarh / Assam	Apartment / 2 BHK	934	₹10,100/month	Semi-Furnished	2	Family	Rent
+486	Assam Properties (Assam.txt)	2 BHK Apartment	Jorhat Main Road	Jorhat / Assam	Apartment / 2 BHK	723	₹13,100/month	Unfurnished	1	Family	Rent
+487	Assam Properties (Assam.txt)	1 BHK Studio	Silchar Main Road	Silchar / Assam	Studio / 1 BHK	387	₹6,200/month	Semi-Furnished	1	Bachelors	Rent
+488	Assam Properties (Assam.txt)	2 BHK Apartment	Jorhat South	Jorhat / Assam	Apartment / 2 BHK	765	₹44.84 L	Fully-Furnished	3	Bachelors	Sale
+489	Assam Properties (Assam.txt)	4 BHK Apartment	Guwahati Colony	Guwahati / Assam	Apartment / 4 BHK	1462	₹15,600/month	Semi-Furnished	4	Any	Rent
+490	Assam Properties (Assam.txt)	3 BHK Apartment	Dibrugarh Heights	Dibrugarh / Assam	Apartment / 3 BHK	1339	₹55.69 L	Semi-Furnished	3	Bachelors	Sale
+491	Assam Properties (Assam.txt)	3 BHK Apartment	Silchar Extension	Silchar / Assam	Apartment / 3 BHK	1505	₹64.73 L	Unfurnished	3	Family	Sale
+492	Assam Properties (Assam.txt)	3 BHK Villa	Guwahati Residential Area	Guwahati / Assam	Villa / 3 BHK	1273	₹16,900/month	Semi-Furnished	3	Bachelors	Rent
+493	Assam Properties (Assam.txt)	2 BHK Apartment	Jorhat Town Centre	Jorhat / Assam	Apartment / 2 BHK	930	₹46.92 L	Unfurnished	2	Any	Sale
+494	Assam Properties (Assam.txt)	4 BHK Apartment	Guwahati Colony	Guwahati / Assam	Apartment / 4 BHK	1834	₹16,500/month	Fully-Furnished	4	Any	Rent
+495	Assam Properties (Assam.txt)	2 BHK Villa	Jorhat Extension	Jorhat / Assam	Villa / 2 BHK	1106	₹12,400/month	Semi-Furnished	2	Family	Rent
+496	Assam Properties (Assam.txt)	3 BHK Villa	Guwahati East	Guwahati / Assam	Villa / 3 BHK	1336	₹47.27 L	Fully-Furnished	3	Family	Sale
+497	Assam Properties (Assam.txt)	2 BHK Villa	Jorhat West	Jorhat / Assam	Villa / 2 BHK	1311	₹43.21 L	Unfurnished	2	Any	Sale
+498	Assam Properties (Assam.txt)	2 BHK Apartment	Jorhat Residential Area	Jorhat / Assam	Apartment / 2 BHK	891	₹35.87 L	Unfurnished	2	Family	Sale
+499	Assam Properties (Assam.txt)	2 BHK Apartment	Dibrugarh Heights	Dibrugarh / Assam	Apartment / 2 BHK	756	₹34.89 L	Semi-Furnished	2	Family	Sale
+500	Assam Properties (Assam.txt)	3 BHK Apartment	Silchar Nagar	Silchar / Assam	Apartment / 3 BHK	1266	₹51.61 L	Semi-Furnished	3	Bachelors	Sale
+501	Assam Properties (Assam.txt)	1 BHK Independent House	Jorhat Sector 1	Jorhat / Assam	Independent House / 1 BHK	728	₹31.11 L	Semi-Furnished	1	Bachelors	Sale
+502	Assam Properties (Assam.txt)	2 BHK Builder Floor	Jorhat Sector 2	Jorhat / Assam	Builder Floor / 2 BHK	913	₹47.94 L	Semi-Furnished	2	Any	Sale
+503	Assam Properties (Assam.txt)	3 BHK Independent House	Jorhat Central	Jorhat / Assam	Independent House / 3 BHK	1160	₹17,900/month	Semi-Furnished	3	Family	Rent
+504	Assam Properties (Assam.txt)	2 BHK Apartment	Silchar North	Silchar / Assam	Apartment / 2 BHK	769	₹12,400/month	Fully-Furnished	2	Any	Rent
+505	Assam Properties (Assam.txt)	3 BHK Independent House	Jorhat Central	Jorhat / Assam	Independent House / 3 BHK	1482	₹50.04 L	Fully-Furnished	2	Any	Sale
+506	Assam Properties (Assam.txt)	2 BHK Apartment	Guwahati Sector 1	Guwahati / Assam	Apartment / 2 BHK	800	₹37.63 L	Fully-Furnished	2	Bachelors	Sale
+507	Assam Properties (Assam.txt)	3 BHK Builder Floor	Dibrugarh North	Dibrugarh / Assam	Builder Floor / 3 BHK	1191	₹54.30 L	Semi-Furnished	3	Bachelors	Sale
+508	Assam Properties (Assam.txt)	3 BHK Builder Floor	Guwahati Main Road	Guwahati / Assam	Builder Floor / 3 BHK	1232	₹13,900/month	Unfurnished	3	Family	Rent
+509	Assam Properties (Assam.txt)	1 BHK Apartment	Dibrugarh East	Dibrugarh / Assam	Apartment / 1 BHK	590	₹30.50 L	Fully-Furnished	1	Bachelors	Sale
+510	Assam Properties (Assam.txt)	2 BHK Apartment	Silchar North	Silchar / Assam	Apartment / 2 BHK	804	₹35.38 L	Fully-Furnished	2	Family	Sale
+511	Assam Properties (Assam.txt)	4 BHK Builder Floor	Dibrugarh Sector 1	Dibrugarh / Assam	Builder Floor / 4 BHK	1484	₹69.55 L	Semi-Furnished	4	Family	Sale
+512	Assam Properties (Assam.txt)	1 BHK Builder Floor	Silchar West	Silchar / Assam	Builder Floor / 1 BHK	367	₹25.62 L	Semi-Furnished	1	Any	Sale
+513	Assam Properties (Assam.txt)	2 BHK Apartment	Dibrugarh Heights	Dibrugarh / Assam	Apartment / 2 BHK	846	₹13,600/month	Unfurnished	3	Bachelors	Rent
+514	Assam Properties (Assam.txt)	1 BHK Studio	Dibrugarh Colony	Dibrugarh / Assam	Studio / 1 BHK	359	₹26.10 L	Semi-Furnished	1	Any	Sale
+515	Assam Properties (Assam.txt)	4 BHK Independent House	Dibrugarh West	Dibrugarh / Assam	Independent House / 4 BHK	2261	₹18,300/month	Semi-Furnished	3	Family	Rent
+516	Assam Properties (Assam.txt)	1 BHK Studio	Jorhat Extension	Jorhat / Assam	Studio / 1 BHK	457	₹7,100/month	Fully-Furnished	1	Bachelors	Rent
+517	Assam Properties (Assam.txt)	2 BHK Apartment	Jorhat Residential Area	Jorhat / Assam	Apartment / 2 BHK	914	₹47.84 L	Fully-Furnished	1	Family	Sale
+518	Assam Properties (Assam.txt)	1 BHK Builder Floor	Guwahati North	Guwahati / Assam	Builder Floor / 1 BHK	446	₹21.19 L	Unfurnished	1	Bachelors	Sale
+519	Assam Properties (Assam.txt)	4 BHK Villa	Silchar East	Silchar / Assam	Villa / 4 BHK	1930	₹65 L	Fully-Furnished	4	Bachelors	Sale
+520	Assam Properties (Assam.txt)	1 BHK Apartment	Dibrugarh Town Centre	Dibrugarh / Assam	Apartment / 1 BHK	706	₹27.11 L	Fully-Furnished	1	Any	Sale
+521	Assam Properties (Assam.txt)	3 BHK Apartment	Dibrugarh Extension	Dibrugarh / Assam	Apartment / 3 BHK	1140	₹58.50 L	Semi-Furnished	2	Family	Sale
+522	Assam Properties (Assam.txt)	2 BHK Independent House	Jorhat North	Jorhat / Assam	Independent House / 2 BHK	1307	₹11,700/month	Unfurnished	2	Bachelors	Rent
+523	Assam Properties (Assam.txt)	3 BHK Apartment	Jorhat South	Jorhat / Assam	Apartment / 3 BHK	1376	₹17,000/month	Unfurnished	3	Family	Rent
+524	Assam Properties (Assam.txt)	2 BHK Apartment	Jorhat Heights	Jorhat / Assam	Apartment / 2 BHK	992	₹41.28 L	Fully-Furnished	1	Family	Sale
+525	Assam Properties (Assam.txt)	2 BHK Builder Floor	Jorhat West	Jorhat / Assam	Builder Floor / 2 BHK	735	₹35.02 L	Unfurnished	2	Family	Sale
+526	Assam Properties (Assam.txt)	3 BHK Apartment	Guwahati Extension	Guwahati / Assam	Apartment / 3 BHK	1555	₹50.97 L	Unfurnished	3	Any	Sale
+527	Assam Properties (Assam.txt)	4 BHK Independent House	Guwahati North	Guwahati / Assam	Independent House / 4 BHK	2510	₹18,100/month	Unfurnished	4	Family	Rent
+528	Assam Properties (Assam.txt)	1 BHK Apartment	Silchar Town Centre	Silchar / Assam	Apartment / 1 BHK	682	₹27.07 L	Fully-Furnished	2	Bachelors	Sale
+529	Assam Properties (Assam.txt)	1 BHK Studio	Jorhat Sector 3	Jorhat / Assam	Studio / 1 BHK	357	₹6,600/month	Semi-Furnished	1	Bachelors	Rent
+530	Assam Properties (Assam.txt)	3 BHK Villa	Guwahati East	Guwahati / Assam	Villa / 3 BHK	1923	₹64.08 L	Semi-Furnished	2	Any	Sale
+531	Assam Properties (Assam.txt)	4 BHK Independent House	Silchar Nagar	Silchar / Assam	Independent House / 4 BHK	2270	₹88.43 L	Fully-Furnished	5	Any	Sale
+532	Assam Properties (Assam.txt)	2 BHK Apartment	Dibrugarh Nagar	Dibrugarh / Assam	Apartment / 2 BHK	667	₹34.23 L	Semi-Furnished	2	Family	Sale
+533	Assam Properties (Assam.txt)	3 BHK Apartment	Jorhat Sector 3	Jorhat / Assam	Apartment / 3 BHK	1368	₹52.90 L	Semi-Furnished	4	Any	Sale
+534	Assam Properties (Assam.txt)	4 BHK Apartment	Silchar East	Silchar / Assam	Apartment / 4 BHK	1782	₹19,100/month	Semi-Furnished	5	Any	Rent
+535	Assam Properties (Assam.txt)	2 BHK Apartment	Dibrugarh Nagar	Dibrugarh / Assam	Apartment / 2 BHK	652	₹40.72 L	Fully-Furnished	2	Bachelors	Sale
+536	Assam Properties (Assam.txt)	1 BHK Studio	Dibrugarh Sector 2	Dibrugarh / Assam	Studio / 1 BHK	424	₹28.19 L	Unfurnished	1	Family	Sale
+537	Assam Properties (Assam.txt)	2 BHK Apartment	Guwahati North	Guwahati / Assam	Apartment / 2 BHK	937	₹11,800/month	Semi-Furnished	2	Bachelors	Rent
+538	Assam Properties (Assam.txt)	3 BHK Independent House	Guwahati Main Road	Guwahati / Assam	Independent House / 3 BHK	1429	₹68.19 L	Fully-Furnished	3	Any	Sale
+539	Assam Properties (Assam.txt)	2 BHK Builder Floor	Guwahati Sector 1	Guwahati / Assam	Builder Floor / 2 BHK	820	₹12,400/month	Fully-Furnished	2	Bachelors	Rent
+540	Assam Properties (Assam.txt)	2 BHK Builder Floor	Silchar Central	Silchar / Assam	Builder Floor / 2 BHK	773	₹9,300/month	Fully-Furnished	1	Bachelors	Rent
+541	Assam Properties (Assam.txt)	4 BHK Apartment	Silchar North	Silchar / Assam	Apartment / 4 BHK	1985	₹22,900/month	Fully-Furnished	5	Family	Rent
+542	Assam Properties (Assam.txt)	3 BHK Builder Floor	Silchar Sector 3	Silchar / Assam	Builder Floor / 3 BHK	1540	₹54.96 L	Unfurnished	3	Bachelors	Sale
+543	Assam Properties (Assam.txt)	3 BHK Independent House	Jorhat South	Jorhat / Assam	Independent House / 3 BHK	1291	₹18,600/month	Semi-Furnished	3	Family	Rent
+544	Assam Properties (Assam.txt)	3 BHK Builder Floor	Silchar South	Silchar / Assam	Builder Floor / 3 BHK	1191	₹64.49 L	Fully-Furnished	3	Bachelors	Sale
+545	Assam Properties (Assam.txt)	1 BHK Apartment	Guwahati North	Guwahati / Assam	Apartment / 1 BHK	445	₹26.80 L	Semi-Furnished	1	Bachelors	Sale
+546	Assam Properties (Assam.txt)	3 BHK Apartment	Jorhat Sector 3	Jorhat / Assam	Apartment / 3 BHK	1110	₹17,400/month	Fully-Furnished	3	Bachelors	Rent
+547	Assam Properties (Assam.txt)	1 BHK Apartment	Silchar Extension	Silchar / Assam	Apartment / 1 BHK	483	₹29.99 L	Unfurnished	1	Any	Sale
+548	Assam Properties (Assam.txt)	3 BHK Apartment	Guwahati Nagar	Guwahati / Assam	Apartment / 3 BHK	1030	₹13,000/month	Fully-Furnished	2	Family	Rent
+549	Assam Properties (Assam.txt)	4 BHK Apartment	Silchar Sector 3	Silchar / Assam	Apartment / 4 BHK	1591	₹22,600/month	Unfurnished	4	Bachelors	Rent
+550	Assam Properties (Assam.txt)	1 BHK Apartment	Jorhat North	Jorhat / Assam	Apartment / 1 BHK	422	₹24.07 L	Semi-Furnished	1	Family	Sale
+551	Assam Properties (Assam.txt)	2 BHK Builder Floor	Silchar East	Silchar / Assam	Builder Floor / 2 BHK	805	₹33.33 L	Semi-Furnished	2	Any	Sale
+552	Assam Properties (Assam.txt)	2 BHK Independent House	Silchar Colony	Silchar / Assam	Independent House / 2 BHK	1063	₹49.57 L	Unfurnished	1	Family	Sale
+553	Assam Properties (Assam.txt)	2 BHK Apartment	Guwahati Central	Guwahati / Assam	Apartment / 2 BHK	1096	₹40.57 L	Semi-Furnished	3	Any	Sale
+554	Assam Properties (Assam.txt)	1 BHK Builder Floor	Jorhat Sector 3	Jorhat / Assam	Builder Floor / 1 BHK	541	₹27.24 L	Semi-Furnished	2	Family	Sale
+555	Assam Properties (Assam.txt)	1 BHK Apartment	Dibrugarh East	Dibrugarh / Assam	Apartment / 1 BHK	522	₹23.78 L	Unfurnished	1	Bachelors	Sale
+556	Assam Properties (Assam.txt)	2 BHK Independent House	Jorhat Town Centre	Jorhat / Assam	Independent House / 2 BHK	750	₹12,100/month	Semi-Furnished	1	Bachelors	Rent
+557	Assam Properties (Assam.txt)	3 BHK Builder Floor	Jorhat North	Jorhat / Assam	Builder Floor / 3 BHK	1468	₹53.85 L	Semi-Furnished	3	Bachelors	Sale
+558	Assam Properties (Assam.txt)	2 BHK Independent House	Guwahati East	Guwahati / Assam	Independent House / 2 BHK	1203	₹43.08 L	Semi-Furnished	1	Family	Sale
+559	Assam Properties (Assam.txt)	2 BHK Builder Floor	Jorhat Town Centre	Jorhat / Assam	Builder Floor / 2 BHK	984	₹12,400/month	Semi-Furnished	2	Any	Rent
+560	Assam Properties (Assam.txt)	2 BHK Builder Floor	Dibrugarh Main Road	Dibrugarh / Assam	Builder Floor / 2 BHK	896	₹11,100/month	Semi-Furnished	2	Family	Rent
+561	Assam Properties (Assam.txt)	3 BHK Apartment	Jorhat Nagar	Jorhat / Assam	Apartment / 3 BHK	1282	₹16,700/month	Semi-Furnished	3	Bachelors	Rent
+562	Assam Properties (Assam.txt)	3 BHK Apartment	Silchar Central	Silchar / Assam	Apartment / 3 BHK	1498	₹65.31 L	Semi-Furnished	3	Family	Sale
+563	Assam Properties (Assam.txt)	3 BHK Independent House	Dibrugarh South	Dibrugarh / Assam	Independent House / 3 BHK	1378	₹50.06 L	Fully-Furnished	4	Bachelors	Sale
+564	Assam Properties (Assam.txt)	4 BHK Apartment	Guwahati West	Guwahati / Assam	Apartment / 4 BHK	1624	₹67.52 L	Semi-Furnished	4	Bachelors	Sale
+565	Assam Properties (Assam.txt)	1 BHK Studio	Guwahati Town Centre	Guwahati / Assam	Studio / 1 BHK	398	₹7,300/month	Unfurnished	1	Family	Rent
+566	Assam Properties (Assam.txt)	2 BHK Apartment	Dibrugarh Main Road	Dibrugarh / Assam	Apartment / 2 BHK	756	₹38.71 L	Semi-Furnished	2	Family	Sale
+567	Assam Properties (Assam.txt)	2 BHK Builder Floor	Guwahati Town Centre	Guwahati / Assam	Builder Floor / 2 BHK	946	₹47.36 L	Unfurnished	3	Family	Sale
+568	Assam Properties (Assam.txt)	2 BHK Apartment	Jorhat North	Jorhat / Assam	Apartment / 2 BHK	740	₹9,800/month	Fully-Furnished	2	Any	Rent
+569	Assam Properties (Assam.txt)	4 BHK Apartment	Guwahati South	Guwahati / Assam	Apartment / 4 BHK	1775	₹81.45 L	Fully-Furnished	3	Bachelors	Sale
+570	Assam Properties (Assam.txt)	3 BHK Villa	Jorhat Sector 2	Jorhat / Assam	Villa / 3 BHK	1628	₹14,500/month	Fully-Furnished	4	Bachelors	Rent
+571	Assam Properties (Assam.txt)	2 BHK Builder Floor	Guwahati Sector 2	Guwahati / Assam	Builder Floor / 2 BHK	1086	₹11,900/month	Semi-Furnished	2	Any	Rent
+572	Assam Properties (Assam.txt)	2 BHK Villa	Guwahati Colony	Guwahati / Assam	Villa / 2 BHK	853	₹11,400/month	Fully-Furnished	1	Any	Rent
+573	Assam Properties (Assam.txt)	5 BHK Apartment	Dibrugarh Sector 2	Dibrugarh / Assam	Apartment / 5 BHK	2276	₹98.26 L	Fully-Furnished	5	Bachelors	Sale
+574	Assam Properties (Assam.txt)	2 BHK Builder Floor	Silchar Colony	Silchar / Assam	Builder Floor / 2 BHK	701	₹44.49 L	Semi-Furnished	3	Bachelors	Sale
+575	Assam Properties (Assam.txt)	2 BHK Independent House	Dibrugarh Sector 1	Dibrugarh / Assam	Independent House / 2 BHK	1039	₹37.26 L	Semi-Furnished	1	Bachelors	Sale
+576	Assam Properties (Assam.txt)	3 BHK Independent House	Silchar Residential Area	Silchar / Assam	Independent House / 3 BHK	1451	₹13,400/month	Unfurnished	3	Family	Rent
+577	Assam Properties (Assam.txt)	4 BHK Independent House	Guwahati West	Guwahati / Assam	Independent House / 4 BHK	1968	₹23,400/month	Unfurnished	4	Any	Rent
+578	Assam Properties (Assam.txt)	1 BHK Villa	Jorhat South	Jorhat / Assam	Villa / 1 BHK	806	₹7,000/month	Unfurnished	1	Any	Rent
+579	Assam Properties (Assam.txt)	2 BHK Apartment	Guwahati Sector 1	Guwahati / Assam	Apartment / 2 BHK	814	₹48.26 L	Fully-Furnished	2	Family	Sale
+580	Assam Properties (Assam.txt)	2 BHK Apartment	Silchar Colony	Silchar / Assam	Apartment / 2 BHK	1012	₹48.88 L	Semi-Furnished	3	Bachelors	Sale
+581	Assam Properties (Assam.txt)	4 BHK Apartment	Silchar Sector 3	Silchar / Assam	Apartment / 4 BHK	1740	₹80.27 L	Unfurnished	5	Any	Sale
+582	Assam Properties (Assam.txt)	3 BHK Apartment	Guwahati Sector 1	Guwahati / Assam	Apartment / 3 BHK	1337	₹17,200/month	Semi-Furnished	4	Family	Rent
+583	Assam Properties (Assam.txt)	2 BHK Apartment	Jorhat Extension	Jorhat / Assam	Apartment / 2 BHK	998	₹12,800/month	Semi-Furnished	2	Family	Rent
+584	Assam Properties (Assam.txt)	4 BHK Apartment	Guwahati Town Centre	Guwahati / Assam	Apartment / 4 BHK	1682	₹60.26 L	Semi-Furnished	4	Bachelors	Sale
+585	Assam Properties (Assam.txt)	1 BHK Studio	Dibrugarh North	Dibrugarh / Assam	Studio / 1 BHK	352	₹20.13 L	Fully-Furnished	1	Family	Sale
+586	Assam Properties (Assam.txt)	2 BHK Apartment	Jorhat East	Jorhat / Assam	Apartment / 2 BHK	701	₹12,400/month	Semi-Furnished	2	Family	Rent
+587	Assam Properties (Assam.txt)	2 BHK Apartment	Guwahati Nagar	Guwahati / Assam	Apartment / 2 BHK	777	₹45.31 L	Semi-Furnished	2	Any	Sale
+588	Assam Properties (Assam.txt)	2 BHK Independent House	Guwahati Heights	Guwahati / Assam	Independent House / 2 BHK	910	₹34.99 L	Fully-Furnished	3	Family	Sale
+589	Assam Properties (Assam.txt)	3 BHK Apartment	Dibrugarh West	Dibrugarh / Assam	Apartment / 3 BHK	967	₹13,900/month	Unfurnished	3	Any	Rent
+590	Assam Properties (Assam.txt)	2 BHK Apartment	Jorhat Colony	Jorhat / Assam	Apartment / 2 BHK	825	₹10,800/month	Unfurnished	3	Family	Rent
+591	Assam Properties (Assam.txt)	1 BHK Villa	Silchar West	Silchar / Assam	Villa / 1 BHK	897	₹25.97 L	Semi-Furnished	1	Family	Sale
+592	Assam Properties (Assam.txt)	3 BHK Builder Floor	Silchar Central	Silchar / Assam	Builder Floor / 3 BHK	1007	₹17,600/month	Unfurnished	3	Family	Rent
+593	Assam Properties (Assam.txt)	2 BHK Apartment	Dibrugarh Sector 3	Dibrugarh / Assam	Apartment / 2 BHK	1067	₹10,400/month	Unfurnished	3	Family	Rent
+594	Assam Properties (Assam.txt)	3 BHK Builder Floor	Silchar Heights	Silchar / Assam	Builder Floor / 3 BHK	1463	₹15,400/month	Unfurnished	4	Bachelors	Rent
+595	Assam Properties (Assam.txt)	2 BHK Builder Floor	Silchar South	Silchar / Assam	Builder Floor / 2 BHK	938	₹43.43 L	Unfurnished	2	Bachelors	Sale
+596	Assam Properties (Assam.txt)	2 BHK Independent House	Dibrugarh Residential Area	Dibrugarh / Assam	Independent House / 2 BHK	1367	₹38.09 L	Fully-Furnished	3	Any	Sale
+597	Assam Properties (Assam.txt)	2 BHK Builder Floor	Guwahati Residential Area	Guwahati / Assam	Builder Floor / 2 BHK	877	₹36.46 L	Unfurnished	2	Bachelors	Sale
+598	Assam Properties (Assam.txt)	1 BHK Apartment	Jorhat West	Jorhat / Assam	Apartment / 1 BHK	374	₹5,700/month	Unfurnished	1	Bachelors	Rent
+599	Assam Properties (Assam.txt)	2 BHK Builder Floor	Guwahati South	Guwahati / Assam	Builder Floor / 2 BHK	766	₹40.66 L	Semi-Furnished	2	Family	Sale
+600	Assam Properties (Assam.txt)	2 BHK Builder Floor	Guwahati Nagar	Guwahati / Assam	Builder Floor / 2 BHK	968	₹45.88 L	Semi-Furnished	1	Family	Sale
+601	Assam Properties (Assam.txt)	2 BHK Villa	Guwahati Central	Guwahati / Assam	Villa / 2 BHK	895	₹39.19 L	Semi-Furnished	2	Family	Sale
+602	Assam Properties (Assam.txt)	1 BHK Independent House	Dibrugarh Colony	Dibrugarh / Assam	Independent House / 1 BHK	607	₹8,400/month	Semi-Furnished	2	Family	Rent
+603	Assam Properties (Assam.txt)	4 BHK Villa	Dibrugarh North	Dibrugarh / Assam	Villa / 4 BHK	1798	₹69.99 L	Semi-Furnished	5	Bachelors	Sale
+604	Assam Properties (Assam.txt)	2 BHK Builder Floor	Silchar Residential Area	Silchar / Assam	Builder Floor / 2 BHK	631	₹40.46 L	Fully-Furnished	1	Family	Sale
+605	Assam Properties (Assam.txt)	3 BHK Villa	Jorhat Colony	Jorhat / Assam	Villa / 3 BHK	1667	₹64.81 L	Semi-Furnished	2	Family	Sale
+606	Assam Properties (Assam.txt)	1 BHK Apartment	Guwahati East	Guwahati / Assam	Apartment / 1 BHK	545	₹6,200/month	Unfurnished	1	Any	Rent
+607	Assam Properties (Assam.txt)	1 BHK Independent House	Dibrugarh South	Dibrugarh / Assam	Independent House / 1 BHK	763	₹29.28 L	Semi-Furnished	1	Family	Sale
+608	Assam Properties (Assam.txt)	2 BHK Villa	Jorhat South	Jorhat / Assam	Villa / 2 BHK	1184	₹42.39 L	Unfurnished	1	Family	Sale
+609	Assam Properties (Assam.txt)	1 BHK Apartment	Silchar South	Silchar / Assam	Apartment / 1 BHK	468	₹25.69 L	Semi-Furnished	1	Any	Sale
+610	Assam Properties (Assam.txt)	2 BHK Apartment	Silchar North	Silchar / Assam	Apartment / 2 BHK	629	₹45.23 L	Unfurnished	3	Bachelors	Sale
+611	Assam Properties (Assam.txt)	2 BHK Apartment	Dibrugarh Main Road	Dibrugarh / Assam	Apartment / 2 BHK	733	₹35.35 L	Semi-Furnished	2	Family	Sale
+612	Assam Properties (Assam.txt)	3 BHK Apartment	Jorhat Town Centre	Jorhat / Assam	Apartment / 3 BHK	1283	₹18,600/month	Unfurnished	3	Bachelors	Rent
+613	Assam Properties (Assam.txt)	2 BHK Builder Floor	Jorhat Extension	Jorhat / Assam	Builder Floor / 2 BHK	1022	₹47.57 L	Fully-Furnished	1	Family	Sale
+614	Assam Properties (Assam.txt)	1 BHK Apartment	Dibrugarh Colony	Dibrugarh / Assam	Apartment / 1 BHK	523	₹7,600/month	Semi-Furnished	1	Bachelors	Rent
+615	Assam Properties (Assam.txt)	1 BHK Apartment	Dibrugarh Extension	Dibrugarh / Assam	Apartment / 1 BHK	696	₹29.11 L	Unfurnished	2	Family	Sale
+616	Assam Properties (Assam.txt)	3 BHK Apartment	Silchar South	Silchar / Assam	Apartment / 3 BHK	1348	₹17,800/month	Fully-Furnished	4	Bachelors	Rent
+617	Assam Properties (Assam.txt)	1 BHK Apartment	Dibrugarh South	Dibrugarh / Assam	Apartment / 1 BHK	567	₹30.13 L	Semi-Furnished	1	Family	Sale
+618	Assam Properties (Assam.txt)	1 BHK Apartment	Jorhat Colony	Jorhat / Assam	Apartment / 1 BHK	461	₹25.96 L	Semi-Furnished	1	Any	Sale
+619	Assam Properties (Assam.txt)	1 BHK Villa	Jorhat Colony	Jorhat / Assam	Villa / 1 BHK	862	₹36.17 L	Fully-Furnished	1	Family	Sale
+620	Assam Properties (Assam.txt)	3 BHK Apartment	Silchar Residential Area	Silchar / Assam	Apartment / 3 BHK	1365	₹58.32 L	Semi-Furnished	3	Family	Sale
+621	Assam Properties (Assam.txt)	1 BHK Apartment	Dibrugarh Residential Area	Dibrugarh / Assam	Apartment / 1 BHK	566	₹28.95 L	Unfurnished	2	Family	Sale
+622	Assam Properties (Assam.txt)	2 BHK Apartment	Guwahati Town Centre	Guwahati / Assam	Apartment / 2 BHK	893	₹47.96 L	Semi-Furnished	1	Any	Sale
+623	Assam Properties (Assam.txt)	1 BHK Apartment	Dibrugarh North	Dibrugarh / Assam	Apartment / 1 BHK	596	₹8,200/month	Semi-Furnished	2	Any	Rent
+624	Assam Properties (Assam.txt)	3 BHK Independent House	Dibrugarh Town Centre	Dibrugarh / Assam	Independent House / 3 BHK	1223	₹16,700/month	Unfurnished	3	Bachelors	Rent
+625	Assam Properties (Assam.txt)	3 BHK Independent House	Silchar Nagar	Silchar / Assam	Independent House / 3 BHK	1570	₹18,800/month	Semi-Furnished	3	Family	Rent
+626	Assam Properties (Assam.txt)	2 BHK Apartment	Jorhat Town Centre	Jorhat / Assam	Apartment / 2 BHK	727	₹10,300/month	Semi-Furnished	2	Bachelors	Rent
+627	Assam Properties (Assam.txt)	3 BHK Apartment	Silchar Central	Silchar / Assam	Apartment / 3 BHK	1537	₹63.91 L	Semi-Furnished	3	Bachelors	Sale
+628	Assam Properties (Assam.txt)	2 BHK Apartment	Silchar Town Centre	Silchar / Assam	Apartment / 2 BHK	849	₹41.08 L	Unfurnished	2	Family	Sale
+629	Assam Properties (Assam.txt)	2 BHK Apartment	Silchar Sector 1	Silchar / Assam	Apartment / 2 BHK	833	₹10,300/month	Unfurnished	2	Any	Rent
+630	Assam Properties (Assam.txt)	4 BHK Apartment	Silchar Sector 2	Silchar / Assam	Apartment / 4 BHK	1413	₹62.91 L	Semi-Furnished	3	Any	Sale
+631	Assam Properties (Assam.txt)	2 BHK Builder Floor	Guwahati Heights	Guwahati / Assam	Builder Floor / 2 BHK	823	₹34.73 L	Semi-Furnished	2	Any	Sale
+632	Assam Properties (Assam.txt)	3 BHK Apartment	Guwahati Sector 3	Guwahati / Assam	Apartment / 3 BHK	1251	₹12,800/month	Fully-Furnished	2	Any	Rent
+633	Assam Properties (Assam.txt)	3 BHK Apartment	Guwahati West	Guwahati / Assam	Apartment / 3 BHK	1034	₹60.37 L	Fully-Furnished	3	Family	Sale
+634	Assam Properties (Assam.txt)	2 BHK Independent House	Guwahati Residential Area	Guwahati / Assam	Independent House / 2 BHK	908	₹37.01 L	Semi-Furnished	3	Family	Sale
+635	Assam Properties (Assam.txt)	2 BHK Apartment	Guwahati North	Guwahati / Assam	Apartment / 2 BHK	1000	₹36.35 L	Fully-Furnished	2	Family	Sale
+636	Assam Properties (Assam.txt)	2 BHK Apartment	Silchar Sector 2	Silchar / Assam	Apartment / 2 BHK	910	₹36.97 L	Semi-Furnished	2	Family	Sale
+637	Assam Properties (Assam.txt)	2 BHK Apartment	Jorhat Colony	Jorhat / Assam	Apartment / 2 BHK	950	₹41.42 L	Fully-Furnished	1	Bachelors	Sale
+638	Assam Properties (Assam.txt)	4 BHK Apartment	Guwahati Heights	Guwahati / Assam	Apartment / 4 BHK	1695	₹79.48 L	Semi-Furnished	3	Bachelors	Sale
+639	Assam Properties (Assam.txt)	2 BHK Apartment	Silchar Colony	Silchar / Assam	Apartment / 2 BHK	691	₹41.66 L	Semi-Furnished	1	Bachelors	Sale
+640	Assam Properties (Assam.txt)	4 BHK Villa	Jorhat Central	Jorhat / Assam	Villa / 4 BHK	2109	₹77.57 L	Semi-Furnished	4	Bachelors	Sale
+641	Assam Properties (Assam.txt)	3 BHK Apartment	Jorhat Residential Area	Jorhat / Assam	Apartment / 3 BHK	1130	₹14,100/month	Semi-Furnished	2	Any	Rent
+642	Assam Properties (Assam.txt)	3 BHK Apartment	Jorhat West	Jorhat / Assam	Apartment / 3 BHK	996	₹59.31 L	Fully-Furnished	3	Any	Sale
+643	Assam Properties (Assam.txt)	3 BHK Villa	Guwahati Colony	Guwahati / Assam	Villa / 3 BHK	1472	₹50.86 L	Unfurnished	3	Any	Sale
+644	Assam Properties (Assam.txt)	2 BHK Apartment	Dibrugarh Town Centre	Dibrugarh / Assam	Apartment / 2 BHK	974	₹50.14 L	Semi-Furnished	2	Family	Sale
+645	Assam Properties (Assam.txt)	2 BHK Apartment	Dibrugarh South	Dibrugarh / Assam	Apartment / 2 BHK	942	₹39.28 L	Semi-Furnished	2	Bachelors	Sale
+646	Assam Properties (Assam.txt)	5 BHK Apartment	Dibrugarh West	Dibrugarh / Assam	Apartment / 5 BHK	2353	₹94.73 L	Semi-Furnished	5	Family	Sale
+647	Assam Properties (Assam.txt)	1 BHK Apartment	Dibrugarh Colony	Dibrugarh / Assam	Apartment / 1 BHK	454	₹8,700/month	Unfurnished	1	Family	Rent
+648	Assam Properties (Assam.txt)	2 BHK Apartment	Jorhat Heights	Jorhat / Assam	Apartment / 2 BHK	869	₹35.46 L	Semi-Furnished	2	Any	Sale
+649	Assam Properties (Assam.txt)	3 BHK Apartment	Jorhat Extension	Jorhat / Assam	Apartment / 3 BHK	1634	₹63.85 L	Semi-Furnished	3	Family	Sale
+650	Assam Properties (Assam.txt)	2 BHK Villa	Dibrugarh Sector 2	Dibrugarh / Assam	Villa / 2 BHK	1208	₹39.49 L	Semi-Furnished	3	Family	Sale
+651	Assam Properties (Assam.txt)	1 BHK Independent House	Guwahati Sector 1	Guwahati / Assam	Independent House / 1 BHK	605	₹26.77 L	Semi-Furnished	1	Bachelors	Sale
+652	Assam Properties (Assam.txt)	3 BHK Apartment	Jorhat Main Road	Jorhat / Assam	Apartment / 3 BHK	1240	₹51.64 L	Fully-Furnished	4	Family	Sale
+653	Assam Properties (Assam.txt)	3 BHK Apartment	Dibrugarh Central	Dibrugarh / Assam	Apartment / 3 BHK	1233	₹13,000/month	Semi-Furnished	3	Family	Rent
+654	Assam Properties (Assam.txt)	3 BHK Builder Floor	Jorhat Residential Area	Jorhat / Assam	Builder Floor / 3 BHK	1237	₹61.07 L	Fully-Furnished	4	Family	Sale
+655	Assam Properties (Assam.txt)	2 BHK Builder Floor	Guwahati Sector 1	Guwahati / Assam	Builder Floor / 2 BHK	651	₹43.70 L	Semi-Furnished	2	Family	Sale
+656	Assam Properties (Assam.txt)	3 BHK Apartment	Jorhat Main Road	Jorhat / Assam	Apartment / 3 BHK	1143	₹16,800/month	Unfurnished	4	Family	Rent
+657	Assam Properties (Assam.txt)	4 BHK Independent House	Dibrugarh Extension	Dibrugarh / Assam	Independent House / 4 BHK	2185	₹85.49 L	Semi-Furnished	3	Family	Sale
+658	Assam Properties (Assam.txt)	1 BHK Villa	Guwahati Main Road	Guwahati / Assam	Villa / 1 BHK	764	₹28.22 L	Fully-Furnished	1	Family	Sale
+659	Assam Properties (Assam.txt)	2 BHK Apartment	Dibrugarh Colony	Dibrugarh / Assam	Apartment / 2 BHK	857	₹13,400/month	Semi-Furnished	2	Any	Rent
+660	Assam Properties (Assam.txt)	4 BHK Builder Floor	Silchar Town Centre	Silchar / Assam	Builder Floor / 4 BHK	1435	₹60.26 L	Semi-Furnished	4	Bachelors	Sale
+661	Assam Properties (Assam.txt)	2 BHK Apartment	Guwahati Main Road	Guwahati / Assam	Apartment / 2 BHK	667	₹10,400/month	Semi-Furnished	2	Family	Rent
+662	Assam Properties (Assam.txt)	2 BHK Apartment	Dibrugarh Residential Area	Dibrugarh / Assam	Apartment / 2 BHK	804	₹12,800/month	Semi-Furnished	2	Family	Rent
+663	Assam Properties (Assam.txt)	3 BHK Apartment	Silchar Main Road	Silchar / Assam	Apartment / 3 BHK	1023	₹58.14 L	Fully-Furnished	4	Any	Sale
+664	Assam Properties (Assam.txt)	2 BHK Independent House	Jorhat Sector 3	Jorhat / Assam	Independent House / 2 BHK	908	₹37.87 L	Semi-Furnished	1	Family	Sale
+665	Assam Properties (Assam.txt)	3 BHK Independent House	Jorhat Heights	Jorhat / Assam	Independent House / 3 BHK	1327	₹66.27 L	Semi-Furnished	2	Family	Sale
+666	Assam Properties (Assam.txt)	1 BHK Builder Floor	Dibrugarh Nagar	Dibrugarh / Assam	Builder Floor / 1 BHK	601	₹31.62 L	Semi-Furnished	1	Family	Sale
+667	Assam Properties (Assam.txt)	2 BHK Apartment	Jorhat South	Jorhat / Assam	Apartment / 2 BHK	995	₹10,400/month	Unfurnished	2	Family	Rent
+668	Assam Properties (Assam.txt)	2 BHK Villa	Silchar Central	Silchar / Assam	Villa / 2 BHK	1020	₹9,700/month	Semi-Furnished	2	Family	Rent
+669	Assam Properties (Assam.txt)	3 BHK Apartment	Guwahati Main Road	Guwahati / Assam	Apartment / 3 BHK	1073	₹12,400/month	Fully-Furnished	3	Family	Rent
+670	Assam Properties (Assam.txt)	2 BHK Apartment	Guwahati Main Road	Guwahati / Assam	Apartment / 2 BHK	1011	₹48 L	Semi-Furnished	1	Family	Sale
+671	Assam Properties (Assam.txt)	3 BHK Apartment	Jorhat Extension	Jorhat / Assam	Apartment / 3 BHK	1458	₹61.28 L	Fully-Furnished	2	Family	Sale
+672	Assam Properties (Assam.txt)	1 BHK Apartment	Dibrugarh South	Dibrugarh / Assam	Apartment / 1 BHK	583	₹8,500/month	Semi-Furnished	1	Family	Rent
+673	Assam Properties (Assam.txt)	1 BHK Studio	Guwahati Residential Area	Guwahati / Assam	Studio / 1 BHK	373	₹6,300/month	Fully-Furnished	1	Family	Rent
+674	Assam Properties (Assam.txt)	3 BHK Independent House	Jorhat Residential Area	Jorhat / Assam	Independent House / 3 BHK	955	₹63.89 L	Semi-Furnished	4	Family	Sale
+675	Assam Properties (Assam.txt)	2 BHK Independent House	Dibrugarh Extension	Dibrugarh / Assam	Independent House / 2 BHK	966	₹40.65 L	Semi-Furnished	2	Any	Sale
+676	Assam Properties (Assam.txt)	3 BHK Apartment	Dibrugarh Sector 1	Dibrugarh / Assam	Apartment / 3 BHK	1129	₹16,200/month	Fully-Furnished	2	Family	Rent
+677	Assam Properties (Assam.txt)	3 BHK Builder Floor	Guwahati Sector 3	Guwahati / Assam	Builder Floor / 3 BHK	1091	₹13,500/month	Semi-Furnished	3	Bachelors	Rent
+678	Assam Properties (Assam.txt)	2 BHK Apartment	Guwahati Sector 2	Guwahati / Assam	Apartment / 2 BHK	845	₹43.95 L	Fully-Furnished	3	Family	Sale
+679	Assam Properties (Assam.txt)	1 BHK Studio	Dibrugarh Residential Area	Dibrugarh / Assam	Studio / 1 BHK	376	₹8,100/month	Unfurnished	1	Bachelors	Rent
+680	Assam Properties (Assam.txt)	1 BHK Apartment	Guwahati Sector 2	Guwahati / Assam	Apartment / 1 BHK	387	₹6,500/month	Fully-Furnished	1	Any	Rent
+681	Assam Properties (Assam.txt)	1 BHK Builder Floor	Jorhat Town Centre	Jorhat / Assam	Builder Floor / 1 BHK	512	₹24 L	Fully-Furnished	1	Any	Sale
+682	Assam Properties (Assam.txt)	2 BHK Apartment	Dibrugarh North	Dibrugarh / Assam	Apartment / 2 BHK	703	₹42.20 L	Unfurnished	2	Family	Sale
+683	Assam Properties (Assam.txt)	3 BHK Builder Floor	Guwahati South	Guwahati / Assam	Builder Floor / 3 BHK	1247	₹12,700/month	Fully-Furnished	3	Any	Rent
+684	Assam Properties (Assam.txt)	3 BHK Apartment	Jorhat North	Jorhat / Assam	Apartment / 3 BHK	1195	₹59.60 L	Semi-Furnished	4	Any	Sale
+685	Assam Properties (Assam.txt)	1 BHK Studio	Guwahati North	Guwahati / Assam	Studio / 1 BHK	300	₹27.44 L	Unfurnished	2	Family	Sale
+686	Assam Properties (Assam.txt)	1 BHK Independent House	Jorhat Sector 2	Jorhat / Assam	Independent House / 1 BHK	735	₹8,700/month	Semi-Furnished	1	Bachelors	Rent
+687	Assam Properties (Assam.txt)	2 BHK Builder Floor	Dibrugarh Residential Area	Dibrugarh / Assam	Builder Floor / 2 BHK	740	₹11,800/month	Semi-Furnished	2	Bachelors	Rent
+688	Assam Properties (Assam.txt)	2 BHK Apartment	Guwahati Extension	Guwahati / Assam	Apartment / 2 BHK	858	₹9,700/month	Semi-Furnished	2	Bachelors	Rent
+689	Assam Properties (Assam.txt)	3 BHK Apartment	Dibrugarh North	Dibrugarh / Assam	Apartment / 3 BHK	911	₹50.84 L	Fully-Furnished	3	Bachelors	Sale
+690	Assam Properties (Assam.txt)	2 BHK Independent House	Jorhat Town Centre	Jorhat / Assam	Independent House / 2 BHK	1087	₹40.20 L	Fully-Furnished	2	Bachelors	Sale
+691	Assam Properties (Assam.txt)	4 BHK Apartment	Jorhat Extension	Jorhat / Assam	Apartment / 4 BHK	1633	₹83.77 L	Semi-Furnished	4	Any	Sale
+692	Assam Properties (Assam.txt)	4 BHK Builder Floor	Dibrugarh Main Road	Dibrugarh / Assam	Builder Floor / 4 BHK	1936	₹76.65 L	Semi-Furnished	5	Family	Sale
+693	Assam Properties (Assam.txt)	1 BHK Villa	Dibrugarh Heights	Dibrugarh / Assam	Villa / 1 BHK	701	₹29.32 L	Fully-Furnished	2	Any	Sale
+694	Assam Properties (Assam.txt)	2 BHK Independent House	Jorhat Heights	Jorhat / Assam	Independent House / 2 BHK	1038	₹37.37 L	Fully-Furnished	2	Family	Sale
+695	Assam Properties (Assam.txt)	2 BHK Builder Floor	Guwahati Nagar	Guwahati / Assam	Builder Floor / 2 BHK	1014	₹14,200/month	Semi-Furnished	3	Family	Rent
+696	Assam Properties (Assam.txt)	3 BHK Builder Floor	Dibrugarh North	Dibrugarh / Assam	Builder Floor / 3 BHK	1215	₹59.47 L	Fully-Furnished	3	Family	Sale
+697	Assam Properties (Assam.txt)	2 BHK Apartment	Jorhat Main Road	Jorhat / Assam	Apartment / 2 BHK	836	₹41.96 L	Unfurnished	2	Family	Sale
+698	Assam Properties (Assam.txt)	2 BHK Builder Floor	Dibrugarh West	Dibrugarh / Assam	Builder Floor / 2 BHK	815	₹43.30 L	Fully-Furnished	3	Family	Sale
+699	Assam Properties (Assam.txt)	2 BHK Apartment	Dibrugarh East	Dibrugarh / Assam	Apartment / 2 BHK	758	₹12,900/month	Fully-Furnished	3	Family	Rent
+700	Assam Properties (Assam.txt)	2 BHK Apartment	Guwahati West	Guwahati / Assam	Apartment / 2 BHK	724	₹43.68 L	Unfurnished	2	Bachelors	Sale
+701	Assam Properties (Assam.txt)	1 BHK Apartment	Guwahati Sector 2	Guwahati / Assam	Apartment / 1 BHK	470	₹28.52 L	Unfurnished	1	Family	Sale
+702	Assam Properties (Assam.txt)	4 BHK Villa	Jorhat Town Centre	Jorhat / Assam	Villa / 4 BHK	2586	₹97.36 L	Semi-Furnished	5	Family	Sale
+703	Assam Properties (Assam.txt)	2 BHK Villa	Silchar Central	Silchar / Assam	Villa / 2 BHK	1155	₹46.82 L	Semi-Furnished	3	Family	Sale
+704	Assam Properties (Assam.txt)	3 BHK Apartment	Silchar Nagar	Silchar / Assam	Apartment / 3 BHK	1060	₹14,300/month	Fully-Furnished	3	Bachelors	Rent
+705	Assam Properties (Assam.txt)	5 BHK Apartment	Jorhat East	Jorhat / Assam	Apartment / 5 BHK	2825	₹1.13 Cr	Unfurnished	4	Family	Sale
+706	Assam Properties (Assam.txt)	4 BHK Apartment	Jorhat Main Road	Jorhat / Assam	Apartment / 4 BHK	1767	₹23,400/month	Fully-Furnished	3	Bachelors	Rent
+707	Assam Properties (Assam.txt)	1 BHK Apartment	Jorhat Sector 3	Jorhat / Assam	Apartment / 1 BHK	472	₹24.71 L	Unfurnished	2	Family	Sale
+708	Assam Properties (Assam.txt)	1 BHK Studio	Silchar Sector 1	Silchar / Assam	Studio / 1 BHK	337	₹23.21 L	Semi-Furnished	1	Family	Sale
+709	Assam Properties (Assam.txt)	4 BHK Apartment	Dibrugarh Main Road	Dibrugarh / Assam	Apartment / 4 BHK	2125	₹21,800/month	Semi-Furnished	3	Bachelors	Rent
+710	Assam Properties (Assam.txt)	3 BHK Apartment	Jorhat Central	Jorhat / Assam	Apartment / 3 BHK	1380	₹53.83 L	Fully-Furnished	3	Any	Sale
+711	Assam Properties (Assam.txt)	3 BHK Builder Floor	Jorhat Residential Area	Jorhat / Assam	Builder Floor / 3 BHK	1484	₹53.55 L	Fully-Furnished	2	Any	Sale
+712	Assam Properties (Assam.txt)	3 BHK Apartment	Jorhat Sector 3	Jorhat / Assam	Apartment / 3 BHK	882	₹50.83 L	Fully-Furnished	3	Bachelors	Sale
+713	Assam Properties (Assam.txt)	1 BHK Apartment	Dibrugarh Sector 3	Dibrugarh / Assam	Apartment / 1 BHK	487	₹29.43 L	Unfurnished	1	Bachelors	Sale
+714	Assam Properties (Assam.txt)	3 BHK Apartment	Guwahati Colony	Guwahati / Assam	Apartment / 3 BHK	1377	₹14,200/month	Fully-Furnished	2	Bachelors	Rent
+715	Assam Properties (Assam.txt)	2 BHK Apartment	Dibrugarh Residential Area	Dibrugarh / Assam	Apartment / 2 BHK	910	₹38.74 L	Semi-Furnished	2	Any	Sale
+716	Assam Properties (Assam.txt)	2 BHK Builder Floor	Silchar Residential Area	Silchar / Assam	Builder Floor / 2 BHK	926	₹48.41 L	Fully-Furnished	2	Family	Sale
+717	Assam Properties (Assam.txt)	2 BHK Apartment	Guwahati Sector 1	Guwahati / Assam	Apartment / 2 BHK	876	₹9,600/month	Semi-Furnished	2	Bachelors	Rent
+718	Assam Properties (Assam.txt)	1 BHK Studio	Dibrugarh Main Road	Dibrugarh / Assam	Studio / 1 BHK	368	₹6,900/month	Semi-Furnished	1	Family	Rent
+719	Assam Properties (Assam.txt)	1 BHK Apartment	Guwahati North	Guwahati / Assam	Apartment / 1 BHK	602	₹9,100/month	Semi-Furnished	1	Family	Rent
+720	Assam Properties (Assam.txt)	4 BHK Apartment	Dibrugarh Residential Area	Dibrugarh / Assam	Apartment / 4 BHK	1713	₹87 L	Semi-Furnished	5	Family	Sale
+721	Assam Properties (Assam.txt)	2 BHK Apartment	Dibrugarh West	Dibrugarh / Assam	Apartment / 2 BHK	1072	₹37.50 L	Unfurnished	2	Bachelors	Sale
+722	Assam Properties (Assam.txt)	3 BHK Apartment	Guwahati Sector 2	Guwahati / Assam	Apartment / 3 BHK	1345	₹52.95 L	Fully-Furnished	2	Family	Sale
+723	Assam Properties (Assam.txt)	4 BHK Apartment	Jorhat Main Road	Jorhat / Assam	Apartment / 4 BHK	1825	₹89.42 L	Fully-Furnished	4	Any	Sale
+724	Assam Properties (Assam.txt)	2 BHK Builder Floor	Jorhat Town Centre	Jorhat / Assam	Builder Floor / 2 BHK	908	₹13,000/month	Semi-Furnished	2	Family	Rent
+725	Assam Properties (Assam.txt)	2 BHK Apartment	Guwahati Extension	Guwahati / Assam	Apartment / 2 BHK	664	₹45.58 L	Semi-Furnished	3	Family	Sale
+726	Assam Properties (Assam.txt)	1 BHK Apartment	Silchar Sector 2	Silchar / Assam	Apartment / 1 BHK	546	₹29.50 L	Fully-Furnished	1	Any	Sale
+727	Assam Properties (Assam.txt)	2 BHK Independent House	Dibrugarh Town Centre	Dibrugarh / Assam	Independent House / 2 BHK	1080	₹44.90 L	Semi-Furnished	3	Any	Sale
+728	Assam Properties (Assam.txt)	4 BHK Independent House	Dibrugarh Extension	Dibrugarh / Assam	Independent House / 4 BHK	1950	₹78.53 L	Fully-Furnished	4	Bachelors	Sale
+729	Assam Properties (Assam.txt)	3 BHK Independent House	Jorhat Colony	Jorhat / Assam	Independent House / 3 BHK	1649	₹14,700/month	Semi-Furnished	2	Any	Rent
+730	Assam Properties (Assam.txt)	2 BHK Apartment	Jorhat West	Jorhat / Assam	Apartment / 2 BHK	880	₹46.26 L	Unfurnished	3	Family	Sale
+731	Assam Properties (Assam.txt)	1 BHK Apartment	Guwahati Town Centre	Guwahati / Assam	Apartment / 1 BHK	632	₹28.95 L	Semi-Furnished	1	Bachelors	Sale
+732	Assam Properties (Assam.txt)	2 BHK Villa	Jorhat Sector 2	Jorhat / Assam	Villa / 2 BHK	1135	₹39.64 L	Unfurnished	1	Any	Sale
+733	Assam Properties (Assam.txt)	2 BHK Villa	Silchar Extension	Silchar / Assam	Villa / 2 BHK	1150	₹52.11 L	Fully-Furnished	3	Bachelors	Sale
+734	Assam Properties (Assam.txt)	4 BHK Independent House	Guwahati Extension	Guwahati / Assam	Independent House / 4 BHK	2269	₹24,800/month	Unfurnished	3	Any	Rent
+735	Assam Properties (Assam.txt)	2 BHK Apartment	Dibrugarh South	Dibrugarh / Assam	Apartment / 2 BHK	808	₹42.38 L	Semi-Furnished	2	Family	Sale
+736	Assam Properties (Assam.txt)	2 BHK Apartment	Dibrugarh Sector 1	Dibrugarh / Assam	Apartment / 2 BHK	800	₹12,700/month	Semi-Furnished	2	Family	Rent
+737	Assam Properties (Assam.txt)	3 BHK Independent House	Dibrugarh Colony	Dibrugarh / Assam	Independent House / 3 BHK	1705	₹19,400/month	Semi-Furnished	2	Any	Rent
+738	Assam Properties (Assam.txt)	2 BHK Apartment	Silchar North	Silchar / Assam	Apartment / 2 BHK	879	₹34.37 L	Semi-Furnished	2	Any	Sale
+739	Assam Properties (Assam.txt)	3 BHK Builder Floor	Guwahati Nagar	Guwahati / Assam	Builder Floor / 3 BHK	1543	₹53.25 L	Semi-Furnished	4	Bachelors	Sale
+740	Assam Properties (Assam.txt)	3 BHK Builder Floor	Jorhat Sector 1	Jorhat / Assam	Builder Floor / 3 BHK	1349	₹47.88 L	Fully-Furnished	3	Family	Sale
+741	Assam Properties (Assam.txt)	2 BHK Apartment	Silchar Nagar	Silchar / Assam	Apartment / 2 BHK	837	₹42.87 L	Semi-Furnished	3	Bachelors	Sale
+742	Assam Properties (Assam.txt)	4 BHK Apartment	Silchar Heights	Silchar / Assam	Apartment / 4 BHK	2027	₹63.01 L	Semi-Furnished	4	Bachelors	Sale
+743	Assam Properties (Assam.txt)	2 BHK Apartment	Dibrugarh West	Dibrugarh / Assam	Apartment / 2 BHK	947	₹9,600/month	Unfurnished	2	Family	Rent
+744	Assam Properties (Assam.txt)	3 BHK Independent House	Jorhat Central	Jorhat / Assam	Independent House / 3 BHK	1295	₹13,400/month	Fully-Furnished	3	Family	Rent
+745	Assam Properties (Assam.txt)	3 BHK Villa	Silchar Town Centre	Silchar / Assam	Villa / 3 BHK	1722	₹74.08 L	Unfurnished	3	Any	Sale
+746	Assam Properties (Assam.txt)	2 BHK Apartment	Dibrugarh Extension	Dibrugarh / Assam	Apartment / 2 BHK	780	₹36.64 L	Unfurnished	3	Family	Sale
+747	Assam Properties (Assam.txt)	3 BHK Apartment	Silchar Central	Silchar / Assam	Apartment / 3 BHK	1236	₹14,500/month	Semi-Furnished	2	Bachelors	Rent
+748	Assam Properties (Assam.txt)	2 BHK Villa	Silchar South	Silchar / Assam	Villa / 2 BHK	1164	₹42.41 L	Semi-Furnished	2	Bachelors	Sale
+749	Assam Properties (Assam.txt)	2 BHK Apartment	Jorhat Heights	Jorhat / Assam	Apartment / 2 BHK	712	₹43.93 L	Unfurnished	2	Family	Sale
+750	Assam Properties (Assam.txt)	1 BHK Builder Floor	Dibrugarh Nagar	Dibrugarh / Assam	Builder Floor / 1 BHK	477	₹27.32 L	Unfurnished	2	Bachelors	Sale
+751	Assam Properties (Assam.txt)	3 BHK Apartment	Silchar Town Centre	Silchar / Assam	Apartment / 3 BHK	1534	₹16,300/month	Fully-Furnished	4	Bachelors	Rent
+752	Assam Properties (Assam.txt)	3 BHK Builder Floor	Guwahati Sector 3	Guwahati / Assam	Builder Floor / 3 BHK	1155	₹65.30 L	Unfurnished	3	Family	Sale
+753	Assam Properties (Assam.txt)	2 BHK Apartment	Dibrugarh North	Dibrugarh / Assam	Apartment / 2 BHK	944	₹11,700/month	Semi-Furnished	2	Family	Rent
+754	Assam Properties (Assam.txt)	3 BHK Builder Floor	Jorhat North	Jorhat / Assam	Builder Floor / 3 BHK	1014	₹58.77 L	Semi-Furnished	3	Bachelors	Sale
+755	Assam Properties (Assam.txt)	3 BHK Independent House	Guwahati North	Guwahati / Assam	Independent House / 3 BHK	1539	₹18,700/month	Semi-Furnished	4	Bachelors	Rent
+756	Assam Properties (Assam.txt)	3 BHK Builder Floor	Silchar Heights	Silchar / Assam	Builder Floor / 3 BHK	1076	₹46.31 L	Fully-Furnished	4	Bachelors	Sale
+757	Assam Properties (Assam.txt)	4 BHK Apartment	Silchar Sector 1	Silchar / Assam	Apartment / 4 BHK	2027	₹22,700/month	Semi-Furnished	5	Family	Rent
+758	Assam Properties (Assam.txt)	4 BHK Independent House	Jorhat Sector 1	Jorhat / Assam	Independent House / 4 BHK	2313	₹26,000/month	Unfurnished	4	Bachelors	Rent
+759	Assam Properties (Assam.txt)	3 BHK Builder Floor	Silchar Sector 1	Silchar / Assam	Builder Floor / 3 BHK	1441	₹66.62 L	Semi-Furnished	4	Family	Sale
+760	Assam Properties (Assam.txt)	2 BHK Builder Floor	Silchar Main Road	Silchar / Assam	Builder Floor / 2 BHK	908	₹12,300/month	Semi-Furnished	3	Any	Rent
+761	Assam Properties (Assam.txt)	4 BHK Builder Floor	Dibrugarh Nagar	Dibrugarh / Assam	Builder Floor / 4 BHK	1721	₹22,600/month	Unfurnished	4	Bachelors	Rent
+762	Assam Properties (Assam.txt)	1 BHK Apartment	Jorhat Main Road	Jorhat / Assam	Apartment / 1 BHK	534	₹8,400/month	Unfurnished	2	Family	Rent
+763	Assam Properties (Assam.txt)	2 BHK Independent House	Silchar Nagar	Silchar / Assam	Independent House / 2 BHK	970	₹35.04 L	Fully-Furnished	1	Any	Sale
+764	Assam Properties (Assam.txt)	3 BHK Builder Floor	Jorhat South	Jorhat / Assam	Builder Floor / 3 BHK	936	₹13,600/month	Unfurnished	4	Any	Rent
+765	Assam Properties (Assam.txt)	3 BHK Apartment	Silchar Sector 3	Silchar / Assam	Apartment / 3 BHK	1269	₹62.80 L	Semi-Furnished	3	Family	Sale
+766	Assam Properties (Assam.txt)	1 BHK Apartment	Silchar Sector 1	Silchar / Assam	Apartment / 1 BHK	469	₹22.93 L	Semi-Furnished	1	Family	Sale
+767	Assam Properties (Assam.txt)	3 BHK Independent House	Guwahati Sector 3	Guwahati / Assam	Independent House / 3 BHK	1342	₹60.85 L	Semi-Furnished	3	Family	Sale
+768	Assam Properties (Assam.txt)	1 BHK Independent House	Silchar Central	Silchar / Assam	Independent House / 1 BHK	633	₹22.97 L	Fully-Furnished	2	Any	Sale
+769	Assam Properties (Assam.txt)	3 BHK Apartment	Guwahati South	Guwahati / Assam	Apartment / 3 BHK	1093	₹15,200/month	Fully-Furnished	3	Bachelors	Rent
+770	Assam Properties (Assam.txt)	3 BHK Apartment	Jorhat Sector 1	Jorhat / Assam	Apartment / 3 BHK	1113	₹66.44 L	Semi-Furnished	3	Family	Sale
+771	Assam Properties (Assam.txt)	2 BHK Apartment	Dibrugarh Heights	Dibrugarh / Assam	Apartment / 2 BHK	833	₹10,000/month	Semi-Furnished	2	Any	Rent
+772	Assam Properties (Assam.txt)	4 BHK Independent House	Jorhat East	Jorhat / Assam	Independent House / 4 BHK	2242	₹24,100/month	Semi-Furnished	3	Bachelors	Rent
+773	Assam Properties (Assam.txt)	2 BHK Builder Floor	Jorhat Sector 2	Jorhat / Assam	Builder Floor / 2 BHK	775	₹35.13 L	Fully-Furnished	2	Family	Sale
+774	Assam Properties (Assam.txt)	4 BHK Villa	Dibrugarh North	Dibrugarh / Assam	Villa / 4 BHK	2181	₹90.88 L	Semi-Furnished	4	Any	Sale
+775	Assam Properties (Assam.txt)	2 BHK Independent House	Dibrugarh Nagar	Dibrugarh / Assam	Independent House / 2 BHK	1026	₹45.35 L	Unfurnished	3	Any	Sale
+776	Assam Properties (Assam.txt)	4 BHK Apartment	Dibrugarh Sector 1	Dibrugarh / Assam	Apartment / 4 BHK	2077	₹67.84 L	Fully-Furnished	4	Bachelors	Sale
+777	Assam Properties (Assam.txt)	3 BHK Apartment	Dibrugarh Extension	Dibrugarh / Assam	Apartment / 3 BHK	1351	₹17,900/month	Semi-Furnished	3	Any	Rent
+778	Assam Properties (Assam.txt)	3 BHK Apartment	Jorhat Sector 3	Jorhat / Assam	Apartment / 3 BHK	1083	₹54 L	Semi-Furnished	4	Family	Sale
+779	Assam Properties (Assam.txt)	2 BHK Apartment	Silchar East	Silchar / Assam	Apartment / 2 BHK	883	₹44.35 L	Unfurnished	3	Family	Sale
+780	Assam Properties (Assam.txt)	4 BHK Apartment	Jorhat Central	Jorhat / Assam	Apartment / 4 BHK	1887	₹23,300/month	Semi-Furnished	4	Any	Rent
+781	Assam Properties (Assam.txt)	2 BHK Apartment	Dibrugarh Central	Dibrugarh / Assam	Apartment / 2 BHK	995	₹12,800/month	Fully-Furnished	1	Family	Rent
+782	Assam Properties (Assam.txt)	4 BHK Apartment	Dibrugarh Sector 2	Dibrugarh / Assam	Apartment / 4 BHK	1795	₹83.63 L	Semi-Furnished	4	Any	Sale
+783	Assam Properties (Assam.txt)	2 BHK Apartment	Jorhat South	Jorhat / Assam	Apartment / 2 BHK	1067	₹46.73 L	Unfurnished	1	Bachelors	Sale
+784	Assam Properties (Assam.txt)	1 BHK Studio	Guwahati Sector 2	Guwahati / Assam	Studio / 1 BHK	433	₹7,300/month	Semi-Furnished	1	Family	Rent
+785	Assam Properties (Assam.txt)	2 BHK Apartment	Guwahati Nagar	Guwahati / Assam	Apartment / 2 BHK	840	₹35.50 L	Semi-Furnished	3	Family	Sale
+786	Assam Properties (Assam.txt)	3 BHK Apartment	Guwahati Main Road	Guwahati / Assam	Apartment / 3 BHK	1621	₹58.60 L	Semi-Furnished	4	Any	Sale
+787	Assam Properties (Assam.txt)	3 BHK Builder Floor	Silchar Colony	Silchar / Assam	Builder Floor / 3 BHK	1243	₹17,100/month	Semi-Furnished	3	Any	Rent
+788	Assam Properties (Assam.txt)	3 BHK Apartment	Guwahati South	Guwahati / Assam	Apartment / 3 BHK	1284	₹55.95 L	Unfurnished	3	Any	Sale
+789	Assam Properties (Assam.txt)	2 BHK Apartment	Jorhat Town Centre	Jorhat / Assam	Apartment / 2 BHK	736	₹10,600/month	Unfurnished	2	Bachelors	Rent
+790	Assam Properties (Assam.txt)	2 BHK Apartment	Dibrugarh Sector 2	Dibrugarh / Assam	Apartment / 2 BHK	894	₹44.31 L	Semi-Furnished	2	Bachelors	Sale
+791	Assam Properties (Assam.txt)	3 BHK Builder Floor	Dibrugarh Residential Area	Dibrugarh / Assam	Builder Floor / 3 BHK	1227	₹14,600/month	Semi-Furnished	3	Bachelors	Rent
+792	Assam Properties (Assam.txt)	5 BHK Apartment	Jorhat East	Jorhat / Assam	Apartment / 5 BHK	2238	₹93.99 L	Fully-Furnished	4	Family	Sale
+793	Assam Properties (Assam.txt)	4 BHK Apartment	Silchar South	Silchar / Assam	Apartment / 4 BHK	2099	₹63.75 L	Semi-Furnished	3	Family	Sale
+794	Assam Properties (Assam.txt)	1 BHK Independent House	Guwahati West	Guwahati / Assam	Independent House / 1 BHK	480	₹20.92 L	Fully-Furnished	1	Any	Sale
+795	Assam Properties (Assam.txt)	3 BHK Builder Floor	Guwahati East	Guwahati / Assam	Builder Floor / 3 BHK	1275	₹16,200/month	Semi-Furnished	3	Bachelors	Rent
+796	Assam Properties (Assam.txt)	3 BHK Apartment	Jorhat Sector 1	Jorhat / Assam	Apartment / 3 BHK	1454	₹64.21 L	Fully-Furnished	3	Family	Sale
+797	Assam Properties (Assam.txt)	2 BHK Villa	Guwahati Colony	Guwahati / Assam	Villa / 2 BHK	1307	₹53.93 L	Unfurnished	2	Family	Sale
+798	Assam Properties (Assam.txt)	2 BHK Builder Floor	Dibrugarh Town Centre	Dibrugarh / Assam	Builder Floor / 2 BHK	1131	₹50.43 L	Fully-Furnished	2	Family	Sale
+799	Assam Properties (Assam.txt)	2 BHK Apartment	Guwahati North	Guwahati / Assam	Apartment / 2 BHK	976	₹48.30 L	Fully-Furnished	1	Family	Sale
+800	Assam Properties (Assam.txt)	1 BHK Apartment	Jorhat Residential Area	Jorhat / Assam	Apartment / 1 BHK	488	₹6,900/month	Unfurnished	2	Any	Rent
+801	Assam Properties (Assam.txt)	3 BHK Apartment	Jorhat Residential Area	Jorhat / Assam	Apartment / 3 BHK	1424	₹65.72 L	Semi-Furnished	2	Bachelors	Sale
+802	Assam Properties (Assam.txt)	3 BHK Independent House	Jorhat Central	Jorhat / Assam	Independent House / 3 BHK	996	₹60.95 L	Fully-Furnished	3	Family	Sale
+803	Assam Properties (Assam.txt)	2 BHK Apartment	Dibrugarh Nagar	Dibrugarh / Assam	Apartment / 2 BHK	915	₹47.14 L	Semi-Furnished	2	Bachelors	Sale
+804	Assam Properties (Assam.txt)	2 BHK Builder Floor	Guwahati South	Guwahati / Assam	Builder Floor / 2 BHK	876	₹13,000/month	Semi-Furnished	2	Family	Rent
+805	Assam Properties (Assam.txt)	3 BHK Apartment	Jorhat East	Jorhat / Assam	Apartment / 3 BHK	1362	₹14,500/month	Fully-Furnished	3	Any	Rent
+806	Assam Properties (Assam.txt)	1 BHK Apartment	Silchar Extension	Silchar / Assam	Apartment / 1 BHK	664	₹30.43 L	Semi-Furnished	1	Family	Sale
+807	Assam Properties (Assam.txt)	3 BHK Builder Floor	Jorhat Sector 2	Jorhat / Assam	Builder Floor / 3 BHK	1212	₹17,300/month	Fully-Furnished	2	Any	Rent
+808	Assam Properties (Assam.txt)	3 BHK Apartment	Jorhat Residential Area	Jorhat / Assam	Apartment / 3 BHK	920	₹51.34 L	Semi-Furnished	3	Any	Sale
+809	Assam Properties (Assam.txt)	2 BHK Villa	Jorhat Main Road	Jorhat / Assam	Villa / 2 BHK	1148	₹41.94 L	Semi-Furnished	1	Family	Sale
+810	Assam Properties (Assam.txt)	2 BHK Apartment	Dibrugarh West	Dibrugarh / Assam	Apartment / 2 BHK	834	₹46.59 L	Semi-Furnished	3	Bachelors	Sale
+811	Assam Properties (Assam.txt)	1 BHK Studio	Jorhat Heights	Jorhat / Assam	Studio / 1 BHK	361	₹27.38 L	Unfurnished	1	Bachelors	Sale
+812	Assam Properties (Assam.txt)	3 BHK Independent House	Dibrugarh Town Centre	Dibrugarh / Assam	Independent House / 3 BHK	1718	₹60.25 L	Semi-Furnished	3	Family	Sale
+813	Assam Properties (Assam.txt)	2 BHK Apartment	Jorhat Residential Area	Jorhat / Assam	Apartment / 2 BHK	984	₹38.78 L	Fully-Furnished	2	Family	Sale
+814	Assam Properties (Assam.txt)	4 BHK Apartment	Jorhat Nagar	Jorhat / Assam	Apartment / 4 BHK	1596	₹70.82 L	Fully-Furnished	5	Any	Sale
+815	Assam Properties (Assam.txt)	2 BHK Apartment	Silchar North	Silchar / Assam	Apartment / 2 BHK	1012	₹49.27 L	Fully-Furnished	2	Family	Sale
+816	Assam Properties (Assam.txt)	1 BHK Studio	Silchar Main Road	Silchar / Assam	Studio / 1 BHK	350	₹24.65 L	Semi-Furnished	1	Bachelors	Sale
+817	Assam Properties (Assam.txt)	3 BHK Apartment	Dibrugarh Colony	Dibrugarh / Assam	Apartment / 3 BHK	1305	₹61.14 L	Semi-Furnished	2	Bachelors	Sale
+818	Assam Properties (Assam.txt)	5 BHK Apartment	Guwahati Heights	Guwahati / Assam	Apartment / 5 BHK	1785	₹19,000/month	Semi-Furnished	5	Bachelors	Rent
+819	Assam Properties (Assam.txt)	2 BHK Apartment	Guwahati Main Road	Guwahati / Assam	Apartment / 2 BHK	860	₹44.97 L	Fully-Furnished	2	Any	Sale
+820	Assam Properties (Assam.txt)	1 BHK Apartment	Guwahati Town Centre	Guwahati / Assam	Apartment / 1 BHK	502	₹29.30 L	Fully-Furnished	1	Any	Sale
+821	Assam Properties (Assam.txt)	4 BHK Apartment	Silchar East	Silchar / Assam	Apartment / 4 BHK	1869	₹79.47 L	Unfurnished	4	Any	Sale
+822	Assam Properties (Assam.txt)	2 BHK Independent House	Silchar Residential Area	Silchar / Assam	Independent House / 2 BHK	972	₹50.03 L	Unfurnished	1	Family	Sale
+823	Assam Properties (Assam.txt)	2 BHK Builder Floor	Dibrugarh Town Centre	Dibrugarh / Assam	Builder Floor / 2 BHK	874	₹12,900/month	Fully-Furnished	3	Bachelors	Rent
+824	Assam Properties (Assam.txt)	4 BHK Independent House	Silchar Extension	Silchar / Assam	Independent House / 4 BHK	1780	₹67.57 L	Semi-Furnished	5	Family	Sale
+825	Assam Properties (Assam.txt)	3 BHK Apartment	Silchar Sector 2	Silchar / Assam	Apartment / 3 BHK	1235	₹66.15 L	Fully-Furnished	3	Any	Sale
+826	Assam Properties (Assam.txt)	2 BHK Apartment	Silchar Town Centre	Silchar / Assam	Apartment / 2 BHK	846	₹48.77 L	Fully-Furnished	2	Family	Sale
+827	Assam Properties (Assam.txt)	2 BHK Independent House	Jorhat Extension	Jorhat / Assam	Independent House / 2 BHK	835	₹42.95 L	Semi-Furnished	1	Family	Sale
+828	Assam Properties (Assam.txt)	5 BHK Builder Floor	Dibrugarh Heights	Dibrugarh / Assam	Builder Floor / 5 BHK	2208	₹1.04 Cr	Unfurnished	4	Family	Sale
+829	Assam Properties (Assam.txt)	3 BHK Builder Floor	Guwahati Colony	Guwahati / Assam	Builder Floor / 3 BHK	862	₹13,200/month	Semi-Furnished	4	Any	Rent
+830	Assam Properties (Assam.txt)	3 BHK Apartment	Dibrugarh Colony	Dibrugarh / Assam	Apartment / 3 BHK	1079	₹64.70 L	Unfurnished	2	Any	Sale
+831	Assam Properties (Assam.txt)	2 BHK Builder Floor	Jorhat East	Jorhat / Assam	Builder Floor / 2 BHK	762	₹33.71 L	Fully-Furnished	3	Family	Sale
+832	Assam Properties (Assam.txt)	2 BHK Apartment	Dibrugarh Central	Dibrugarh / Assam	Apartment / 2 BHK	873	₹45.88 L	Unfurnished	2	Family	Sale
+833	Assam Properties (Assam.txt)	4 BHK Apartment	Dibrugarh Heights	Dibrugarh / Assam	Apartment / 4 BHK	1750	₹17,400/month	Fully-Furnished	5	Family	Rent
+834	Assam Properties (Assam.txt)	2 BHK Builder Floor	Jorhat Sector 2	Jorhat / Assam	Builder Floor / 2 BHK	1025	₹12,500/month	Semi-Furnished	1	Family	Rent
+835	Assam Properties (Assam.txt)	2 BHK Apartment	Guwahati Residential Area	Guwahati / Assam	Apartment / 2 BHK	709	₹8,900/month	Semi-Furnished	1	Family	Rent
+836	Assam Properties (Assam.txt)	3 BHK Independent House	Dibrugarh Central	Dibrugarh / Assam	Independent House / 3 BHK	1645	₹14,000/month	Fully-Furnished	4	Family	Rent
+837	Assam Properties (Assam.txt)	3 BHK Builder Floor	Jorhat East	Jorhat / Assam	Builder Floor / 3 BHK	1300	₹15,400/month	Semi-Furnished	3	Family	Rent
+838	Assam Properties (Assam.txt)	3 BHK Apartment	Silchar West	Silchar / Assam	Apartment / 3 BHK	1159	₹60.03 L	Semi-Furnished	4	Family	Sale
+839	Assam Properties (Assam.txt)	2 BHK Independent House	Dibrugarh Residential Area	Dibrugarh / Assam	Independent House / 2 BHK	905	₹35.49 L	Semi-Furnished	2	Any	Sale
+840	Assam Properties (Assam.txt)	3 BHK Apartment	Silchar Town Centre	Silchar / Assam	Apartment / 3 BHK	784	₹49.40 L	Unfurnished	4	Family	Sale
+841	Assam Properties (Assam.txt)	2 BHK Villa	Jorhat Sector 1	Jorhat / Assam	Villa / 2 BHK	1257	₹14,300/month	Semi-Furnished	2	Family	Rent
+842	Assam Properties (Assam.txt)	5 BHK Apartment	Guwahati Nagar	Guwahati / Assam	Apartment / 5 BHK	2556	₹85.21 L	Semi-Furnished	4	Bachelors	Sale
+843	Assam Properties (Assam.txt)	3 BHK Independent House	Silchar North	Silchar / Assam	Independent House / 3 BHK	1353	₹65.97 L	Fully-Furnished	3	Bachelors	Sale
+844	Assam Properties (Assam.txt)	1 BHK Studio	Dibrugarh Nagar	Dibrugarh / Assam	Studio / 1 BHK	348	₹5,800/month	Unfurnished	1	Family	Rent
+845	Assam Properties (Assam.txt)	2 BHK Apartment	Silchar Extension	Silchar / Assam	Apartment / 2 BHK	880	₹42.37 L	Unfurnished	2	Bachelors	Sale
+846	Assam Properties (Assam.txt)	5 BHK Apartment	Dibrugarh Nagar	Dibrugarh / Assam	Apartment / 5 BHK	2495	₹92.03 L	Fully-Furnished	5	Bachelors	Sale
+847	Assam Properties (Assam.txt)	4 BHK Villa	Dibrugarh East	Dibrugarh / Assam	Villa / 4 BHK	2652	₹20,600/month	Fully-Furnished	4	Any	Rent
+848	Assam Properties (Assam.txt)	4 BHK Apartment	Jorhat Sector 2	Jorhat / Assam	Apartment / 4 BHK	2055	₹90.61 L	Semi-Furnished	4	Family	Sale
+849	Assam Properties (Assam.txt)	2 BHK Apartment	Jorhat West	Jorhat / Assam	Apartment / 2 BHK	1045	₹13,300/month	Semi-Furnished	2	Family	Rent
+850	Assam Properties (Assam.txt)	3 BHK Independent House	Jorhat Main Road	Jorhat / Assam	Independent House / 3 BHK	1467	₹60.84 L	Semi-Furnished	4	Any	Sale
+851	Assam Properties (Assam.txt)	3 BHK Independent House	Silchar Heights	Silchar / Assam	Independent House / 3 BHK	1641	₹13,900/month	Semi-Furnished	3	Any	Rent
+852	Assam Properties (Assam.txt)	5 BHK Apartment	Silchar South	Silchar / Assam	Apartment / 5 BHK	1941	₹21,500/month	Semi-Furnished	5	Family	Rent
+853	Assam Properties (Assam.txt)	2 BHK Apartment	Silchar Town Centre	Silchar / Assam	Apartment / 2 BHK	843	₹13,500/month	Unfurnished	2	Bachelors	Rent
+854	Assam Properties (Assam.txt)	3 BHK Independent House	Jorhat Nagar	Jorhat / Assam	Independent House / 3 BHK	1341	₹17,100/month	Semi-Furnished	3	Family	Rent
+855	Assam Properties (Assam.txt)	1 BHK Studio	Dibrugarh East	Dibrugarh / Assam	Studio / 1 BHK	395	₹24.47 L	Fully-Furnished	2	Family	Sale
+856	Assam Properties (Assam.txt)	4 BHK Apartment	Dibrugarh Extension	Dibrugarh / Assam	Apartment / 4 BHK	1980	₹72.35 L	Semi-Furnished	4	Family	Sale
+857	Assam Properties (Assam.txt)	2 BHK Apartment	Silchar Sector 3	Silchar / Assam	Apartment / 2 BHK	990	₹44.07 L	Semi-Furnished	2	Family	Sale
+858	Assam Properties (Assam.txt)	4 BHK Apartment	Guwahati Heights	Guwahati / Assam	Apartment / 4 BHK	1697	₹81.11 L	Semi-Furnished	4	Family	Sale
+859	Assam Properties (Assam.txt)	2 BHK Apartment	Jorhat Main Road	Jorhat / Assam	Apartment / 2 BHK	812	₹13,100/month	Unfurnished	3	Any	Rent
+860	Assam Properties (Assam.txt)	2 BHK Apartment	Silchar Central	Silchar / Assam	Apartment / 2 BHK	833	₹34.19 L	Semi-Furnished	1	Any	Sale
+861	Assam Properties (Assam.txt)	4 BHK Builder Floor	Jorhat Nagar	Jorhat / Assam	Builder Floor / 4 BHK	1644	₹71.55 L	Semi-Furnished	5	Family	Sale
+862	Assam Properties (Assam.txt)	4 BHK Independent House	Jorhat Extension	Jorhat / Assam	Independent House / 4 BHK	2376	₹83.32 L	Fully-Furnished	4	Bachelors	Sale
+863	Assam Properties (Assam.txt)	1 BHK Studio	Dibrugarh Residential Area	Dibrugarh / Assam	Studio / 1 BHK	300	₹7,200/month	Semi-Furnished	1	Bachelors	Rent
+864	Assam Properties (Assam.txt)	2 BHK Independent House	Silchar Extension	Silchar / Assam	Independent House / 2 BHK	929	₹47.72 L	Fully-Furnished	1	Family	Sale
+865	Assam Properties (Assam.txt)	3 BHK Apartment	Silchar East	Silchar / Assam	Apartment / 3 BHK	1207	₹62.05 L	Semi-Furnished	2	Bachelors	Sale
+866	Assam Properties (Assam.txt)	1 BHK Studio	Dibrugarh Nagar	Dibrugarh / Assam	Studio / 1 BHK	333	₹7,000/month	Semi-Furnished	1	Bachelors	Rent
+867	Assam Properties (Assam.txt)	2 BHK Independent House	Silchar Sector 3	Silchar / Assam	Independent House / 2 BHK	955	₹44.33 L	Unfurnished	2	Family	Sale
+868	Assam Properties (Assam.txt)	1 BHK Independent House	Silchar Nagar	Silchar / Assam	Independent House / 1 BHK	517	₹6,200/month	Unfurnished	1	Any	Rent
+869	Assam Properties (Assam.txt)	1 BHK Independent House	Silchar Colony	Silchar / Assam	Independent House / 1 BHK	691	₹32.76 L	Semi-Furnished	2	Any	Sale
+870	Assam Properties (Assam.txt)	3 BHK Apartment	Silchar Town Centre	Silchar / Assam	Apartment / 3 BHK	947	₹16,400/month	Unfurnished	3	Bachelors	Rent
+871	Assam Properties (Assam.txt)	4 BHK Villa	Dibrugarh Main Road	Dibrugarh / Assam	Villa / 4 BHK	2427	₹19,000/month	Unfurnished	5	Bachelors	Rent
+872	Assam Properties (Assam.txt)	3 BHK Apartment	Jorhat Residential Area	Jorhat / Assam	Apartment / 3 BHK	1108	₹17,200/month	Unfurnished	3	Family	Rent
+873	Assam Properties (Assam.txt)	2 BHK Apartment	Jorhat South	Jorhat / Assam	Apartment / 2 BHK	903	₹46.04 L	Unfurnished	1	Family	Sale
+874	Assam Properties (Assam.txt)	3 BHK Apartment	Jorhat North	Jorhat / Assam	Apartment / 3 BHK	1480	₹49.40 L	Unfurnished	3	Any	Sale
+875	Assam Properties (Assam.txt)	3 BHK Apartment	Silchar Colony	Silchar / Assam	Apartment / 3 BHK	1019	₹48.52 L	Unfurnished	2	Any	Sale
+876	Assam Properties (Assam.txt)	3 BHK Independent House	Guwahati Extension	Guwahati / Assam	Independent House / 3 BHK	1392	₹48.06 L	Fully-Furnished	2	Bachelors	Sale
+877	Assam Properties (Assam.txt)	2 BHK Apartment	Silchar Sector 2	Silchar / Assam	Apartment / 2 BHK	843	₹38.12 L	Unfurnished	3	Any	Sale
+878	Assam Properties (Assam.txt)	2 BHK Apartment	Guwahati North	Guwahati / Assam	Apartment / 2 BHK	841	₹10,500/month	Fully-Furnished	2	Any	Rent
+879	Assam Properties (Assam.txt)	2 BHK Apartment	Guwahati Extension	Guwahati / Assam	Apartment / 2 BHK	882	₹12,800/month	Semi-Furnished	2	Any	Rent
+880	Assam Properties (Assam.txt)	3 BHK Apartment	Dibrugarh Nagar	Dibrugarh / Assam	Apartment / 3 BHK	1079	₹17,000/month	Unfurnished	2	Family	Rent
+881	Assam Properties (Assam.txt)	1 BHK Studio	Jorhat Sector 2	Jorhat / Assam	Studio / 1 BHK	300	₹19.32 L	Fully-Furnished	1	Any	Sale
+882	Assam Properties (Assam.txt)	2 BHK Apartment	Guwahati Town Centre	Guwahati / Assam	Apartment / 2 BHK	860	₹34.93 L	Unfurnished	2	Family	Sale
+883	Assam Properties (Assam.txt)	2 BHK Apartment	Guwahati West	Guwahati / Assam	Apartment / 2 BHK	1053	₹47.61 L	Semi-Furnished	2	Bachelors	Sale
+884	Assam Properties (Assam.txt)	2 BHK Apartment	Guwahati Heights	Guwahati / Assam	Apartment / 2 BHK	687	₹39.15 L	Semi-Furnished	1	Family	Sale
+885	Assam Properties (Assam.txt)	1 BHK Builder Floor	Dibrugarh Nagar	Dibrugarh / Assam	Builder Floor / 1 BHK	580	₹24.15 L	Fully-Furnished	1	Any	Sale
+886	Assam Properties (Assam.txt)	4 BHK Apartment	Jorhat Sector 3	Jorhat / Assam	Apartment / 4 BHK	1901	₹67.75 L	Semi-Furnished	3	Bachelors	Sale
+887	Assam Properties (Assam.txt)	2 BHK Independent House	Guwahati East	Guwahati / Assam	Independent House / 2 BHK	1079	₹45.26 L	Semi-Furnished	2	Any	Sale
+888	Assam Properties (Assam.txt)	1 BHK Apartment	Silchar Main Road	Silchar / Assam	Apartment / 1 BHK	550	₹6,200/month	Semi-Furnished	1	Family	Rent
+889	Assam Properties (Assam.txt)	2 BHK Apartment	Guwahati Central	Guwahati / Assam	Apartment / 2 BHK	936	₹9,500/month	Semi-Furnished	2	Bachelors	Rent
+890	Assam Properties (Assam.txt)	4 BHK Apartment	Guwahati Residential Area	Guwahati / Assam	Apartment / 4 BHK	1994	₹24,000/month	Unfurnished	5	Bachelors	Rent
+891	Assam Properties (Assam.txt)	1 BHK Independent House	Silchar Central	Silchar / Assam	Independent House / 1 BHK	559	₹28.22 L	Unfurnished	1	Family	Sale
+892	Assam Properties (Assam.txt)	1 BHK Independent House	Silchar South	Silchar / Assam	Independent House / 1 BHK	534	₹8,700/month	Semi-Furnished	1	Bachelors	Rent
+893	Assam Properties (Assam.txt)	1 BHK Apartment	Guwahati Town Centre	Guwahati / Assam	Apartment / 1 BHK	503	₹8,100/month	Fully-Furnished	1	Family	Rent
+894	Assam Properties (Assam.txt)	1 BHK Studio	Guwahati Sector 3	Guwahati / Assam	Studio / 1 BHK	426	₹5,900/month	Semi-Furnished	2	Bachelors	Rent
+895	Assam Properties (Assam.txt)	4 BHK Villa	Silchar Town Centre	Silchar / Assam	Villa / 4 BHK	2629	₹22,200/month	Semi-Furnished	4	Any	Rent
+896	Assam Properties (Assam.txt)	3 BHK Independent House	Guwahati Main Road	Guwahati / Assam	Independent House / 3 BHK	1937	₹20,500/month	Semi-Furnished	3	Bachelors	Rent
+897	Assam Properties (Assam.txt)	4 BHK Apartment	Silchar Residential Area	Silchar / Assam	Apartment / 4 BHK	1381	₹60.09 L	Fully-Furnished	4	Family	Sale
+898	Assam Properties (Assam.txt)	2 BHK Apartment	Silchar Main Road	Silchar / Assam	Apartment / 2 BHK	776	₹40.66 L	Unfurnished	3	Bachelors	Sale
+899	Assam Properties (Assam.txt)	4 BHK Builder Floor	Dibrugarh Sector 3	Dibrugarh / Assam	Builder Floor / 4 BHK	1401	₹63.75 L	Semi-Furnished	4	Bachelors	Sale
+900	Assam Properties (Assam.txt)	3 BHK Apartment	Silchar West	Silchar / Assam	Apartment / 3 BHK	1250	₹17,500/month	Unfurnished	3	Family	Rent
+901	Assam Properties (Assam.txt)	1 BHK Apartment	Guwahati Extension	Guwahati / Assam	Apartment / 1 BHK	517	₹24.49 L	Semi-Furnished	1	Family	Sale
+902	Assam Properties (Assam.txt)	3 BHK Independent House	Jorhat Residential Area	Jorhat / Assam	Independent House / 3 BHK	1457	₹55.02 L	Unfurnished	3	Bachelors	Sale
+903	Assam Properties (Assam.txt)	4 BHK Builder Floor	Dibrugarh Main Road	Dibrugarh / Assam	Builder Floor / 4 BHK	1731	₹82.37 L	Semi-Furnished	5	Any	Sale
+904	Assam Properties (Assam.txt)	1 BHK Apartment	Guwahati Sector 3	Guwahati / Assam	Apartment / 1 BHK	542	₹25.02 L	Semi-Furnished	1	Family	Sale
+905	Assam Properties (Assam.txt)	3 BHK Independent House	Dibrugarh West	Dibrugarh / Assam	Independent House / 3 BHK	1929	₹76.54 L	Unfurnished	3	Any	Sale
+906	Assam Properties (Assam.txt)	3 BHK Apartment	Silchar East	Silchar / Assam	Apartment / 3 BHK	1361	₹69.67 L	Fully-Furnished	3	Family	Sale
+907	Assam Properties (Assam.txt)	2 BHK Villa	Jorhat South	Jorhat / Assam	Villa / 2 BHK	875	₹9,300/month	Unfurnished	1	Any	Rent
+908	Assam Properties (Assam.txt)	2 BHK Apartment	Guwahati Extension	Guwahati / Assam	Apartment / 2 BHK	861	₹36.19 L	Fully-Furnished	2	Bachelors	Sale
+909	Assam Properties (Assam.txt)	4 BHK Apartment	Silchar East	Silchar / Assam	Apartment / 4 BHK	1745	₹18,600/month	Fully-Furnished	3	Family	Rent
+910	Assam Properties (Assam.txt)	2 BHK Independent House	Guwahati Main Road	Guwahati / Assam	Independent House / 2 BHK	892	₹11,100/month	Unfurnished	2	Bachelors	Rent
+911	Assam Properties (Assam.txt)	3 BHK Apartment	Dibrugarh South	Dibrugarh / Assam	Apartment / 3 BHK	1246	₹61.96 L	Unfurnished	3	Family	Sale
+912	Assam Properties (Assam.txt)	5 BHK Apartment	Silchar Town Centre	Silchar / Assam	Apartment / 5 BHK	2507	₹27,800/month	Unfurnished	5	Any	Rent
+913	Assam Properties (Assam.txt)	4 BHK Apartment	Silchar Central	Silchar / Assam	Apartment / 4 BHK	1755	₹74.27 L	Fully-Furnished	4	Bachelors	Sale
+914	Assam Properties (Assam.txt)	4 BHK Apartment	Dibrugarh Sector 1	Dibrugarh / Assam	Apartment / 4 BHK	1868	₹22,800/month	Semi-Furnished	4	Bachelors	Rent
+915	Assam Properties (Assam.txt)	2 BHK Apartment	Jorhat Sector 3	Jorhat / Assam	Apartment / 2 BHK	817	₹34.04 L	Fully-Furnished	2	Family	Sale
+916	Assam Properties (Assam.txt)	2 BHK Apartment	Guwahati Nagar	Guwahati / Assam	Apartment / 2 BHK	859	₹9,500/month	Semi-Furnished	2	Any	Rent
+917	Assam Properties (Assam.txt)	2 BHK Apartment	Dibrugarh North	Dibrugarh / Assam	Apartment / 2 BHK	889	₹37.44 L	Semi-Furnished	3	Family	Sale
+918	Assam Properties (Assam.txt)	2 BHK Builder Floor	Guwahati North	Guwahati / Assam	Builder Floor / 2 BHK	1042	₹12,200/month	Fully-Furnished	2	Family	Rent
+919	Assam Properties (Assam.txt)	3 BHK Builder Floor	Guwahati Town Centre	Guwahati / Assam	Builder Floor / 3 BHK	1244	₹50.24 L	Unfurnished	3	Any	Sale
+920	Assam Properties (Assam.txt)	3 BHK Apartment	Jorhat Nagar	Jorhat / Assam	Apartment / 3 BHK	1007	₹43.85 L	Unfurnished	2	Family	Sale
+921	Assam Properties (Assam.txt)	3 BHK Apartment	Jorhat Colony	Jorhat / Assam	Apartment / 3 BHK	1125	₹53.40 L	Semi-Furnished	4	Family	Sale
+922	Assam Properties (Assam.txt)	3 BHK Builder Floor	Dibrugarh Nagar	Dibrugarh / Assam	Builder Floor / 3 BHK	1231	₹12,800/month	Semi-Furnished	4	Family	Rent
+923	Assam Properties (Assam.txt)	1 BHK Independent House	Jorhat South	Jorhat / Assam	Independent House / 1 BHK	534	₹23.93 L	Semi-Furnished	2	Family	Sale
+924	Assam Properties (Assam.txt)	2 BHK Apartment	Jorhat Sector 1	Jorhat / Assam	Apartment / 2 BHK	845	₹9,800/month	Semi-Furnished	3	Family	Rent
+925	Assam Properties (Assam.txt)	1 BHK Builder Floor	Jorhat Extension	Jorhat / Assam	Builder Floor / 1 BHK	557	₹30.34 L	Unfurnished	1	Bachelors	Sale
+926	Assam Properties (Assam.txt)	4 BHK Apartment	Jorhat Sector 3	Jorhat / Assam	Apartment / 4 BHK	2062	₹22,400/month	Fully-Furnished	4	Bachelors	Rent
+927	Assam Properties (Assam.txt)	3 BHK Villa	Dibrugarh West	Dibrugarh / Assam	Villa / 3 BHK	1815	₹20,200/month	Semi-Furnished	2	Bachelors	Rent
+928	Assam Properties (Assam.txt)	3 BHK Apartment	Silchar North	Silchar / Assam	Apartment / 3 BHK	1517	₹17,400/month	Fully-Furnished	3	Any	Rent
+929	Assam Properties (Assam.txt)	4 BHK Independent House	Dibrugarh Extension	Dibrugarh / Assam	Independent House / 4 BHK	2143	₹21,500/month	Semi-Furnished	4	Any	Rent
+930	Assam Properties (Assam.txt)	3 BHK Apartment	Silchar Sector 1	Silchar / Assam	Apartment / 3 BHK	1217	₹14,300/month	Fully-Furnished	2	Bachelors	Rent
+931	Assam Properties (Assam.txt)	3 BHK Apartment	Guwahati Residential Area	Guwahati / Assam	Apartment / 3 BHK	1556	₹57.43 L	Fully-Furnished	3	Family	Sale
+932	Assam Properties (Assam.txt)	2 BHK Apartment	Jorhat Colony	Jorhat / Assam	Apartment / 2 BHK	760	₹40.53 L	Semi-Furnished	2	Family	Sale
+933	Assam Properties (Assam.txt)	4 BHK Independent House	Guwahati Central	Guwahati / Assam	Independent House / 4 BHK	2001	₹85.30 L	Fully-Furnished	5	Bachelors	Sale
+934	Assam Properties (Assam.txt)	3 BHK Apartment	Jorhat Town Centre	Jorhat / Assam	Apartment / 3 BHK	1350	₹54.90 L	Unfurnished	4	Bachelors	Sale
+935	Assam Properties (Assam.txt)	2 BHK Apartment	Jorhat Town Centre	Jorhat / Assam	Apartment / 2 BHK	870	₹35.23 L	Fully-Furnished	2	Any	Sale
+936	Assam Properties (Assam.txt)	4 BHK Independent House	Dibrugarh Nagar	Dibrugarh / Assam	Independent House / 4 BHK	2277	₹18,700/month	Unfurnished	3	Any	Rent
+937	Assam Properties (Assam.txt)	4 BHK Builder Floor	Dibrugarh Sector 3	Dibrugarh / Assam	Builder Floor / 4 BHK	1566	₹63.88 L	Semi-Furnished	3	Family	Sale
+938	Assam Properties (Assam.txt)	3 BHK Apartment	Dibrugarh Extension	Dibrugarh / Assam	Apartment / 3 BHK	1385	₹18,900/month	Fully-Furnished	3	Bachelors	Rent
+939	Assam Properties (Assam.txt)	2 BHK Independent House	Silchar Central	Silchar / Assam	Independent House / 2 BHK	734	₹43.87 L	Semi-Furnished	2	Family	Sale
+940	Assam Properties (Assam.txt)	4 BHK Apartment	Jorhat Sector 1	Jorhat / Assam	Apartment / 4 BHK	1969	₹23,000/month	Unfurnished	5	Bachelors	Rent
+941	Assam Properties (Assam.txt)	3 BHK Builder Floor	Silchar Main Road	Silchar / Assam	Builder Floor / 3 BHK	1098	₹54.79 L	Semi-Furnished	2	Bachelors	Sale
+942	Assam Properties (Assam.txt)	3 BHK Apartment	Jorhat Nagar	Jorhat / Assam	Apartment / 3 BHK	1365	₹59.92 L	Fully-Furnished	4	Family	Sale
+943	Assam Properties (Assam.txt)	3 BHK Apartment	Dibrugarh Main Road	Dibrugarh / Assam	Apartment / 3 BHK	1360	₹58.87 L	Semi-Furnished	4	Any	Sale
+944	Assam Properties (Assam.txt)	2 BHK Apartment	Jorhat Sector 1	Jorhat / Assam	Apartment / 2 BHK	789	₹10,700/month	Unfurnished	2	Family	Rent
+945	Assam Properties (Assam.txt)	3 BHK Builder Floor	Silchar South	Silchar / Assam	Builder Floor / 3 BHK	1513	₹18,800/month	Unfurnished	2	Family	Rent
+946	Assam Properties (Assam.txt)	1 BHK Builder Floor	Dibrugarh North	Dibrugarh / Assam	Builder Floor / 1 BHK	488	₹21.70 L	Semi-Furnished	1	Any	Sale
+947	Assam Properties (Assam.txt)	1 BHK Apartment	Guwahati West	Guwahati / Assam	Apartment / 1 BHK	460	₹6,300/month	Semi-Furnished	1	Family	Rent
+948	Assam Properties (Assam.txt)	2 BHK Villa	Jorhat West	Jorhat / Assam	Villa / 2 BHK	1076	₹38.98 L	Fully-Furnished	1	Any	Sale
+949	Assam Properties (Assam.txt)	2 BHK Villa	Dibrugarh Colony	Dibrugarh / Assam	Villa / 2 BHK	856	₹42.16 L	Unfurnished	3	Bachelors	Sale
+950	Assam Properties (Assam.txt)	1 BHK Apartment	Jorhat North	Jorhat / Assam	Apartment / 1 BHK	421	₹26.08 L	Fully-Furnished	1	Family	Sale
+951	Assam Properties (Assam.txt)	2 BHK Apartment	Jorhat Main Road	Jorhat / Assam	Apartment / 2 BHK	924	₹12,300/month	Semi-Furnished	2	Bachelors	Rent
+952	Assam Properties (Assam.txt)	3 BHK Builder Floor	Guwahati West	Guwahati / Assam	Builder Floor / 3 BHK	1129	₹17,800/month	Fully-Furnished	4	Family	Rent
+953	Assam Properties (Assam.txt)	3 BHK Builder Floor	Guwahati Nagar	Guwahati / Assam	Builder Floor / 3 BHK	1548	₹53.59 L	Unfurnished	3	Family	Sale
+954	Assam Properties (Assam.txt)	2 BHK Apartment	Guwahati Residential Area	Guwahati / Assam	Apartment / 2 BHK	964	₹13,400/month	Semi-Furnished	2	Family	Rent
+955	Assam Properties (Assam.txt)	2 BHK Builder Floor	Jorhat Nagar	Jorhat / Assam	Builder Floor / 2 BHK	822	₹38.94 L	Fully-Furnished	1	Family	Sale
+956	Assam Properties (Assam.txt)	1 BHK Studio	Silchar East	Silchar / Assam	Studio / 1 BHK	424	₹24.39 L	Semi-Furnished	1	Family	Sale
+957	Assam Properties (Assam.txt)	4 BHK Builder Floor	Jorhat West	Jorhat / Assam	Builder Floor / 4 BHK	1681	₹20,100/month	Fully-Furnished	5	Bachelors	Rent
+958	Assam Properties (Assam.txt)	1 BHK Apartment	Silchar Heights	Silchar / Assam	Apartment / 1 BHK	536	₹7,700/month	Unfurnished	1	Family	Rent
+959	Assam Properties (Assam.txt)	2 BHK Apartment	Silchar Nagar	Silchar / Assam	Apartment / 2 BHK	1024	₹39.25 L	Semi-Furnished	2	Family	Sale
+960	Assam Properties (Assam.txt)	2 BHK Apartment	Guwahati North	Guwahati / Assam	Apartment / 2 BHK	848	₹47.09 L	Unfurnished	3	Family	Sale
+961	Assam Properties (Assam.txt)	2 BHK Apartment	Silchar Nagar	Silchar / Assam	Apartment / 2 BHK	784	₹11,200/month	Semi-Furnished	2	Family	Rent
+962	Assam Properties (Assam.txt)	3 BHK Independent House	Jorhat Sector 3	Jorhat / Assam	Independent House / 3 BHK	1611	₹68.78 L	Fully-Furnished	2	Family	Sale
+963	Assam Properties (Assam.txt)	2 BHK Apartment	Jorhat West	Jorhat / Assam	Apartment / 2 BHK	875	₹39 L	Semi-Furnished	1	Any	Sale
+964	Assam Properties (Assam.txt)	2 BHK Apartment	Guwahati Sector 2	Guwahati / Assam	Apartment / 2 BHK	990	₹50.98 L	Fully-Furnished	1	Family	Sale
+965	Assam Properties (Assam.txt)	2 BHK Apartment	Guwahati Sector 3	Guwahati / Assam	Apartment / 2 BHK	800	₹10,500/month	Fully-Furnished	1	Family	Rent
+966	Assam Properties (Assam.txt)	3 BHK Apartment	Dibrugarh East	Dibrugarh / Assam	Apartment / 3 BHK	1677	₹53.84 L	Semi-Furnished	2	Family	Sale
+967	Assam Properties (Assam.txt)	3 BHK Apartment	Jorhat Main Road	Jorhat / Assam	Apartment / 3 BHK	925	₹53.37 L	Semi-Furnished	3	Any	Sale
+968	Assam Properties (Assam.txt)	3 BHK Apartment	Jorhat Sector 1	Jorhat / Assam	Apartment / 3 BHK	1211	₹50.88 L	Fully-Furnished	3	Family	Sale
+969	Assam Properties (Assam.txt)	2 BHK Apartment	Guwahati West	Guwahati / Assam	Apartment / 2 BHK	877	₹39.52 L	Unfurnished	2	Bachelors	Sale
+970	Assam Properties (Assam.txt)	2 BHK Apartment	Jorhat Residential Area	Jorhat / Assam	Apartment / 2 BHK	550	₹9,000/month	Semi-Furnished	1	Family	Rent
+971	Assam Properties (Assam.txt)	3 BHK Apartment	Guwahati Extension	Guwahati / Assam	Apartment / 3 BHK	1135	₹16,400/month	Semi-Furnished	3	Family	Rent
+972	Assam Properties (Assam.txt)	2 BHK Independent House	Silchar Extension	Silchar / Assam	Independent House / 2 BHK	1018	₹13,700/month	Fully-Furnished	3	Any	Rent
+973	Assam Properties (Assam.txt)	4 BHK Apartment	Silchar Colony	Silchar / Assam	Apartment / 4 BHK	1934	₹71.79 L	Unfurnished	4	Family	Sale
+974	Assam Properties (Assam.txt)	3 BHK Apartment	Silchar Heights	Silchar / Assam	Apartment / 3 BHK	1368	₹68.14 L	Semi-Furnished	3	Any	Sale
+975	Assam Properties (Assam.txt)	2 BHK Apartment	Dibrugarh North	Dibrugarh / Assam	Apartment / 2 BHK	765	₹10,100/month	Semi-Furnished	2	Any	Rent
+976	Assam Properties (Assam.txt)	1 BHK Apartment	Dibrugarh South	Dibrugarh / Assam	Apartment / 1 BHK	512	₹21.28 L	Fully-Furnished	1	Family	Sale
+977	Assam Properties (Assam.txt)	2 BHK Apartment	Dibrugarh Nagar	Dibrugarh / Assam	Apartment / 2 BHK	836	₹33.59 L	Unfurnished	2	Any	Sale
+978	Assam Properties (Assam.txt)	1 BHK Independent House	Jorhat Central	Jorhat / Assam	Independent House / 1 BHK	728	₹28.41 L	Unfurnished	2	Any	Sale
+979	Assam Properties (Assam.txt)	5 BHK Apartment	Dibrugarh East	Dibrugarh / Assam	Apartment / 5 BHK	1906	₹23,700/month	Fully-Furnished	6	Bachelors	Rent
+980	Assam Properties (Assam.txt)	1 BHK Apartment	Dibrugarh Heights	Dibrugarh / Assam	Apartment / 1 BHK	490	₹22.78 L	Semi-Furnished	2	Bachelors	Sale
+981	Assam Properties (Assam.txt)	3 BHK Independent House	Dibrugarh West	Dibrugarh / Assam	Independent House / 3 BHK	1610	₹60.56 L	Fully-Furnished	3	Family	Sale
+982	Assam Properties (Assam.txt)	2 BHK Independent House	Silchar South	Silchar / Assam	Independent House / 2 BHK	1049	₹12,000/month	Fully-Furnished	2	Family	Rent
+983	Assam Properties (Assam.txt)	2 BHK Villa	Silchar Nagar	Silchar / Assam	Villa / 2 BHK	1074	₹52.48 L	Semi-Furnished	1	Any	Sale
+984	Assam Properties (Assam.txt)	2 BHK Apartment	Silchar Nagar	Silchar / Assam	Apartment / 2 BHK	766	₹10,900/month	Fully-Furnished	3	Any	Rent
+985	Assam Properties (Assam.txt)	1 BHK Studio	Guwahati Heights	Guwahati / Assam	Studio / 1 BHK	423	₹27.65 L	Semi-Furnished	1	Family	Sale
+986	Assam Properties (Assam.txt)	3 BHK Apartment	Dibrugarh Sector 3	Dibrugarh / Assam	Apartment / 3 BHK	1097	₹51.82 L	Fully-Furnished	3	Any	Sale
+987	Assam Properties (Assam.txt)	2 BHK Apartment	Jorhat Residential Area	Jorhat / Assam	Apartment / 2 BHK	758	₹46.78 L	Unfurnished	2	Family	Sale
+988	Assam Properties (Assam.txt)	5 BHK Apartment	Guwahati Main Road	Guwahati / Assam	Apartment / 5 BHK	2515	₹23,500/month	Semi-Furnished	4	Family	Rent
+989	Assam Properties (Assam.txt)	2 BHK Villa	Dibrugarh Residential Area	Dibrugarh / Assam	Villa / 2 BHK	1207	₹52.91 L	Fully-Furnished	3	Bachelors	Sale
+990	Assam Properties (Assam.txt)	5 BHK Apartment	Silchar Heights	Silchar / Assam	Apartment / 5 BHK	2542	₹97.89 L	Semi-Furnished	4	Bachelors	Sale
+991	Assam Properties (Assam.txt)	3 BHK Builder Floor	Jorhat Residential Area	Jorhat / Assam	Builder Floor / 3 BHK	1209	₹46.01 L	Fully-Furnished	3	Family	Sale
+992	Assam Properties (Assam.txt)	1 BHK Apartment	Guwahati Heights	Guwahati / Assam	Apartment / 1 BHK	558	₹26.54 L	Fully-Furnished	2	Any	Sale
+993	Assam Properties (Assam.txt)	4 BHK Apartment	Dibrugarh Central	Dibrugarh / Assam	Apartment / 4 BHK	1879	₹69.20 L	Semi-Furnished	3	Bachelors	Sale
+994	Assam Properties (Assam.txt)	3 BHK Apartment	Guwahati West	Guwahati / Assam	Apartment / 3 BHK	940	₹16,700/month	Fully-Furnished	3	Any	Rent
+995	Assam Properties (Assam.txt)	2 BHK Apartment	Jorhat Town Centre	Jorhat / Assam	Apartment / 2 BHK	946	₹10,100/month	Fully-Furnished	1	Family	Rent
+996	Assam Properties (Assam.txt)	1 BHK Apartment	Jorhat Residential Area	Jorhat / Assam	Apartment / 1 BHK	518	₹8,100/month	Fully-Furnished	1	Family	Rent
+997	Assam Properties (Assam.txt)	1 BHK Independent House	Dibrugarh Main Road	Dibrugarh / Assam	Independent House / 1 BHK	662	₹26.17 L	Semi-Furnished	1	Bachelors	Sale
+998	Assam Properties (Assam.txt)	3 BHK Apartment	Guwahati Sector 3	Guwahati / Assam	Apartment / 3 BHK	1196	₹55.84 L	Semi-Furnished	4	Family	Sale
+999	Assam Properties (Assam.txt)	1 BHK Apartment	Dibrugarh Extension	Dibrugarh / Assam	Apartment / 1 BHK	686	₹33.72 L	Fully-Furnished	1	Family	Sale
+1000	Assam Properties (Assam.txt)	1 BHK Independent House	Silchar East	Silchar / Assam	Independent House / 1 BHK	686	₹28.30 L	Unfurnished	1	Family	Sale
+1001	Assam Properties (Assam.txt)	1 BHK Studio	Dibrugarh Extension	Dibrugarh / Assam	Studio / 1 BHK	422	₹28.43 L	Semi-Furnished	1	Family	Sale
+1002	Assam Properties (Assam.txt)	3 BHK Builder Floor	Dibrugarh Heights	Dibrugarh / Assam	Builder Floor / 3 BHK	1238	₹56.75 L	Unfurnished	3	Bachelors	Sale
+1003	Assam Properties (Assam.txt)	1 BHK Apartment	Dibrugarh East	Dibrugarh / Assam	Apartment / 1 BHK	465	₹21.13 L	Unfurnished	1	Family	Sale
+1004	Assam Properties (Assam.txt)	2 BHK Apartment	Dibrugarh Central	Dibrugarh / Assam	Apartment / 2 BHK	789	₹12,200/month	Fully-Furnished	2	Family	Rent
+1005	Assam Properties (Assam.txt)	3 BHK Builder Floor	Silchar East	Silchar / Assam	Builder Floor / 3 BHK	1339	₹52.57 L	Fully-Furnished	4	Any	Sale
+1006	Assam Properties (Assam.txt)	3 BHK Villa	Guwahati Main Road	Guwahati / Assam	Villa / 3 BHK	1435	₹69.37 L	Semi-Furnished	4	Family	Sale
+1007	Assam Properties (Assam.txt)	2 BHK Apartment	Guwahati Nagar	Guwahati / Assam	Apartment / 2 BHK	933	₹12,200/month	Unfurnished	2	Bachelors	Rent
+1008	Assam Properties (Assam.txt)	3 BHK Apartment	Dibrugarh West	Dibrugarh / Assam	Apartment / 3 BHK	1482	₹55.52 L	Unfurnished	4	Bachelors	Sale
+1009	Assam Properties (Assam.txt)	1 BHK Apartment	Silchar Sector 3	Silchar / Assam	Apartment / 1 BHK	458	₹25.72 L	Semi-Furnished	2	Family	Sale
+1010	Assam Properties (Assam.txt)	3 BHK Villa	Dibrugarh Colony	Dibrugarh / Assam	Villa / 3 BHK	1944	₹71.18 L	Semi-Furnished	3	Any	Sale
+1011	Assam Properties (Assam.txt)	1 BHK Apartment	Guwahati Residential Area	Guwahati / Assam	Apartment / 1 BHK	552	₹27.68 L	Fully-Furnished	2	Any	Sale
+1012	Assam Properties (Assam.txt)	2 BHK Builder Floor	Jorhat Heights	Jorhat / Assam	Builder Floor / 2 BHK	1032	₹41.54 L	Fully-Furnished	1	Any	Sale
+1013	Assam Properties (Assam.txt)	3 BHK Apartment	Jorhat Sector 2	Jorhat / Assam	Apartment / 3 BHK	1516	₹15,300/month	Semi-Furnished	3	Any	Rent
+1014	Assam Properties (Assam.txt)	2 BHK Villa	Jorhat Sector 1	Jorhat / Assam	Villa / 2 BHK	815	₹34.74 L	Semi-Furnished	1	Bachelors	Sale
+1015	Assam Properties (Assam.txt)	2 BHK Apartment	Dibrugarh Main Road	Dibrugarh / Assam	Apartment / 2 BHK	815	₹42.50 L	Semi-Furnished	2	Family	Sale
+1016	Assam Properties (Assam.txt)	2 BHK Apartment	Guwahati Central	Guwahati / Assam	Apartment / 2 BHK	871	₹41.22 L	Unfurnished	2	Bachelors	Sale
+1017	Assam Properties (Assam.txt)	2 BHK Apartment	Jorhat East	Jorhat / Assam	Apartment / 2 BHK	935	₹12,000/month	Semi-Furnished	1	Any	Rent
+1018	Assam Properties (Assam.txt)	3 BHK Builder Floor	Jorhat Sector 1	Jorhat / Assam	Builder Floor / 3 BHK	1261	₹59.54 L	Fully-Furnished	3	Bachelors	Sale
+1019	Assam Properties (Assam.txt)	2 BHK Builder Floor	Guwahati Town Centre	Guwahati / Assam	Builder Floor / 2 BHK	959	₹50.12 L	Unfurnished	2	Any	Sale
+1020	Assam Properties (Assam.txt)	1 BHK Apartment	Silchar Central	Silchar / Assam	Apartment / 1 BHK	464	₹8,100/month	Semi-Furnished	1	Bachelors	Rent
+1021	Assam Properties (Assam.txt)	1 BHK Apartment	Dibrugarh Sector 1	Dibrugarh / Assam	Apartment / 1 BHK	574	₹26.88 L	Fully-Furnished	1	Any	Sale
+1022	Assam Properties (Assam.txt)	4 BHK Apartment	Silchar Sector 1	Silchar / Assam	Apartment / 4 BHK	2123	₹23,200/month	Semi-Furnished	4	Bachelors	Rent
+1023	Assam Properties (Assam.txt)	2 BHK Apartment	Silchar Main Road	Silchar / Assam	Apartment / 2 BHK	1022	₹46.25 L	Unfurnished	1	Any	Sale
+1024	Assam Properties (Assam.txt)	3 BHK Apartment	Silchar Residential Area	Silchar / Assam	Apartment / 3 BHK	1248	₹62.57 L	Semi-Furnished	2	Family	Sale
+1025	Assam Properties (Assam.txt)	2 BHK Apartment	Jorhat North	Jorhat / Assam	Apartment / 2 BHK	931	₹37.99 L	Semi-Furnished	2	Family	Sale
+1026	Assam Properties (Assam.txt)	3 BHK Builder Floor	Jorhat Main Road	Jorhat / Assam	Builder Floor / 3 BHK	1296	₹14,500/month	Semi-Furnished	3	Any	Rent
+1027	Assam Properties (Assam.txt)	1 BHK Apartment	Jorhat Sector 2	Jorhat / Assam	Apartment / 1 BHK	557	₹26.60 L	Unfurnished	1	Any	Sale
+1028	Assam Properties (Assam.txt)	3 BHK Independent House	Jorhat South	Jorhat / Assam	Independent House / 3 BHK	1357	₹69.15 L	Unfurnished	2	Bachelors	Sale
+1029	Assam Properties (Assam.txt)	3 BHK Independent House	Guwahati West	Guwahati / Assam	Independent House / 3 BHK	1543	₹16,200/month	Fully-Furnished	3	Family	Rent
+1030	Assam Properties (Assam.txt)	3 BHK Independent House	Silchar South	Silchar / Assam	Independent House / 3 BHK	1403	₹59.97 L	Unfurnished	3	Family	Sale
+1031	Assam Properties (Assam.txt)	4 BHK Independent House	Silchar East	Silchar / Assam	Independent House / 4 BHK	2171	₹91.86 L	Fully-Furnished	5	Bachelors	Sale
+1032	Assam Properties (Assam.txt)	1 BHK Apartment	Silchar Sector 1	Silchar / Assam	Apartment / 1 BHK	587	₹25.53 L	Semi-Furnished	2	Family	Sale
+1033	Assam Properties (Assam.txt)	2 BHK Apartment	Jorhat Extension	Jorhat / Assam	Apartment / 2 BHK	841	₹11,700/month	Semi-Furnished	2	Family	Rent
+1034	Assam Properties (Assam.txt)	2 BHK Apartment	Dibrugarh East	Dibrugarh / Assam	Apartment / 2 BHK	979	₹42.35 L	Fully-Furnished	3	Family	Sale
+1035	Assam Properties (Assam.txt)	2 BHK Builder Floor	Guwahati Main Road	Guwahati / Assam	Builder Floor / 2 BHK	845	₹11,300/month	Unfurnished	2	Family	Rent
+1036	Assam Properties (Assam.txt)	3 BHK Apartment	Silchar Extension	Silchar / Assam	Apartment / 3 BHK	1498	₹15,400/month	Unfurnished	2	Any	Rent
+1037	Assam Properties (Assam.txt)	3 BHK Villa	Guwahati South	Guwahati / Assam	Villa / 3 BHK	1453	₹13,000/month	Fully-Furnished	3	Family	Rent
+1038	Assam Properties (Assam.txt)	1 BHK Apartment	Jorhat Nagar	Jorhat / Assam	Apartment / 1 BHK	527	₹23.17 L	Fully-Furnished	1	Any	Sale
+1039	Assam Properties (Assam.txt)	3 BHK Independent House	Dibrugarh Main Road	Dibrugarh / Assam	Independent House / 3 BHK	1479	₹16,200/month	Fully-Furnished	2	Any	Rent
+1040	Assam Properties (Assam.txt)	2 BHK Villa	Silchar Extension	Silchar / Assam	Villa / 2 BHK	1147	₹51.69 L	Semi-Furnished	2	Bachelors	Sale
+1041	Assam Properties (Assam.txt)	3 BHK Apartment	Jorhat Sector 2	Jorhat / Assam	Apartment / 3 BHK	969	₹54.18 L	Fully-Furnished	3	Any	Sale
+1042	Assam Properties (Assam.txt)	3 BHK Independent House	Dibrugarh Extension	Dibrugarh / Assam	Independent House / 3 BHK	1482	₹17,500/month	Fully-Furnished	2	Family	Rent
+1043	Assam Properties (Assam.txt)	2 BHK Apartment	Guwahati Colony	Guwahati / Assam	Apartment / 2 BHK	898	₹13,700/month	Unfurnished	1	Family	Rent
+1044	Assam Properties (Assam.txt)	5 BHK Independent House	Jorhat East	Jorhat / Assam	Independent House / 5 BHK	3680	₹34,400/month	Fully-Furnished	5	Any	Rent
+1045	Assam Properties (Assam.txt)	3 BHK Apartment	Silchar Residential Area	Silchar / Assam	Apartment / 3 BHK	1388	₹18,500/month	Unfurnished	4	Family	Rent
+1046	Assam Properties (Assam.txt)	1 BHK Independent House	Silchar Colony	Silchar / Assam	Independent House / 1 BHK	581	₹8,300/month	Fully-Furnished	1	Family	Rent
+1047	Assam Properties (Assam.txt)	2 BHK Apartment	Dibrugarh Heights	Dibrugarh / Assam	Apartment / 2 BHK	1054	₹13,600/month	Semi-Furnished	1	Any	Rent
+1048	Assam Properties (Assam.txt)	3 BHK Villa	Silchar West	Silchar / Assam	Villa / 3 BHK	1666	₹15,900/month	Fully-Furnished	3	Bachelors	Rent
+1049	Assam Properties (Assam.txt)	3 BHK Builder Floor	Silchar Town Centre	Silchar / Assam	Builder Floor / 3 BHK	1354	₹16,300/month	Fully-Furnished	3	Any	Rent
+1050	Assam Properties (Assam.txt)	2 BHK Apartment	Dibrugarh Central	Dibrugarh / Assam	Apartment / 2 BHK	1011	₹9,700/month	Semi-Furnished	1	Bachelors	Rent
+1051	Assam Properties (Assam.txt)	3 BHK Villa	Silchar Nagar	Silchar / Assam	Villa / 3 BHK	1634	₹73.14 L	Unfurnished	3	Any	Sale
+1052	Assam Properties (Assam.txt)	3 BHK Apartment	Guwahati South	Guwahati / Assam	Apartment / 3 BHK	1365	₹16,600/month	Semi-Furnished	3	Family	Rent
+1053	Assam Properties (Assam.txt)	3 BHK Independent House	Guwahati Main Road	Guwahati / Assam	Independent House / 3 BHK	1389	₹61.45 L	Fully-Furnished	2	Any	Sale
+1054	Assam Properties (Assam.txt)	2 BHK Apartment	Guwahati Main Road	Guwahati / Assam	Apartment / 2 BHK	828	₹10,900/month	Semi-Furnished	2	Family	Rent
+1055	Assam Properties (Assam.txt)	3 BHK Apartment	Jorhat North	Jorhat / Assam	Apartment / 3 BHK	1216	₹48.06 L	Unfurnished	3	Family	Sale
+1056	Assam Properties (Assam.txt)	2 BHK Apartment	Dibrugarh Residential Area	Dibrugarh / Assam	Apartment / 2 BHK	874	₹9,900/month	Fully-Furnished	2	Any	Rent
+1057	Assam Properties (Assam.txt)	1 BHK Apartment	Jorhat Residential Area	Jorhat / Assam	Apartment / 1 BHK	466	₹24.79 L	Fully-Furnished	2	Bachelors	Sale
+1058	Assam Properties (Assam.txt)	5 BHK Builder Floor	Jorhat Town Centre	Jorhat / Assam	Builder Floor / 5 BHK	1862	₹88.63 L	Unfurnished	4	Family	Sale
+1059	Assam Properties (Assam.txt)	4 BHK Villa	Dibrugarh Sector 3	Dibrugarh / Assam	Villa / 4 BHK	2178	₹83.29 L	Unfurnished	5	Family	Sale
+1060	Assam Properties (Assam.txt)	1 BHK Apartment	Dibrugarh North	Dibrugarh / Assam	Apartment / 1 BHK	583	₹27.85 L	Fully-Furnished	1	Family	Sale
+1061	Assam Properties (Assam.txt)	1 BHK Apartment	Guwahati South	Guwahati / Assam	Apartment / 1 BHK	563	₹25.91 L	Semi-Furnished	1	Family	Sale
+1062	Assam Properties (Assam.txt)	1 BHK Independent House	Jorhat Central	Jorhat / Assam	Independent House / 1 BHK	708	₹8,100/month	Unfurnished	1	Family	Rent
+1063	Assam Properties (Assam.txt)	2 BHK Apartment	Dibrugarh Town Centre	Dibrugarh / Assam	Apartment / 2 BHK	679	₹33.43 L	Fully-Furnished	2	Bachelors	Sale
+1064	Assam Properties (Assam.txt)	3 BHK Apartment	Jorhat Nagar	Jorhat / Assam	Apartment / 3 BHK	1254	₹14,600/month	Fully-Furnished	4	Any	Rent
+1065	Assam Properties (Assam.txt)	4 BHK Builder Floor	Jorhat Sector 1	Jorhat / Assam	Builder Floor / 4 BHK	1629	₹65.07 L	Semi-Furnished	5	Family	Sale
+1066	Assam Properties (Assam.txt)	2 BHK Apartment	Jorhat Sector 3	Jorhat / Assam	Apartment / 2 BHK	936	₹34.83 L	Fully-Furnished	2	Bachelors	Sale
+1067	Assam Properties (Assam.txt)	2 BHK Apartment	Jorhat East	Jorhat / Assam	Apartment / 2 BHK	649	₹45.76 L	Unfurnished	2	Any	Sale
+1068	Assam Properties (Assam.txt)	5 BHK Apartment	Silchar North	Silchar / Assam	Apartment / 5 BHK	2188	₹26,900/month	Unfurnished	5	Bachelors	Rent
+1069	Assam Properties (Assam.txt)	3 BHK Apartment	Dibrugarh Sector 1	Dibrugarh / Assam	Apartment / 3 BHK	1396	₹15,500/month	Semi-Furnished	4	Bachelors	Rent
+1070	Assam Properties (Assam.txt)	2 BHK Independent House	Dibrugarh East	Dibrugarh / Assam	Independent House / 2 BHK	693	₹10,100/month	Semi-Furnished	3	Family	Rent
+1071	Assam Properties (Assam.txt)	2 BHK Independent House	Guwahati Extension	Guwahati / Assam	Independent House / 2 BHK	794	₹9,200/month	Fully-Furnished	3	Family	Rent
+1072	Assam Properties (Assam.txt)	2 BHK Apartment	Guwahati Town Centre	Guwahati / Assam	Apartment / 2 BHK	692	₹38.48 L	Semi-Furnished	3	Bachelors	Sale
+1073	Assam Properties (Assam.txt)	2 BHK Apartment	Jorhat Residential Area	Jorhat / Assam	Apartment / 2 BHK	775	₹12,100/month	Unfurnished	2	Any	Rent
+1074	Assam Properties (Assam.txt)	4 BHK Villa	Dibrugarh East	Dibrugarh / Assam	Villa / 4 BHK	2470	₹18,400/month	Fully-Furnished	4	Bachelors	Rent
+1075	Assam Properties (Assam.txt)	2 BHK Villa	Dibrugarh West	Dibrugarh / Assam	Villa / 2 BHK	903	₹42.49 L	Semi-Furnished	3	Family	Sale
+1076	Assam Properties (Assam.txt)	2 BHK Independent House	Dibrugarh Residential Area	Dibrugarh / Assam	Independent House / 2 BHK	1067	₹40.80 L	Unfurnished	2	Family	Sale
+1077	Assam Properties (Assam.txt)	2 BHK Apartment	Jorhat Colony	Jorhat / Assam	Apartment / 2 BHK	631	₹9,900/month	Unfurnished	1	Family	Rent
+1078	Assam Properties (Assam.txt)	4 BHK Apartment	Jorhat East	Jorhat / Assam	Apartment / 4 BHK	1728	₹67.29 L	Fully-Furnished	3	Any	Sale
+1079	Assam Properties (Assam.txt)	2 BHK Apartment	Silchar North	Silchar / Assam	Apartment / 2 BHK	802	₹11,900/month	Unfurnished	2	Bachelors	Rent
+1080	Assam Properties (Assam.txt)	2 BHK Independent House	Dibrugarh North	Dibrugarh / Assam	Independent House / 2 BHK	842	₹9,500/month	Semi-Furnished	2	Family	Rent
+1081	Assam Properties (Assam.txt)	1 BHK Apartment	Silchar Sector 2	Silchar / Assam	Apartment / 1 BHK	479	₹23.41 L	Semi-Furnished	1	Family	Sale
+1082	Assam Properties (Assam.txt)	1 BHK Independent House	Guwahati North	Guwahati / Assam	Independent House / 1 BHK	550	₹22.78 L	Fully-Furnished	2	Any	Sale
+1083	Assam Properties (Assam.txt)	3 BHK Apartment	Dibrugarh Sector 1	Dibrugarh / Assam	Apartment / 3 BHK	1216	₹46.98 L	Fully-Furnished	4	Family	Sale
+1084	Assam Properties (Assam.txt)	2 BHK Apartment	Silchar Sector 1	Silchar / Assam	Apartment / 2 BHK	835	₹11,900/month	Semi-Furnished	2	Family	Rent
+1085	Assam Properties (Assam.txt)	2 BHK Apartment	Silchar South	Silchar / Assam	Apartment / 2 BHK	791	₹41.30 L	Semi-Furnished	1	Family	Sale
+1086	Assam Properties (Assam.txt)	2 BHK Apartment	Guwahati Colony	Guwahati / Assam	Apartment / 2 BHK	763	₹10,900/month	Unfurnished	2	Any	Rent
+1087	Assam Properties (Assam.txt)	2 BHK Apartment	Dibrugarh Main Road	Dibrugarh / Assam	Apartment / 2 BHK	951	₹37.92 L	Semi-Furnished	2	Bachelors	Sale
+1088	Assam Properties (Assam.txt)	3 BHK Independent House	Silchar Heights	Silchar / Assam	Independent House / 3 BHK	1552	₹56.02 L	Semi-Furnished	3	Family	Sale
+1089	Assam Properties (Assam.txt)	2 BHK Villa	Dibrugarh Main Road	Dibrugarh / Assam	Villa / 2 BHK	970	₹13,700/month	Fully-Furnished	3	Family	Rent
+1090	Assam Properties (Assam.txt)	3 BHK Villa	Silchar Residential Area	Silchar / Assam	Villa / 3 BHK	1805	₹18,900/month	Unfurnished	4	Family	Rent
+1091	Assam Properties (Assam.txt)	2 BHK Apartment	Silchar North	Silchar / Assam	Apartment / 2 BHK	660	₹37.14 L	Semi-Furnished	2	Any	Sale
+1092	Assam Properties (Assam.txt)	2 BHK Independent House	Silchar South	Silchar / Assam	Independent House / 2 BHK	1059	₹10,500/month	Unfurnished	1	Family	Rent
+1093	Assam Properties (Assam.txt)	1 BHK Apartment	Dibrugarh Main Road	Dibrugarh / Assam	Apartment / 1 BHK	495	₹7,500/month	Fully-Furnished	1	Bachelors	Rent
+1094	Assam Properties (Assam.txt)	2 BHK Builder Floor	Jorhat Heights	Jorhat / Assam	Builder Floor / 2 BHK	854	₹48.79 L	Semi-Furnished	1	Any	Sale
+1095	Assam Properties (Assam.txt)	1 BHK Apartment	Guwahati North	Guwahati / Assam	Apartment / 1 BHK	512	₹29.08 L	Fully-Furnished	2	Family	Sale
+1096	Assam Properties (Assam.txt)	4 BHK Independent House	Guwahati South	Guwahati / Assam	Independent House / 4 BHK	2115	₹93.19 L	Unfurnished	3	Family	Sale
+1097	Assam Properties (Assam.txt)	3 BHK Apartment	Jorhat South	Jorhat / Assam	Apartment / 3 BHK	1446	₹49.16 L	Fully-Furnished	3	Any	Sale
+1098	Assam Properties (Assam.txt)	3 BHK Apartment	Jorhat South	Jorhat / Assam	Apartment / 3 BHK	817	₹57.20 L	Semi-Furnished	4	Any	Sale
+1099	Assam Properties (Assam.txt)	3 BHK Apartment	Guwahati South	Guwahati / Assam	Apartment / 3 BHK	1019	₹58.60 L	Unfurnished	3	Any	Sale
+1100	Assam Properties (Assam.txt)	4 BHK Builder Floor	Jorhat Main Road	Jorhat / Assam	Builder Floor / 4 BHK	1763	₹23,000/month	Fully-Furnished	4	Bachelors	Rent
+1101	Assam Properties (Assam.txt)	5 BHK Independent House	Guwahati Heights	Guwahati / Assam	Independent House / 5 BHK	2930	₹79.33 L	Semi-Furnished	4	Family	Sale
+1102	Assam Properties (Assam.txt)	3 BHK Apartment	Jorhat Residential Area	Jorhat / Assam	Apartment / 3 BHK	1510	₹57.82 L	Fully-Furnished	4	Bachelors	Sale
+1103	Assam Properties (Assam.txt)	1 BHK Apartment	Guwahati Main Road	Guwahati / Assam	Apartment / 1 BHK	712	₹26.02 L	Semi-Furnished	1	Family	Sale
+1104	Assam Properties (Assam.txt)	2 BHK Apartment	Silchar Residential Area	Silchar / Assam	Apartment / 2 BHK	845	₹40.62 L	Fully-Furnished	1	Family	Sale
+1105	Assam Properties (Assam.txt)	3 BHK Independent House	Silchar Colony	Silchar / Assam	Independent House / 3 BHK	1262	₹17,300/month	Semi-Furnished	2	Any	Rent
+1106	Assam Properties (Assam.txt)	1 BHK Studio	Dibrugarh Nagar	Dibrugarh / Assam	Studio / 1 BHK	415	₹24.98 L	Unfurnished	1	Any	Sale
+1107	Assam Properties (Assam.txt)	2 BHK Independent House	Silchar Colony	Silchar / Assam	Independent House / 2 BHK	798	₹48.05 L	Semi-Furnished	2	Any	Sale
+1108	Assam Properties (Assam.txt)	3 BHK Independent House	Guwahati North	Guwahati / Assam	Independent House / 3 BHK	1873	₹15,300/month	Semi-Furnished	3	Bachelors	Rent
+1109	Assam Properties (Assam.txt)	4 BHK Independent House	Dibrugarh Sector 3	Dibrugarh / Assam	Independent House / 4 BHK	2079	₹20,500/month	Unfurnished	4	Any	Rent
+1110	Assam Properties (Assam.txt)	2 BHK Independent House	Silchar Sector 2	Silchar / Assam	Independent House / 2 BHK	894	₹9,600/month	Fully-Furnished	2	Family	Rent
+1111	Assam Properties (Assam.txt)	4 BHK Apartment	Silchar Central	Silchar / Assam	Apartment / 4 BHK	1558	₹69.71 L	Semi-Furnished	5	Family	Sale
+1112	Assam Properties (Assam.txt)	2 BHK Apartment	Dibrugarh Town Centre	Dibrugarh / Assam	Apartment / 2 BHK	741	₹34.45 L	Semi-Furnished	1	Family	Sale
+1113	Assam Properties (Assam.txt)	1 BHK Apartment	Dibrugarh Residential Area	Dibrugarh / Assam	Apartment / 1 BHK	545	₹24.64 L	Semi-Furnished	2	Family	Sale
+1114	Assam Properties (Assam.txt)	2 BHK Independent House	Dibrugarh Sector 2	Dibrugarh / Assam	Independent House / 2 BHK	1108	₹48.11 L	Fully-Furnished	2	Family	Sale
+1115	Assam Properties (Assam.txt)	5 BHK Independent House	Dibrugarh South	Dibrugarh / Assam	Independent House / 5 BHK	2913	₹23,300/month	Semi-Furnished	4	Family	Rent
+1116	Assam Properties (Assam.txt)	1 BHK Builder Floor	Guwahati Colony	Guwahati / Assam	Builder Floor / 1 BHK	501	₹28.67 L	Semi-Furnished	1	Family	Sale
+1117	Assam Properties (Assam.txt)	2 BHK Independent House	Dibrugarh Colony	Dibrugarh / Assam	Independent House / 2 BHK	1153	₹13,100/month	Semi-Furnished	2	Family	Rent
+1118	Assam Properties (Assam.txt)	4 BHK Independent House	Silchar East	Silchar / Assam	Independent House / 4 BHK	2261	₹18,300/month	Semi-Furnished	3	Bachelors	Rent
+1119	Assam Properties (Assam.txt)	2 BHK Apartment	Dibrugarh South	Dibrugarh / Assam	Apartment / 2 BHK	812	₹34.87 L	Semi-Furnished	1	Bachelors	Sale
+1120	Assam Properties (Assam.txt)	2 BHK Apartment	Guwahati Sector 3	Guwahati / Assam	Apartment / 2 BHK	797	₹46.02 L	Semi-Furnished	3	Any	Sale
+1121	Assam Properties (Assam.txt)	4 BHK Apartment	Guwahati West	Guwahati / Assam	Apartment / 4 BHK	1884	₹20,900/month	Unfurnished	4	Bachelors	Rent
+1122	Assam Properties (Assam.txt)	3 BHK Apartment	Silchar East	Silchar / Assam	Apartment / 3 BHK	1716	₹74.46 L	Unfurnished	4	Bachelors	Sale
+1123	Assam Properties (Assam.txt)	3 BHK Apartment	Silchar Central	Silchar / Assam	Apartment / 3 BHK	1190	₹58.55 L	Semi-Furnished	3	Any	Sale
+1124	Assam Properties (Assam.txt)	3 BHK Apartment	Silchar Heights	Silchar / Assam	Apartment / 3 BHK	1030	₹53.45 L	Fully-Furnished	3	Any	Sale
+1125	Assam Properties (Assam.txt)	3 BHK Builder Floor	Dibrugarh Sector 1	Dibrugarh / Assam	Builder Floor / 3 BHK	1019	₹63.54 L	Unfurnished	3	Any	Sale
+1126	Assam Properties (Assam.txt)	2 BHK Apartment	Guwahati Sector 1	Guwahati / Assam	Apartment / 2 BHK	747	₹12,800/month	Semi-Furnished	1	Family	Rent
+1127	Assam Properties (Assam.txt)	2 BHK Apartment	Dibrugarh Sector 3	Dibrugarh / Assam	Apartment / 2 BHK	937	₹34.52 L	Semi-Furnished	2	Any	Sale
+1128	Assam Properties (Assam.txt)	2 BHK Villa	Jorhat Central	Jorhat / Assam	Villa / 2 BHK	1253	₹50.78 L	Unfurnished	3	Any	Sale
+1129	Assam Properties (Assam.txt)	3 BHK Apartment	Dibrugarh Sector 1	Dibrugarh / Assam	Apartment / 3 BHK	1191	₹14,700/month	Unfurnished	2	Bachelors	Rent
+1130	Assam Properties (Assam.txt)	2 BHK Independent House	Jorhat Sector 1	Jorhat / Assam	Independent House / 2 BHK	1065	₹37.38 L	Unfurnished	2	Any	Sale
+1131	Assam Properties (Assam.txt)	2 BHK Independent House	Jorhat Central	Jorhat / Assam	Independent House / 2 BHK	900	₹43.12 L	Fully-Furnished	2	Bachelors	Sale
+1132	Assam Properties (Assam.txt)	3 BHK Builder Floor	Silchar Sector 3	Silchar / Assam	Builder Floor / 3 BHK	1275	₹12,900/month	Fully-Furnished	3	Any	Rent
+1133	Assam Properties (Assam.txt)	2 BHK Apartment	Dibrugarh South	Dibrugarh / Assam	Apartment / 2 BHK	857	₹9,700/month	Fully-Furnished	2	Family	Rent
+1134	Assam Properties (Assam.txt)	4 BHK Independent House	Jorhat Residential Area	Jorhat / Assam	Independent House / 4 BHK	2281	₹95.49 L	Unfurnished	4	Family	Sale
+1135	Assam Properties (Assam.txt)	2 BHK Independent House	Dibrugarh Heights	Dibrugarh / Assam	Independent House / 2 BHK	1048	₹40.10 L	Unfurnished	2	Family	Sale
+1136	Assam Properties (Assam.txt)	5 BHK Apartment	Guwahati Extension	Guwahati / Assam	Apartment / 5 BHK	2562	₹30,000/month	Semi-Furnished	6	Bachelors	Rent
+1137	Assam Properties (Assam.txt)	3 BHK Apartment	Guwahati Extension	Guwahati / Assam	Apartment / 3 BHK	1361	₹13,200/month	Semi-Furnished	3	Any	Rent
+1138	Assam Properties (Assam.txt)	3 BHK Villa	Dibrugarh Nagar	Dibrugarh / Assam	Villa / 3 BHK	1834	₹72.24 L	Unfurnished	3	Family	Sale
+1139	Assam Properties (Assam.txt)	3 BHK Apartment	Dibrugarh Residential Area	Dibrugarh / Assam	Apartment / 3 BHK	1037	₹54.76 L	Semi-Furnished	3	Family	Sale
+1140	Assam Properties (Assam.txt)	3 BHK Apartment	Dibrugarh Colony	Dibrugarh / Assam	Apartment / 3 BHK	1166	₹62.43 L	Fully-Furnished	3	Family	Sale
+1141	Assam Properties (Assam.txt)	2 BHK Apartment	Silchar Central	Silchar / Assam	Apartment / 2 BHK	651	₹43.31 L	Unfurnished	1	Family	Sale
+1142	Assam Properties (Assam.txt)	4 BHK Independent House	Dibrugarh North	Dibrugarh / Assam	Independent House / 4 BHK	1806	₹23,000/month	Semi-Furnished	4	Family	Rent
+1143	Assam Properties (Assam.txt)	3 BHK Builder Floor	Dibrugarh West	Dibrugarh / Assam	Builder Floor / 3 BHK	1189	₹63.58 L	Semi-Furnished	3	Any	Sale
+1144	Assam Properties (Assam.txt)	5 BHK Apartment	Jorhat Sector 3	Jorhat / Assam	Apartment / 5 BHK	2254	₹1.04 Cr	Unfurnished	5	Bachelors	Sale
+1145	Assam Properties (Assam.txt)	2 BHK Apartment	Dibrugarh Town Centre	Dibrugarh / Assam	Apartment / 2 BHK	887	₹12,300/month	Semi-Furnished	1	Family	Rent
+1146	Assam Properties (Assam.txt)	5 BHK Apartment	Guwahati Town Centre	Guwahati / Assam	Apartment / 5 BHK	2167	₹88.43 L	Semi-Furnished	5	Family	Sale
+1147	Assam Properties (Assam.txt)	4 BHK Independent House	Jorhat Sector 1	Jorhat / Assam	Independent House / 4 BHK	2040	₹73.26 L	Fully-Furnished	4	Family	Sale
+1148	Assam Properties (Assam.txt)	2 BHK Apartment	Dibrugarh Sector 2	Dibrugarh / Assam	Apartment / 2 BHK	1018	₹48.45 L	Fully-Furnished	2	Family	Sale
+1149	Assam Properties (Assam.txt)	1 BHK Apartment	Guwahati West	Guwahati / Assam	Apartment / 1 BHK	541	₹8,100/month	Fully-Furnished	1	Any	Rent
+1150	Assam Properties (Assam.txt)	2 BHK Apartment	Jorhat Nagar	Jorhat / Assam	Apartment / 2 BHK	780	₹12,600/month	Fully-Furnished	2	Family	Rent
+1151	Assam Properties (Assam.txt)	1 BHK Apartment	Silchar East	Silchar / Assam	Apartment / 1 BHK	617	₹8,000/month	Fully-Furnished	1	Bachelors	Rent
+1152	Assam Properties (Assam.txt)	1 BHK Apartment	Silchar Sector 2	Silchar / Assam	Apartment / 1 BHK	529	₹26.30 L	Semi-Furnished	1	Family	Sale
+1153	Assam Properties (Assam.txt)	2 BHK Villa	Jorhat Heights	Jorhat / Assam	Villa / 2 BHK	1288	₹10,600/month	Fully-Furnished	1	Family	Rent
+1154	Assam Properties (Assam.txt)	1 BHK Studio	Silchar Sector 1	Silchar / Assam	Studio / 1 BHK	340	₹5,700/month	Fully-Furnished	1	Family	Rent
+1155	Assam Properties (Assam.txt)	3 BHK Builder Floor	Guwahati East	Guwahati / Assam	Builder Floor / 3 BHK	1329	₹14,900/month	Fully-Furnished	4	Any	Rent
+1156	Assam Properties (Assam.txt)	2 BHK Independent House	Jorhat Town Centre	Jorhat / Assam	Independent House / 2 BHK	1079	₹49.74 L	Unfurnished	2	Bachelors	Sale
+1157	Assam Properties (Assam.txt)	2 BHK Builder Floor	Guwahati Extension	Guwahati / Assam	Builder Floor / 2 BHK	748	₹44.76 L	Fully-Furnished	2	Family	Sale
+1158	Assam Properties (Assam.txt)	3 BHK Apartment	Guwahati Sector 2	Guwahati / Assam	Apartment / 3 BHK	1217	₹48.06 L	Fully-Furnished	3	Family	Sale
+1159	Assam Properties (Assam.txt)	4 BHK Apartment	Silchar Extension	Silchar / Assam	Apartment / 4 BHK	2372	₹17,800/month	Unfurnished	4	Any	Rent
+1160	Assam Properties (Assam.txt)	3 BHK Independent House	Dibrugarh East	Dibrugarh / Assam	Independent House / 3 BHK	1651	₹53.87 L	Fully-Furnished	3	Family	Sale
+1161	Assam Properties (Assam.txt)	3 BHK Apartment	Guwahati Central	Guwahati / Assam	Apartment / 3 BHK	1345	₹16,700/month	Semi-Furnished	3	Family	Rent
+1162	Assam Properties (Assam.txt)	2 BHK Apartment	Guwahati Sector 1	Guwahati / Assam	Apartment / 2 BHK	622	₹9,200/month	Semi-Furnished	2	Any	Rent
+1163	Assam Properties (Assam.txt)	3 BHK Apartment	Dibrugarh Town Centre	Dibrugarh / Assam	Apartment / 3 BHK	1033	₹59.02 L	Semi-Furnished	3	Family	Sale
+1164	Assam Properties (Assam.txt)	1 BHK Studio	Guwahati Sector 3	Guwahati / Assam	Studio / 1 BHK	357	₹20.91 L	Unfurnished	1	Family	Sale
+1165	Assam Properties (Assam.txt)	1 BHK Apartment	Guwahati Heights	Guwahati / Assam	Apartment / 1 BHK	525	₹22.81 L	Semi-Furnished	2	Family	Sale
+1166	Assam Properties (Assam.txt)	3 BHK Apartment	Dibrugarh Sector 2	Dibrugarh / Assam	Apartment / 3 BHK	1304	₹13,400/month	Unfurnished	3	Family	Rent
+1167	Assam Properties (Assam.txt)	3 BHK Apartment	Silchar Extension	Silchar / Assam	Apartment / 3 BHK	1410	₹56.70 L	Fully-Furnished	3	Family	Sale
+1168	Assam Properties (Assam.txt)	3 BHK Builder Floor	Guwahati Central	Guwahati / Assam	Builder Floor / 3 BHK	1300	₹59.42 L	Semi-Furnished	3	Bachelors	Sale
+1169	Assam Properties (Assam.txt)	3 BHK Independent House	Guwahati Extension	Guwahati / Assam	Independent House / 3 BHK	1284	₹55.24 L	Semi-Furnished	3	Family	Sale
+1170	Assam Properties (Assam.txt)	3 BHK Builder Floor	Jorhat Sector 1	Jorhat / Assam	Builder Floor / 3 BHK	1275	₹50.36 L	Unfurnished	3	Bachelors	Sale
+1171	Assam Properties (Assam.txt)	1 BHK Villa	Dibrugarh East	Dibrugarh / Assam	Villa / 1 BHK	642	₹29.51 L	Semi-Furnished	1	Bachelors	Sale

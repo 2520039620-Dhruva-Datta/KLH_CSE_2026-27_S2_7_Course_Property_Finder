@@ -1,0 +1,1172 @@
+No.	Source	Property	Location	City / State	Type / Config	Area	Price / Rent	Furnishing	Bathrooms	Tennants	Listing Type
+1	Goa Properties (Goa.txt)	3 BHK Builder Floor	Panaji Extension	Panaji / Goa	Builder Floor / 3 BHK	1550	₹1.11 Cr	Fully-Furnished	4	Family	Sale
+2	Goa Properties (Goa.txt)	2 BHK Apartment	Vasco da Gama South	Vasco da Gama / Goa	Apartment / 2 BHK	729	₹17,600/month	Unfurnished	3	Family	Rent
+3	Goa Properties (Goa.txt)	1 BHK Studio	Vasco da Gama Heights	Vasco da Gama / Goa	Studio / 1 BHK	427	₹42.11 L	Semi-Furnished	1	Bachelors	Sale
+4	Goa Properties (Goa.txt)	4 BHK Apartment	Vasco da Gama West	Vasco da Gama / Goa	Apartment / 4 BHK	1666	₹1.22 Cr	Semi-Furnished	4	Family	Sale
+5	Goa Properties (Goa.txt)	2 BHK Builder Floor	Mapusa Heights	Mapusa / Goa	Builder Floor / 2 BHK	906	₹20,900/month	Semi-Furnished	2	Any	Rent
+6	Goa Properties (Goa.txt)	3 BHK Apartment	Margao Main Road	Margao / Goa	Apartment / 3 BHK	1168	₹96.61 L	Semi-Furnished	4	Bachelors	Sale
+7	Goa Properties (Goa.txt)	2 BHK Apartment	Margao Residential Area	Margao / Goa	Apartment / 2 BHK	742	₹79.15 L	Unfurnished	2	Family	Sale
+8	Goa Properties (Goa.txt)	3 BHK Apartment	Vasco da Gama North	Vasco da Gama / Goa	Apartment / 3 BHK	1168	₹90.88 L	Fully-Furnished	2	Bachelors	Sale
+9	Goa Properties (Goa.txt)	4 BHK Apartment	Vasco da Gama Nagar	Vasco da Gama / Goa	Apartment / 4 BHK	1622	₹1.06 Cr	Semi-Furnished	4	Family	Sale
+10	Goa Properties (Goa.txt)	1 BHK Apartment	Mapusa Sector 1	Mapusa / Goa	Apartment / 1 BHK	446	₹51.65 L	Semi-Furnished	1	Family	Sale
+11	Goa Properties (Goa.txt)	2 BHK Apartment	Margao Extension	Margao / Goa	Apartment / 2 BHK	780	₹62.76 L	Unfurnished	1	Any	Sale
+12	Goa Properties (Goa.txt)	1 BHK Apartment	Margao Sector 1	Margao / Goa	Apartment / 1 BHK	599	₹13,200/month	Fully-Furnished	1	Bachelors	Rent
+13	Goa Properties (Goa.txt)	2 BHK Independent House	Mapusa Central	Mapusa / Goa	Independent House / 2 BHK	763	₹22,200/month	Semi-Furnished	2	Any	Rent
+14	Goa Properties (Goa.txt)	3 BHK Builder Floor	Vasco da Gama South	Vasco da Gama / Goa	Builder Floor / 3 BHK	1195	₹28,100/month	Unfurnished	3	Bachelors	Rent
+15	Goa Properties (Goa.txt)	2 BHK Independent House	Vasco da Gama Sector 2	Vasco da Gama / Goa	Independent House / 2 BHK	940	₹18,900/month	Unfurnished	1	Any	Rent
+16	Goa Properties (Goa.txt)	1 BHK Apartment	Margao Residential Area	Margao / Goa	Apartment / 1 BHK	504	₹12,500/month	Fully-Furnished	1	Family	Rent
+17	Goa Properties (Goa.txt)	2 BHK Builder Floor	Mapusa Sector 1	Mapusa / Goa	Builder Floor / 2 BHK	722	₹72.53 L	Semi-Furnished	2	Family	Sale
+18	Goa Properties (Goa.txt)	2 BHK Independent House	Mapusa South	Mapusa / Goa	Independent House / 2 BHK	1109	₹17,200/month	Semi-Furnished	2	Bachelors	Rent
+19	Goa Properties (Goa.txt)	2 BHK Builder Floor	Vasco da Gama Main Road	Vasco da Gama / Goa	Builder Floor / 2 BHK	772	₹63.97 L	Unfurnished	1	Family	Sale
+20	Goa Properties (Goa.txt)	1 BHK Independent House	Mapusa Sector 3	Mapusa / Goa	Independent House / 1 BHK	481	₹12,500/month	Semi-Furnished	1	Bachelors	Rent
+21	Goa Properties (Goa.txt)	3 BHK Apartment	Margao Sector 2	Margao / Goa	Apartment / 3 BHK	1634	₹1.13 Cr	Semi-Furnished	4	Family	Sale
+22	Goa Properties (Goa.txt)	2 BHK Builder Floor	Margao Heights	Margao / Goa	Builder Floor / 2 BHK	968	₹67.78 L	Unfurnished	3	Family	Sale
+23	Goa Properties (Goa.txt)	2 BHK Independent House	Panaji West	Panaji / Goa	Independent House / 2 BHK	1009	₹59.76 L	Semi-Furnished	1	Any	Sale
+24	Goa Properties (Goa.txt)	2 BHK Independent House	Mapusa Nagar	Mapusa / Goa	Independent House / 2 BHK	1021	₹85.16 L	Unfurnished	2	Bachelors	Sale
+25	Goa Properties (Goa.txt)	3 BHK Apartment	Margao Sector 2	Margao / Goa	Apartment / 3 BHK	1085	₹1.05 Cr	Fully-Furnished	4	Family	Sale
+26	Goa Properties (Goa.txt)	4 BHK Independent House	Panaji East	Panaji / Goa	Independent House / 4 BHK	2278	₹1.23 Cr	Fully-Furnished	3	Family	Sale
+27	Goa Properties (Goa.txt)	4 BHK Builder Floor	Vasco da Gama Residential Area	Vasco da Gama / Goa	Builder Floor / 4 BHK	1567	₹1.26 Cr	Semi-Furnished	4	Family	Sale
+28	Goa Properties (Goa.txt)	4 BHK Apartment	Panaji West	Panaji / Goa	Apartment / 4 BHK	1568	₹1.39 Cr	Unfurnished	3	Bachelors	Sale
+29	Goa Properties (Goa.txt)	2 BHK Apartment	Panaji Town Centre	Panaji / Goa	Apartment / 2 BHK	672	₹66.73 L	Semi-Furnished	1	Any	Sale
+30	Goa Properties (Goa.txt)	1 BHK Apartment	Margao Sector 3	Margao / Goa	Apartment / 1 BHK	511	₹11,800/month	Fully-Furnished	1	Family	Rent
+31	Goa Properties (Goa.txt)	2 BHK Apartment	Margao Sector 2	Margao / Goa	Apartment / 2 BHK	803	₹70.29 L	Fully-Furnished	3	Bachelors	Sale
+32	Goa Properties (Goa.txt)	2 BHK Builder Floor	Vasco da Gama Nagar	Vasco da Gama / Goa	Builder Floor / 2 BHK	919	₹60 L	Fully-Furnished	2	Family	Sale
+33	Goa Properties (Goa.txt)	1 BHK Apartment	Mapusa Sector 2	Mapusa / Goa	Apartment / 1 BHK	492	₹11,700/month	Unfurnished	1	Bachelors	Rent
+34	Goa Properties (Goa.txt)	2 BHK Apartment	Mapusa Sector 1	Mapusa / Goa	Apartment / 2 BHK	796	₹20,600/month	Unfurnished	2	Any	Rent
+35	Goa Properties (Goa.txt)	3 BHK Apartment	Margao Sector 3	Margao / Goa	Apartment / 3 BHK	1318	₹22,100/month	Semi-Furnished	3	Bachelors	Rent
+36	Goa Properties (Goa.txt)	2 BHK Independent House	Margao Heights	Margao / Goa	Independent House / 2 BHK	1080	₹17,600/month	Semi-Furnished	3	Family	Rent
+37	Goa Properties (Goa.txt)	3 BHK Apartment	Vasco da Gama Sector 1	Vasco da Gama / Goa	Apartment / 3 BHK	1299	₹21,800/month	Unfurnished	2	Any	Rent
+38	Goa Properties (Goa.txt)	3 BHK Builder Floor	Mapusa North	Mapusa / Goa	Builder Floor / 3 BHK	901	₹98.48 L	Unfurnished	4	Bachelors	Sale
+39	Goa Properties (Goa.txt)	3 BHK Apartment	Margao Sector 1	Margao / Goa	Apartment / 3 BHK	1498	₹92.48 L	Unfurnished	3	Any	Sale
+40	Goa Properties (Goa.txt)	3 BHK Apartment	Panaji Colony	Panaji / Goa	Apartment / 3 BHK	1153	₹88.07 L	Semi-Furnished	3	Bachelors	Sale
+41	Goa Properties (Goa.txt)	1 BHK Apartment	Panaji Main Road	Panaji / Goa	Apartment / 1 BHK	500	₹45.71 L	Semi-Furnished	1	Any	Sale
+42	Goa Properties (Goa.txt)	2 BHK Apartment	Panaji Sector 3	Panaji / Goa	Apartment / 2 BHK	843	₹82.76 L	Fully-Furnished	1	Family	Sale
+43	Goa Properties (Goa.txt)	3 BHK Villa	Panaji West	Panaji / Goa	Villa / 3 BHK	1695	₹33,200/month	Unfurnished	3	Bachelors	Rent
+44	Goa Properties (Goa.txt)	3 BHK Apartment	Mapusa Residential Area	Mapusa / Goa	Apartment / 3 BHK	1676	₹27,500/month	Fully-Furnished	2	Family	Rent
+45	Goa Properties (Goa.txt)	1 BHK Studio	Vasco da Gama Town Centre	Vasco da Gama / Goa	Studio / 1 BHK	378	₹13,200/month	Fully-Furnished	1	Bachelors	Rent
+46	Goa Properties (Goa.txt)	3 BHK Apartment	Margao Sector 1	Margao / Goa	Apartment / 3 BHK	1525	₹1.10 Cr	Semi-Furnished	2	Family	Sale
+47	Goa Properties (Goa.txt)	3 BHK Apartment	Vasco da Gama Extension	Vasco da Gama / Goa	Apartment / 3 BHK	1383	₹30,700/month	Semi-Furnished	3	Family	Rent
+48	Goa Properties (Goa.txt)	1 BHK Builder Floor	Mapusa North	Mapusa / Goa	Builder Floor / 1 BHK	388	₹13,500/month	Unfurnished	1	Family	Rent
+49	Goa Properties (Goa.txt)	2 BHK Apartment	Margao Town Centre	Margao / Goa	Apartment / 2 BHK	986	₹23,700/month	Semi-Furnished	2	Bachelors	Rent
+50	Goa Properties (Goa.txt)	2 BHK Apartment	Margao South	Margao / Goa	Apartment / 2 BHK	760	₹17,800/month	Fully-Furnished	2	Family	Rent
+51	Goa Properties (Goa.txt)	4 BHK Apartment	Mapusa Sector 2	Mapusa / Goa	Apartment / 4 BHK	2346	₹1.10 Cr	Fully-Furnished	4	Any	Sale
+52	Goa Properties (Goa.txt)	1 BHK Apartment	Panaji Main Road	Panaji / Goa	Apartment / 1 BHK	460	₹47.29 L	Semi-Furnished	1	Any	Sale
+53	Goa Properties (Goa.txt)	2 BHK Builder Floor	Margao Town Centre	Margao / Goa	Builder Floor / 2 BHK	934	₹63.86 L	Fully-Furnished	2	Family	Sale
+54	Goa Properties (Goa.txt)	3 BHK Apartment	Vasco da Gama East	Vasco da Gama / Goa	Apartment / 3 BHK	1381	₹25,300/month	Semi-Furnished	4	Bachelors	Rent
+55	Goa Properties (Goa.txt)	3 BHK Apartment	Mapusa Nagar	Mapusa / Goa	Apartment / 3 BHK	1243	₹25,100/month	Semi-Furnished	2	Family	Rent
+56	Goa Properties (Goa.txt)	2 BHK Apartment	Mapusa East	Mapusa / Goa	Apartment / 2 BHK	629	₹14,500/month	Semi-Furnished	3	Any	Rent
+57	Goa Properties (Goa.txt)	3 BHK Independent House	Panaji Sector 3	Panaji / Goa	Independent House / 3 BHK	1436	₹99.27 L	Semi-Furnished	3	Family	Sale
+58	Goa Properties (Goa.txt)	4 BHK Apartment	Mapusa Town Centre	Mapusa / Goa	Apartment / 4 BHK	1758	₹1.23 Cr	Semi-Furnished	3	Bachelors	Sale
+59	Goa Properties (Goa.txt)	1 BHK Apartment	Panaji West	Panaji / Goa	Apartment / 1 BHK	509	₹14,600/month	Fully-Furnished	1	Family	Rent
+60	Goa Properties (Goa.txt)	2 BHK Apartment	Vasco da Gama Extension	Vasco da Gama / Goa	Apartment / 2 BHK	904	₹21,800/month	Fully-Furnished	2	Family	Rent
+61	Goa Properties (Goa.txt)	4 BHK Builder Floor	Margao Sector 2	Margao / Goa	Builder Floor / 4 BHK	1798	₹31,700/month	Unfurnished	4	Bachelors	Rent
+62	Goa Properties (Goa.txt)	4 BHK Builder Floor	Panaji West	Panaji / Goa	Builder Floor / 4 BHK	1670	₹1.25 Cr	Fully-Furnished	4	Bachelors	Sale
+63	Goa Properties (Goa.txt)	2 BHK Apartment	Mapusa Main Road	Mapusa / Goa	Apartment / 2 BHK	959	₹22,800/month	Semi-Furnished	2	Family	Rent
+64	Goa Properties (Goa.txt)	2 BHK Independent House	Margao Heights	Margao / Goa	Independent House / 2 BHK	892	₹21,200/month	Semi-Furnished	2	Any	Rent
+65	Goa Properties (Goa.txt)	3 BHK Independent House	Mapusa South	Mapusa / Goa	Independent House / 3 BHK	1423	₹31,000/month	Fully-Furnished	2	Bachelors	Rent
+66	Goa Properties (Goa.txt)	1 BHK Studio	Mapusa Central	Mapusa / Goa	Studio / 1 BHK	393	₹45.27 L	Fully-Furnished	1	Family	Sale
+67	Goa Properties (Goa.txt)	2 BHK Builder Floor	Margao Residential Area	Margao / Goa	Builder Floor / 2 BHK	691	₹75.81 L	Fully-Furnished	2	Any	Sale
+68	Goa Properties (Goa.txt)	1 BHK Apartment	Panaji Heights	Panaji / Goa	Apartment / 1 BHK	487	₹37.09 L	Unfurnished	2	Family	Sale
+69	Goa Properties (Goa.txt)	2 BHK Independent House	Margao Sector 1	Margao / Goa	Independent House / 2 BHK	1239	₹23,500/month	Semi-Furnished	2	Family	Rent
+70	Goa Properties (Goa.txt)	3 BHK Independent House	Mapusa Residential Area	Mapusa / Goa	Independent House / 3 BHK	1780	₹1.16 Cr	Semi-Furnished	4	Family	Sale
+71	Goa Properties (Goa.txt)	2 BHK Apartment	Panaji Heights	Panaji / Goa	Apartment / 2 BHK	789	₹66.46 L	Fully-Furnished	2	Family	Sale
+72	Goa Properties (Goa.txt)	3 BHK Apartment	Panaji West	Panaji / Goa	Apartment / 3 BHK	1390	₹1.16 Cr	Semi-Furnished	3	Bachelors	Sale
+73	Goa Properties (Goa.txt)	2 BHK Builder Floor	Margao Extension	Margao / Goa	Builder Floor / 2 BHK	672	₹15,300/month	Unfurnished	2	Family	Rent
+74	Goa Properties (Goa.txt)	1 BHK Builder Floor	Mapusa Colony	Mapusa / Goa	Builder Floor / 1 BHK	519	₹48.98 L	Semi-Furnished	1	Any	Sale
+75	Goa Properties (Goa.txt)	2 BHK Apartment	Margao Sector 1	Margao / Goa	Apartment / 2 BHK	974	₹73.07 L	Semi-Furnished	1	Bachelors	Sale
+76	Goa Properties (Goa.txt)	3 BHK Apartment	Vasco da Gama Nagar	Vasco da Gama / Goa	Apartment / 3 BHK	1136	₹91.99 L	Semi-Furnished	2	Family	Sale
+77	Goa Properties (Goa.txt)	3 BHK Independent House	Mapusa Extension	Mapusa / Goa	Independent House / 3 BHK	1461	₹93.62 L	Semi-Furnished	3	Bachelors	Sale
+78	Goa Properties (Goa.txt)	2 BHK Builder Floor	Margao Extension	Margao / Goa	Builder Floor / 2 BHK	860	₹75.32 L	Semi-Furnished	2	Any	Sale
+79	Goa Properties (Goa.txt)	2 BHK Villa	Mapusa North	Mapusa / Goa	Villa / 2 BHK	1172	₹81.79 L	Semi-Furnished	2	Family	Sale
+80	Goa Properties (Goa.txt)	3 BHK Builder Floor	Mapusa Central	Mapusa / Goa	Builder Floor / 3 BHK	1262	₹1.15 Cr	Semi-Furnished	3	Bachelors	Sale
+81	Goa Properties (Goa.txt)	4 BHK Builder Floor	Panaji Colony	Panaji / Goa	Builder Floor / 4 BHK	2082	₹1.55 Cr	Semi-Furnished	4	Bachelors	Sale
+82	Goa Properties (Goa.txt)	3 BHK Apartment	Mapusa South	Mapusa / Goa	Apartment / 3 BHK	1396	₹29,800/month	Fully-Furnished	4	Any	Rent
+83	Goa Properties (Goa.txt)	2 BHK Apartment	Margao Nagar	Margao / Goa	Apartment / 2 BHK	842	₹57.29 L	Fully-Furnished	1	Bachelors	Sale
+84	Goa Properties (Goa.txt)	3 BHK Villa	Panaji East	Panaji / Goa	Villa / 3 BHK	955	₹89.57 L	Semi-Furnished	3	Bachelors	Sale
+85	Goa Properties (Goa.txt)	2 BHK Apartment	Margao Central	Margao / Goa	Apartment / 2 BHK	936	₹68.88 L	Fully-Furnished	3	Bachelors	Sale
+86	Goa Properties (Goa.txt)	2 BHK Builder Floor	Margao East	Margao / Goa	Builder Floor / 2 BHK	777	₹18,200/month	Semi-Furnished	1	Family	Rent
+87	Goa Properties (Goa.txt)	2 BHK Independent House	Margao Sector 1	Margao / Goa	Independent House / 2 BHK	901	₹59.05 L	Semi-Furnished	2	Any	Sale
+88	Goa Properties (Goa.txt)	2 BHK Independent House	Panaji Central	Panaji / Goa	Independent House / 2 BHK	1002	₹20,500/month	Unfurnished	1	Any	Rent
+89	Goa Properties (Goa.txt)	4 BHK Independent House	Margao Colony	Margao / Goa	Independent House / 4 BHK	1872	₹1.28 Cr	Unfurnished	5	Family	Sale
+90	Goa Properties (Goa.txt)	3 BHK Apartment	Panaji Extension	Panaji / Goa	Apartment / 3 BHK	1150	₹88.15 L	Semi-Furnished	2	Family	Sale
+91	Goa Properties (Goa.txt)	3 BHK Apartment	Panaji Extension	Panaji / Goa	Apartment / 3 BHK	1310	₹1.04 Cr	Fully-Furnished	4	Any	Sale
+92	Goa Properties (Goa.txt)	3 BHK Apartment	Vasco da Gama Central	Vasco da Gama / Goa	Apartment / 3 BHK	1629	₹1.12 Cr	Semi-Furnished	2	Bachelors	Sale
+93	Goa Properties (Goa.txt)	3 BHK Apartment	Margao Heights	Margao / Goa	Apartment / 3 BHK	1328	₹87.66 L	Unfurnished	3	Family	Sale
+94	Goa Properties (Goa.txt)	2 BHK Apartment	Margao Sector 1	Margao / Goa	Apartment / 2 BHK	931	₹74.18 L	Semi-Furnished	2	Family	Sale
+95	Goa Properties (Goa.txt)	2 BHK Apartment	Panaji North	Panaji / Goa	Apartment / 2 BHK	899	₹70.82 L	Semi-Furnished	2	Bachelors	Sale
+96	Goa Properties (Goa.txt)	4 BHK Builder Floor	Mapusa Extension	Mapusa / Goa	Builder Floor / 4 BHK	2013	₹1.08 Cr	Fully-Furnished	3	Any	Sale
+97	Goa Properties (Goa.txt)	2 BHK Builder Floor	Panaji Main Road	Panaji / Goa	Builder Floor / 2 BHK	929	₹17,900/month	Fully-Furnished	1	Any	Rent
+98	Goa Properties (Goa.txt)	3 BHK Apartment	Mapusa Main Road	Mapusa / Goa	Apartment / 3 BHK	1453	₹91.35 L	Unfurnished	4	Family	Sale
+99	Goa Properties (Goa.txt)	4 BHK Independent House	Margao Heights	Margao / Goa	Independent House / 4 BHK	1431	₹36,900/month	Unfurnished	4	Bachelors	Rent
+100	Goa Properties (Goa.txt)	3 BHK Apartment	Margao South	Margao / Goa	Apartment / 3 BHK	1186	₹84.56 L	Fully-Furnished	3	Bachelors	Sale
+101	Goa Properties (Goa.txt)	1 BHK Apartment	Margao Town Centre	Margao / Goa	Apartment / 1 BHK	614	₹38.31 L	Semi-Furnished	2	Any	Sale
+102	Goa Properties (Goa.txt)	3 BHK Builder Floor	Margao Sector 2	Margao / Goa	Builder Floor / 3 BHK	1036	₹21,900/month	Fully-Furnished	3	Family	Rent
+103	Goa Properties (Goa.txt)	1 BHK Apartment	Vasco da Gama Town Centre	Vasco da Gama / Goa	Apartment / 1 BHK	475	₹12,400/month	Semi-Furnished	1	Any	Rent
+104	Goa Properties (Goa.txt)	4 BHK Independent House	Margao Residential Area	Margao / Goa	Independent House / 4 BHK	2049	₹28,700/month	Unfurnished	5	Family	Rent
+105	Goa Properties (Goa.txt)	3 BHK Builder Floor	Margao Town Centre	Margao / Goa	Builder Floor / 3 BHK	1119	₹1.10 Cr	Semi-Furnished	2	Any	Sale
+106	Goa Properties (Goa.txt)	3 BHK Independent House	Panaji Extension	Panaji / Goa	Independent House / 3 BHK	1726	₹1.18 Cr	Fully-Furnished	3	Bachelors	Sale
+107	Goa Properties (Goa.txt)	2 BHK Apartment	Vasco da Gama Colony	Vasco da Gama / Goa	Apartment / 2 BHK	694	₹15,000/month	Semi-Furnished	2	Family	Rent
+108	Goa Properties (Goa.txt)	2 BHK Apartment	Vasco da Gama Heights	Vasco da Gama / Goa	Apartment / 2 BHK	763	₹17,300/month	Semi-Furnished	1	Bachelors	Rent
+109	Goa Properties (Goa.txt)	2 BHK Villa	Vasco da Gama Heights	Vasco da Gama / Goa	Villa / 2 BHK	1660	₹95.08 L	Semi-Furnished	2	Bachelors	Sale
+110	Goa Properties (Goa.txt)	1 BHK Independent House	Vasco da Gama North	Vasco da Gama / Goa	Independent House / 1 BHK	656	₹55.30 L	Semi-Furnished	1	Bachelors	Sale
+111	Goa Properties (Goa.txt)	2 BHK Apartment	Mapusa East	Mapusa / Goa	Apartment / 2 BHK	669	₹20,600/month	Fully-Furnished	3	Any	Rent
+112	Goa Properties (Goa.txt)	3 BHK Independent House	Panaji West	Panaji / Goa	Independent House / 3 BHK	1348	₹95.67 L	Unfurnished	4	Bachelors	Sale
+113	Goa Properties (Goa.txt)	2 BHK Builder Floor	Margao Colony	Margao / Goa	Builder Floor / 2 BHK	840	₹77.66 L	Fully-Furnished	1	Family	Sale
+114	Goa Properties (Goa.txt)	3 BHK Apartment	Panaji Residential Area	Panaji / Goa	Apartment / 3 BHK	1313	₹1.14 Cr	Unfurnished	2	Bachelors	Sale
+115	Goa Properties (Goa.txt)	2 BHK Apartment	Panaji Central	Panaji / Goa	Apartment / 2 BHK	650	₹16,400/month	Semi-Furnished	2	Family	Rent
+116	Goa Properties (Goa.txt)	3 BHK Villa	Mapusa Colony	Mapusa / Goa	Villa / 3 BHK	1609	₹1.20 Cr	Fully-Furnished	3	Bachelors	Sale
+117	Goa Properties (Goa.txt)	4 BHK Apartment	Mapusa Sector 1	Mapusa / Goa	Apartment / 4 BHK	1605	₹35,800/month	Fully-Furnished	4	Any	Rent
+118	Goa Properties (Goa.txt)	3 BHK Apartment	Mapusa Main Road	Mapusa / Goa	Apartment / 3 BHK	1000	₹25,500/month	Semi-Furnished	2	Family	Rent
+119	Goa Properties (Goa.txt)	4 BHK Builder Floor	Mapusa Extension	Mapusa / Goa	Builder Floor / 4 BHK	2075	₹39,800/month	Semi-Furnished	4	Family	Rent
+120	Goa Properties (Goa.txt)	2 BHK Apartment	Panaji Colony	Panaji / Goa	Apartment / 2 BHK	874	₹17,500/month	Fully-Furnished	2	Family	Rent
+121	Goa Properties (Goa.txt)	3 BHK Apartment	Mapusa Heights	Mapusa / Goa	Apartment / 3 BHK	1045	₹24,800/month	Semi-Furnished	3	Any	Rent
+122	Goa Properties (Goa.txt)	4 BHK Apartment	Panaji Town Centre	Panaji / Goa	Apartment / 4 BHK	1784	₹1.42 Cr	Fully-Furnished	4	Family	Sale
+123	Goa Properties (Goa.txt)	3 BHK Independent House	Panaji Main Road	Panaji / Goa	Independent House / 3 BHK	1534	₹85.20 L	Semi-Furnished	3	Family	Sale
+124	Goa Properties (Goa.txt)	1 BHK Studio	Margao Extension	Margao / Goa	Studio / 1 BHK	428	₹10,400/month	Fully-Furnished	1	Bachelors	Rent
+125	Goa Properties (Goa.txt)	3 BHK Independent House	Panaji East	Panaji / Goa	Independent House / 3 BHK	1423	₹1.04 Cr	Fully-Furnished	3	Bachelors	Sale
+126	Goa Properties (Goa.txt)	3 BHK Builder Floor	Margao Nagar	Margao / Goa	Builder Floor / 3 BHK	1256	₹23,900/month	Semi-Furnished	2	Family	Rent
+127	Goa Properties (Goa.txt)	3 BHK Apartment	Panaji Extension	Panaji / Goa	Apartment / 3 BHK	1298	₹1.07 Cr	Unfurnished	3	Family	Sale
+128	Goa Properties (Goa.txt)	3 BHK Villa	Vasco da Gama Residential Area	Vasco da Gama / Goa	Villa / 3 BHK	1341	₹30,700/month	Fully-Furnished	3	Family	Rent
+129	Goa Properties (Goa.txt)	3 BHK Apartment	Vasco da Gama Sector 2	Vasco da Gama / Goa	Apartment / 3 BHK	1124	₹28,800/month	Fully-Furnished	3	Any	Rent
+130	Goa Properties (Goa.txt)	2 BHK Independent House	Vasco da Gama Residential Area	Vasco da Gama / Goa	Independent House / 2 BHK	1105	₹72.11 L	Fully-Furnished	3	Bachelors	Sale
+131	Goa Properties (Goa.txt)	2 BHK Independent House	Mapusa Colony	Mapusa / Goa	Independent House / 2 BHK	1123	₹64.74 L	Semi-Furnished	3	Any	Sale
+132	Goa Properties (Goa.txt)	2 BHK Apartment	Margao Sector 1	Margao / Goa	Apartment / 2 BHK	1029	₹75.45 L	Unfurnished	1	Family	Sale
+133	Goa Properties (Goa.txt)	2 BHK Apartment	Mapusa Extension	Mapusa / Goa	Apartment / 2 BHK	1092	₹20,200/month	Semi-Furnished	3	Family	Rent
+134	Goa Properties (Goa.txt)	4 BHK Apartment	Panaji Extension	Panaji / Goa	Apartment / 4 BHK	1918	₹1.16 Cr	Fully-Furnished	3	Family	Sale
+135	Goa Properties (Goa.txt)	2 BHK Apartment	Margao Central	Margao / Goa	Apartment / 2 BHK	899	₹68.29 L	Semi-Furnished	2	Bachelors	Sale
+136	Goa Properties (Goa.txt)	4 BHK Independent House	Margao Residential Area	Margao / Goa	Independent House / 4 BHK	2007	₹1.50 Cr	Semi-Furnished	4	Family	Sale
+137	Goa Properties (Goa.txt)	3 BHK Independent House	Mapusa Sector 1	Mapusa / Goa	Independent House / 3 BHK	1559	₹32,900/month	Semi-Furnished	3	Bachelors	Rent
+138	Goa Properties (Goa.txt)	1 BHK Studio	Mapusa Nagar	Mapusa / Goa	Studio / 1 BHK	344	₹38.56 L	Semi-Furnished	1	Any	Sale
+139	Goa Properties (Goa.txt)	1 BHK Independent House	Margao Town Centre	Margao / Goa	Independent House / 1 BHK	596	₹10,700/month	Semi-Furnished	1	Any	Rent
+140	Goa Properties (Goa.txt)	3 BHK Apartment	Vasco da Gama Sector 2	Vasco da Gama / Goa	Apartment / 3 BHK	974	₹27,000/month	Unfurnished	4	Bachelors	Rent
+141	Goa Properties (Goa.txt)	1 BHK Studio	Panaji Heights	Panaji / Goa	Studio / 1 BHK	376	₹48.35 L	Semi-Furnished	2	Family	Sale
+142	Goa Properties (Goa.txt)	2 BHK Apartment	Mapusa Heights	Mapusa / Goa	Apartment / 2 BHK	731	₹18,900/month	Semi-Furnished	2	Any	Rent
+143	Goa Properties (Goa.txt)	3 BHK Builder Floor	Margao West	Margao / Goa	Builder Floor / 3 BHK	1124	₹87.03 L	Semi-Furnished	2	Family	Sale
+144	Goa Properties (Goa.txt)	2 BHK Independent House	Vasco da Gama North	Vasco da Gama / Goa	Independent House / 2 BHK	903	₹73.46 L	Semi-Furnished	1	Family	Sale
+145	Goa Properties (Goa.txt)	1 BHK Builder Floor	Mapusa Main Road	Mapusa / Goa	Builder Floor / 1 BHK	605	₹38.55 L	Semi-Furnished	1	Bachelors	Sale
+146	Goa Properties (Goa.txt)	3 BHK Apartment	Mapusa Colony	Mapusa / Goa	Apartment / 3 BHK	885	₹98.98 L	Fully-Furnished	3	Family	Sale
+147	Goa Properties (Goa.txt)	1 BHK Apartment	Margao Residential Area	Margao / Goa	Apartment / 1 BHK	464	₹41.47 L	Unfurnished	1	Family	Sale
+148	Goa Properties (Goa.txt)	3 BHK Apartment	Mapusa Sector 3	Mapusa / Goa	Apartment / 3 BHK	930	₹88.45 L	Semi-Furnished	4	Any	Sale
+149	Goa Properties (Goa.txt)	2 BHK Builder Floor	Vasco da Gama Sector 3	Vasco da Gama / Goa	Builder Floor / 2 BHK	1126	₹87.68 L	Unfurnished	3	Family	Sale
+150	Goa Properties (Goa.txt)	1 BHK Apartment	Margao Residential Area	Margao / Goa	Apartment / 1 BHK	684	₹15,900/month	Fully-Furnished	1	Any	Rent
+151	Goa Properties (Goa.txt)	1 BHK Independent House	Margao Colony	Margao / Goa	Independent House / 1 BHK	794	₹56.36 L	Unfurnished	1	Family	Sale
+152	Goa Properties (Goa.txt)	2 BHK Apartment	Panaji West	Panaji / Goa	Apartment / 2 BHK	910	₹22,700/month	Semi-Furnished	3	Family	Rent
+153	Goa Properties (Goa.txt)	1 BHK Apartment	Panaji North	Panaji / Goa	Apartment / 1 BHK	507	₹12,100/month	Semi-Furnished	1	Any	Rent
+154	Goa Properties (Goa.txt)	2 BHK Apartment	Margao Sector 1	Margao / Goa	Apartment / 2 BHK	847	₹59.16 L	Semi-Furnished	1	Family	Sale
+155	Goa Properties (Goa.txt)	2 BHK Apartment	Mapusa Sector 2	Mapusa / Goa	Apartment / 2 BHK	1018	₹65.35 L	Fully-Furnished	2	Bachelors	Sale
+156	Goa Properties (Goa.txt)	3 BHK Villa	Mapusa South	Mapusa / Goa	Villa / 3 BHK	1673	₹23,700/month	Fully-Furnished	2	Bachelors	Rent
+157	Goa Properties (Goa.txt)	2 BHK Independent House	Panaji West	Panaji / Goa	Independent House / 2 BHK	1050	₹17,200/month	Fully-Furnished	1	Family	Rent
+158	Goa Properties (Goa.txt)	1 BHK Studio	Margao Town Centre	Margao / Goa	Studio / 1 BHK	393	₹47.24 L	Semi-Furnished	1	Family	Sale
+159	Goa Properties (Goa.txt)	2 BHK Apartment	Margao Sector 2	Margao / Goa	Apartment / 2 BHK	713	₹69.21 L	Unfurnished	2	Any	Sale
+160	Goa Properties (Goa.txt)	4 BHK Apartment	Vasco da Gama Town Centre	Vasco da Gama / Goa	Apartment / 4 BHK	1531	₹1.08 Cr	Semi-Furnished	5	Bachelors	Sale
+161	Goa Properties (Goa.txt)	3 BHK Apartment	Vasco da Gama Sector 2	Vasco da Gama / Goa	Apartment / 3 BHK	1535	₹33,100/month	Fully-Furnished	3	Bachelors	Rent
+162	Goa Properties (Goa.txt)	3 BHK Apartment	Margao East	Margao / Goa	Apartment / 3 BHK	1260	₹81.52 L	Semi-Furnished	4	Any	Sale
+163	Goa Properties (Goa.txt)	1 BHK Independent House	Margao Sector 3	Margao / Goa	Independent House / 1 BHK	587	₹11,800/month	Fully-Furnished	1	Any	Rent
+164	Goa Properties (Goa.txt)	2 BHK Apartment	Vasco da Gama South	Vasco da Gama / Goa	Apartment / 2 BHK	596	₹19,900/month	Fully-Furnished	1	Bachelors	Rent
+165	Goa Properties (Goa.txt)	3 BHK Builder Floor	Panaji Heights	Panaji / Goa	Builder Floor / 3 BHK	1082	₹1.01 Cr	Semi-Furnished	3	Any	Sale
+166	Goa Properties (Goa.txt)	2 BHK Independent House	Vasco da Gama North	Vasco da Gama / Goa	Independent House / 2 BHK	921	₹21,900/month	Semi-Furnished	3	Family	Rent
+167	Goa Properties (Goa.txt)	3 BHK Apartment	Mapusa Town Centre	Mapusa / Goa	Apartment / 3 BHK	1338	₹1.03 Cr	Semi-Furnished	3	Family	Sale
+168	Goa Properties (Goa.txt)	1 BHK Independent House	Mapusa Central	Mapusa / Goa	Independent House / 1 BHK	607	₹42.21 L	Fully-Furnished	1	Family	Sale
+169	Goa Properties (Goa.txt)	2 BHK Builder Floor	Margao Main Road	Margao / Goa	Builder Floor / 2 BHK	1214	₹82.07 L	Semi-Furnished	1	Bachelors	Sale
+170	Goa Properties (Goa.txt)	4 BHK Apartment	Panaji Town Centre	Panaji / Goa	Apartment / 4 BHK	2045	₹1.45 Cr	Unfurnished	5	Family	Sale
+171	Goa Properties (Goa.txt)	2 BHK Apartment	Panaji North	Panaji / Goa	Apartment / 2 BHK	849	₹72.48 L	Semi-Furnished	1	Family	Sale
+172	Goa Properties (Goa.txt)	4 BHK Independent House	Margao Extension	Margao / Goa	Independent House / 4 BHK	1841	₹1.46 Cr	Semi-Furnished	5	Family	Sale
+173	Goa Properties (Goa.txt)	3 BHK Apartment	Margao East	Margao / Goa	Apartment / 3 BHK	1308	₹1.07 Cr	Semi-Furnished	3	Family	Sale
+174	Goa Properties (Goa.txt)	3 BHK Independent House	Vasco da Gama Town Centre	Vasco da Gama / Goa	Independent House / 3 BHK	1665	₹86.70 L	Fully-Furnished	3	Any	Sale
+175	Goa Properties (Goa.txt)	3 BHK Apartment	Margao Central	Margao / Goa	Apartment / 3 BHK	1352	₹24,800/month	Fully-Furnished	3	Any	Rent
+176	Goa Properties (Goa.txt)	3 BHK Apartment	Panaji Nagar	Panaji / Goa	Apartment / 3 BHK	1338	₹29,800/month	Fully-Furnished	3	Family	Rent
+177	Goa Properties (Goa.txt)	3 BHK Apartment	Mapusa Residential Area	Mapusa / Goa	Apartment / 3 BHK	1195	₹21,700/month	Fully-Furnished	3	Any	Rent
+178	Goa Properties (Goa.txt)	4 BHK Apartment	Margao East	Margao / Goa	Apartment / 4 BHK	1552	₹1.18 Cr	Semi-Furnished	5	Bachelors	Sale
+179	Goa Properties (Goa.txt)	1 BHK Apartment	Panaji Town Centre	Panaji / Goa	Apartment / 1 BHK	458	₹37.39 L	Fully-Furnished	1	Bachelors	Sale
+180	Goa Properties (Goa.txt)	2 BHK Apartment	Vasco da Gama Main Road	Vasco da Gama / Goa	Apartment / 2 BHK	918	₹78.81 L	Semi-Furnished	2	Any	Sale
+181	Goa Properties (Goa.txt)	3 BHK Villa	Mapusa West	Mapusa / Goa	Villa / 3 BHK	2312	₹1.17 Cr	Semi-Furnished	3	Family	Sale
+182	Goa Properties (Goa.txt)	3 BHK Apartment	Vasco da Gama East	Vasco da Gama / Goa	Apartment / 3 BHK	1080	₹87.23 L	Unfurnished	2	Any	Sale
+183	Goa Properties (Goa.txt)	5 BHK Apartment	Vasco da Gama Heights	Vasco da Gama / Goa	Apartment / 5 BHK	1936	₹34,000/month	Unfurnished	5	Family	Rent
+184	Goa Properties (Goa.txt)	3 BHK Apartment	Panaji South	Panaji / Goa	Apartment / 3 BHK	1313	₹22,700/month	Unfurnished	3	Any	Rent
+185	Goa Properties (Goa.txt)	2 BHK Apartment	Mapusa North	Mapusa / Goa	Apartment / 2 BHK	884	₹68.45 L	Semi-Furnished	2	Family	Sale
+186	Goa Properties (Goa.txt)	2 BHK Independent House	Panaji Extension	Panaji / Goa	Independent House / 2 BHK	1232	₹24,900/month	Fully-Furnished	2	Family	Rent
+187	Goa Properties (Goa.txt)	3 BHK Builder Floor	Vasco da Gama Colony	Vasco da Gama / Goa	Builder Floor / 3 BHK	1139	₹92.61 L	Semi-Furnished	2	Bachelors	Sale
+188	Goa Properties (Goa.txt)	3 BHK Independent House	Mapusa Central	Mapusa / Goa	Independent House / 3 BHK	1620	₹1.03 Cr	Fully-Furnished	3	Bachelors	Sale
+189	Goa Properties (Goa.txt)	4 BHK Villa	Panaji Heights	Panaji / Goa	Villa / 4 BHK	2789	₹1.72 Cr	Semi-Furnished	4	Any	Sale
+190	Goa Properties (Goa.txt)	2 BHK Builder Floor	Vasco da Gama Sector 2	Vasco da Gama / Goa	Builder Floor / 2 BHK	695	₹66.80 L	Semi-Furnished	2	Family	Sale
+191	Goa Properties (Goa.txt)	1 BHK Independent House	Vasco da Gama Sector 2	Vasco da Gama / Goa	Independent House / 1 BHK	551	₹38.42 L	Semi-Furnished	1	Family	Sale
+192	Goa Properties (Goa.txt)	2 BHK Independent House	Mapusa Sector 2	Mapusa / Goa	Independent House / 2 BHK	732	₹60.02 L	Unfurnished	3	Bachelors	Sale
+193	Goa Properties (Goa.txt)	1 BHK Apartment	Panaji Main Road	Panaji / Goa	Apartment / 1 BHK	502	₹43.34 L	Semi-Furnished	1	Bachelors	Sale
+194	Goa Properties (Goa.txt)	2 BHK Apartment	Panaji Sector 1	Panaji / Goa	Apartment / 2 BHK	855	₹59.55 L	Fully-Furnished	2	Family	Sale
+195	Goa Properties (Goa.txt)	3 BHK Independent House	Panaji East	Panaji / Goa	Independent House / 3 BHK	1754	₹25,900/month	Semi-Furnished	3	Bachelors	Rent
+196	Goa Properties (Goa.txt)	2 BHK Apartment	Panaji West	Panaji / Goa	Apartment / 2 BHK	710	₹74.99 L	Semi-Furnished	2	Family	Sale
+197	Goa Properties (Goa.txt)	2 BHK Apartment	Panaji Sector 2	Panaji / Goa	Apartment / 2 BHK	638	₹72.93 L	Unfurnished	2	Family	Sale
+198	Goa Properties (Goa.txt)	3 BHK Apartment	Vasco da Gama Sector 1	Vasco da Gama / Goa	Apartment / 3 BHK	1025	₹1.11 Cr	Fully-Furnished	3	Family	Sale
+199	Goa Properties (Goa.txt)	5 BHK Builder Floor	Vasco da Gama East	Vasco da Gama / Goa	Builder Floor / 5 BHK	2201	₹1.67 Cr	Semi-Furnished	5	Bachelors	Sale
+200	Goa Properties (Goa.txt)	1 BHK Studio	Mapusa North	Mapusa / Goa	Studio / 1 BHK	300	₹10,300/month	Semi-Furnished	1	Bachelors	Rent
+201	Goa Properties (Goa.txt)	4 BHK Apartment	Margao Heights	Margao / Goa	Apartment / 4 BHK	1698	₹1.06 Cr	Semi-Furnished	4	Family	Sale
+202	Goa Properties (Goa.txt)	5 BHK Independent House	Panaji Sector 3	Panaji / Goa	Independent House / 5 BHK	2713	₹1.90 Cr	Unfurnished	5	Family	Sale
+203	Goa Properties (Goa.txt)	3 BHK Villa	Margao Central	Margao / Goa	Villa / 3 BHK	1884	₹1.11 Cr	Fully-Furnished	2	Family	Sale
+204	Goa Properties (Goa.txt)	1 BHK Studio	Margao East	Margao / Goa	Studio / 1 BHK	354	₹44.34 L	Fully-Furnished	1	Bachelors	Sale
+205	Goa Properties (Goa.txt)	2 BHK Apartment	Vasco da Gama Extension	Vasco da Gama / Goa	Apartment / 2 BHK	764	₹75.03 L	Fully-Furnished	1	Family	Sale
+206	Goa Properties (Goa.txt)	1 BHK Independent House	Mapusa South	Mapusa / Goa	Independent House / 1 BHK	544	₹12,600/month	Semi-Furnished	2	Family	Rent
+207	Goa Properties (Goa.txt)	2 BHK Apartment	Panaji East	Panaji / Goa	Apartment / 2 BHK	772	₹19,800/month	Unfurnished	3	Family	Rent
+208	Goa Properties (Goa.txt)	1 BHK Apartment	Margao Colony	Margao / Goa	Apartment / 1 BHK	454	₹37.44 L	Semi-Furnished	1	Any	Sale
+209	Goa Properties (Goa.txt)	5 BHK Apartment	Vasco da Gama Nagar	Vasco da Gama / Goa	Apartment / 5 BHK	3086	₹2 Cr	Fully-Furnished	5	Any	Sale
+210	Goa Properties (Goa.txt)	2 BHK Builder Floor	Mapusa Extension	Mapusa / Goa	Builder Floor / 2 BHK	798	₹18,000/month	Fully-Furnished	2	Bachelors	Rent
+211	Goa Properties (Goa.txt)	2 BHK Apartment	Margao Town Centre	Margao / Goa	Apartment / 2 BHK	833	₹62.80 L	Unfurnished	3	Family	Sale
+212	Goa Properties (Goa.txt)	2 BHK Apartment	Mapusa East	Mapusa / Goa	Apartment / 2 BHK	752	₹76.45 L	Fully-Furnished	3	Family	Sale
+213	Goa Properties (Goa.txt)	2 BHK Apartment	Margao Central	Margao / Goa	Apartment / 2 BHK	831	₹62.23 L	Fully-Furnished	2	Bachelors	Sale
+214	Goa Properties (Goa.txt)	1 BHK Apartment	Mapusa Sector 2	Mapusa / Goa	Apartment / 1 BHK	555	₹12,900/month	Fully-Furnished	1	Any	Rent
+215	Goa Properties (Goa.txt)	3 BHK Apartment	Panaji North	Panaji / Goa	Apartment / 3 BHK	1334	₹24,100/month	Unfurnished	3	Family	Rent
+216	Goa Properties (Goa.txt)	3 BHK Villa	Panaji Extension	Panaji / Goa	Villa / 3 BHK	1490	₹27,600/month	Fully-Furnished	3	Bachelors	Rent
+217	Goa Properties (Goa.txt)	1 BHK Apartment	Vasco da Gama Central	Vasco da Gama / Goa	Apartment / 1 BHK	480	₹52.12 L	Fully-Furnished	2	Bachelors	Sale
+218	Goa Properties (Goa.txt)	3 BHK Apartment	Vasco da Gama Sector 2	Vasco da Gama / Goa	Apartment / 3 BHK	1090	₹1.09 Cr	Semi-Furnished	3	Any	Sale
+219	Goa Properties (Goa.txt)	1 BHK Apartment	Mapusa Heights	Mapusa / Goa	Apartment / 1 BHK	517	₹51.94 L	Semi-Furnished	1	Family	Sale
+220	Goa Properties (Goa.txt)	4 BHK Apartment	Margao Sector 2	Margao / Goa	Apartment / 4 BHK	1474	₹1.37 Cr	Semi-Furnished	4	Family	Sale
+221	Goa Properties (Goa.txt)	3 BHK Apartment	Margao South	Margao / Goa	Apartment / 3 BHK	1084	₹28,900/month	Semi-Furnished	3	Family	Rent
+222	Goa Properties (Goa.txt)	2 BHK Apartment	Panaji Extension	Panaji / Goa	Apartment / 2 BHK	915	₹15,800/month	Semi-Furnished	2	Bachelors	Rent
+223	Goa Properties (Goa.txt)	3 BHK Independent House	Mapusa Extension	Mapusa / Goa	Independent House / 3 BHK	1603	₹85.88 L	Semi-Furnished	4	Family	Sale
+224	Goa Properties (Goa.txt)	4 BHK Apartment	Mapusa Sector 1	Mapusa / Goa	Apartment / 4 BHK	1986	₹36,800/month	Semi-Furnished	3	Family	Rent
+225	Goa Properties (Goa.txt)	3 BHK Apartment	Panaji Sector 3	Panaji / Goa	Apartment / 3 BHK	1441	₹1.13 Cr	Unfurnished	4	Any	Sale
+226	Goa Properties (Goa.txt)	2 BHK Apartment	Margao Residential Area	Margao / Goa	Apartment / 2 BHK	910	₹64.43 L	Fully-Furnished	3	Any	Sale
+227	Goa Properties (Goa.txt)	4 BHK Apartment	Panaji Sector 2	Panaji / Goa	Apartment / 4 BHK	1665	₹32,400/month	Unfurnished	4	Family	Rent
+228	Goa Properties (Goa.txt)	1 BHK Independent House	Vasco da Gama Colony	Vasco da Gama / Goa	Independent House / 1 BHK	499	₹42.70 L	Semi-Furnished	1	Bachelors	Sale
+229	Goa Properties (Goa.txt)	3 BHK Independent House	Mapusa South	Mapusa / Goa	Independent House / 3 BHK	1544	₹1 Cr	Unfurnished	4	Family	Sale
+230	Goa Properties (Goa.txt)	1 BHK Studio	Mapusa Nagar	Mapusa / Goa	Studio / 1 BHK	418	₹49.04 L	Semi-Furnished	1	Bachelors	Sale
+231	Goa Properties (Goa.txt)	2 BHK Independent House	Panaji Extension	Panaji / Goa	Independent House / 2 BHK	1038	₹66.29 L	Semi-Furnished	2	Bachelors	Sale
+232	Goa Properties (Goa.txt)	1 BHK Apartment	Margao Central	Margao / Goa	Apartment / 1 BHK	473	₹14,300/month	Unfurnished	1	Family	Rent
+233	Goa Properties (Goa.txt)	3 BHK Builder Floor	Mapusa South	Mapusa / Goa	Builder Floor / 3 BHK	1196	₹29,000/month	Semi-Furnished	3	Bachelors	Rent
+234	Goa Properties (Goa.txt)	2 BHK Independent House	Mapusa South	Mapusa / Goa	Independent House / 2 BHK	812	₹81.55 L	Semi-Furnished	2	Family	Sale
+235	Goa Properties (Goa.txt)	2 BHK Apartment	Margao Town Centre	Margao / Goa	Apartment / 2 BHK	981	₹79.51 L	Semi-Furnished	2	Bachelors	Sale
+236	Goa Properties (Goa.txt)	2 BHK Builder Floor	Mapusa East	Mapusa / Goa	Builder Floor / 2 BHK	837	₹20,000/month	Fully-Furnished	2	Any	Rent
+237	Goa Properties (Goa.txt)	1 BHK Apartment	Mapusa Sector 2	Mapusa / Goa	Apartment / 1 BHK	587	₹38.11 L	Unfurnished	1	Family	Sale
+238	Goa Properties (Goa.txt)	1 BHK Studio	Mapusa South	Mapusa / Goa	Studio / 1 BHK	389	₹12,600/month	Semi-Furnished	2	Any	Rent
+239	Goa Properties (Goa.txt)	1 BHK Independent House	Panaji Sector 2	Panaji / Goa	Independent House / 1 BHK	648	₹54.73 L	Fully-Furnished	1	Family	Sale
+240	Goa Properties (Goa.txt)	4 BHK Apartment	Panaji Sector 1	Panaji / Goa	Apartment / 4 BHK	1803	₹1.11 Cr	Semi-Furnished	4	Bachelors	Sale
+241	Goa Properties (Goa.txt)	3 BHK Apartment	Vasco da Gama Residential Area	Vasco da Gama / Goa	Apartment / 3 BHK	1268	₹24,700/month	Semi-Furnished	3	Any	Rent
+242	Goa Properties (Goa.txt)	4 BHK Apartment	Panaji Heights	Panaji / Goa	Apartment / 4 BHK	2119	₹38,700/month	Semi-Furnished	4	Any	Rent
+243	Goa Properties (Goa.txt)	1 BHK Apartment	Vasco da Gama Residential Area	Vasco da Gama / Goa	Apartment / 1 BHK	584	₹13,400/month	Semi-Furnished	1	Any	Rent
+244	Goa Properties (Goa.txt)	1 BHK Independent House	Vasco da Gama Central	Vasco da Gama / Goa	Independent House / 1 BHK	423	₹12,800/month	Semi-Furnished	2	Family	Rent
+245	Goa Properties (Goa.txt)	4 BHK Apartment	Mapusa Main Road	Mapusa / Goa	Apartment / 4 BHK	1550	₹1.06 Cr	Fully-Furnished	4	Bachelors	Sale
+246	Goa Properties (Goa.txt)	4 BHK Apartment	Panaji Residential Area	Panaji / Goa	Apartment / 4 BHK	1510	₹35,700/month	Unfurnished	5	Family	Rent
+247	Goa Properties (Goa.txt)	3 BHK Villa	Vasco da Gama West	Vasco da Gama / Goa	Villa / 3 BHK	1942	₹97.93 L	Semi-Furnished	3	Family	Sale
+248	Goa Properties (Goa.txt)	1 BHK Independent House	Mapusa West	Mapusa / Goa	Independent House / 1 BHK	615	₹54.77 L	Unfurnished	2	Family	Sale
+249	Goa Properties (Goa.txt)	5 BHK Independent House	Vasco da Gama Main Road	Vasco da Gama / Goa	Independent House / 5 BHK	3626	₹2.12 Cr	Fully-Furnished	5	Any	Sale
+250	Goa Properties (Goa.txt)	1 BHK Apartment	Mapusa South	Mapusa / Goa	Apartment / 1 BHK	534	₹52.21 L	Semi-Furnished	2	Family	Sale
+251	Goa Properties (Goa.txt)	3 BHK Apartment	Mapusa South	Mapusa / Goa	Apartment / 3 BHK	1385	₹1.05 Cr	Fully-Furnished	3	Bachelors	Sale
+252	Goa Properties (Goa.txt)	4 BHK Independent House	Vasco da Gama Sector 3	Vasco da Gama / Goa	Independent House / 4 BHK	2121	₹1.10 Cr	Fully-Furnished	4	Bachelors	Sale
+253	Goa Properties (Goa.txt)	1 BHK Apartment	Mapusa Heights	Mapusa / Goa	Apartment / 1 BHK	433	₹43.92 L	Fully-Furnished	1	Any	Sale
+254	Goa Properties (Goa.txt)	2 BHK Apartment	Margao Nagar	Margao / Goa	Apartment / 2 BHK	1040	₹22,400/month	Semi-Furnished	2	Bachelors	Rent
+255	Goa Properties (Goa.txt)	3 BHK Apartment	Margao Sector 3	Margao / Goa	Apartment / 3 BHK	785	₹95.08 L	Fully-Furnished	2	Family	Sale
+256	Goa Properties (Goa.txt)	2 BHK Apartment	Panaji Central	Panaji / Goa	Apartment / 2 BHK	749	₹55.53 L	Unfurnished	2	Family	Sale
+257	Goa Properties (Goa.txt)	3 BHK Apartment	Panaji East	Panaji / Goa	Apartment / 3 BHK	1241	₹1.14 Cr	Semi-Furnished	3	Family	Sale
+258	Goa Properties (Goa.txt)	4 BHK Independent House	Vasco da Gama Main Road	Vasco da Gama / Goa	Independent House / 4 BHK	2321	₹1.21 Cr	Semi-Furnished	4	Any	Sale
+259	Goa Properties (Goa.txt)	2 BHK Apartment	Mapusa North	Mapusa / Goa	Apartment / 2 BHK	954	₹64.99 L	Semi-Furnished	1	Family	Sale
+260	Goa Properties (Goa.txt)	3 BHK Builder Floor	Vasco da Gama West	Vasco da Gama / Goa	Builder Floor / 3 BHK	1229	₹1.15 Cr	Semi-Furnished	3	Family	Sale
+261	Goa Properties (Goa.txt)	2 BHK Apartment	Panaji Heights	Panaji / Goa	Apartment / 2 BHK	950	₹18,800/month	Semi-Furnished	2	Any	Rent
+262	Goa Properties (Goa.txt)	2 BHK Independent House	Panaji Heights	Panaji / Goa	Independent House / 2 BHK	931	₹76.39 L	Unfurnished	2	Family	Sale
+263	Goa Properties (Goa.txt)	2 BHK Builder Floor	Margao South	Margao / Goa	Builder Floor / 2 BHK	606	₹73.69 L	Semi-Furnished	2	Any	Sale
+264	Goa Properties (Goa.txt)	2 BHK Apartment	Panaji Sector 3	Panaji / Goa	Apartment / 2 BHK	968	₹18,100/month	Unfurnished	3	Family	Rent
+265	Goa Properties (Goa.txt)	2 BHK Apartment	Vasco da Gama East	Vasco da Gama / Goa	Apartment / 2 BHK	779	₹58.62 L	Fully-Furnished	3	Any	Sale
+266	Goa Properties (Goa.txt)	2 BHK Villa	Panaji Heights	Panaji / Goa	Villa / 2 BHK	846	₹16,400/month	Unfurnished	1	Family	Rent
+267	Goa Properties (Goa.txt)	1 BHK Builder Floor	Panaji Colony	Panaji / Goa	Builder Floor / 1 BHK	523	₹13,900/month	Fully-Furnished	2	Any	Rent
+268	Goa Properties (Goa.txt)	1 BHK Studio	Vasco da Gama North	Vasco da Gama / Goa	Studio / 1 BHK	372	₹12,300/month	Fully-Furnished	2	Any	Rent
+269	Goa Properties (Goa.txt)	3 BHK Apartment	Panaji Nagar	Panaji / Goa	Apartment / 3 BHK	1296	₹1.10 Cr	Unfurnished	4	Bachelors	Sale
+270	Goa Properties (Goa.txt)	2 BHK Apartment	Margao Heights	Margao / Goa	Apartment / 2 BHK	847	₹69.56 L	Fully-Furnished	2	Family	Sale
+271	Goa Properties (Goa.txt)	1 BHK Independent House	Vasco da Gama Central	Vasco da Gama / Goa	Independent House / 1 BHK	635	₹52.33 L	Unfurnished	1	Bachelors	Sale
+272	Goa Properties (Goa.txt)	3 BHK Independent House	Mapusa Colony	Mapusa / Goa	Independent House / 3 BHK	1276	₹87.36 L	Semi-Furnished	4	Bachelors	Sale
+273	Goa Properties (Goa.txt)	3 BHK Apartment	Vasco da Gama Extension	Vasco da Gama / Goa	Apartment / 3 BHK	1034	₹20,600/month	Semi-Furnished	2	Any	Rent
+274	Goa Properties (Goa.txt)	4 BHK Apartment	Margao North	Margao / Goa	Apartment / 4 BHK	2232	₹1.21 Cr	Semi-Furnished	4	Family	Sale
+275	Goa Properties (Goa.txt)	2 BHK Builder Floor	Margao Sector 2	Margao / Goa	Builder Floor / 2 BHK	690	₹18,600/month	Unfurnished	2	Bachelors	Rent
+276	Goa Properties (Goa.txt)	2 BHK Builder Floor	Mapusa Residential Area	Mapusa / Goa	Builder Floor / 2 BHK	673	₹75.74 L	Fully-Furnished	2	Family	Sale
+277	Goa Properties (Goa.txt)	2 BHK Apartment	Mapusa Main Road	Mapusa / Goa	Apartment / 2 BHK	885	₹21,200/month	Semi-Furnished	2	Family	Rent
+278	Goa Properties (Goa.txt)	3 BHK Apartment	Panaji Sector 1	Panaji / Goa	Apartment / 3 BHK	1411	₹29,100/month	Fully-Furnished	3	Bachelors	Rent
+279	Goa Properties (Goa.txt)	2 BHK Apartment	Mapusa Sector 1	Mapusa / Goa	Apartment / 2 BHK	682	₹62.81 L	Semi-Furnished	1	Family	Sale
+280	Goa Properties (Goa.txt)	4 BHK Apartment	Vasco da Gama Extension	Vasco da Gama / Goa	Apartment / 4 BHK	2008	₹1.10 Cr	Semi-Furnished	3	Family	Sale
+281	Goa Properties (Goa.txt)	1 BHK Builder Floor	Panaji South	Panaji / Goa	Builder Floor / 1 BHK	544	₹39.67 L	Fully-Furnished	2	Family	Sale
+282	Goa Properties (Goa.txt)	3 BHK Apartment	Vasco da Gama Central	Vasco da Gama / Goa	Apartment / 3 BHK	1219	₹27,000/month	Semi-Furnished	3	Family	Rent
+283	Goa Properties (Goa.txt)	5 BHK Apartment	Vasco da Gama Main Road	Vasco da Gama / Goa	Apartment / 5 BHK	2781	₹39,900/month	Unfurnished	6	Any	Rent
+284	Goa Properties (Goa.txt)	2 BHK Apartment	Panaji Main Road	Panaji / Goa	Apartment / 2 BHK	714	₹16,100/month	Unfurnished	2	Bachelors	Rent
+285	Goa Properties (Goa.txt)	2 BHK Independent House	Margao Heights	Margao / Goa	Independent House / 2 BHK	1156	₹79.95 L	Semi-Furnished	1	Bachelors	Sale
+286	Goa Properties (Goa.txt)	1 BHK Studio	Mapusa Heights	Mapusa / Goa	Studio / 1 BHK	408	₹39.47 L	Unfurnished	1	Any	Sale
+287	Goa Properties (Goa.txt)	2 BHK Apartment	Margao Colony	Margao / Goa	Apartment / 2 BHK	929	₹74.25 L	Semi-Furnished	2	Family	Sale
+288	Goa Properties (Goa.txt)	3 BHK Apartment	Panaji Residential Area	Panaji / Goa	Apartment / 3 BHK	1611	₹1.16 Cr	Semi-Furnished	4	Family	Sale
+289	Goa Properties (Goa.txt)	1 BHK Apartment	Mapusa Sector 2	Mapusa / Goa	Apartment / 1 BHK	488	₹41.92 L	Unfurnished	1	Any	Sale
+290	Goa Properties (Goa.txt)	3 BHK Apartment	Vasco da Gama Extension	Vasco da Gama / Goa	Apartment / 3 BHK	1173	₹98.97 L	Fully-Furnished	3	Family	Sale
+291	Goa Properties (Goa.txt)	2 BHK Apartment	Vasco da Gama Main Road	Vasco da Gama / Goa	Apartment / 2 BHK	944	₹82.83 L	Semi-Furnished	2	Family	Sale
+292	Goa Properties (Goa.txt)	3 BHK Builder Floor	Mapusa North	Mapusa / Goa	Builder Floor / 3 BHK	1126	₹89.16 L	Fully-Furnished	3	Family	Sale
+293	Goa Properties (Goa.txt)	3 BHK Independent House	Mapusa Sector 1	Mapusa / Goa	Independent House / 3 BHK	1479	₹1.16 Cr	Fully-Furnished	3	Bachelors	Sale
+294	Goa Properties (Goa.txt)	2 BHK Independent House	Mapusa West	Mapusa / Goa	Independent House / 2 BHK	706	₹20,200/month	Semi-Furnished	2	Any	Rent
+295	Goa Properties (Goa.txt)	1 BHK Independent House	Margao East	Margao / Goa	Independent House / 1 BHK	586	₹42.93 L	Fully-Furnished	1	Family	Sale
+296	Goa Properties (Goa.txt)	3 BHK Apartment	Margao South	Margao / Goa	Apartment / 3 BHK	1124	₹1.04 Cr	Fully-Furnished	2	Family	Sale
+297	Goa Properties (Goa.txt)	2 BHK Independent House	Mapusa West	Mapusa / Goa	Independent House / 2 BHK	917	₹59.06 L	Semi-Furnished	1	Bachelors	Sale
+298	Goa Properties (Goa.txt)	3 BHK Independent House	Vasco da Gama Central	Vasco da Gama / Goa	Independent House / 3 BHK	1623	₹97.59 L	Unfurnished	3	Family	Sale
+299	Goa Properties (Goa.txt)	5 BHK Villa	Vasco da Gama Extension	Vasco da Gama / Goa	Villa / 5 BHK	4203	₹1.78 Cr	Semi-Furnished	4	Bachelors	Sale
+300	Goa Properties (Goa.txt)	3 BHK Apartment	Panaji West	Panaji / Goa	Apartment / 3 BHK	1557	₹82.97 L	Fully-Furnished	3	Family	Sale
+301	Goa Properties (Goa.txt)	1 BHK Studio	Mapusa Residential Area	Mapusa / Goa	Studio / 1 BHK	356	₹44.58 L	Fully-Furnished	1	Bachelors	Sale
+302	Goa Properties (Goa.txt)	4 BHK Independent House	Mapusa North	Mapusa / Goa	Independent House / 4 BHK	1991	₹41,500/month	Semi-Furnished	3	Bachelors	Rent
+303	Goa Properties (Goa.txt)	5 BHK Builder Floor	Panaji Extension	Panaji / Goa	Builder Floor / 5 BHK	1810	₹1.22 Cr	Semi-Furnished	6	Family	Sale
+304	Goa Properties (Goa.txt)	3 BHK Apartment	Panaji Sector 1	Panaji / Goa	Apartment / 3 BHK	1118	₹1.07 Cr	Fully-Furnished	2	Family	Sale
+305	Goa Properties (Goa.txt)	3 BHK Apartment	Mapusa Town Centre	Mapusa / Goa	Apartment / 3 BHK	1431	₹84.76 L	Fully-Furnished	3	Bachelors	Sale
+306	Goa Properties (Goa.txt)	3 BHK Apartment	Panaji Residential Area	Panaji / Goa	Apartment / 3 BHK	1565	₹26,400/month	Semi-Furnished	3	Family	Rent
+307	Goa Properties (Goa.txt)	4 BHK Independent House	Panaji South	Panaji / Goa	Independent House / 4 BHK	1705	₹1.30 Cr	Unfurnished	4	Bachelors	Sale
+308	Goa Properties (Goa.txt)	1 BHK Apartment	Panaji Residential Area	Panaji / Goa	Apartment / 1 BHK	446	₹48.86 L	Fully-Furnished	1	Family	Sale
+309	Goa Properties (Goa.txt)	2 BHK Independent House	Vasco da Gama North	Vasco da Gama / Goa	Independent House / 2 BHK	1019	₹64.13 L	Semi-Furnished	2	Bachelors	Sale
+310	Goa Properties (Goa.txt)	1 BHK Apartment	Margao Town Centre	Margao / Goa	Apartment / 1 BHK	441	₹11,000/month	Fully-Furnished	1	Bachelors	Rent
+311	Goa Properties (Goa.txt)	2 BHK Builder Floor	Margao East	Margao / Goa	Builder Floor / 2 BHK	845	₹71.92 L	Semi-Furnished	2	Bachelors	Sale
+312	Goa Properties (Goa.txt)	1 BHK Studio	Margao South	Margao / Goa	Studio / 1 BHK	343	₹42.47 L	Fully-Furnished	1	Any	Sale
+313	Goa Properties (Goa.txt)	3 BHK Builder Floor	Margao Heights	Margao / Goa	Builder Floor / 3 BHK	1312	₹96.48 L	Fully-Furnished	3	Family	Sale
+314	Goa Properties (Goa.txt)	3 BHK Apartment	Panaji South	Panaji / Goa	Apartment / 3 BHK	972	₹80.92 L	Semi-Furnished	4	Family	Sale
+315	Goa Properties (Goa.txt)	3 BHK Independent House	Vasco da Gama Nagar	Vasco da Gama / Goa	Independent House / 3 BHK	1446	₹81.38 L	Unfurnished	2	Bachelors	Sale
+316	Goa Properties (Goa.txt)	1 BHK Apartment	Margao Colony	Margao / Goa	Apartment / 1 BHK	527	₹36.29 L	Unfurnished	2	Family	Sale
+317	Goa Properties (Goa.txt)	3 BHK Builder Floor	Vasco da Gama Nagar	Vasco da Gama / Goa	Builder Floor / 3 BHK	1398	₹1.11 Cr	Unfurnished	4	Family	Sale
+318	Goa Properties (Goa.txt)	4 BHK Builder Floor	Vasco da Gama West	Vasco da Gama / Goa	Builder Floor / 4 BHK	1654	₹32,600/month	Semi-Furnished	5	Family	Rent
+319	Goa Properties (Goa.txt)	3 BHK Apartment	Panaji Colony	Panaji / Goa	Apartment / 3 BHK	1237	₹90.32 L	Semi-Furnished	2	Bachelors	Sale
+320	Goa Properties (Goa.txt)	3 BHK Builder Floor	Vasco da Gama West	Vasco da Gama / Goa	Builder Floor / 3 BHK	1436	₹29,400/month	Semi-Furnished	4	Family	Rent
+321	Goa Properties (Goa.txt)	1 BHK Apartment	Mapusa Central	Mapusa / Goa	Apartment / 1 BHK	533	₹14,300/month	Fully-Furnished	1	Family	Rent
+322	Goa Properties (Goa.txt)	3 BHK Independent House	Vasco da Gama Extension	Vasco da Gama / Goa	Independent House / 3 BHK	782	₹85.36 L	Fully-Furnished	3	Any	Sale
+323	Goa Properties (Goa.txt)	3 BHK Apartment	Mapusa North	Mapusa / Goa	Apartment / 3 BHK	1113	₹78.44 L	Semi-Furnished	4	Bachelors	Sale
+324	Goa Properties (Goa.txt)	3 BHK Villa	Vasco da Gama Sector 1	Vasco da Gama / Goa	Villa / 3 BHK	1552	₹30,900/month	Semi-Furnished	2	Bachelors	Rent
+325	Goa Properties (Goa.txt)	3 BHK Apartment	Vasco da Gama West	Vasco da Gama / Goa	Apartment / 3 BHK	1188	₹22,400/month	Fully-Furnished	3	Bachelors	Rent
+326	Goa Properties (Goa.txt)	2 BHK Apartment	Panaji North	Panaji / Goa	Apartment / 2 BHK	759	₹59.87 L	Fully-Furnished	2	Any	Sale
+327	Goa Properties (Goa.txt)	4 BHK Builder Floor	Vasco da Gama Town Centre	Vasco da Gama / Goa	Builder Floor / 4 BHK	1622	₹1.13 Cr	Unfurnished	4	Bachelors	Sale
+328	Goa Properties (Goa.txt)	1 BHK Villa	Margao Residential Area	Margao / Goa	Villa / 1 BHK	606	₹10,700/month	Unfurnished	1	Bachelors	Rent
+329	Goa Properties (Goa.txt)	2 BHK Apartment	Margao Town Centre	Margao / Goa	Apartment / 2 BHK	829	₹65.49 L	Fully-Furnished	2	Bachelors	Sale
+330	Goa Properties (Goa.txt)	3 BHK Builder Floor	Margao Town Centre	Margao / Goa	Builder Floor / 3 BHK	1078	₹84.68 L	Semi-Furnished	2	Family	Sale
+331	Goa Properties (Goa.txt)	3 BHK Independent House	Margao Heights	Margao / Goa	Independent House / 3 BHK	1467	₹32,000/month	Unfurnished	3	Bachelors	Rent
+332	Goa Properties (Goa.txt)	1 BHK Apartment	Margao Town Centre	Margao / Goa	Apartment / 1 BHK	445	₹45.38 L	Semi-Furnished	1	Bachelors	Sale
+333	Goa Properties (Goa.txt)	4 BHK Builder Floor	Panaji Central	Panaji / Goa	Builder Floor / 4 BHK	1894	₹1.29 Cr	Unfurnished	3	Bachelors	Sale
+334	Goa Properties (Goa.txt)	1 BHK Builder Floor	Mapusa Heights	Mapusa / Goa	Builder Floor / 1 BHK	575	₹14,200/month	Unfurnished	1	Family	Rent
+335	Goa Properties (Goa.txt)	1 BHK Builder Floor	Margao Colony	Margao / Goa	Builder Floor / 1 BHK	523	₹40.59 L	Fully-Furnished	1	Any	Sale
+336	Goa Properties (Goa.txt)	4 BHK Independent House	Margao East	Margao / Goa	Independent House / 4 BHK	1825	₹1.15 Cr	Fully-Furnished	4	Bachelors	Sale
+337	Goa Properties (Goa.txt)	2 BHK Apartment	Margao South	Margao / Goa	Apartment / 2 BHK	682	₹74.14 L	Semi-Furnished	2	Any	Sale
+338	Goa Properties (Goa.txt)	4 BHK Apartment	Vasco da Gama Extension	Vasco da Gama / Goa	Apartment / 4 BHK	1535	₹1.14 Cr	Fully-Furnished	4	Family	Sale
+339	Goa Properties (Goa.txt)	2 BHK Builder Floor	Margao North	Margao / Goa	Builder Floor / 2 BHK	676	₹15,400/month	Semi-Furnished	2	Bachelors	Rent
+340	Goa Properties (Goa.txt)	4 BHK Apartment	Mapusa Sector 3	Mapusa / Goa	Apartment / 4 BHK	1436	₹32,900/month	Unfurnished	4	Any	Rent
+341	Goa Properties (Goa.txt)	3 BHK Apartment	Panaji Sector 1	Panaji / Goa	Apartment / 3 BHK	1456	₹89.44 L	Fully-Furnished	2	Bachelors	Sale
+342	Goa Properties (Goa.txt)	3 BHK Builder Floor	Margao Sector 1	Margao / Goa	Builder Floor / 3 BHK	1254	₹1 Cr	Semi-Furnished	3	Family	Sale
+343	Goa Properties (Goa.txt)	2 BHK Apartment	Panaji Sector 1	Panaji / Goa	Apartment / 2 BHK	809	₹57.14 L	Unfurnished	2	Family	Sale
+344	Goa Properties (Goa.txt)	3 BHK Apartment	Mapusa Sector 3	Mapusa / Goa	Apartment / 3 BHK	1013	₹23,900/month	Fully-Furnished	3	Any	Rent
+345	Goa Properties (Goa.txt)	4 BHK Villa	Vasco da Gama North	Vasco da Gama / Goa	Villa / 4 BHK	1613	₹30,000/month	Fully-Furnished	4	Bachelors	Rent
+346	Goa Properties (Goa.txt)	2 BHK Apartment	Mapusa Sector 1	Mapusa / Goa	Apartment / 2 BHK	1094	₹21,900/month	Semi-Furnished	3	Any	Rent
+347	Goa Properties (Goa.txt)	5 BHK Builder Floor	Mapusa Nagar	Mapusa / Goa	Builder Floor / 5 BHK	2070	₹45,600/month	Semi-Furnished	4	Family	Rent
+348	Goa Properties (Goa.txt)	4 BHK Builder Floor	Margao Colony	Margao / Goa	Builder Floor / 4 BHK	1750	₹1.31 Cr	Semi-Furnished	4	Bachelors	Sale
+349	Goa Properties (Goa.txt)	2 BHK Apartment	Panaji West	Panaji / Goa	Apartment / 2 BHK	878	₹17,200/month	Unfurnished	2	Bachelors	Rent
+350	Goa Properties (Goa.txt)	2 BHK Independent House	Mapusa Extension	Mapusa / Goa	Independent House / 2 BHK	954	₹72.92 L	Semi-Furnished	1	Bachelors	Sale
+351	Goa Properties (Goa.txt)	2 BHK Independent House	Panaji Town Centre	Panaji / Goa	Independent House / 2 BHK	1171	₹18,700/month	Semi-Furnished	2	Family	Rent
+352	Goa Properties (Goa.txt)	4 BHK Apartment	Panaji Main Road	Panaji / Goa	Apartment / 4 BHK	1639	₹39,700/month	Fully-Furnished	4	Any	Rent
+353	Goa Properties (Goa.txt)	3 BHK Independent House	Vasco da Gama Central	Vasco da Gama / Goa	Independent House / 3 BHK	1442	₹1.02 Cr	Unfurnished	2	Family	Sale
+354	Goa Properties (Goa.txt)	2 BHK Villa	Mapusa Town Centre	Mapusa / Goa	Villa / 2 BHK	1166	₹18,700/month	Unfurnished	2	Bachelors	Rent
+355	Goa Properties (Goa.txt)	3 BHK Independent House	Margao Sector 2	Margao / Goa	Independent House / 3 BHK	1314	₹30,200/month	Fully-Furnished	3	Bachelors	Rent
+356	Goa Properties (Goa.txt)	3 BHK Apartment	Vasco da Gama Extension	Vasco da Gama / Goa	Apartment / 3 BHK	1519	₹31,900/month	Unfurnished	3	Family	Rent
+357	Goa Properties (Goa.txt)	2 BHK Builder Floor	Margao Sector 1	Margao / Goa	Builder Floor / 2 BHK	725	₹18,900/month	Unfurnished	2	Bachelors	Rent
+358	Goa Properties (Goa.txt)	3 BHK Villa	Mapusa Sector 1	Mapusa / Goa	Villa / 3 BHK	2050	₹94.78 L	Semi-Furnished	2	Any	Sale
+359	Goa Properties (Goa.txt)	1 BHK Independent House	Mapusa Sector 2	Mapusa / Goa	Independent House / 1 BHK	561	₹14,800/month	Semi-Furnished	1	Family	Rent
+360	Goa Properties (Goa.txt)	4 BHK Apartment	Panaji Residential Area	Panaji / Goa	Apartment / 4 BHK	1766	₹37,900/month	Fully-Furnished	4	Any	Rent
+361	Goa Properties (Goa.txt)	1 BHK Apartment	Vasco da Gama Main Road	Vasco da Gama / Goa	Apartment / 1 BHK	483	₹14,700/month	Semi-Furnished	1	Family	Rent
+362	Goa Properties (Goa.txt)	3 BHK Builder Floor	Mapusa Town Centre	Mapusa / Goa	Builder Floor / 3 BHK	1335	₹25,200/month	Unfurnished	3	Family	Rent
+363	Goa Properties (Goa.txt)	3 BHK Independent House	Vasco da Gama Sector 1	Vasco da Gama / Goa	Independent House / 3 BHK	1561	₹89.70 L	Fully-Furnished	4	Bachelors	Sale
+364	Goa Properties (Goa.txt)	4 BHK Apartment	Mapusa South	Mapusa / Goa	Apartment / 4 BHK	2060	₹39,600/month	Semi-Furnished	3	Any	Rent
+365	Goa Properties (Goa.txt)	1 BHK Apartment	Vasco da Gama South	Vasco da Gama / Goa	Apartment / 1 BHK	575	₹12,000/month	Unfurnished	2	Any	Rent
+366	Goa Properties (Goa.txt)	2 BHK Independent House	Panaji Sector 2	Panaji / Goa	Independent House / 2 BHK	1063	₹60.85 L	Unfurnished	1	Family	Sale
+367	Goa Properties (Goa.txt)	3 BHK Apartment	Mapusa Colony	Mapusa / Goa	Apartment / 3 BHK	895	₹24,600/month	Semi-Furnished	3	Family	Rent
+368	Goa Properties (Goa.txt)	3 BHK Independent House	Panaji Nagar	Panaji / Goa	Independent House / 3 BHK	2070	₹1.13 Cr	Fully-Furnished	3	Bachelors	Sale
+369	Goa Properties (Goa.txt)	1 BHK Studio	Mapusa West	Mapusa / Goa	Studio / 1 BHK	300	₹39.63 L	Fully-Furnished	1	Any	Sale
+370	Goa Properties (Goa.txt)	2 BHK Independent House	Margao Central	Margao / Goa	Independent House / 2 BHK	890	₹19,000/month	Fully-Furnished	2	Family	Rent
+371	Goa Properties (Goa.txt)	4 BHK Apartment	Panaji Sector 3	Panaji / Goa	Apartment / 4 BHK	1992	₹1.09 Cr	Semi-Furnished	4	Bachelors	Sale
+372	Goa Properties (Goa.txt)	2 BHK Independent House	Margao Sector 2	Margao / Goa	Independent House / 2 BHK	1104	₹74.51 L	Semi-Furnished	1	Bachelors	Sale
+373	Goa Properties (Goa.txt)	2 BHK Apartment	Vasco da Gama Sector 3	Vasco da Gama / Goa	Apartment / 2 BHK	901	₹71.38 L	Fully-Furnished	1	Bachelors	Sale
+374	Goa Properties (Goa.txt)	2 BHK Apartment	Panaji Extension	Panaji / Goa	Apartment / 2 BHK	865	₹17,100/month	Semi-Furnished	3	Bachelors	Rent
+375	Goa Properties (Goa.txt)	4 BHK Builder Floor	Vasco da Gama Main Road	Vasco da Gama / Goa	Builder Floor / 4 BHK	1910	₹31,500/month	Fully-Furnished	3	Family	Rent
+376	Goa Properties (Goa.txt)	1 BHK Apartment	Panaji Residential Area	Panaji / Goa	Apartment / 1 BHK	569	₹39.48 L	Semi-Furnished	1	Family	Sale
+377	Goa Properties (Goa.txt)	1 BHK Apartment	Mapusa North	Mapusa / Goa	Apartment / 1 BHK	626	₹14,500/month	Semi-Furnished	2	Any	Rent
+378	Goa Properties (Goa.txt)	1 BHK Independent House	Margao North	Margao / Goa	Independent House / 1 BHK	655	₹39.82 L	Fully-Furnished	1	Family	Sale
+379	Goa Properties (Goa.txt)	2 BHK Apartment	Vasco da Gama Sector 3	Vasco da Gama / Goa	Apartment / 2 BHK	927	₹84.86 L	Unfurnished	2	Any	Sale
+380	Goa Properties (Goa.txt)	2 BHK Builder Floor	Margao Nagar	Margao / Goa	Builder Floor / 2 BHK	976	₹17,200/month	Fully-Furnished	3	Family	Rent
+381	Goa Properties (Goa.txt)	4 BHK Apartment	Vasco da Gama Sector 2	Vasco da Gama / Goa	Apartment / 4 BHK	1491	₹1.16 Cr	Unfurnished	4	Bachelors	Sale
+382	Goa Properties (Goa.txt)	3 BHK Villa	Mapusa Heights	Mapusa / Goa	Villa / 3 BHK	1477	₹1.04 Cr	Unfurnished	3	Family	Sale
+383	Goa Properties (Goa.txt)	2 BHK Apartment	Vasco da Gama Sector 2	Vasco da Gama / Goa	Apartment / 2 BHK	849	₹78.87 L	Fully-Furnished	2	Family	Sale
+384	Goa Properties (Goa.txt)	2 BHK Apartment	Panaji West	Panaji / Goa	Apartment / 2 BHK	776	₹16,900/month	Unfurnished	2	Family	Rent
+385	Goa Properties (Goa.txt)	5 BHK Apartment	Panaji East	Panaji / Goa	Apartment / 5 BHK	2125	₹47,100/month	Semi-Furnished	6	Family	Rent
+386	Goa Properties (Goa.txt)	2 BHK Villa	Margao Sector 3	Margao / Goa	Villa / 2 BHK	1062	₹72.20 L	Semi-Furnished	1	Any	Sale
+387	Goa Properties (Goa.txt)	3 BHK Apartment	Mapusa Central	Mapusa / Goa	Apartment / 3 BHK	1291	₹24,600/month	Semi-Furnished	2	Bachelors	Rent
+388	Goa Properties (Goa.txt)	1 BHK Builder Floor	Vasco da Gama Residential Area	Vasco da Gama / Goa	Builder Floor / 1 BHK	585	₹52.76 L	Fully-Furnished	1	Family	Sale
+389	Goa Properties (Goa.txt)	2 BHK Apartment	Mapusa East	Mapusa / Goa	Apartment / 2 BHK	755	₹73.71 L	Fully-Furnished	3	Family	Sale
+390	Goa Properties (Goa.txt)	3 BHK Villa	Margao East	Margao / Goa	Villa / 3 BHK	1694	₹1.15 Cr	Semi-Furnished	3	Family	Sale
+391	Goa Properties (Goa.txt)	1 BHK Studio	Mapusa Sector 2	Mapusa / Goa	Studio / 1 BHK	361	₹13,400/month	Unfurnished	2	Any	Rent
+392	Goa Properties (Goa.txt)	2 BHK Apartment	Mapusa Sector 1	Mapusa / Goa	Apartment / 2 BHK	948	₹71.60 L	Semi-Furnished	2	Family	Sale
+393	Goa Properties (Goa.txt)	2 BHK Villa	Panaji Residential Area	Panaji / Goa	Villa / 2 BHK	1206	₹75.45 L	Semi-Furnished	1	Family	Sale
+394	Goa Properties (Goa.txt)	2 BHK Apartment	Margao South	Margao / Goa	Apartment / 2 BHK	893	₹22,800/month	Semi-Furnished	2	Family	Rent
+395	Goa Properties (Goa.txt)	3 BHK Apartment	Mapusa Nagar	Mapusa / Goa	Apartment / 3 BHK	1288	₹1.01 Cr	Semi-Furnished	3	Family	Sale
+396	Goa Properties (Goa.txt)	3 BHK Apartment	Vasco da Gama Sector 1	Vasco da Gama / Goa	Apartment / 3 BHK	1358	₹28,200/month	Semi-Furnished	2	Any	Rent
+397	Goa Properties (Goa.txt)	3 BHK Independent House	Margao Sector 2	Margao / Goa	Independent House / 3 BHK	1941	₹1.15 Cr	Fully-Furnished	3	Any	Sale
+398	Goa Properties (Goa.txt)	5 BHK Apartment	Vasco da Gama West	Vasco da Gama / Goa	Apartment / 5 BHK	2301	₹47,700/month	Unfurnished	5	Family	Rent
+399	Goa Properties (Goa.txt)	2 BHK Apartment	Mapusa Extension	Mapusa / Goa	Apartment / 2 BHK	942	₹67.42 L	Semi-Furnished	2	Family	Sale
+400	Goa Properties (Goa.txt)	3 BHK Villa	Panaji Extension	Panaji / Goa	Villa / 3 BHK	1638	₹1.09 Cr	Unfurnished	3	Family	Sale
+401	Goa Properties (Goa.txt)	1 BHK Studio	Vasco da Gama East	Vasco da Gama / Goa	Studio / 1 BHK	409	₹44.23 L	Fully-Furnished	1	Any	Sale
+402	Goa Properties (Goa.txt)	1 BHK Studio	Panaji Nagar	Panaji / Goa	Studio / 1 BHK	365	₹35.05 L	Fully-Furnished	1	Family	Sale
+403	Goa Properties (Goa.txt)	1 BHK Apartment	Panaji East	Panaji / Goa	Apartment / 1 BHK	488	₹44.80 L	Fully-Furnished	2	Family	Sale
+404	Goa Properties (Goa.txt)	3 BHK Apartment	Vasco da Gama East	Vasco da Gama / Goa	Apartment / 3 BHK	1493	₹28,900/month	Unfurnished	3	Family	Rent
+405	Goa Properties (Goa.txt)	3 BHK Apartment	Panaji South	Panaji / Goa	Apartment / 3 BHK	1054	₹1 Cr	Fully-Furnished	3	Family	Sale
+406	Goa Properties (Goa.txt)	2 BHK Apartment	Vasco da Gama North	Vasco da Gama / Goa	Apartment / 2 BHK	879	₹21,400/month	Semi-Furnished	2	Family	Rent
+407	Goa Properties (Goa.txt)	2 BHK Builder Floor	Panaji Heights	Panaji / Goa	Builder Floor / 2 BHK	757	₹55.53 L	Fully-Furnished	3	Family	Sale
+408	Goa Properties (Goa.txt)	4 BHK Apartment	Margao Main Road	Margao / Goa	Apartment / 4 BHK	1205	₹28,900/month	Fully-Furnished	4	Family	Rent
+409	Goa Properties (Goa.txt)	4 BHK Independent House	Panaji North	Panaji / Goa	Independent House / 4 BHK	2708	₹41,800/month	Semi-Furnished	5	Any	Rent
+410	Goa Properties (Goa.txt)	4 BHK Apartment	Margao Town Centre	Margao / Goa	Apartment / 4 BHK	1819	₹1.25 Cr	Fully-Furnished	3	Any	Sale
+411	Goa Properties (Goa.txt)	2 BHK Apartment	Margao Heights	Margao / Goa	Apartment / 2 BHK	884	₹17,800/month	Unfurnished	2	Family	Rent
+412	Goa Properties (Goa.txt)	4 BHK Builder Floor	Vasco da Gama Colony	Vasco da Gama / Goa	Builder Floor / 4 BHK	1807	₹1.32 Cr	Semi-Furnished	4	Bachelors	Sale
+413	Goa Properties (Goa.txt)	1 BHK Builder Floor	Vasco da Gama Nagar	Vasco da Gama / Goa	Builder Floor / 1 BHK	379	₹12,100/month	Fully-Furnished	1	Family	Rent
+414	Goa Properties (Goa.txt)	1 BHK Studio	Vasco da Gama Main Road	Vasco da Gama / Goa	Studio / 1 BHK	347	₹9,800/month	Semi-Furnished	1	Family	Rent
+415	Goa Properties (Goa.txt)	4 BHK Apartment	Panaji Heights	Panaji / Goa	Apartment / 4 BHK	1892	₹1.03 Cr	Semi-Furnished	4	Family	Sale
+416	Goa Properties (Goa.txt)	4 BHK Apartment	Margao East	Margao / Goa	Apartment / 4 BHK	1704	₹1.17 Cr	Semi-Furnished	4	Family	Sale
+417	Goa Properties (Goa.txt)	3 BHK Villa	Panaji Nagar	Panaji / Goa	Villa / 3 BHK	1271	₹87.51 L	Semi-Furnished	3	Any	Sale
+418	Goa Properties (Goa.txt)	2 BHK Apartment	Mapusa Nagar	Mapusa / Goa	Apartment / 2 BHK	971	₹17,600/month	Unfurnished	1	Any	Rent
+419	Goa Properties (Goa.txt)	2 BHK Builder Floor	Vasco da Gama Heights	Vasco da Gama / Goa	Builder Floor / 2 BHK	792	₹64.66 L	Fully-Furnished	2	Family	Sale
+420	Goa Properties (Goa.txt)	2 BHK Villa	Margao Extension	Margao / Goa	Villa / 2 BHK	1155	₹21,300/month	Semi-Furnished	2	Family	Rent
+421	Goa Properties (Goa.txt)	1 BHK Builder Floor	Margao Colony	Margao / Goa	Builder Floor / 1 BHK	593	₹49.26 L	Fully-Furnished	2	Any	Sale
+422	Goa Properties (Goa.txt)	2 BHK Builder Floor	Panaji East	Panaji / Goa	Builder Floor / 2 BHK	779	₹70.40 L	Semi-Furnished	2	Family	Sale
+423	Goa Properties (Goa.txt)	2 BHK Builder Floor	Margao East	Margao / Goa	Builder Floor / 2 BHK	725	₹22,200/month	Semi-Furnished	1	Family	Rent
+424	Goa Properties (Goa.txt)	3 BHK Apartment	Vasco da Gama East	Vasco da Gama / Goa	Apartment / 3 BHK	1238	₹25,800/month	Unfurnished	3	Bachelors	Rent
+425	Goa Properties (Goa.txt)	4 BHK Builder Floor	Panaji North	Panaji / Goa	Builder Floor / 4 BHK	1874	₹37,500/month	Semi-Furnished	3	Family	Rent
+426	Goa Properties (Goa.txt)	1 BHK Apartment	Panaji Sector 2	Panaji / Goa	Apartment / 1 BHK	489	₹39.51 L	Semi-Furnished	1	Family	Sale
+427	Goa Properties (Goa.txt)	5 BHK Apartment	Mapusa Central	Mapusa / Goa	Apartment / 5 BHK	2405	₹1.66 Cr	Fully-Furnished	4	Family	Sale
+428	Goa Properties (Goa.txt)	2 BHK Villa	Vasco da Gama Extension	Vasco da Gama / Goa	Villa / 2 BHK	1243	₹88.92 L	Semi-Furnished	2	Bachelors	Sale
+429	Goa Properties (Goa.txt)	2 BHK Apartment	Margao Sector 2	Margao / Goa	Apartment / 2 BHK	723	₹21,800/month	Fully-Furnished	2	Family	Rent
+430	Goa Properties (Goa.txt)	2 BHK Apartment	Mapusa Colony	Mapusa / Goa	Apartment / 2 BHK	785	₹62.58 L	Semi-Furnished	3	Family	Sale
+431	Goa Properties (Goa.txt)	3 BHK Apartment	Margao South	Margao / Goa	Apartment / 3 BHK	1562	₹30,700/month	Semi-Furnished	3	Any	Rent
+432	Goa Properties (Goa.txt)	3 BHK Apartment	Vasco da Gama Extension	Vasco da Gama / Goa	Apartment / 3 BHK	1192	₹1.08 Cr	Semi-Furnished	3	Family	Sale
+433	Goa Properties (Goa.txt)	3 BHK Apartment	Panaji Central	Panaji / Goa	Apartment / 3 BHK	1274	₹78.65 L	Semi-Furnished	3	Family	Sale
+434	Goa Properties (Goa.txt)	1 BHK Studio	Mapusa Sector 1	Mapusa / Goa	Studio / 1 BHK	317	₹44.92 L	Fully-Furnished	1	Family	Sale
+435	Goa Properties (Goa.txt)	4 BHK Independent House	Vasco da Gama Sector 3	Vasco da Gama / Goa	Independent House / 4 BHK	2401	₹1.45 Cr	Semi-Furnished	4	Any	Sale
+436	Goa Properties (Goa.txt)	2 BHK Apartment	Vasco da Gama Central	Vasco da Gama / Goa	Apartment / 2 BHK	854	₹75.81 L	Semi-Furnished	3	Bachelors	Sale
+437	Goa Properties (Goa.txt)	2 BHK Independent House	Margao East	Margao / Goa	Independent House / 2 BHK	1228	₹84.96 L	Fully-Furnished	3	Any	Sale
+438	Goa Properties (Goa.txt)	1 BHK Apartment	Margao Main Road	Margao / Goa	Apartment / 1 BHK	514	₹50.97 L	Fully-Furnished	2	Any	Sale
+439	Goa Properties (Goa.txt)	2 BHK Apartment	Mapusa Heights	Mapusa / Goa	Apartment / 2 BHK	919	₹84.25 L	Semi-Furnished	1	Bachelors	Sale
+440	Goa Properties (Goa.txt)	5 BHK Apartment	Vasco da Gama Nagar	Vasco da Gama / Goa	Apartment / 5 BHK	2870	₹47,700/month	Unfurnished	4	Bachelors	Rent
+441	Goa Properties (Goa.txt)	4 BHK Apartment	Mapusa South	Mapusa / Goa	Apartment / 4 BHK	1776	₹1.46 Cr	Unfurnished	3	Any	Sale
+442	Goa Properties (Goa.txt)	2 BHK Independent House	Vasco da Gama Residential Area	Vasco da Gama / Goa	Independent House / 2 BHK	863	₹62.99 L	Fully-Furnished	2	Bachelors	Sale
+443	Goa Properties (Goa.txt)	2 BHK Apartment	Mapusa West	Mapusa / Goa	Apartment / 2 BHK	1073	₹69.78 L	Fully-Furnished	2	Bachelors	Sale
+444	Goa Properties (Goa.txt)	1 BHK Independent House	Vasco da Gama Main Road	Vasco da Gama / Goa	Independent House / 1 BHK	597	₹44.71 L	Unfurnished	1	Family	Sale
+445	Goa Properties (Goa.txt)	5 BHK Independent House	Margao Main Road	Margao / Goa	Independent House / 5 BHK	2964	₹44,400/month	Unfurnished	6	Family	Rent
+446	Goa Properties (Goa.txt)	2 BHK Villa	Margao Residential Area	Margao / Goa	Villa / 2 BHK	1020	₹63.29 L	Fully-Furnished	3	Family	Sale
+447	Goa Properties (Goa.txt)	1 BHK Studio	Mapusa Colony	Mapusa / Goa	Studio / 1 BHK	439	₹35.19 L	Unfurnished	2	Family	Sale
+448	Goa Properties (Goa.txt)	3 BHK Builder Floor	Margao East	Margao / Goa	Builder Floor / 3 BHK	1203	₹81.15 L	Semi-Furnished	3	Family	Sale
+449	Goa Properties (Goa.txt)	1 BHK Independent House	Panaji North	Panaji / Goa	Independent House / 1 BHK	680	₹53.38 L	Unfurnished	2	Family	Sale
+450	Goa Properties (Goa.txt)	3 BHK Apartment	Mapusa East	Mapusa / Goa	Apartment / 3 BHK	1338	₹1.07 Cr	Unfurnished	4	Family	Sale
+451	Goa Properties (Goa.txt)	4 BHK Apartment	Mapusa North	Mapusa / Goa	Apartment / 4 BHK	1699	₹1.42 Cr	Fully-Furnished	4	Bachelors	Sale
+452	Goa Properties (Goa.txt)	4 BHK Apartment	Mapusa Nagar	Mapusa / Goa	Apartment / 4 BHK	2067	₹30,800/month	Unfurnished	4	Family	Rent
+453	Goa Properties (Goa.txt)	1 BHK Independent House	Mapusa Sector 1	Mapusa / Goa	Independent House / 1 BHK	776	₹43.59 L	Unfurnished	1	Family	Sale
+454	Goa Properties (Goa.txt)	3 BHK Builder Floor	Vasco da Gama Town Centre	Vasco da Gama / Goa	Builder Floor / 3 BHK	1355	₹26,300/month	Semi-Furnished	3	Family	Rent
+455	Goa Properties (Goa.txt)	4 BHK Villa	Mapusa Main Road	Mapusa / Goa	Villa / 4 BHK	2318	₹1.25 Cr	Semi-Furnished	4	Family	Sale
+456	Goa Properties (Goa.txt)	3 BHK Builder Floor	Mapusa Sector 3	Mapusa / Goa	Builder Floor / 3 BHK	1592	₹27,600/month	Fully-Furnished	3	Bachelors	Rent
+457	Goa Properties (Goa.txt)	3 BHK Builder Floor	Mapusa West	Mapusa / Goa	Builder Floor / 3 BHK	1168	₹24,900/month	Unfurnished	3	Bachelors	Rent
+458	Goa Properties (Goa.txt)	2 BHK Apartment	Panaji Town Centre	Panaji / Goa	Apartment / 2 BHK	875	₹18,000/month	Semi-Furnished	2	Bachelors	Rent
+459	Goa Properties (Goa.txt)	1 BHK Apartment	Panaji West	Panaji / Goa	Apartment / 1 BHK	595	₹13,300/month	Fully-Furnished	1	Family	Rent
+460	Goa Properties (Goa.txt)	2 BHK Apartment	Mapusa Colony	Mapusa / Goa	Apartment / 2 BHK	826	₹60.49 L	Semi-Furnished	1	Family	Sale
+461	Goa Properties (Goa.txt)	1 BHK Independent House	Margao South	Margao / Goa	Independent House / 1 BHK	575	₹11,000/month	Fully-Furnished	1	Any	Rent
+462	Goa Properties (Goa.txt)	1 BHK Studio	Panaji Nagar	Panaji / Goa	Studio / 1 BHK	314	₹42.98 L	Semi-Furnished	1	Bachelors	Sale
+463	Goa Properties (Goa.txt)	2 BHK Apartment	Margao Central	Margao / Goa	Apartment / 2 BHK	724	₹60.62 L	Semi-Furnished	2	Bachelors	Sale
+464	Goa Properties (Goa.txt)	3 BHK Independent House	Mapusa Main Road	Mapusa / Goa	Independent House / 3 BHK	1689	₹86.65 L	Fully-Furnished	3	Family	Sale
+465	Goa Properties (Goa.txt)	3 BHK Builder Floor	Margao Colony	Margao / Goa	Builder Floor / 3 BHK	1153	₹28,800/month	Semi-Furnished	3	Any	Rent
+466	Goa Properties (Goa.txt)	2 BHK Apartment	Vasco da Gama Sector 1	Vasco da Gama / Goa	Apartment / 2 BHK	910	₹73.76 L	Fully-Furnished	2	Family	Sale
+467	Goa Properties (Goa.txt)	3 BHK Independent House	Panaji North	Panaji / Goa	Independent House / 3 BHK	1759	₹1.14 Cr	Unfurnished	3	Bachelors	Sale
+468	Goa Properties (Goa.txt)	1 BHK Villa	Panaji Sector 3	Panaji / Goa	Villa / 1 BHK	493	₹11,000/month	Unfurnished	1	Family	Rent
+469	Goa Properties (Goa.txt)	5 BHK Builder Floor	Panaji Main Road	Panaji / Goa	Builder Floor / 5 BHK	2550	₹38,400/month	Semi-Furnished	5	Bachelors	Rent
+470	Goa Properties (Goa.txt)	4 BHK Independent House	Panaji Main Road	Panaji / Goa	Independent House / 4 BHK	1974	₹31,400/month	Semi-Furnished	4	Family	Rent
+471	Goa Properties (Goa.txt)	2 BHK Independent House	Vasco da Gama South	Vasco da Gama / Goa	Independent House / 2 BHK	987	₹66.28 L	Unfurnished	3	Any	Sale
+472	Goa Properties (Goa.txt)	4 BHK Independent House	Panaji Residential Area	Panaji / Goa	Independent House / 4 BHK	1713	₹1.36 Cr	Semi-Furnished	4	Family	Sale
+473	Goa Properties (Goa.txt)	3 BHK Apartment	Vasco da Gama Town Centre	Vasco da Gama / Goa	Apartment / 3 BHK	1283	₹1.09 Cr	Fully-Furnished	3	Any	Sale
+474	Goa Properties (Goa.txt)	3 BHK Villa	Vasco da Gama West	Vasco da Gama / Goa	Villa / 3 BHK	1933	₹30,100/month	Semi-Furnished	4	Bachelors	Rent
+475	Goa Properties (Goa.txt)	3 BHK Apartment	Vasco da Gama Sector 1	Vasco da Gama / Goa	Apartment / 3 BHK	1084	₹1.04 Cr	Fully-Furnished	4	Family	Sale
+476	Goa Properties (Goa.txt)	1 BHK Studio	Mapusa Central	Mapusa / Goa	Studio / 1 BHK	344	₹38 L	Fully-Furnished	2	Any	Sale
+477	Goa Properties (Goa.txt)	3 BHK Apartment	Mapusa Sector 3	Mapusa / Goa	Apartment / 3 BHK	936	₹76.55 L	Semi-Furnished	4	Bachelors	Sale
+478	Goa Properties (Goa.txt)	1 BHK Builder Floor	Mapusa East	Mapusa / Goa	Builder Floor / 1 BHK	531	₹46.08 L	Unfurnished	1	Family	Sale
+479	Goa Properties (Goa.txt)	4 BHK Apartment	Vasco da Gama Colony	Vasco da Gama / Goa	Apartment / 4 BHK	1652	₹39,200/month	Semi-Furnished	4	Any	Rent
+480	Goa Properties (Goa.txt)	2 BHK Villa	Vasco da Gama North	Vasco da Gama / Goa	Villa / 2 BHK	1269	₹86.32 L	Semi-Furnished	2	Bachelors	Sale
+481	Goa Properties (Goa.txt)	3 BHK Builder Floor	Panaji Heights	Panaji / Goa	Builder Floor / 3 BHK	1233	₹21,500/month	Semi-Furnished	2	Family	Rent
+482	Goa Properties (Goa.txt)	2 BHK Apartment	Panaji West	Panaji / Goa	Apartment / 2 BHK	667	₹77.04 L	Fully-Furnished	3	Family	Sale
+483	Goa Properties (Goa.txt)	2 BHK Apartment	Margao Heights	Margao / Goa	Apartment / 2 BHK	846	₹17,500/month	Semi-Furnished	1	Family	Rent
+484	Goa Properties (Goa.txt)	5 BHK Apartment	Mapusa Nagar	Mapusa / Goa	Apartment / 5 BHK	2800	₹1.52 Cr	Unfurnished	4	Family	Sale
+485	Goa Properties (Goa.txt)	2 BHK Villa	Vasco da Gama South	Vasco da Gama / Goa	Villa / 2 BHK	1315	₹91.42 L	Semi-Furnished	2	Bachelors	Sale
+486	Goa Properties (Goa.txt)	1 BHK Apartment	Panaji Town Centre	Panaji / Goa	Apartment / 1 BHK	434	₹35.60 L	Unfurnished	1	Family	Sale
+487	Goa Properties (Goa.txt)	5 BHK Villa	Vasco da Gama West	Vasco da Gama / Goa	Villa / 5 BHK	3618	₹1.73 Cr	Semi-Furnished	6	Family	Sale
+488	Goa Properties (Goa.txt)	2 BHK Apartment	Margao West	Margao / Goa	Apartment / 2 BHK	684	₹68.10 L	Unfurnished	2	Family	Sale
+489	Goa Properties (Goa.txt)	1 BHK Apartment	Margao Nagar	Margao / Goa	Apartment / 1 BHK	565	₹42.93 L	Semi-Furnished	2	Family	Sale
+490	Goa Properties (Goa.txt)	1 BHK Independent House	Panaji East	Panaji / Goa	Independent House / 1 BHK	544	₹48.83 L	Semi-Furnished	1	Bachelors	Sale
+491	Goa Properties (Goa.txt)	3 BHK Builder Floor	Panaji Central	Panaji / Goa	Builder Floor / 3 BHK	1092	₹27,000/month	Semi-Furnished	3	Family	Rent
+492	Goa Properties (Goa.txt)	4 BHK Villa	Vasco da Gama North	Vasco da Gama / Goa	Villa / 4 BHK	2076	₹37,400/month	Fully-Furnished	4	Any	Rent
+493	Goa Properties (Goa.txt)	1 BHK Apartment	Panaji South	Panaji / Goa	Apartment / 1 BHK	378	₹11,300/month	Unfurnished	1	Family	Rent
+494	Goa Properties (Goa.txt)	2 BHK Builder Floor	Mapusa Heights	Mapusa / Goa	Builder Floor / 2 BHK	764	₹66.65 L	Unfurnished	3	Family	Sale
+495	Goa Properties (Goa.txt)	1 BHK Villa	Panaji Sector 1	Panaji / Goa	Villa / 1 BHK	775	₹49.24 L	Semi-Furnished	1	Any	Sale
+496	Goa Properties (Goa.txt)	3 BHK Independent House	Mapusa Town Centre	Mapusa / Goa	Independent House / 3 BHK	1291	₹96.78 L	Fully-Furnished	3	Family	Sale
+497	Goa Properties (Goa.txt)	4 BHK Independent House	Margao Heights	Margao / Goa	Independent House / 4 BHK	2026	₹1.06 Cr	Semi-Furnished	5	Family	Sale
+498	Goa Properties (Goa.txt)	1 BHK Studio	Vasco da Gama East	Vasco da Gama / Goa	Studio / 1 BHK	300	₹9,800/month	Unfurnished	1	Any	Rent
+499	Goa Properties (Goa.txt)	5 BHK Apartment	Vasco da Gama Heights	Vasco da Gama / Goa	Apartment / 5 BHK	2606	₹1.30 Cr	Semi-Furnished	5	Bachelors	Sale
+500	Goa Properties (Goa.txt)	2 BHK Independent House	Mapusa East	Mapusa / Goa	Independent House / 2 BHK	1066	₹23,600/month	Fully-Furnished	2	Bachelors	Rent
+501	Goa Properties (Goa.txt)	4 BHK Apartment	Panaji Sector 1	Panaji / Goa	Apartment / 4 BHK	1259	₹94.08 L	Semi-Furnished	4	Any	Sale
+502	Goa Properties (Goa.txt)	3 BHK Independent House	Margao Main Road	Margao / Goa	Independent House / 3 BHK	1043	₹82.13 L	Semi-Furnished	3	Bachelors	Sale
+503	Goa Properties (Goa.txt)	3 BHK Apartment	Vasco da Gama Sector 2	Vasco da Gama / Goa	Apartment / 3 BHK	1506	₹98.61 L	Semi-Furnished	3	Any	Sale
+504	Goa Properties (Goa.txt)	1 BHK Studio	Mapusa Extension	Mapusa / Goa	Studio / 1 BHK	363	₹49.03 L	Unfurnished	1	Family	Sale
+505	Goa Properties (Goa.txt)	3 BHK Apartment	Panaji Colony	Panaji / Goa	Apartment / 3 BHK	1326	₹25,800/month	Fully-Furnished	2	Bachelors	Rent
+506	Goa Properties (Goa.txt)	3 BHK Independent House	Panaji North	Panaji / Goa	Independent House / 3 BHK	1697	₹91.57 L	Fully-Furnished	3	Any	Sale
+507	Goa Properties (Goa.txt)	3 BHK Independent House	Mapusa Central	Mapusa / Goa	Independent House / 3 BHK	1821	₹29,900/month	Unfurnished	3	Any	Rent
+508	Goa Properties (Goa.txt)	3 BHK Apartment	Mapusa Extension	Mapusa / Goa	Apartment / 3 BHK	920	₹78.05 L	Semi-Furnished	3	Any	Sale
+509	Goa Properties (Goa.txt)	3 BHK Builder Floor	Margao Colony	Margao / Goa	Builder Floor / 3 BHK	1602	₹99.45 L	Semi-Furnished	2	Any	Sale
+510	Goa Properties (Goa.txt)	2 BHK Independent House	Vasco da Gama Residential Area	Vasco da Gama / Goa	Independent House / 2 BHK	1046	₹75.50 L	Semi-Furnished	1	Any	Sale
+511	Goa Properties (Goa.txt)	2 BHK Apartment	Panaji Main Road	Panaji / Goa	Apartment / 2 BHK	968	₹73.73 L	Fully-Furnished	3	Bachelors	Sale
+512	Goa Properties (Goa.txt)	3 BHK Apartment	Vasco da Gama South	Vasco da Gama / Goa	Apartment / 3 BHK	1135	₹1 Cr	Unfurnished	3	Family	Sale
+513	Goa Properties (Goa.txt)	4 BHK Independent House	Mapusa Extension	Mapusa / Goa	Independent House / 4 BHK	1974	₹1.15 Cr	Semi-Furnished	4	Any	Sale
+514	Goa Properties (Goa.txt)	2 BHK Apartment	Vasco da Gama Main Road	Vasco da Gama / Goa	Apartment / 2 BHK	1155	₹84.18 L	Unfurnished	2	Bachelors	Sale
+515	Goa Properties (Goa.txt)	2 BHK Independent House	Margao Town Centre	Margao / Goa	Independent House / 2 BHK	1050	₹78.49 L	Fully-Furnished	2	Bachelors	Sale
+516	Goa Properties (Goa.txt)	2 BHK Apartment	Vasco da Gama Sector 1	Vasco da Gama / Goa	Apartment / 2 BHK	776	₹61.81 L	Semi-Furnished	1	Bachelors	Sale
+517	Goa Properties (Goa.txt)	2 BHK Apartment	Vasco da Gama Extension	Vasco da Gama / Goa	Apartment / 2 BHK	1137	₹20,100/month	Semi-Furnished	2	Bachelors	Rent
+518	Goa Properties (Goa.txt)	3 BHK Apartment	Panaji Sector 2	Panaji / Goa	Apartment / 3 BHK	1119	₹81.84 L	Fully-Furnished	3	Any	Sale
+519	Goa Properties (Goa.txt)	2 BHK Independent House	Vasco da Gama Heights	Vasco da Gama / Goa	Independent House / 2 BHK	1218	₹65.41 L	Unfurnished	3	Any	Sale
+520	Goa Properties (Goa.txt)	2 BHK Villa	Panaji West	Panaji / Goa	Villa / 2 BHK	1147	₹22,300/month	Fully-Furnished	3	Family	Rent
+521	Goa Properties (Goa.txt)	3 BHK Apartment	Mapusa West	Mapusa / Goa	Apartment / 3 BHK	1345	₹1.07 Cr	Semi-Furnished	4	Family	Sale
+522	Goa Properties (Goa.txt)	3 BHK Villa	Mapusa North	Mapusa / Goa	Villa / 3 BHK	1776	₹1.12 Cr	Fully-Furnished	3	Family	Sale
+523	Goa Properties (Goa.txt)	4 BHK Apartment	Vasco da Gama East	Vasco da Gama / Goa	Apartment / 4 BHK	2098	₹1.31 Cr	Semi-Furnished	4	Any	Sale
+524	Goa Properties (Goa.txt)	4 BHK Apartment	Vasco da Gama East	Vasco da Gama / Goa	Apartment / 4 BHK	2024	₹1.26 Cr	Fully-Furnished	3	Family	Sale
+525	Goa Properties (Goa.txt)	1 BHK Studio	Mapusa Town Centre	Mapusa / Goa	Studio / 1 BHK	332	₹36.58 L	Fully-Furnished	1	Bachelors	Sale
+526	Goa Properties (Goa.txt)	3 BHK Builder Floor	Vasco da Gama West	Vasco da Gama / Goa	Builder Floor / 3 BHK	1235	₹1.04 Cr	Fully-Furnished	3	Family	Sale
+527	Goa Properties (Goa.txt)	2 BHK Independent House	Vasco da Gama Extension	Vasco da Gama / Goa	Independent House / 2 BHK	1274	₹65.74 L	Fully-Furnished	3	Family	Sale
+528	Goa Properties (Goa.txt)	2 BHK Builder Floor	Panaji Extension	Panaji / Goa	Builder Floor / 2 BHK	982	₹63.93 L	Semi-Furnished	3	Family	Sale
+529	Goa Properties (Goa.txt)	3 BHK Apartment	Panaji Central	Panaji / Goa	Apartment / 3 BHK	972	₹25,600/month	Semi-Furnished	3	Family	Rent
+530	Goa Properties (Goa.txt)	3 BHK Apartment	Panaji Nagar	Panaji / Goa	Apartment / 3 BHK	1170	₹24,200/month	Fully-Furnished	2	Any	Rent
+531	Goa Properties (Goa.txt)	2 BHK Independent House	Mapusa North	Mapusa / Goa	Independent House / 2 BHK	960	₹22,300/month	Fully-Furnished	2	Bachelors	Rent
+532	Goa Properties (Goa.txt)	3 BHK Villa	Mapusa North	Mapusa / Goa	Villa / 3 BHK	1793	₹1.09 Cr	Unfurnished	2	Bachelors	Sale
+533	Goa Properties (Goa.txt)	3 BHK Independent House	Margao Sector 1	Margao / Goa	Independent House / 3 BHK	1502	₹1.21 Cr	Semi-Furnished	3	Family	Sale
+534	Goa Properties (Goa.txt)	3 BHK Apartment	Vasco da Gama Sector 1	Vasco da Gama / Goa	Apartment / 3 BHK	1107	₹24,800/month	Unfurnished	3	Bachelors	Rent
+535	Goa Properties (Goa.txt)	3 BHK Builder Floor	Mapusa Colony	Mapusa / Goa	Builder Floor / 3 BHK	1249	₹92.18 L	Fully-Furnished	3	Family	Sale
+536	Goa Properties (Goa.txt)	1 BHK Apartment	Panaji Town Centre	Panaji / Goa	Apartment / 1 BHK	512	₹37.52 L	Semi-Furnished	2	Any	Sale
+537	Goa Properties (Goa.txt)	1 BHK Builder Floor	Vasco da Gama Nagar	Vasco da Gama / Goa	Builder Floor / 1 BHK	487	₹36.26 L	Fully-Furnished	2	Family	Sale
+538	Goa Properties (Goa.txt)	4 BHK Apartment	Margao West	Margao / Goa	Apartment / 4 BHK	1517	₹34,600/month	Fully-Furnished	4	Family	Rent
+539	Goa Properties (Goa.txt)	3 BHK Villa	Margao Residential Area	Margao / Goa	Villa / 3 BHK	2285	₹98.01 L	Semi-Furnished	3	Family	Sale
+540	Goa Properties (Goa.txt)	3 BHK Independent House	Panaji Extension	Panaji / Goa	Independent House / 3 BHK	1351	₹28,100/month	Semi-Furnished	4	Family	Rent
+541	Goa Properties (Goa.txt)	3 BHK Builder Floor	Mapusa Sector 2	Mapusa / Goa	Builder Floor / 3 BHK	1109	₹27,800/month	Semi-Furnished	3	Bachelors	Rent
+542	Goa Properties (Goa.txt)	4 BHK Independent House	Margao South	Margao / Goa	Independent House / 4 BHK	1452	₹1.29 Cr	Semi-Furnished	4	Any	Sale
+543	Goa Properties (Goa.txt)	2 BHK Apartment	Vasco da Gama Heights	Vasco da Gama / Goa	Apartment / 2 BHK	767	₹69.15 L	Fully-Furnished	1	Any	Sale
+544	Goa Properties (Goa.txt)	2 BHK Apartment	Mapusa Central	Mapusa / Goa	Apartment / 2 BHK	930	₹23,500/month	Semi-Furnished	2	Any	Rent
+545	Goa Properties (Goa.txt)	5 BHK Builder Floor	Panaji Central	Panaji / Goa	Builder Floor / 5 BHK	2491	₹1.82 Cr	Semi-Furnished	5	Any	Sale
+546	Goa Properties (Goa.txt)	3 BHK Apartment	Mapusa Sector 3	Mapusa / Goa	Apartment / 3 BHK	1247	₹30,900/month	Semi-Furnished	3	Bachelors	Rent
+547	Goa Properties (Goa.txt)	3 BHK Apartment	Panaji Central	Panaji / Goa	Apartment / 3 BHK	1392	₹93.49 L	Unfurnished	3	Bachelors	Sale
+548	Goa Properties (Goa.txt)	2 BHK Apartment	Mapusa Central	Mapusa / Goa	Apartment / 2 BHK	926	₹60.68 L	Unfurnished	1	Any	Sale
+549	Goa Properties (Goa.txt)	2 BHK Apartment	Margao Town Centre	Margao / Goa	Apartment / 2 BHK	1074	₹71.99 L	Fully-Furnished	1	Any	Sale
+550	Goa Properties (Goa.txt)	3 BHK Apartment	Mapusa East	Mapusa / Goa	Apartment / 3 BHK	1204	₹1.11 Cr	Semi-Furnished	3	Family	Sale
+551	Goa Properties (Goa.txt)	2 BHK Apartment	Margao Town Centre	Margao / Goa	Apartment / 2 BHK	725	₹62.17 L	Unfurnished	2	Any	Sale
+552	Goa Properties (Goa.txt)	1 BHK Apartment	Panaji Colony	Panaji / Goa	Apartment / 1 BHK	391	₹11,000/month	Fully-Furnished	1	Any	Rent
+553	Goa Properties (Goa.txt)	2 BHK Apartment	Margao East	Margao / Goa	Apartment / 2 BHK	813	₹21,500/month	Fully-Furnished	2	Family	Rent
+554	Goa Properties (Goa.txt)	3 BHK Builder Floor	Mapusa Town Centre	Mapusa / Goa	Builder Floor / 3 BHK	1007	₹91.48 L	Semi-Furnished	3	Bachelors	Sale
+555	Goa Properties (Goa.txt)	2 BHK Builder Floor	Margao Sector 1	Margao / Goa	Builder Floor / 2 BHK	661	₹65.50 L	Unfurnished	2	Bachelors	Sale
+556	Goa Properties (Goa.txt)	3 BHK Apartment	Margao Sector 2	Margao / Goa	Apartment / 3 BHK	1249	₹1.11 Cr	Semi-Furnished	3	Bachelors	Sale
+557	Goa Properties (Goa.txt)	2 BHK Apartment	Panaji South	Panaji / Goa	Apartment / 2 BHK	745	₹62.35 L	Semi-Furnished	2	Family	Sale
+558	Goa Properties (Goa.txt)	2 BHK Apartment	Mapusa Nagar	Mapusa / Goa	Apartment / 2 BHK	1102	₹62.20 L	Semi-Furnished	1	Bachelors	Sale
+559	Goa Properties (Goa.txt)	2 BHK Independent House	Margao Sector 2	Margao / Goa	Independent House / 2 BHK	988	₹75.78 L	Fully-Furnished	2	Any	Sale
+560	Goa Properties (Goa.txt)	2 BHK Villa	Panaji Town Centre	Panaji / Goa	Villa / 2 BHK	1186	₹23,300/month	Fully-Furnished	3	Bachelors	Rent
+561	Goa Properties (Goa.txt)	2 BHK Apartment	Margao West	Margao / Goa	Apartment / 2 BHK	1006	₹75.06 L	Semi-Furnished	2	Family	Sale
+562	Goa Properties (Goa.txt)	2 BHK Builder Floor	Vasco da Gama Extension	Vasco da Gama / Goa	Builder Floor / 2 BHK	753	₹66.05 L	Semi-Furnished	2	Any	Sale
+563	Goa Properties (Goa.txt)	4 BHK Villa	Panaji East	Panaji / Goa	Villa / 4 BHK	2725	₹34,600/month	Fully-Furnished	4	Any	Rent
+564	Goa Properties (Goa.txt)	3 BHK Villa	Vasco da Gama West	Vasco da Gama / Goa	Villa / 3 BHK	1593	₹99.94 L	Unfurnished	3	Bachelors	Sale
+565	Goa Properties (Goa.txt)	2 BHK Apartment	Vasco da Gama North	Vasco da Gama / Goa	Apartment / 2 BHK	727	₹79.12 L	Unfurnished	2	Family	Sale
+566	Goa Properties (Goa.txt)	3 BHK Apartment	Mapusa Nagar	Mapusa / Goa	Apartment / 3 BHK	1323	₹79.90 L	Unfurnished	3	Bachelors	Sale
+567	Goa Properties (Goa.txt)	3 BHK Apartment	Mapusa Sector 3	Mapusa / Goa	Apartment / 3 BHK	1070	₹88.03 L	Semi-Furnished	3	Family	Sale
+568	Goa Properties (Goa.txt)	3 BHK Apartment	Mapusa Sector 2	Mapusa / Goa	Apartment / 3 BHK	966	₹80.60 L	Unfurnished	3	Family	Sale
+569	Goa Properties (Goa.txt)	3 BHK Apartment	Vasco da Gama Main Road	Vasco da Gama / Goa	Apartment / 3 BHK	1109	₹29,500/month	Semi-Furnished	2	Family	Rent
+570	Goa Properties (Goa.txt)	2 BHK Villa	Margao Colony	Margao / Goa	Villa / 2 BHK	1324	₹22,700/month	Fully-Furnished	3	Family	Rent
+571	Goa Properties (Goa.txt)	1 BHK Studio	Mapusa Colony	Mapusa / Goa	Studio / 1 BHK	361	₹35.57 L	Semi-Furnished	1	Bachelors	Sale
+572	Goa Properties (Goa.txt)	4 BHK Apartment	Panaji Extension	Panaji / Goa	Apartment / 4 BHK	1807	₹1.38 Cr	Semi-Furnished	4	Bachelors	Sale
+573	Goa Properties (Goa.txt)	3 BHK Apartment	Vasco da Gama South	Vasco da Gama / Goa	Apartment / 3 BHK	1171	₹81.41 L	Unfurnished	3	Bachelors	Sale
+574	Goa Properties (Goa.txt)	3 BHK Apartment	Mapusa Nagar	Mapusa / Goa	Apartment / 3 BHK	1164	₹1.08 Cr	Fully-Furnished	3	Family	Sale
+575	Goa Properties (Goa.txt)	3 BHK Apartment	Vasco da Gama Central	Vasco da Gama / Goa	Apartment / 3 BHK	1275	₹95.09 L	Semi-Furnished	3	Family	Sale
+576	Goa Properties (Goa.txt)	4 BHK Apartment	Mapusa Extension	Mapusa / Goa	Apartment / 4 BHK	1265	₹1.36 Cr	Unfurnished	4	Bachelors	Sale
+577	Goa Properties (Goa.txt)	2 BHK Independent House	Panaji South	Panaji / Goa	Independent House / 2 BHK	844	₹73.55 L	Semi-Furnished	1	Family	Sale
+578	Goa Properties (Goa.txt)	2 BHK Apartment	Mapusa Central	Mapusa / Goa	Apartment / 2 BHK	942	₹75.71 L	Fully-Furnished	3	Family	Sale
+579	Goa Properties (Goa.txt)	1 BHK Builder Floor	Mapusa Sector 1	Mapusa / Goa	Builder Floor / 1 BHK	396	₹10,500/month	Semi-Furnished	2	Family	Rent
+580	Goa Properties (Goa.txt)	1 BHK Studio	Mapusa North	Mapusa / Goa	Studio / 1 BHK	300	₹46.78 L	Semi-Furnished	1	Any	Sale
+581	Goa Properties (Goa.txt)	2 BHK Builder Floor	Mapusa Main Road	Mapusa / Goa	Builder Floor / 2 BHK	796	₹15,900/month	Fully-Furnished	3	Bachelors	Rent
+582	Goa Properties (Goa.txt)	4 BHK Apartment	Mapusa Heights	Mapusa / Goa	Apartment / 4 BHK	1948	₹1.49 Cr	Semi-Furnished	4	Family	Sale
+583	Goa Properties (Goa.txt)	2 BHK Independent House	Panaji North	Panaji / Goa	Independent House / 2 BHK	1126	₹21,100/month	Fully-Furnished	1	Bachelors	Rent
+584	Goa Properties (Goa.txt)	2 BHK Builder Floor	Mapusa Heights	Mapusa / Goa	Builder Floor / 2 BHK	990	₹84.23 L	Fully-Furnished	1	Bachelors	Sale
+585	Goa Properties (Goa.txt)	2 BHK Builder Floor	Mapusa Colony	Mapusa / Goa	Builder Floor / 2 BHK	818	₹16,100/month	Fully-Furnished	3	Family	Rent
+586	Goa Properties (Goa.txt)	3 BHK Independent House	Panaji Central	Panaji / Goa	Independent House / 3 BHK	1232	₹1.09 Cr	Semi-Furnished	3	Any	Sale
+587	Goa Properties (Goa.txt)	2 BHK Independent House	Mapusa Sector 2	Mapusa / Goa	Independent House / 2 BHK	1253	₹66.21 L	Fully-Furnished	2	Family	Sale
+588	Goa Properties (Goa.txt)	2 BHK Apartment	Panaji North	Panaji / Goa	Apartment / 2 BHK	866	₹77.24 L	Unfurnished	3	Family	Sale
+589	Goa Properties (Goa.txt)	1 BHK Studio	Margao Nagar	Margao / Goa	Studio / 1 BHK	300	₹41.76 L	Fully-Furnished	1	Bachelors	Sale
+590	Goa Properties (Goa.txt)	2 BHK Apartment	Panaji Central	Panaji / Goa	Apartment / 2 BHK	816	₹62.92 L	Semi-Furnished	1	Any	Sale
+591	Goa Properties (Goa.txt)	2 BHK Apartment	Margao Main Road	Margao / Goa	Apartment / 2 BHK	959	₹22,900/month	Fully-Furnished	3	Family	Rent
+592	Goa Properties (Goa.txt)	3 BHK Independent House	Panaji Main Road	Panaji / Goa	Independent House / 3 BHK	1159	₹93.37 L	Fully-Furnished	3	Family	Sale
+593	Goa Properties (Goa.txt)	2 BHK Independent House	Mapusa Residential Area	Mapusa / Goa	Independent House / 2 BHK	1202	₹62.56 L	Semi-Furnished	2	Bachelors	Sale
+594	Goa Properties (Goa.txt)	3 BHK Villa	Vasco da Gama Sector 2	Vasco da Gama / Goa	Villa / 3 BHK	1714	₹1.04 Cr	Semi-Furnished	4	Family	Sale
+595	Goa Properties (Goa.txt)	3 BHK Apartment	Margao West	Margao / Goa	Apartment / 3 BHK	1308	₹25,500/month	Semi-Furnished	3	Family	Rent
+596	Goa Properties (Goa.txt)	4 BHK Apartment	Vasco da Gama North	Vasco da Gama / Goa	Apartment / 4 BHK	1589	₹1 Cr	Fully-Furnished	4	Bachelors	Sale
+597	Goa Properties (Goa.txt)	3 BHK Villa	Mapusa Extension	Mapusa / Goa	Villa / 3 BHK	1692	₹98.78 L	Semi-Furnished	3	Family	Sale
+598	Goa Properties (Goa.txt)	2 BHK Apartment	Mapusa Colony	Mapusa / Goa	Apartment / 2 BHK	907	₹16,100/month	Unfurnished	2	Bachelors	Rent
+599	Goa Properties (Goa.txt)	3 BHK Independent House	Vasco da Gama Sector 2	Vasco da Gama / Goa	Independent House / 3 BHK	1430	₹1.05 Cr	Fully-Furnished	2	Any	Sale
+600	Goa Properties (Goa.txt)	3 BHK Apartment	Vasco da Gama East	Vasco da Gama / Goa	Apartment / 3 BHK	1135	₹97.84 L	Fully-Furnished	2	Bachelors	Sale
+601	Goa Properties (Goa.txt)	2 BHK Apartment	Panaji Colony	Panaji / Goa	Apartment / 2 BHK	864	₹63.16 L	Fully-Furnished	1	Bachelors	Sale
+602	Goa Properties (Goa.txt)	1 BHK Apartment	Margao West	Margao / Goa	Apartment / 1 BHK	587	₹51.28 L	Fully-Furnished	1	Bachelors	Sale
+603	Goa Properties (Goa.txt)	2 BHK Villa	Panaji Sector 2	Panaji / Goa	Villa / 2 BHK	1370	₹25,500/month	Semi-Furnished	3	Bachelors	Rent
+604	Goa Properties (Goa.txt)	4 BHK Apartment	Panaji Sector 3	Panaji / Goa	Apartment / 4 BHK	2217	₹1.51 Cr	Semi-Furnished	4	Family	Sale
+605	Goa Properties (Goa.txt)	4 BHK Apartment	Panaji Nagar	Panaji / Goa	Apartment / 4 BHK	1711	₹1.01 Cr	Unfurnished	4	Family	Sale
+606	Goa Properties (Goa.txt)	4 BHK Apartment	Panaji Heights	Panaji / Goa	Apartment / 4 BHK	2083	₹1.08 Cr	Fully-Furnished	4	Family	Sale
+607	Goa Properties (Goa.txt)	5 BHK Apartment	Panaji Main Road	Panaji / Goa	Apartment / 5 BHK	2205	₹33,500/month	Semi-Furnished	5	Family	Rent
+608	Goa Properties (Goa.txt)	1 BHK Apartment	Margao Residential Area	Margao / Goa	Apartment / 1 BHK	528	₹15,000/month	Semi-Furnished	1	Any	Rent
+609	Goa Properties (Goa.txt)	3 BHK Apartment	Margao Sector 2	Margao / Goa	Apartment / 3 BHK	1313	₹24,800/month	Semi-Furnished	4	Bachelors	Rent
+610	Goa Properties (Goa.txt)	3 BHK Apartment	Mapusa Nagar	Mapusa / Goa	Apartment / 3 BHK	987	₹20,100/month	Fully-Furnished	4	Bachelors	Rent
+611	Goa Properties (Goa.txt)	1 BHK Apartment	Vasco da Gama Sector 3	Vasco da Gama / Goa	Apartment / 1 BHK	496	₹42.31 L	Fully-Furnished	2	Family	Sale
+612	Goa Properties (Goa.txt)	3 BHK Apartment	Panaji Colony	Panaji / Goa	Apartment / 3 BHK	1338	₹90.52 L	Fully-Furnished	2	Family	Sale
+613	Goa Properties (Goa.txt)	4 BHK Independent House	Vasco da Gama Nagar	Vasco da Gama / Goa	Independent House / 4 BHK	2123	₹1.50 Cr	Semi-Furnished	5	Family	Sale
+614	Goa Properties (Goa.txt)	1 BHK Studio	Panaji Colony	Panaji / Goa	Studio / 1 BHK	367	₹10,300/month	Semi-Furnished	1	Bachelors	Rent
+615	Goa Properties (Goa.txt)	3 BHK Apartment	Margao Residential Area	Margao / Goa	Apartment / 3 BHK	1426	₹1.08 Cr	Semi-Furnished	3	Any	Sale
+616	Goa Properties (Goa.txt)	1 BHK Studio	Margao Sector 1	Margao / Goa	Studio / 1 BHK	471	₹35.43 L	Unfurnished	1	Any	Sale
+617	Goa Properties (Goa.txt)	3 BHK Independent House	Panaji Central	Panaji / Goa	Independent House / 3 BHK	1581	₹1.11 Cr	Semi-Furnished	3	Family	Sale
+618	Goa Properties (Goa.txt)	1 BHK Builder Floor	Panaji Nagar	Panaji / Goa	Builder Floor / 1 BHK	554	₹12,200/month	Fully-Furnished	1	Family	Rent
+619	Goa Properties (Goa.txt)	2 BHK Apartment	Vasco da Gama Residential Area	Vasco da Gama / Goa	Apartment / 2 BHK	1021	₹22,100/month	Semi-Furnished	3	Any	Rent
+620	Goa Properties (Goa.txt)	2 BHK Apartment	Mapusa Nagar	Mapusa / Goa	Apartment / 2 BHK	882	₹71.53 L	Unfurnished	2	Any	Sale
+621	Goa Properties (Goa.txt)	3 BHK Builder Floor	Vasco da Gama Extension	Vasco da Gama / Goa	Builder Floor / 3 BHK	1247	₹28,600/month	Semi-Furnished	2	Family	Rent
+622	Goa Properties (Goa.txt)	2 BHK Apartment	Mapusa Residential Area	Mapusa / Goa	Apartment / 2 BHK	778	₹63.14 L	Semi-Furnished	2	Family	Sale
+623	Goa Properties (Goa.txt)	2 BHK Apartment	Vasco da Gama South	Vasco da Gama / Goa	Apartment / 2 BHK	807	₹22,200/month	Unfurnished	2	Family	Rent
+624	Goa Properties (Goa.txt)	2 BHK Apartment	Panaji Central	Panaji / Goa	Apartment / 2 BHK	703	₹16,000/month	Semi-Furnished	3	Bachelors	Rent
+625	Goa Properties (Goa.txt)	5 BHK Villa	Panaji Nagar	Panaji / Goa	Villa / 5 BHK	3179	₹1.93 Cr	Semi-Furnished	6	Family	Sale
+626	Goa Properties (Goa.txt)	3 BHK Apartment	Panaji West	Panaji / Goa	Apartment / 3 BHK	1054	₹86.51 L	Semi-Furnished	2	Family	Sale
+627	Goa Properties (Goa.txt)	3 BHK Independent House	Mapusa North	Mapusa / Goa	Independent House / 3 BHK	1764	₹26,500/month	Unfurnished	3	Family	Rent
+628	Goa Properties (Goa.txt)	1 BHK Apartment	Mapusa Town Centre	Mapusa / Goa	Apartment / 1 BHK	608	₹10,800/month	Semi-Furnished	1	Family	Rent
+629	Goa Properties (Goa.txt)	1 BHK Apartment	Vasco da Gama Sector 3	Vasco da Gama / Goa	Apartment / 1 BHK	462	₹38.02 L	Semi-Furnished	2	Any	Sale
+630	Goa Properties (Goa.txt)	2 BHK Independent House	Panaji Sector 3	Panaji / Goa	Independent House / 2 BHK	689	₹74.57 L	Semi-Furnished	2	Bachelors	Sale
+631	Goa Properties (Goa.txt)	4 BHK Builder Floor	Mapusa Sector 3	Mapusa / Goa	Builder Floor / 4 BHK	1742	₹1.31 Cr	Semi-Furnished	5	Any	Sale
+632	Goa Properties (Goa.txt)	4 BHK Independent House	Margao Colony	Margao / Goa	Independent House / 4 BHK	2612	₹1.30 Cr	Semi-Furnished	4	Family	Sale
+633	Goa Properties (Goa.txt)	2 BHK Builder Floor	Mapusa Sector 1	Mapusa / Goa	Builder Floor / 2 BHK	830	₹63.47 L	Semi-Furnished	2	Family	Sale
+634	Goa Properties (Goa.txt)	2 BHK Apartment	Mapusa Colony	Mapusa / Goa	Apartment / 2 BHK	841	₹81.22 L	Fully-Furnished	2	Any	Sale
+635	Goa Properties (Goa.txt)	2 BHK Apartment	Panaji Sector 1	Panaji / Goa	Apartment / 2 BHK	943	₹83.10 L	Semi-Furnished	3	Bachelors	Sale
+636	Goa Properties (Goa.txt)	2 BHK Apartment	Mapusa West	Mapusa / Goa	Apartment / 2 BHK	778	₹22,400/month	Fully-Furnished	1	Any	Rent
+637	Goa Properties (Goa.txt)	3 BHK Apartment	Vasco da Gama Colony	Vasco da Gama / Goa	Apartment / 3 BHK	1425	₹1.06 Cr	Semi-Furnished	3	Family	Sale
+638	Goa Properties (Goa.txt)	3 BHK Apartment	Margao North	Margao / Goa	Apartment / 3 BHK	1170	₹78.81 L	Semi-Furnished	4	Family	Sale
+639	Goa Properties (Goa.txt)	2 BHK Independent House	Panaji Central	Panaji / Goa	Independent House / 2 BHK	996	₹21,700/month	Semi-Furnished	2	Bachelors	Rent
+640	Goa Properties (Goa.txt)	4 BHK Apartment	Vasco da Gama North	Vasco da Gama / Goa	Apartment / 4 BHK	1896	₹36,700/month	Fully-Furnished	5	Bachelors	Rent
+641	Goa Properties (Goa.txt)	1 BHK Studio	Mapusa North	Mapusa / Goa	Studio / 1 BHK	382	₹42.35 L	Semi-Furnished	1	Family	Sale
+642	Goa Properties (Goa.txt)	2 BHK Apartment	Mapusa Extension	Mapusa / Goa	Apartment / 2 BHK	803	₹77.48 L	Semi-Furnished	2	Family	Sale
+643	Goa Properties (Goa.txt)	1 BHK Studio	Panaji Main Road	Panaji / Goa	Studio / 1 BHK	308	₹11,100/month	Unfurnished	1	Any	Rent
+644	Goa Properties (Goa.txt)	2 BHK Apartment	Panaji Central	Panaji / Goa	Apartment / 2 BHK	860	₹59.12 L	Fully-Furnished	2	Family	Sale
+645	Goa Properties (Goa.txt)	3 BHK Apartment	Vasco da Gama Sector 2	Vasco da Gama / Goa	Apartment / 3 BHK	1391	₹94.92 L	Semi-Furnished	3	Family	Sale
+646	Goa Properties (Goa.txt)	3 BHK Apartment	Vasco da Gama Residential Area	Vasco da Gama / Goa	Apartment / 3 BHK	947	₹23,200/month	Unfurnished	2	Family	Rent
+647	Goa Properties (Goa.txt)	5 BHK Apartment	Panaji Nagar	Panaji / Goa	Apartment / 5 BHK	2213	₹1.30 Cr	Semi-Furnished	6	Family	Sale
+648	Goa Properties (Goa.txt)	3 BHK Apartment	Vasco da Gama Extension	Vasco da Gama / Goa	Apartment / 3 BHK	1249	₹1.08 Cr	Semi-Furnished	3	Bachelors	Sale
+649	Goa Properties (Goa.txt)	3 BHK Villa	Margao Town Centre	Margao / Goa	Villa / 3 BHK	1879	₹1.01 Cr	Semi-Furnished	3	Family	Sale
+650	Goa Properties (Goa.txt)	4 BHK Apartment	Vasco da Gama Main Road	Vasco da Gama / Goa	Apartment / 4 BHK	1428	₹1.18 Cr	Unfurnished	4	Bachelors	Sale
+651	Goa Properties (Goa.txt)	1 BHK Studio	Vasco da Gama West	Vasco da Gama / Goa	Studio / 1 BHK	476	₹39.92 L	Fully-Furnished	1	Family	Sale
+652	Goa Properties (Goa.txt)	2 BHK Apartment	Panaji Town Centre	Panaji / Goa	Apartment / 2 BHK	725	₹17,000/month	Fully-Furnished	2	Any	Rent
+653	Goa Properties (Goa.txt)	4 BHK Independent House	Margao Nagar	Margao / Goa	Independent House / 4 BHK	1849	₹1.07 Cr	Semi-Furnished	4	Any	Sale
+654	Goa Properties (Goa.txt)	3 BHK Apartment	Vasco da Gama Residential Area	Vasco da Gama / Goa	Apartment / 3 BHK	1185	₹92.49 L	Fully-Furnished	4	Bachelors	Sale
+655	Goa Properties (Goa.txt)	2 BHK Apartment	Vasco da Gama North	Vasco da Gama / Goa	Apartment / 2 BHK	1047	₹59.56 L	Fully-Furnished	2	Family	Sale
+656	Goa Properties (Goa.txt)	3 BHK Apartment	Margao South	Margao / Goa	Apartment / 3 BHK	1084	₹92.10 L	Semi-Furnished	3	Family	Sale
+657	Goa Properties (Goa.txt)	3 BHK Apartment	Margao Nagar	Margao / Goa	Apartment / 3 BHK	1225	₹29,900/month	Unfurnished	4	Family	Rent
+658	Goa Properties (Goa.txt)	2 BHK Apartment	Vasco da Gama Central	Vasco da Gama / Goa	Apartment / 2 BHK	1051	₹77.87 L	Unfurnished	1	Family	Sale
+659	Goa Properties (Goa.txt)	2 BHK Apartment	Vasco da Gama Residential Area	Vasco da Gama / Goa	Apartment / 2 BHK	799	₹60.43 L	Unfurnished	3	Bachelors	Sale
+660	Goa Properties (Goa.txt)	2 BHK Apartment	Margao Central	Margao / Goa	Apartment / 2 BHK	812	₹15,700/month	Semi-Furnished	1	Any	Rent
+661	Goa Properties (Goa.txt)	1 BHK Villa	Vasco da Gama Sector 1	Vasco da Gama / Goa	Villa / 1 BHK	632	₹12,400/month	Semi-Furnished	1	Bachelors	Rent
+662	Goa Properties (Goa.txt)	1 BHK Apartment	Panaji Extension	Panaji / Goa	Apartment / 1 BHK	468	₹12,000/month	Semi-Furnished	2	Family	Rent
+663	Goa Properties (Goa.txt)	2 BHK Apartment	Margao Nagar	Margao / Goa	Apartment / 2 BHK	727	₹77.94 L	Unfurnished	3	Any	Sale
+664	Goa Properties (Goa.txt)	2 BHK Apartment	Mapusa Sector 2	Mapusa / Goa	Apartment / 2 BHK	965	₹20,500/month	Fully-Furnished	2	Bachelors	Rent
+665	Goa Properties (Goa.txt)	1 BHK Apartment	Margao Central	Margao / Goa	Apartment / 1 BHK	588	₹47.18 L	Semi-Furnished	1	Family	Sale
+666	Goa Properties (Goa.txt)	2 BHK Builder Floor	Margao West	Margao / Goa	Builder Floor / 2 BHK	895	₹78 L	Fully-Furnished	3	Bachelors	Sale
+667	Goa Properties (Goa.txt)	3 BHK Apartment	Mapusa Town Centre	Mapusa / Goa	Apartment / 3 BHK	1034	₹89.91 L	Fully-Furnished	4	Family	Sale
+668	Goa Properties (Goa.txt)	3 BHK Apartment	Vasco da Gama Nagar	Vasco da Gama / Goa	Apartment / 3 BHK	1151	₹95.71 L	Unfurnished	4	Family	Sale
+669	Goa Properties (Goa.txt)	3 BHK Apartment	Panaji Main Road	Panaji / Goa	Apartment / 3 BHK	1098	₹97.93 L	Semi-Furnished	4	Bachelors	Sale
+670	Goa Properties (Goa.txt)	2 BHK Villa	Mapusa Central	Mapusa / Goa	Villa / 2 BHK	1150	₹74.32 L	Semi-Furnished	2	Family	Sale
+671	Goa Properties (Goa.txt)	2 BHK Apartment	Margao Heights	Margao / Goa	Apartment / 2 BHK	958	₹58.52 L	Fully-Furnished	2	Family	Sale
+672	Goa Properties (Goa.txt)	1 BHK Builder Floor	Margao Nagar	Margao / Goa	Builder Floor / 1 BHK	392	₹13,100/month	Semi-Furnished	1	Family	Rent
+673	Goa Properties (Goa.txt)	3 BHK Builder Floor	Panaji North	Panaji / Goa	Builder Floor / 3 BHK	1301	₹28,200/month	Fully-Furnished	2	Any	Rent
+674	Goa Properties (Goa.txt)	2 BHK Builder Floor	Margao Sector 3	Margao / Goa	Builder Floor / 2 BHK	835	₹66.74 L	Unfurnished	2	Family	Sale
+675	Goa Properties (Goa.txt)	3 BHK Apartment	Mapusa Heights	Mapusa / Goa	Apartment / 3 BHK	1355	₹27,100/month	Semi-Furnished	4	Bachelors	Rent
+676	Goa Properties (Goa.txt)	1 BHK Apartment	Panaji Town Centre	Panaji / Goa	Apartment / 1 BHK	483	₹11,700/month	Semi-Furnished	1	Family	Rent
+677	Goa Properties (Goa.txt)	2 BHK Independent House	Vasco da Gama Heights	Vasco da Gama / Goa	Independent House / 2 BHK	1017	₹19,700/month	Semi-Furnished	2	Bachelors	Rent
+678	Goa Properties (Goa.txt)	1 BHK Studio	Mapusa West	Mapusa / Goa	Studio / 1 BHK	430	₹11,000/month	Fully-Furnished	1	Any	Rent
+679	Goa Properties (Goa.txt)	3 BHK Apartment	Panaji Extension	Panaji / Goa	Apartment / 3 BHK	1372	₹1.01 Cr	Semi-Furnished	3	Any	Sale
+680	Goa Properties (Goa.txt)	2 BHK Apartment	Margao Heights	Margao / Goa	Apartment / 2 BHK	944	₹16,500/month	Semi-Furnished	3	Family	Rent
+681	Goa Properties (Goa.txt)	2 BHK Apartment	Mapusa Town Centre	Mapusa / Goa	Apartment / 2 BHK	797	₹79.81 L	Semi-Furnished	2	Bachelors	Sale
+682	Goa Properties (Goa.txt)	2 BHK Apartment	Mapusa Sector 1	Mapusa / Goa	Apartment / 2 BHK	868	₹57.55 L	Semi-Furnished	3	Bachelors	Sale
+683	Goa Properties (Goa.txt)	4 BHK Builder Floor	Vasco da Gama Extension	Vasco da Gama / Goa	Builder Floor / 4 BHK	1952	₹1.45 Cr	Semi-Furnished	5	Any	Sale
+684	Goa Properties (Goa.txt)	2 BHK Apartment	Panaji East	Panaji / Goa	Apartment / 2 BHK	870	₹65.87 L	Unfurnished	1	Family	Sale
+685	Goa Properties (Goa.txt)	3 BHK Apartment	Margao Main Road	Margao / Goa	Apartment / 3 BHK	1235	₹88.70 L	Unfurnished	4	Bachelors	Sale
+686	Goa Properties (Goa.txt)	3 BHK Independent House	Mapusa Town Centre	Mapusa / Goa	Independent House / 3 BHK	1664	₹94.44 L	Unfurnished	3	Bachelors	Sale
+687	Goa Properties (Goa.txt)	5 BHK Apartment	Vasco da Gama Extension	Vasco da Gama / Goa	Apartment / 5 BHK	2542	₹49,500/month	Semi-Furnished	5	Bachelors	Rent
+688	Goa Properties (Goa.txt)	2 BHK Apartment	Vasco da Gama Main Road	Vasco da Gama / Goa	Apartment / 2 BHK	944	₹71.57 L	Semi-Furnished	2	Family	Sale
+689	Goa Properties (Goa.txt)	2 BHK Villa	Mapusa Residential Area	Mapusa / Goa	Villa / 2 BHK	1006	₹21,500/month	Semi-Furnished	2	Family	Rent
+690	Goa Properties (Goa.txt)	1 BHK Builder Floor	Margao Heights	Margao / Goa	Builder Floor / 1 BHK	539	₹10,700/month	Semi-Furnished	1	Bachelors	Rent
+691	Goa Properties (Goa.txt)	5 BHK Villa	Mapusa Heights	Mapusa / Goa	Villa / 5 BHK	3537	₹52,200/month	Semi-Furnished	6	Bachelors	Rent
+692	Goa Properties (Goa.txt)	1 BHK Apartment	Margao Town Centre	Margao / Goa	Apartment / 1 BHK	597	₹13,000/month	Semi-Furnished	1	Family	Rent
+693	Goa Properties (Goa.txt)	2 BHK Builder Floor	Vasco da Gama Colony	Vasco da Gama / Goa	Builder Floor / 2 BHK	925	₹20,700/month	Semi-Furnished	3	Bachelors	Rent
+694	Goa Properties (Goa.txt)	2 BHK Apartment	Margao Residential Area	Margao / Goa	Apartment / 2 BHK	846	₹22,900/month	Fully-Furnished	2	Family	Rent
+695	Goa Properties (Goa.txt)	2 BHK Villa	Mapusa Central	Mapusa / Goa	Villa / 2 BHK	1131	₹21,200/month	Fully-Furnished	2	Family	Rent
+696	Goa Properties (Goa.txt)	1 BHK Apartment	Panaji Residential Area	Panaji / Goa	Apartment / 1 BHK	619	₹52.58 L	Unfurnished	1	Family	Sale
+697	Goa Properties (Goa.txt)	2 BHK Apartment	Margao Extension	Margao / Goa	Apartment / 2 BHK	943	₹17,900/month	Fully-Furnished	2	Bachelors	Rent
+698	Goa Properties (Goa.txt)	2 BHK Apartment	Mapusa South	Mapusa / Goa	Apartment / 2 BHK	706	₹67.28 L	Semi-Furnished	2	Family	Sale
+699	Goa Properties (Goa.txt)	2 BHK Villa	Vasco da Gama Sector 3	Vasco da Gama / Goa	Villa / 2 BHK	1183	₹18,200/month	Fully-Furnished	2	Bachelors	Rent
+700	Goa Properties (Goa.txt)	4 BHK Builder Floor	Panaji Sector 1	Panaji / Goa	Builder Floor / 4 BHK	1440	₹29,000/month	Unfurnished	5	Family	Rent
+701	Goa Properties (Goa.txt)	3 BHK Apartment	Panaji Sector 1	Panaji / Goa	Apartment / 3 BHK	1281	₹97.50 L	Fully-Furnished	4	Any	Sale
+702	Goa Properties (Goa.txt)	3 BHK Apartment	Panaji Town Centre	Panaji / Goa	Apartment / 3 BHK	1387	₹1.08 Cr	Unfurnished	3	Any	Sale
+703	Goa Properties (Goa.txt)	2 BHK Builder Floor	Mapusa Town Centre	Mapusa / Goa	Builder Floor / 2 BHK	1022	₹22,600/month	Semi-Furnished	3	Family	Rent
+704	Goa Properties (Goa.txt)	2 BHK Apartment	Vasco da Gama South	Vasco da Gama / Goa	Apartment / 2 BHK	794	₹67.20 L	Fully-Furnished	1	Any	Sale
+705	Goa Properties (Goa.txt)	1 BHK Apartment	Mapusa East	Mapusa / Goa	Apartment / 1 BHK	511	₹13,900/month	Unfurnished	2	Bachelors	Rent
+706	Goa Properties (Goa.txt)	3 BHK Builder Floor	Vasco da Gama Main Road	Vasco da Gama / Goa	Builder Floor / 3 BHK	1405	₹87.64 L	Fully-Furnished	3	Bachelors	Sale
+707	Goa Properties (Goa.txt)	1 BHK Builder Floor	Mapusa North	Mapusa / Goa	Builder Floor / 1 BHK	485	₹36.25 L	Semi-Furnished	1	Family	Sale
+708	Goa Properties (Goa.txt)	4 BHK Apartment	Mapusa Heights	Mapusa / Goa	Apartment / 4 BHK	1768	₹1.37 Cr	Unfurnished	4	Bachelors	Sale
+709	Goa Properties (Goa.txt)	2 BHK Builder Floor	Vasco da Gama East	Vasco da Gama / Goa	Builder Floor / 2 BHK	651	₹67.09 L	Fully-Furnished	2	Family	Sale
+710	Goa Properties (Goa.txt)	3 BHK Builder Floor	Mapusa Nagar	Mapusa / Goa	Builder Floor / 3 BHK	1192	₹93.83 L	Fully-Furnished	3	Family	Sale
+711	Goa Properties (Goa.txt)	1 BHK Apartment	Mapusa Extension	Mapusa / Goa	Apartment / 1 BHK	586	₹12,800/month	Unfurnished	2	Family	Rent
+712	Goa Properties (Goa.txt)	4 BHK Builder Floor	Vasco da Gama Sector 3	Vasco da Gama / Goa	Builder Floor / 4 BHK	1525	₹99.82 L	Semi-Furnished	4	Bachelors	Sale
+713	Goa Properties (Goa.txt)	1 BHK Studio	Vasco da Gama Main Road	Vasco da Gama / Goa	Studio / 1 BHK	300	₹9,300/month	Semi-Furnished	1	Family	Rent
+714	Goa Properties (Goa.txt)	3 BHK Apartment	Margao Colony	Margao / Goa	Apartment / 3 BHK	1499	₹24,200/month	Semi-Furnished	3	Any	Rent
+715	Goa Properties (Goa.txt)	3 BHK Independent House	Vasco da Gama Town Centre	Vasco da Gama / Goa	Independent House / 3 BHK	1683	₹91.10 L	Unfurnished	3	Bachelors	Sale
+716	Goa Properties (Goa.txt)	2 BHK Apartment	Mapusa Main Road	Mapusa / Goa	Apartment / 2 BHK	672	₹72.92 L	Fully-Furnished	2	Family	Sale
+717	Goa Properties (Goa.txt)	2 BHK Apartment	Mapusa East	Mapusa / Goa	Apartment / 2 BHK	980	₹18,500/month	Semi-Furnished	1	Any	Rent
+718	Goa Properties (Goa.txt)	5 BHK Villa	Mapusa Central	Mapusa / Goa	Villa / 5 BHK	3051	₹41,400/month	Semi-Furnished	5	Any	Rent
+719	Goa Properties (Goa.txt)	1 BHK Studio	Margao East	Margao / Goa	Studio / 1 BHK	493	₹12,300/month	Semi-Furnished	2	Any	Rent
+720	Goa Properties (Goa.txt)	4 BHK Apartment	Mapusa Town Centre	Mapusa / Goa	Apartment / 4 BHK	1864	₹1.07 Cr	Semi-Furnished	4	Any	Sale
+721	Goa Properties (Goa.txt)	4 BHK Apartment	Margao Heights	Margao / Goa	Apartment / 4 BHK	1519	₹1.41 Cr	Unfurnished	4	Bachelors	Sale
+722	Goa Properties (Goa.txt)	2 BHK Apartment	Panaji Central	Panaji / Goa	Apartment / 2 BHK	597	₹20,900/month	Fully-Furnished	1	Bachelors	Rent
+723	Goa Properties (Goa.txt)	2 BHK Independent House	Margao Heights	Margao / Goa	Independent House / 2 BHK	1138	₹71.85 L	Semi-Furnished	3	Family	Sale
+724	Goa Properties (Goa.txt)	3 BHK Apartment	Vasco da Gama Sector 3	Vasco da Gama / Goa	Apartment / 3 BHK	1166	₹26,400/month	Semi-Furnished	3	Family	Rent
+725	Goa Properties (Goa.txt)	1 BHK Studio	Margao East	Margao / Goa	Studio / 1 BHK	300	₹43.01 L	Semi-Furnished	1	Any	Sale
+726	Goa Properties (Goa.txt)	3 BHK Apartment	Mapusa North	Mapusa / Goa	Apartment / 3 BHK	1342	₹1.11 Cr	Semi-Furnished	4	Any	Sale
+727	Goa Properties (Goa.txt)	1 BHK Builder Floor	Panaji Central	Panaji / Goa	Builder Floor / 1 BHK	444	₹40.38 L	Unfurnished	1	Family	Sale
+728	Goa Properties (Goa.txt)	2 BHK Independent House	Vasco da Gama West	Vasco da Gama / Goa	Independent House / 2 BHK	779	₹73.76 L	Semi-Furnished	2	Family	Sale
+729	Goa Properties (Goa.txt)	1 BHK Independent House	Panaji Town Centre	Panaji / Goa	Independent House / 1 BHK	547	₹14,500/month	Semi-Furnished	1	Bachelors	Rent
+730	Goa Properties (Goa.txt)	2 BHK Independent House	Panaji Sector 3	Panaji / Goa	Independent House / 2 BHK	998	₹78.92 L	Fully-Furnished	1	Any	Sale
+731	Goa Properties (Goa.txt)	1 BHK Independent House	Panaji East	Panaji / Goa	Independent House / 1 BHK	567	₹41.51 L	Fully-Furnished	1	Bachelors	Sale
+732	Goa Properties (Goa.txt)	2 BHK Builder Floor	Mapusa Town Centre	Mapusa / Goa	Builder Floor / 2 BHK	818	₹70.52 L	Semi-Furnished	2	Bachelors	Sale
+733	Goa Properties (Goa.txt)	3 BHK Apartment	Vasco da Gama Nagar	Vasco da Gama / Goa	Apartment / 3 BHK	1159	₹27,300/month	Fully-Furnished	2	Family	Rent
+734	Goa Properties (Goa.txt)	2 BHK Apartment	Vasco da Gama Town Centre	Vasco da Gama / Goa	Apartment / 2 BHK	996	₹86.19 L	Unfurnished	2	Any	Sale
+735	Goa Properties (Goa.txt)	3 BHK Apartment	Mapusa Sector 2	Mapusa / Goa	Apartment / 3 BHK	1018	₹29,500/month	Unfurnished	3	Family	Rent
+736	Goa Properties (Goa.txt)	3 BHK Builder Floor	Vasco da Gama Residential Area	Vasco da Gama / Goa	Builder Floor / 3 BHK	1591	₹32,100/month	Semi-Furnished	3	Any	Rent
+737	Goa Properties (Goa.txt)	3 BHK Builder Floor	Mapusa West	Mapusa / Goa	Builder Floor / 3 BHK	1370	₹29,500/month	Semi-Furnished	3	Family	Rent
+738	Goa Properties (Goa.txt)	3 BHK Villa	Vasco da Gama Sector 3	Vasco da Gama / Goa	Villa / 3 BHK	1329	₹29,900/month	Fully-Furnished	3	Any	Rent
+739	Goa Properties (Goa.txt)	1 BHK Apartment	Vasco da Gama Central	Vasco da Gama / Goa	Apartment / 1 BHK	515	₹11,100/month	Semi-Furnished	1	Bachelors	Rent
+740	Goa Properties (Goa.txt)	4 BHK Builder Floor	Margao South	Margao / Goa	Builder Floor / 4 BHK	1874	₹1.07 Cr	Semi-Furnished	4	Any	Sale
+741	Goa Properties (Goa.txt)	2 BHK Villa	Mapusa West	Mapusa / Goa	Villa / 2 BHK	1122	₹22,900/month	Unfurnished	3	Any	Rent
+742	Goa Properties (Goa.txt)	1 BHK Studio	Margao Sector 3	Margao / Goa	Studio / 1 BHK	449	₹48.86 L	Unfurnished	1	Family	Sale
+743	Goa Properties (Goa.txt)	4 BHK Apartment	Vasco da Gama Extension	Vasco da Gama / Goa	Apartment / 4 BHK	1967	₹33,600/month	Semi-Furnished	5	Family	Rent
+744	Goa Properties (Goa.txt)	1 BHK Apartment	Panaji Main Road	Panaji / Goa	Apartment / 1 BHK	472	₹39.11 L	Semi-Furnished	1	Family	Sale
+745	Goa Properties (Goa.txt)	1 BHK Apartment	Margao Sector 3	Margao / Goa	Apartment / 1 BHK	496	₹12,300/month	Fully-Furnished	1	Any	Rent
+746	Goa Properties (Goa.txt)	2 BHK Apartment	Panaji West	Panaji / Goa	Apartment / 2 BHK	889	₹66.21 L	Fully-Furnished	2	Bachelors	Sale
+747	Goa Properties (Goa.txt)	2 BHK Independent House	Panaji Residential Area	Panaji / Goa	Independent House / 2 BHK	1009	₹18,000/month	Semi-Furnished	2	Bachelors	Rent
+748	Goa Properties (Goa.txt)	3 BHK Apartment	Vasco da Gama South	Vasco da Gama / Goa	Apartment / 3 BHK	1312	₹22,900/month	Unfurnished	3	Family	Rent
+749	Goa Properties (Goa.txt)	2 BHK Independent House	Margao East	Margao / Goa	Independent House / 2 BHK	1063	₹81.78 L	Semi-Furnished	2	Family	Sale
+750	Goa Properties (Goa.txt)	4 BHK Apartment	Vasco da Gama Sector 1	Vasco da Gama / Goa	Apartment / 4 BHK	1975	₹1.16 Cr	Unfurnished	4	Bachelors	Sale
+751	Goa Properties (Goa.txt)	2 BHK Independent House	Mapusa North	Mapusa / Goa	Independent House / 2 BHK	970	₹16,200/month	Unfurnished	2	Family	Rent
+752	Goa Properties (Goa.txt)	3 BHK Apartment	Margao Sector 3	Margao / Goa	Apartment / 3 BHK	1134	₹1.12 Cr	Semi-Furnished	4	Bachelors	Sale
+753	Goa Properties (Goa.txt)	3 BHK Independent House	Margao Heights	Margao / Goa	Independent House / 3 BHK	1234	₹80.99 L	Semi-Furnished	4	Family	Sale
+754	Goa Properties (Goa.txt)	3 BHK Apartment	Margao West	Margao / Goa	Apartment / 3 BHK	1318	₹24,200/month	Semi-Furnished	4	Family	Rent
+755	Goa Properties (Goa.txt)	2 BHK Apartment	Margao Residential Area	Margao / Goa	Apartment / 2 BHK	812	₹81.58 L	Fully-Furnished	1	Family	Sale
+756	Goa Properties (Goa.txt)	3 BHK Apartment	Mapusa Residential Area	Mapusa / Goa	Apartment / 3 BHK	1393	₹27,300/month	Unfurnished	3	Family	Rent
+757	Goa Properties (Goa.txt)	2 BHK Apartment	Margao Nagar	Margao / Goa	Apartment / 2 BHK	618	₹74.29 L	Unfurnished	2	Family	Sale
+758	Goa Properties (Goa.txt)	4 BHK Apartment	Panaji Sector 3	Panaji / Goa	Apartment / 4 BHK	1869	₹1.07 Cr	Semi-Furnished	3	Family	Sale
+759	Goa Properties (Goa.txt)	2 BHK Independent House	Vasco da Gama Town Centre	Vasco da Gama / Goa	Independent House / 2 BHK	1008	₹67.07 L	Semi-Furnished	1	Family	Sale
+760	Goa Properties (Goa.txt)	3 BHK Apartment	Panaji North	Panaji / Goa	Apartment / 3 BHK	1437	₹83.44 L	Fully-Furnished	4	Family	Sale
+761	Goa Properties (Goa.txt)	1 BHK Villa	Vasco da Gama Residential Area	Vasco da Gama / Goa	Villa / 1 BHK	782	₹55.77 L	Semi-Furnished	2	Family	Sale
+762	Goa Properties (Goa.txt)	4 BHK Apartment	Panaji Residential Area	Panaji / Goa	Apartment / 4 BHK	1953	₹28,900/month	Unfurnished	4	Family	Rent
+763	Goa Properties (Goa.txt)	2 BHK Builder Floor	Margao Heights	Margao / Goa	Builder Floor / 2 BHK	852	₹75.49 L	Fully-Furnished	2	Family	Sale
+764	Goa Properties (Goa.txt)	1 BHK Apartment	Panaji Colony	Panaji / Goa	Apartment / 1 BHK	498	₹14,600/month	Fully-Furnished	1	Family	Rent
+765	Goa Properties (Goa.txt)	2 BHK Apartment	Panaji Extension	Panaji / Goa	Apartment / 2 BHK	888	₹23,000/month	Unfurnished	1	Any	Rent
+766	Goa Properties (Goa.txt)	2 BHK Independent House	Mapusa Colony	Mapusa / Goa	Independent House / 2 BHK	1080	₹17,400/month	Semi-Furnished	2	Family	Rent
+767	Goa Properties (Goa.txt)	5 BHK Builder Floor	Panaji East	Panaji / Goa	Builder Floor / 5 BHK	2521	₹1.41 Cr	Unfurnished	5	Family	Sale
+768	Goa Properties (Goa.txt)	2 BHK Independent House	Vasco da Gama West	Vasco da Gama / Goa	Independent House / 2 BHK	1070	₹85.34 L	Unfurnished	1	Any	Sale
+769	Goa Properties (Goa.txt)	3 BHK Builder Floor	Mapusa Main Road	Mapusa / Goa	Builder Floor / 3 BHK	1426	₹27,400/month	Unfurnished	2	Family	Rent
+770	Goa Properties (Goa.txt)	4 BHK Apartment	Panaji East	Panaji / Goa	Apartment / 4 BHK	1818	₹37,800/month	Unfurnished	4	Any	Rent
+771	Goa Properties (Goa.txt)	3 BHK Builder Floor	Panaji Town Centre	Panaji / Goa	Builder Floor / 3 BHK	1259	₹30,800/month	Unfurnished	3	Bachelors	Rent
+772	Goa Properties (Goa.txt)	5 BHK Apartment	Panaji Sector 1	Panaji / Goa	Apartment / 5 BHK	3374	₹1.74 Cr	Unfurnished	4	Bachelors	Sale
+773	Goa Properties (Goa.txt)	3 BHK Apartment	Vasco da Gama East	Vasco da Gama / Goa	Apartment / 3 BHK	1213	₹28,900/month	Fully-Furnished	4	Bachelors	Rent
+774	Goa Properties (Goa.txt)	3 BHK Apartment	Margao North	Margao / Goa	Apartment / 3 BHK	1347	₹1.04 Cr	Semi-Furnished	2	Family	Sale
+775	Goa Properties (Goa.txt)	2 BHK Apartment	Vasco da Gama Central	Vasco da Gama / Goa	Apartment / 2 BHK	758	₹21,000/month	Semi-Furnished	1	Bachelors	Rent
+776	Goa Properties (Goa.txt)	3 BHK Independent House	Panaji Colony	Panaji / Goa	Independent House / 3 BHK	1454	₹31,300/month	Fully-Furnished	3	Family	Rent
+777	Goa Properties (Goa.txt)	3 BHK Apartment	Margao Heights	Margao / Goa	Apartment / 3 BHK	1379	₹1.17 Cr	Semi-Furnished	3	Any	Sale
+778	Goa Properties (Goa.txt)	5 BHK Apartment	Vasco da Gama Main Road	Vasco da Gama / Goa	Apartment / 5 BHK	2122	₹1.70 Cr	Semi-Furnished	5	Family	Sale
+779	Goa Properties (Goa.txt)	2 BHK Apartment	Vasco da Gama South	Vasco da Gama / Goa	Apartment / 2 BHK	865	₹22,000/month	Semi-Furnished	2	Family	Rent
+780	Goa Properties (Goa.txt)	4 BHK Independent House	Vasco da Gama Extension	Vasco da Gama / Goa	Independent House / 4 BHK	1573	₹98.96 L	Semi-Furnished	4	Family	Sale
+781	Goa Properties (Goa.txt)	2 BHK Builder Floor	Mapusa West	Mapusa / Goa	Builder Floor / 2 BHK	825	₹20,800/month	Fully-Furnished	2	Any	Rent
+782	Goa Properties (Goa.txt)	4 BHK Builder Floor	Panaji Residential Area	Panaji / Goa	Builder Floor / 4 BHK	1765	₹1.44 Cr	Unfurnished	3	Family	Sale
+783	Goa Properties (Goa.txt)	2 BHK Apartment	Margao Sector 2	Margao / Goa	Apartment / 2 BHK	954	₹69.56 L	Fully-Furnished	2	Any	Sale
+784	Goa Properties (Goa.txt)	2 BHK Apartment	Panaji Colony	Panaji / Goa	Apartment / 2 BHK	735	₹70.34 L	Semi-Furnished	1	Bachelors	Sale
+785	Goa Properties (Goa.txt)	1 BHK Studio	Mapusa Central	Mapusa / Goa	Studio / 1 BHK	397	₹45.50 L	Unfurnished	1	Family	Sale
+786	Goa Properties (Goa.txt)	3 BHK Apartment	Mapusa Heights	Mapusa / Goa	Apartment / 3 BHK	1549	₹1.14 Cr	Semi-Furnished	3	Family	Sale
+787	Goa Properties (Goa.txt)	2 BHK Villa	Vasco da Gama Extension	Vasco da Gama / Goa	Villa / 2 BHK	1108	₹77.87 L	Unfurnished	2	Bachelors	Sale
+788	Goa Properties (Goa.txt)	1 BHK Studio	Vasco da Gama Main Road	Vasco da Gama / Goa	Studio / 1 BHK	330	₹10,900/month	Fully-Furnished	1	Family	Rent
+789	Goa Properties (Goa.txt)	2 BHK Apartment	Mapusa Town Centre	Mapusa / Goa	Apartment / 2 BHK	910	₹16,100/month	Semi-Furnished	1	Bachelors	Rent
+790	Goa Properties (Goa.txt)	1 BHK Villa	Panaji East	Panaji / Goa	Villa / 1 BHK	612	₹45 L	Unfurnished	1	Bachelors	Sale
+791	Goa Properties (Goa.txt)	1 BHK Apartment	Mapusa Sector 1	Mapusa / Goa	Apartment / 1 BHK	503	₹48.44 L	Semi-Furnished	1	Family	Sale
+792	Goa Properties (Goa.txt)	1 BHK Independent House	Margao Colony	Margao / Goa	Independent House / 1 BHK	722	₹16,400/month	Fully-Furnished	2	Family	Rent
+793	Goa Properties (Goa.txt)	2 BHK Apartment	Vasco da Gama East	Vasco da Gama / Goa	Apartment / 2 BHK	912	₹73.58 L	Semi-Furnished	2	Family	Sale
+794	Goa Properties (Goa.txt)	1 BHK Studio	Panaji North	Panaji / Goa	Studio / 1 BHK	348	₹12,000/month	Semi-Furnished	1	Bachelors	Rent
+795	Goa Properties (Goa.txt)	2 BHK Builder Floor	Panaji Extension	Panaji / Goa	Builder Floor / 2 BHK	1071	₹66.85 L	Fully-Furnished	2	Bachelors	Sale
+796	Goa Properties (Goa.txt)	1 BHK Apartment	Vasco da Gama Nagar	Vasco da Gama / Goa	Apartment / 1 BHK	444	₹10,000/month	Fully-Furnished	1	Bachelors	Rent
+797	Goa Properties (Goa.txt)	2 BHK Apartment	Mapusa Extension	Mapusa / Goa	Apartment / 2 BHK	1109	₹73.95 L	Unfurnished	1	Bachelors	Sale
+798	Goa Properties (Goa.txt)	4 BHK Apartment	Margao Heights	Margao / Goa	Apartment / 4 BHK	1266	₹1.38 Cr	Unfurnished	5	Bachelors	Sale
+799	Goa Properties (Goa.txt)	3 BHK Apartment	Mapusa Extension	Mapusa / Goa	Apartment / 3 BHK	1343	₹98.76 L	Semi-Furnished	4	Any	Sale
+800	Goa Properties (Goa.txt)	3 BHK Villa	Margao Nagar	Margao / Goa	Villa / 3 BHK	2111	₹1.17 Cr	Unfurnished	4	Any	Sale
+801	Goa Properties (Goa.txt)	1 BHK Builder Floor	Mapusa Colony	Mapusa / Goa	Builder Floor / 1 BHK	604	₹52.94 L	Semi-Furnished	1	Family	Sale
+802	Goa Properties (Goa.txt)	2 BHK Apartment	Mapusa South	Mapusa / Goa	Apartment / 2 BHK	722	₹16,800/month	Semi-Furnished	2	Family	Rent
+803	Goa Properties (Goa.txt)	3 BHK Apartment	Vasco da Gama Colony	Vasco da Gama / Goa	Apartment / 3 BHK	1301	₹91.46 L	Unfurnished	3	Any	Sale
+804	Goa Properties (Goa.txt)	3 BHK Apartment	Margao Nagar	Margao / Goa	Apartment / 3 BHK	1094	₹75.97 L	Unfurnished	3	Family	Sale
+805	Goa Properties (Goa.txt)	5 BHK Builder Floor	Vasco da Gama Residential Area	Vasco da Gama / Goa	Builder Floor / 5 BHK	2262	₹39,200/month	Semi-Furnished	5	Family	Rent
+806	Goa Properties (Goa.txt)	3 BHK Apartment	Margao Residential Area	Margao / Goa	Apartment / 3 BHK	1355	₹1.04 Cr	Semi-Furnished	3	Family	Sale
+807	Goa Properties (Goa.txt)	1 BHK Apartment	Margao South	Margao / Goa	Apartment / 1 BHK	527	₹11,000/month	Fully-Furnished	1	Family	Rent
+808	Goa Properties (Goa.txt)	5 BHK Independent House	Margao Extension	Margao / Goa	Independent House / 5 BHK	2711	₹1.48 Cr	Unfurnished	5	Family	Sale
+809	Goa Properties (Goa.txt)	1 BHK Apartment	Panaji Main Road	Panaji / Goa	Apartment / 1 BHK	550	₹39.68 L	Fully-Furnished	2	Bachelors	Sale
+810	Goa Properties (Goa.txt)	3 BHK Builder Floor	Panaji Sector 3	Panaji / Goa	Builder Floor / 3 BHK	1391	₹1.13 Cr	Unfurnished	4	Family	Sale
+811	Goa Properties (Goa.txt)	3 BHK Apartment	Panaji East	Panaji / Goa	Apartment / 3 BHK	987	₹81.30 L	Semi-Furnished	2	Any	Sale
+812	Goa Properties (Goa.txt)	1 BHK Apartment	Vasco da Gama West	Vasco da Gama / Goa	Apartment / 1 BHK	513	₹44.62 L	Unfurnished	1	Bachelors	Sale
+813	Goa Properties (Goa.txt)	3 BHK Apartment	Margao Extension	Margao / Goa	Apartment / 3 BHK	1314	₹90.06 L	Semi-Furnished	3	Family	Sale
+814	Goa Properties (Goa.txt)	3 BHK Apartment	Vasco da Gama North	Vasco da Gama / Goa	Apartment / 3 BHK	1013	₹86 L	Unfurnished	3	Bachelors	Sale
+815	Goa Properties (Goa.txt)	4 BHK Villa	Vasco da Gama Sector 3	Vasco da Gama / Goa	Villa / 4 BHK	2103	₹37,600/month	Semi-Furnished	4	Bachelors	Rent
+816	Goa Properties (Goa.txt)	1 BHK Apartment	Vasco da Gama Sector 3	Vasco da Gama / Goa	Apartment / 1 BHK	433	₹11,500/month	Fully-Furnished	2	Family	Rent
+817	Goa Properties (Goa.txt)	2 BHK Apartment	Panaji Nagar	Panaji / Goa	Apartment / 2 BHK	984	₹85.54 L	Fully-Furnished	2	Family	Sale
+818	Goa Properties (Goa.txt)	2 BHK Apartment	Mapusa Sector 2	Mapusa / Goa	Apartment / 2 BHK	1008	₹61.70 L	Semi-Furnished	2	Family	Sale
+819	Goa Properties (Goa.txt)	1 BHK Apartment	Margao Main Road	Margao / Goa	Apartment / 1 BHK	544	₹41.81 L	Semi-Furnished	1	Any	Sale
+820	Goa Properties (Goa.txt)	2 BHK Independent House	Panaji Town Centre	Panaji / Goa	Independent House / 2 BHK	973	₹66.03 L	Fully-Furnished	2	Bachelors	Sale
+821	Goa Properties (Goa.txt)	2 BHK Apartment	Margao Main Road	Margao / Goa	Apartment / 2 BHK	1051	₹21,300/month	Semi-Furnished	2	Family	Rent
+822	Goa Properties (Goa.txt)	2 BHK Apartment	Panaji Central	Panaji / Goa	Apartment / 2 BHK	868	₹80.02 L	Unfurnished	3	Family	Sale
+823	Goa Properties (Goa.txt)	3 BHK Builder Floor	Mapusa Colony	Mapusa / Goa	Builder Floor / 3 BHK	1163	₹82.93 L	Semi-Furnished	3	Family	Sale
+824	Goa Properties (Goa.txt)	4 BHK Apartment	Panaji Heights	Panaji / Goa	Apartment / 4 BHK	1684	₹1.27 Cr	Fully-Furnished	4	Family	Sale
+825	Goa Properties (Goa.txt)	2 BHK Apartment	Vasco da Gama Sector 3	Vasco da Gama / Goa	Apartment / 2 BHK	1142	₹78.93 L	Fully-Furnished	2	Bachelors	Sale
+826	Goa Properties (Goa.txt)	4 BHK Apartment	Mapusa West	Mapusa / Goa	Apartment / 4 BHK	1566	₹1.33 Cr	Fully-Furnished	3	Bachelors	Sale
+827	Goa Properties (Goa.txt)	1 BHK Apartment	Mapusa North	Mapusa / Goa	Apartment / 1 BHK	431	₹13,700/month	Semi-Furnished	1	Family	Rent
+828	Goa Properties (Goa.txt)	4 BHK Villa	Margao Sector 1	Margao / Goa	Villa / 4 BHK	2164	₹1.31 Cr	Semi-Furnished	4	Any	Sale
+829	Goa Properties (Goa.txt)	1 BHK Independent House	Mapusa Colony	Mapusa / Goa	Independent House / 1 BHK	433	₹35.58 L	Semi-Furnished	2	Any	Sale
+830	Goa Properties (Goa.txt)	3 BHK Apartment	Panaji Extension	Panaji / Goa	Apartment / 3 BHK	1486	₹28,300/month	Semi-Furnished	4	Family	Rent
+831	Goa Properties (Goa.txt)	2 BHK Villa	Margao Nagar	Margao / Goa	Villa / 2 BHK	886	₹19,700/month	Unfurnished	1	Any	Rent
+832	Goa Properties (Goa.txt)	4 BHK Villa	Vasco da Gama South	Vasco da Gama / Goa	Villa / 4 BHK	2062	₹1.31 Cr	Fully-Furnished	4	Any	Sale
+833	Goa Properties (Goa.txt)	1 BHK Independent House	Vasco da Gama Heights	Vasco da Gama / Goa	Independent House / 1 BHK	672	₹15,800/month	Fully-Furnished	1	Any	Rent
+834	Goa Properties (Goa.txt)	2 BHK Independent House	Margao Town Centre	Margao / Goa	Independent House / 2 BHK	1314	₹73.92 L	Semi-Furnished	1	Any	Sale
+835	Goa Properties (Goa.txt)	4 BHK Apartment	Vasco da Gama Extension	Vasco da Gama / Goa	Apartment / 4 BHK	2047	₹1.25 Cr	Semi-Furnished	3	Bachelors	Sale
+836	Goa Properties (Goa.txt)	1 BHK Studio	Vasco da Gama Sector 3	Vasco da Gama / Goa	Studio / 1 BHK	409	₹39.46 L	Semi-Furnished	1	Family	Sale
+837	Goa Properties (Goa.txt)	2 BHK Apartment	Panaji Heights	Panaji / Goa	Apartment / 2 BHK	879	₹69.76 L	Semi-Furnished	3	Any	Sale
+838	Goa Properties (Goa.txt)	4 BHK Builder Floor	Panaji Extension	Panaji / Goa	Builder Floor / 4 BHK	2166	₹1.14 Cr	Fully-Furnished	5	Family	Sale
+839	Goa Properties (Goa.txt)	2 BHK Villa	Margao Heights	Margao / Goa	Villa / 2 BHK	1182	₹64.29 L	Fully-Furnished	2	Family	Sale
+840	Goa Properties (Goa.txt)	5 BHK Apartment	Margao Sector 3	Margao / Goa	Apartment / 5 BHK	2457	₹1.33 Cr	Fully-Furnished	5	Any	Sale
+841	Goa Properties (Goa.txt)	2 BHK Independent House	Margao Town Centre	Margao / Goa	Independent House / 2 BHK	1056	₹22,700/month	Unfurnished	2	Family	Rent
+842	Goa Properties (Goa.txt)	5 BHK Apartment	Vasco da Gama Central	Vasco da Gama / Goa	Apartment / 5 BHK	2061	₹1.57 Cr	Fully-Furnished	5	Any	Sale
+843	Goa Properties (Goa.txt)	1 BHK Apartment	Panaji Sector 1	Panaji / Goa	Apartment / 1 BHK	625	₹37.99 L	Semi-Furnished	1	Family	Sale
+844	Goa Properties (Goa.txt)	4 BHK Apartment	Panaji Heights	Panaji / Goa	Apartment / 4 BHK	2009	₹1.52 Cr	Unfurnished	4	Family	Sale
+845	Goa Properties (Goa.txt)	3 BHK Apartment	Panaji East	Panaji / Goa	Apartment / 3 BHK	1129	₹79.83 L	Unfurnished	3	Bachelors	Sale
+846	Goa Properties (Goa.txt)	3 BHK Villa	Margao Extension	Margao / Goa	Villa / 3 BHK	1503	₹28,400/month	Semi-Furnished	2	Bachelors	Rent
+847	Goa Properties (Goa.txt)	2 BHK Apartment	Margao East	Margao / Goa	Apartment / 2 BHK	900	₹21,200/month	Semi-Furnished	3	Bachelors	Rent
+848	Goa Properties (Goa.txt)	4 BHK Apartment	Panaji Sector 1	Panaji / Goa	Apartment / 4 BHK	1944	₹1.49 Cr	Semi-Furnished	4	Family	Sale
+849	Goa Properties (Goa.txt)	3 BHK Builder Floor	Panaji South	Panaji / Goa	Builder Floor / 3 BHK	1167	₹88.76 L	Semi-Furnished	3	Any	Sale
+850	Goa Properties (Goa.txt)	2 BHK Builder Floor	Panaji Main Road	Panaji / Goa	Builder Floor / 2 BHK	956	₹79.52 L	Fully-Furnished	2	Any	Sale
+851	Goa Properties (Goa.txt)	2 BHK Independent House	Margao South	Margao / Goa	Independent House / 2 BHK	884	₹60.84 L	Semi-Furnished	2	Bachelors	Sale
+852	Goa Properties (Goa.txt)	2 BHK Independent House	Margao Central	Margao / Goa	Independent House / 2 BHK	899	₹63.73 L	Fully-Furnished	2	Family	Sale
+853	Goa Properties (Goa.txt)	2 BHK Apartment	Mapusa Heights	Mapusa / Goa	Apartment / 2 BHK	939	₹79.18 L	Fully-Furnished	3	Bachelors	Sale
+854	Goa Properties (Goa.txt)	4 BHK Apartment	Mapusa Sector 1	Mapusa / Goa	Apartment / 4 BHK	1491	₹38,600/month	Semi-Furnished	4	Any	Rent
+855	Goa Properties (Goa.txt)	1 BHK Independent House	Vasco da Gama Central	Vasco da Gama / Goa	Independent House / 1 BHK	511	₹36.98 L	Semi-Furnished	1	Family	Sale
+856	Goa Properties (Goa.txt)	1 BHK Villa	Mapusa Main Road	Mapusa / Goa	Villa / 1 BHK	591	₹47.03 L	Semi-Furnished	2	Family	Sale
+857	Goa Properties (Goa.txt)	3 BHK Apartment	Margao Nagar	Margao / Goa	Apartment / 3 BHK	1525	₹23,200/month	Semi-Furnished	3	Bachelors	Rent
+858	Goa Properties (Goa.txt)	3 BHK Apartment	Mapusa South	Mapusa / Goa	Apartment / 3 BHK	1258	₹26,400/month	Semi-Furnished	3	Family	Rent
+859	Goa Properties (Goa.txt)	2 BHK Apartment	Margao East	Margao / Goa	Apartment / 2 BHK	748	₹21,600/month	Semi-Furnished	2	Family	Rent
+860	Goa Properties (Goa.txt)	3 BHK Builder Floor	Margao Sector 1	Margao / Goa	Builder Floor / 3 BHK	1199	₹94.94 L	Semi-Furnished	3	Bachelors	Sale
+861	Goa Properties (Goa.txt)	4 BHK Apartment	Mapusa North	Mapusa / Goa	Apartment / 4 BHK	1980	₹1.15 Cr	Semi-Furnished	4	Bachelors	Sale
+862	Goa Properties (Goa.txt)	2 BHK Independent House	Margao Heights	Margao / Goa	Independent House / 2 BHK	1217	₹64.77 L	Unfurnished	3	Any	Sale
+863	Goa Properties (Goa.txt)	4 BHK Apartment	Panaji Nagar	Panaji / Goa	Apartment / 4 BHK	1391	₹1.39 Cr	Semi-Furnished	4	Bachelors	Sale
+864	Goa Properties (Goa.txt)	1 BHK Apartment	Margao Sector 2	Margao / Goa	Apartment / 1 BHK	560	₹42.53 L	Semi-Furnished	1	Any	Sale
+865	Goa Properties (Goa.txt)	1 BHK Apartment	Margao Colony	Margao / Goa	Apartment / 1 BHK	532	₹40.72 L	Unfurnished	1	Bachelors	Sale
+866	Goa Properties (Goa.txt)	2 BHK Apartment	Vasco da Gama East	Vasco da Gama / Goa	Apartment / 2 BHK	776	₹18,100/month	Semi-Furnished	2	Any	Rent
+867	Goa Properties (Goa.txt)	5 BHK Apartment	Margao Sector 2	Margao / Goa	Apartment / 5 BHK	2519	₹1.86 Cr	Semi-Furnished	4	Bachelors	Sale
+868	Goa Properties (Goa.txt)	5 BHK Builder Floor	Margao Extension	Margao / Goa	Builder Floor / 5 BHK	3050	₹1.44 Cr	Unfurnished	5	Bachelors	Sale
+869	Goa Properties (Goa.txt)	3 BHK Independent House	Margao Main Road	Margao / Goa	Independent House / 3 BHK	1573	₹31,100/month	Fully-Furnished	2	Bachelors	Rent
+870	Goa Properties (Goa.txt)	3 BHK Apartment	Vasco da Gama South	Vasco da Gama / Goa	Apartment / 3 BHK	1141	₹21,000/month	Semi-Furnished	2	Any	Rent
+871	Goa Properties (Goa.txt)	3 BHK Builder Floor	Mapusa Town Centre	Mapusa / Goa	Builder Floor / 3 BHK	1003	₹25,700/month	Semi-Furnished	4	Any	Rent
+872	Goa Properties (Goa.txt)	3 BHK Apartment	Vasco da Gama Main Road	Vasco da Gama / Goa	Apartment / 3 BHK	1040	₹26,000/month	Semi-Furnished	3	Family	Rent
+873	Goa Properties (Goa.txt)	4 BHK Independent House	Margao North	Margao / Goa	Independent House / 4 BHK	2043	₹1.25 Cr	Unfurnished	5	Bachelors	Sale
+874	Goa Properties (Goa.txt)	3 BHK Apartment	Vasco da Gama East	Vasco da Gama / Goa	Apartment / 3 BHK	1141	₹95.32 L	Semi-Furnished	3	Family	Sale
+875	Goa Properties (Goa.txt)	1 BHK Apartment	Mapusa South	Mapusa / Goa	Apartment / 1 BHK	394	₹14,000/month	Fully-Furnished	2	Any	Rent
+876	Goa Properties (Goa.txt)	3 BHK Builder Floor	Vasco da Gama Sector 2	Vasco da Gama / Goa	Builder Floor / 3 BHK	1557	₹82.95 L	Fully-Furnished	4	Family	Sale
+877	Goa Properties (Goa.txt)	3 BHK Villa	Panaji North	Panaji / Goa	Villa / 3 BHK	1711	₹29,500/month	Semi-Furnished	3	Family	Rent
+878	Goa Properties (Goa.txt)	3 BHK Apartment	Panaji Sector 2	Panaji / Goa	Apartment / 3 BHK	1424	₹94.49 L	Semi-Furnished	2	Family	Sale
+879	Goa Properties (Goa.txt)	1 BHK Studio	Margao South	Margao / Goa	Studio / 1 BHK	300	₹11,000/month	Fully-Furnished	1	Bachelors	Rent
+880	Goa Properties (Goa.txt)	1 BHK Builder Floor	Mapusa Sector 3	Mapusa / Goa	Builder Floor / 1 BHK	440	₹41.77 L	Semi-Furnished	1	Family	Sale
+881	Goa Properties (Goa.txt)	1 BHK Apartment	Panaji East	Panaji / Goa	Apartment / 1 BHK	525	₹44.77 L	Fully-Furnished	1	Family	Sale
+882	Goa Properties (Goa.txt)	5 BHK Builder Floor	Margao Colony	Margao / Goa	Builder Floor / 5 BHK	2109	₹33,700/month	Semi-Furnished	5	Family	Rent
+883	Goa Properties (Goa.txt)	2 BHK Apartment	Margao Main Road	Margao / Goa	Apartment / 2 BHK	776	₹67.57 L	Fully-Furnished	2	Any	Sale
+884	Goa Properties (Goa.txt)	4 BHK Independent House	Margao Extension	Margao / Goa	Independent House / 4 BHK	1985	₹1.18 Cr	Unfurnished	3	Family	Sale
+885	Goa Properties (Goa.txt)	2 BHK Apartment	Panaji East	Panaji / Goa	Apartment / 2 BHK	713	₹63.29 L	Fully-Furnished	2	Family	Sale
+886	Goa Properties (Goa.txt)	4 BHK Apartment	Mapusa West	Mapusa / Goa	Apartment / 4 BHK	1986	₹33,000/month	Fully-Furnished	4	Any	Rent
+887	Goa Properties (Goa.txt)	2 BHK Builder Floor	Margao West	Margao / Goa	Builder Floor / 2 BHK	705	₹77.59 L	Semi-Furnished	2	Any	Sale
+888	Goa Properties (Goa.txt)	3 BHK Independent House	Vasco da Gama West	Vasco da Gama / Goa	Independent House / 3 BHK	1436	₹1.12 Cr	Unfurnished	2	Bachelors	Sale
+889	Goa Properties (Goa.txt)	3 BHK Villa	Mapusa North	Mapusa / Goa	Villa / 3 BHK	1817	₹1.12 Cr	Fully-Furnished	3	Family	Sale
+890	Goa Properties (Goa.txt)	2 BHK Independent House	Margao Main Road	Margao / Goa	Independent House / 2 BHK	975	₹22,700/month	Semi-Furnished	2	Bachelors	Rent
+891	Goa Properties (Goa.txt)	1 BHK Apartment	Mapusa Sector 2	Mapusa / Goa	Apartment / 1 BHK	465	₹11,100/month	Semi-Furnished	1	Family	Rent
+892	Goa Properties (Goa.txt)	1 BHK Builder Floor	Vasco da Gama Main Road	Vasco da Gama / Goa	Builder Floor / 1 BHK	478	₹40.82 L	Unfurnished	1	Any	Sale
+893	Goa Properties (Goa.txt)	4 BHK Independent House	Margao Sector 2	Margao / Goa	Independent House / 4 BHK	1982	₹1.29 Cr	Fully-Furnished	4	Bachelors	Sale
+894	Goa Properties (Goa.txt)	4 BHK Apartment	Margao Main Road	Margao / Goa	Apartment / 4 BHK	1895	₹1.15 Cr	Unfurnished	3	Bachelors	Sale
+895	Goa Properties (Goa.txt)	5 BHK Independent House	Margao Sector 1	Margao / Goa	Independent House / 5 BHK	2610	₹1.50 Cr	Semi-Furnished	5	Bachelors	Sale
+896	Goa Properties (Goa.txt)	4 BHK Independent House	Panaji Sector 1	Panaji / Goa	Independent House / 4 BHK	1862	₹1.07 Cr	Fully-Furnished	4	Any	Sale
+897	Goa Properties (Goa.txt)	2 BHK Independent House	Mapusa South	Mapusa / Goa	Independent House / 2 BHK	1007	₹60.44 L	Semi-Furnished	3	Any	Sale
+898	Goa Properties (Goa.txt)	1 BHK Studio	Margao North	Margao / Goa	Studio / 1 BHK	353	₹35.89 L	Semi-Furnished	1	Any	Sale
+899	Goa Properties (Goa.txt)	2 BHK Apartment	Margao East	Margao / Goa	Apartment / 2 BHK	803	₹74.19 L	Fully-Furnished	2	Family	Sale
+900	Goa Properties (Goa.txt)	3 BHK Apartment	Panaji Residential Area	Panaji / Goa	Apartment / 3 BHK	1167	₹23,900/month	Semi-Furnished	4	Family	Rent
+901	Goa Properties (Goa.txt)	4 BHK Apartment	Vasco da Gama Extension	Vasco da Gama / Goa	Apartment / 4 BHK	1557	₹1.18 Cr	Semi-Furnished	3	Family	Sale
+902	Goa Properties (Goa.txt)	2 BHK Villa	Panaji Sector 2	Panaji / Goa	Villa / 2 BHK	824	₹16,500/month	Semi-Furnished	3	Any	Rent
+903	Goa Properties (Goa.txt)	3 BHK Builder Floor	Mapusa South	Mapusa / Goa	Builder Floor / 3 BHK	1314	₹31,700/month	Unfurnished	3	Family	Rent
+904	Goa Properties (Goa.txt)	3 BHK Apartment	Vasco da Gama Sector 2	Vasco da Gama / Goa	Apartment / 3 BHK	1165	₹25,700/month	Semi-Furnished	4	Bachelors	Rent
+905	Goa Properties (Goa.txt)	2 BHK Independent House	Panaji Nagar	Panaji / Goa	Independent House / 2 BHK	895	₹17,200/month	Semi-Furnished	3	Any	Rent
+906	Goa Properties (Goa.txt)	3 BHK Builder Floor	Margao Heights	Margao / Goa	Builder Floor / 3 BHK	1036	₹76.03 L	Fully-Furnished	3	Bachelors	Sale
+907	Goa Properties (Goa.txt)	3 BHK Apartment	Panaji Sector 3	Panaji / Goa	Apartment / 3 BHK	1376	₹28,400/month	Semi-Furnished	2	Family	Rent
+908	Goa Properties (Goa.txt)	2 BHK Builder Floor	Margao Extension	Margao / Goa	Builder Floor / 2 BHK	705	₹56.19 L	Fully-Furnished	2	Bachelors	Sale
+909	Goa Properties (Goa.txt)	2 BHK Apartment	Panaji Residential Area	Panaji / Goa	Apartment / 2 BHK	989	₹60.60 L	Semi-Furnished	2	Family	Sale
+910	Goa Properties (Goa.txt)	2 BHK Apartment	Mapusa Residential Area	Mapusa / Goa	Apartment / 2 BHK	885	₹64.26 L	Unfurnished	3	Bachelors	Sale
+911	Goa Properties (Goa.txt)	3 BHK Apartment	Panaji East	Panaji / Goa	Apartment / 3 BHK	1308	₹27,400/month	Fully-Furnished	2	Any	Rent
+912	Goa Properties (Goa.txt)	3 BHK Builder Floor	Vasco da Gama Extension	Vasco da Gama / Goa	Builder Floor / 3 BHK	1305	₹95.83 L	Semi-Furnished	3	Bachelors	Sale
+913	Goa Properties (Goa.txt)	2 BHK Apartment	Mapusa Sector 3	Mapusa / Goa	Apartment / 2 BHK	941	₹76.40 L	Semi-Furnished	2	Family	Sale
+914	Goa Properties (Goa.txt)	1 BHK Apartment	Mapusa Sector 2	Mapusa / Goa	Apartment / 1 BHK	313	₹9,400/month	Unfurnished	1	Family	Rent
+915	Goa Properties (Goa.txt)	1 BHK Apartment	Mapusa South	Mapusa / Goa	Apartment / 1 BHK	675	₹44.36 L	Unfurnished	1	Bachelors	Sale
+916	Goa Properties (Goa.txt)	1 BHK Apartment	Mapusa Nagar	Mapusa / Goa	Apartment / 1 BHK	449	₹45.02 L	Fully-Furnished	1	Family	Sale
+917	Goa Properties (Goa.txt)	2 BHK Independent House	Vasco da Gama Heights	Vasco da Gama / Goa	Independent House / 2 BHK	590	₹54.69 L	Fully-Furnished	3	Family	Sale
+918	Goa Properties (Goa.txt)	5 BHK Apartment	Margao West	Margao / Goa	Apartment / 5 BHK	2766	₹39,700/month	Fully-Furnished	6	Bachelors	Rent
+919	Goa Properties (Goa.txt)	2 BHK Builder Floor	Mapusa Main Road	Mapusa / Goa	Builder Floor / 2 BHK	920	₹60.60 L	Fully-Furnished	2	Family	Sale
+920	Goa Properties (Goa.txt)	5 BHK Apartment	Vasco da Gama Residential Area	Vasco da Gama / Goa	Apartment / 5 BHK	3071	₹2 Cr	Semi-Furnished	6	Any	Sale
+921	Goa Properties (Goa.txt)	4 BHK Apartment	Margao East	Margao / Goa	Apartment / 4 BHK	1511	₹1.26 Cr	Semi-Furnished	5	Family	Sale
+922	Goa Properties (Goa.txt)	4 BHK Apartment	Vasco da Gama Town Centre	Vasco da Gama / Goa	Apartment / 4 BHK	1838	₹1.09 Cr	Semi-Furnished	4	Family	Sale
+923	Goa Properties (Goa.txt)	2 BHK Apartment	Panaji Main Road	Panaji / Goa	Apartment / 2 BHK	740	₹16,800/month	Semi-Furnished	2	Bachelors	Rent
+924	Goa Properties (Goa.txt)	2 BHK Builder Floor	Panaji East	Panaji / Goa	Builder Floor / 2 BHK	840	₹16,400/month	Semi-Furnished	3	Family	Rent
+925	Goa Properties (Goa.txt)	2 BHK Apartment	Panaji Extension	Panaji / Goa	Apartment / 2 BHK	777	₹20,900/month	Semi-Furnished	2	Bachelors	Rent
+926	Goa Properties (Goa.txt)	2 BHK Builder Floor	Vasco da Gama Central	Vasco da Gama / Goa	Builder Floor / 2 BHK	975	₹22,100/month	Fully-Furnished	3	Family	Rent
+927	Goa Properties (Goa.txt)	2 BHK Builder Floor	Vasco da Gama East	Vasco da Gama / Goa	Builder Floor / 2 BHK	932	₹58.20 L	Semi-Furnished	2	Family	Sale
+928	Goa Properties (Goa.txt)	2 BHK Apartment	Mapusa Nagar	Mapusa / Goa	Apartment / 2 BHK	977	₹82.09 L	Unfurnished	2	Any	Sale
+929	Goa Properties (Goa.txt)	2 BHK Apartment	Margao Town Centre	Margao / Goa	Apartment / 2 BHK	762	₹66.17 L	Unfurnished	2	Family	Sale
+930	Goa Properties (Goa.txt)	2 BHK Builder Floor	Margao Central	Margao / Goa	Builder Floor / 2 BHK	762	₹20,300/month	Semi-Furnished	2	Bachelors	Rent
+931	Goa Properties (Goa.txt)	2 BHK Apartment	Margao South	Margao / Goa	Apartment / 2 BHK	697	₹62.03 L	Fully-Furnished	2	Any	Sale
+932	Goa Properties (Goa.txt)	2 BHK Builder Floor	Mapusa Sector 1	Mapusa / Goa	Builder Floor / 2 BHK	611	₹69.69 L	Unfurnished	3	Any	Sale
+933	Goa Properties (Goa.txt)	2 BHK Builder Floor	Vasco da Gama Residential Area	Vasco da Gama / Goa	Builder Floor / 2 BHK	612	₹71.89 L	Semi-Furnished	1	Any	Sale
+934	Goa Properties (Goa.txt)	2 BHK Apartment	Margao West	Margao / Goa	Apartment / 2 BHK	984	₹60.15 L	Semi-Furnished	2	Any	Sale
+935	Goa Properties (Goa.txt)	2 BHK Apartment	Panaji Sector 2	Panaji / Goa	Apartment / 2 BHK	900	₹17,800/month	Unfurnished	2	Family	Rent
+936	Goa Properties (Goa.txt)	1 BHK Builder Floor	Mapusa Heights	Mapusa / Goa	Builder Floor / 1 BHK	465	₹12,900/month	Semi-Furnished	1	Bachelors	Rent
+937	Goa Properties (Goa.txt)	3 BHK Apartment	Margao Central	Margao / Goa	Apartment / 3 BHK	905	₹20,100/month	Semi-Furnished	2	Bachelors	Rent
+938	Goa Properties (Goa.txt)	2 BHK Villa	Margao Central	Margao / Goa	Villa / 2 BHK	924	₹76.04 L	Fully-Furnished	2	Family	Sale
+939	Goa Properties (Goa.txt)	4 BHK Independent House	Mapusa Sector 3	Mapusa / Goa	Independent House / 4 BHK	1615	₹38,500/month	Unfurnished	5	Family	Rent
+940	Goa Properties (Goa.txt)	5 BHK Villa	Mapusa South	Mapusa / Goa	Villa / 5 BHK	2073	₹38,100/month	Semi-Furnished	4	Family	Rent
+941	Goa Properties (Goa.txt)	5 BHK Apartment	Mapusa Main Road	Mapusa / Goa	Apartment / 5 BHK	2430	₹1.35 Cr	Semi-Furnished	5	Any	Sale
+942	Goa Properties (Goa.txt)	2 BHK Builder Floor	Panaji Colony	Panaji / Goa	Builder Floor / 2 BHK	860	₹21,100/month	Semi-Furnished	2	Family	Rent
+943	Goa Properties (Goa.txt)	2 BHK Apartment	Vasco da Gama North	Vasco da Gama / Goa	Apartment / 2 BHK	914	₹77.93 L	Semi-Furnished	3	Bachelors	Sale
+944	Goa Properties (Goa.txt)	3 BHK Villa	Vasco da Gama Colony	Vasco da Gama / Goa	Villa / 3 BHK	1963	₹34,000/month	Fully-Furnished	3	Family	Rent
+945	Goa Properties (Goa.txt)	2 BHK Builder Floor	Vasco da Gama West	Vasco da Gama / Goa	Builder Floor / 2 BHK	880	₹71.74 L	Semi-Furnished	2	Bachelors	Sale
+946	Goa Properties (Goa.txt)	3 BHK Apartment	Mapusa Town Centre	Mapusa / Goa	Apartment / 3 BHK	1424	₹23,300/month	Unfurnished	4	Any	Rent
+947	Goa Properties (Goa.txt)	3 BHK Independent House	Panaji Heights	Panaji / Goa	Independent House / 3 BHK	1195	₹80.10 L	Unfurnished	3	Family	Sale
+948	Goa Properties (Goa.txt)	3 BHK Builder Floor	Mapusa West	Mapusa / Goa	Builder Floor / 3 BHK	1464	₹28,100/month	Semi-Furnished	3	Bachelors	Rent
+949	Goa Properties (Goa.txt)	4 BHK Apartment	Mapusa Sector 1	Mapusa / Goa	Apartment / 4 BHK	1801	₹1.16 Cr	Fully-Furnished	4	Family	Sale
+950	Goa Properties (Goa.txt)	1 BHK Apartment	Margao Residential Area	Margao / Goa	Apartment / 1 BHK	651	₹15,600/month	Fully-Furnished	1	Any	Rent
+951	Goa Properties (Goa.txt)	2 BHK Builder Floor	Margao North	Margao / Goa	Builder Floor / 2 BHK	848	₹74.83 L	Semi-Furnished	2	Family	Sale
+952	Goa Properties (Goa.txt)	3 BHK Apartment	Margao Extension	Margao / Goa	Apartment / 3 BHK	1312	₹29,100/month	Semi-Furnished	3	Family	Rent
+953	Goa Properties (Goa.txt)	3 BHK Apartment	Panaji Town Centre	Panaji / Goa	Apartment / 3 BHK	1257	₹85.53 L	Fully-Furnished	3	Family	Sale
+954	Goa Properties (Goa.txt)	1 BHK Independent House	Margao Sector 3	Margao / Goa	Independent House / 1 BHK	570	₹15,000/month	Semi-Furnished	1	Bachelors	Rent
+955	Goa Properties (Goa.txt)	5 BHK Apartment	Margao Colony	Margao / Goa	Apartment / 5 BHK	2608	₹1.88 Cr	Semi-Furnished	5	Family	Sale
+956	Goa Properties (Goa.txt)	2 BHK Apartment	Mapusa East	Mapusa / Goa	Apartment / 2 BHK	911	₹16,200/month	Unfurnished	1	Family	Rent
+957	Goa Properties (Goa.txt)	2 BHK Apartment	Vasco da Gama Sector 1	Vasco da Gama / Goa	Apartment / 2 BHK	807	₹21,900/month	Fully-Furnished	1	Family	Rent
+958	Goa Properties (Goa.txt)	4 BHK Builder Floor	Margao Nagar	Margao / Goa	Builder Floor / 4 BHK	1941	₹1.11 Cr	Semi-Furnished	4	Family	Sale
+959	Goa Properties (Goa.txt)	3 BHK Independent House	Vasco da Gama West	Vasco da Gama / Goa	Independent House / 3 BHK	1706	₹27,400/month	Semi-Furnished	3	Family	Rent
+960	Goa Properties (Goa.txt)	4 BHK Apartment	Mapusa West	Mapusa / Goa	Apartment / 4 BHK	1356	₹29,800/month	Fully-Furnished	4	Any	Rent
+961	Goa Properties (Goa.txt)	2 BHK Apartment	Margao Nagar	Margao / Goa	Apartment / 2 BHK	806	₹20,700/month	Semi-Furnished	2	Bachelors	Rent
+962	Goa Properties (Goa.txt)	3 BHK Builder Floor	Margao Central	Margao / Goa	Builder Floor / 3 BHK	1006	₹82.58 L	Semi-Furnished	3	Family	Sale
+963	Goa Properties (Goa.txt)	3 BHK Independent House	Vasco da Gama Sector 1	Vasco da Gama / Goa	Independent House / 3 BHK	1544	₹95.23 L	Fully-Furnished	4	Family	Sale
+964	Goa Properties (Goa.txt)	1 BHK Studio	Vasco da Gama Heights	Vasco da Gama / Goa	Studio / 1 BHK	400	₹48.11 L	Semi-Furnished	1	Bachelors	Sale
+965	Goa Properties (Goa.txt)	2 BHK Villa	Mapusa Town Centre	Mapusa / Goa	Villa / 2 BHK	1095	₹85.24 L	Fully-Furnished	2	Bachelors	Sale
+966	Goa Properties (Goa.txt)	4 BHK Independent House	Vasco da Gama Sector 1	Vasco da Gama / Goa	Independent House / 4 BHK	2273	₹1.10 Cr	Fully-Furnished	4	Bachelors	Sale
+967	Goa Properties (Goa.txt)	1 BHK Apartment	Panaji South	Panaji / Goa	Apartment / 1 BHK	405	₹49.23 L	Unfurnished	1	Family	Sale
+968	Goa Properties (Goa.txt)	1 BHK Apartment	Vasco da Gama Nagar	Vasco da Gama / Goa	Apartment / 1 BHK	579	₹54.02 L	Semi-Furnished	1	Family	Sale
+969	Goa Properties (Goa.txt)	3 BHK Builder Floor	Panaji South	Panaji / Goa	Builder Floor / 3 BHK	1168	₹88.69 L	Fully-Furnished	3	Family	Sale
+970	Goa Properties (Goa.txt)	3 BHK Apartment	Panaji Sector 2	Panaji / Goa	Apartment / 3 BHK	1392	₹96.87 L	Semi-Furnished	3	Any	Sale
+971	Goa Properties (Goa.txt)	4 BHK Apartment	Margao East	Margao / Goa	Apartment / 4 BHK	1530	₹1.17 Cr	Fully-Furnished	3	Family	Sale
+972	Goa Properties (Goa.txt)	2 BHK Apartment	Mapusa Heights	Mapusa / Goa	Apartment / 2 BHK	918	₹18,000/month	Semi-Furnished	1	Family	Rent
+973	Goa Properties (Goa.txt)	4 BHK Builder Floor	Mapusa Extension	Mapusa / Goa	Builder Floor / 4 BHK	1361	₹26,900/month	Fully-Furnished	3	Bachelors	Rent
+974	Goa Properties (Goa.txt)	1 BHK Apartment	Margao Heights	Margao / Goa	Apartment / 1 BHK	581	₹10,600/month	Fully-Furnished	1	Family	Rent
+975	Goa Properties (Goa.txt)	4 BHK Villa	Margao Extension	Margao / Goa	Villa / 4 BHK	2706	₹36,000/month	Semi-Furnished	4	Bachelors	Rent
+976	Goa Properties (Goa.txt)	3 BHK Apartment	Mapusa Residential Area	Mapusa / Goa	Apartment / 3 BHK	1359	₹28,900/month	Semi-Furnished	3	Any	Rent
+977	Goa Properties (Goa.txt)	2 BHK Apartment	Mapusa Colony	Mapusa / Goa	Apartment / 2 BHK	879	₹79.90 L	Semi-Furnished	2	Family	Sale
+978	Goa Properties (Goa.txt)	2 BHK Apartment	Vasco da Gama Town Centre	Vasco da Gama / Goa	Apartment / 2 BHK	731	₹66 L	Unfurnished	2	Any	Sale
+979	Goa Properties (Goa.txt)	1 BHK Studio	Mapusa South	Mapusa / Goa	Studio / 1 BHK	300	₹10,700/month	Unfurnished	1	Bachelors	Rent
+980	Goa Properties (Goa.txt)	2 BHK Independent House	Panaji Sector 2	Panaji / Goa	Independent House / 2 BHK	759	₹20,900/month	Fully-Furnished	2	Family	Rent
+981	Goa Properties (Goa.txt)	4 BHK Builder Floor	Mapusa North	Mapusa / Goa	Builder Floor / 4 BHK	1906	₹32,000/month	Fully-Furnished	3	Family	Rent
+982	Goa Properties (Goa.txt)	3 BHK Apartment	Panaji Sector 2	Panaji / Goa	Apartment / 3 BHK	1253	₹24,300/month	Semi-Furnished	4	Family	Rent
+983	Goa Properties (Goa.txt)	4 BHK Apartment	Margao Sector 3	Margao / Goa	Apartment / 4 BHK	1532	₹33,400/month	Semi-Furnished	4	Family	Rent
+984	Goa Properties (Goa.txt)	3 BHK Builder Floor	Margao Main Road	Margao / Goa	Builder Floor / 3 BHK	1116	₹98.99 L	Semi-Furnished	4	Family	Sale
+985	Goa Properties (Goa.txt)	2 BHK Apartment	Vasco da Gama Main Road	Vasco da Gama / Goa	Apartment / 2 BHK	723	₹63.22 L	Fully-Furnished	2	Any	Sale
+986	Goa Properties (Goa.txt)	2 BHK Villa	Panaji West	Panaji / Goa	Villa / 2 BHK	1432	₹91.02 L	Fully-Furnished	2	Any	Sale
+987	Goa Properties (Goa.txt)	2 BHK Apartment	Margao West	Margao / Goa	Apartment / 2 BHK	906	₹17,000/month	Fully-Furnished	1	Family	Rent
+988	Goa Properties (Goa.txt)	2 BHK Apartment	Panaji Heights	Panaji / Goa	Apartment / 2 BHK	971	₹76.96 L	Semi-Furnished	1	Bachelors	Sale
+989	Goa Properties (Goa.txt)	2 BHK Builder Floor	Vasco da Gama Colony	Vasco da Gama / Goa	Builder Floor / 2 BHK	693	₹62.03 L	Semi-Furnished	1	Any	Sale
+990	Goa Properties (Goa.txt)	1 BHK Apartment	Mapusa Main Road	Mapusa / Goa	Apartment / 1 BHK	454	₹42.71 L	Semi-Furnished	1	Family	Sale
+991	Goa Properties (Goa.txt)	4 BHK Apartment	Margao Heights	Margao / Goa	Apartment / 4 BHK	1888	₹36,800/month	Semi-Furnished	4	Bachelors	Rent
+992	Goa Properties (Goa.txt)	2 BHK Apartment	Mapusa Extension	Mapusa / Goa	Apartment / 2 BHK	879	₹21,300/month	Fully-Furnished	1	Family	Rent
+993	Goa Properties (Goa.txt)	2 BHK Builder Floor	Margao Main Road	Margao / Goa	Builder Floor / 2 BHK	753	₹56.47 L	Semi-Furnished	2	Family	Sale
+994	Goa Properties (Goa.txt)	1 BHK Apartment	Margao East	Margao / Goa	Apartment / 1 BHK	408	₹42.30 L	Unfurnished	1	Bachelors	Sale
+995	Goa Properties (Goa.txt)	3 BHK Apartment	Vasco da Gama Central	Vasco da Gama / Goa	Apartment / 3 BHK	1399	₹90.02 L	Unfurnished	3	Family	Sale
+996	Goa Properties (Goa.txt)	3 BHK Apartment	Vasco da Gama Sector 1	Vasco da Gama / Goa	Apartment / 3 BHK	1098	₹26,000/month	Unfurnished	4	Any	Rent
+997	Goa Properties (Goa.txt)	2 BHK Independent House	Mapusa Nagar	Mapusa / Goa	Independent House / 2 BHK	907	₹17,600/month	Unfurnished	1	Any	Rent
+998	Goa Properties (Goa.txt)	2 BHK Apartment	Panaji East	Panaji / Goa	Apartment / 2 BHK	688	₹66.19 L	Fully-Furnished	3	Bachelors	Sale
+999	Goa Properties (Goa.txt)	4 BHK Builder Floor	Margao Heights	Margao / Goa	Builder Floor / 4 BHK	2012	₹1.26 Cr	Unfurnished	4	Family	Sale
+1000	Goa Properties (Goa.txt)	3 BHK Builder Floor	Panaji Main Road	Panaji / Goa	Builder Floor / 3 BHK	1096	₹1.09 Cr	Semi-Furnished	4	Bachelors	Sale
+1001	Goa Properties (Goa.txt)	1 BHK Villa	Mapusa Central	Mapusa / Goa	Villa / 1 BHK	739	₹45.40 L	Semi-Furnished	2	Bachelors	Sale
+1002	Goa Properties (Goa.txt)	2 BHK Apartment	Mapusa Town Centre	Mapusa / Goa	Apartment / 2 BHK	704	₹62.05 L	Semi-Furnished	1	Any	Sale
+1003	Goa Properties (Goa.txt)	3 BHK Apartment	Panaji Sector 1	Panaji / Goa	Apartment / 3 BHK	1271	₹27,300/month	Semi-Furnished	3	Family	Rent
+1004	Goa Properties (Goa.txt)	3 BHK Apartment	Vasco da Gama Sector 2	Vasco da Gama / Goa	Apartment / 3 BHK	1052	₹23,100/month	Fully-Furnished	4	Family	Rent
+1005	Goa Properties (Goa.txt)	2 BHK Builder Floor	Margao Nagar	Margao / Goa	Builder Floor / 2 BHK	619	₹15,900/month	Semi-Furnished	2	Family	Rent
+1006	Goa Properties (Goa.txt)	3 BHK Apartment	Panaji West	Panaji / Goa	Apartment / 3 BHK	1576	₹24,300/month	Unfurnished	2	Family	Rent
+1007	Goa Properties (Goa.txt)	5 BHK Apartment	Mapusa Nagar	Mapusa / Goa	Apartment / 5 BHK	2389	₹39,100/month	Semi-Furnished	4	Bachelors	Rent
+1008	Goa Properties (Goa.txt)	2 BHK Builder Floor	Margao East	Margao / Goa	Builder Floor / 2 BHK	792	₹20,400/month	Unfurnished	2	Family	Rent
+1009	Goa Properties (Goa.txt)	2 BHK Builder Floor	Margao Nagar	Margao / Goa	Builder Floor / 2 BHK	1111	₹81.11 L	Semi-Furnished	2	Family	Sale
+1010	Goa Properties (Goa.txt)	1 BHK Builder Floor	Mapusa North	Mapusa / Goa	Builder Floor / 1 BHK	505	₹14,900/month	Fully-Furnished	1	Family	Rent
+1011	Goa Properties (Goa.txt)	2 BHK Independent House	Mapusa Central	Mapusa / Goa	Independent House / 2 BHK	966	₹85.46 L	Semi-Furnished	1	Bachelors	Sale
+1012	Goa Properties (Goa.txt)	4 BHK Apartment	Vasco da Gama Sector 1	Vasco da Gama / Goa	Apartment / 4 BHK	1975	₹1.07 Cr	Unfurnished	3	Family	Sale
+1013	Goa Properties (Goa.txt)	2 BHK Apartment	Mapusa Sector 2	Mapusa / Goa	Apartment / 2 BHK	666	₹17,700/month	Fully-Furnished	1	Family	Rent
+1014	Goa Properties (Goa.txt)	4 BHK Builder Floor	Vasco da Gama South	Vasco da Gama / Goa	Builder Floor / 4 BHK	1469	₹1.39 Cr	Fully-Furnished	4	Family	Sale
+1015	Goa Properties (Goa.txt)	2 BHK Independent House	Vasco da Gama Nagar	Vasco da Gama / Goa	Independent House / 2 BHK	947	₹64.40 L	Unfurnished	2	Any	Sale
+1016	Goa Properties (Goa.txt)	3 BHK Apartment	Panaji Sector 2	Panaji / Goa	Apartment / 3 BHK	1219	₹81.32 L	Semi-Furnished	3	Any	Sale
+1017	Goa Properties (Goa.txt)	2 BHK Apartment	Vasco da Gama Sector 2	Vasco da Gama / Goa	Apartment / 2 BHK	726	₹74.55 L	Unfurnished	2	Family	Sale
+1018	Goa Properties (Goa.txt)	3 BHK Apartment	Mapusa East	Mapusa / Goa	Apartment / 3 BHK	1229	₹27,700/month	Semi-Furnished	4	Bachelors	Rent
+1019	Goa Properties (Goa.txt)	3 BHK Apartment	Mapusa Town Centre	Mapusa / Goa	Apartment / 3 BHK	1259	₹27,100/month	Semi-Furnished	3	Family	Rent
+1020	Goa Properties (Goa.txt)	2 BHK Apartment	Margao Main Road	Margao / Goa	Apartment / 2 BHK	1078	₹65.89 L	Semi-Furnished	1	Bachelors	Sale
+1021	Goa Properties (Goa.txt)	2 BHK Builder Floor	Panaji Town Centre	Panaji / Goa	Builder Floor / 2 BHK	1050	₹17,300/month	Semi-Furnished	1	Family	Rent
+1022	Goa Properties (Goa.txt)	3 BHK Apartment	Margao Main Road	Margao / Goa	Apartment / 3 BHK	1057	₹23,900/month	Semi-Furnished	2	Family	Rent
+1023	Goa Properties (Goa.txt)	1 BHK Studio	Mapusa Sector 3	Mapusa / Goa	Studio / 1 BHK	372	₹40.12 L	Fully-Furnished	1	Family	Sale
+1024	Goa Properties (Goa.txt)	3 BHK Independent House	Margao Sector 2	Margao / Goa	Independent House / 3 BHK	1499	₹88.58 L	Fully-Furnished	3	Family	Sale
+1025	Goa Properties (Goa.txt)	2 BHK Apartment	Vasco da Gama Sector 3	Vasco da Gama / Goa	Apartment / 2 BHK	643	₹60.26 L	Fully-Furnished	1	Bachelors	Sale
+1026	Goa Properties (Goa.txt)	3 BHK Apartment	Margao Sector 1	Margao / Goa	Apartment / 3 BHK	1315	₹1.07 Cr	Semi-Furnished	4	Family	Sale
+1027	Goa Properties (Goa.txt)	3 BHK Apartment	Vasco da Gama East	Vasco da Gama / Goa	Apartment / 3 BHK	1285	₹89.88 L	Unfurnished	3	Bachelors	Sale
+1028	Goa Properties (Goa.txt)	4 BHK Builder Floor	Panaji Central	Panaji / Goa	Builder Floor / 4 BHK	1676	₹1.01 Cr	Fully-Furnished	3	Family	Sale
+1029	Goa Properties (Goa.txt)	2 BHK Apartment	Mapusa Nagar	Mapusa / Goa	Apartment / 2 BHK	1099	₹79.34 L	Semi-Furnished	2	Bachelors	Sale
+1030	Goa Properties (Goa.txt)	1 BHK Apartment	Vasco da Gama North	Vasco da Gama / Goa	Apartment / 1 BHK	571	₹14,800/month	Semi-Furnished	2	Family	Rent
+1031	Goa Properties (Goa.txt)	3 BHK Builder Floor	Vasco da Gama Sector 2	Vasco da Gama / Goa	Builder Floor / 3 BHK	1164	₹25,100/month	Fully-Furnished	3	Family	Rent
+1032	Goa Properties (Goa.txt)	3 BHK Villa	Vasco da Gama Sector 2	Vasco da Gama / Goa	Villa / 3 BHK	1269	₹21,700/month	Fully-Furnished	3	Bachelors	Rent
+1033	Goa Properties (Goa.txt)	1 BHK Villa	Panaji East	Panaji / Goa	Villa / 1 BHK	522	₹11,100/month	Fully-Furnished	1	Family	Rent
+1034	Goa Properties (Goa.txt)	2 BHK Apartment	Mapusa Main Road	Mapusa / Goa	Apartment / 2 BHK	834	₹80.16 L	Fully-Furnished	2	Bachelors	Sale
+1035	Goa Properties (Goa.txt)	2 BHK Independent House	Mapusa Heights	Mapusa / Goa	Independent House / 2 BHK	1198	₹24,900/month	Semi-Furnished	3	Family	Rent
+1036	Goa Properties (Goa.txt)	3 BHK Builder Floor	Vasco da Gama Nagar	Vasco da Gama / Goa	Builder Floor / 3 BHK	1562	₹87.14 L	Unfurnished	3	Bachelors	Sale
+1037	Goa Properties (Goa.txt)	2 BHK Apartment	Mapusa Sector 2	Mapusa / Goa	Apartment / 2 BHK	844	₹60.22 L	Semi-Furnished	2	Family	Sale
+1038	Goa Properties (Goa.txt)	1 BHK Apartment	Panaji North	Panaji / Goa	Apartment / 1 BHK	484	₹46.54 L	Fully-Furnished	1	Bachelors	Sale
+1039	Goa Properties (Goa.txt)	3 BHK Apartment	Margao South	Margao / Goa	Apartment / 3 BHK	995	₹76.90 L	Semi-Furnished	2	Family	Sale
+1040	Goa Properties (Goa.txt)	4 BHK Apartment	Vasco da Gama Colony	Vasco da Gama / Goa	Apartment / 4 BHK	1576	₹1.27 Cr	Semi-Furnished	4	Family	Sale
+1041	Goa Properties (Goa.txt)	3 BHK Apartment	Vasco da Gama South	Vasco da Gama / Goa	Apartment / 3 BHK	1186	₹79.87 L	Fully-Furnished	2	Family	Sale
+1042	Goa Properties (Goa.txt)	1 BHK Builder Floor	Margao Sector 1	Margao / Goa	Builder Floor / 1 BHK	432	₹36.85 L	Semi-Furnished	1	Family	Sale
+1043	Goa Properties (Goa.txt)	3 BHK Apartment	Vasco da Gama Residential Area	Vasco da Gama / Goa	Apartment / 3 BHK	1320	₹85.53 L	Unfurnished	3	Any	Sale
+1044	Goa Properties (Goa.txt)	2 BHK Apartment	Panaji South	Panaji / Goa	Apartment / 2 BHK	960	₹65.96 L	Unfurnished	3	Bachelors	Sale
+1045	Goa Properties (Goa.txt)	2 BHK Independent House	Panaji Colony	Panaji / Goa	Independent House / 2 BHK	872	₹16,800/month	Fully-Furnished	3	Any	Rent
+1046	Goa Properties (Goa.txt)	3 BHK Independent House	Mapusa South	Mapusa / Goa	Independent House / 3 BHK	1784	₹33,300/month	Semi-Furnished	2	Family	Rent
+1047	Goa Properties (Goa.txt)	3 BHK Builder Floor	Panaji Extension	Panaji / Goa	Builder Floor / 3 BHK	1113	₹87.73 L	Semi-Furnished	3	Any	Sale
+1048	Goa Properties (Goa.txt)	1 BHK Independent House	Margao Sector 3	Margao / Goa	Independent House / 1 BHK	567	₹13,500/month	Fully-Furnished	1	Family	Rent
+1049	Goa Properties (Goa.txt)	4 BHK Independent House	Vasco da Gama Sector 3	Vasco da Gama / Goa	Independent House / 4 BHK	1787	₹33,100/month	Semi-Furnished	4	Bachelors	Rent
+1050	Goa Properties (Goa.txt)	2 BHK Apartment	Mapusa Sector 3	Mapusa / Goa	Apartment / 2 BHK	1017	₹17,200/month	Fully-Furnished	3	Family	Rent
+1051	Goa Properties (Goa.txt)	4 BHK Apartment	Panaji Sector 3	Panaji / Goa	Apartment / 4 BHK	1823	₹31,200/month	Fully-Furnished	4	Family	Rent
+1052	Goa Properties (Goa.txt)	3 BHK Apartment	Mapusa Central	Mapusa / Goa	Apartment / 3 BHK	1116	₹80.44 L	Unfurnished	2	Any	Sale
+1053	Goa Properties (Goa.txt)	3 BHK Villa	Margao East	Margao / Goa	Villa / 3 BHK	1924	₹95.15 L	Unfurnished	3	Family	Sale
+1054	Goa Properties (Goa.txt)	3 BHK Apartment	Margao Colony	Margao / Goa	Apartment / 3 BHK	1398	₹1.12 Cr	Semi-Furnished	4	Family	Sale
+1055	Goa Properties (Goa.txt)	1 BHK Studio	Panaji Town Centre	Panaji / Goa	Studio / 1 BHK	400	₹13,300/month	Semi-Furnished	2	Family	Rent
+1056	Goa Properties (Goa.txt)	4 BHK Apartment	Vasco da Gama South	Vasco da Gama / Goa	Apartment / 4 BHK	2141	₹1.54 Cr	Semi-Furnished	4	Family	Sale
+1057	Goa Properties (Goa.txt)	1 BHK Apartment	Mapusa East	Mapusa / Goa	Apartment / 1 BHK	602	₹55.16 L	Semi-Furnished	1	Bachelors	Sale
+1058	Goa Properties (Goa.txt)	2 BHK Builder Floor	Margao Central	Margao / Goa	Builder Floor / 2 BHK	858	₹79.64 L	Unfurnished	1	Bachelors	Sale
+1059	Goa Properties (Goa.txt)	1 BHK Apartment	Mapusa Heights	Mapusa / Goa	Apartment / 1 BHK	582	₹12,900/month	Semi-Furnished	1	Family	Rent
+1060	Goa Properties (Goa.txt)	3 BHK Apartment	Margao West	Margao / Goa	Apartment / 3 BHK	1273	₹1.07 Cr	Semi-Furnished	3	Family	Sale
+1061	Goa Properties (Goa.txt)	3 BHK Independent House	Panaji East	Panaji / Goa	Independent House / 3 BHK	1441	₹1.15 Cr	Semi-Furnished	3	Bachelors	Sale
+1062	Goa Properties (Goa.txt)	4 BHK Independent House	Panaji Residential Area	Panaji / Goa	Independent House / 4 BHK	1764	₹31,900/month	Semi-Furnished	5	Family	Rent
+1063	Goa Properties (Goa.txt)	2 BHK Apartment	Panaji Nagar	Panaji / Goa	Apartment / 2 BHK	695	₹76.59 L	Fully-Furnished	2	Any	Sale
+1064	Goa Properties (Goa.txt)	4 BHK Apartment	Panaji Nagar	Panaji / Goa	Apartment / 4 BHK	1876	₹1.09 Cr	Fully-Furnished	5	Bachelors	Sale
+1065	Goa Properties (Goa.txt)	4 BHK Builder Floor	Mapusa Extension	Mapusa / Goa	Builder Floor / 4 BHK	1616	₹1.38 Cr	Fully-Furnished	3	Bachelors	Sale
+1066	Goa Properties (Goa.txt)	3 BHK Apartment	Vasco da Gama South	Vasco da Gama / Goa	Apartment / 3 BHK	1131	₹21,200/month	Semi-Furnished	3	Bachelors	Rent
+1067	Goa Properties (Goa.txt)	1 BHK Studio	Vasco da Gama Heights	Vasco da Gama / Goa	Studio / 1 BHK	340	₹9,800/month	Unfurnished	2	Family	Rent
+1068	Goa Properties (Goa.txt)	1 BHK Apartment	Vasco da Gama Town Centre	Vasco da Gama / Goa	Apartment / 1 BHK	404	₹38.21 L	Semi-Furnished	1	Family	Sale
+1069	Goa Properties (Goa.txt)	3 BHK Apartment	Vasco da Gama East	Vasco da Gama / Goa	Apartment / 3 BHK	1056	₹27,300/month	Semi-Furnished	4	Family	Rent
+1070	Goa Properties (Goa.txt)	3 BHK Apartment	Vasco da Gama Residential Area	Vasco da Gama / Goa	Apartment / 3 BHK	1340	₹81.01 L	Semi-Furnished	3	Bachelors	Sale
+1071	Goa Properties (Goa.txt)	1 BHK Independent House	Panaji East	Panaji / Goa	Independent House / 1 BHK	617	₹49.50 L	Unfurnished	1	Family	Sale
+1072	Goa Properties (Goa.txt)	3 BHK Independent House	Panaji East	Panaji / Goa	Independent House / 3 BHK	1450	₹29,900/month	Unfurnished	3	Any	Rent
+1073	Goa Properties (Goa.txt)	4 BHK Apartment	Panaji Residential Area	Panaji / Goa	Apartment / 4 BHK	1637	₹1.16 Cr	Unfurnished	4	Bachelors	Sale
+1074	Goa Properties (Goa.txt)	2 BHK Villa	Margao Main Road	Margao / Goa	Villa / 2 BHK	1085	₹62.53 L	Semi-Furnished	1	Bachelors	Sale
+1075	Goa Properties (Goa.txt)	3 BHK Apartment	Mapusa North	Mapusa / Goa	Apartment / 3 BHK	1277	₹27,100/month	Fully-Furnished	3	Any	Rent
+1076	Goa Properties (Goa.txt)	2 BHK Apartment	Mapusa Heights	Mapusa / Goa	Apartment / 2 BHK	860	₹18,600/month	Semi-Furnished	2	Any	Rent
+1077	Goa Properties (Goa.txt)	2 BHK Apartment	Mapusa South	Mapusa / Goa	Apartment / 2 BHK	910	₹19,000/month	Unfurnished	3	Bachelors	Rent
+1078	Goa Properties (Goa.txt)	1 BHK Apartment	Panaji Sector 1	Panaji / Goa	Apartment / 1 BHK	536	₹42.16 L	Unfurnished	1	Bachelors	Sale
+1079	Goa Properties (Goa.txt)	3 BHK Apartment	Mapusa Sector 2	Mapusa / Goa	Apartment / 3 BHK	1047	₹92.97 L	Unfurnished	2	Any	Sale
+1080	Goa Properties (Goa.txt)	1 BHK Studio	Panaji Residential Area	Panaji / Goa	Studio / 1 BHK	432	₹37.27 L	Semi-Furnished	1	Family	Sale
+1081	Goa Properties (Goa.txt)	2 BHK Builder Floor	Margao Heights	Margao / Goa	Builder Floor / 2 BHK	888	₹76 L	Unfurnished	2	Any	Sale
+1082	Goa Properties (Goa.txt)	5 BHK Apartment	Mapusa Colony	Mapusa / Goa	Apartment / 5 BHK	1990	₹45,100/month	Fully-Furnished	5	Family	Rent
+1083	Goa Properties (Goa.txt)	1 BHK Independent House	Margao Sector 3	Margao / Goa	Independent House / 1 BHK	599	₹43.68 L	Semi-Furnished	1	Any	Sale
+1084	Goa Properties (Goa.txt)	3 BHK Apartment	Vasco da Gama Residential Area	Vasco da Gama / Goa	Apartment / 3 BHK	1113	₹88.84 L	Semi-Furnished	3	Bachelors	Sale
+1085	Goa Properties (Goa.txt)	3 BHK Apartment	Margao Central	Margao / Goa	Apartment / 3 BHK	1235	₹1.01 Cr	Unfurnished	3	Family	Sale
+1086	Goa Properties (Goa.txt)	3 BHK Independent House	Mapusa Heights	Mapusa / Goa	Independent House / 3 BHK	1411	₹98.32 L	Semi-Furnished	3	Bachelors	Sale
+1087	Goa Properties (Goa.txt)	2 BHK Apartment	Vasco da Gama Town Centre	Vasco da Gama / Goa	Apartment / 2 BHK	729	₹54.78 L	Semi-Furnished	2	Family	Sale
+1088	Goa Properties (Goa.txt)	2 BHK Apartment	Vasco da Gama South	Vasco da Gama / Goa	Apartment / 2 BHK	682	₹62.67 L	Fully-Furnished	3	Family	Sale
+1089	Goa Properties (Goa.txt)	4 BHK Villa	Mapusa Nagar	Mapusa / Goa	Villa / 4 BHK	2993	₹36,200/month	Unfurnished	3	Family	Rent
+1090	Goa Properties (Goa.txt)	4 BHK Apartment	Panaji Sector 2	Panaji / Goa	Apartment / 4 BHK	1761	₹1.12 Cr	Semi-Furnished	4	Family	Sale
+1091	Goa Properties (Goa.txt)	3 BHK Apartment	Vasco da Gama Sector 3	Vasco da Gama / Goa	Apartment / 3 BHK	1347	₹1 Cr	Semi-Furnished	3	Bachelors	Sale
+1092	Goa Properties (Goa.txt)	1 BHK Apartment	Vasco da Gama Colony	Vasco da Gama / Goa	Apartment / 1 BHK	575	₹13,000/month	Fully-Furnished	2	Family	Rent
+1093	Goa Properties (Goa.txt)	3 BHK Apartment	Panaji North	Panaji / Goa	Apartment / 3 BHK	1212	₹24,700/month	Unfurnished	3	Family	Rent
+1094	Goa Properties (Goa.txt)	1 BHK Apartment	Vasco da Gama East	Vasco da Gama / Goa	Apartment / 1 BHK	590	₹45.34 L	Unfurnished	1	Family	Sale
+1095	Goa Properties (Goa.txt)	2 BHK Builder Floor	Mapusa South	Mapusa / Goa	Builder Floor / 2 BHK	848	₹22,100/month	Semi-Furnished	3	Family	Rent
+1096	Goa Properties (Goa.txt)	2 BHK Apartment	Vasco da Gama Main Road	Vasco da Gama / Goa	Apartment / 2 BHK	1021	₹21,800/month	Semi-Furnished	2	Bachelors	Rent
+1097	Goa Properties (Goa.txt)	1 BHK Villa	Panaji Nagar	Panaji / Goa	Villa / 1 BHK	594	₹11,200/month	Semi-Furnished	1	Family	Rent
+1098	Goa Properties (Goa.txt)	3 BHK Apartment	Vasco da Gama Nagar	Vasco da Gama / Goa	Apartment / 3 BHK	1247	₹91.49 L	Semi-Furnished	3	Bachelors	Sale
+1099	Goa Properties (Goa.txt)	1 BHK Studio	Margao South	Margao / Goa	Studio / 1 BHK	356	₹12,300/month	Semi-Furnished	2	Any	Rent
+1100	Goa Properties (Goa.txt)	2 BHK Villa	Panaji Central	Panaji / Goa	Villa / 2 BHK	896	₹23,200/month	Semi-Furnished	1	Family	Rent
+1101	Goa Properties (Goa.txt)	3 BHK Apartment	Panaji Sector 2	Panaji / Goa	Apartment / 3 BHK	1170	₹30,700/month	Semi-Furnished	3	Any	Rent
+1102	Goa Properties (Goa.txt)	2 BHK Independent House	Panaji Residential Area	Panaji / Goa	Independent House / 2 BHK	805	₹76.47 L	Fully-Furnished	2	Any	Sale
+1103	Goa Properties (Goa.txt)	3 BHK Apartment	Vasco da Gama Nagar	Vasco da Gama / Goa	Apartment / 3 BHK	1551	₹89.35 L	Fully-Furnished	2	Family	Sale
+1104	Goa Properties (Goa.txt)	3 BHK Apartment	Margao North	Margao / Goa	Apartment / 3 BHK	1419	₹89.39 L	Semi-Furnished	2	Any	Sale
+1105	Goa Properties (Goa.txt)	2 BHK Apartment	Margao Town Centre	Margao / Goa	Apartment / 2 BHK	928	₹66.44 L	Semi-Furnished	2	Family	Sale
+1106	Goa Properties (Goa.txt)	3 BHK Apartment	Panaji Colony	Panaji / Goa	Apartment / 3 BHK	1290	₹93.86 L	Unfurnished	4	Bachelors	Sale
+1107	Goa Properties (Goa.txt)	3 BHK Builder Floor	Panaji Sector 3	Panaji / Goa	Builder Floor / 3 BHK	1296	₹1.07 Cr	Semi-Furnished	3	Bachelors	Sale
+1108	Goa Properties (Goa.txt)	2 BHK Apartment	Panaji Central	Panaji / Goa	Apartment / 2 BHK	835	₹63.80 L	Semi-Furnished	2	Bachelors	Sale
+1109	Goa Properties (Goa.txt)	3 BHK Builder Floor	Vasco da Gama Main Road	Vasco da Gama / Goa	Builder Floor / 3 BHK	1387	₹29,700/month	Fully-Furnished	3	Family	Rent
+1110	Goa Properties (Goa.txt)	3 BHK Apartment	Panaji Town Centre	Panaji / Goa	Apartment / 3 BHK	1236	₹81.10 L	Semi-Furnished	4	Family	Sale
+1111	Goa Properties (Goa.txt)	5 BHK Independent House	Panaji Central	Panaji / Goa	Independent House / 5 BHK	2749	₹49,400/month	Unfurnished	4	Bachelors	Rent
+1112	Goa Properties (Goa.txt)	3 BHK Apartment	Panaji Sector 1	Panaji / Goa	Apartment / 3 BHK	1255	₹28,900/month	Semi-Furnished	2	Any	Rent
+1113	Goa Properties (Goa.txt)	1 BHK Apartment	Mapusa Town Centre	Mapusa / Goa	Apartment / 1 BHK	572	₹38.63 L	Unfurnished	1	Family	Sale
+1114	Goa Properties (Goa.txt)	3 BHK Apartment	Mapusa Extension	Mapusa / Goa	Apartment / 3 BHK	1511	₹1.08 Cr	Semi-Furnished	4	Family	Sale
+1115	Goa Properties (Goa.txt)	4 BHK Builder Floor	Panaji East	Panaji / Goa	Builder Floor / 4 BHK	1414	₹1.25 Cr	Semi-Furnished	4	Bachelors	Sale
+1116	Goa Properties (Goa.txt)	5 BHK Apartment	Mapusa West	Mapusa / Goa	Apartment / 5 BHK	2535	₹1.44 Cr	Unfurnished	5	Family	Sale
+1117	Goa Properties (Goa.txt)	2 BHK Apartment	Mapusa Sector 1	Mapusa / Goa	Apartment / 2 BHK	715	₹22,000/month	Fully-Furnished	1	Family	Rent
+1118	Goa Properties (Goa.txt)	1 BHK Studio	Mapusa Central	Mapusa / Goa	Studio / 1 BHK	424	₹14,200/month	Semi-Furnished	2	Bachelors	Rent
+1119	Goa Properties (Goa.txt)	4 BHK Apartment	Mapusa Nagar	Mapusa / Goa	Apartment / 4 BHK	2074	₹33,700/month	Unfurnished	4	Family	Rent
+1120	Goa Properties (Goa.txt)	1 BHK Builder Floor	Vasco da Gama Sector 3	Vasco da Gama / Goa	Builder Floor / 1 BHK	510	₹10,600/month	Fully-Furnished	1	Family	Rent
+1121	Goa Properties (Goa.txt)	3 BHK Apartment	Vasco da Gama Central	Vasco da Gama / Goa	Apartment / 3 BHK	1361	₹88.57 L	Fully-Furnished	3	Bachelors	Sale
+1122	Goa Properties (Goa.txt)	3 BHK Apartment	Panaji West	Panaji / Goa	Apartment / 3 BHK	1179	₹92.74 L	Unfurnished	3	Bachelors	Sale
+1123	Goa Properties (Goa.txt)	3 BHK Apartment	Vasco da Gama Central	Vasco da Gama / Goa	Apartment / 3 BHK	1619	₹31,000/month	Fully-Furnished	4	Family	Rent
+1124	Goa Properties (Goa.txt)	2 BHK Apartment	Vasco da Gama Town Centre	Vasco da Gama / Goa	Apartment / 2 BHK	765	₹62.16 L	Semi-Furnished	2	Family	Sale
+1125	Goa Properties (Goa.txt)	1 BHK Apartment	Mapusa Sector 1	Mapusa / Goa	Apartment / 1 BHK	550	₹10,900/month	Semi-Furnished	2	Bachelors	Rent
+1126	Goa Properties (Goa.txt)	3 BHK Independent House	Panaji North	Panaji / Goa	Independent House / 3 BHK	1775	₹31,400/month	Unfurnished	4	Any	Rent
+1127	Goa Properties (Goa.txt)	1 BHK Apartment	Mapusa Residential Area	Mapusa / Goa	Apartment / 1 BHK	606	₹13,000/month	Fully-Furnished	1	Bachelors	Rent
+1128	Goa Properties (Goa.txt)	3 BHK Independent House	Mapusa Heights	Mapusa / Goa	Independent House / 3 BHK	1365	₹83.02 L	Semi-Furnished	3	Any	Sale
+1129	Goa Properties (Goa.txt)	3 BHK Villa	Vasco da Gama South	Vasco da Gama / Goa	Villa / 3 BHK	1719	₹1.01 Cr	Unfurnished	2	Family	Sale
+1130	Goa Properties (Goa.txt)	3 BHK Apartment	Mapusa East	Mapusa / Goa	Apartment / 3 BHK	982	₹1.06 Cr	Semi-Furnished	2	Family	Sale
+1131	Goa Properties (Goa.txt)	2 BHK Builder Floor	Vasco da Gama Sector 3	Vasco da Gama / Goa	Builder Floor / 2 BHK	693	₹77.65 L	Semi-Furnished	2	Bachelors	Sale
+1132	Goa Properties (Goa.txt)	2 BHK Independent House	Panaji Nagar	Panaji / Goa	Independent House / 2 BHK	862	₹67.96 L	Fully-Furnished	2	Any	Sale
+1133	Goa Properties (Goa.txt)	4 BHK Apartment	Vasco da Gama South	Vasco da Gama / Goa	Apartment / 4 BHK	1854	₹1.02 Cr	Semi-Furnished	4	Bachelors	Sale
+1134	Goa Properties (Goa.txt)	1 BHK Apartment	Panaji Sector 1	Panaji / Goa	Apartment / 1 BHK	478	₹12,700/month	Semi-Furnished	1	Family	Rent
+1135	Goa Properties (Goa.txt)	3 BHK Independent House	Margao East	Margao / Goa	Independent House / 3 BHK	1534	₹86.45 L	Fully-Furnished	3	Any	Sale
+1136	Goa Properties (Goa.txt)	2 BHK Apartment	Vasco da Gama South	Vasco da Gama / Goa	Apartment / 2 BHK	669	₹21,500/month	Unfurnished	2	Family	Rent
+1137	Goa Properties (Goa.txt)	4 BHK Apartment	Vasco da Gama Sector 3	Vasco da Gama / Goa	Apartment / 4 BHK	2294	₹1.54 Cr	Semi-Furnished	3	Family	Sale
+1138	Goa Properties (Goa.txt)	2 BHK Independent House	Margao Heights	Margao / Goa	Independent House / 2 BHK	893	₹16,100/month	Semi-Furnished	1	Bachelors	Rent
+1139	Goa Properties (Goa.txt)	2 BHK Apartment	Mapusa Nagar	Mapusa / Goa	Apartment / 2 BHK	731	₹18,500/month	Unfurnished	1	Family	Rent
+1140	Goa Properties (Goa.txt)	3 BHK Independent House	Mapusa Town Centre	Mapusa / Goa	Independent House / 3 BHK	1446	₹1.09 Cr	Unfurnished	3	Family	Sale
+1141	Goa Properties (Goa.txt)	1 BHK Builder Floor	Vasco da Gama East	Vasco da Gama / Goa	Builder Floor / 1 BHK	431	₹47.85 L	Semi-Furnished	1	Bachelors	Sale
+1142	Goa Properties (Goa.txt)	2 BHK Apartment	Panaji Sector 1	Panaji / Goa	Apartment / 2 BHK	902	₹17,800/month	Semi-Furnished	3	Family	Rent
+1143	Goa Properties (Goa.txt)	3 BHK Independent House	Mapusa Sector 1	Mapusa / Goa	Independent House / 3 BHK	1614	₹30,700/month	Fully-Furnished	3	Bachelors	Rent
+1144	Goa Properties (Goa.txt)	1 BHK Independent House	Margao Town Centre	Margao / Goa	Independent House / 1 BHK	521	₹48.03 L	Fully-Furnished	1	Family	Sale
+1145	Goa Properties (Goa.txt)	3 BHK Apartment	Panaji Town Centre	Panaji / Goa	Apartment / 3 BHK	1266	₹82.94 L	Unfurnished	3	Family	Sale
+1146	Goa Properties (Goa.txt)	4 BHK Apartment	Mapusa Extension	Mapusa / Goa	Apartment / 4 BHK	1800	₹1.02 Cr	Unfurnished	3	Bachelors	Sale
+1147	Goa Properties (Goa.txt)	4 BHK Builder Floor	Vasco da Gama Town Centre	Vasco da Gama / Goa	Builder Floor / 4 BHK	1544	₹1.06 Cr	Fully-Furnished	4	Bachelors	Sale
+1148	Goa Properties (Goa.txt)	2 BHK Apartment	Margao Sector 2	Margao / Goa	Apartment / 2 BHK	706	₹20,500/month	Semi-Furnished	2	Family	Rent
+1149	Goa Properties (Goa.txt)	3 BHK Apartment	Vasco da Gama West	Vasco da Gama / Goa	Apartment / 3 BHK	1153	₹83.58 L	Semi-Furnished	3	Family	Sale
+1150	Goa Properties (Goa.txt)	1 BHK Studio	Vasco da Gama Nagar	Vasco da Gama / Goa	Studio / 1 BHK	358	₹33.82 L	Semi-Furnished	1	Family	Sale
+1151	Goa Properties (Goa.txt)	2 BHK Apartment	Mapusa Main Road	Mapusa / Goa	Apartment / 2 BHK	961	₹23,600/month	Semi-Furnished	1	Bachelors	Rent
+1152	Goa Properties (Goa.txt)	5 BHK Apartment	Mapusa East	Mapusa / Goa	Apartment / 5 BHK	2522	₹1.31 Cr	Unfurnished	5	Family	Sale
+1153	Goa Properties (Goa.txt)	3 BHK Apartment	Panaji Sector 3	Panaji / Goa	Apartment / 3 BHK	972	₹1.09 Cr	Semi-Furnished	3	Any	Sale
+1154	Goa Properties (Goa.txt)	3 BHK Apartment	Margao Sector 1	Margao / Goa	Apartment / 3 BHK	1399	₹1.19 Cr	Semi-Furnished	2	Family	Sale
+1155	Goa Properties (Goa.txt)	3 BHK Apartment	Margao Colony	Margao / Goa	Apartment / 3 BHK	1351	₹24,800/month	Unfurnished	3	Any	Rent
+1156	Goa Properties (Goa.txt)	1 BHK Independent House	Vasco da Gama Heights	Vasco da Gama / Goa	Independent House / 1 BHK	720	₹41.18 L	Unfurnished	1	Bachelors	Sale
+1157	Goa Properties (Goa.txt)	1 BHK Apartment	Margao East	Margao / Goa	Apartment / 1 BHK	463	₹11,500/month	Fully-Furnished	1	Any	Rent
+1158	Goa Properties (Goa.txt)	3 BHK Apartment	Panaji Sector 3	Panaji / Goa	Apartment / 3 BHK	871	₹26,800/month	Fully-Furnished	4	Bachelors	Rent
+1159	Goa Properties (Goa.txt)	5 BHK Independent House	Panaji West	Panaji / Goa	Independent House / 5 BHK	3078	₹39,100/month	Unfurnished	4	Family	Rent
+1160	Goa Properties (Goa.txt)	1 BHK Studio	Panaji Nagar	Panaji / Goa	Studio / 1 BHK	360	₹12,300/month	Semi-Furnished	1	Family	Rent
+1161	Goa Properties (Goa.txt)	1 BHK Apartment	Mapusa Colony	Mapusa / Goa	Apartment / 1 BHK	496	₹36.39 L	Unfurnished	1	Family	Sale
+1162	Goa Properties (Goa.txt)	2 BHK Apartment	Mapusa Town Centre	Mapusa / Goa	Apartment / 2 BHK	929	₹62.22 L	Unfurnished	2	Family	Sale
+1163	Goa Properties (Goa.txt)	2 BHK Apartment	Mapusa Main Road	Mapusa / Goa	Apartment / 2 BHK	700	₹19,600/month	Fully-Furnished	2	Family	Rent
+1164	Goa Properties (Goa.txt)	2 BHK Apartment	Mapusa Colony	Mapusa / Goa	Apartment / 2 BHK	850	₹22,500/month	Unfurnished	2	Bachelors	Rent
+1165	Goa Properties (Goa.txt)	4 BHK Apartment	Panaji Colony	Panaji / Goa	Apartment / 4 BHK	2300	₹1.13 Cr	Semi-Furnished	4	Any	Sale
+1166	Goa Properties (Goa.txt)	5 BHK Builder Floor	Vasco da Gama Nagar	Vasco da Gama / Goa	Builder Floor / 5 BHK	1885	₹35,200/month	Semi-Furnished	4	Family	Rent
+1167	Goa Properties (Goa.txt)	2 BHK Apartment	Panaji Sector 2	Panaji / Goa	Apartment / 2 BHK	861	₹21,300/month	Fully-Furnished	2	Any	Rent
+1168	Goa Properties (Goa.txt)	1 BHK Independent House	Panaji Sector 2	Panaji / Goa	Independent House / 1 BHK	589	₹15,100/month	Semi-Furnished	2	Bachelors	Rent
+1169	Goa Properties (Goa.txt)	2 BHK Apartment	Vasco da Gama Sector 1	Vasco da Gama / Goa	Apartment / 2 BHK	882	₹78.59 L	Fully-Furnished	2	Any	Sale
+1170	Goa Properties (Goa.txt)	4 BHK Apartment	Panaji West	Panaji / Goa	Apartment / 4 BHK	1737	₹1.15 Cr	Semi-Furnished	3	Family	Sale
+1171	Goa Properties (Goa.txt)	2 BHK Independent House	Mapusa Nagar	Mapusa / Goa	Independent House / 2 BHK	1041	₹86.26 L	Semi-Furnished	2	Family	Sale

@@ -1,0 +1,1172 @@
+No.	Source	Property	Location	City / State	Type / Config	Area	Price / Rent	Furnishing	Bathrooms	Tennants	Listing Type
+1	Bihar Properties (Bihar.txt)	2 BHK Apartment	Muzaffarpur Sector 1	Muzaffarpur / Bihar	Apartment / 2 BHK	993	₹35.02 L	Semi-Furnished	3	Family	Sale
+2	Bihar Properties (Bihar.txt)	1 BHK Apartment	Bhagalpur Colony	Bhagalpur / Bihar	Apartment / 1 BHK	558	₹21.71 L	Unfurnished	1	Family	Sale
+3	Bihar Properties (Bihar.txt)	2 BHK Apartment	Patna Colony	Patna / Bihar	Apartment / 2 BHK	847	₹34.98 L	Semi-Furnished	2	Bachelors	Sale
+4	Bihar Properties (Bihar.txt)	3 BHK Builder Floor	Gaya Nagar	Gaya / Bihar	Builder Floor / 3 BHK	1376	₹18,000/month	Fully-Furnished	3	Family	Rent
+5	Bihar Properties (Bihar.txt)	1 BHK Apartment	Patna East	Patna / Bihar	Apartment / 1 BHK	488	₹7,300/month	Semi-Furnished	1	Any	Rent
+6	Bihar Properties (Bihar.txt)	2 BHK Apartment	Patna Residential Area	Patna / Bihar	Apartment / 2 BHK	1000	₹42.97 L	Unfurnished	2	Family	Sale
+7	Bihar Properties (Bihar.txt)	3 BHK Apartment	Patna Heights	Patna / Bihar	Apartment / 3 BHK	1168	₹49 L	Semi-Furnished	3	Bachelors	Sale
+8	Bihar Properties (Bihar.txt)	2 BHK Apartment	Bhagalpur Heights	Bhagalpur / Bihar	Apartment / 2 BHK	1001	₹33.09 L	Semi-Furnished	1	Family	Sale
+9	Bihar Properties (Bihar.txt)	1 BHK Builder Floor	Bhagalpur Central	Bhagalpur / Bihar	Builder Floor / 1 BHK	581	₹28.13 L	Unfurnished	1	Family	Sale
+10	Bihar Properties (Bihar.txt)	3 BHK Apartment	Muzaffarpur Extension	Muzaffarpur / Bihar	Apartment / 3 BHK	1303	₹65.62 L	Unfurnished	4	Any	Sale
+11	Bihar Properties (Bihar.txt)	2 BHK Independent House	Bhagalpur Town Centre	Bhagalpur / Bihar	Independent House / 2 BHK	917	₹45.94 L	Semi-Furnished	2	Any	Sale
+12	Bihar Properties (Bihar.txt)	3 BHK Villa	Muzaffarpur North	Muzaffarpur / Bihar	Villa / 3 BHK	1723	₹13,300/month	Semi-Furnished	3	Bachelors	Rent
+13	Bihar Properties (Bihar.txt)	2 BHK Apartment	Muzaffarpur Main Road	Muzaffarpur / Bihar	Apartment / 2 BHK	915	₹11,600/month	Semi-Furnished	1	Bachelors	Rent
+14	Bihar Properties (Bihar.txt)	3 BHK Independent House	Bhagalpur North	Bhagalpur / Bihar	Independent House / 3 BHK	1882	₹13,500/month	Semi-Furnished	3	Family	Rent
+15	Bihar Properties (Bihar.txt)	4 BHK Apartment	Gaya South	Gaya / Bihar	Apartment / 4 BHK	1580	₹16,300/month	Unfurnished	4	Bachelors	Rent
+16	Bihar Properties (Bihar.txt)	4 BHK Apartment	Bhagalpur Central	Bhagalpur / Bihar	Apartment / 4 BHK	1948	₹76.32 L	Unfurnished	3	Any	Sale
+17	Bihar Properties (Bihar.txt)	3 BHK Villa	Gaya Sector 2	Gaya / Bihar	Villa / 3 BHK	1611	₹47.58 L	Semi-Furnished	3	Any	Sale
+18	Bihar Properties (Bihar.txt)	1 BHK Builder Floor	Patna Main Road	Patna / Bihar	Builder Floor / 1 BHK	568	₹8,400/month	Fully-Furnished	1	Family	Rent
+19	Bihar Properties (Bihar.txt)	2 BHK Builder Floor	Gaya Colony	Gaya / Bihar	Builder Floor / 2 BHK	794	₹44.88 L	Fully-Furnished	2	Bachelors	Sale
+20	Bihar Properties (Bihar.txt)	3 BHK Villa	Muzaffarpur West	Muzaffarpur / Bihar	Villa / 3 BHK	1583	₹16,300/month	Unfurnished	2	Family	Rent
+21	Bihar Properties (Bihar.txt)	2 BHK Villa	Bhagalpur Sector 1	Bhagalpur / Bihar	Villa / 2 BHK	1224	₹13,700/month	Semi-Furnished	1	Family	Rent
+22	Bihar Properties (Bihar.txt)	2 BHK Apartment	Patna Town Centre	Patna / Bihar	Apartment / 2 BHK	895	₹37.77 L	Fully-Furnished	2	Any	Sale
+23	Bihar Properties (Bihar.txt)	1 BHK Independent House	Muzaffarpur South	Muzaffarpur / Bihar	Independent House / 1 BHK	509	₹29.34 L	Unfurnished	1	Family	Sale
+24	Bihar Properties (Bihar.txt)	4 BHK Apartment	Gaya Sector 3	Gaya / Bihar	Apartment / 4 BHK	1825	₹67.13 L	Unfurnished	4	Family	Sale
+25	Bihar Properties (Bihar.txt)	4 BHK Builder Floor	Bhagalpur Nagar	Bhagalpur / Bihar	Builder Floor / 4 BHK	1411	₹67.82 L	Unfurnished	4	Any	Sale
+26	Bihar Properties (Bihar.txt)	2 BHK Apartment	Gaya East	Gaya / Bihar	Apartment / 2 BHK	590	₹10,300/month	Unfurnished	2	Family	Rent
+27	Bihar Properties (Bihar.txt)	4 BHK Independent House	Muzaffarpur Sector 2	Muzaffarpur / Bihar	Independent House / 4 BHK	2286	₹90.28 L	Unfurnished	4	Any	Sale
+28	Bihar Properties (Bihar.txt)	3 BHK Villa	Bhagalpur North	Bhagalpur / Bihar	Villa / 3 BHK	1868	₹59.32 L	Fully-Furnished	4	Bachelors	Sale
+29	Bihar Properties (Bihar.txt)	1 BHK Builder Floor	Muzaffarpur Main Road	Muzaffarpur / Bihar	Builder Floor / 1 BHK	615	₹28.65 L	Fully-Furnished	1	Family	Sale
+30	Bihar Properties (Bihar.txt)	4 BHK Builder Floor	Gaya Sector 3	Gaya / Bihar	Builder Floor / 4 BHK	1916	₹78.63 L	Unfurnished	4	Family	Sale
+31	Bihar Properties (Bihar.txt)	3 BHK Builder Floor	Muzaffarpur Residential Area	Muzaffarpur / Bihar	Builder Floor / 3 BHK	1469	₹17,200/month	Semi-Furnished	4	Family	Rent
+32	Bihar Properties (Bihar.txt)	3 BHK Apartment	Muzaffarpur Central	Muzaffarpur / Bihar	Apartment / 3 BHK	1671	₹56.19 L	Fully-Furnished	3	Family	Sale
+33	Bihar Properties (Bihar.txt)	2 BHK Independent House	Gaya Sector 1	Gaya / Bihar	Independent House / 2 BHK	1070	₹46.12 L	Fully-Furnished	1	Family	Sale
+34	Bihar Properties (Bihar.txt)	3 BHK Apartment	Bhagalpur Town Centre	Bhagalpur / Bihar	Apartment / 3 BHK	1247	₹14,500/month	Semi-Furnished	3	Any	Rent
+35	Bihar Properties (Bihar.txt)	3 BHK Builder Floor	Gaya East	Gaya / Bihar	Builder Floor / 3 BHK	1396	₹59.96 L	Semi-Furnished	3	Any	Sale
+36	Bihar Properties (Bihar.txt)	1 BHK Apartment	Bhagalpur North	Bhagalpur / Bihar	Apartment / 1 BHK	464	₹7,300/month	Semi-Furnished	1	Family	Rent
+37	Bihar Properties (Bihar.txt)	3 BHK Villa	Patna Sector 2	Patna / Bihar	Villa / 3 BHK	1587	₹64.31 L	Semi-Furnished	4	Bachelors	Sale
+38	Bihar Properties (Bihar.txt)	3 BHK Independent House	Muzaffarpur North	Muzaffarpur / Bihar	Independent House / 3 BHK	1726	₹14,300/month	Fully-Furnished	3	Family	Rent
+39	Bihar Properties (Bihar.txt)	3 BHK Apartment	Muzaffarpur Sector 2	Muzaffarpur / Bihar	Apartment / 3 BHK	779	₹58.51 L	Semi-Furnished	3	Family	Sale
+40	Bihar Properties (Bihar.txt)	2 BHK Apartment	Gaya North	Gaya / Bihar	Apartment / 2 BHK	838	₹9,600/month	Semi-Furnished	3	Family	Rent
+41	Bihar Properties (Bihar.txt)	4 BHK Apartment	Bhagalpur Residential Area	Bhagalpur / Bihar	Apartment / 4 BHK	1768	₹83.18 L	Semi-Furnished	4	Family	Sale
+42	Bihar Properties (Bihar.txt)	3 BHK Independent House	Patna Sector 2	Patna / Bihar	Independent House / 3 BHK	1689	₹70.36 L	Fully-Furnished	2	Bachelors	Sale
+43	Bihar Properties (Bihar.txt)	1 BHK Villa	Patna Main Road	Patna / Bihar	Villa / 1 BHK	682	₹31.41 L	Semi-Furnished	2	Family	Sale
+44	Bihar Properties (Bihar.txt)	1 BHK Studio	Patna Town Centre	Patna / Bihar	Studio / 1 BHK	383	₹22.96 L	Unfurnished	1	Any	Sale
+45	Bihar Properties (Bihar.txt)	2 BHK Independent House	Muzaffarpur Main Road	Muzaffarpur / Bihar	Independent House / 2 BHK	956	₹33.73 L	Semi-Furnished	2	Any	Sale
+46	Bihar Properties (Bihar.txt)	2 BHK Apartment	Muzaffarpur Colony	Muzaffarpur / Bihar	Apartment / 2 BHK	687	₹38.75 L	Semi-Furnished	2	Bachelors	Sale
+47	Bihar Properties (Bihar.txt)	1 BHK Studio	Bhagalpur Sector 1	Bhagalpur / Bihar	Studio / 1 BHK	456	₹27.35 L	Unfurnished	1	Family	Sale
+48	Bihar Properties (Bihar.txt)	2 BHK Builder Floor	Gaya Sector 2	Gaya / Bihar	Builder Floor / 2 BHK	876	₹10,400/month	Semi-Furnished	3	Bachelors	Rent
+49	Bihar Properties (Bihar.txt)	2 BHK Apartment	Gaya Sector 1	Gaya / Bihar	Apartment / 2 BHK	789	₹35.69 L	Semi-Furnished	3	Any	Sale
+50	Bihar Properties (Bihar.txt)	4 BHK Apartment	Muzaffarpur Central	Muzaffarpur / Bihar	Apartment / 4 BHK	1682	₹21,500/month	Semi-Furnished	4	Bachelors	Rent
+51	Bihar Properties (Bihar.txt)	3 BHK Builder Floor	Muzaffarpur Extension	Muzaffarpur / Bihar	Builder Floor / 3 BHK	1142	₹43.93 L	Semi-Furnished	4	Bachelors	Sale
+52	Bihar Properties (Bihar.txt)	1 BHK Independent House	Patna Nagar	Patna / Bihar	Independent House / 1 BHK	572	₹21.17 L	Fully-Furnished	1	Bachelors	Sale
+53	Bihar Properties (Bihar.txt)	1 BHK Independent House	Bhagalpur Sector 3	Bhagalpur / Bihar	Independent House / 1 BHK	719	₹31.67 L	Semi-Furnished	1	Any	Sale
+54	Bihar Properties (Bihar.txt)	3 BHK Apartment	Bhagalpur Residential Area	Bhagalpur / Bihar	Apartment / 3 BHK	1281	₹62.99 L	Fully-Furnished	4	Bachelors	Sale
+55	Bihar Properties (Bihar.txt)	2 BHK Independent House	Patna Town Centre	Patna / Bihar	Independent House / 2 BHK	1062	₹13,500/month	Semi-Furnished	2	Any	Rent
+56	Bihar Properties (Bihar.txt)	3 BHK Apartment	Muzaffarpur Heights	Muzaffarpur / Bihar	Apartment / 3 BHK	1418	₹67.37 L	Semi-Furnished	4	Bachelors	Sale
+57	Bihar Properties (Bihar.txt)	1 BHK Apartment	Patna Colony	Patna / Bihar	Apartment / 1 BHK	484	₹26.53 L	Unfurnished	1	Any	Sale
+58	Bihar Properties (Bihar.txt)	3 BHK Independent House	Bhagalpur East	Bhagalpur / Bihar	Independent House / 3 BHK	1526	₹16,000/month	Semi-Furnished	3	Bachelors	Rent
+59	Bihar Properties (Bihar.txt)	3 BHK Apartment	Patna Colony	Patna / Bihar	Apartment / 3 BHK	1519	₹13,400/month	Unfurnished	2	Family	Rent
+60	Bihar Properties (Bihar.txt)	5 BHK Apartment	Patna Sector 3	Patna / Bihar	Apartment / 5 BHK	2790	₹25,900/month	Semi-Furnished	5	Family	Rent
+61	Bihar Properties (Bihar.txt)	2 BHK Villa	Muzaffarpur Central	Muzaffarpur / Bihar	Villa / 2 BHK	1107	₹46.86 L	Semi-Furnished	2	Any	Sale
+62	Bihar Properties (Bihar.txt)	2 BHK Apartment	Muzaffarpur Town Centre	Muzaffarpur / Bihar	Apartment / 2 BHK	1001	₹43.88 L	Unfurnished	2	Bachelors	Sale
+63	Bihar Properties (Bihar.txt)	2 BHK Apartment	Gaya Heights	Gaya / Bihar	Apartment / 2 BHK	907	₹46.02 L	Semi-Furnished	2	Family	Sale
+64	Bihar Properties (Bihar.txt)	2 BHK Independent House	Gaya North	Gaya / Bihar	Independent House / 2 BHK	1076	₹39.58 L	Semi-Furnished	2	Any	Sale
+65	Bihar Properties (Bihar.txt)	3 BHK Apartment	Bhagalpur Residential Area	Bhagalpur / Bihar	Apartment / 3 BHK	1215	₹17,000/month	Unfurnished	2	Family	Rent
+66	Bihar Properties (Bihar.txt)	3 BHK Apartment	Bhagalpur Sector 2	Bhagalpur / Bihar	Apartment / 3 BHK	1250	₹49.06 L	Semi-Furnished	2	Any	Sale
+67	Bihar Properties (Bihar.txt)	3 BHK Apartment	Patna West	Patna / Bihar	Apartment / 3 BHK	1334	₹48.83 L	Unfurnished	2	Any	Sale
+68	Bihar Properties (Bihar.txt)	2 BHK Apartment	Muzaffarpur Residential Area	Muzaffarpur / Bihar	Apartment / 2 BHK	805	₹43.81 L	Unfurnished	2	Family	Sale
+69	Bihar Properties (Bihar.txt)	3 BHK Builder Floor	Patna Town Centre	Patna / Bihar	Builder Floor / 3 BHK	1371	₹57.52 L	Semi-Furnished	3	Any	Sale
+70	Bihar Properties (Bihar.txt)	1 BHK Studio	Bhagalpur North	Bhagalpur / Bihar	Studio / 1 BHK	371	₹7,800/month	Fully-Furnished	1	Family	Rent
+71	Bihar Properties (Bihar.txt)	2 BHK Villa	Bhagalpur West	Bhagalpur / Bihar	Villa / 2 BHK	1282	₹44.04 L	Semi-Furnished	2	Bachelors	Sale
+72	Bihar Properties (Bihar.txt)	3 BHK Apartment	Muzaffarpur Main Road	Muzaffarpur / Bihar	Apartment / 3 BHK	1206	₹48.32 L	Semi-Furnished	3	Family	Sale
+73	Bihar Properties (Bihar.txt)	3 BHK Apartment	Bhagalpur Town Centre	Bhagalpur / Bihar	Apartment / 3 BHK	1166	₹15,300/month	Semi-Furnished	3	Bachelors	Rent
+74	Bihar Properties (Bihar.txt)	3 BHK Apartment	Bhagalpur Main Road	Bhagalpur / Bihar	Apartment / 3 BHK	1166	₹53.40 L	Fully-Furnished	2	Bachelors	Sale
+75	Bihar Properties (Bihar.txt)	2 BHK Villa	Bhagalpur Sector 2	Bhagalpur / Bihar	Villa / 2 BHK	1158	₹45.80 L	Fully-Furnished	1	Family	Sale
+76	Bihar Properties (Bihar.txt)	2 BHK Independent House	Muzaffarpur Sector 1	Muzaffarpur / Bihar	Independent House / 2 BHK	899	₹32.36 L	Semi-Furnished	2	Any	Sale
+77	Bihar Properties (Bihar.txt)	3 BHK Apartment	Gaya Residential Area	Gaya / Bihar	Apartment / 3 BHK	1346	₹51.22 L	Semi-Furnished	3	Family	Sale
+78	Bihar Properties (Bihar.txt)	1 BHK Apartment	Muzaffarpur North	Muzaffarpur / Bihar	Apartment / 1 BHK	467	₹27.31 L	Semi-Furnished	1	Family	Sale
+79	Bihar Properties (Bihar.txt)	5 BHK Apartment	Gaya West	Gaya / Bihar	Apartment / 5 BHK	2523	₹27,900/month	Fully-Furnished	5	Family	Rent
+80	Bihar Properties (Bihar.txt)	5 BHK Apartment	Muzaffarpur Main Road	Muzaffarpur / Bihar	Apartment / 5 BHK	2710	₹87.04 L	Unfurnished	5	Bachelors	Sale
+81	Bihar Properties (Bihar.txt)	3 BHK Independent House	Muzaffarpur Central	Muzaffarpur / Bihar	Independent House / 3 BHK	1518	₹60.68 L	Semi-Furnished	2	Family	Sale
+82	Bihar Properties (Bihar.txt)	2 BHK Apartment	Muzaffarpur Town Centre	Muzaffarpur / Bihar	Apartment / 2 BHK	896	₹46.27 L	Fully-Furnished	1	Family	Sale
+83	Bihar Properties (Bihar.txt)	3 BHK Apartment	Patna Sector 1	Patna / Bihar	Apartment / 3 BHK	889	₹53.45 L	Semi-Furnished	4	Any	Sale
+84	Bihar Properties (Bihar.txt)	1 BHK Apartment	Patna Nagar	Patna / Bihar	Apartment / 1 BHK	679	₹7,200/month	Fully-Furnished	1	Bachelors	Rent
+85	Bihar Properties (Bihar.txt)	2 BHK Apartment	Muzaffarpur Sector 1	Muzaffarpur / Bihar	Apartment / 2 BHK	889	₹42.23 L	Unfurnished	3	Any	Sale
+86	Bihar Properties (Bihar.txt)	2 BHK Apartment	Bhagalpur Sector 2	Bhagalpur / Bihar	Apartment / 2 BHK	912	₹13,100/month	Unfurnished	1	Any	Rent
+87	Bihar Properties (Bihar.txt)	3 BHK Builder Floor	Bhagalpur East	Bhagalpur / Bihar	Builder Floor / 3 BHK	1157	₹57.80 L	Semi-Furnished	2	Bachelors	Sale
+88	Bihar Properties (Bihar.txt)	2 BHK Apartment	Bhagalpur Extension	Bhagalpur / Bihar	Apartment / 2 BHK	984	₹12,100/month	Fully-Furnished	2	Family	Rent
+89	Bihar Properties (Bihar.txt)	1 BHK Studio	Gaya Sector 2	Gaya / Bihar	Studio / 1 BHK	336	₹6,300/month	Semi-Furnished	2	Any	Rent
+90	Bihar Properties (Bihar.txt)	1 BHK Apartment	Bhagalpur Main Road	Bhagalpur / Bihar	Apartment / 1 BHK	631	₹28.08 L	Semi-Furnished	1	Family	Sale
+91	Bihar Properties (Bihar.txt)	3 BHK Apartment	Bhagalpur North	Bhagalpur / Bihar	Apartment / 3 BHK	1434	₹65.14 L	Fully-Furnished	4	Family	Sale
+92	Bihar Properties (Bihar.txt)	4 BHK Apartment	Patna Sector 3	Patna / Bihar	Apartment / 4 BHK	1716	₹63.34 L	Unfurnished	5	Family	Sale
+93	Bihar Properties (Bihar.txt)	3 BHK Villa	Muzaffarpur Extension	Muzaffarpur / Bihar	Villa / 3 BHK	1546	₹52.07 L	Semi-Furnished	2	Family	Sale
+94	Bihar Properties (Bihar.txt)	4 BHK Builder Floor	Muzaffarpur Nagar	Muzaffarpur / Bihar	Builder Floor / 4 BHK	2081	₹23,200/month	Semi-Furnished	3	Bachelors	Rent
+95	Bihar Properties (Bihar.txt)	2 BHK Apartment	Bhagalpur Residential Area	Bhagalpur / Bihar	Apartment / 2 BHK	801	₹45 L	Semi-Furnished	3	Bachelors	Sale
+96	Bihar Properties (Bihar.txt)	2 BHK Apartment	Gaya Sector 2	Gaya / Bihar	Apartment / 2 BHK	744	₹35.15 L	Semi-Furnished	1	Family	Sale
+97	Bihar Properties (Bihar.txt)	3 BHK Apartment	Bhagalpur West	Bhagalpur / Bihar	Apartment / 3 BHK	1573	₹66.49 L	Unfurnished	3	Bachelors	Sale
+98	Bihar Properties (Bihar.txt)	2 BHK Apartment	Bhagalpur West	Bhagalpur / Bihar	Apartment / 2 BHK	806	₹9,300/month	Semi-Furnished	2	Family	Rent
+99	Bihar Properties (Bihar.txt)	3 BHK Apartment	Patna North	Patna / Bihar	Apartment / 3 BHK	1249	₹53.38 L	Semi-Furnished	3	Family	Sale
+100	Bihar Properties (Bihar.txt)	2 BHK Apartment	Bhagalpur Extension	Bhagalpur / Bihar	Apartment / 2 BHK	755	₹31.06 L	Unfurnished	1	Any	Sale
+101	Bihar Properties (Bihar.txt)	2 BHK Builder Floor	Muzaffarpur Town Centre	Muzaffarpur / Bihar	Builder Floor / 2 BHK	948	₹13,300/month	Semi-Furnished	3	Any	Rent
+102	Bihar Properties (Bihar.txt)	3 BHK Apartment	Patna Main Road	Patna / Bihar	Apartment / 3 BHK	676	₹41.27 L	Semi-Furnished	4	Family	Sale
+103	Bihar Properties (Bihar.txt)	3 BHK Builder Floor	Bhagalpur North	Bhagalpur / Bihar	Builder Floor / 3 BHK	1160	₹53.73 L	Semi-Furnished	3	Bachelors	Sale
+104	Bihar Properties (Bihar.txt)	2 BHK Independent House	Gaya East	Gaya / Bihar	Independent House / 2 BHK	765	₹8,800/month	Fully-Furnished	3	Family	Rent
+105	Bihar Properties (Bihar.txt)	3 BHK Apartment	Patna Main Road	Patna / Bihar	Apartment / 3 BHK	1172	₹13,800/month	Fully-Furnished	2	Bachelors	Rent
+106	Bihar Properties (Bihar.txt)	3 BHK Apartment	Gaya Heights	Gaya / Bihar	Apartment / 3 BHK	924	₹54.37 L	Semi-Furnished	4	Any	Sale
+107	Bihar Properties (Bihar.txt)	1 BHK Studio	Patna Main Road	Patna / Bihar	Studio / 1 BHK	405	₹23.61 L	Unfurnished	2	Any	Sale
+108	Bihar Properties (Bihar.txt)	2 BHK Apartment	Bhagalpur North	Bhagalpur / Bihar	Apartment / 2 BHK	888	₹40.47 L	Unfurnished	2	Any	Sale
+109	Bihar Properties (Bihar.txt)	2 BHK Builder Floor	Muzaffarpur Sector 3	Muzaffarpur / Bihar	Builder Floor / 2 BHK	1094	₹13,800/month	Semi-Furnished	3	Bachelors	Rent
+110	Bihar Properties (Bihar.txt)	2 BHK Apartment	Gaya Sector 2	Gaya / Bihar	Apartment / 2 BHK	816	₹11,600/month	Unfurnished	2	Family	Rent
+111	Bihar Properties (Bihar.txt)	3 BHK Independent House	Patna West	Patna / Bihar	Independent House / 3 BHK	1365	₹52.49 L	Fully-Furnished	2	Family	Sale
+112	Bihar Properties (Bihar.txt)	1 BHK Apartment	Patna Extension	Patna / Bihar	Apartment / 1 BHK	528	₹23.76 L	Unfurnished	1	Bachelors	Sale
+113	Bihar Properties (Bihar.txt)	1 BHK Independent House	Gaya Extension	Gaya / Bihar	Independent House / 1 BHK	527	₹6,700/month	Semi-Furnished	1	Family	Rent
+114	Bihar Properties (Bihar.txt)	1 BHK Apartment	Patna Sector 3	Patna / Bihar	Apartment / 1 BHK	509	₹22.87 L	Semi-Furnished	1	Family	Sale
+115	Bihar Properties (Bihar.txt)	3 BHK Apartment	Patna North	Patna / Bihar	Apartment / 3 BHK	1232	₹63.66 L	Fully-Furnished	2	Family	Sale
+116	Bihar Properties (Bihar.txt)	2 BHK Builder Floor	Muzaffarpur Colony	Muzaffarpur / Bihar	Builder Floor / 2 BHK	962	₹35.30 L	Semi-Furnished	2	Any	Sale
+117	Bihar Properties (Bihar.txt)	5 BHK Apartment	Gaya Main Road	Gaya / Bihar	Apartment / 5 BHK	2430	₹77.19 L	Unfurnished	5	Bachelors	Sale
+118	Bihar Properties (Bihar.txt)	2 BHK Apartment	Bhagalpur East	Bhagalpur / Bihar	Apartment / 2 BHK	1045	₹35.06 L	Semi-Furnished	1	Bachelors	Sale
+119	Bihar Properties (Bihar.txt)	1 BHK Independent House	Muzaffarpur South	Muzaffarpur / Bihar	Independent House / 1 BHK	664	₹7,100/month	Fully-Furnished	1	Bachelors	Rent
+120	Bihar Properties (Bihar.txt)	1 BHK Apartment	Gaya Main Road	Gaya / Bihar	Apartment / 1 BHK	423	₹22.50 L	Fully-Furnished	1	Family	Sale
+121	Bihar Properties (Bihar.txt)	2 BHK Apartment	Bhagalpur Sector 3	Bhagalpur / Bihar	Apartment / 2 BHK	973	₹47.23 L	Unfurnished	2	Family	Sale
+122	Bihar Properties (Bihar.txt)	4 BHK Apartment	Gaya Central	Gaya / Bihar	Apartment / 4 BHK	1397	₹16,600/month	Semi-Furnished	4	Any	Rent
+123	Bihar Properties (Bihar.txt)	2 BHK Independent House	Muzaffarpur Residential Area	Muzaffarpur / Bihar	Independent House / 2 BHK	848	₹11,600/month	Fully-Furnished	1	Bachelors	Rent
+124	Bihar Properties (Bihar.txt)	4 BHK Apartment	Muzaffarpur Sector 3	Muzaffarpur / Bihar	Apartment / 4 BHK	1946	₹23,100/month	Semi-Furnished	4	Any	Rent
+125	Bihar Properties (Bihar.txt)	2 BHK Apartment	Gaya Heights	Gaya / Bihar	Apartment / 2 BHK	716	₹8,600/month	Unfurnished	2	Any	Rent
+126	Bihar Properties (Bihar.txt)	1 BHK Apartment	Gaya Residential Area	Gaya / Bihar	Apartment / 1 BHK	402	₹28.52 L	Fully-Furnished	1	Bachelors	Sale
+127	Bihar Properties (Bihar.txt)	3 BHK Apartment	Muzaffarpur Colony	Muzaffarpur / Bihar	Apartment / 3 BHK	1359	₹47.90 L	Fully-Furnished	3	Bachelors	Sale
+128	Bihar Properties (Bihar.txt)	3 BHK Apartment	Bhagalpur Sector 2	Bhagalpur / Bihar	Apartment / 3 BHK	1013	₹46.18 L	Semi-Furnished	4	Family	Sale
+129	Bihar Properties (Bihar.txt)	3 BHK Apartment	Gaya Colony	Gaya / Bihar	Apartment / 3 BHK	1109	₹52.69 L	Semi-Furnished	3	Family	Sale
+130	Bihar Properties (Bihar.txt)	3 BHK Villa	Bhagalpur Heights	Bhagalpur / Bihar	Villa / 3 BHK	1702	₹19,000/month	Semi-Furnished	3	Family	Rent
+131	Bihar Properties (Bihar.txt)	1 BHK Apartment	Gaya Sector 2	Gaya / Bihar	Apartment / 1 BHK	474	₹6,800/month	Semi-Furnished	1	Family	Rent
+132	Bihar Properties (Bihar.txt)	4 BHK Villa	Bhagalpur Colony	Bhagalpur / Bihar	Villa / 4 BHK	2171	₹85 L	Semi-Furnished	3	Family	Sale
+133	Bihar Properties (Bihar.txt)	1 BHK Villa	Gaya Sector 2	Gaya / Bihar	Villa / 1 BHK	705	₹27.41 L	Semi-Furnished	1	Any	Sale
+134	Bihar Properties (Bihar.txt)	1 BHK Apartment	Bhagalpur Sector 2	Bhagalpur / Bihar	Apartment / 1 BHK	529	₹7,800/month	Semi-Furnished	1	Any	Rent
+135	Bihar Properties (Bihar.txt)	3 BHK Villa	Muzaffarpur Sector 2	Muzaffarpur / Bihar	Villa / 3 BHK	1109	₹14,400/month	Fully-Furnished	3	Any	Rent
+136	Bihar Properties (Bihar.txt)	1 BHK Independent House	Muzaffarpur South	Muzaffarpur / Bihar	Independent House / 1 BHK	591	₹26.31 L	Semi-Furnished	1	Family	Sale
+137	Bihar Properties (Bihar.txt)	4 BHK Apartment	Bhagalpur Residential Area	Bhagalpur / Bihar	Apartment / 4 BHK	1279	₹68.38 L	Fully-Furnished	4	Family	Sale
+138	Bihar Properties (Bihar.txt)	3 BHK Builder Floor	Patna East	Patna / Bihar	Builder Floor / 3 BHK	1287	₹44.76 L	Semi-Furnished	4	Bachelors	Sale
+139	Bihar Properties (Bihar.txt)	3 BHK Villa	Gaya Heights	Gaya / Bihar	Villa / 3 BHK	1799	₹15,800/month	Fully-Furnished	4	Any	Rent
+140	Bihar Properties (Bihar.txt)	1 BHK Independent House	Gaya Extension	Gaya / Bihar	Independent House / 1 BHK	542	₹22.28 L	Unfurnished	2	Bachelors	Sale
+141	Bihar Properties (Bihar.txt)	2 BHK Builder Floor	Muzaffarpur Sector 3	Muzaffarpur / Bihar	Builder Floor / 2 BHK	893	₹12,200/month	Semi-Furnished	1	Any	Rent
+142	Bihar Properties (Bihar.txt)	3 BHK Villa	Gaya Residential Area	Gaya / Bihar	Villa / 3 BHK	1627	₹18,800/month	Unfurnished	3	Any	Rent
+143	Bihar Properties (Bihar.txt)	3 BHK Apartment	Bhagalpur Extension	Bhagalpur / Bihar	Apartment / 3 BHK	1174	₹43.35 L	Semi-Furnished	3	Bachelors	Sale
+144	Bihar Properties (Bihar.txt)	1 BHK Studio	Muzaffarpur Extension	Muzaffarpur / Bihar	Studio / 1 BHK	356	₹20.14 L	Unfurnished	1	Family	Sale
+145	Bihar Properties (Bihar.txt)	3 BHK Apartment	Muzaffarpur Heights	Muzaffarpur / Bihar	Apartment / 3 BHK	1114	₹47.85 L	Semi-Furnished	4	Any	Sale
+146	Bihar Properties (Bihar.txt)	3 BHK Builder Floor	Muzaffarpur West	Muzaffarpur / Bihar	Builder Floor / 3 BHK	1379	₹56.78 L	Unfurnished	2	Any	Sale
+147	Bihar Properties (Bihar.txt)	2 BHK Apartment	Gaya Residential Area	Gaya / Bihar	Apartment / 2 BHK	875	₹35.18 L	Unfurnished	2	Bachelors	Sale
+148	Bihar Properties (Bihar.txt)	5 BHK Apartment	Gaya Sector 1	Gaya / Bihar	Apartment / 5 BHK	2011	₹23,200/month	Unfurnished	4	Family	Rent
+149	Bihar Properties (Bihar.txt)	2 BHK Apartment	Muzaffarpur East	Muzaffarpur / Bihar	Apartment / 2 BHK	860	₹35.54 L	Unfurnished	2	Any	Sale
+150	Bihar Properties (Bihar.txt)	1 BHK Builder Floor	Bhagalpur Heights	Bhagalpur / Bihar	Builder Floor / 1 BHK	439	₹28.92 L	Semi-Furnished	1	Family	Sale
+151	Bihar Properties (Bihar.txt)	4 BHK Villa	Bhagalpur Central	Bhagalpur / Bihar	Villa / 4 BHK	2032	₹17,800/month	Semi-Furnished	4	Bachelors	Rent
+152	Bihar Properties (Bihar.txt)	1 BHK Independent House	Bhagalpur Nagar	Bhagalpur / Bihar	Independent House / 1 BHK	538	₹26.76 L	Fully-Furnished	1	Any	Sale
+153	Bihar Properties (Bihar.txt)	2 BHK Apartment	Gaya Sector 3	Gaya / Bihar	Apartment / 2 BHK	949	₹13,100/month	Unfurnished	1	Family	Rent
+154	Bihar Properties (Bihar.txt)	2 BHK Apartment	Muzaffarpur Main Road	Muzaffarpur / Bihar	Apartment / 2 BHK	743	₹43.05 L	Semi-Furnished	2	Family	Sale
+155	Bihar Properties (Bihar.txt)	4 BHK Apartment	Bhagalpur Nagar	Bhagalpur / Bihar	Apartment / 4 BHK	1753	₹19,200/month	Semi-Furnished	4	Any	Rent
+156	Bihar Properties (Bihar.txt)	1 BHK Apartment	Patna Sector 3	Patna / Bihar	Apartment / 1 BHK	432	₹20.92 L	Semi-Furnished	1	Any	Sale
+157	Bihar Properties (Bihar.txt)	5 BHK Apartment	Gaya West	Gaya / Bihar	Apartment / 5 BHK	2523	₹20,500/month	Semi-Furnished	4	Family	Rent
+158	Bihar Properties (Bihar.txt)	2 BHK Apartment	Patna South	Patna / Bihar	Apartment / 2 BHK	617	₹36.29 L	Unfurnished	2	Bachelors	Sale
+159	Bihar Properties (Bihar.txt)	4 BHK Builder Floor	Patna Nagar	Patna / Bihar	Builder Floor / 4 BHK	1854	₹17,400/month	Unfurnished	5	Family	Rent
+160	Bihar Properties (Bihar.txt)	4 BHK Apartment	Bhagalpur North	Bhagalpur / Bihar	Apartment / 4 BHK	1376	₹19,600/month	Unfurnished	4	Family	Rent
+161	Bihar Properties (Bihar.txt)	2 BHK Builder Floor	Muzaffarpur Extension	Muzaffarpur / Bihar	Builder Floor / 2 BHK	766	₹10,600/month	Semi-Furnished	1	Family	Rent
+162	Bihar Properties (Bihar.txt)	2 BHK Independent House	Patna Sector 2	Patna / Bihar	Independent House / 2 BHK	1093	₹13,200/month	Semi-Furnished	2	Family	Rent
+163	Bihar Properties (Bihar.txt)	3 BHK Apartment	Muzaffarpur Sector 1	Muzaffarpur / Bihar	Apartment / 3 BHK	1319	₹45.70 L	Fully-Furnished	3	Bachelors	Sale
+164	Bihar Properties (Bihar.txt)	2 BHK Independent House	Patna North	Patna / Bihar	Independent House / 2 BHK	1002	₹34.44 L	Semi-Furnished	2	Any	Sale
+165	Bihar Properties (Bihar.txt)	3 BHK Apartment	Gaya Colony	Gaya / Bihar	Apartment / 3 BHK	1448	₹59.73 L	Unfurnished	4	Bachelors	Sale
+166	Bihar Properties (Bihar.txt)	2 BHK Independent House	Muzaffarpur West	Muzaffarpur / Bihar	Independent House / 2 BHK	1039	₹12,400/month	Unfurnished	1	Family	Rent
+167	Bihar Properties (Bihar.txt)	1 BHK Villa	Bhagalpur Sector 1	Bhagalpur / Bihar	Villa / 1 BHK	732	₹22.84 L	Semi-Furnished	1	Family	Sale
+168	Bihar Properties (Bihar.txt)	1 BHK Studio	Bhagalpur Heights	Bhagalpur / Bihar	Studio / 1 BHK	300	₹20.38 L	Semi-Furnished	1	Family	Sale
+169	Bihar Properties (Bihar.txt)	1 BHK Apartment	Patna West	Patna / Bihar	Apartment / 1 BHK	546	₹7,800/month	Unfurnished	2	Any	Rent
+170	Bihar Properties (Bihar.txt)	2 BHK Apartment	Muzaffarpur Main Road	Muzaffarpur / Bihar	Apartment / 2 BHK	893	₹47.12 L	Fully-Furnished	1	Family	Sale
+171	Bihar Properties (Bihar.txt)	1 BHK Studio	Gaya East	Gaya / Bihar	Studio / 1 BHK	417	₹7,900/month	Semi-Furnished	1	Family	Rent
+172	Bihar Properties (Bihar.txt)	4 BHK Apartment	Patna North	Patna / Bihar	Apartment / 4 BHK	1737	₹16,100/month	Unfurnished	4	Bachelors	Rent
+173	Bihar Properties (Bihar.txt)	2 BHK Independent House	Bhagalpur Sector 3	Bhagalpur / Bihar	Independent House / 2 BHK	744	₹42.56 L	Semi-Furnished	3	Family	Sale
+174	Bihar Properties (Bihar.txt)	3 BHK Villa	Muzaffarpur Central	Muzaffarpur / Bihar	Villa / 3 BHK	1506	₹51.81 L	Semi-Furnished	3	Family	Sale
+175	Bihar Properties (Bihar.txt)	4 BHK Apartment	Muzaffarpur Residential Area	Muzaffarpur / Bihar	Apartment / 4 BHK	1566	₹16,200/month	Fully-Furnished	3	Any	Rent
+176	Bihar Properties (Bihar.txt)	2 BHK Builder Floor	Patna Main Road	Patna / Bihar	Builder Floor / 2 BHK	980	₹10,200/month	Semi-Furnished	2	Family	Rent
+177	Bihar Properties (Bihar.txt)	3 BHK Apartment	Bhagalpur West	Bhagalpur / Bihar	Apartment / 3 BHK	1450	₹12,700/month	Semi-Furnished	3	Family	Rent
+178	Bihar Properties (Bihar.txt)	4 BHK Apartment	Gaya Colony	Gaya / Bihar	Apartment / 4 BHK	1538	₹60.12 L	Semi-Furnished	5	Family	Sale
+179	Bihar Properties (Bihar.txt)	2 BHK Independent House	Bhagalpur Extension	Bhagalpur / Bihar	Independent House / 2 BHK	898	₹34.01 L	Semi-Furnished	2	Bachelors	Sale
+180	Bihar Properties (Bihar.txt)	4 BHK Apartment	Gaya Main Road	Gaya / Bihar	Apartment / 4 BHK	1856	₹58.88 L	Semi-Furnished	5	Any	Sale
+181	Bihar Properties (Bihar.txt)	2 BHK Independent House	Patna Residential Area	Patna / Bihar	Independent House / 2 BHK	909	₹10,900/month	Unfurnished	3	Family	Rent
+182	Bihar Properties (Bihar.txt)	4 BHK Apartment	Bhagalpur Heights	Bhagalpur / Bihar	Apartment / 4 BHK	1937	₹81.92 L	Unfurnished	4	Family	Sale
+183	Bihar Properties (Bihar.txt)	3 BHK Builder Floor	Patna Sector 1	Patna / Bihar	Builder Floor / 3 BHK	1340	₹53.33 L	Fully-Furnished	3	Any	Sale
+184	Bihar Properties (Bihar.txt)	3 BHK Apartment	Muzaffarpur Colony	Muzaffarpur / Bihar	Apartment / 3 BHK	1334	₹64.18 L	Semi-Furnished	3	Any	Sale
+185	Bihar Properties (Bihar.txt)	2 BHK Apartment	Muzaffarpur Town Centre	Muzaffarpur / Bihar	Apartment / 2 BHK	929	₹12,700/month	Semi-Furnished	2	Family	Rent
+186	Bihar Properties (Bihar.txt)	2 BHK Builder Floor	Muzaffarpur West	Muzaffarpur / Bihar	Builder Floor / 2 BHK	826	₹43.33 L	Unfurnished	2	Bachelors	Sale
+187	Bihar Properties (Bihar.txt)	4 BHK Apartment	Bhagalpur Residential Area	Bhagalpur / Bihar	Apartment / 4 BHK	1551	₹71.20 L	Fully-Furnished	4	Any	Sale
+188	Bihar Properties (Bihar.txt)	2 BHK Builder Floor	Muzaffarpur Nagar	Muzaffarpur / Bihar	Builder Floor / 2 BHK	933	₹34.67 L	Unfurnished	1	Bachelors	Sale
+189	Bihar Properties (Bihar.txt)	3 BHK Apartment	Muzaffarpur Sector 1	Muzaffarpur / Bihar	Apartment / 3 BHK	1252	₹57.77 L	Semi-Furnished	3	Family	Sale
+190	Bihar Properties (Bihar.txt)	2 BHK Apartment	Bhagalpur Town Centre	Bhagalpur / Bihar	Apartment / 2 BHK	853	₹12,500/month	Semi-Furnished	2	Family	Rent
+191	Bihar Properties (Bihar.txt)	4 BHK Independent House	Patna Town Centre	Patna / Bihar	Independent House / 4 BHK	1773	₹16,100/month	Unfurnished	4	Any	Rent
+192	Bihar Properties (Bihar.txt)	1 BHK Apartment	Gaya Sector 2	Gaya / Bihar	Apartment / 1 BHK	510	₹28.67 L	Fully-Furnished	1	Bachelors	Sale
+193	Bihar Properties (Bihar.txt)	3 BHK Builder Floor	Patna Sector 2	Patna / Bihar	Builder Floor / 3 BHK	1120	₹43.18 L	Unfurnished	3	Family	Sale
+194	Bihar Properties (Bihar.txt)	1 BHK Studio	Patna Central	Patna / Bihar	Studio / 1 BHK	405	₹7,700/month	Unfurnished	1	Family	Rent
+195	Bihar Properties (Bihar.txt)	2 BHK Apartment	Muzaffarpur Sector 2	Muzaffarpur / Bihar	Apartment / 2 BHK	782	₹46.16 L	Semi-Furnished	2	Family	Sale
+196	Bihar Properties (Bihar.txt)	2 BHK Apartment	Gaya Colony	Gaya / Bihar	Apartment / 2 BHK	857	₹43.97 L	Unfurnished	2	Family	Sale
+197	Bihar Properties (Bihar.txt)	4 BHK Apartment	Gaya Sector 1	Gaya / Bihar	Apartment / 4 BHK	1413	₹18,500/month	Semi-Furnished	4	Family	Rent
+198	Bihar Properties (Bihar.txt)	3 BHK Apartment	Gaya Nagar	Gaya / Bihar	Apartment / 3 BHK	1388	₹15,300/month	Fully-Furnished	3	Family	Rent
+199	Bihar Properties (Bihar.txt)	2 BHK Independent House	Muzaffarpur Residential Area	Muzaffarpur / Bihar	Independent House / 2 BHK	1135	₹49.29 L	Semi-Furnished	1	Bachelors	Sale
+200	Bihar Properties (Bihar.txt)	3 BHK Independent House	Bhagalpur Sector 2	Bhagalpur / Bihar	Independent House / 3 BHK	1588	₹58.47 L	Unfurnished	3	Family	Sale
+201	Bihar Properties (Bihar.txt)	2 BHK Independent House	Bhagalpur Central	Bhagalpur / Bihar	Independent House / 2 BHK	1044	₹9,500/month	Fully-Furnished	3	Bachelors	Rent
+202	Bihar Properties (Bihar.txt)	3 BHK Apartment	Bhagalpur East	Bhagalpur / Bihar	Apartment / 3 BHK	1664	₹18,000/month	Fully-Furnished	3	Family	Rent
+203	Bihar Properties (Bihar.txt)	2 BHK Apartment	Patna Colony	Patna / Bihar	Apartment / 2 BHK	737	₹9,000/month	Semi-Furnished	1	Family	Rent
+204	Bihar Properties (Bihar.txt)	2 BHK Apartment	Bhagalpur Main Road	Bhagalpur / Bihar	Apartment / 2 BHK	895	₹37.77 L	Semi-Furnished	2	Bachelors	Sale
+205	Bihar Properties (Bihar.txt)	2 BHK Apartment	Patna North	Patna / Bihar	Apartment / 2 BHK	1006	₹39.41 L	Fully-Furnished	2	Bachelors	Sale
+206	Bihar Properties (Bihar.txt)	2 BHK Apartment	Patna Extension	Patna / Bihar	Apartment / 2 BHK	820	₹32.14 L	Fully-Furnished	2	Family	Sale
+207	Bihar Properties (Bihar.txt)	1 BHK Studio	Muzaffarpur Sector 1	Muzaffarpur / Bihar	Studio / 1 BHK	387	₹7,300/month	Unfurnished	1	Family	Rent
+208	Bihar Properties (Bihar.txt)	1 BHK Villa	Patna Residential Area	Patna / Bihar	Villa / 1 BHK	798	₹33.20 L	Fully-Furnished	1	Bachelors	Sale
+209	Bihar Properties (Bihar.txt)	4 BHK Independent House	Patna Sector 2	Patna / Bihar	Independent House / 4 BHK	2095	₹18,800/month	Fully-Furnished	3	Bachelors	Rent
+210	Bihar Properties (Bihar.txt)	2 BHK Apartment	Bhagalpur Main Road	Bhagalpur / Bihar	Apartment / 2 BHK	686	₹11,300/month	Fully-Furnished	1	Family	Rent
+211	Bihar Properties (Bihar.txt)	5 BHK Apartment	Muzaffarpur Nagar	Muzaffarpur / Bihar	Apartment / 5 BHK	2738	₹24,000/month	Semi-Furnished	6	Any	Rent
+212	Bihar Properties (Bihar.txt)	2 BHK Apartment	Patna Extension	Patna / Bihar	Apartment / 2 BHK	1153	₹35.38 L	Unfurnished	2	Family	Sale
+213	Bihar Properties (Bihar.txt)	1 BHK Studio	Patna Sector 1	Patna / Bihar	Studio / 1 BHK	497	₹6,700/month	Unfurnished	2	Family	Rent
+214	Bihar Properties (Bihar.txt)	4 BHK Apartment	Bhagalpur Town Centre	Bhagalpur / Bihar	Apartment / 4 BHK	1864	₹78.88 L	Unfurnished	4	Bachelors	Sale
+215	Bihar Properties (Bihar.txt)	5 BHK Independent House	Patna Extension	Patna / Bihar	Independent House / 5 BHK	3111	₹22,700/month	Semi-Furnished	6	Any	Rent
+216	Bihar Properties (Bihar.txt)	4 BHK Villa	Patna Sector 3	Patna / Bihar	Villa / 4 BHK	2456	₹67.52 L	Unfurnished	4	Family	Sale
+217	Bihar Properties (Bihar.txt)	3 BHK Villa	Bhagalpur Nagar	Bhagalpur / Bihar	Villa / 3 BHK	1601	₹57.46 L	Fully-Furnished	3	Any	Sale
+218	Bihar Properties (Bihar.txt)	4 BHK Apartment	Patna Main Road	Patna / Bihar	Apartment / 4 BHK	1924	₹84.51 L	Semi-Furnished	3	Any	Sale
+219	Bihar Properties (Bihar.txt)	5 BHK Independent House	Bhagalpur Sector 3	Bhagalpur / Bihar	Independent House / 5 BHK	2693	₹29,200/month	Semi-Furnished	4	Family	Rent
+220	Bihar Properties (Bihar.txt)	2 BHK Apartment	Gaya Sector 2	Gaya / Bihar	Apartment / 2 BHK	672	₹9,200/month	Semi-Furnished	1	Family	Rent
+221	Bihar Properties (Bihar.txt)	1 BHK Apartment	Bhagalpur South	Bhagalpur / Bihar	Apartment / 1 BHK	479	₹26.76 L	Semi-Furnished	1	Bachelors	Sale
+222	Bihar Properties (Bihar.txt)	5 BHK Villa	Bhagalpur Town Centre	Bhagalpur / Bihar	Villa / 5 BHK	3690	₹1.14 Cr	Unfurnished	5	Any	Sale
+223	Bihar Properties (Bihar.txt)	2 BHK Builder Floor	Bhagalpur Heights	Bhagalpur / Bihar	Builder Floor / 2 BHK	820	₹36.40 L	Unfurnished	2	Any	Sale
+224	Bihar Properties (Bihar.txt)	2 BHK Apartment	Gaya Town Centre	Gaya / Bihar	Apartment / 2 BHK	702	₹37.14 L	Semi-Furnished	1	Any	Sale
+225	Bihar Properties (Bihar.txt)	2 BHK Apartment	Gaya Main Road	Gaya / Bihar	Apartment / 2 BHK	1176	₹11,500/month	Semi-Furnished	2	Family	Rent
+226	Bihar Properties (Bihar.txt)	3 BHK Apartment	Gaya Town Centre	Gaya / Bihar	Apartment / 3 BHK	1080	₹43.04 L	Unfurnished	4	Family	Sale
+227	Bihar Properties (Bihar.txt)	3 BHK Builder Floor	Bhagalpur Heights	Bhagalpur / Bihar	Builder Floor / 3 BHK	1041	₹42.13 L	Semi-Furnished	3	Family	Sale
+228	Bihar Properties (Bihar.txt)	3 BHK Apartment	Bhagalpur Central	Bhagalpur / Bihar	Apartment / 3 BHK	1337	₹54.18 L	Fully-Furnished	4	Family	Sale
+229	Bihar Properties (Bihar.txt)	3 BHK Independent House	Bhagalpur Sector 2	Bhagalpur / Bihar	Independent House / 3 BHK	1463	₹18,500/month	Semi-Furnished	2	Family	Rent
+230	Bihar Properties (Bihar.txt)	2 BHK Apartment	Gaya Nagar	Gaya / Bihar	Apartment / 2 BHK	877	₹35.92 L	Unfurnished	2	Family	Sale
+231	Bihar Properties (Bihar.txt)	3 BHK Villa	Patna North	Patna / Bihar	Villa / 3 BHK	1830	₹51.47 L	Fully-Furnished	3	Any	Sale
+232	Bihar Properties (Bihar.txt)	1 BHK Apartment	Gaya South	Gaya / Bihar	Apartment / 1 BHK	545	₹25.83 L	Semi-Furnished	1	Any	Sale
+233	Bihar Properties (Bihar.txt)	1 BHK Studio	Gaya Central	Gaya / Bihar	Studio / 1 BHK	300	₹18.56 L	Semi-Furnished	1	Any	Sale
+234	Bihar Properties (Bihar.txt)	2 BHK Apartment	Bhagalpur Extension	Bhagalpur / Bihar	Apartment / 2 BHK	1050	₹36.79 L	Semi-Furnished	2	Bachelors	Sale
+235	Bihar Properties (Bihar.txt)	2 BHK Apartment	Patna Sector 1	Patna / Bihar	Apartment / 2 BHK	1078	₹48.10 L	Semi-Furnished	3	Any	Sale
+236	Bihar Properties (Bihar.txt)	3 BHK Apartment	Muzaffarpur South	Muzaffarpur / Bihar	Apartment / 3 BHK	1094	₹16,300/month	Fully-Furnished	3	Bachelors	Rent
+237	Bihar Properties (Bihar.txt)	4 BHK Builder Floor	Gaya Sector 3	Gaya / Bihar	Builder Floor / 4 BHK	1747	₹76.16 L	Fully-Furnished	3	Any	Sale
+238	Bihar Properties (Bihar.txt)	2 BHK Independent House	Gaya Sector 3	Gaya / Bihar	Independent House / 2 BHK	1060	₹10,100/month	Fully-Furnished	1	Bachelors	Rent
+239	Bihar Properties (Bihar.txt)	4 BHK Apartment	Muzaffarpur Sector 2	Muzaffarpur / Bihar	Apartment / 4 BHK	2147	₹21,500/month	Semi-Furnished	4	Bachelors	Rent
+240	Bihar Properties (Bihar.txt)	4 BHK Apartment	Bhagalpur Colony	Bhagalpur / Bihar	Apartment / 4 BHK	1808	₹76.83 L	Fully-Furnished	4	Bachelors	Sale
+241	Bihar Properties (Bihar.txt)	3 BHK Villa	Patna Colony	Patna / Bihar	Villa / 3 BHK	2149	₹74.36 L	Semi-Furnished	3	Bachelors	Sale
+242	Bihar Properties (Bihar.txt)	2 BHK Independent House	Patna West	Patna / Bihar	Independent House / 2 BHK	1107	₹39.13 L	Semi-Furnished	2	Family	Sale
+243	Bihar Properties (Bihar.txt)	1 BHK Apartment	Patna Residential Area	Patna / Bihar	Apartment / 1 BHK	560	₹7,300/month	Semi-Furnished	1	Family	Rent
+244	Bihar Properties (Bihar.txt)	3 BHK Apartment	Bhagalpur West	Bhagalpur / Bihar	Apartment / 3 BHK	1164	₹55.65 L	Unfurnished	4	Bachelors	Sale
+245	Bihar Properties (Bihar.txt)	5 BHK Builder Floor	Patna Sector 2	Patna / Bihar	Builder Floor / 5 BHK	2521	₹24,300/month	Fully-Furnished	5	Bachelors	Rent
+246	Bihar Properties (Bihar.txt)	4 BHK Builder Floor	Patna East	Patna / Bihar	Builder Floor / 4 BHK	1872	₹79.60 L	Semi-Furnished	4	Any	Sale
+247	Bihar Properties (Bihar.txt)	4 BHK Apartment	Gaya West	Gaya / Bihar	Apartment / 4 BHK	1663	₹73.95 L	Fully-Furnished	4	Family	Sale
+248	Bihar Properties (Bihar.txt)	2 BHK Villa	Patna Central	Patna / Bihar	Villa / 2 BHK	1192	₹10,700/month	Semi-Furnished	2	Any	Rent
+249	Bihar Properties (Bihar.txt)	1 BHK Apartment	Gaya West	Gaya / Bihar	Apartment / 1 BHK	474	₹6,400/month	Semi-Furnished	1	Bachelors	Rent
+250	Bihar Properties (Bihar.txt)	3 BHK Apartment	Bhagalpur South	Bhagalpur / Bihar	Apartment / 3 BHK	1480	₹65.31 L	Semi-Furnished	2	Family	Sale
+251	Bihar Properties (Bihar.txt)	3 BHK Apartment	Muzaffarpur Heights	Muzaffarpur / Bihar	Apartment / 3 BHK	1351	₹12,500/month	Semi-Furnished	4	Family	Rent
+252	Bihar Properties (Bihar.txt)	1 BHK Apartment	Muzaffarpur Residential Area	Muzaffarpur / Bihar	Apartment / 1 BHK	612	₹7,700/month	Fully-Furnished	1	Family	Rent
+253	Bihar Properties (Bihar.txt)	1 BHK Independent House	Bhagalpur Heights	Bhagalpur / Bihar	Independent House / 1 BHK	597	₹23.11 L	Semi-Furnished	1	Bachelors	Sale
+254	Bihar Properties (Bihar.txt)	3 BHK Independent House	Gaya East	Gaya / Bihar	Independent House / 3 BHK	1413	₹60.41 L	Unfurnished	3	Bachelors	Sale
+255	Bihar Properties (Bihar.txt)	4 BHK Apartment	Bhagalpur Extension	Bhagalpur / Bihar	Apartment / 4 BHK	2173	₹19,200/month	Semi-Furnished	5	Family	Rent
+256	Bihar Properties (Bihar.txt)	1 BHK Studio	Patna East	Patna / Bihar	Studio / 1 BHK	440	₹7,900/month	Semi-Furnished	1	Bachelors	Rent
+257	Bihar Properties (Bihar.txt)	3 BHK Apartment	Patna East	Patna / Bihar	Apartment / 3 BHK	1304	₹12,100/month	Semi-Furnished	4	Family	Rent
+258	Bihar Properties (Bihar.txt)	1 BHK Apartment	Bhagalpur Sector 1	Bhagalpur / Bihar	Apartment / 1 BHK	429	₹24.24 L	Semi-Furnished	1	Any	Sale
+259	Bihar Properties (Bihar.txt)	4 BHK Villa	Bhagalpur West	Bhagalpur / Bihar	Villa / 4 BHK	2141	₹62.72 L	Fully-Furnished	4	Family	Sale
+260	Bihar Properties (Bihar.txt)	3 BHK Apartment	Muzaffarpur Extension	Muzaffarpur / Bihar	Apartment / 3 BHK	1162	₹62.15 L	Semi-Furnished	4	Family	Sale
+261	Bihar Properties (Bihar.txt)	1 BHK Apartment	Muzaffarpur Town Centre	Muzaffarpur / Bihar	Apartment / 1 BHK	548	₹21.75 L	Semi-Furnished	1	Bachelors	Sale
+262	Bihar Properties (Bihar.txt)	2 BHK Apartment	Gaya North	Gaya / Bihar	Apartment / 2 BHK	934	₹11,000/month	Fully-Furnished	1	Family	Rent
+263	Bihar Properties (Bihar.txt)	5 BHK Villa	Bhagalpur Residential Area	Bhagalpur / Bihar	Villa / 5 BHK	3341	₹28,900/month	Unfurnished	5	Family	Rent
+264	Bihar Properties (Bihar.txt)	1 BHK Apartment	Muzaffarpur North	Muzaffarpur / Bihar	Apartment / 1 BHK	683	₹21.91 L	Fully-Furnished	1	Family	Sale
+265	Bihar Properties (Bihar.txt)	3 BHK Apartment	Gaya Main Road	Gaya / Bihar	Apartment / 3 BHK	1162	₹15,900/month	Semi-Furnished	3	Any	Rent
+266	Bihar Properties (Bihar.txt)	2 BHK Apartment	Gaya South	Gaya / Bihar	Apartment / 2 BHK	978	₹13,000/month	Unfurnished	3	Bachelors	Rent
+267	Bihar Properties (Bihar.txt)	1 BHK Builder Floor	Muzaffarpur Sector 3	Muzaffarpur / Bihar	Builder Floor / 1 BHK	532	₹23.92 L	Unfurnished	1	Family	Sale
+268	Bihar Properties (Bihar.txt)	2 BHK Builder Floor	Gaya Residential Area	Gaya / Bihar	Builder Floor / 2 BHK	787	₹43.90 L	Fully-Furnished	2	Family	Sale
+269	Bihar Properties (Bihar.txt)	2 BHK Apartment	Gaya East	Gaya / Bihar	Apartment / 2 BHK	936	₹36.45 L	Unfurnished	2	Any	Sale
+270	Bihar Properties (Bihar.txt)	3 BHK Independent House	Bhagalpur Heights	Bhagalpur / Bihar	Independent House / 3 BHK	1742	₹54.83 L	Semi-Furnished	3	Family	Sale
+271	Bihar Properties (Bihar.txt)	2 BHK Apartment	Bhagalpur Heights	Bhagalpur / Bihar	Apartment / 2 BHK	860	₹9,400/month	Semi-Furnished	3	Any	Rent
+272	Bihar Properties (Bihar.txt)	2 BHK Apartment	Patna Central	Patna / Bihar	Apartment / 2 BHK	879	₹35.73 L	Semi-Furnished	1	Bachelors	Sale
+273	Bihar Properties (Bihar.txt)	3 BHK Builder Floor	Gaya Sector 3	Gaya / Bihar	Builder Floor / 3 BHK	888	₹47.47 L	Semi-Furnished	2	Family	Sale
+274	Bihar Properties (Bihar.txt)	2 BHK Independent House	Patna Town Centre	Patna / Bihar	Independent House / 2 BHK	691	₹31.45 L	Semi-Furnished	2	Any	Sale
+275	Bihar Properties (Bihar.txt)	1 BHK Apartment	Gaya West	Gaya / Bihar	Apartment / 1 BHK	524	₹7,700/month	Semi-Furnished	1	Family	Rent
+276	Bihar Properties (Bihar.txt)	2 BHK Independent House	Muzaffarpur Sector 1	Muzaffarpur / Bihar	Independent House / 2 BHK	1106	₹11,400/month	Semi-Furnished	2	Family	Rent
+277	Bihar Properties (Bihar.txt)	2 BHK Apartment	Patna South	Patna / Bihar	Apartment / 2 BHK	764	₹12,200/month	Fully-Furnished	2	Family	Rent
+278	Bihar Properties (Bihar.txt)	2 BHK Apartment	Muzaffarpur Colony	Muzaffarpur / Bihar	Apartment / 2 BHK	973	₹10,500/month	Fully-Furnished	2	Any	Rent
+279	Bihar Properties (Bihar.txt)	1 BHK Studio	Gaya Sector 3	Gaya / Bihar	Studio / 1 BHK	316	₹7,400/month	Fully-Furnished	1	Bachelors	Rent
+280	Bihar Properties (Bihar.txt)	3 BHK Apartment	Patna Sector 1	Patna / Bihar	Apartment / 3 BHK	1176	₹13,400/month	Fully-Furnished	4	Family	Rent
+281	Bihar Properties (Bihar.txt)	4 BHK Builder Floor	Gaya Nagar	Gaya / Bihar	Builder Floor / 4 BHK	2094	₹18,800/month	Unfurnished	3	Bachelors	Rent
+282	Bihar Properties (Bihar.txt)	2 BHK Apartment	Gaya Residential Area	Gaya / Bihar	Apartment / 2 BHK	813	₹46.73 L	Semi-Furnished	2	Family	Sale
+283	Bihar Properties (Bihar.txt)	5 BHK Apartment	Gaya South	Gaya / Bihar	Apartment / 5 BHK	2725	₹23,800/month	Semi-Furnished	5	Bachelors	Rent
+284	Bihar Properties (Bihar.txt)	4 BHK Apartment	Patna Central	Patna / Bihar	Apartment / 4 BHK	1492	₹76.32 L	Semi-Furnished	4	Family	Sale
+285	Bihar Properties (Bihar.txt)	3 BHK Builder Floor	Gaya Central	Gaya / Bihar	Builder Floor / 3 BHK	1414	₹15,900/month	Fully-Furnished	3	Family	Rent
+286	Bihar Properties (Bihar.txt)	3 BHK Apartment	Patna Extension	Patna / Bihar	Apartment / 3 BHK	1447	₹55.96 L	Semi-Furnished	2	Bachelors	Sale
+287	Bihar Properties (Bihar.txt)	1 BHK Apartment	Patna Sector 3	Patna / Bihar	Apartment / 1 BHK	528	₹8,100/month	Semi-Furnished	1	Any	Rent
+288	Bihar Properties (Bihar.txt)	2 BHK Apartment	Bhagalpur Colony	Bhagalpur / Bihar	Apartment / 2 BHK	1156	₹34.51 L	Semi-Furnished	2	Family	Sale
+289	Bihar Properties (Bihar.txt)	2 BHK Apartment	Patna Central	Patna / Bihar	Apartment / 2 BHK	883	₹35.11 L	Semi-Furnished	2	Any	Sale
+290	Bihar Properties (Bihar.txt)	3 BHK Apartment	Bhagalpur Extension	Bhagalpur / Bihar	Apartment / 3 BHK	1156	₹14,000/month	Semi-Furnished	3	Any	Rent
+291	Bihar Properties (Bihar.txt)	2 BHK Apartment	Gaya Sector 1	Gaya / Bihar	Apartment / 2 BHK	817	₹9,900/month	Semi-Furnished	1	Family	Rent
+292	Bihar Properties (Bihar.txt)	1 BHK Apartment	Muzaffarpur Sector 2	Muzaffarpur / Bihar	Apartment / 1 BHK	535	₹29.07 L	Fully-Furnished	1	Family	Sale
+293	Bihar Properties (Bihar.txt)	3 BHK Apartment	Muzaffarpur Residential Area	Muzaffarpur / Bihar	Apartment / 3 BHK	1432	₹56.50 L	Fully-Furnished	3	Family	Sale
+294	Bihar Properties (Bihar.txt)	1 BHK Builder Floor	Muzaffarpur North	Muzaffarpur / Bihar	Builder Floor / 1 BHK	462	₹28.24 L	Unfurnished	1	Family	Sale
+295	Bihar Properties (Bihar.txt)	2 BHK Builder Floor	Muzaffarpur Nagar	Muzaffarpur / Bihar	Builder Floor / 2 BHK	831	₹37.42 L	Semi-Furnished	1	Family	Sale
+296	Bihar Properties (Bihar.txt)	2 BHK Apartment	Muzaffarpur South	Muzaffarpur / Bihar	Apartment / 2 BHK	1056	₹46.84 L	Fully-Furnished	2	Family	Sale
+297	Bihar Properties (Bihar.txt)	2 BHK Independent House	Gaya Central	Gaya / Bihar	Independent House / 2 BHK	1048	₹10,400/month	Unfurnished	3	Family	Rent
+298	Bihar Properties (Bihar.txt)	2 BHK Villa	Gaya Sector 3	Gaya / Bihar	Villa / 2 BHK	1203	₹12,200/month	Unfurnished	1	Family	Rent
+299	Bihar Properties (Bihar.txt)	1 BHK Apartment	Patna Extension	Patna / Bihar	Apartment / 1 BHK	530	₹22.25 L	Unfurnished	2	Any	Sale
+300	Bihar Properties (Bihar.txt)	3 BHK Villa	Bhagalpur West	Bhagalpur / Bihar	Villa / 3 BHK	2260	₹15,900/month	Fully-Furnished	3	Bachelors	Rent
+301	Bihar Properties (Bihar.txt)	2 BHK Apartment	Gaya Sector 2	Gaya / Bihar	Apartment / 2 BHK	914	₹45 L	Semi-Furnished	2	Family	Sale
+302	Bihar Properties (Bihar.txt)	3 BHK Apartment	Bhagalpur North	Bhagalpur / Bihar	Apartment / 3 BHK	1145	₹43.53 L	Fully-Furnished	3	Bachelors	Sale
+303	Bihar Properties (Bihar.txt)	1 BHK Studio	Gaya South	Gaya / Bihar	Studio / 1 BHK	392	₹28.45 L	Semi-Furnished	1	Any	Sale
+304	Bihar Properties (Bihar.txt)	2 BHK Apartment	Gaya Colony	Gaya / Bihar	Apartment / 2 BHK	673	₹44.71 L	Fully-Furnished	1	Family	Sale
+305	Bihar Properties (Bihar.txt)	4 BHK Builder Floor	Gaya Colony	Gaya / Bihar	Builder Floor / 4 BHK	1641	₹82.09 L	Semi-Furnished	4	Family	Sale
+306	Bihar Properties (Bihar.txt)	2 BHK Apartment	Muzaffarpur Sector 2	Muzaffarpur / Bihar	Apartment / 2 BHK	794	₹45.64 L	Semi-Furnished	2	Family	Sale
+307	Bihar Properties (Bihar.txt)	2 BHK Villa	Gaya Heights	Gaya / Bihar	Villa / 2 BHK	1196	₹42.81 L	Unfurnished	2	Bachelors	Sale
+308	Bihar Properties (Bihar.txt)	1 BHK Independent House	Patna Colony	Patna / Bihar	Independent House / 1 BHK	696	₹23.68 L	Semi-Furnished	1	Any	Sale
+309	Bihar Properties (Bihar.txt)	2 BHK Apartment	Patna Central	Patna / Bihar	Apartment / 2 BHK	995	₹11,200/month	Fully-Furnished	2	Any	Rent
+310	Bihar Properties (Bihar.txt)	2 BHK Apartment	Patna Heights	Patna / Bihar	Apartment / 2 BHK	706	₹11,100/month	Fully-Furnished	2	Family	Rent
+311	Bihar Properties (Bihar.txt)	2 BHK Builder Floor	Bhagalpur East	Bhagalpur / Bihar	Builder Floor / 2 BHK	1014	₹45.51 L	Unfurnished	2	Family	Sale
+312	Bihar Properties (Bihar.txt)	1 BHK Apartment	Gaya South	Gaya / Bihar	Apartment / 1 BHK	416	₹5,500/month	Fully-Furnished	1	Family	Rent
+313	Bihar Properties (Bihar.txt)	2 BHK Builder Floor	Bhagalpur Main Road	Bhagalpur / Bihar	Builder Floor / 2 BHK	948	₹34.08 L	Fully-Furnished	1	Any	Sale
+314	Bihar Properties (Bihar.txt)	2 BHK Apartment	Muzaffarpur Main Road	Muzaffarpur / Bihar	Apartment / 2 BHK	951	₹33.57 L	Unfurnished	2	Any	Sale
+315	Bihar Properties (Bihar.txt)	4 BHK Independent House	Muzaffarpur Central	Muzaffarpur / Bihar	Independent House / 4 BHK	2160	₹84.19 L	Semi-Furnished	4	Any	Sale
+316	Bihar Properties (Bihar.txt)	2 BHK Builder Floor	Muzaffarpur Central	Muzaffarpur / Bihar	Builder Floor / 2 BHK	861	₹41.12 L	Semi-Furnished	2	Bachelors	Sale
+317	Bihar Properties (Bihar.txt)	1 BHK Builder Floor	Gaya Main Road	Gaya / Bihar	Builder Floor / 1 BHK	612	₹25.42 L	Fully-Furnished	2	Any	Sale
+318	Bihar Properties (Bihar.txt)	3 BHK Villa	Bhagalpur Main Road	Bhagalpur / Bihar	Villa / 3 BHK	1857	₹69.97 L	Semi-Furnished	3	Family	Sale
+319	Bihar Properties (Bihar.txt)	2 BHK Apartment	Bhagalpur Sector 3	Bhagalpur / Bihar	Apartment / 2 BHK	712	₹8,700/month	Semi-Furnished	2	Family	Rent
+320	Bihar Properties (Bihar.txt)	3 BHK Builder Floor	Bhagalpur Town Centre	Bhagalpur / Bihar	Builder Floor / 3 BHK	1205	₹60.68 L	Fully-Furnished	4	Bachelors	Sale
+321	Bihar Properties (Bihar.txt)	2 BHK Apartment	Bhagalpur Central	Bhagalpur / Bihar	Apartment / 2 BHK	911	₹35.68 L	Fully-Furnished	3	Family	Sale
+322	Bihar Properties (Bihar.txt)	2 BHK Apartment	Muzaffarpur Sector 2	Muzaffarpur / Bihar	Apartment / 2 BHK	668	₹41.74 L	Unfurnished	1	Family	Sale
+323	Bihar Properties (Bihar.txt)	2 BHK Villa	Muzaffarpur Town Centre	Muzaffarpur / Bihar	Villa / 2 BHK	1036	₹44.55 L	Unfurnished	3	Bachelors	Sale
+324	Bihar Properties (Bihar.txt)	2 BHK Builder Floor	Muzaffarpur Colony	Muzaffarpur / Bihar	Builder Floor / 2 BHK	988	₹35.39 L	Semi-Furnished	2	Any	Sale
+325	Bihar Properties (Bihar.txt)	3 BHK Apartment	Patna Sector 3	Patna / Bihar	Apartment / 3 BHK	1139	₹15,500/month	Semi-Furnished	3	Bachelors	Rent
+326	Bihar Properties (Bihar.txt)	3 BHK Apartment	Gaya Town Centre	Gaya / Bihar	Apartment / 3 BHK	1294	₹61.69 L	Fully-Furnished	2	Any	Sale
+327	Bihar Properties (Bihar.txt)	3 BHK Apartment	Bhagalpur West	Bhagalpur / Bihar	Apartment / 3 BHK	1643	₹59.86 L	Fully-Furnished	3	Any	Sale
+328	Bihar Properties (Bihar.txt)	2 BHK Independent House	Patna Residential Area	Patna / Bihar	Independent House / 2 BHK	1132	₹48.34 L	Fully-Furnished	2	Family	Sale
+329	Bihar Properties (Bihar.txt)	4 BHK Apartment	Patna Sector 2	Patna / Bihar	Apartment / 4 BHK	1989	₹16,900/month	Fully-Furnished	4	Family	Rent
+330	Bihar Properties (Bihar.txt)	4 BHK Apartment	Gaya South	Gaya / Bihar	Apartment / 4 BHK	1360	₹65.28 L	Semi-Furnished	3	Any	Sale
+331	Bihar Properties (Bihar.txt)	4 BHK Apartment	Gaya East	Gaya / Bihar	Apartment / 4 BHK	1502	₹62.79 L	Semi-Furnished	5	Bachelors	Sale
+332	Bihar Properties (Bihar.txt)	4 BHK Independent House	Bhagalpur Residential Area	Bhagalpur / Bihar	Independent House / 4 BHK	2404	₹22,100/month	Fully-Furnished	5	Bachelors	Rent
+333	Bihar Properties (Bihar.txt)	5 BHK Apartment	Muzaffarpur Sector 3	Muzaffarpur / Bihar	Apartment / 5 BHK	2668	₹22,000/month	Unfurnished	6	Family	Rent
+334	Bihar Properties (Bihar.txt)	3 BHK Independent House	Patna Sector 3	Patna / Bihar	Independent House / 3 BHK	1809	₹65.82 L	Semi-Furnished	2	Bachelors	Sale
+335	Bihar Properties (Bihar.txt)	2 BHK Builder Floor	Bhagalpur Extension	Bhagalpur / Bihar	Builder Floor / 2 BHK	828	₹10,100/month	Unfurnished	3	Any	Rent
+336	Bihar Properties (Bihar.txt)	3 BHK Apartment	Patna North	Patna / Bihar	Apartment / 3 BHK	1306	₹45.31 L	Semi-Furnished	2	Any	Sale
+337	Bihar Properties (Bihar.txt)	1 BHK Apartment	Bhagalpur Sector 2	Bhagalpur / Bihar	Apartment / 1 BHK	546	₹30.20 L	Semi-Furnished	2	Bachelors	Sale
+338	Bihar Properties (Bihar.txt)	1 BHK Studio	Bhagalpur East	Bhagalpur / Bihar	Studio / 1 BHK	375	₹5,700/month	Semi-Furnished	1	Any	Rent
+339	Bihar Properties (Bihar.txt)	5 BHK Apartment	Bhagalpur South	Bhagalpur / Bihar	Apartment / 5 BHK	2503	₹93.55 L	Fully-Furnished	5	Any	Sale
+340	Bihar Properties (Bihar.txt)	3 BHK Apartment	Bhagalpur Nagar	Bhagalpur / Bihar	Apartment / 3 BHK	1253	₹53.25 L	Unfurnished	4	Family	Sale
+341	Bihar Properties (Bihar.txt)	3 BHK Apartment	Gaya Town Centre	Gaya / Bihar	Apartment / 3 BHK	1059	₹55.76 L	Semi-Furnished	2	Any	Sale
+342	Bihar Properties (Bihar.txt)	1 BHK Builder Floor	Patna West	Patna / Bihar	Builder Floor / 1 BHK	408	₹20.55 L	Fully-Furnished	1	Family	Sale
+343	Bihar Properties (Bihar.txt)	3 BHK Independent House	Bhagalpur East	Bhagalpur / Bihar	Independent House / 3 BHK	1649	₹68.55 L	Fully-Furnished	3	Any	Sale
+344	Bihar Properties (Bihar.txt)	3 BHK Apartment	Patna Town Centre	Patna / Bihar	Apartment / 3 BHK	1225	₹55.17 L	Unfurnished	3	Family	Sale
+345	Bihar Properties (Bihar.txt)	2 BHK Villa	Gaya Central	Gaya / Bihar	Villa / 2 BHK	1078	₹39.64 L	Semi-Furnished	1	Any	Sale
+346	Bihar Properties (Bihar.txt)	4 BHK Villa	Bhagalpur Extension	Bhagalpur / Bihar	Villa / 4 BHK	1936	₹22,700/month	Fully-Furnished	4	Bachelors	Rent
+347	Bihar Properties (Bihar.txt)	2 BHK Apartment	Gaya South	Gaya / Bihar	Apartment / 2 BHK	845	₹43.61 L	Fully-Furnished	1	Any	Sale
+348	Bihar Properties (Bihar.txt)	4 BHK Apartment	Muzaffarpur Sector 3	Muzaffarpur / Bihar	Apartment / 4 BHK	2226	₹61.04 L	Unfurnished	3	Family	Sale
+349	Bihar Properties (Bihar.txt)	3 BHK Independent House	Bhagalpur Heights	Bhagalpur / Bihar	Independent House / 3 BHK	1771	₹50.89 L	Unfurnished	2	Family	Sale
+350	Bihar Properties (Bihar.txt)	4 BHK Apartment	Gaya Sector 1	Gaya / Bihar	Apartment / 4 BHK	1820	₹22,200/month	Fully-Furnished	3	Bachelors	Rent
+351	Bihar Properties (Bihar.txt)	3 BHK Independent House	Gaya Residential Area	Gaya / Bihar	Independent House / 3 BHK	1529	₹54.66 L	Fully-Furnished	3	Family	Sale
+352	Bihar Properties (Bihar.txt)	3 BHK Apartment	Bhagalpur Heights	Bhagalpur / Bihar	Apartment / 3 BHK	1300	₹50.52 L	Unfurnished	3	Family	Sale
+353	Bihar Properties (Bihar.txt)	3 BHK Builder Floor	Muzaffarpur Residential Area	Muzaffarpur / Bihar	Builder Floor / 3 BHK	1302	₹46.15 L	Unfurnished	3	Family	Sale
+354	Bihar Properties (Bihar.txt)	3 BHK Apartment	Muzaffarpur West	Muzaffarpur / Bihar	Apartment / 3 BHK	1013	₹56.31 L	Semi-Furnished	3	Bachelors	Sale
+355	Bihar Properties (Bihar.txt)	1 BHK Builder Floor	Muzaffarpur Extension	Muzaffarpur / Bihar	Builder Floor / 1 BHK	488	₹28.88 L	Semi-Furnished	2	Family	Sale
+356	Bihar Properties (Bihar.txt)	2 BHK Apartment	Bhagalpur Town Centre	Bhagalpur / Bihar	Apartment / 2 BHK	926	₹40.83 L	Unfurnished	1	Family	Sale
+357	Bihar Properties (Bihar.txt)	2 BHK Apartment	Gaya Central	Gaya / Bihar	Apartment / 2 BHK	781	₹11,600/month	Fully-Furnished	2	Family	Rent
+358	Bihar Properties (Bihar.txt)	3 BHK Independent House	Muzaffarpur North	Muzaffarpur / Bihar	Independent House / 3 BHK	1354	₹12,900/month	Semi-Furnished	3	Any	Rent
+359	Bihar Properties (Bihar.txt)	3 BHK Apartment	Gaya Main Road	Gaya / Bihar	Apartment / 3 BHK	1654	₹62.38 L	Semi-Furnished	3	Family	Sale
+360	Bihar Properties (Bihar.txt)	2 BHK Apartment	Gaya East	Gaya / Bihar	Apartment / 2 BHK	910	₹38.96 L	Semi-Furnished	2	Any	Sale
+361	Bihar Properties (Bihar.txt)	2 BHK Builder Floor	Muzaffarpur West	Muzaffarpur / Bihar	Builder Floor / 2 BHK	862	₹32.37 L	Semi-Furnished	2	Family	Sale
+362	Bihar Properties (Bihar.txt)	2 BHK Apartment	Patna East	Patna / Bihar	Apartment / 2 BHK	874	₹46.56 L	Unfurnished	3	Bachelors	Sale
+363	Bihar Properties (Bihar.txt)	3 BHK Apartment	Bhagalpur Residential Area	Bhagalpur / Bihar	Apartment / 3 BHK	1285	₹46.76 L	Fully-Furnished	3	Family	Sale
+364	Bihar Properties (Bihar.txt)	1 BHK Apartment	Patna Central	Patna / Bihar	Apartment / 1 BHK	581	₹6,900/month	Fully-Furnished	1	Family	Rent
+365	Bihar Properties (Bihar.txt)	2 BHK Apartment	Bhagalpur Heights	Bhagalpur / Bihar	Apartment / 2 BHK	906	₹41.04 L	Semi-Furnished	2	Family	Sale
+366	Bihar Properties (Bihar.txt)	4 BHK Apartment	Gaya North	Gaya / Bihar	Apartment / 4 BHK	1665	₹57.03 L	Unfurnished	4	Family	Sale
+367	Bihar Properties (Bihar.txt)	2 BHK Builder Floor	Muzaffarpur Main Road	Muzaffarpur / Bihar	Builder Floor / 2 BHK	949	₹41.31 L	Semi-Furnished	1	Bachelors	Sale
+368	Bihar Properties (Bihar.txt)	1 BHK Builder Floor	Bhagalpur Main Road	Bhagalpur / Bihar	Builder Floor / 1 BHK	483	₹26.44 L	Unfurnished	1	Family	Sale
+369	Bihar Properties (Bihar.txt)	4 BHK Builder Floor	Bhagalpur Extension	Bhagalpur / Bihar	Builder Floor / 4 BHK	1565	₹77.53 L	Unfurnished	3	Family	Sale
+370	Bihar Properties (Bihar.txt)	2 BHK Apartment	Gaya Main Road	Gaya / Bihar	Apartment / 2 BHK	833	₹36.95 L	Unfurnished	2	Family	Sale
+371	Bihar Properties (Bihar.txt)	1 BHK Apartment	Patna Nagar	Patna / Bihar	Apartment / 1 BHK	592	₹21.17 L	Unfurnished	1	Any	Sale
+372	Bihar Properties (Bihar.txt)	1 BHK Studio	Muzaffarpur Main Road	Muzaffarpur / Bihar	Studio / 1 BHK	350	₹5,500/month	Fully-Furnished	1	Family	Rent
+373	Bihar Properties (Bihar.txt)	2 BHK Apartment	Gaya Main Road	Gaya / Bihar	Apartment / 2 BHK	937	₹10,500/month	Fully-Furnished	2	Family	Rent
+374	Bihar Properties (Bihar.txt)	4 BHK Apartment	Patna Central	Patna / Bihar	Apartment / 4 BHK	1955	₹81.34 L	Semi-Furnished	4	Bachelors	Sale
+375	Bihar Properties (Bihar.txt)	3 BHK Independent House	Bhagalpur Nagar	Bhagalpur / Bihar	Independent House / 3 BHK	1252	₹14,100/month	Semi-Furnished	2	Family	Rent
+376	Bihar Properties (Bihar.txt)	2 BHK Apartment	Muzaffarpur Extension	Muzaffarpur / Bihar	Apartment / 2 BHK	1001	₹12,500/month	Semi-Furnished	1	Any	Rent
+377	Bihar Properties (Bihar.txt)	1 BHK Studio	Gaya Sector 2	Gaya / Bihar	Studio / 1 BHK	409	₹7,600/month	Fully-Furnished	1	Bachelors	Rent
+378	Bihar Properties (Bihar.txt)	1 BHK Studio	Gaya North	Gaya / Bihar	Studio / 1 BHK	407	₹24.80 L	Semi-Furnished	1	Family	Sale
+379	Bihar Properties (Bihar.txt)	3 BHK Apartment	Patna Town Centre	Patna / Bihar	Apartment / 3 BHK	1172	₹55.50 L	Unfurnished	3	Any	Sale
+380	Bihar Properties (Bihar.txt)	2 BHK Independent House	Patna Sector 2	Patna / Bihar	Independent House / 2 BHK	1210	₹47.06 L	Fully-Furnished	3	Bachelors	Sale
+381	Bihar Properties (Bihar.txt)	5 BHK Apartment	Patna Sector 1	Patna / Bihar	Apartment / 5 BHK	2778	₹96.76 L	Unfurnished	4	Family	Sale
+382	Bihar Properties (Bihar.txt)	2 BHK Apartment	Gaya Sector 1	Gaya / Bihar	Apartment / 2 BHK	687	₹39.99 L	Fully-Furnished	2	Bachelors	Sale
+383	Bihar Properties (Bihar.txt)	2 BHK Apartment	Gaya Central	Gaya / Bihar	Apartment / 2 BHK	763	₹44.31 L	Semi-Furnished	2	Any	Sale
+384	Bihar Properties (Bihar.txt)	3 BHK Apartment	Muzaffarpur North	Muzaffarpur / Bihar	Apartment / 3 BHK	1620	₹18,200/month	Unfurnished	3	Bachelors	Rent
+385	Bihar Properties (Bihar.txt)	3 BHK Villa	Bhagalpur East	Bhagalpur / Bihar	Villa / 3 BHK	1911	₹73.56 L	Unfurnished	3	Family	Sale
+386	Bihar Properties (Bihar.txt)	2 BHK Independent House	Patna Colony	Patna / Bihar	Independent House / 2 BHK	1002	₹37.17 L	Semi-Furnished	2	Any	Sale
+387	Bihar Properties (Bihar.txt)	2 BHK Apartment	Muzaffarpur Sector 3	Muzaffarpur / Bihar	Apartment / 2 BHK	805	₹37.75 L	Fully-Furnished	1	Any	Sale
+388	Bihar Properties (Bihar.txt)	2 BHK Independent House	Muzaffarpur Extension	Muzaffarpur / Bihar	Independent House / 2 BHK	877	₹10,300/month	Unfurnished	2	Family	Rent
+389	Bihar Properties (Bihar.txt)	2 BHK Independent House	Muzaffarpur Nagar	Muzaffarpur / Bihar	Independent House / 2 BHK	720	₹30.97 L	Fully-Furnished	2	Bachelors	Sale
+390	Bihar Properties (Bihar.txt)	1 BHK Apartment	Patna East	Patna / Bihar	Apartment / 1 BHK	431	₹21.02 L	Fully-Furnished	1	Family	Sale
+391	Bihar Properties (Bihar.txt)	1 BHK Apartment	Muzaffarpur Extension	Muzaffarpur / Bihar	Apartment / 1 BHK	527	₹25.92 L	Semi-Furnished	1	Family	Sale
+392	Bihar Properties (Bihar.txt)	2 BHK Apartment	Muzaffarpur Sector 1	Muzaffarpur / Bihar	Apartment / 2 BHK	783	₹12,500/month	Semi-Furnished	3	Family	Rent
+393	Bihar Properties (Bihar.txt)	2 BHK Apartment	Muzaffarpur Central	Muzaffarpur / Bihar	Apartment / 2 BHK	954	₹13,400/month	Semi-Furnished	3	Family	Rent
+394	Bihar Properties (Bihar.txt)	1 BHK Builder Floor	Bhagalpur Main Road	Bhagalpur / Bihar	Builder Floor / 1 BHK	587	₹24.11 L	Semi-Furnished	1	Family	Sale
+395	Bihar Properties (Bihar.txt)	3 BHK Apartment	Bhagalpur South	Bhagalpur / Bihar	Apartment / 3 BHK	1461	₹64.79 L	Fully-Furnished	3	Any	Sale
+396	Bihar Properties (Bihar.txt)	3 BHK Independent House	Bhagalpur Main Road	Bhagalpur / Bihar	Independent House / 3 BHK	1803	₹13,600/month	Fully-Furnished	3	Family	Rent
+397	Bihar Properties (Bihar.txt)	3 BHK Builder Floor	Patna Sector 2	Patna / Bihar	Builder Floor / 3 BHK	1463	₹55.65 L	Semi-Furnished	2	Any	Sale
+398	Bihar Properties (Bihar.txt)	5 BHK Independent House	Muzaffarpur Main Road	Muzaffarpur / Bihar	Independent House / 5 BHK	2419	₹27,000/month	Fully-Furnished	4	Family	Rent
+399	Bihar Properties (Bihar.txt)	4 BHK Independent House	Patna North	Patna / Bihar	Independent House / 4 BHK	2500	₹86.06 L	Semi-Furnished	4	Family	Sale
+400	Bihar Properties (Bihar.txt)	4 BHK Independent House	Muzaffarpur Sector 3	Muzaffarpur / Bihar	Independent House / 4 BHK	1872	₹18,200/month	Fully-Furnished	3	Family	Rent
+401	Bihar Properties (Bihar.txt)	2 BHK Villa	Patna North	Patna / Bihar	Villa / 2 BHK	1267	₹14,000/month	Semi-Furnished	1	Bachelors	Rent
+402	Bihar Properties (Bihar.txt)	3 BHK Apartment	Gaya Extension	Gaya / Bihar	Apartment / 3 BHK	1033	₹16,500/month	Unfurnished	3	Family	Rent
+403	Bihar Properties (Bihar.txt)	3 BHK Apartment	Patna Sector 1	Patna / Bihar	Apartment / 3 BHK	949	₹46.06 L	Semi-Furnished	4	Bachelors	Sale
+404	Bihar Properties (Bihar.txt)	3 BHK Apartment	Gaya Extension	Gaya / Bihar	Apartment / 3 BHK	1488	₹15,400/month	Fully-Furnished	4	Bachelors	Rent
+405	Bihar Properties (Bihar.txt)	2 BHK Builder Floor	Bhagalpur Residential Area	Bhagalpur / Bihar	Builder Floor / 2 BHK	772	₹9,000/month	Unfurnished	3	Bachelors	Rent
+406	Bihar Properties (Bihar.txt)	4 BHK Apartment	Bhagalpur Sector 3	Bhagalpur / Bihar	Apartment / 4 BHK	2049	₹20,200/month	Semi-Furnished	4	Any	Rent
+407	Bihar Properties (Bihar.txt)	1 BHK Apartment	Patna Nagar	Patna / Bihar	Apartment / 1 BHK	595	₹6,400/month	Unfurnished	1	Bachelors	Rent
+408	Bihar Properties (Bihar.txt)	3 BHK Apartment	Muzaffarpur Extension	Muzaffarpur / Bihar	Apartment / 3 BHK	1184	₹44.54 L	Fully-Furnished	4	Any	Sale
+409	Bihar Properties (Bihar.txt)	3 BHK Villa	Bhagalpur Main Road	Bhagalpur / Bihar	Villa / 3 BHK	1482	₹16,400/month	Fully-Furnished	4	Bachelors	Rent
+410	Bihar Properties (Bihar.txt)	3 BHK Villa	Gaya Sector 3	Gaya / Bihar	Villa / 3 BHK	2174	₹73.54 L	Unfurnished	4	Bachelors	Sale
+411	Bihar Properties (Bihar.txt)	3 BHK Builder Floor	Bhagalpur Central	Bhagalpur / Bihar	Builder Floor / 3 BHK	1085	₹43.06 L	Fully-Furnished	3	Family	Sale
+412	Bihar Properties (Bihar.txt)	3 BHK Apartment	Muzaffarpur Residential Area	Muzaffarpur / Bihar	Apartment / 3 BHK	1392	₹60.62 L	Semi-Furnished	3	Family	Sale
+413	Bihar Properties (Bihar.txt)	1 BHK Studio	Gaya North	Gaya / Bihar	Studio / 1 BHK	451	₹24.92 L	Unfurnished	1	Family	Sale
+414	Bihar Properties (Bihar.txt)	1 BHK Studio	Patna Town Centre	Patna / Bihar	Studio / 1 BHK	300	₹24.33 L	Semi-Furnished	1	Bachelors	Sale
+415	Bihar Properties (Bihar.txt)	4 BHK Apartment	Bhagalpur Main Road	Bhagalpur / Bihar	Apartment / 4 BHK	1875	₹22,200/month	Semi-Furnished	3	Any	Rent
+416	Bihar Properties (Bihar.txt)	4 BHK Apartment	Bhagalpur Town Centre	Bhagalpur / Bihar	Apartment / 4 BHK	1607	₹19,600/month	Unfurnished	4	Any	Rent
+417	Bihar Properties (Bihar.txt)	2 BHK Apartment	Gaya West	Gaya / Bihar	Apartment / 2 BHK	696	₹11,100/month	Unfurnished	2	Any	Rent
+418	Bihar Properties (Bihar.txt)	2 BHK Independent House	Bhagalpur Sector 1	Bhagalpur / Bihar	Independent House / 2 BHK	939	₹42.76 L	Semi-Furnished	1	Family	Sale
+419	Bihar Properties (Bihar.txt)	3 BHK Independent House	Patna Nagar	Patna / Bihar	Independent House / 3 BHK	1294	₹54.69 L	Fully-Furnished	2	Bachelors	Sale
+420	Bihar Properties (Bihar.txt)	4 BHK Apartment	Muzaffarpur Colony	Muzaffarpur / Bihar	Apartment / 4 BHK	1691	₹60.17 L	Semi-Furnished	3	Family	Sale
+421	Bihar Properties (Bihar.txt)	3 BHK Apartment	Gaya Heights	Gaya / Bihar	Apartment / 3 BHK	1116	₹12,100/month	Semi-Furnished	3	Family	Rent
+422	Bihar Properties (Bihar.txt)	3 BHK Villa	Gaya North	Gaya / Bihar	Villa / 3 BHK	1764	₹54.46 L	Semi-Furnished	2	Bachelors	Sale
+423	Bihar Properties (Bihar.txt)	3 BHK Apartment	Gaya Main Road	Gaya / Bihar	Apartment / 3 BHK	1193	₹12,400/month	Fully-Furnished	3	Bachelors	Rent
+424	Bihar Properties (Bihar.txt)	3 BHK Builder Floor	Gaya Colony	Gaya / Bihar	Builder Floor / 3 BHK	1220	₹61.64 L	Semi-Furnished	3	Bachelors	Sale
+425	Bihar Properties (Bihar.txt)	2 BHK Apartment	Bhagalpur Central	Bhagalpur / Bihar	Apartment / 2 BHK	869	₹32.01 L	Fully-Furnished	3	Any	Sale
+426	Bihar Properties (Bihar.txt)	1 BHK Villa	Gaya West	Gaya / Bihar	Villa / 1 BHK	775	₹30.17 L	Semi-Furnished	1	Bachelors	Sale
+427	Bihar Properties (Bihar.txt)	3 BHK Villa	Muzaffarpur Sector 2	Muzaffarpur / Bihar	Villa / 3 BHK	1688	₹15,000/month	Semi-Furnished	2	Family	Rent
+428	Bihar Properties (Bihar.txt)	2 BHK Builder Floor	Gaya North	Gaya / Bihar	Builder Floor / 2 BHK	651	₹10,300/month	Unfurnished	2	Bachelors	Rent
+429	Bihar Properties (Bihar.txt)	2 BHK Apartment	Patna Heights	Patna / Bihar	Apartment / 2 BHK	817	₹40.02 L	Unfurnished	3	Any	Sale
+430	Bihar Properties (Bihar.txt)	1 BHK Builder Floor	Muzaffarpur Main Road	Muzaffarpur / Bihar	Builder Floor / 1 BHK	527	₹6,100/month	Unfurnished	1	Family	Rent
+431	Bihar Properties (Bihar.txt)	4 BHK Apartment	Bhagalpur Town Centre	Bhagalpur / Bihar	Apartment / 4 BHK	1456	₹75.35 L	Unfurnished	4	Family	Sale
+432	Bihar Properties (Bihar.txt)	4 BHK Apartment	Gaya East	Gaya / Bihar	Apartment / 4 BHK	1694	₹21,000/month	Unfurnished	4	Bachelors	Rent
+433	Bihar Properties (Bihar.txt)	2 BHK Apartment	Bhagalpur Town Centre	Bhagalpur / Bihar	Apartment / 2 BHK	765	₹31.61 L	Semi-Furnished	2	Bachelors	Sale
+434	Bihar Properties (Bihar.txt)	3 BHK Apartment	Bhagalpur Main Road	Bhagalpur / Bihar	Apartment / 3 BHK	922	₹53.65 L	Semi-Furnished	3	Any	Sale
+435	Bihar Properties (Bihar.txt)	3 BHK Independent House	Bhagalpur Heights	Bhagalpur / Bihar	Independent House / 3 BHK	1453	₹67.23 L	Fully-Furnished	3	Bachelors	Sale
+436	Bihar Properties (Bihar.txt)	2 BHK Apartment	Muzaffarpur Sector 3	Muzaffarpur / Bihar	Apartment / 2 BHK	794	₹32.11 L	Unfurnished	1	Bachelors	Sale
+437	Bihar Properties (Bihar.txt)	4 BHK Apartment	Bhagalpur South	Bhagalpur / Bihar	Apartment / 4 BHK	1573	₹75.34 L	Unfurnished	4	Bachelors	Sale
+438	Bihar Properties (Bihar.txt)	3 BHK Apartment	Patna Heights	Patna / Bihar	Apartment / 3 BHK	1524	₹14,900/month	Fully-Furnished	2	Family	Rent
+439	Bihar Properties (Bihar.txt)	2 BHK Apartment	Muzaffarpur Town Centre	Muzaffarpur / Bihar	Apartment / 2 BHK	793	₹8,600/month	Unfurnished	3	Any	Rent
+440	Bihar Properties (Bihar.txt)	4 BHK Independent House	Gaya Nagar	Gaya / Bihar	Independent House / 4 BHK	2004	₹68.33 L	Fully-Furnished	4	Family	Sale
+441	Bihar Properties (Bihar.txt)	2 BHK Apartment	Patna South	Patna / Bihar	Apartment / 2 BHK	748	₹38.20 L	Unfurnished	3	Any	Sale
+442	Bihar Properties (Bihar.txt)	3 BHK Apartment	Patna South	Patna / Bihar	Apartment / 3 BHK	1177	₹63.45 L	Fully-Furnished	3	Family	Sale
+443	Bihar Properties (Bihar.txt)	2 BHK Independent House	Gaya Sector 3	Gaya / Bihar	Independent House / 2 BHK	895	₹33.72 L	Fully-Furnished	2	Bachelors	Sale
+444	Bihar Properties (Bihar.txt)	3 BHK Villa	Muzaffarpur Sector 1	Muzaffarpur / Bihar	Villa / 3 BHK	1619	₹14,900/month	Fully-Furnished	4	Family	Rent
+445	Bihar Properties (Bihar.txt)	4 BHK Apartment	Bhagalpur Residential Area	Bhagalpur / Bihar	Apartment / 4 BHK	1927	₹61.28 L	Unfurnished	5	Bachelors	Sale
+446	Bihar Properties (Bihar.txt)	1 BHK Apartment	Gaya East	Gaya / Bihar	Apartment / 1 BHK	439	₹6,200/month	Semi-Furnished	2	Bachelors	Rent
+447	Bihar Properties (Bihar.txt)	2 BHK Villa	Muzaffarpur Sector 1	Muzaffarpur / Bihar	Villa / 2 BHK	1187	₹13,000/month	Semi-Furnished	2	Any	Rent
+448	Bihar Properties (Bihar.txt)	1 BHK Apartment	Muzaffarpur South	Muzaffarpur / Bihar	Apartment / 1 BHK	570	₹29.43 L	Semi-Furnished	1	Any	Sale
+449	Bihar Properties (Bihar.txt)	3 BHK Independent House	Muzaffarpur West	Muzaffarpur / Bihar	Independent House / 3 BHK	1686	₹14,400/month	Fully-Furnished	3	Family	Rent
+450	Bihar Properties (Bihar.txt)	2 BHK Independent House	Bhagalpur North	Bhagalpur / Bihar	Independent House / 2 BHK	1037	₹49.22 L	Semi-Furnished	2	Family	Sale
+451	Bihar Properties (Bihar.txt)	3 BHK Apartment	Bhagalpur Residential Area	Bhagalpur / Bihar	Apartment / 3 BHK	989	₹11,900/month	Semi-Furnished	4	Family	Rent
+452	Bihar Properties (Bihar.txt)	2 BHK Apartment	Gaya East	Gaya / Bihar	Apartment / 2 BHK	773	₹39.81 L	Unfurnished	2	Bachelors	Sale
+453	Bihar Properties (Bihar.txt)	2 BHK Villa	Patna Extension	Patna / Bihar	Villa / 2 BHK	1065	₹35.92 L	Fully-Furnished	2	Family	Sale
+454	Bihar Properties (Bihar.txt)	2 BHK Villa	Patna Sector 1	Patna / Bihar	Villa / 2 BHK	1152	₹44.57 L	Semi-Furnished	2	Any	Sale
+455	Bihar Properties (Bihar.txt)	4 BHK Apartment	Muzaffarpur Town Centre	Muzaffarpur / Bihar	Apartment / 4 BHK	1811	₹19,200/month	Semi-Furnished	3	Family	Rent
+456	Bihar Properties (Bihar.txt)	3 BHK Apartment	Patna North	Patna / Bihar	Apartment / 3 BHK	1103	₹11,700/month	Semi-Furnished	3	Bachelors	Rent
+457	Bihar Properties (Bihar.txt)	4 BHK Apartment	Gaya Main Road	Gaya / Bihar	Apartment / 4 BHK	1732	₹69.90 L	Unfurnished	4	Family	Sale
+458	Bihar Properties (Bihar.txt)	2 BHK Apartment	Gaya South	Gaya / Bihar	Apartment / 2 BHK	798	₹31.54 L	Semi-Furnished	1	Bachelors	Sale
+459	Bihar Properties (Bihar.txt)	2 BHK Independent House	Bhagalpur South	Bhagalpur / Bihar	Independent House / 2 BHK	1129	₹49.45 L	Fully-Furnished	2	Bachelors	Sale
+460	Bihar Properties (Bihar.txt)	3 BHK Builder Floor	Patna Extension	Patna / Bihar	Builder Floor / 3 BHK	1386	₹46.99 L	Semi-Furnished	3	Any	Sale
+461	Bihar Properties (Bihar.txt)	1 BHK Studio	Gaya Heights	Gaya / Bihar	Studio / 1 BHK	460	₹6,700/month	Semi-Furnished	2	Family	Rent
+462	Bihar Properties (Bihar.txt)	2 BHK Independent House	Bhagalpur South	Bhagalpur / Bihar	Independent House / 2 BHK	923	₹33.57 L	Semi-Furnished	2	Family	Sale
+463	Bihar Properties (Bihar.txt)	3 BHK Apartment	Bhagalpur Sector 1	Bhagalpur / Bihar	Apartment / 3 BHK	1336	₹55.83 L	Semi-Furnished	2	Family	Sale
+464	Bihar Properties (Bihar.txt)	2 BHK Independent House	Bhagalpur Extension	Bhagalpur / Bihar	Independent House / 2 BHK	1040	₹49.42 L	Semi-Furnished	2	Any	Sale
+465	Bihar Properties (Bihar.txt)	1 BHK Studio	Muzaffarpur Central	Muzaffarpur / Bihar	Studio / 1 BHK	376	₹27.91 L	Unfurnished	1	Bachelors	Sale
+466	Bihar Properties (Bihar.txt)	2 BHK Apartment	Bhagalpur North	Bhagalpur / Bihar	Apartment / 2 BHK	783	₹34.05 L	Fully-Furnished	2	Family	Sale
+467	Bihar Properties (Bihar.txt)	4 BHK Builder Floor	Muzaffarpur Sector 1	Muzaffarpur / Bihar	Builder Floor / 4 BHK	2299	₹73.81 L	Semi-Furnished	3	Family	Sale
+468	Bihar Properties (Bihar.txt)	3 BHK Independent House	Patna North	Patna / Bihar	Independent House / 3 BHK	1604	₹18,300/month	Fully-Furnished	3	Bachelors	Rent
+469	Bihar Properties (Bihar.txt)	1 BHK Apartment	Bhagalpur North	Bhagalpur / Bihar	Apartment / 1 BHK	453	₹5,700/month	Semi-Furnished	1	Family	Rent
+470	Bihar Properties (Bihar.txt)	2 BHK Independent House	Gaya East	Gaya / Bihar	Independent House / 2 BHK	1018	₹10,800/month	Unfurnished	2	Family	Rent
+471	Bihar Properties (Bihar.txt)	4 BHK Independent House	Muzaffarpur South	Muzaffarpur / Bihar	Independent House / 4 BHK	2206	₹75.16 L	Semi-Furnished	4	Family	Sale
+472	Bihar Properties (Bihar.txt)	3 BHK Apartment	Muzaffarpur Heights	Muzaffarpur / Bihar	Apartment / 3 BHK	1421	₹15,500/month	Unfurnished	3	Bachelors	Rent
+473	Bihar Properties (Bihar.txt)	3 BHK Apartment	Gaya West	Gaya / Bihar	Apartment / 3 BHK	1194	₹12,500/month	Fully-Furnished	3	Any	Rent
+474	Bihar Properties (Bihar.txt)	3 BHK Independent House	Gaya Sector 3	Gaya / Bihar	Independent House / 3 BHK	1914	₹60.24 L	Semi-Furnished	3	Bachelors	Sale
+475	Bihar Properties (Bihar.txt)	2 BHK Independent House	Gaya Sector 3	Gaya / Bihar	Independent House / 2 BHK	864	₹38.39 L	Fully-Furnished	2	Family	Sale
+476	Bihar Properties (Bihar.txt)	1 BHK Studio	Gaya North	Gaya / Bihar	Studio / 1 BHK	470	₹6,400/month	Semi-Furnished	1	Family	Rent
+477	Bihar Properties (Bihar.txt)	2 BHK Independent House	Patna Nagar	Patna / Bihar	Independent House / 2 BHK	757	₹43.30 L	Semi-Furnished	2	Any	Sale
+478	Bihar Properties (Bihar.txt)	3 BHK Villa	Gaya Sector 1	Gaya / Bihar	Villa / 3 BHK	1589	₹54.73 L	Fully-Furnished	4	Bachelors	Sale
+479	Bihar Properties (Bihar.txt)	1 BHK Studio	Muzaffarpur South	Muzaffarpur / Bihar	Studio / 1 BHK	337	₹18.92 L	Fully-Furnished	1	Family	Sale
+480	Bihar Properties (Bihar.txt)	1 BHK Villa	Muzaffarpur Nagar	Muzaffarpur / Bihar	Villa / 1 BHK	812	₹33.83 L	Semi-Furnished	1	Any	Sale
+481	Bihar Properties (Bihar.txt)	2 BHK Builder Floor	Muzaffarpur South	Muzaffarpur / Bihar	Builder Floor / 2 BHK	907	₹10,700/month	Fully-Furnished	3	Family	Rent
+482	Bihar Properties (Bihar.txt)	2 BHK Independent House	Gaya North	Gaya / Bihar	Independent House / 2 BHK	1030	₹35.95 L	Fully-Furnished	1	Bachelors	Sale
+483	Bihar Properties (Bihar.txt)	4 BHK Builder Floor	Bhagalpur Residential Area	Bhagalpur / Bihar	Builder Floor / 4 BHK	1752	₹62.63 L	Semi-Furnished	5	Family	Sale
+484	Bihar Properties (Bihar.txt)	3 BHK Builder Floor	Patna Sector 2	Patna / Bihar	Builder Floor / 3 BHK	887	₹14,700/month	Semi-Furnished	3	Any	Rent
+485	Bihar Properties (Bihar.txt)	2 BHK Independent House	Muzaffarpur West	Muzaffarpur / Bihar	Independent House / 2 BHK	967	₹42.14 L	Semi-Furnished	2	Bachelors	Sale
+486	Bihar Properties (Bihar.txt)	2 BHK Apartment	Patna Town Centre	Patna / Bihar	Apartment / 2 BHK	717	₹31.54 L	Unfurnished	1	Bachelors	Sale
+487	Bihar Properties (Bihar.txt)	2 BHK Apartment	Gaya Heights	Gaya / Bihar	Apartment / 2 BHK	728	₹37.78 L	Fully-Furnished	2	Bachelors	Sale
+488	Bihar Properties (Bihar.txt)	2 BHK Apartment	Muzaffarpur Extension	Muzaffarpur / Bihar	Apartment / 2 BHK	642	₹8,500/month	Unfurnished	2	Family	Rent
+489	Bihar Properties (Bihar.txt)	1 BHK Studio	Patna North	Patna / Bihar	Studio / 1 BHK	342	₹20.78 L	Semi-Furnished	1	Family	Sale
+490	Bihar Properties (Bihar.txt)	3 BHK Apartment	Gaya Residential Area	Gaya / Bihar	Apartment / 3 BHK	1125	₹47.96 L	Semi-Furnished	3	Any	Sale
+491	Bihar Properties (Bihar.txt)	2 BHK Builder Floor	Patna South	Patna / Bihar	Builder Floor / 2 BHK	1100	₹11,300/month	Semi-Furnished	2	Family	Rent
+492	Bihar Properties (Bihar.txt)	1 BHK Villa	Patna North	Patna / Bihar	Villa / 1 BHK	723	₹22.21 L	Fully-Furnished	1	Bachelors	Sale
+493	Bihar Properties (Bihar.txt)	3 BHK Apartment	Muzaffarpur Main Road	Muzaffarpur / Bihar	Apartment / 3 BHK	1146	₹13,600/month	Unfurnished	3	Family	Rent
+494	Bihar Properties (Bihar.txt)	2 BHK Apartment	Patna Central	Patna / Bihar	Apartment / 2 BHK	706	₹10,900/month	Semi-Furnished	2	Family	Rent
+495	Bihar Properties (Bihar.txt)	1 BHK Apartment	Muzaffarpur Extension	Muzaffarpur / Bihar	Apartment / 1 BHK	670	₹6,600/month	Semi-Furnished	1	Any	Rent
+496	Bihar Properties (Bihar.txt)	3 BHK Apartment	Patna Sector 2	Patna / Bihar	Apartment / 3 BHK	1423	₹63.10 L	Semi-Furnished	3	Family	Sale
+497	Bihar Properties (Bihar.txt)	4 BHK Apartment	Bhagalpur Colony	Bhagalpur / Bihar	Apartment / 4 BHK	1478	₹20,900/month	Semi-Furnished	4	Bachelors	Rent
+498	Bihar Properties (Bihar.txt)	3 BHK Independent House	Muzaffarpur Heights	Muzaffarpur / Bihar	Independent House / 3 BHK	1534	₹58.59 L	Unfurnished	3	Any	Sale
+499	Bihar Properties (Bihar.txt)	3 BHK Villa	Bhagalpur Sector 1	Bhagalpur / Bihar	Villa / 3 BHK	1245	₹56.24 L	Semi-Furnished	2	Family	Sale
+500	Bihar Properties (Bihar.txt)	2 BHK Apartment	Muzaffarpur Sector 2	Muzaffarpur / Bihar	Apartment / 2 BHK	962	₹37.98 L	Fully-Furnished	2	Family	Sale
+501	Bihar Properties (Bihar.txt)	1 BHK Independent House	Muzaffarpur East	Muzaffarpur / Bihar	Independent House / 1 BHK	609	₹7,400/month	Fully-Furnished	2	Any	Rent
+502	Bihar Properties (Bihar.txt)	2 BHK Apartment	Bhagalpur Colony	Bhagalpur / Bihar	Apartment / 2 BHK	798	₹44.96 L	Semi-Furnished	2	Bachelors	Sale
+503	Bihar Properties (Bihar.txt)	2 BHK Apartment	Gaya East	Gaya / Bihar	Apartment / 2 BHK	929	₹10,000/month	Semi-Furnished	2	Family	Rent
+504	Bihar Properties (Bihar.txt)	2 BHK Independent House	Gaya South	Gaya / Bihar	Independent House / 2 BHK	1295	₹38.15 L	Fully-Furnished	2	Family	Sale
+505	Bihar Properties (Bihar.txt)	3 BHK Independent House	Gaya Heights	Gaya / Bihar	Independent House / 3 BHK	1236	₹53.26 L	Fully-Furnished	3	Family	Sale
+506	Bihar Properties (Bihar.txt)	1 BHK Builder Floor	Bhagalpur Nagar	Bhagalpur / Bihar	Builder Floor / 1 BHK	499	₹21.70 L	Semi-Furnished	1	Bachelors	Sale
+507	Bihar Properties (Bihar.txt)	1 BHK Independent House	Muzaffarpur Colony	Muzaffarpur / Bihar	Independent House / 1 BHK	654	₹25.09 L	Unfurnished	1	Family	Sale
+508	Bihar Properties (Bihar.txt)	3 BHK Builder Floor	Bhagalpur Heights	Bhagalpur / Bihar	Builder Floor / 3 BHK	1231	₹15,700/month	Unfurnished	3	Bachelors	Rent
+509	Bihar Properties (Bihar.txt)	2 BHK Builder Floor	Gaya Sector 2	Gaya / Bihar	Builder Floor / 2 BHK	807	₹45.94 L	Semi-Furnished	2	Family	Sale
+510	Bihar Properties (Bihar.txt)	2 BHK Apartment	Patna Town Centre	Patna / Bihar	Apartment / 2 BHK	897	₹12,200/month	Semi-Furnished	1	Family	Rent
+511	Bihar Properties (Bihar.txt)	3 BHK Builder Floor	Patna Sector 2	Patna / Bihar	Builder Floor / 3 BHK	1369	₹56.64 L	Fully-Furnished	3	Any	Sale
+512	Bihar Properties (Bihar.txt)	2 BHK Apartment	Bhagalpur Sector 2	Bhagalpur / Bihar	Apartment / 2 BHK	866	₹9,600/month	Unfurnished	2	Bachelors	Rent
+513	Bihar Properties (Bihar.txt)	1 BHK Apartment	Patna Residential Area	Patna / Bihar	Apartment / 1 BHK	573	₹6,700/month	Semi-Furnished	2	Bachelors	Rent
+514	Bihar Properties (Bihar.txt)	2 BHK Apartment	Patna Colony	Patna / Bihar	Apartment / 2 BHK	847	₹45.89 L	Fully-Furnished	2	Family	Sale
+515	Bihar Properties (Bihar.txt)	4 BHK Apartment	Patna Sector 3	Patna / Bihar	Apartment / 4 BHK	1742	₹61.05 L	Unfurnished	3	Bachelors	Sale
+516	Bihar Properties (Bihar.txt)	3 BHK Apartment	Bhagalpur Main Road	Bhagalpur / Bihar	Apartment / 3 BHK	1046	₹58.25 L	Semi-Furnished	3	Family	Sale
+517	Bihar Properties (Bihar.txt)	2 BHK Independent House	Bhagalpur Heights	Bhagalpur / Bihar	Independent House / 2 BHK	901	₹42.62 L	Unfurnished	2	Family	Sale
+518	Bihar Properties (Bihar.txt)	1 BHK Apartment	Bhagalpur South	Bhagalpur / Bihar	Apartment / 1 BHK	556	₹6,300/month	Semi-Furnished	1	Family	Rent
+519	Bihar Properties (Bihar.txt)	3 BHK Apartment	Patna Sector 2	Patna / Bihar	Apartment / 3 BHK	1092	₹56.64 L	Fully-Furnished	3	Family	Sale
+520	Bihar Properties (Bihar.txt)	2 BHK Apartment	Gaya Heights	Gaya / Bihar	Apartment / 2 BHK	1034	₹48.96 L	Fully-Furnished	2	Family	Sale
+521	Bihar Properties (Bihar.txt)	2 BHK Apartment	Patna Colony	Patna / Bihar	Apartment / 2 BHK	862	₹34.18 L	Unfurnished	1	Family	Sale
+522	Bihar Properties (Bihar.txt)	2 BHK Independent House	Patna Colony	Patna / Bihar	Independent House / 2 BHK	994	₹13,200/month	Fully-Furnished	1	Bachelors	Rent
+523	Bihar Properties (Bihar.txt)	4 BHK Apartment	Gaya Extension	Gaya / Bihar	Apartment / 4 BHK	1755	₹63.33 L	Fully-Furnished	4	Bachelors	Sale
+524	Bihar Properties (Bihar.txt)	3 BHK Villa	Bhagalpur West	Bhagalpur / Bihar	Villa / 3 BHK	1520	₹62.51 L	Semi-Furnished	3	Any	Sale
+525	Bihar Properties (Bihar.txt)	3 BHK Apartment	Gaya Residential Area	Gaya / Bihar	Apartment / 3 BHK	1404	₹59.99 L	Semi-Furnished	3	Family	Sale
+526	Bihar Properties (Bihar.txt)	3 BHK Apartment	Bhagalpur Nagar	Bhagalpur / Bihar	Apartment / 3 BHK	1218	₹61.35 L	Semi-Furnished	4	Family	Sale
+527	Bihar Properties (Bihar.txt)	4 BHK Apartment	Bhagalpur West	Bhagalpur / Bihar	Apartment / 4 BHK	1378	₹17,300/month	Unfurnished	4	Any	Rent
+528	Bihar Properties (Bihar.txt)	4 BHK Apartment	Bhagalpur West	Bhagalpur / Bihar	Apartment / 4 BHK	1775	₹67.44 L	Semi-Furnished	4	Family	Sale
+529	Bihar Properties (Bihar.txt)	4 BHK Builder Floor	Muzaffarpur North	Muzaffarpur / Bihar	Builder Floor / 4 BHK	1696	₹22,100/month	Semi-Furnished	4	Family	Rent
+530	Bihar Properties (Bihar.txt)	2 BHK Villa	Bhagalpur Main Road	Bhagalpur / Bihar	Villa / 2 BHK	782	₹11,300/month	Semi-Furnished	2	Family	Rent
+531	Bihar Properties (Bihar.txt)	5 BHK Villa	Bhagalpur East	Bhagalpur / Bihar	Villa / 5 BHK	3684	₹27,600/month	Unfurnished	5	Family	Rent
+532	Bihar Properties (Bihar.txt)	2 BHK Apartment	Bhagalpur North	Bhagalpur / Bihar	Apartment / 2 BHK	918	₹41.92 L	Semi-Furnished	2	Family	Sale
+533	Bihar Properties (Bihar.txt)	2 BHK Apartment	Gaya Residential Area	Gaya / Bihar	Apartment / 2 BHK	827	₹10,900/month	Fully-Furnished	2	Bachelors	Rent
+534	Bihar Properties (Bihar.txt)	1 BHK Apartment	Muzaffarpur Sector 1	Muzaffarpur / Bihar	Apartment / 1 BHK	657	₹28.75 L	Fully-Furnished	1	Bachelors	Sale
+535	Bihar Properties (Bihar.txt)	3 BHK Apartment	Gaya East	Gaya / Bihar	Apartment / 3 BHK	1263	₹15,200/month	Fully-Furnished	3	Bachelors	Rent
+536	Bihar Properties (Bihar.txt)	4 BHK Builder Floor	Patna South	Patna / Bihar	Builder Floor / 4 BHK	1886	₹76.50 L	Semi-Furnished	4	Any	Sale
+537	Bihar Properties (Bihar.txt)	4 BHK Apartment	Patna Main Road	Patna / Bihar	Apartment / 4 BHK	2093	₹66.39 L	Semi-Furnished	4	Bachelors	Sale
+538	Bihar Properties (Bihar.txt)	4 BHK Apartment	Bhagalpur Heights	Bhagalpur / Bihar	Apartment / 4 BHK	2107	₹20,600/month	Unfurnished	4	Any	Rent
+539	Bihar Properties (Bihar.txt)	5 BHK Apartment	Gaya Colony	Gaya / Bihar	Apartment / 5 BHK	1712	₹72.40 L	Semi-Furnished	5	Any	Sale
+540	Bihar Properties (Bihar.txt)	4 BHK Apartment	Muzaffarpur Sector 3	Muzaffarpur / Bihar	Apartment / 4 BHK	1751	₹15,700/month	Semi-Furnished	4	Bachelors	Rent
+541	Bihar Properties (Bihar.txt)	2 BHK Apartment	Bhagalpur Main Road	Bhagalpur / Bihar	Apartment / 2 BHK	1056	₹41.16 L	Fully-Furnished	3	Bachelors	Sale
+542	Bihar Properties (Bihar.txt)	3 BHK Builder Floor	Muzaffarpur North	Muzaffarpur / Bihar	Builder Floor / 3 BHK	1237	₹17,300/month	Semi-Furnished	2	Any	Rent
+543	Bihar Properties (Bihar.txt)	2 BHK Apartment	Muzaffarpur Sector 2	Muzaffarpur / Bihar	Apartment / 2 BHK	797	₹11,600/month	Fully-Furnished	3	Any	Rent
+544	Bihar Properties (Bihar.txt)	1 BHK Builder Floor	Gaya Nagar	Gaya / Bihar	Builder Floor / 1 BHK	594	₹23.46 L	Semi-Furnished	1	Any	Sale
+545	Bihar Properties (Bihar.txt)	1 BHK Apartment	Gaya Residential Area	Gaya / Bihar	Apartment / 1 BHK	420	₹20.56 L	Fully-Furnished	1	Family	Sale
+546	Bihar Properties (Bihar.txt)	3 BHK Independent House	Patna North	Patna / Bihar	Independent House / 3 BHK	1786	₹17,500/month	Semi-Furnished	3	Bachelors	Rent
+547	Bihar Properties (Bihar.txt)	2 BHK Independent House	Patna Extension	Patna / Bihar	Independent House / 2 BHK	892	₹33.96 L	Unfurnished	1	Bachelors	Sale
+548	Bihar Properties (Bihar.txt)	1 BHK Studio	Gaya Residential Area	Gaya / Bihar	Studio / 1 BHK	445	₹25.39 L	Semi-Furnished	2	Family	Sale
+549	Bihar Properties (Bihar.txt)	3 BHK Apartment	Bhagalpur Heights	Bhagalpur / Bihar	Apartment / 3 BHK	1216	₹14,800/month	Semi-Furnished	3	Any	Rent
+550	Bihar Properties (Bihar.txt)	1 BHK Studio	Patna Sector 2	Patna / Bihar	Studio / 1 BHK	367	₹19.47 L	Semi-Furnished	1	Bachelors	Sale
+551	Bihar Properties (Bihar.txt)	3 BHK Apartment	Patna Colony	Patna / Bihar	Apartment / 3 BHK	1112	₹12,100/month	Unfurnished	2	Family	Rent
+552	Bihar Properties (Bihar.txt)	1 BHK Apartment	Bhagalpur Residential Area	Bhagalpur / Bihar	Apartment / 1 BHK	491	₹28.43 L	Fully-Furnished	1	Family	Sale
+553	Bihar Properties (Bihar.txt)	4 BHK Apartment	Muzaffarpur Sector 3	Muzaffarpur / Bihar	Apartment / 4 BHK	1602	₹19,500/month	Semi-Furnished	3	Family	Rent
+554	Bihar Properties (Bihar.txt)	1 BHK Apartment	Patna Residential Area	Patna / Bihar	Apartment / 1 BHK	643	₹29.12 L	Unfurnished	1	Family	Sale
+555	Bihar Properties (Bihar.txt)	2 BHK Apartment	Muzaffarpur Colony	Muzaffarpur / Bihar	Apartment / 2 BHK	912	₹42.03 L	Unfurnished	2	Any	Sale
+556	Bihar Properties (Bihar.txt)	3 BHK Apartment	Muzaffarpur South	Muzaffarpur / Bihar	Apartment / 3 BHK	1338	₹48.29 L	Fully-Furnished	3	Family	Sale
+557	Bihar Properties (Bihar.txt)	3 BHK Apartment	Patna Residential Area	Patna / Bihar	Apartment / 3 BHK	1536	₹16,900/month	Fully-Furnished	4	Family	Rent
+558	Bihar Properties (Bihar.txt)	2 BHK Apartment	Bhagalpur West	Bhagalpur / Bihar	Apartment / 2 BHK	656	₹12,000/month	Semi-Furnished	2	Family	Rent
+559	Bihar Properties (Bihar.txt)	3 BHK Apartment	Patna West	Patna / Bihar	Apartment / 3 BHK	1295	₹51.57 L	Fully-Furnished	4	Any	Sale
+560	Bihar Properties (Bihar.txt)	3 BHK Apartment	Gaya Sector 2	Gaya / Bihar	Apartment / 3 BHK	1371	₹14,700/month	Fully-Furnished	3	Family	Rent
+561	Bihar Properties (Bihar.txt)	1 BHK Studio	Patna Extension	Patna / Bihar	Studio / 1 BHK	394	₹27.43 L	Fully-Furnished	1	Bachelors	Sale
+562	Bihar Properties (Bihar.txt)	3 BHK Apartment	Gaya South	Gaya / Bihar	Apartment / 3 BHK	1095	₹60.04 L	Unfurnished	3	Family	Sale
+563	Bihar Properties (Bihar.txt)	2 BHK Apartment	Gaya Town Centre	Gaya / Bihar	Apartment / 2 BHK	871	₹10,900/month	Unfurnished	2	Family	Rent
+564	Bihar Properties (Bihar.txt)	2 BHK Apartment	Bhagalpur Residential Area	Bhagalpur / Bihar	Apartment / 2 BHK	734	₹38.02 L	Semi-Furnished	2	Bachelors	Sale
+565	Bihar Properties (Bihar.txt)	2 BHK Apartment	Patna Heights	Patna / Bihar	Apartment / 2 BHK	560	₹11,700/month	Semi-Furnished	2	Bachelors	Rent
+566	Bihar Properties (Bihar.txt)	3 BHK Builder Floor	Patna West	Patna / Bihar	Builder Floor / 3 BHK	1246	₹63.37 L	Unfurnished	3	Family	Sale
+567	Bihar Properties (Bihar.txt)	2 BHK Independent House	Patna Sector 3	Patna / Bihar	Independent House / 2 BHK	953	₹36.93 L	Fully-Furnished	2	Family	Sale
+568	Bihar Properties (Bihar.txt)	1 BHK Apartment	Patna Central	Patna / Bihar	Apartment / 1 BHK	686	₹8,800/month	Semi-Furnished	1	Any	Rent
+569	Bihar Properties (Bihar.txt)	4 BHK Independent House	Patna Sector 3	Patna / Bihar	Independent House / 4 BHK	2089	₹86.11 L	Unfurnished	5	Family	Sale
+570	Bihar Properties (Bihar.txt)	3 BHK Apartment	Muzaffarpur Heights	Muzaffarpur / Bihar	Apartment / 3 BHK	1120	₹60.39 L	Unfurnished	3	Any	Sale
+571	Bihar Properties (Bihar.txt)	3 BHK Apartment	Patna North	Patna / Bihar	Apartment / 3 BHK	871	₹58.20 L	Fully-Furnished	3	Family	Sale
+572	Bihar Properties (Bihar.txt)	2 BHK Villa	Gaya Colony	Gaya / Bihar	Villa / 2 BHK	1332	₹37.37 L	Semi-Furnished	3	Any	Sale
+573	Bihar Properties (Bihar.txt)	4 BHK Apartment	Gaya South	Gaya / Bihar	Apartment / 4 BHK	1543	₹73 L	Unfurnished	4	Family	Sale
+574	Bihar Properties (Bihar.txt)	3 BHK Apartment	Muzaffarpur Sector 2	Muzaffarpur / Bihar	Apartment / 3 BHK	1160	₹45.59 L	Unfurnished	4	Family	Sale
+575	Bihar Properties (Bihar.txt)	2 BHK Independent House	Muzaffarpur North	Muzaffarpur / Bihar	Independent House / 2 BHK	1184	₹12,500/month	Unfurnished	2	Bachelors	Rent
+576	Bihar Properties (Bihar.txt)	3 BHK Apartment	Patna Nagar	Patna / Bihar	Apartment / 3 BHK	1116	₹43.65 L	Semi-Furnished	2	Family	Sale
+577	Bihar Properties (Bihar.txt)	3 BHK Apartment	Gaya Residential Area	Gaya / Bihar	Apartment / 3 BHK	1112	₹61.77 L	Fully-Furnished	3	Any	Sale
+578	Bihar Properties (Bihar.txt)	1 BHK Apartment	Bhagalpur Sector 2	Bhagalpur / Bihar	Apartment / 1 BHK	483	₹20.09 L	Unfurnished	1	Bachelors	Sale
+579	Bihar Properties (Bihar.txt)	3 BHK Villa	Patna Sector 1	Patna / Bihar	Villa / 3 BHK	1308	₹46.04 L	Fully-Furnished	3	Any	Sale
+580	Bihar Properties (Bihar.txt)	1 BHK Studio	Patna South	Patna / Bihar	Studio / 1 BHK	381	₹7,600/month	Fully-Furnished	2	Family	Rent
+581	Bihar Properties (Bihar.txt)	3 BHK Apartment	Bhagalpur Sector 2	Bhagalpur / Bihar	Apartment / 3 BHK	1544	₹18,000/month	Semi-Furnished	4	Bachelors	Rent
+582	Bihar Properties (Bihar.txt)	2 BHK Apartment	Muzaffarpur Heights	Muzaffarpur / Bihar	Apartment / 2 BHK	837	₹38.93 L	Semi-Furnished	3	Any	Sale
+583	Bihar Properties (Bihar.txt)	3 BHK Apartment	Gaya Main Road	Gaya / Bihar	Apartment / 3 BHK	1265	₹17,000/month	Unfurnished	4	Family	Rent
+584	Bihar Properties (Bihar.txt)	2 BHK Apartment	Muzaffarpur Nagar	Muzaffarpur / Bihar	Apartment / 2 BHK	877	₹9,200/month	Semi-Furnished	3	Any	Rent
+585	Bihar Properties (Bihar.txt)	2 BHK Apartment	Patna Main Road	Patna / Bihar	Apartment / 2 BHK	1063	₹10,500/month	Semi-Furnished	3	Bachelors	Rent
+586	Bihar Properties (Bihar.txt)	1 BHK Independent House	Bhagalpur Central	Bhagalpur / Bihar	Independent House / 1 BHK	706	₹7,500/month	Semi-Furnished	1	Family	Rent
+587	Bihar Properties (Bihar.txt)	1 BHK Apartment	Bhagalpur West	Bhagalpur / Bihar	Apartment / 1 BHK	557	₹7,200/month	Semi-Furnished	2	Bachelors	Rent
+588	Bihar Properties (Bihar.txt)	4 BHK Apartment	Bhagalpur Main Road	Bhagalpur / Bihar	Apartment / 4 BHK	1802	₹18,700/month	Semi-Furnished	5	Any	Rent
+589	Bihar Properties (Bihar.txt)	3 BHK Independent House	Bhagalpur Colony	Bhagalpur / Bihar	Independent House / 3 BHK	1904	₹65.08 L	Unfurnished	3	Family	Sale
+590	Bihar Properties (Bihar.txt)	2 BHK Villa	Muzaffarpur Colony	Muzaffarpur / Bihar	Villa / 2 BHK	1138	₹47.76 L	Semi-Furnished	1	Any	Sale
+591	Bihar Properties (Bihar.txt)	3 BHK Apartment	Patna Residential Area	Patna / Bihar	Apartment / 3 BHK	1218	₹44.02 L	Fully-Furnished	3	Any	Sale
+592	Bihar Properties (Bihar.txt)	4 BHK Apartment	Bhagalpur Main Road	Bhagalpur / Bihar	Apartment / 4 BHK	1477	₹64.90 L	Semi-Furnished	5	Family	Sale
+593	Bihar Properties (Bihar.txt)	3 BHK Builder Floor	Patna Residential Area	Patna / Bihar	Builder Floor / 3 BHK	1408	₹66.61 L	Unfurnished	2	Bachelors	Sale
+594	Bihar Properties (Bihar.txt)	4 BHK Builder Floor	Gaya Central	Gaya / Bihar	Builder Floor / 4 BHK	1756	₹19,800/month	Semi-Furnished	4	Any	Rent
+595	Bihar Properties (Bihar.txt)	3 BHK Builder Floor	Patna Main Road	Patna / Bihar	Builder Floor / 3 BHK	1358	₹45 L	Semi-Furnished	3	Family	Sale
+596	Bihar Properties (Bihar.txt)	4 BHK Independent House	Gaya Heights	Gaya / Bihar	Independent House / 4 BHK	2314	₹17,100/month	Fully-Furnished	4	Family	Rent
+597	Bihar Properties (Bihar.txt)	3 BHK Apartment	Bhagalpur Sector 3	Bhagalpur / Bihar	Apartment / 3 BHK	1186	₹58.87 L	Fully-Furnished	3	Bachelors	Sale
+598	Bihar Properties (Bihar.txt)	2 BHK Apartment	Muzaffarpur North	Muzaffarpur / Bihar	Apartment / 2 BHK	793	₹9,100/month	Semi-Furnished	2	Family	Rent
+599	Bihar Properties (Bihar.txt)	2 BHK Builder Floor	Gaya Heights	Gaya / Bihar	Builder Floor / 2 BHK	809	₹36.73 L	Fully-Furnished	3	Any	Sale
+600	Bihar Properties (Bihar.txt)	2 BHK Apartment	Muzaffarpur Main Road	Muzaffarpur / Bihar	Apartment / 2 BHK	906	₹10,800/month	Fully-Furnished	2	Family	Rent
+601	Bihar Properties (Bihar.txt)	1 BHK Studio	Gaya Nagar	Gaya / Bihar	Studio / 1 BHK	361	₹5,500/month	Fully-Furnished	1	Bachelors	Rent
+602	Bihar Properties (Bihar.txt)	1 BHK Apartment	Patna Nagar	Patna / Bihar	Apartment / 1 BHK	674	₹28.07 L	Semi-Furnished	1	Family	Sale
+603	Bihar Properties (Bihar.txt)	2 BHK Apartment	Bhagalpur Main Road	Bhagalpur / Bihar	Apartment / 2 BHK	979	₹39.22 L	Unfurnished	2	Bachelors	Sale
+604	Bihar Properties (Bihar.txt)	2 BHK Builder Floor	Patna Colony	Patna / Bihar	Builder Floor / 2 BHK	817	₹31.53 L	Fully-Furnished	2	Family	Sale
+605	Bihar Properties (Bihar.txt)	2 BHK Apartment	Muzaffarpur Town Centre	Muzaffarpur / Bihar	Apartment / 2 BHK	729	₹39.37 L	Semi-Furnished	3	Bachelors	Sale
+606	Bihar Properties (Bihar.txt)	2 BHK Apartment	Patna Sector 3	Patna / Bihar	Apartment / 2 BHK	787	₹11,100/month	Fully-Furnished	2	Any	Rent
+607	Bihar Properties (Bihar.txt)	3 BHK Apartment	Muzaffarpur South	Muzaffarpur / Bihar	Apartment / 3 BHK	1162	₹56.03 L	Unfurnished	3	Family	Sale
+608	Bihar Properties (Bihar.txt)	1 BHK Apartment	Muzaffarpur North	Muzaffarpur / Bihar	Apartment / 1 BHK	528	₹27.37 L	Fully-Furnished	1	Family	Sale
+609	Bihar Properties (Bihar.txt)	4 BHK Builder Floor	Bhagalpur Residential Area	Bhagalpur / Bihar	Builder Floor / 4 BHK	2151	₹62.84 L	Semi-Furnished	4	Family	Sale
+610	Bihar Properties (Bihar.txt)	3 BHK Villa	Patna Sector 2	Patna / Bihar	Villa / 3 BHK	1991	₹16,600/month	Semi-Furnished	4	Family	Rent
+611	Bihar Properties (Bihar.txt)	2 BHK Apartment	Muzaffarpur Sector 3	Muzaffarpur / Bihar	Apartment / 2 BHK	867	₹12,400/month	Semi-Furnished	2	Bachelors	Rent
+612	Bihar Properties (Bihar.txt)	2 BHK Apartment	Muzaffarpur West	Muzaffarpur / Bihar	Apartment / 2 BHK	826	₹10,800/month	Semi-Furnished	2	Any	Rent
+613	Bihar Properties (Bihar.txt)	1 BHK Studio	Gaya Heights	Gaya / Bihar	Studio / 1 BHK	300	₹7,600/month	Fully-Furnished	1	Bachelors	Rent
+614	Bihar Properties (Bihar.txt)	5 BHK Builder Floor	Gaya Sector 2	Gaya / Bihar	Builder Floor / 5 BHK	2566	₹24,400/month	Unfurnished	6	Any	Rent
+615	Bihar Properties (Bihar.txt)	3 BHK Independent House	Bhagalpur Residential Area	Bhagalpur / Bihar	Independent House / 3 BHK	1580	₹50.44 L	Semi-Furnished	4	Family	Sale
+616	Bihar Properties (Bihar.txt)	2 BHK Independent House	Patna Main Road	Patna / Bihar	Independent House / 2 BHK	737	₹43.22 L	Semi-Furnished	3	Family	Sale
+617	Bihar Properties (Bihar.txt)	1 BHK Apartment	Patna Heights	Patna / Bihar	Apartment / 1 BHK	456	₹27.32 L	Unfurnished	1	Family	Sale
+618	Bihar Properties (Bihar.txt)	1 BHK Independent House	Bhagalpur Colony	Bhagalpur / Bihar	Independent House / 1 BHK	657	₹7,400/month	Fully-Furnished	1	Bachelors	Rent
+619	Bihar Properties (Bihar.txt)	3 BHK Independent House	Muzaffarpur West	Muzaffarpur / Bihar	Independent House / 3 BHK	1033	₹43.91 L	Unfurnished	2	Family	Sale
+620	Bihar Properties (Bihar.txt)	3 BHK Apartment	Muzaffarpur Heights	Muzaffarpur / Bihar	Apartment / 3 BHK	1128	₹13,400/month	Semi-Furnished	2	Bachelors	Rent
+621	Bihar Properties (Bihar.txt)	1 BHK Independent House	Gaya North	Gaya / Bihar	Independent House / 1 BHK	655	₹6,100/month	Semi-Furnished	1	Family	Rent
+622	Bihar Properties (Bihar.txt)	1 BHK Studio	Bhagalpur Heights	Bhagalpur / Bihar	Studio / 1 BHK	461	₹28.50 L	Semi-Furnished	1	Family	Sale
+623	Bihar Properties (Bihar.txt)	4 BHK Apartment	Gaya Sector 3	Gaya / Bihar	Apartment / 4 BHK	1370	₹15,300/month	Unfurnished	5	Family	Rent
+624	Bihar Properties (Bihar.txt)	2 BHK Apartment	Muzaffarpur Central	Muzaffarpur / Bihar	Apartment / 2 BHK	888	₹42.42 L	Fully-Furnished	2	Any	Sale
+625	Bihar Properties (Bihar.txt)	1 BHK Studio	Patna Sector 2	Patna / Bihar	Studio / 1 BHK	335	₹22.03 L	Fully-Furnished	2	Any	Sale
+626	Bihar Properties (Bihar.txt)	2 BHK Apartment	Patna Colony	Patna / Bihar	Apartment / 2 BHK	725	₹10,300/month	Unfurnished	1	Family	Rent
+627	Bihar Properties (Bihar.txt)	2 BHK Builder Floor	Bhagalpur East	Bhagalpur / Bihar	Builder Floor / 2 BHK	670	₹33.96 L	Semi-Furnished	2	Any	Sale
+628	Bihar Properties (Bihar.txt)	2 BHK Independent House	Muzaffarpur West	Muzaffarpur / Bihar	Independent House / 2 BHK	979	₹36.54 L	Semi-Furnished	1	Family	Sale
+629	Bihar Properties (Bihar.txt)	3 BHK Villa	Bhagalpur Extension	Bhagalpur / Bihar	Villa / 3 BHK	1807	₹64.25 L	Semi-Furnished	4	Bachelors	Sale
+630	Bihar Properties (Bihar.txt)	1 BHK Apartment	Bhagalpur West	Bhagalpur / Bihar	Apartment / 1 BHK	536	₹21.36 L	Unfurnished	1	Any	Sale
+631	Bihar Properties (Bihar.txt)	3 BHK Apartment	Bhagalpur West	Bhagalpur / Bihar	Apartment / 3 BHK	1364	₹49.09 L	Semi-Furnished	3	Family	Sale
+632	Bihar Properties (Bihar.txt)	3 BHK Apartment	Gaya Main Road	Gaya / Bihar	Apartment / 3 BHK	1186	₹43.76 L	Semi-Furnished	4	Bachelors	Sale
+633	Bihar Properties (Bihar.txt)	2 BHK Apartment	Muzaffarpur Residential Area	Muzaffarpur / Bihar	Apartment / 2 BHK	820	₹10,100/month	Semi-Furnished	2	Family	Rent
+634	Bihar Properties (Bihar.txt)	2 BHK Apartment	Bhagalpur Heights	Bhagalpur / Bihar	Apartment / 2 BHK	842	₹44.17 L	Unfurnished	2	Bachelors	Sale
+635	Bihar Properties (Bihar.txt)	3 BHK Apartment	Muzaffarpur Central	Muzaffarpur / Bihar	Apartment / 3 BHK	1176	₹45.69 L	Unfurnished	3	Family	Sale
+636	Bihar Properties (Bihar.txt)	2 BHK Builder Floor	Bhagalpur Colony	Bhagalpur / Bihar	Builder Floor / 2 BHK	1076	₹13,200/month	Unfurnished	1	Any	Rent
+637	Bihar Properties (Bihar.txt)	3 BHK Builder Floor	Muzaffarpur Heights	Muzaffarpur / Bihar	Builder Floor / 3 BHK	1327	₹15,500/month	Unfurnished	3	Bachelors	Rent
+638	Bihar Properties (Bihar.txt)	1 BHK Apartment	Muzaffarpur South	Muzaffarpur / Bihar	Apartment / 1 BHK	474	₹21.50 L	Semi-Furnished	2	Any	Sale
+639	Bihar Properties (Bihar.txt)	2 BHK Villa	Muzaffarpur Central	Muzaffarpur / Bihar	Villa / 2 BHK	974	₹10,600/month	Unfurnished	1	Bachelors	Rent
+640	Bihar Properties (Bihar.txt)	2 BHK Apartment	Bhagalpur Residential Area	Bhagalpur / Bihar	Apartment / 2 BHK	586	₹33.24 L	Semi-Furnished	2	Any	Sale
+641	Bihar Properties (Bihar.txt)	3 BHK Apartment	Muzaffarpur Extension	Muzaffarpur / Bihar	Apartment / 3 BHK	1319	₹15,800/month	Unfurnished	4	Bachelors	Rent
+642	Bihar Properties (Bihar.txt)	3 BHK Apartment	Gaya Residential Area	Gaya / Bihar	Apartment / 3 BHK	1216	₹60.48 L	Semi-Furnished	2	Bachelors	Sale
+643	Bihar Properties (Bihar.txt)	3 BHK Apartment	Patna Residential Area	Patna / Bihar	Apartment / 3 BHK	1375	₹13,100/month	Unfurnished	2	Bachelors	Rent
+644	Bihar Properties (Bihar.txt)	4 BHK Villa	Muzaffarpur Town Centre	Muzaffarpur / Bihar	Villa / 4 BHK	2359	₹20,800/month	Semi-Furnished	3	Any	Rent
+645	Bihar Properties (Bihar.txt)	2 BHK Apartment	Muzaffarpur Heights	Muzaffarpur / Bihar	Apartment / 2 BHK	717	₹43.93 L	Semi-Furnished	2	Bachelors	Sale
+646	Bihar Properties (Bihar.txt)	3 BHK Independent House	Gaya Nagar	Gaya / Bihar	Independent House / 3 BHK	1209	₹48.31 L	Semi-Furnished	3	Bachelors	Sale
+647	Bihar Properties (Bihar.txt)	2 BHK Independent House	Bhagalpur Sector 2	Bhagalpur / Bihar	Independent House / 2 BHK	972	₹41.83 L	Semi-Furnished	2	Any	Sale
+648	Bihar Properties (Bihar.txt)	1 BHK Studio	Patna Residential Area	Patna / Bihar	Studio / 1 BHK	378	₹7,400/month	Fully-Furnished	1	Bachelors	Rent
+649	Bihar Properties (Bihar.txt)	4 BHK Apartment	Bhagalpur North	Bhagalpur / Bihar	Apartment / 4 BHK	1642	₹59.26 L	Fully-Furnished	4	Family	Sale
+650	Bihar Properties (Bihar.txt)	3 BHK Apartment	Patna South	Patna / Bihar	Apartment / 3 BHK	1103	₹42.61 L	Unfurnished	2	Family	Sale
+651	Bihar Properties (Bihar.txt)	2 BHK Independent House	Muzaffarpur Heights	Muzaffarpur / Bihar	Independent House / 2 BHK	876	₹36.40 L	Fully-Furnished	3	Bachelors	Sale
+652	Bihar Properties (Bihar.txt)	3 BHK Apartment	Muzaffarpur East	Muzaffarpur / Bihar	Apartment / 3 BHK	1344	₹14,600/month	Unfurnished	2	Family	Rent
+653	Bihar Properties (Bihar.txt)	3 BHK Builder Floor	Muzaffarpur Heights	Muzaffarpur / Bihar	Builder Floor / 3 BHK	1326	₹63.75 L	Fully-Furnished	3	Family	Sale
+654	Bihar Properties (Bihar.txt)	2 BHK Builder Floor	Patna West	Patna / Bihar	Builder Floor / 2 BHK	960	₹10,800/month	Fully-Furnished	2	Any	Rent
+655	Bihar Properties (Bihar.txt)	2 BHK Villa	Patna Colony	Patna / Bihar	Villa / 2 BHK	1183	₹40.56 L	Semi-Furnished	3	Any	Sale
+656	Bihar Properties (Bihar.txt)	2 BHK Builder Floor	Muzaffarpur Residential Area	Muzaffarpur / Bihar	Builder Floor / 2 BHK	794	₹44.80 L	Unfurnished	2	Bachelors	Sale
+657	Bihar Properties (Bihar.txt)	1 BHK Studio	Gaya Colony	Gaya / Bihar	Studio / 1 BHK	345	₹26.31 L	Semi-Furnished	2	Family	Sale
+658	Bihar Properties (Bihar.txt)	1 BHK Independent House	Patna Residential Area	Patna / Bihar	Independent House / 1 BHK	562	₹6,700/month	Semi-Furnished	1	Family	Rent
+659	Bihar Properties (Bihar.txt)	3 BHK Builder Floor	Muzaffarpur Nagar	Muzaffarpur / Bihar	Builder Floor / 3 BHK	932	₹41.27 L	Semi-Furnished	2	Family	Sale
+660	Bihar Properties (Bihar.txt)	2 BHK Apartment	Gaya Heights	Gaya / Bihar	Apartment / 2 BHK	1025	₹40.03 L	Fully-Furnished	1	Any	Sale
+661	Bihar Properties (Bihar.txt)	3 BHK Apartment	Gaya Residential Area	Gaya / Bihar	Apartment / 3 BHK	1084	₹15,500/month	Semi-Furnished	4	Family	Rent
+662	Bihar Properties (Bihar.txt)	2 BHK Builder Floor	Patna Town Centre	Patna / Bihar	Builder Floor / 2 BHK	653	₹8,900/month	Unfurnished	2	Any	Rent
+663	Bihar Properties (Bihar.txt)	2 BHK Apartment	Bhagalpur Town Centre	Bhagalpur / Bihar	Apartment / 2 BHK	863	₹32.85 L	Semi-Furnished	2	Any	Sale
+664	Bihar Properties (Bihar.txt)	1 BHK Studio	Patna Town Centre	Patna / Bihar	Studio / 1 BHK	333	₹20.66 L	Unfurnished	1	Any	Sale
+665	Bihar Properties (Bihar.txt)	2 BHK Apartment	Bhagalpur Sector 3	Bhagalpur / Bihar	Apartment / 2 BHK	666	₹42.47 L	Fully-Furnished	3	Bachelors	Sale
+666	Bihar Properties (Bihar.txt)	1 BHK Studio	Gaya North	Gaya / Bihar	Studio / 1 BHK	400	₹25.35 L	Semi-Furnished	1	Bachelors	Sale
+667	Bihar Properties (Bihar.txt)	3 BHK Builder Floor	Bhagalpur Town Centre	Bhagalpur / Bihar	Builder Floor / 3 BHK	1024	₹45.96 L	Fully-Furnished	4	Family	Sale
+668	Bihar Properties (Bihar.txt)	1 BHK Apartment	Gaya South	Gaya / Bihar	Apartment / 1 BHK	521	₹20.98 L	Unfurnished	1	Any	Sale
+669	Bihar Properties (Bihar.txt)	3 BHK Independent House	Bhagalpur Sector 3	Bhagalpur / Bihar	Independent House / 3 BHK	1904	₹17,400/month	Semi-Furnished	2	Family	Rent
+670	Bihar Properties (Bihar.txt)	2 BHK Apartment	Gaya East	Gaya / Bihar	Apartment / 2 BHK	814	₹32.97 L	Unfurnished	3	Any	Sale
+671	Bihar Properties (Bihar.txt)	1 BHK Studio	Patna Colony	Patna / Bihar	Studio / 1 BHK	368	₹5,900/month	Fully-Furnished	1	Bachelors	Rent
+672	Bihar Properties (Bihar.txt)	3 BHK Apartment	Bhagalpur South	Bhagalpur / Bihar	Apartment / 3 BHK	1242	₹55.32 L	Unfurnished	3	Bachelors	Sale
+673	Bihar Properties (Bihar.txt)	2 BHK Apartment	Muzaffarpur Town Centre	Muzaffarpur / Bihar	Apartment / 2 BHK	736	₹35.16 L	Fully-Furnished	2	Family	Sale
+674	Bihar Properties (Bihar.txt)	3 BHK Independent House	Patna West	Patna / Bihar	Independent House / 3 BHK	1419	₹55.26 L	Semi-Furnished	3	Family	Sale
+675	Bihar Properties (Bihar.txt)	2 BHK Apartment	Bhagalpur East	Bhagalpur / Bihar	Apartment / 2 BHK	709	₹10,700/month	Unfurnished	2	Family	Rent
+676	Bihar Properties (Bihar.txt)	2 BHK Independent House	Bhagalpur Extension	Bhagalpur / Bihar	Independent House / 2 BHK	912	₹37.46 L	Unfurnished	2	Any	Sale
+677	Bihar Properties (Bihar.txt)	1 BHK Apartment	Gaya Nagar	Gaya / Bihar	Apartment / 1 BHK	375	₹8,000/month	Semi-Furnished	1	Bachelors	Rent
+678	Bihar Properties (Bihar.txt)	3 BHK Builder Floor	Muzaffarpur Residential Area	Muzaffarpur / Bihar	Builder Floor / 3 BHK	1095	₹50.80 L	Unfurnished	2	Family	Sale
+679	Bihar Properties (Bihar.txt)	3 BHK Apartment	Gaya Nagar	Gaya / Bihar	Apartment / 3 BHK	1032	₹59.60 L	Semi-Furnished	3	Family	Sale
+680	Bihar Properties (Bihar.txt)	3 BHK Apartment	Muzaffarpur Heights	Muzaffarpur / Bihar	Apartment / 3 BHK	1290	₹16,200/month	Unfurnished	3	Family	Rent
+681	Bihar Properties (Bihar.txt)	2 BHK Apartment	Bhagalpur Main Road	Bhagalpur / Bihar	Apartment / 2 BHK	992	₹13,400/month	Fully-Furnished	2	Any	Rent
+682	Bihar Properties (Bihar.txt)	2 BHK Apartment	Bhagalpur Extension	Bhagalpur / Bihar	Apartment / 2 BHK	927	₹9,100/month	Semi-Furnished	2	Any	Rent
+683	Bihar Properties (Bihar.txt)	3 BHK Apartment	Muzaffarpur Main Road	Muzaffarpur / Bihar	Apartment / 3 BHK	1059	₹13,300/month	Semi-Furnished	3	Bachelors	Rent
+684	Bihar Properties (Bihar.txt)	4 BHK Builder Floor	Gaya Town Centre	Gaya / Bihar	Builder Floor / 4 BHK	1919	₹73.69 L	Unfurnished	3	Bachelors	Sale
+685	Bihar Properties (Bihar.txt)	1 BHK Apartment	Gaya Colony	Gaya / Bihar	Apartment / 1 BHK	606	₹8,400/month	Semi-Furnished	1	Family	Rent
+686	Bihar Properties (Bihar.txt)	3 BHK Builder Floor	Patna Sector 3	Patna / Bihar	Builder Floor / 3 BHK	1259	₹50.51 L	Unfurnished	3	Bachelors	Sale
+687	Bihar Properties (Bihar.txt)	4 BHK Apartment	Bhagalpur Colony	Bhagalpur / Bihar	Apartment / 4 BHK	2052	₹23,800/month	Unfurnished	4	Bachelors	Rent
+688	Bihar Properties (Bihar.txt)	2 BHK Villa	Patna Nagar	Patna / Bihar	Villa / 2 BHK	997	₹47.46 L	Unfurnished	2	Any	Sale
+689	Bihar Properties (Bihar.txt)	2 BHK Independent House	Muzaffarpur Colony	Muzaffarpur / Bihar	Independent House / 2 BHK	979	₹43.50 L	Unfurnished	2	Family	Sale
+690	Bihar Properties (Bihar.txt)	3 BHK Apartment	Muzaffarpur Residential Area	Muzaffarpur / Bihar	Apartment / 3 BHK	1077	₹15,800/month	Fully-Furnished	3	Family	Rent
+691	Bihar Properties (Bihar.txt)	2 BHK Apartment	Gaya Central	Gaya / Bihar	Apartment / 2 BHK	820	₹12,100/month	Unfurnished	2	Bachelors	Rent
+692	Bihar Properties (Bihar.txt)	4 BHK Independent House	Bhagalpur Sector 2	Bhagalpur / Bihar	Independent House / 4 BHK	1827	₹67.49 L	Unfurnished	4	Bachelors	Sale
+693	Bihar Properties (Bihar.txt)	4 BHK Apartment	Patna Residential Area	Patna / Bihar	Apartment / 4 BHK	1739	₹66.36 L	Unfurnished	4	Family	Sale
+694	Bihar Properties (Bihar.txt)	2 BHK Apartment	Muzaffarpur East	Muzaffarpur / Bihar	Apartment / 2 BHK	735	₹37.04 L	Fully-Furnished	1	Any	Sale
+695	Bihar Properties (Bihar.txt)	2 BHK Apartment	Muzaffarpur North	Muzaffarpur / Bihar	Apartment / 2 BHK	918	₹35.11 L	Unfurnished	3	Any	Sale
+696	Bihar Properties (Bihar.txt)	1 BHK Studio	Muzaffarpur Residential Area	Muzaffarpur / Bihar	Studio / 1 BHK	400	₹24.54 L	Semi-Furnished	1	Any	Sale
+697	Bihar Properties (Bihar.txt)	2 BHK Builder Floor	Gaya North	Gaya / Bihar	Builder Floor / 2 BHK	1002	₹43.36 L	Semi-Furnished	1	Family	Sale
+698	Bihar Properties (Bihar.txt)	4 BHK Apartment	Bhagalpur Colony	Bhagalpur / Bihar	Apartment / 4 BHK	2045	₹18,200/month	Semi-Furnished	4	Family	Rent
+699	Bihar Properties (Bihar.txt)	1 BHK Apartment	Muzaffarpur South	Muzaffarpur / Bihar	Apartment / 1 BHK	426	₹28.52 L	Fully-Furnished	2	Bachelors	Sale
+700	Bihar Properties (Bihar.txt)	4 BHK Builder Floor	Gaya North	Gaya / Bihar	Builder Floor / 4 BHK	1781	₹73.80 L	Fully-Furnished	5	Bachelors	Sale
+701	Bihar Properties (Bihar.txt)	3 BHK Builder Floor	Patna Residential Area	Patna / Bihar	Builder Floor / 3 BHK	1088	₹15,900/month	Semi-Furnished	4	Family	Rent
+702	Bihar Properties (Bihar.txt)	2 BHK Apartment	Bhagalpur Extension	Bhagalpur / Bihar	Apartment / 2 BHK	816	₹46.41 L	Unfurnished	2	Any	Sale
+703	Bihar Properties (Bihar.txt)	1 BHK Independent House	Bhagalpur Heights	Bhagalpur / Bihar	Independent House / 1 BHK	582	₹7,400/month	Unfurnished	1	Family	Rent
+704	Bihar Properties (Bihar.txt)	2 BHK Builder Floor	Patna West	Patna / Bihar	Builder Floor / 2 BHK	988	₹10,900/month	Fully-Furnished	2	Family	Rent
+705	Bihar Properties (Bihar.txt)	2 BHK Apartment	Patna Nagar	Patna / Bihar	Apartment / 2 BHK	928	₹12,600/month	Semi-Furnished	1	Any	Rent
+706	Bihar Properties (Bihar.txt)	4 BHK Builder Floor	Bhagalpur Residential Area	Bhagalpur / Bihar	Builder Floor / 4 BHK	2331	₹68.92 L	Fully-Furnished	4	Bachelors	Sale
+707	Bihar Properties (Bihar.txt)	4 BHK Independent House	Gaya Colony	Gaya / Bihar	Independent House / 4 BHK	2165	₹60.62 L	Semi-Furnished	4	Bachelors	Sale
+708	Bihar Properties (Bihar.txt)	1 BHK Independent House	Muzaffarpur Extension	Muzaffarpur / Bihar	Independent House / 1 BHK	514	₹22.76 L	Fully-Furnished	1	Family	Sale
+709	Bihar Properties (Bihar.txt)	1 BHK Apartment	Bhagalpur South	Bhagalpur / Bihar	Apartment / 1 BHK	528	₹28.69 L	Semi-Furnished	2	Family	Sale
+710	Bihar Properties (Bihar.txt)	2 BHK Apartment	Bhagalpur Main Road	Bhagalpur / Bihar	Apartment / 2 BHK	825	₹40.35 L	Unfurnished	2	Family	Sale
+711	Bihar Properties (Bihar.txt)	2 BHK Independent House	Patna Residential Area	Patna / Bihar	Independent House / 2 BHK	806	₹42.45 L	Semi-Furnished	1	Bachelors	Sale
+712	Bihar Properties (Bihar.txt)	3 BHK Apartment	Muzaffarpur Residential Area	Muzaffarpur / Bihar	Apartment / 3 BHK	974	₹48.60 L	Unfurnished	3	Family	Sale
+713	Bihar Properties (Bihar.txt)	1 BHK Apartment	Bhagalpur Sector 1	Bhagalpur / Bihar	Apartment / 1 BHK	659	₹8,400/month	Unfurnished	1	Bachelors	Rent
+714	Bihar Properties (Bihar.txt)	1 BHK Studio	Muzaffarpur Central	Muzaffarpur / Bihar	Studio / 1 BHK	321	₹19.77 L	Fully-Furnished	2	Family	Sale
+715	Bihar Properties (Bihar.txt)	1 BHK Apartment	Patna West	Patna / Bihar	Apartment / 1 BHK	485	₹21.42 L	Semi-Furnished	1	Any	Sale
+716	Bihar Properties (Bihar.txt)	1 BHK Apartment	Patna Extension	Patna / Bihar	Apartment / 1 BHK	639	₹30.67 L	Unfurnished	1	Family	Sale
+717	Bihar Properties (Bihar.txt)	4 BHK Apartment	Gaya Sector 1	Gaya / Bihar	Apartment / 4 BHK	1661	₹16,900/month	Semi-Furnished	4	Family	Rent
+718	Bihar Properties (Bihar.txt)	2 BHK Independent House	Muzaffarpur Sector 2	Muzaffarpur / Bihar	Independent House / 2 BHK	1055	₹39.01 L	Fully-Furnished	2	Any	Sale
+719	Bihar Properties (Bihar.txt)	1 BHK Independent House	Muzaffarpur Sector 3	Muzaffarpur / Bihar	Independent House / 1 BHK	550	₹29.84 L	Semi-Furnished	1	Any	Sale
+720	Bihar Properties (Bihar.txt)	2 BHK Apartment	Bhagalpur Sector 1	Bhagalpur / Bihar	Apartment / 2 BHK	638	₹9,000/month	Fully-Furnished	2	Family	Rent
+721	Bihar Properties (Bihar.txt)	1 BHK Apartment	Patna North	Patna / Bihar	Apartment / 1 BHK	534	₹24.71 L	Unfurnished	1	Any	Sale
+722	Bihar Properties (Bihar.txt)	2 BHK Apartment	Gaya Sector 1	Gaya / Bihar	Apartment / 2 BHK	1250	₹40.03 L	Semi-Furnished	2	Any	Sale
+723	Bihar Properties (Bihar.txt)	3 BHK Apartment	Muzaffarpur Town Centre	Muzaffarpur / Bihar	Apartment / 3 BHK	1282	₹17,600/month	Unfurnished	3	Family	Rent
+724	Bihar Properties (Bihar.txt)	2 BHK Apartment	Patna Nagar	Patna / Bihar	Apartment / 2 BHK	795	₹11,300/month	Fully-Furnished	2	Any	Rent
+725	Bihar Properties (Bihar.txt)	4 BHK Independent House	Gaya Residential Area	Gaya / Bihar	Independent House / 4 BHK	2138	₹23,000/month	Fully-Furnished	4	Any	Rent
+726	Bihar Properties (Bihar.txt)	5 BHK Builder Floor	Bhagalpur Colony	Bhagalpur / Bihar	Builder Floor / 5 BHK	2171	₹83.96 L	Fully-Furnished	4	Family	Sale
+727	Bihar Properties (Bihar.txt)	5 BHK Builder Floor	Gaya Central	Gaya / Bihar	Builder Floor / 5 BHK	2693	₹83.04 L	Semi-Furnished	5	Family	Sale
+728	Bihar Properties (Bihar.txt)	3 BHK Apartment	Bhagalpur Nagar	Bhagalpur / Bihar	Apartment / 3 BHK	1346	₹62.09 L	Fully-Furnished	2	Family	Sale
+729	Bihar Properties (Bihar.txt)	4 BHK Apartment	Gaya West	Gaya / Bihar	Apartment / 4 BHK	1759	₹64.26 L	Fully-Furnished	5	Any	Sale
+730	Bihar Properties (Bihar.txt)	1 BHK Villa	Bhagalpur Main Road	Bhagalpur / Bihar	Villa / 1 BHK	699	₹26.11 L	Fully-Furnished	1	Family	Sale
+731	Bihar Properties (Bihar.txt)	4 BHK Villa	Gaya Heights	Gaya / Bihar	Villa / 4 BHK	2251	₹70.59 L	Semi-Furnished	3	Family	Sale
+732	Bihar Properties (Bihar.txt)	2 BHK Apartment	Patna Main Road	Patna / Bihar	Apartment / 2 BHK	944	₹36.38 L	Semi-Furnished	2	Family	Sale
+733	Bihar Properties (Bihar.txt)	2 BHK Apartment	Patna Town Centre	Patna / Bihar	Apartment / 2 BHK	762	₹40.41 L	Semi-Furnished	2	Family	Sale
+734	Bihar Properties (Bihar.txt)	2 BHK Apartment	Bhagalpur North	Bhagalpur / Bihar	Apartment / 2 BHK	974	₹41.73 L	Semi-Furnished	3	Family	Sale
+735	Bihar Properties (Bihar.txt)	2 BHK Apartment	Patna Heights	Patna / Bihar	Apartment / 2 BHK	1143	₹11,000/month	Unfurnished	3	Any	Rent
+736	Bihar Properties (Bihar.txt)	2 BHK Apartment	Patna Central	Patna / Bihar	Apartment / 2 BHK	644	₹38.37 L	Semi-Furnished	3	Bachelors	Sale
+737	Bihar Properties (Bihar.txt)	3 BHK Apartment	Muzaffarpur Sector 2	Muzaffarpur / Bihar	Apartment / 3 BHK	1253	₹17,200/month	Unfurnished	3	Family	Rent
+738	Bihar Properties (Bihar.txt)	3 BHK Builder Floor	Patna South	Patna / Bihar	Builder Floor / 3 BHK	1127	₹56.62 L	Semi-Furnished	3	Family	Sale
+739	Bihar Properties (Bihar.txt)	1 BHK Apartment	Gaya Sector 2	Gaya / Bihar	Apartment / 1 BHK	443	₹19.68 L	Unfurnished	1	Bachelors	Sale
+740	Bihar Properties (Bihar.txt)	4 BHK Apartment	Bhagalpur East	Bhagalpur / Bihar	Apartment / 4 BHK	2003	₹60.42 L	Semi-Furnished	4	Family	Sale
+741	Bihar Properties (Bihar.txt)	2 BHK Apartment	Gaya Main Road	Gaya / Bihar	Apartment / 2 BHK	709	₹41.55 L	Semi-Furnished	2	Any	Sale
+742	Bihar Properties (Bihar.txt)	2 BHK Apartment	Patna Extension	Patna / Bihar	Apartment / 2 BHK	909	₹38.16 L	Fully-Furnished	2	Family	Sale
+743	Bihar Properties (Bihar.txt)	4 BHK Apartment	Bhagalpur Town Centre	Bhagalpur / Bihar	Apartment / 4 BHK	2182	₹18,600/month	Semi-Furnished	3	Bachelors	Rent
+744	Bihar Properties (Bihar.txt)	4 BHK Independent House	Gaya Sector 1	Gaya / Bihar	Independent House / 4 BHK	2067	₹83.67 L	Fully-Furnished	4	Bachelors	Sale
+745	Bihar Properties (Bihar.txt)	2 BHK Independent House	Bhagalpur Heights	Bhagalpur / Bihar	Independent House / 2 BHK	931	₹9,200/month	Fully-Furnished	2	Bachelors	Rent
+746	Bihar Properties (Bihar.txt)	2 BHK Apartment	Bhagalpur Residential Area	Bhagalpur / Bihar	Apartment / 2 BHK	659	₹41.23 L	Unfurnished	3	Family	Sale
+747	Bihar Properties (Bihar.txt)	5 BHK Builder Floor	Gaya Colony	Gaya / Bihar	Builder Floor / 5 BHK	2055	₹20,500/month	Semi-Furnished	4	Any	Rent
+748	Bihar Properties (Bihar.txt)	2 BHK Independent House	Gaya West	Gaya / Bihar	Independent House / 2 BHK	894	₹11,400/month	Semi-Furnished	2	Family	Rent
+749	Bihar Properties (Bihar.txt)	3 BHK Apartment	Patna Extension	Patna / Bihar	Apartment / 3 BHK	1418	₹64.84 L	Semi-Furnished	2	Bachelors	Sale
+750	Bihar Properties (Bihar.txt)	2 BHK Apartment	Patna Colony	Patna / Bihar	Apartment / 2 BHK	894	₹37.15 L	Fully-Furnished	1	Family	Sale
+751	Bihar Properties (Bihar.txt)	2 BHK Builder Floor	Gaya Colony	Gaya / Bihar	Builder Floor / 2 BHK	808	₹41.66 L	Unfurnished	2	Bachelors	Sale
+752	Bihar Properties (Bihar.txt)	1 BHK Builder Floor	Bhagalpur Colony	Bhagalpur / Bihar	Builder Floor / 1 BHK	534	₹7,500/month	Unfurnished	1	Family	Rent
+753	Bihar Properties (Bihar.txt)	1 BHK Villa	Patna Town Centre	Patna / Bihar	Villa / 1 BHK	733	₹22.81 L	Fully-Furnished	1	Any	Sale
+754	Bihar Properties (Bihar.txt)	4 BHK Independent House	Bhagalpur Town Centre	Bhagalpur / Bihar	Independent House / 4 BHK	1919	₹21,300/month	Unfurnished	4	Bachelors	Rent
+755	Bihar Properties (Bihar.txt)	1 BHK Builder Floor	Muzaffarpur Colony	Muzaffarpur / Bihar	Builder Floor / 1 BHK	553	₹25.04 L	Fully-Furnished	2	Family	Sale
+756	Bihar Properties (Bihar.txt)	4 BHK Apartment	Gaya North	Gaya / Bihar	Apartment / 4 BHK	1810	₹73.71 L	Fully-Furnished	4	Bachelors	Sale
+757	Bihar Properties (Bihar.txt)	1 BHK Independent House	Muzaffarpur South	Muzaffarpur / Bihar	Independent House / 1 BHK	610	₹31.04 L	Semi-Furnished	1	Family	Sale
+758	Bihar Properties (Bihar.txt)	2 BHK Apartment	Bhagalpur Extension	Bhagalpur / Bihar	Apartment / 2 BHK	622	₹43.80 L	Fully-Furnished	2	Family	Sale
+759	Bihar Properties (Bihar.txt)	2 BHK Builder Floor	Bhagalpur East	Bhagalpur / Bihar	Builder Floor / 2 BHK	892	₹11,500/month	Fully-Furnished	1	Bachelors	Rent
+760	Bihar Properties (Bihar.txt)	2 BHK Apartment	Patna Sector 3	Patna / Bihar	Apartment / 2 BHK	966	₹10,800/month	Semi-Furnished	2	Any	Rent
+761	Bihar Properties (Bihar.txt)	3 BHK Builder Floor	Bhagalpur Central	Bhagalpur / Bihar	Builder Floor / 3 BHK	1358	₹16,200/month	Semi-Furnished	3	Family	Rent
+762	Bihar Properties (Bihar.txt)	2 BHK Apartment	Patna Sector 1	Patna / Bihar	Apartment / 2 BHK	660	₹37.66 L	Unfurnished	2	Bachelors	Sale
+763	Bihar Properties (Bihar.txt)	2 BHK Villa	Bhagalpur Town Centre	Bhagalpur / Bihar	Villa / 2 BHK	1031	₹46.04 L	Fully-Furnished	2	Family	Sale
+764	Bihar Properties (Bihar.txt)	2 BHK Builder Floor	Gaya Colony	Gaya / Bihar	Builder Floor / 2 BHK	857	₹43.64 L	Semi-Furnished	2	Bachelors	Sale
+765	Bihar Properties (Bihar.txt)	2 BHK Apartment	Patna East	Patna / Bihar	Apartment / 2 BHK	757	₹37.09 L	Semi-Furnished	1	Family	Sale
+766	Bihar Properties (Bihar.txt)	3 BHK Apartment	Muzaffarpur Central	Muzaffarpur / Bihar	Apartment / 3 BHK	1281	₹54.29 L	Semi-Furnished	4	Bachelors	Sale
+767	Bihar Properties (Bihar.txt)	3 BHK Apartment	Gaya Extension	Gaya / Bihar	Apartment / 3 BHK	1374	₹59.68 L	Unfurnished	2	Any	Sale
+768	Bihar Properties (Bihar.txt)	2 BHK Apartment	Bhagalpur Town Centre	Bhagalpur / Bihar	Apartment / 2 BHK	784	₹46.30 L	Unfurnished	2	Family	Sale
+769	Bihar Properties (Bihar.txt)	2 BHK Apartment	Muzaffarpur Extension	Muzaffarpur / Bihar	Apartment / 2 BHK	829	₹46.60 L	Semi-Furnished	2	Any	Sale
+770	Bihar Properties (Bihar.txt)	3 BHK Independent House	Muzaffarpur Main Road	Muzaffarpur / Bihar	Independent House / 3 BHK	1569	₹14,900/month	Semi-Furnished	4	Family	Rent
+771	Bihar Properties (Bihar.txt)	1 BHK Villa	Patna Residential Area	Patna / Bihar	Villa / 1 BHK	823	₹6,600/month	Semi-Furnished	1	Any	Rent
+772	Bihar Properties (Bihar.txt)	4 BHK Apartment	Muzaffarpur Central	Muzaffarpur / Bihar	Apartment / 4 BHK	1929	₹72.02 L	Fully-Furnished	4	Any	Sale
+773	Bihar Properties (Bihar.txt)	2 BHK Apartment	Gaya Sector 2	Gaya / Bihar	Apartment / 2 BHK	846	₹33.66 L	Semi-Furnished	2	Bachelors	Sale
+774	Bihar Properties (Bihar.txt)	1 BHK Apartment	Patna South	Patna / Bihar	Apartment / 1 BHK	419	₹5,600/month	Semi-Furnished	1	Any	Rent
+775	Bihar Properties (Bihar.txt)	1 BHK Studio	Muzaffarpur Residential Area	Muzaffarpur / Bihar	Studio / 1 BHK	318	₹23.34 L	Unfurnished	1	Family	Sale
+776	Bihar Properties (Bihar.txt)	4 BHK Builder Floor	Gaya Nagar	Gaya / Bihar	Builder Floor / 4 BHK	1378	₹19,200/month	Fully-Furnished	3	Family	Rent
+777	Bihar Properties (Bihar.txt)	3 BHK Villa	Bhagalpur Sector 2	Bhagalpur / Bihar	Villa / 3 BHK	1745	₹53 L	Unfurnished	3	Family	Sale
+778	Bihar Properties (Bihar.txt)	1 BHK Independent House	Bhagalpur Sector 3	Bhagalpur / Bihar	Independent House / 1 BHK	525	₹8,300/month	Semi-Furnished	1	Bachelors	Rent
+779	Bihar Properties (Bihar.txt)	4 BHK Apartment	Bhagalpur West	Bhagalpur / Bihar	Apartment / 4 BHK	1902	₹81.62 L	Semi-Furnished	5	Any	Sale
+780	Bihar Properties (Bihar.txt)	1 BHK Studio	Gaya Sector 2	Gaya / Bihar	Studio / 1 BHK	335	₹6,600/month	Semi-Furnished	1	Bachelors	Rent
+781	Bihar Properties (Bihar.txt)	5 BHK Apartment	Muzaffarpur Central	Muzaffarpur / Bihar	Apartment / 5 BHK	2203	₹21,000/month	Unfurnished	5	Bachelors	Rent
+782	Bihar Properties (Bihar.txt)	3 BHK Apartment	Muzaffarpur Nagar	Muzaffarpur / Bihar	Apartment / 3 BHK	1546	₹48.24 L	Unfurnished	3	Family	Sale
+783	Bihar Properties (Bihar.txt)	3 BHK Apartment	Muzaffarpur East	Muzaffarpur / Bihar	Apartment / 3 BHK	1280	₹13,500/month	Unfurnished	3	Family	Rent
+784	Bihar Properties (Bihar.txt)	2 BHK Independent House	Bhagalpur North	Bhagalpur / Bihar	Independent House / 2 BHK	939	₹11,100/month	Unfurnished	2	Family	Rent
+785	Bihar Properties (Bihar.txt)	2 BHK Independent House	Gaya Main Road	Gaya / Bihar	Independent House / 2 BHK	1020	₹45.59 L	Semi-Furnished	2	Bachelors	Sale
+786	Bihar Properties (Bihar.txt)	4 BHK Apartment	Muzaffarpur Main Road	Muzaffarpur / Bihar	Apartment / 4 BHK	1692	₹58.80 L	Unfurnished	3	Family	Sale
+787	Bihar Properties (Bihar.txt)	2 BHK Apartment	Muzaffarpur Sector 2	Muzaffarpur / Bihar	Apartment / 2 BHK	1196	₹10,000/month	Unfurnished	2	Family	Rent
+788	Bihar Properties (Bihar.txt)	2 BHK Apartment	Muzaffarpur Extension	Muzaffarpur / Bihar	Apartment / 2 BHK	1012	₹12,900/month	Semi-Furnished	2	Bachelors	Rent
+789	Bihar Properties (Bihar.txt)	3 BHK Apartment	Gaya North	Gaya / Bihar	Apartment / 3 BHK	1246	₹64.31 L	Semi-Furnished	2	Any	Sale
+790	Bihar Properties (Bihar.txt)	1 BHK Apartment	Muzaffarpur Main Road	Muzaffarpur / Bihar	Apartment / 1 BHK	594	₹23.90 L	Semi-Furnished	1	Family	Sale
+791	Bihar Properties (Bihar.txt)	2 BHK Builder Floor	Gaya Nagar	Gaya / Bihar	Builder Floor / 2 BHK	750	₹12,400/month	Unfurnished	3	Any	Rent
+792	Bihar Properties (Bihar.txt)	5 BHK Villa	Patna Sector 1	Patna / Bihar	Villa / 5 BHK	4370	₹24,000/month	Semi-Furnished	5	Bachelors	Rent
+793	Bihar Properties (Bihar.txt)	3 BHK Independent House	Patna Extension	Patna / Bihar	Independent House / 3 BHK	1882	₹60.67 L	Fully-Furnished	4	Family	Sale
+794	Bihar Properties (Bihar.txt)	4 BHK Apartment	Muzaffarpur Central	Muzaffarpur / Bihar	Apartment / 4 BHK	2129	₹66.11 L	Semi-Furnished	5	Family	Sale
+795	Bihar Properties (Bihar.txt)	3 BHK Builder Floor	Muzaffarpur Sector 2	Muzaffarpur / Bihar	Builder Floor / 3 BHK	1271	₹52.71 L	Unfurnished	4	Family	Sale
+796	Bihar Properties (Bihar.txt)	1 BHK Studio	Gaya Sector 3	Gaya / Bihar	Studio / 1 BHK	357	₹26.87 L	Semi-Furnished	1	Bachelors	Sale
+797	Bihar Properties (Bihar.txt)	2 BHK Apartment	Muzaffarpur Central	Muzaffarpur / Bihar	Apartment / 2 BHK	599	₹30.91 L	Semi-Furnished	1	Any	Sale
+798	Bihar Properties (Bihar.txt)	3 BHK Independent House	Bhagalpur Sector 3	Bhagalpur / Bihar	Independent House / 3 BHK	1246	₹14,700/month	Fully-Furnished	3	Any	Rent
+799	Bihar Properties (Bihar.txt)	2 BHK Builder Floor	Gaya East	Gaya / Bihar	Builder Floor / 2 BHK	760	₹32.15 L	Unfurnished	3	Family	Sale
+800	Bihar Properties (Bihar.txt)	2 BHK Builder Floor	Bhagalpur Sector 3	Bhagalpur / Bihar	Builder Floor / 2 BHK	877	₹10,500/month	Semi-Furnished	2	Family	Rent
+801	Bihar Properties (Bihar.txt)	2 BHK Apartment	Muzaffarpur East	Muzaffarpur / Bihar	Apartment / 2 BHK	1084	₹43.49 L	Fully-Furnished	1	Any	Sale
+802	Bihar Properties (Bihar.txt)	3 BHK Villa	Gaya Extension	Gaya / Bihar	Villa / 3 BHK	1645	₹15,900/month	Unfurnished	4	Any	Rent
+803	Bihar Properties (Bihar.txt)	4 BHK Apartment	Muzaffarpur Main Road	Muzaffarpur / Bihar	Apartment / 4 BHK	2090	₹19,600/month	Unfurnished	4	Bachelors	Rent
+804	Bihar Properties (Bihar.txt)	2 BHK Apartment	Patna Sector 1	Patna / Bihar	Apartment / 2 BHK	748	₹41.91 L	Fully-Furnished	2	Any	Sale
+805	Bihar Properties (Bihar.txt)	4 BHK Apartment	Bhagalpur Sector 1	Bhagalpur / Bihar	Apartment / 4 BHK	1933	₹68.53 L	Unfurnished	4	Any	Sale
+806	Bihar Properties (Bihar.txt)	1 BHK Apartment	Patna North	Patna / Bihar	Apartment / 1 BHK	420	₹20.07 L	Semi-Furnished	1	Bachelors	Sale
+807	Bihar Properties (Bihar.txt)	3 BHK Apartment	Patna Town Centre	Patna / Bihar	Apartment / 3 BHK	1415	₹46.62 L	Unfurnished	2	Family	Sale
+808	Bihar Properties (Bihar.txt)	4 BHK Apartment	Gaya Residential Area	Gaya / Bihar	Apartment / 4 BHK	1805	₹67.98 L	Fully-Furnished	4	Family	Sale
+809	Bihar Properties (Bihar.txt)	3 BHK Villa	Muzaffarpur Sector 3	Muzaffarpur / Bihar	Villa / 3 BHK	1543	₹51.52 L	Semi-Furnished	3	Bachelors	Sale
+810	Bihar Properties (Bihar.txt)	4 BHK Apartment	Bhagalpur Extension	Bhagalpur / Bihar	Apartment / 4 BHK	1854	₹78.91 L	Unfurnished	4	Family	Sale
+811	Bihar Properties (Bihar.txt)	3 BHK Apartment	Bhagalpur East	Bhagalpur / Bihar	Apartment / 3 BHK	933	₹13,400/month	Semi-Furnished	2	Family	Rent
+812	Bihar Properties (Bihar.txt)	2 BHK Independent House	Patna Heights	Patna / Bihar	Independent House / 2 BHK	1117	₹12,700/month	Unfurnished	2	Any	Rent
+813	Bihar Properties (Bihar.txt)	2 BHK Apartment	Muzaffarpur Residential Area	Muzaffarpur / Bihar	Apartment / 2 BHK	944	₹9,900/month	Fully-Furnished	2	Family	Rent
+814	Bihar Properties (Bihar.txt)	3 BHK Apartment	Patna Town Centre	Patna / Bihar	Apartment / 3 BHK	1019	₹60.29 L	Semi-Furnished	3	Family	Sale
+815	Bihar Properties (Bihar.txt)	3 BHK Apartment	Gaya Main Road	Gaya / Bihar	Apartment / 3 BHK	1374	₹48.47 L	Fully-Furnished	2	Any	Sale
+816	Bihar Properties (Bihar.txt)	1 BHK Villa	Gaya Residential Area	Gaya / Bihar	Villa / 1 BHK	739	₹6,400/month	Unfurnished	1	Any	Rent
+817	Bihar Properties (Bihar.txt)	1 BHK Independent House	Muzaffarpur Residential Area	Muzaffarpur / Bihar	Independent House / 1 BHK	586	₹7,500/month	Semi-Furnished	1	Family	Rent
+818	Bihar Properties (Bihar.txt)	3 BHK Apartment	Patna Nagar	Patna / Bihar	Apartment / 3 BHK	1291	₹62.07 L	Fully-Furnished	3	Any	Sale
+819	Bihar Properties (Bihar.txt)	1 BHK Builder Floor	Bhagalpur Sector 2	Bhagalpur / Bihar	Builder Floor / 1 BHK	515	₹20.96 L	Unfurnished	1	Any	Sale
+820	Bihar Properties (Bihar.txt)	1 BHK Studio	Gaya Sector 3	Gaya / Bihar	Studio / 1 BHK	452	₹23.34 L	Fully-Furnished	1	Bachelors	Sale
+821	Bihar Properties (Bihar.txt)	1 BHK Apartment	Bhagalpur East	Bhagalpur / Bihar	Apartment / 1 BHK	419	₹19.91 L	Unfurnished	1	Any	Sale
+822	Bihar Properties (Bihar.txt)	2 BHK Builder Floor	Muzaffarpur Sector 1	Muzaffarpur / Bihar	Builder Floor / 2 BHK	907	₹41.90 L	Fully-Furnished	2	Family	Sale
+823	Bihar Properties (Bihar.txt)	4 BHK Apartment	Gaya South	Gaya / Bihar	Apartment / 4 BHK	1539	₹80.17 L	Fully-Furnished	4	Family	Sale
+824	Bihar Properties (Bihar.txt)	4 BHK Independent House	Muzaffarpur Main Road	Muzaffarpur / Bihar	Independent House / 4 BHK	1865	₹77.26 L	Semi-Furnished	4	Family	Sale
+825	Bihar Properties (Bihar.txt)	2 BHK Apartment	Bhagalpur Nagar	Bhagalpur / Bihar	Apartment / 2 BHK	793	₹31.68 L	Semi-Furnished	2	Bachelors	Sale
+826	Bihar Properties (Bihar.txt)	2 BHK Builder Floor	Gaya West	Gaya / Bihar	Builder Floor / 2 BHK	936	₹41.04 L	Unfurnished	2	Any	Sale
+827	Bihar Properties (Bihar.txt)	4 BHK Independent House	Bhagalpur Main Road	Bhagalpur / Bihar	Independent House / 4 BHK	1941	₹77.36 L	Semi-Furnished	4	Any	Sale
+828	Bihar Properties (Bihar.txt)	2 BHK Builder Floor	Muzaffarpur Extension	Muzaffarpur / Bihar	Builder Floor / 2 BHK	1047	₹47.30 L	Unfurnished	1	Bachelors	Sale
+829	Bihar Properties (Bihar.txt)	3 BHK Apartment	Patna Colony	Patna / Bihar	Apartment / 3 BHK	1188	₹13,000/month	Unfurnished	2	Any	Rent
+830	Bihar Properties (Bihar.txt)	2 BHK Villa	Patna Nagar	Patna / Bihar	Villa / 2 BHK	895	₹36.43 L	Fully-Furnished	2	Bachelors	Sale
+831	Bihar Properties (Bihar.txt)	4 BHK Apartment	Muzaffarpur Colony	Muzaffarpur / Bihar	Apartment / 4 BHK	1935	₹84.34 L	Fully-Furnished	4	Any	Sale
+832	Bihar Properties (Bihar.txt)	3 BHK Apartment	Bhagalpur Town Centre	Bhagalpur / Bihar	Apartment / 3 BHK	1278	₹51.76 L	Fully-Furnished	3	Bachelors	Sale
+833	Bihar Properties (Bihar.txt)	2 BHK Apartment	Patna Heights	Patna / Bihar	Apartment / 2 BHK	820	₹36.32 L	Semi-Furnished	2	Family	Sale
+834	Bihar Properties (Bihar.txt)	4 BHK Apartment	Gaya North	Gaya / Bihar	Apartment / 4 BHK	1859	₹16,500/month	Semi-Furnished	4	Family	Rent
+835	Bihar Properties (Bihar.txt)	3 BHK Apartment	Gaya South	Gaya / Bihar	Apartment / 3 BHK	1392	₹49.54 L	Unfurnished	3	Any	Sale
+836	Bihar Properties (Bihar.txt)	1 BHK Studio	Patna Central	Patna / Bihar	Studio / 1 BHK	321	₹19.63 L	Semi-Furnished	1	Family	Sale
+837	Bihar Properties (Bihar.txt)	4 BHK Villa	Muzaffarpur Town Centre	Muzaffarpur / Bihar	Villa / 4 BHK	2398	₹78.37 L	Semi-Furnished	5	Any	Sale
+838	Bihar Properties (Bihar.txt)	2 BHK Apartment	Gaya South	Gaya / Bihar	Apartment / 2 BHK	890	₹12,800/month	Fully-Furnished	1	Bachelors	Rent
+839	Bihar Properties (Bihar.txt)	3 BHK Apartment	Patna Central	Patna / Bihar	Apartment / 3 BHK	1259	₹13,600/month	Semi-Furnished	3	Family	Rent
+840	Bihar Properties (Bihar.txt)	1 BHK Apartment	Patna Sector 3	Patna / Bihar	Apartment / 1 BHK	615	₹24 L	Semi-Furnished	2	Bachelors	Sale
+841	Bihar Properties (Bihar.txt)	4 BHK Apartment	Gaya Main Road	Gaya / Bihar	Apartment / 4 BHK	1513	₹21,400/month	Semi-Furnished	4	Any	Rent
+842	Bihar Properties (Bihar.txt)	4 BHK Apartment	Muzaffarpur Heights	Muzaffarpur / Bihar	Apartment / 4 BHK	1553	₹20,800/month	Semi-Furnished	4	Any	Rent
+843	Bihar Properties (Bihar.txt)	3 BHK Builder Floor	Muzaffarpur East	Muzaffarpur / Bihar	Builder Floor / 3 BHK	1191	₹54.24 L	Semi-Furnished	3	Family	Sale
+844	Bihar Properties (Bihar.txt)	3 BHK Apartment	Bhagalpur Main Road	Bhagalpur / Bihar	Apartment / 3 BHK	1585	₹14,800/month	Semi-Furnished	3	Bachelors	Rent
+845	Bihar Properties (Bihar.txt)	2 BHK Apartment	Bhagalpur Sector 3	Bhagalpur / Bihar	Apartment / 2 BHK	899	₹37.11 L	Semi-Furnished	1	Bachelors	Sale
+846	Bihar Properties (Bihar.txt)	1 BHK Independent House	Bhagalpur East	Bhagalpur / Bihar	Independent House / 1 BHK	684	₹8,700/month	Fully-Furnished	1	Family	Rent
+847	Bihar Properties (Bihar.txt)	3 BHK Apartment	Gaya Nagar	Gaya / Bihar	Apartment / 3 BHK	1110	₹15,900/month	Fully-Furnished	4	Bachelors	Rent
+848	Bihar Properties (Bihar.txt)	2 BHK Independent House	Bhagalpur Sector 1	Bhagalpur / Bihar	Independent House / 2 BHK	1148	₹45.75 L	Semi-Furnished	2	Any	Sale
+849	Bihar Properties (Bihar.txt)	2 BHK Builder Floor	Muzaffarpur Extension	Muzaffarpur / Bihar	Builder Floor / 2 BHK	924	₹46.46 L	Unfurnished	2	Family	Sale
+850	Bihar Properties (Bihar.txt)	3 BHK Independent House	Gaya North	Gaya / Bihar	Independent House / 3 BHK	1684	₹68.10 L	Unfurnished	3	Bachelors	Sale
+851	Bihar Properties (Bihar.txt)	2 BHK Builder Floor	Patna Colony	Patna / Bihar	Builder Floor / 2 BHK	819	₹11,700/month	Unfurnished	3	Family	Rent
+852	Bihar Properties (Bihar.txt)	3 BHK Apartment	Bhagalpur West	Bhagalpur / Bihar	Apartment / 3 BHK	1006	₹53.04 L	Fully-Furnished	2	Any	Sale
+853	Bihar Properties (Bihar.txt)	4 BHK Villa	Bhagalpur South	Bhagalpur / Bihar	Villa / 4 BHK	2003	₹62.70 L	Semi-Furnished	4	Bachelors	Sale
+854	Bihar Properties (Bihar.txt)	2 BHK Independent House	Bhagalpur Colony	Bhagalpur / Bihar	Independent House / 2 BHK	995	₹10,300/month	Fully-Furnished	3	Bachelors	Rent
+855	Bihar Properties (Bihar.txt)	1 BHK Studio	Muzaffarpur Central	Muzaffarpur / Bihar	Studio / 1 BHK	378	₹22.10 L	Unfurnished	1	Bachelors	Sale
+856	Bihar Properties (Bihar.txt)	2 BHK Apartment	Bhagalpur Heights	Bhagalpur / Bihar	Apartment / 2 BHK	1014	₹34.18 L	Semi-Furnished	2	Family	Sale
+857	Bihar Properties (Bihar.txt)	3 BHK Apartment	Muzaffarpur West	Muzaffarpur / Bihar	Apartment / 3 BHK	1292	₹65.23 L	Semi-Furnished	4	Family	Sale
+858	Bihar Properties (Bihar.txt)	3 BHK Builder Floor	Patna Sector 3	Patna / Bihar	Builder Floor / 3 BHK	1243	₹14,400/month	Semi-Furnished	2	Family	Rent
+859	Bihar Properties (Bihar.txt)	3 BHK Apartment	Patna South	Patna / Bihar	Apartment / 3 BHK	1167	₹54.41 L	Semi-Furnished	2	Family	Sale
+860	Bihar Properties (Bihar.txt)	2 BHK Apartment	Gaya Sector 3	Gaya / Bihar	Apartment / 2 BHK	1046	₹10,200/month	Unfurnished	1	Any	Rent
+861	Bihar Properties (Bihar.txt)	3 BHK Apartment	Bhagalpur Residential Area	Bhagalpur / Bihar	Apartment / 3 BHK	1159	₹47.04 L	Unfurnished	4	Family	Sale
+862	Bihar Properties (Bihar.txt)	3 BHK Apartment	Bhagalpur Extension	Bhagalpur / Bihar	Apartment / 3 BHK	1226	₹58.45 L	Fully-Furnished	3	Any	Sale
+863	Bihar Properties (Bihar.txt)	2 BHK Builder Floor	Muzaffarpur Sector 3	Muzaffarpur / Bihar	Builder Floor / 2 BHK	1075	₹38.22 L	Unfurnished	1	Any	Sale
+864	Bihar Properties (Bihar.txt)	3 BHK Apartment	Muzaffarpur Residential Area	Muzaffarpur / Bihar	Apartment / 3 BHK	1130	₹52.60 L	Semi-Furnished	2	Any	Sale
+865	Bihar Properties (Bihar.txt)	2 BHK Apartment	Bhagalpur Nagar	Bhagalpur / Bihar	Apartment / 2 BHK	645	₹8,400/month	Unfurnished	1	Bachelors	Rent
+866	Bihar Properties (Bihar.txt)	1 BHK Apartment	Muzaffarpur Town Centre	Muzaffarpur / Bihar	Apartment / 1 BHK	533	₹25.07 L	Unfurnished	1	Family	Sale
+867	Bihar Properties (Bihar.txt)	4 BHK Builder Floor	Bhagalpur East	Bhagalpur / Bihar	Builder Floor / 4 BHK	2171	₹81.98 L	Semi-Furnished	4	Any	Sale
+868	Bihar Properties (Bihar.txt)	2 BHK Apartment	Muzaffarpur Heights	Muzaffarpur / Bihar	Apartment / 2 BHK	1011	₹36.05 L	Semi-Furnished	2	Bachelors	Sale
+869	Bihar Properties (Bihar.txt)	3 BHK Apartment	Muzaffarpur Nagar	Muzaffarpur / Bihar	Apartment / 3 BHK	1375	₹13,400/month	Semi-Furnished	3	Any	Rent
+870	Bihar Properties (Bihar.txt)	3 BHK Builder Floor	Muzaffarpur Colony	Muzaffarpur / Bihar	Builder Floor / 3 BHK	991	₹14,600/month	Fully-Furnished	4	Family	Rent
+871	Bihar Properties (Bihar.txt)	1 BHK Apartment	Patna Sector 1	Patna / Bihar	Apartment / 1 BHK	529	₹7,500/month	Unfurnished	1	Family	Rent
+872	Bihar Properties (Bihar.txt)	2 BHK Apartment	Muzaffarpur East	Muzaffarpur / Bihar	Apartment / 2 BHK	783	₹35.52 L	Fully-Furnished	2	Any	Sale
+873	Bihar Properties (Bihar.txt)	2 BHK Apartment	Muzaffarpur North	Muzaffarpur / Bihar	Apartment / 2 BHK	653	₹11,300/month	Fully-Furnished	2	Any	Rent
+874	Bihar Properties (Bihar.txt)	3 BHK Independent House	Gaya Nagar	Gaya / Bihar	Independent House / 3 BHK	1431	₹14,800/month	Fully-Furnished	3	Family	Rent
+875	Bihar Properties (Bihar.txt)	3 BHK Builder Floor	Muzaffarpur Extension	Muzaffarpur / Bihar	Builder Floor / 3 BHK	1368	₹58.21 L	Unfurnished	3	Family	Sale
+876	Bihar Properties (Bihar.txt)	1 BHK Apartment	Bhagalpur North	Bhagalpur / Bihar	Apartment / 1 BHK	550	₹7,200/month	Semi-Furnished	2	Family	Rent
+877	Bihar Properties (Bihar.txt)	2 BHK Apartment	Gaya Residential Area	Gaya / Bihar	Apartment / 2 BHK	982	₹48.42 L	Semi-Furnished	2	Family	Sale
+878	Bihar Properties (Bihar.txt)	2 BHK Apartment	Bhagalpur Sector 2	Bhagalpur / Bihar	Apartment / 2 BHK	870	₹41.50 L	Semi-Furnished	2	Bachelors	Sale
+879	Bihar Properties (Bihar.txt)	1 BHK Studio	Patna Extension	Patna / Bihar	Studio / 1 BHK	370	₹6,800/month	Unfurnished	1	Bachelors	Rent
+880	Bihar Properties (Bihar.txt)	3 BHK Builder Floor	Patna Nagar	Patna / Bihar	Builder Floor / 3 BHK	1430	₹17,700/month	Unfurnished	3	Family	Rent
+881	Bihar Properties (Bihar.txt)	2 BHK Apartment	Patna Heights	Patna / Bihar	Apartment / 2 BHK	734	₹8,600/month	Unfurnished	3	Any	Rent
+882	Bihar Properties (Bihar.txt)	3 BHK Builder Floor	Patna South	Patna / Bihar	Builder Floor / 3 BHK	1435	₹51.77 L	Fully-Furnished	3	Family	Sale
+883	Bihar Properties (Bihar.txt)	3 BHK Apartment	Bhagalpur Nagar	Bhagalpur / Bihar	Apartment / 3 BHK	1287	₹14,300/month	Semi-Furnished	3	Bachelors	Rent
+884	Bihar Properties (Bihar.txt)	4 BHK Apartment	Bhagalpur West	Bhagalpur / Bihar	Apartment / 4 BHK	1473	₹70.64 L	Semi-Furnished	4	Bachelors	Sale
+885	Bihar Properties (Bihar.txt)	2 BHK Apartment	Gaya South	Gaya / Bihar	Apartment / 2 BHK	842	₹44.83 L	Semi-Furnished	2	Bachelors	Sale
+886	Bihar Properties (Bihar.txt)	2 BHK Builder Floor	Muzaffarpur Nagar	Muzaffarpur / Bihar	Builder Floor / 2 BHK	899	₹45.49 L	Semi-Furnished	2	Any	Sale
+887	Bihar Properties (Bihar.txt)	3 BHK Apartment	Bhagalpur Colony	Bhagalpur / Bihar	Apartment / 3 BHK	1495	₹54.66 L	Semi-Furnished	3	Bachelors	Sale
+888	Bihar Properties (Bihar.txt)	4 BHK Apartment	Muzaffarpur Residential Area	Muzaffarpur / Bihar	Apartment / 4 BHK	1251	₹55.12 L	Semi-Furnished	4	Any	Sale
+889	Bihar Properties (Bihar.txt)	3 BHK Villa	Patna Sector 1	Patna / Bihar	Villa / 3 BHK	1641	₹51.84 L	Unfurnished	3	Bachelors	Sale
+890	Bihar Properties (Bihar.txt)	4 BHK Apartment	Bhagalpur Sector 2	Bhagalpur / Bihar	Apartment / 4 BHK	1983	₹21,000/month	Semi-Furnished	3	Family	Rent
+891	Bihar Properties (Bihar.txt)	2 BHK Builder Floor	Muzaffarpur Sector 3	Muzaffarpur / Bihar	Builder Floor / 2 BHK	916	₹43.65 L	Unfurnished	3	Bachelors	Sale
+892	Bihar Properties (Bihar.txt)	4 BHK Villa	Gaya Town Centre	Gaya / Bihar	Villa / 4 BHK	2736	₹96.24 L	Semi-Furnished	5	Any	Sale
+893	Bihar Properties (Bihar.txt)	1 BHK Independent House	Patna East	Patna / Bihar	Independent House / 1 BHK	757	₹31.92 L	Semi-Furnished	2	Any	Sale
+894	Bihar Properties (Bihar.txt)	3 BHK Apartment	Gaya South	Gaya / Bihar	Apartment / 3 BHK	1512	₹55.11 L	Semi-Furnished	2	Family	Sale
+895	Bihar Properties (Bihar.txt)	4 BHK Apartment	Patna Main Road	Patna / Bihar	Apartment / 4 BHK	1805	₹79.91 L	Fully-Furnished	5	Any	Sale
+896	Bihar Properties (Bihar.txt)	2 BHK Independent House	Gaya East	Gaya / Bihar	Independent House / 2 BHK	733	₹33.36 L	Fully-Furnished	2	Family	Sale
+897	Bihar Properties (Bihar.txt)	2 BHK Builder Floor	Muzaffarpur Colony	Muzaffarpur / Bihar	Builder Floor / 2 BHK	1175	₹12,800/month	Semi-Furnished	2	Family	Rent
+898	Bihar Properties (Bihar.txt)	5 BHK Independent House	Patna East	Patna / Bihar	Independent House / 5 BHK	2879	₹28,600/month	Semi-Furnished	4	Any	Rent
+899	Bihar Properties (Bihar.txt)	3 BHK Independent House	Patna South	Patna / Bihar	Independent House / 3 BHK	1522	₹47.56 L	Semi-Furnished	4	Family	Sale
+900	Bihar Properties (Bihar.txt)	3 BHK Builder Floor	Muzaffarpur West	Muzaffarpur / Bihar	Builder Floor / 3 BHK	1439	₹60.73 L	Unfurnished	3	Bachelors	Sale
+901	Bihar Properties (Bihar.txt)	2 BHK Builder Floor	Bhagalpur Extension	Bhagalpur / Bihar	Builder Floor / 2 BHK	1126	₹42.89 L	Semi-Furnished	2	Any	Sale
+902	Bihar Properties (Bihar.txt)	2 BHK Apartment	Muzaffarpur Heights	Muzaffarpur / Bihar	Apartment / 2 BHK	793	₹35.10 L	Semi-Furnished	2	Any	Sale
+903	Bihar Properties (Bihar.txt)	3 BHK Apartment	Bhagalpur Sector 3	Bhagalpur / Bihar	Apartment / 3 BHK	1234	₹16,400/month	Semi-Furnished	3	Any	Rent
+904	Bihar Properties (Bihar.txt)	1 BHK Villa	Gaya Residential Area	Gaya / Bihar	Villa / 1 BHK	839	₹24.84 L	Semi-Furnished	1	Family	Sale
+905	Bihar Properties (Bihar.txt)	5 BHK Apartment	Gaya Sector 3	Gaya / Bihar	Apartment / 5 BHK	2591	₹91.53 L	Semi-Furnished	5	Family	Sale
+906	Bihar Properties (Bihar.txt)	4 BHK Apartment	Patna Extension	Patna / Bihar	Apartment / 4 BHK	2021	₹22,200/month	Semi-Furnished	4	Family	Rent
+907	Bihar Properties (Bihar.txt)	3 BHK Builder Floor	Bhagalpur North	Bhagalpur / Bihar	Builder Floor / 3 BHK	1027	₹53.02 L	Fully-Furnished	3	Family	Sale
+908	Bihar Properties (Bihar.txt)	3 BHK Builder Floor	Bhagalpur Extension	Bhagalpur / Bihar	Builder Floor / 3 BHK	1324	₹60.41 L	Unfurnished	3	Any	Sale
+909	Bihar Properties (Bihar.txt)	4 BHK Villa	Patna Central	Patna / Bihar	Villa / 4 BHK	2196	₹62.47 L	Semi-Furnished	3	Any	Sale
+910	Bihar Properties (Bihar.txt)	3 BHK Builder Floor	Bhagalpur Colony	Bhagalpur / Bihar	Builder Floor / 3 BHK	1433	₹48.54 L	Fully-Furnished	4	Family	Sale
+911	Bihar Properties (Bihar.txt)	1 BHK Builder Floor	Bhagalpur Sector 3	Bhagalpur / Bihar	Builder Floor / 1 BHK	580	₹22.90 L	Unfurnished	1	Family	Sale
+912	Bihar Properties (Bihar.txt)	4 BHK Apartment	Gaya Nagar	Gaya / Bihar	Apartment / 4 BHK	1615	₹21,700/month	Semi-Furnished	5	Any	Rent
+913	Bihar Properties (Bihar.txt)	4 BHK Apartment	Muzaffarpur North	Muzaffarpur / Bihar	Apartment / 4 BHK	1425	₹73.46 L	Fully-Furnished	4	Family	Sale
+914	Bihar Properties (Bihar.txt)	3 BHK Apartment	Muzaffarpur Main Road	Muzaffarpur / Bihar	Apartment / 3 BHK	1195	₹53.50 L	Semi-Furnished	2	Bachelors	Sale
+915	Bihar Properties (Bihar.txt)	3 BHK Apartment	Gaya East	Gaya / Bihar	Apartment / 3 BHK	1482	₹15,500/month	Fully-Furnished	4	Any	Rent
+916	Bihar Properties (Bihar.txt)	3 BHK Apartment	Bhagalpur Colony	Bhagalpur / Bihar	Apartment / 3 BHK	1210	₹55.19 L	Fully-Furnished	3	Bachelors	Sale
+917	Bihar Properties (Bihar.txt)	3 BHK Apartment	Muzaffarpur Residential Area	Muzaffarpur / Bihar	Apartment / 3 BHK	1336	₹55.61 L	Fully-Furnished	3	Family	Sale
+918	Bihar Properties (Bihar.txt)	3 BHK Builder Floor	Patna Central	Patna / Bihar	Builder Floor / 3 BHK	1428	₹15,600/month	Unfurnished	3	Family	Rent
+919	Bihar Properties (Bihar.txt)	2 BHK Builder Floor	Patna Sector 3	Patna / Bihar	Builder Floor / 2 BHK	897	₹34.22 L	Unfurnished	2	Any	Sale
+920	Bihar Properties (Bihar.txt)	1 BHK Independent House	Bhagalpur North	Bhagalpur / Bihar	Independent House / 1 BHK	484	₹24.95 L	Semi-Furnished	1	Bachelors	Sale
+921	Bihar Properties (Bihar.txt)	3 BHK Apartment	Gaya North	Gaya / Bihar	Apartment / 3 BHK	1596	₹60.15 L	Semi-Furnished	2	Any	Sale
+922	Bihar Properties (Bihar.txt)	4 BHK Builder Floor	Bhagalpur Nagar	Bhagalpur / Bihar	Builder Floor / 4 BHK	1809	₹22,700/month	Fully-Furnished	4	Any	Rent
+923	Bihar Properties (Bihar.txt)	3 BHK Apartment	Bhagalpur Colony	Bhagalpur / Bihar	Apartment / 3 BHK	1190	₹52.55 L	Fully-Furnished	3	Family	Sale
+924	Bihar Properties (Bihar.txt)	2 BHK Apartment	Gaya Sector 3	Gaya / Bihar	Apartment / 2 BHK	902	₹45.29 L	Semi-Furnished	2	Family	Sale
+925	Bihar Properties (Bihar.txt)	3 BHK Independent House	Gaya Main Road	Gaya / Bihar	Independent House / 3 BHK	1549	₹53.92 L	Semi-Furnished	3	Family	Sale
+926	Bihar Properties (Bihar.txt)	3 BHK Apartment	Muzaffarpur East	Muzaffarpur / Bihar	Apartment / 3 BHK	1162	₹49.44 L	Semi-Furnished	2	Family	Sale
+927	Bihar Properties (Bihar.txt)	1 BHK Apartment	Muzaffarpur Colony	Muzaffarpur / Bihar	Apartment / 1 BHK	659	₹23.48 L	Fully-Furnished	1	Family	Sale
+928	Bihar Properties (Bihar.txt)	2 BHK Builder Floor	Patna Sector 2	Patna / Bihar	Builder Floor / 2 BHK	734	₹44.16 L	Semi-Furnished	2	Family	Sale
+929	Bihar Properties (Bihar.txt)	3 BHK Apartment	Bhagalpur North	Bhagalpur / Bihar	Apartment / 3 BHK	1338	₹58.32 L	Semi-Furnished	2	Bachelors	Sale
+930	Bihar Properties (Bihar.txt)	4 BHK Apartment	Muzaffarpur Nagar	Muzaffarpur / Bihar	Apartment / 4 BHK	2238	₹82.36 L	Fully-Furnished	3	Family	Sale
+931	Bihar Properties (Bihar.txt)	3 BHK Apartment	Gaya Extension	Gaya / Bihar	Apartment / 3 BHK	1272	₹62.22 L	Semi-Furnished	3	Any	Sale
+932	Bihar Properties (Bihar.txt)	5 BHK Apartment	Patna Extension	Patna / Bihar	Apartment / 5 BHK	2366	₹70.82 L	Semi-Furnished	5	Any	Sale
+933	Bihar Properties (Bihar.txt)	2 BHK Apartment	Muzaffarpur Residential Area	Muzaffarpur / Bihar	Apartment / 2 BHK	950	₹13,100/month	Semi-Furnished	3	Family	Rent
+934	Bihar Properties (Bihar.txt)	5 BHK Apartment	Bhagalpur East	Bhagalpur / Bihar	Apartment / 5 BHK	2840	₹21,800/month	Semi-Furnished	4	Bachelors	Rent
+935	Bihar Properties (Bihar.txt)	3 BHK Builder Floor	Bhagalpur Main Road	Bhagalpur / Bihar	Builder Floor / 3 BHK	1545	₹13,100/month	Semi-Furnished	2	Family	Rent
+936	Bihar Properties (Bihar.txt)	3 BHK Villa	Gaya East	Gaya / Bihar	Villa / 3 BHK	1348	₹49.87 L	Semi-Furnished	3	Family	Sale
+937	Bihar Properties (Bihar.txt)	2 BHK Builder Floor	Gaya Colony	Gaya / Bihar	Builder Floor / 2 BHK	778	₹32.05 L	Fully-Furnished	2	Any	Sale
+938	Bihar Properties (Bihar.txt)	5 BHK Apartment	Bhagalpur Sector 1	Bhagalpur / Bihar	Apartment / 5 BHK	2285	₹94.79 L	Fully-Furnished	5	Family	Sale
+939	Bihar Properties (Bihar.txt)	2 BHK Apartment	Muzaffarpur Sector 1	Muzaffarpur / Bihar	Apartment / 2 BHK	856	₹10,000/month	Fully-Furnished	2	Family	Rent
+940	Bihar Properties (Bihar.txt)	1 BHK Independent House	Gaya South	Gaya / Bihar	Independent House / 1 BHK	750	₹7,200/month	Fully-Furnished	1	Any	Rent
+941	Bihar Properties (Bihar.txt)	2 BHK Apartment	Gaya Extension	Gaya / Bihar	Apartment / 2 BHK	629	₹33.10 L	Fully-Furnished	1	Any	Sale
+942	Bihar Properties (Bihar.txt)	1 BHK Apartment	Muzaffarpur Sector 2	Muzaffarpur / Bihar	Apartment / 1 BHK	493	₹8,100/month	Unfurnished	1	Bachelors	Rent
+943	Bihar Properties (Bihar.txt)	2 BHK Independent House	Gaya Town Centre	Gaya / Bihar	Independent House / 2 BHK	903	₹12,400/month	Unfurnished	3	Family	Rent
+944	Bihar Properties (Bihar.txt)	2 BHK Apartment	Muzaffarpur West	Muzaffarpur / Bihar	Apartment / 2 BHK	727	₹44.55 L	Fully-Furnished	2	Bachelors	Sale
+945	Bihar Properties (Bihar.txt)	3 BHK Apartment	Gaya Residential Area	Gaya / Bihar	Apartment / 3 BHK	1463	₹60.60 L	Fully-Furnished	3	Family	Sale
+946	Bihar Properties (Bihar.txt)	3 BHK Independent House	Muzaffarpur Extension	Muzaffarpur / Bihar	Independent House / 3 BHK	1620	₹60.89 L	Unfurnished	2	Family	Sale
+947	Bihar Properties (Bihar.txt)	4 BHK Apartment	Muzaffarpur Extension	Muzaffarpur / Bihar	Apartment / 4 BHK	1827	₹66.10 L	Unfurnished	4	Bachelors	Sale
+948	Bihar Properties (Bihar.txt)	1 BHK Independent House	Gaya North	Gaya / Bihar	Independent House / 1 BHK	795	₹31.72 L	Semi-Furnished	1	Family	Sale
+949	Bihar Properties (Bihar.txt)	3 BHK Apartment	Gaya Heights	Gaya / Bihar	Apartment / 3 BHK	1163	₹43.92 L	Fully-Furnished	3	Family	Sale
+950	Bihar Properties (Bihar.txt)	2 BHK Apartment	Muzaffarpur Extension	Muzaffarpur / Bihar	Apartment / 2 BHK	864	₹44.49 L	Fully-Furnished	2	Any	Sale
+951	Bihar Properties (Bihar.txt)	3 BHK Builder Floor	Gaya East	Gaya / Bihar	Builder Floor / 3 BHK	1300	₹48.92 L	Fully-Furnished	2	Any	Sale
+952	Bihar Properties (Bihar.txt)	1 BHK Builder Floor	Patna Nagar	Patna / Bihar	Builder Floor / 1 BHK	564	₹6,800/month	Semi-Furnished	1	Family	Rent
+953	Bihar Properties (Bihar.txt)	2 BHK Apartment	Muzaffarpur Residential Area	Muzaffarpur / Bihar	Apartment / 2 BHK	822	₹41.74 L	Semi-Furnished	1	Family	Sale
+954	Bihar Properties (Bihar.txt)	2 BHK Apartment	Gaya Central	Gaya / Bihar	Apartment / 2 BHK	683	₹40.08 L	Unfurnished	2	Family	Sale
+955	Bihar Properties (Bihar.txt)	4 BHK Apartment	Muzaffarpur Town Centre	Muzaffarpur / Bihar	Apartment / 4 BHK	1603	₹77.47 L	Fully-Furnished	4	Family	Sale
+956	Bihar Properties (Bihar.txt)	2 BHK Villa	Gaya Sector 3	Gaya / Bihar	Villa / 2 BHK	840	₹38.22 L	Semi-Furnished	2	Family	Sale
+957	Bihar Properties (Bihar.txt)	4 BHK Apartment	Patna East	Patna / Bihar	Apartment / 4 BHK	1928	₹83.17 L	Fully-Furnished	4	Family	Sale
+958	Bihar Properties (Bihar.txt)	5 BHK Builder Floor	Muzaffarpur Nagar	Muzaffarpur / Bihar	Builder Floor / 5 BHK	2262	₹75.12 L	Semi-Furnished	4	Family	Sale
+959	Bihar Properties (Bihar.txt)	3 BHK Apartment	Muzaffarpur Sector 2	Muzaffarpur / Bihar	Apartment / 3 BHK	1313	₹65.05 L	Fully-Furnished	2	Family	Sale
+960	Bihar Properties (Bihar.txt)	3 BHK Builder Floor	Muzaffarpur Nagar	Muzaffarpur / Bihar	Builder Floor / 3 BHK	1376	₹14,400/month	Unfurnished	2	Any	Rent
+961	Bihar Properties (Bihar.txt)	3 BHK Independent House	Bhagalpur Heights	Bhagalpur / Bihar	Independent House / 3 BHK	1446	₹13,800/month	Semi-Furnished	4	Family	Rent
+962	Bihar Properties (Bihar.txt)	2 BHK Builder Floor	Patna North	Patna / Bihar	Builder Floor / 2 BHK	1005	₹42.84 L	Fully-Furnished	2	Bachelors	Sale
+963	Bihar Properties (Bihar.txt)	2 BHK Apartment	Patna North	Patna / Bihar	Apartment / 2 BHK	974	₹12,400/month	Unfurnished	2	Any	Rent
+964	Bihar Properties (Bihar.txt)	2 BHK Builder Floor	Bhagalpur Nagar	Bhagalpur / Bihar	Builder Floor / 2 BHK	743	₹12,300/month	Fully-Furnished	3	Bachelors	Rent
+965	Bihar Properties (Bihar.txt)	1 BHK Apartment	Gaya Sector 2	Gaya / Bihar	Apartment / 1 BHK	574	₹6,000/month	Fully-Furnished	1	Family	Rent
+966	Bihar Properties (Bihar.txt)	2 BHK Independent House	Bhagalpur Town Centre	Bhagalpur / Bihar	Independent House / 2 BHK	1092	₹36.66 L	Semi-Furnished	2	Family	Sale
+967	Bihar Properties (Bihar.txt)	3 BHK Independent House	Bhagalpur Sector 2	Bhagalpur / Bihar	Independent House / 3 BHK	1367	₹45.95 L	Semi-Furnished	3	Family	Sale
+968	Bihar Properties (Bihar.txt)	1 BHK Studio	Muzaffarpur Sector 3	Muzaffarpur / Bihar	Studio / 1 BHK	300	₹7,100/month	Semi-Furnished	1	Bachelors	Rent
+969	Bihar Properties (Bihar.txt)	1 BHK Apartment	Bhagalpur East	Bhagalpur / Bihar	Apartment / 1 BHK	622	₹22.34 L	Fully-Furnished	1	Family	Sale
+970	Bihar Properties (Bihar.txt)	2 BHK Villa	Bhagalpur East	Bhagalpur / Bihar	Villa / 2 BHK	1333	₹46.34 L	Semi-Furnished	3	Family	Sale
+971	Bihar Properties (Bihar.txt)	4 BHK Apartment	Patna East	Patna / Bihar	Apartment / 4 BHK	1859	₹19,400/month	Fully-Furnished	5	Any	Rent
+972	Bihar Properties (Bihar.txt)	2 BHK Builder Floor	Muzaffarpur North	Muzaffarpur / Bihar	Builder Floor / 2 BHK	928	₹11,300/month	Fully-Furnished	3	Bachelors	Rent
+973	Bihar Properties (Bihar.txt)	4 BHK Apartment	Patna Central	Patna / Bihar	Apartment / 4 BHK	1838	₹81.33 L	Semi-Furnished	4	Any	Sale
+974	Bihar Properties (Bihar.txt)	2 BHK Villa	Patna North	Patna / Bihar	Villa / 2 BHK	1140	₹36.39 L	Fully-Furnished	2	Family	Sale
+975	Bihar Properties (Bihar.txt)	3 BHK Independent House	Gaya Sector 3	Gaya / Bihar	Independent House / 3 BHK	1882	₹15,800/month	Unfurnished	2	Bachelors	Rent
+976	Bihar Properties (Bihar.txt)	2 BHK Apartment	Muzaffarpur Main Road	Muzaffarpur / Bihar	Apartment / 2 BHK	774	₹43.27 L	Semi-Furnished	1	Family	Sale
+977	Bihar Properties (Bihar.txt)	2 BHK Apartment	Patna Colony	Patna / Bihar	Apartment / 2 BHK	952	₹9,600/month	Fully-Furnished	1	Any	Rent
+978	Bihar Properties (Bihar.txt)	2 BHK Apartment	Patna South	Patna / Bihar	Apartment / 2 BHK	900	₹47.21 L	Semi-Furnished	3	Bachelors	Sale
+979	Bihar Properties (Bihar.txt)	2 BHK Independent House	Gaya Colony	Gaya / Bihar	Independent House / 2 BHK	1121	₹34.90 L	Semi-Furnished	2	Family	Sale
+980	Bihar Properties (Bihar.txt)	2 BHK Apartment	Patna Main Road	Patna / Bihar	Apartment / 2 BHK	877	₹39.80 L	Semi-Furnished	1	Any	Sale
+981	Bihar Properties (Bihar.txt)	2 BHK Builder Floor	Bhagalpur Residential Area	Bhagalpur / Bihar	Builder Floor / 2 BHK	785	₹39.21 L	Fully-Furnished	1	Any	Sale
+982	Bihar Properties (Bihar.txt)	2 BHK Apartment	Muzaffarpur Sector 2	Muzaffarpur / Bihar	Apartment / 2 BHK	974	₹38.06 L	Semi-Furnished	1	Bachelors	Sale
+983	Bihar Properties (Bihar.txt)	2 BHK Apartment	Bhagalpur Colony	Bhagalpur / Bihar	Apartment / 2 BHK	836	₹10,800/month	Unfurnished	2	Family	Rent
+984	Bihar Properties (Bihar.txt)	4 BHK Builder Floor	Gaya Sector 1	Gaya / Bihar	Builder Floor / 4 BHK	1763	₹70.88 L	Semi-Furnished	4	Family	Sale
+985	Bihar Properties (Bihar.txt)	1 BHK Studio	Patna Sector 3	Patna / Bihar	Studio / 1 BHK	321	₹6,900/month	Semi-Furnished	1	Any	Rent
+986	Bihar Properties (Bihar.txt)	3 BHK Villa	Muzaffarpur Main Road	Muzaffarpur / Bihar	Villa / 3 BHK	1862	₹71.46 L	Fully-Furnished	3	Bachelors	Sale
+987	Bihar Properties (Bihar.txt)	5 BHK Apartment	Patna East	Patna / Bihar	Apartment / 5 BHK	2964	₹1.04 Cr	Unfurnished	5	Family	Sale
+988	Bihar Properties (Bihar.txt)	3 BHK Apartment	Patna Town Centre	Patna / Bihar	Apartment / 3 BHK	1484	₹60.58 L	Unfurnished	4	Bachelors	Sale
+989	Bihar Properties (Bihar.txt)	3 BHK Apartment	Patna Main Road	Patna / Bihar	Apartment / 3 BHK	1250	₹60.16 L	Fully-Furnished	3	Any	Sale
+990	Bihar Properties (Bihar.txt)	2 BHK Apartment	Muzaffarpur Heights	Muzaffarpur / Bihar	Apartment / 2 BHK	827	₹9,700/month	Semi-Furnished	1	Family	Rent
+991	Bihar Properties (Bihar.txt)	2 BHK Builder Floor	Patna West	Patna / Bihar	Builder Floor / 2 BHK	684	₹8,900/month	Unfurnished	1	Family	Rent
+992	Bihar Properties (Bihar.txt)	3 BHK Apartment	Patna Heights	Patna / Bihar	Apartment / 3 BHK	1196	₹51.24 L	Fully-Furnished	3	Family	Sale
+993	Bihar Properties (Bihar.txt)	2 BHK Villa	Bhagalpur West	Bhagalpur / Bihar	Villa / 2 BHK	1115	₹46.45 L	Unfurnished	1	Family	Sale
+994	Bihar Properties (Bihar.txt)	2 BHK Apartment	Patna Sector 1	Patna / Bihar	Apartment / 2 BHK	679	₹44.08 L	Unfurnished	3	Any	Sale
+995	Bihar Properties (Bihar.txt)	2 BHK Villa	Gaya South	Gaya / Bihar	Villa / 2 BHK	1087	₹44.34 L	Unfurnished	2	Bachelors	Sale
+996	Bihar Properties (Bihar.txt)	4 BHK Builder Floor	Gaya Sector 3	Gaya / Bihar	Builder Floor / 4 BHK	1942	₹68.03 L	Semi-Furnished	4	Bachelors	Sale
+997	Bihar Properties (Bihar.txt)	3 BHK Builder Floor	Bhagalpur Main Road	Bhagalpur / Bihar	Builder Floor / 3 BHK	1524	₹47.86 L	Semi-Furnished	3	Any	Sale
+998	Bihar Properties (Bihar.txt)	2 BHK Apartment	Bhagalpur Colony	Bhagalpur / Bihar	Apartment / 2 BHK	888	₹44.11 L	Unfurnished	2	Any	Sale
+999	Bihar Properties (Bihar.txt)	2 BHK Apartment	Patna Town Centre	Patna / Bihar	Apartment / 2 BHK	715	₹10,900/month	Semi-Furnished	1	Family	Rent
+1000	Bihar Properties (Bihar.txt)	4 BHK Independent House	Patna Sector 3	Patna / Bihar	Independent House / 4 BHK	1887	₹16,600/month	Unfurnished	5	Family	Rent
+1001	Bihar Properties (Bihar.txt)	2 BHK Apartment	Bhagalpur East	Bhagalpur / Bihar	Apartment / 2 BHK	873	₹42.50 L	Unfurnished	2	Any	Sale
+1002	Bihar Properties (Bihar.txt)	2 BHK Apartment	Gaya Sector 3	Gaya / Bihar	Apartment / 2 BHK	856	₹42.41 L	Semi-Furnished	2	Any	Sale
+1003	Bihar Properties (Bihar.txt)	3 BHK Apartment	Muzaffarpur Extension	Muzaffarpur / Bihar	Apartment / 3 BHK	1688	₹13,100/month	Semi-Furnished	3	Any	Rent
+1004	Bihar Properties (Bihar.txt)	2 BHK Apartment	Gaya Sector 1	Gaya / Bihar	Apartment / 2 BHK	866	₹10,800/month	Unfurnished	2	Family	Rent
+1005	Bihar Properties (Bihar.txt)	2 BHK Apartment	Bhagalpur Town Centre	Bhagalpur / Bihar	Apartment / 2 BHK	776	₹31.51 L	Fully-Furnished	2	Bachelors	Sale
+1006	Bihar Properties (Bihar.txt)	2 BHK Apartment	Patna Central	Patna / Bihar	Apartment / 2 BHK	875	₹40.98 L	Fully-Furnished	3	Family	Sale
+1007	Bihar Properties (Bihar.txt)	1 BHK Apartment	Gaya Main Road	Gaya / Bihar	Apartment / 1 BHK	506	₹26.42 L	Fully-Furnished	1	Any	Sale
+1008	Bihar Properties (Bihar.txt)	1 BHK Builder Floor	Patna South	Patna / Bihar	Builder Floor / 1 BHK	457	₹7,100/month	Unfurnished	1	Bachelors	Rent
+1009	Bihar Properties (Bihar.txt)	3 BHK Independent House	Gaya North	Gaya / Bihar	Independent House / 3 BHK	1696	₹16,000/month	Unfurnished	3	Bachelors	Rent
+1010	Bihar Properties (Bihar.txt)	2 BHK Builder Floor	Patna Town Centre	Patna / Bihar	Builder Floor / 2 BHK	631	₹36.22 L	Fully-Furnished	3	Family	Sale
+1011	Bihar Properties (Bihar.txt)	3 BHK Apartment	Bhagalpur North	Bhagalpur / Bihar	Apartment / 3 BHK	1075	₹54.51 L	Unfurnished	3	Family	Sale
+1012	Bihar Properties (Bihar.txt)	1 BHK Apartment	Patna Sector 3	Patna / Bihar	Apartment / 1 BHK	566	₹6,400/month	Semi-Furnished	1	Family	Rent
+1013	Bihar Properties (Bihar.txt)	4 BHK Independent House	Muzaffarpur Extension	Muzaffarpur / Bihar	Independent House / 4 BHK	1819	₹57.64 L	Unfurnished	5	Family	Sale
+1014	Bihar Properties (Bihar.txt)	4 BHK Apartment	Muzaffarpur Town Centre	Muzaffarpur / Bihar	Apartment / 4 BHK	1986	₹61.37 L	Fully-Furnished	3	Family	Sale
+1015	Bihar Properties (Bihar.txt)	3 BHK Apartment	Muzaffarpur East	Muzaffarpur / Bihar	Apartment / 3 BHK	1152	₹50.26 L	Unfurnished	4	Any	Sale
+1016	Bihar Properties (Bihar.txt)	2 BHK Builder Floor	Gaya Residential Area	Gaya / Bihar	Builder Floor / 2 BHK	792	₹11,600/month	Unfurnished	2	Any	Rent
+1017	Bihar Properties (Bihar.txt)	1 BHK Apartment	Patna Nagar	Patna / Bihar	Apartment / 1 BHK	473	₹22.85 L	Semi-Furnished	1	Family	Sale
+1018	Bihar Properties (Bihar.txt)	5 BHK Independent House	Patna Nagar	Patna / Bihar	Independent House / 5 BHK	2381	₹1.05 Cr	Semi-Furnished	4	Family	Sale
+1019	Bihar Properties (Bihar.txt)	3 BHK Apartment	Bhagalpur Main Road	Bhagalpur / Bihar	Apartment / 3 BHK	1359	₹55.84 L	Fully-Furnished	3	Family	Sale
+1020	Bihar Properties (Bihar.txt)	3 BHK Independent House	Bhagalpur North	Bhagalpur / Bihar	Independent House / 3 BHK	1635	₹64.56 L	Fully-Furnished	3	Any	Sale
+1021	Bihar Properties (Bihar.txt)	5 BHK Apartment	Bhagalpur Sector 2	Bhagalpur / Bihar	Apartment / 5 BHK	2306	₹91.67 L	Semi-Furnished	5	Bachelors	Sale
+1022	Bihar Properties (Bihar.txt)	3 BHK Apartment	Gaya Extension	Gaya / Bihar	Apartment / 3 BHK	1270	₹55.11 L	Fully-Furnished	3	Family	Sale
+1023	Bihar Properties (Bihar.txt)	2 BHK Apartment	Gaya Town Centre	Gaya / Bihar	Apartment / 2 BHK	935	₹44.37 L	Semi-Furnished	2	Any	Sale
+1024	Bihar Properties (Bihar.txt)	2 BHK Apartment	Muzaffarpur Sector 2	Muzaffarpur / Bihar	Apartment / 2 BHK	642	₹9,700/month	Semi-Furnished	2	Any	Rent
+1025	Bihar Properties (Bihar.txt)	2 BHK Villa	Patna Sector 3	Patna / Bihar	Villa / 2 BHK	1224	₹40.05 L	Semi-Furnished	2	Family	Sale
+1026	Bihar Properties (Bihar.txt)	3 BHK Apartment	Bhagalpur Central	Bhagalpur / Bihar	Apartment / 3 BHK	1539	₹47.73 L	Unfurnished	4	Bachelors	Sale
+1027	Bihar Properties (Bihar.txt)	3 BHK Independent House	Bhagalpur Town Centre	Bhagalpur / Bihar	Independent House / 3 BHK	1313	₹48.82 L	Unfurnished	3	Family	Sale
+1028	Bihar Properties (Bihar.txt)	2 BHK Apartment	Gaya Town Centre	Gaya / Bihar	Apartment / 2 BHK	910	₹12,700/month	Unfurnished	2	Family	Rent
+1029	Bihar Properties (Bihar.txt)	1 BHK Builder Floor	Gaya South	Gaya / Bihar	Builder Floor / 1 BHK	580	₹27.77 L	Unfurnished	2	Family	Sale
+1030	Bihar Properties (Bihar.txt)	2 BHK Apartment	Muzaffarpur West	Muzaffarpur / Bihar	Apartment / 2 BHK	1113	₹36.23 L	Fully-Furnished	1	Any	Sale
+1031	Bihar Properties (Bihar.txt)	2 BHK Apartment	Gaya West	Gaya / Bihar	Apartment / 2 BHK	1066	₹13,400/month	Semi-Furnished	2	Family	Rent
+1032	Bihar Properties (Bihar.txt)	4 BHK Apartment	Bhagalpur Central	Bhagalpur / Bihar	Apartment / 4 BHK	2029	₹86.90 L	Semi-Furnished	4	Any	Sale
+1033	Bihar Properties (Bihar.txt)	1 BHK Independent House	Patna Town Centre	Patna / Bihar	Independent House / 1 BHK	673	₹31.64 L	Fully-Furnished	1	Family	Sale
+1034	Bihar Properties (Bihar.txt)	3 BHK Independent House	Gaya Heights	Gaya / Bihar	Independent House / 3 BHK	1823	₹62.78 L	Semi-Furnished	3	Bachelors	Sale
+1035	Bihar Properties (Bihar.txt)	4 BHK Independent House	Gaya Residential Area	Gaya / Bihar	Independent House / 4 BHK	1942	₹22,900/month	Semi-Furnished	5	Bachelors	Rent
+1036	Bihar Properties (Bihar.txt)	2 BHK Builder Floor	Patna Heights	Patna / Bihar	Builder Floor / 2 BHK	803	₹10,700/month	Unfurnished	2	Family	Rent
+1037	Bihar Properties (Bihar.txt)	3 BHK Villa	Bhagalpur Sector 3	Bhagalpur / Bihar	Villa / 3 BHK	1652	₹61.83 L	Unfurnished	3	Family	Sale
+1038	Bihar Properties (Bihar.txt)	1 BHK Apartment	Bhagalpur East	Bhagalpur / Bihar	Apartment / 1 BHK	413	₹23.42 L	Unfurnished	1	Family	Sale
+1039	Bihar Properties (Bihar.txt)	2 BHK Apartment	Gaya Main Road	Gaya / Bihar	Apartment / 2 BHK	638	₹43.55 L	Semi-Furnished	2	Any	Sale
+1040	Bihar Properties (Bihar.txt)	3 BHK Apartment	Patna Town Centre	Patna / Bihar	Apartment / 3 BHK	1193	₹45.19 L	Unfurnished	3	Family	Sale
+1041	Bihar Properties (Bihar.txt)	3 BHK Apartment	Bhagalpur Residential Area	Bhagalpur / Bihar	Apartment / 3 BHK	1348	₹12,500/month	Semi-Furnished	3	Any	Rent
+1042	Bihar Properties (Bihar.txt)	2 BHK Independent House	Muzaffarpur Town Centre	Muzaffarpur / Bihar	Independent House / 2 BHK	1212	₹38.74 L	Unfurnished	3	Any	Sale
+1043	Bihar Properties (Bihar.txt)	3 BHK Apartment	Bhagalpur West	Bhagalpur / Bihar	Apartment / 3 BHK	1479	₹16,700/month	Semi-Furnished	2	Family	Rent
+1044	Bihar Properties (Bihar.txt)	3 BHK Apartment	Bhagalpur West	Bhagalpur / Bihar	Apartment / 3 BHK	1209	₹48.71 L	Semi-Furnished	3	Any	Sale
+1045	Bihar Properties (Bihar.txt)	2 BHK Apartment	Muzaffarpur Colony	Muzaffarpur / Bihar	Apartment / 2 BHK	756	₹10,400/month	Semi-Furnished	1	Family	Rent
+1046	Bihar Properties (Bihar.txt)	2 BHK Villa	Gaya South	Gaya / Bihar	Villa / 2 BHK	1155	₹38.95 L	Unfurnished	2	Family	Sale
+1047	Bihar Properties (Bihar.txt)	3 BHK Apartment	Muzaffarpur Town Centre	Muzaffarpur / Bihar	Apartment / 3 BHK	1062	₹60.30 L	Semi-Furnished	3	Family	Sale
+1048	Bihar Properties (Bihar.txt)	2 BHK Apartment	Bhagalpur Colony	Bhagalpur / Bihar	Apartment / 2 BHK	683	₹37.23 L	Fully-Furnished	2	Bachelors	Sale
+1049	Bihar Properties (Bihar.txt)	3 BHK Apartment	Patna Colony	Patna / Bihar	Apartment / 3 BHK	1226	₹17,600/month	Fully-Furnished	3	Any	Rent
+1050	Bihar Properties (Bihar.txt)	3 BHK Independent House	Patna Heights	Patna / Bihar	Independent House / 3 BHK	1532	₹48.49 L	Unfurnished	2	Any	Sale
+1051	Bihar Properties (Bihar.txt)	2 BHK Apartment	Gaya Colony	Gaya / Bihar	Apartment / 2 BHK	789	₹9,400/month	Fully-Furnished	3	Bachelors	Rent
+1052	Bihar Properties (Bihar.txt)	2 BHK Apartment	Muzaffarpur West	Muzaffarpur / Bihar	Apartment / 2 BHK	872	₹10,600/month	Semi-Furnished	2	Family	Rent
+1053	Bihar Properties (Bihar.txt)	3 BHK Apartment	Patna Sector 2	Patna / Bihar	Apartment / 3 BHK	1297	₹65.62 L	Semi-Furnished	3	Any	Sale
+1054	Bihar Properties (Bihar.txt)	2 BHK Villa	Bhagalpur West	Bhagalpur / Bihar	Villa / 2 BHK	1418	₹12,300/month	Unfurnished	3	Family	Rent
+1055	Bihar Properties (Bihar.txt)	2 BHK Builder Floor	Bhagalpur Main Road	Bhagalpur / Bihar	Builder Floor / 2 BHK	1003	₹46.93 L	Fully-Furnished	2	Bachelors	Sale
+1056	Bihar Properties (Bihar.txt)	1 BHK Apartment	Gaya South	Gaya / Bihar	Apartment / 1 BHK	490	₹25.94 L	Unfurnished	1	Family	Sale
+1057	Bihar Properties (Bihar.txt)	3 BHK Villa	Patna Sector 1	Patna / Bihar	Villa / 3 BHK	1730	₹67.61 L	Fully-Furnished	3	Any	Sale
+1058	Bihar Properties (Bihar.txt)	3 BHK Builder Floor	Muzaffarpur Colony	Muzaffarpur / Bihar	Builder Floor / 3 BHK	1347	₹12,500/month	Semi-Furnished	2	Family	Rent
+1059	Bihar Properties (Bihar.txt)	3 BHK Apartment	Gaya Residential Area	Gaya / Bihar	Apartment / 3 BHK	1300	₹46.26 L	Unfurnished	3	Family	Sale
+1060	Bihar Properties (Bihar.txt)	2 BHK Villa	Gaya South	Gaya / Bihar	Villa / 2 BHK	1058	₹46.52 L	Semi-Furnished	1	Bachelors	Sale
+1061	Bihar Properties (Bihar.txt)	1 BHK Builder Floor	Bhagalpur Sector 2	Bhagalpur / Bihar	Builder Floor / 1 BHK	595	₹24.41 L	Fully-Furnished	1	Any	Sale
+1062	Bihar Properties (Bihar.txt)	2 BHK Villa	Muzaffarpur Town Centre	Muzaffarpur / Bihar	Villa / 2 BHK	1016	₹10,700/month	Fully-Furnished	3	Any	Rent
+1063	Bihar Properties (Bihar.txt)	2 BHK Independent House	Gaya Heights	Gaya / Bihar	Independent House / 2 BHK	935	₹42.19 L	Unfurnished	2	Any	Sale
+1064	Bihar Properties (Bihar.txt)	4 BHK Apartment	Bhagalpur Heights	Bhagalpur / Bihar	Apartment / 4 BHK	1525	₹21,600/month	Fully-Furnished	4	Family	Rent
+1065	Bihar Properties (Bihar.txt)	2 BHK Apartment	Gaya Main Road	Gaya / Bihar	Apartment / 2 BHK	829	₹32.65 L	Fully-Furnished	2	Family	Sale
+1066	Bihar Properties (Bihar.txt)	1 BHK Independent House	Bhagalpur Sector 1	Bhagalpur / Bihar	Independent House / 1 BHK	644	₹23.35 L	Semi-Furnished	1	Family	Sale
+1067	Bihar Properties (Bihar.txt)	2 BHK Apartment	Gaya Sector 1	Gaya / Bihar	Apartment / 2 BHK	913	₹40.45 L	Semi-Furnished	2	Family	Sale
+1068	Bihar Properties (Bihar.txt)	3 BHK Independent House	Gaya Heights	Gaya / Bihar	Independent House / 3 BHK	1077	₹16,600/month	Fully-Furnished	2	Bachelors	Rent
+1069	Bihar Properties (Bihar.txt)	1 BHK Studio	Bhagalpur North	Bhagalpur / Bihar	Studio / 1 BHK	398	₹23.69 L	Fully-Furnished	1	Any	Sale
+1070	Bihar Properties (Bihar.txt)	1 BHK Studio	Muzaffarpur North	Muzaffarpur / Bihar	Studio / 1 BHK	361	₹20.17 L	Fully-Furnished	1	Any	Sale
+1071	Bihar Properties (Bihar.txt)	3 BHK Builder Floor	Bhagalpur Main Road	Bhagalpur / Bihar	Builder Floor / 3 BHK	1414	₹12,600/month	Fully-Furnished	4	Bachelors	Rent
+1072	Bihar Properties (Bihar.txt)	2 BHK Apartment	Gaya East	Gaya / Bihar	Apartment / 2 BHK	1098	₹13,100/month	Semi-Furnished	3	Bachelors	Rent
+1073	Bihar Properties (Bihar.txt)	1 BHK Apartment	Bhagalpur Main Road	Bhagalpur / Bihar	Apartment / 1 BHK	549	₹7,400/month	Unfurnished	1	Any	Rent
+1074	Bihar Properties (Bihar.txt)	2 BHK Independent House	Bhagalpur Extension	Bhagalpur / Bihar	Independent House / 2 BHK	976	₹41.07 L	Semi-Furnished	2	Any	Sale
+1075	Bihar Properties (Bihar.txt)	2 BHK Apartment	Patna Sector 1	Patna / Bihar	Apartment / 2 BHK	930	₹36.69 L	Unfurnished	2	Family	Sale
+1076	Bihar Properties (Bihar.txt)	2 BHK Apartment	Muzaffarpur North	Muzaffarpur / Bihar	Apartment / 2 BHK	1034	₹40.96 L	Semi-Furnished	1	Family	Sale
+1077	Bihar Properties (Bihar.txt)	2 BHK Builder Floor	Bhagalpur Sector 3	Bhagalpur / Bihar	Builder Floor / 2 BHK	732	₹11,900/month	Semi-Furnished	2	Bachelors	Rent
+1078	Bihar Properties (Bihar.txt)	2 BHK Builder Floor	Muzaffarpur East	Muzaffarpur / Bihar	Builder Floor / 2 BHK	735	₹35.41 L	Semi-Furnished	1	Family	Sale
+1079	Bihar Properties (Bihar.txt)	4 BHK Apartment	Patna West	Patna / Bihar	Apartment / 4 BHK	1673	₹18,700/month	Fully-Furnished	4	Any	Rent
+1080	Bihar Properties (Bihar.txt)	2 BHK Builder Floor	Patna Colony	Patna / Bihar	Builder Floor / 2 BHK	939	₹11,000/month	Unfurnished	2	Family	Rent
+1081	Bihar Properties (Bihar.txt)	1 BHK Independent House	Gaya Colony	Gaya / Bihar	Independent House / 1 BHK	589	₹6,200/month	Semi-Furnished	1	Bachelors	Rent
+1082	Bihar Properties (Bihar.txt)	1 BHK Apartment	Muzaffarpur Heights	Muzaffarpur / Bihar	Apartment / 1 BHK	463	₹24.29 L	Semi-Furnished	1	Bachelors	Sale
+1083	Bihar Properties (Bihar.txt)	4 BHK Apartment	Patna Sector 1	Patna / Bihar	Apartment / 4 BHK	1801	₹21,000/month	Semi-Furnished	4	Family	Rent
+1084	Bihar Properties (Bihar.txt)	2 BHK Apartment	Muzaffarpur Main Road	Muzaffarpur / Bihar	Apartment / 2 BHK	696	₹35.49 L	Unfurnished	2	Any	Sale
+1085	Bihar Properties (Bihar.txt)	3 BHK Apartment	Bhagalpur South	Bhagalpur / Bihar	Apartment / 3 BHK	1420	₹66.90 L	Unfurnished	3	Bachelors	Sale
+1086	Bihar Properties (Bihar.txt)	2 BHK Apartment	Bhagalpur East	Bhagalpur / Bihar	Apartment / 2 BHK	917	₹45 L	Unfurnished	2	Any	Sale
+1087	Bihar Properties (Bihar.txt)	5 BHK Apartment	Muzaffarpur Extension	Muzaffarpur / Bihar	Apartment / 5 BHK	2103	₹73.01 L	Unfurnished	4	Any	Sale
+1088	Bihar Properties (Bihar.txt)	2 BHK Builder Floor	Muzaffarpur West	Muzaffarpur / Bihar	Builder Floor / 2 BHK	799	₹34.19 L	Unfurnished	2	Family	Sale
+1089	Bihar Properties (Bihar.txt)	4 BHK Independent House	Bhagalpur East	Bhagalpur / Bihar	Independent House / 4 BHK	2060	₹19,300/month	Semi-Furnished	5	Family	Rent
+1090	Bihar Properties (Bihar.txt)	3 BHK Apartment	Gaya Sector 2	Gaya / Bihar	Apartment / 3 BHK	1187	₹52.79 L	Semi-Furnished	3	Family	Sale
+1091	Bihar Properties (Bihar.txt)	1 BHK Builder Floor	Muzaffarpur Colony	Muzaffarpur / Bihar	Builder Floor / 1 BHK	520	₹28.32 L	Semi-Furnished	1	Family	Sale
+1092	Bihar Properties (Bihar.txt)	3 BHK Apartment	Patna Colony	Patna / Bihar	Apartment / 3 BHK	971	₹14,400/month	Fully-Furnished	2	Any	Rent
+1093	Bihar Properties (Bihar.txt)	3 BHK Independent House	Bhagalpur Central	Bhagalpur / Bihar	Independent House / 3 BHK	1528	₹47.74 L	Semi-Furnished	3	Family	Sale
+1094	Bihar Properties (Bihar.txt)	2 BHK Independent House	Gaya West	Gaya / Bihar	Independent House / 2 BHK	1078	₹37.90 L	Semi-Furnished	2	Bachelors	Sale
+1095	Bihar Properties (Bihar.txt)	4 BHK Apartment	Bhagalpur North	Bhagalpur / Bihar	Apartment / 4 BHK	1679	₹70.09 L	Fully-Furnished	3	Family	Sale
+1096	Bihar Properties (Bihar.txt)	3 BHK Villa	Muzaffarpur East	Muzaffarpur / Bihar	Villa / 3 BHK	1824	₹14,300/month	Fully-Furnished	4	Family	Rent
+1097	Bihar Properties (Bihar.txt)	2 BHK Villa	Gaya Main Road	Gaya / Bihar	Villa / 2 BHK	1064	₹9,500/month	Unfurnished	2	Bachelors	Rent
+1098	Bihar Properties (Bihar.txt)	4 BHK Builder Floor	Gaya Nagar	Gaya / Bihar	Builder Floor / 4 BHK	1935	₹81.91 L	Unfurnished	3	Family	Sale
+1099	Bihar Properties (Bihar.txt)	2 BHK Apartment	Gaya Sector 2	Gaya / Bihar	Apartment / 2 BHK	812	₹44.69 L	Unfurnished	3	Any	Sale
+1100	Bihar Properties (Bihar.txt)	4 BHK Apartment	Muzaffarpur Sector 1	Muzaffarpur / Bihar	Apartment / 4 BHK	1971	₹21,400/month	Fully-Furnished	4	Any	Rent
+1101	Bihar Properties (Bihar.txt)	1 BHK Villa	Bhagalpur Central	Bhagalpur / Bihar	Villa / 1 BHK	690	₹26.93 L	Unfurnished	2	Family	Sale
+1102	Bihar Properties (Bihar.txt)	4 BHK Apartment	Patna Central	Patna / Bihar	Apartment / 4 BHK	1796	₹22,200/month	Fully-Furnished	5	Any	Rent
+1103	Bihar Properties (Bihar.txt)	2 BHK Villa	Muzaffarpur Nagar	Muzaffarpur / Bihar	Villa / 2 BHK	1566	₹12,100/month	Unfurnished	3	Bachelors	Rent
+1104	Bihar Properties (Bihar.txt)	3 BHK Apartment	Muzaffarpur Town Centre	Muzaffarpur / Bihar	Apartment / 3 BHK	1047	₹16,500/month	Semi-Furnished	4	Any	Rent
+1105	Bihar Properties (Bihar.txt)	2 BHK Apartment	Muzaffarpur East	Muzaffarpur / Bihar	Apartment / 2 BHK	834	₹9,100/month	Unfurnished	2	Family	Rent
+1106	Bihar Properties (Bihar.txt)	2 BHK Independent House	Patna East	Patna / Bihar	Independent House / 2 BHK	988	₹10,100/month	Fully-Furnished	1	Any	Rent
+1107	Bihar Properties (Bihar.txt)	4 BHK Builder Floor	Patna South	Patna / Bihar	Builder Floor / 4 BHK	1910	₹74.56 L	Fully-Furnished	4	Family	Sale
+1108	Bihar Properties (Bihar.txt)	3 BHK Apartment	Muzaffarpur Sector 3	Muzaffarpur / Bihar	Apartment / 3 BHK	1254	₹46.93 L	Semi-Furnished	3	Family	Sale
+1109	Bihar Properties (Bihar.txt)	4 BHK Apartment	Muzaffarpur East	Muzaffarpur / Bihar	Apartment / 4 BHK	2110	₹74.66 L	Unfurnished	4	Family	Sale
+1110	Bihar Properties (Bihar.txt)	2 BHK Apartment	Gaya Extension	Gaya / Bihar	Apartment / 2 BHK	1058	₹44.31 L	Semi-Furnished	2	Family	Sale
+1111	Bihar Properties (Bihar.txt)	3 BHK Independent House	Bhagalpur Nagar	Bhagalpur / Bihar	Independent House / 3 BHK	1542	₹62.22 L	Unfurnished	3	Family	Sale
+1112	Bihar Properties (Bihar.txt)	4 BHK Apartment	Patna Central	Patna / Bihar	Apartment / 4 BHK	1873	₹68.97 L	Unfurnished	5	Family	Sale
+1113	Bihar Properties (Bihar.txt)	3 BHK Builder Floor	Gaya North	Gaya / Bihar	Builder Floor / 3 BHK	1197	₹17,300/month	Unfurnished	2	Bachelors	Rent
+1114	Bihar Properties (Bihar.txt)	3 BHK Apartment	Gaya Extension	Gaya / Bihar	Apartment / 3 BHK	1248	₹63.74 L	Semi-Furnished	2	Any	Sale
+1115	Bihar Properties (Bihar.txt)	4 BHK Apartment	Bhagalpur Main Road	Bhagalpur / Bihar	Apartment / 4 BHK	1418	₹71.50 L	Fully-Furnished	4	Bachelors	Sale
+1116	Bihar Properties (Bihar.txt)	1 BHK Apartment	Patna West	Patna / Bihar	Apartment / 1 BHK	468	₹25.99 L	Semi-Furnished	1	Family	Sale
+1117	Bihar Properties (Bihar.txt)	3 BHK Builder Floor	Gaya Town Centre	Gaya / Bihar	Builder Floor / 3 BHK	1381	₹12,200/month	Fully-Furnished	4	Any	Rent
+1118	Bihar Properties (Bihar.txt)	3 BHK Independent House	Patna South	Patna / Bihar	Independent House / 3 BHK	1196	₹13,500/month	Unfurnished	3	Any	Rent
+1119	Bihar Properties (Bihar.txt)	4 BHK Apartment	Gaya West	Gaya / Bihar	Apartment / 4 BHK	1555	₹77.60 L	Semi-Furnished	4	Any	Sale
+1120	Bihar Properties (Bihar.txt)	2 BHK Apartment	Gaya North	Gaya / Bihar	Apartment / 2 BHK	709	₹11,000/month	Semi-Furnished	3	Family	Rent
+1121	Bihar Properties (Bihar.txt)	2 BHK Independent House	Muzaffarpur Extension	Muzaffarpur / Bihar	Independent House / 2 BHK	1204	₹42.53 L	Semi-Furnished	2	Family	Sale
+1122	Bihar Properties (Bihar.txt)	2 BHK Independent House	Muzaffarpur North	Muzaffarpur / Bihar	Independent House / 2 BHK	1111	₹44.87 L	Unfurnished	2	Any	Sale
+1123	Bihar Properties (Bihar.txt)	4 BHK Apartment	Patna Sector 2	Patna / Bihar	Apartment / 4 BHK	1576	₹73.39 L	Unfurnished	3	Bachelors	Sale
+1124	Bihar Properties (Bihar.txt)	1 BHK Studio	Bhagalpur Sector 2	Bhagalpur / Bihar	Studio / 1 BHK	424	₹27.66 L	Semi-Furnished	1	Bachelors	Sale
+1125	Bihar Properties (Bihar.txt)	4 BHK Villa	Patna North	Patna / Bihar	Villa / 4 BHK	2287	₹23,500/month	Unfurnished	3	Any	Rent
+1126	Bihar Properties (Bihar.txt)	4 BHK Apartment	Bhagalpur East	Bhagalpur / Bihar	Apartment / 4 BHK	1752	₹78.74 L	Fully-Furnished	5	Any	Sale
+1127	Bihar Properties (Bihar.txt)	3 BHK Apartment	Bhagalpur Main Road	Bhagalpur / Bihar	Apartment / 3 BHK	1475	₹52.56 L	Semi-Furnished	3	Family	Sale
+1128	Bihar Properties (Bihar.txt)	3 BHK Builder Floor	Patna South	Patna / Bihar	Builder Floor / 3 BHK	1165	₹49.67 L	Unfurnished	2	Family	Sale
+1129	Bihar Properties (Bihar.txt)	2 BHK Apartment	Bhagalpur West	Bhagalpur / Bihar	Apartment / 2 BHK	863	₹41.30 L	Unfurnished	2	Family	Sale
+1130	Bihar Properties (Bihar.txt)	3 BHK Apartment	Muzaffarpur Heights	Muzaffarpur / Bihar	Apartment / 3 BHK	1158	₹14,300/month	Fully-Furnished	4	Any	Rent
+1131	Bihar Properties (Bihar.txt)	3 BHK Apartment	Muzaffarpur South	Muzaffarpur / Bihar	Apartment / 3 BHK	1043	₹12,900/month	Semi-Furnished	3	Family	Rent
+1132	Bihar Properties (Bihar.txt)	2 BHK Independent House	Muzaffarpur Colony	Muzaffarpur / Bihar	Independent House / 2 BHK	876	₹47.03 L	Semi-Furnished	3	Bachelors	Sale
+1133	Bihar Properties (Bihar.txt)	3 BHK Villa	Bhagalpur Extension	Bhagalpur / Bihar	Villa / 3 BHK	1807	₹15,100/month	Semi-Furnished	4	Bachelors	Rent
+1134	Bihar Properties (Bihar.txt)	2 BHK Apartment	Bhagalpur Sector 1	Bhagalpur / Bihar	Apartment / 2 BHK	652	₹10,000/month	Semi-Furnished	1	Bachelors	Rent
+1135	Bihar Properties (Bihar.txt)	5 BHK Villa	Bhagalpur Colony	Bhagalpur / Bihar	Villa / 5 BHK	3617	₹1.02 Cr	Unfurnished	6	Bachelors	Sale
+1136	Bihar Properties (Bihar.txt)	1 BHK Apartment	Gaya Nagar	Gaya / Bihar	Apartment / 1 BHK	548	₹28.18 L	Semi-Furnished	1	Bachelors	Sale
+1137	Bihar Properties (Bihar.txt)	3 BHK Villa	Muzaffarpur Sector 3	Muzaffarpur / Bihar	Villa / 3 BHK	2079	₹68.33 L	Fully-Furnished	3	Any	Sale
+1138	Bihar Properties (Bihar.txt)	2 BHK Apartment	Gaya North	Gaya / Bihar	Apartment / 2 BHK	978	₹37.21 L	Semi-Furnished	2	Any	Sale
+1139	Bihar Properties (Bihar.txt)	1 BHK Apartment	Muzaffarpur South	Muzaffarpur / Bihar	Apartment / 1 BHK	556	₹21.73 L	Fully-Furnished	1	Any	Sale
+1140	Bihar Properties (Bihar.txt)	3 BHK Independent House	Patna North	Patna / Bihar	Independent House / 3 BHK	1264	₹16,900/month	Fully-Furnished	2	Bachelors	Rent
+1141	Bihar Properties (Bihar.txt)	2 BHK Independent House	Bhagalpur Colony	Bhagalpur / Bihar	Independent House / 2 BHK	905	₹9,900/month	Unfurnished	2	Family	Rent
+1142	Bihar Properties (Bihar.txt)	2 BHK Apartment	Gaya Heights	Gaya / Bihar	Apartment / 2 BHK	918	₹10,400/month	Semi-Furnished	2	Family	Rent
+1143	Bihar Properties (Bihar.txt)	3 BHK Apartment	Muzaffarpur South	Muzaffarpur / Bihar	Apartment / 3 BHK	1073	₹53.75 L	Semi-Furnished	3	Family	Sale
+1144	Bihar Properties (Bihar.txt)	3 BHK Builder Floor	Patna Extension	Patna / Bihar	Builder Floor / 3 BHK	1354	₹46.76 L	Fully-Furnished	3	Any	Sale
+1145	Bihar Properties (Bihar.txt)	4 BHK Independent House	Patna Main Road	Patna / Bihar	Independent House / 4 BHK	2287	₹18,200/month	Unfurnished	3	Bachelors	Rent
+1146	Bihar Properties (Bihar.txt)	3 BHK Independent House	Patna Extension	Patna / Bihar	Independent House / 3 BHK	1844	₹19,100/month	Fully-Furnished	3	Bachelors	Rent
+1147	Bihar Properties (Bihar.txt)	1 BHK Studio	Muzaffarpur Town Centre	Muzaffarpur / Bihar	Studio / 1 BHK	369	₹5,400/month	Semi-Furnished	2	Bachelors	Rent
+1148	Bihar Properties (Bihar.txt)	3 BHK Apartment	Bhagalpur Nagar	Bhagalpur / Bihar	Apartment / 3 BHK	1315	₹15,100/month	Semi-Furnished	3	Family	Rent
+1149	Bihar Properties (Bihar.txt)	4 BHK Apartment	Gaya Main Road	Gaya / Bihar	Apartment / 4 BHK	2004	₹77.94 L	Semi-Furnished	4	Family	Sale
+1150	Bihar Properties (Bihar.txt)	1 BHK Studio	Patna Town Centre	Patna / Bihar	Studio / 1 BHK	381	₹24.40 L	Fully-Furnished	1	Family	Sale
+1151	Bihar Properties (Bihar.txt)	5 BHK Builder Floor	Gaya West	Gaya / Bihar	Builder Floor / 5 BHK	2776	₹21,600/month	Fully-Furnished	5	Bachelors	Rent
+1152	Bihar Properties (Bihar.txt)	1 BHK Apartment	Bhagalpur Residential Area	Bhagalpur / Bihar	Apartment / 1 BHK	526	₹29.45 L	Fully-Furnished	1	Any	Sale
+1153	Bihar Properties (Bihar.txt)	3 BHK Apartment	Gaya North	Gaya / Bihar	Apartment / 3 BHK	1392	₹64.55 L	Semi-Furnished	3	Any	Sale
+1154	Bihar Properties (Bihar.txt)	1 BHK Apartment	Gaya North	Gaya / Bihar	Apartment / 1 BHK	503	₹7,300/month	Semi-Furnished	1	Bachelors	Rent
+1155	Bihar Properties (Bihar.txt)	3 BHK Builder Floor	Gaya Main Road	Gaya / Bihar	Builder Floor / 3 BHK	1389	₹14,900/month	Semi-Furnished	4	Family	Rent
+1156	Bihar Properties (Bihar.txt)	3 BHK Apartment	Gaya West	Gaya / Bihar	Apartment / 3 BHK	1438	₹58.58 L	Unfurnished	3	Family	Sale
+1157	Bihar Properties (Bihar.txt)	2 BHK Apartment	Bhagalpur East	Bhagalpur / Bihar	Apartment / 2 BHK	874	₹33.68 L	Fully-Furnished	2	Bachelors	Sale
+1158	Bihar Properties (Bihar.txt)	2 BHK Apartment	Patna South	Patna / Bihar	Apartment / 2 BHK	786	₹39.93 L	Semi-Furnished	2	Any	Sale
+1159	Bihar Properties (Bihar.txt)	2 BHK Apartment	Bhagalpur Colony	Bhagalpur / Bihar	Apartment / 2 BHK	922	₹13,200/month	Unfurnished	2	Family	Rent
+1160	Bihar Properties (Bihar.txt)	5 BHK Apartment	Muzaffarpur Extension	Muzaffarpur / Bihar	Apartment / 5 BHK	2054	₹86.73 L	Semi-Furnished	4	Bachelors	Sale
+1161	Bihar Properties (Bihar.txt)	1 BHK Apartment	Patna West	Patna / Bihar	Apartment / 1 BHK	566	₹7,900/month	Semi-Furnished	1	Family	Rent
+1162	Bihar Properties (Bihar.txt)	1 BHK Apartment	Muzaffarpur Extension	Muzaffarpur / Bihar	Apartment / 1 BHK	635	₹8,400/month	Fully-Furnished	1	Family	Rent
+1163	Bihar Properties (Bihar.txt)	3 BHK Independent House	Bhagalpur East	Bhagalpur / Bihar	Independent House / 3 BHK	1341	₹15,200/month	Unfurnished	3	Family	Rent
+1164	Bihar Properties (Bihar.txt)	3 BHK Builder Floor	Patna Sector 2	Patna / Bihar	Builder Floor / 3 BHK	1274	₹57.09 L	Semi-Furnished	3	Family	Sale
+1165	Bihar Properties (Bihar.txt)	3 BHK Apartment	Gaya Colony	Gaya / Bihar	Apartment / 3 BHK	1481	₹60.90 L	Fully-Furnished	3	Bachelors	Sale
+1166	Bihar Properties (Bihar.txt)	5 BHK Independent House	Bhagalpur Sector 1	Bhagalpur / Bihar	Independent House / 5 BHK	3881	₹33,300/month	Unfurnished	6	Family	Rent
+1167	Bihar Properties (Bihar.txt)	4 BHK Apartment	Muzaffarpur Sector 1	Muzaffarpur / Bihar	Apartment / 4 BHK	1935	₹74.71 L	Fully-Furnished	3	Any	Sale
+1168	Bihar Properties (Bihar.txt)	3 BHK Independent House	Patna Main Road	Patna / Bihar	Independent House / 3 BHK	1638	₹65.81 L	Unfurnished	3	Bachelors	Sale
+1169	Bihar Properties (Bihar.txt)	3 BHK Villa	Muzaffarpur West	Muzaffarpur / Bihar	Villa / 3 BHK	1831	₹18,300/month	Semi-Furnished	2	Family	Rent
+1170	Bihar Properties (Bihar.txt)	1 BHK Studio	Gaya North	Gaya / Bihar	Studio / 1 BHK	375	₹5,700/month	Semi-Furnished	2	Family	Rent
+1171	Bihar Properties (Bihar.txt)	2 BHK Apartment	Bhagalpur Heights	Bhagalpur / Bihar	Apartment / 2 BHK	736	₹12,200/month	Unfurnished	2	Family	Rent

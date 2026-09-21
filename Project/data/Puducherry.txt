@@ -1,0 +1,1172 @@
+No.	Source	Property	Location	City / State	Type / Config	Area	Price / Rent	Furnishing	Bathrooms	Tennants	Listing Type
+1	Puducherry Properties (Puducherry.txt)	2 BHK Apartment	Karaikal Sector 1	Karaikal / Puducherry	Apartment / 2 BHK	797	₹46.07 L	Fully-Furnished	2	Family	Sale
+2	Puducherry Properties (Puducherry.txt)	2 BHK Apartment	Puducherry Colony	Puducherry / Puducherry	Apartment / 2 BHK	969	₹11,700/month	Semi-Furnished	2	Bachelors	Rent
+3	Puducherry Properties (Puducherry.txt)	2 BHK Apartment	Oulgaret Sector 1	Oulgaret / Puducherry	Apartment / 2 BHK	914	₹15,700/month	Semi-Furnished	1	Any	Rent
+4	Puducherry Properties (Puducherry.txt)	2 BHK Apartment	Karaikal Central	Karaikal / Puducherry	Apartment / 2 BHK	838	₹44.07 L	Semi-Furnished	2	Family	Sale
+5	Puducherry Properties (Puducherry.txt)	3 BHK Apartment	Oulgaret Sector 2	Oulgaret / Puducherry	Apartment / 3 BHK	1200	₹15,300/month	Fully-Furnished	4	Family	Rent
+6	Puducherry Properties (Puducherry.txt)	2 BHK Independent House	Karaikal Main Road	Karaikal / Puducherry	Independent House / 2 BHK	837	₹53.12 L	Unfurnished	1	Family	Sale
+7	Puducherry Properties (Puducherry.txt)	2 BHK Apartment	Yanam North	Yanam / Puducherry	Apartment / 2 BHK	840	₹16,000/month	Semi-Furnished	2	Family	Rent
+8	Puducherry Properties (Puducherry.txt)	1 BHK Apartment	Oulgaret Town Centre	Oulgaret / Puducherry	Apartment / 1 BHK	453	₹25.54 L	Semi-Furnished	1	Any	Sale
+9	Puducherry Properties (Puducherry.txt)	5 BHK Apartment	Yanam Sector 2	Yanam / Puducherry	Apartment / 5 BHK	1804	₹27,600/month	Semi-Furnished	6	Family	Rent
+10	Puducherry Properties (Puducherry.txt)	1 BHK Builder Floor	Yanam Sector 3	Yanam / Puducherry	Builder Floor / 1 BHK	630	₹11,000/month	Fully-Furnished	2	Family	Rent
+11	Puducherry Properties (Puducherry.txt)	1 BHK Builder Floor	Oulgaret Colony	Oulgaret / Puducherry	Builder Floor / 1 BHK	517	₹8,400/month	Unfurnished	1	Bachelors	Rent
+12	Puducherry Properties (Puducherry.txt)	2 BHK Villa	Oulgaret Town Centre	Oulgaret / Puducherry	Villa / 2 BHK	707	₹55.50 L	Semi-Furnished	1	Family	Sale
+13	Puducherry Properties (Puducherry.txt)	2 BHK Apartment	Puducherry North	Puducherry / Puducherry	Apartment / 2 BHK	856	₹40.96 L	Fully-Furnished	2	Family	Sale
+14	Puducherry Properties (Puducherry.txt)	3 BHK Villa	Oulgaret West	Oulgaret / Puducherry	Villa / 3 BHK	1748	₹82.93 L	Unfurnished	3	Bachelors	Sale
+15	Puducherry Properties (Puducherry.txt)	2 BHK Apartment	Puducherry Nagar	Puducherry / Puducherry	Apartment / 2 BHK	880	₹14,800/month	Unfurnished	3	Family	Rent
+16	Puducherry Properties (Puducherry.txt)	3 BHK Builder Floor	Puducherry Colony	Puducherry / Puducherry	Builder Floor / 3 BHK	1365	₹18,200/month	Unfurnished	3	Any	Rent
+17	Puducherry Properties (Puducherry.txt)	4 BHK Apartment	Karaikal Sector 1	Karaikal / Puducherry	Apartment / 4 BHK	1927	₹90.16 L	Unfurnished	5	Family	Sale
+18	Puducherry Properties (Puducherry.txt)	1 BHK Apartment	Yanam East	Yanam / Puducherry	Apartment / 1 BHK	532	₹27.55 L	Unfurnished	1	Family	Sale
+19	Puducherry Properties (Puducherry.txt)	2 BHK Apartment	Oulgaret South	Oulgaret / Puducherry	Apartment / 2 BHK	908	₹44.08 L	Semi-Furnished	3	Family	Sale
+20	Puducherry Properties (Puducherry.txt)	2 BHK Apartment	Karaikal Town Centre	Karaikal / Puducherry	Apartment / 2 BHK	701	₹55.64 L	Semi-Furnished	3	Family	Sale
+21	Puducherry Properties (Puducherry.txt)	4 BHK Independent House	Oulgaret Extension	Oulgaret / Puducherry	Independent House / 4 BHK	1909	₹23,000/month	Fully-Furnished	5	Bachelors	Rent
+22	Puducherry Properties (Puducherry.txt)	2 BHK Apartment	Puducherry Colony	Puducherry / Puducherry	Apartment / 2 BHK	792	₹45.06 L	Semi-Furnished	2	Any	Sale
+23	Puducherry Properties (Puducherry.txt)	2 BHK Villa	Yanam Sector 3	Yanam / Puducherry	Villa / 2 BHK	1260	₹66.01 L	Unfurnished	2	Bachelors	Sale
+24	Puducherry Properties (Puducherry.txt)	2 BHK Apartment	Yanam West	Yanam / Puducherry	Apartment / 2 BHK	755	₹15,800/month	Semi-Furnished	2	Bachelors	Rent
+25	Puducherry Properties (Puducherry.txt)	2 BHK Apartment	Oulgaret West	Oulgaret / Puducherry	Apartment / 2 BHK	721	₹15,300/month	Fully-Furnished	3	Any	Rent
+26	Puducherry Properties (Puducherry.txt)	1 BHK Independent House	Yanam Central	Yanam / Puducherry	Independent House / 1 BHK	767	₹34.75 L	Fully-Furnished	1	Bachelors	Sale
+27	Puducherry Properties (Puducherry.txt)	3 BHK Apartment	Karaikal East	Karaikal / Puducherry	Apartment / 3 BHK	1173	₹19,100/month	Unfurnished	4	Bachelors	Rent
+28	Puducherry Properties (Puducherry.txt)	2 BHK Apartment	Puducherry Nagar	Puducherry / Puducherry	Apartment / 2 BHK	815	₹40.46 L	Semi-Furnished	2	Bachelors	Sale
+29	Puducherry Properties (Puducherry.txt)	1 BHK Apartment	Yanam East	Yanam / Puducherry	Apartment / 1 BHK	356	₹32.08 L	Semi-Furnished	1	Family	Sale
+30	Puducherry Properties (Puducherry.txt)	2 BHK Independent House	Karaikal East	Karaikal / Puducherry	Independent House / 2 BHK	942	₹16,500/month	Fully-Furnished	2	Any	Rent
+31	Puducherry Properties (Puducherry.txt)	3 BHK Independent House	Oulgaret Town Centre	Oulgaret / Puducherry	Independent House / 3 BHK	1667	₹76.31 L	Unfurnished	3	Family	Sale
+32	Puducherry Properties (Puducherry.txt)	3 BHK Apartment	Karaikal Central	Karaikal / Puducherry	Apartment / 3 BHK	1287	₹67.08 L	Semi-Furnished	3	Family	Sale
+33	Puducherry Properties (Puducherry.txt)	2 BHK Builder Floor	Karaikal Sector 3	Karaikal / Puducherry	Builder Floor / 2 BHK	855	₹58.32 L	Semi-Furnished	2	Family	Sale
+34	Puducherry Properties (Puducherry.txt)	2 BHK Apartment	Oulgaret Sector 3	Oulgaret / Puducherry	Apartment / 2 BHK	1038	₹44.05 L	Unfurnished	2	Bachelors	Sale
+35	Puducherry Properties (Puducherry.txt)	2 BHK Builder Floor	Puducherry North	Puducherry / Puducherry	Builder Floor / 2 BHK	1055	₹44.91 L	Semi-Furnished	1	Family	Sale
+36	Puducherry Properties (Puducherry.txt)	4 BHK Apartment	Oulgaret East	Oulgaret / Puducherry	Apartment / 4 BHK	1521	₹21,500/month	Fully-Furnished	4	Family	Rent
+37	Puducherry Properties (Puducherry.txt)	1 BHK Independent House	Yanam Sector 1	Yanam / Puducherry	Independent House / 1 BHK	652	₹10,600/month	Semi-Furnished	1	Family	Rent
+38	Puducherry Properties (Puducherry.txt)	1 BHK Apartment	Oulgaret Sector 3	Oulgaret / Puducherry	Apartment / 1 BHK	522	₹35.27 L	Semi-Furnished	1	Family	Sale
+39	Puducherry Properties (Puducherry.txt)	5 BHK Apartment	Oulgaret Central	Oulgaret / Puducherry	Apartment / 5 BHK	2231	₹1.16 Cr	Semi-Furnished	5	Family	Sale
+40	Puducherry Properties (Puducherry.txt)	1 BHK Independent House	Yanam Extension	Yanam / Puducherry	Independent House / 1 BHK	553	₹27.06 L	Fully-Furnished	1	Family	Sale
+41	Puducherry Properties (Puducherry.txt)	3 BHK Apartment	Puducherry Extension	Puducherry / Puducherry	Apartment / 3 BHK	1610	₹83.10 L	Semi-Furnished	2	Family	Sale
+42	Puducherry Properties (Puducherry.txt)	3 BHK Apartment	Puducherry South	Puducherry / Puducherry	Apartment / 3 BHK	1255	₹19,300/month	Unfurnished	3	Family	Rent
+43	Puducherry Properties (Puducherry.txt)	3 BHK Builder Floor	Karaikal Town Centre	Karaikal / Puducherry	Builder Floor / 3 BHK	1049	₹17,000/month	Semi-Furnished	4	Family	Rent
+44	Puducherry Properties (Puducherry.txt)	2 BHK Independent House	Puducherry South	Puducherry / Puducherry	Independent House / 2 BHK	927	₹13,900/month	Unfurnished	2	Family	Rent
+45	Puducherry Properties (Puducherry.txt)	2 BHK Apartment	Puducherry Town Centre	Puducherry / Puducherry	Apartment / 2 BHK	918	₹12,500/month	Semi-Furnished	2	Any	Rent
+46	Puducherry Properties (Puducherry.txt)	2 BHK Independent House	Karaikal Sector 1	Karaikal / Puducherry	Independent House / 2 BHK	783	₹53.02 L	Fully-Furnished	1	Any	Sale
+47	Puducherry Properties (Puducherry.txt)	3 BHK Apartment	Karaikal Town Centre	Karaikal / Puducherry	Apartment / 3 BHK	1311	₹64.74 L	Semi-Furnished	3	Family	Sale
+48	Puducherry Properties (Puducherry.txt)	3 BHK Apartment	Oulgaret Colony	Oulgaret / Puducherry	Apartment / 3 BHK	1345	₹74.32 L	Semi-Furnished	3	Family	Sale
+49	Puducherry Properties (Puducherry.txt)	1 BHK Apartment	Oulgaret Sector 3	Oulgaret / Puducherry	Apartment / 1 BHK	506	₹10,300/month	Fully-Furnished	1	Bachelors	Rent
+50	Puducherry Properties (Puducherry.txt)	2 BHK Apartment	Yanam Residential Area	Yanam / Puducherry	Apartment / 2 BHK	1087	₹14,800/month	Semi-Furnished	1	Any	Rent
+51	Puducherry Properties (Puducherry.txt)	2 BHK Independent House	Karaikal Extension	Karaikal / Puducherry	Independent House / 2 BHK	763	₹11,200/month	Unfurnished	2	Family	Rent
+52	Puducherry Properties (Puducherry.txt)	3 BHK Builder Floor	Yanam West	Yanam / Puducherry	Builder Floor / 3 BHK	1183	₹18,800/month	Semi-Furnished	3	Any	Rent
+53	Puducherry Properties (Puducherry.txt)	2 BHK Independent House	Yanam Town Centre	Yanam / Puducherry	Independent House / 2 BHK	1007	₹47.12 L	Unfurnished	2	Family	Sale
+54	Puducherry Properties (Puducherry.txt)	4 BHK Apartment	Oulgaret Sector 2	Oulgaret / Puducherry	Apartment / 4 BHK	1794	₹85.55 L	Unfurnished	4	Family	Sale
+55	Puducherry Properties (Puducherry.txt)	2 BHK Apartment	Puducherry Extension	Puducherry / Puducherry	Apartment / 2 BHK	903	₹11,700/month	Fully-Furnished	1	Any	Rent
+56	Puducherry Properties (Puducherry.txt)	4 BHK Apartment	Oulgaret Central	Oulgaret / Puducherry	Apartment / 4 BHK	1739	₹77.45 L	Fully-Furnished	3	Family	Sale
+57	Puducherry Properties (Puducherry.txt)	4 BHK Apartment	Yanam West	Yanam / Puducherry	Apartment / 4 BHK	1417	₹85.60 L	Semi-Furnished	4	Bachelors	Sale
+58	Puducherry Properties (Puducherry.txt)	3 BHK Villa	Karaikal Main Road	Karaikal / Puducherry	Villa / 3 BHK	1350	₹66.65 L	Fully-Furnished	3	Family	Sale
+59	Puducherry Properties (Puducherry.txt)	3 BHK Apartment	Karaikal East	Karaikal / Puducherry	Apartment / 3 BHK	1316	₹17,000/month	Semi-Furnished	3	Family	Rent
+60	Puducherry Properties (Puducherry.txt)	2 BHK Builder Floor	Puducherry East	Puducherry / Puducherry	Builder Floor / 2 BHK	561	₹53.54 L	Fully-Furnished	2	Family	Sale
+61	Puducherry Properties (Puducherry.txt)	2 BHK Apartment	Puducherry West	Puducherry / Puducherry	Apartment / 2 BHK	644	₹54.91 L	Fully-Furnished	3	Family	Sale
+62	Puducherry Properties (Puducherry.txt)	1 BHK Apartment	Yanam Colony	Yanam / Puducherry	Apartment / 1 BHK	528	₹10,400/month	Unfurnished	2	Family	Rent
+63	Puducherry Properties (Puducherry.txt)	1 BHK Studio	Puducherry Sector 2	Puducherry / Puducherry	Studio / 1 BHK	332	₹9,400/month	Semi-Furnished	2	Family	Rent
+64	Puducherry Properties (Puducherry.txt)	1 BHK Apartment	Karaikal Residential Area	Karaikal / Puducherry	Apartment / 1 BHK	447	₹8,000/month	Unfurnished	1	Any	Rent
+65	Puducherry Properties (Puducherry.txt)	1 BHK Apartment	Yanam East	Yanam / Puducherry	Apartment / 1 BHK	507	₹28.09 L	Semi-Furnished	1	Family	Sale
+66	Puducherry Properties (Puducherry.txt)	2 BHK Builder Floor	Oulgaret East	Oulgaret / Puducherry	Builder Floor / 2 BHK	779	₹44.29 L	Fully-Furnished	1	Family	Sale
+67	Puducherry Properties (Puducherry.txt)	3 BHK Apartment	Yanam Sector 3	Yanam / Puducherry	Apartment / 3 BHK	709	₹69.05 L	Semi-Furnished	3	Any	Sale
+68	Puducherry Properties (Puducherry.txt)	3 BHK Villa	Karaikal Main Road	Karaikal / Puducherry	Villa / 3 BHK	1858	₹86.16 L	Semi-Furnished	3	Any	Sale
+69	Puducherry Properties (Puducherry.txt)	2 BHK Apartment	Karaikal South	Karaikal / Puducherry	Apartment / 2 BHK	914	₹58.86 L	Semi-Furnished	2	Family	Sale
+70	Puducherry Properties (Puducherry.txt)	4 BHK Independent House	Oulgaret Sector 3	Oulgaret / Puducherry	Independent House / 4 BHK	1967	₹88.65 L	Fully-Furnished	5	Family	Sale
+71	Puducherry Properties (Puducherry.txt)	1 BHK Studio	Karaikal Nagar	Karaikal / Puducherry	Studio / 1 BHK	380	₹33.48 L	Fully-Furnished	2	Bachelors	Sale
+72	Puducherry Properties (Puducherry.txt)	3 BHK Independent House	Oulgaret Residential Area	Oulgaret / Puducherry	Independent House / 3 BHK	1393	₹17,300/month	Fully-Furnished	3	Family	Rent
+73	Puducherry Properties (Puducherry.txt)	2 BHK Apartment	Yanam Heights	Yanam / Puducherry	Apartment / 2 BHK	984	₹56.77 L	Fully-Furnished	3	Family	Sale
+74	Puducherry Properties (Puducherry.txt)	5 BHK Builder Floor	Oulgaret Sector 3	Oulgaret / Puducherry	Builder Floor / 5 BHK	2553	₹1.15 Cr	Semi-Furnished	4	Any	Sale
+75	Puducherry Properties (Puducherry.txt)	3 BHK Builder Floor	Puducherry North	Puducherry / Puducherry	Builder Floor / 3 BHK	1155	₹21,200/month	Semi-Furnished	4	Bachelors	Rent
+76	Puducherry Properties (Puducherry.txt)	4 BHK Apartment	Puducherry North	Puducherry / Puducherry	Apartment / 4 BHK	1224	₹24,800/month	Fully-Furnished	4	Family	Rent
+77	Puducherry Properties (Puducherry.txt)	2 BHK Apartment	Yanam Colony	Yanam / Puducherry	Apartment / 2 BHK	891	₹15,600/month	Semi-Furnished	2	Bachelors	Rent
+78	Puducherry Properties (Puducherry.txt)	2 BHK Apartment	Karaikal Sector 1	Karaikal / Puducherry	Apartment / 2 BHK	873	₹56.38 L	Unfurnished	3	Family	Sale
+79	Puducherry Properties (Puducherry.txt)	3 BHK Independent House	Oulgaret Sector 2	Oulgaret / Puducherry	Independent House / 3 BHK	1646	₹67.43 L	Semi-Furnished	3	Family	Sale
+80	Puducherry Properties (Puducherry.txt)	3 BHK Independent House	Karaikal Residential Area	Karaikal / Puducherry	Independent House / 3 BHK	1763	₹72.89 L	Semi-Furnished	4	Bachelors	Sale
+81	Puducherry Properties (Puducherry.txt)	5 BHK Builder Floor	Karaikal Central	Karaikal / Puducherry	Builder Floor / 5 BHK	2702	₹1.15 Cr	Fully-Furnished	6	Any	Sale
+82	Puducherry Properties (Puducherry.txt)	1 BHK Studio	Oulgaret Residential Area	Oulgaret / Puducherry	Studio / 1 BHK	300	₹9,000/month	Semi-Furnished	1	Family	Rent
+83	Puducherry Properties (Puducherry.txt)	3 BHK Apartment	Oulgaret Residential Area	Oulgaret / Puducherry	Apartment / 3 BHK	1062	₹16,800/month	Fully-Furnished	4	Family	Rent
+84	Puducherry Properties (Puducherry.txt)	2 BHK Villa	Puducherry Extension	Puducherry / Puducherry	Villa / 2 BHK	1160	₹17,300/month	Semi-Furnished	2	Bachelors	Rent
+85	Puducherry Properties (Puducherry.txt)	3 BHK Builder Floor	Karaikal Central	Karaikal / Puducherry	Builder Floor / 3 BHK	1270	₹16,900/month	Semi-Furnished	2	Family	Rent
+86	Puducherry Properties (Puducherry.txt)	2 BHK Builder Floor	Yanam Heights	Yanam / Puducherry	Builder Floor / 2 BHK	968	₹45.25 L	Semi-Furnished	2	Family	Sale
+87	Puducherry Properties (Puducherry.txt)	2 BHK Apartment	Karaikal Colony	Karaikal / Puducherry	Apartment / 2 BHK	864	₹59.33 L	Semi-Furnished	3	Bachelors	Sale
+88	Puducherry Properties (Puducherry.txt)	3 BHK Villa	Oulgaret West	Oulgaret / Puducherry	Villa / 3 BHK	1657	₹23,300/month	Unfurnished	3	Bachelors	Rent
+89	Puducherry Properties (Puducherry.txt)	4 BHK Independent House	Puducherry Main Road	Puducherry / Puducherry	Independent House / 4 BHK	2464	₹1.15 Cr	Semi-Furnished	5	Bachelors	Sale
+90	Puducherry Properties (Puducherry.txt)	2 BHK Independent House	Yanam Nagar	Yanam / Puducherry	Independent House / 2 BHK	1024	₹55.03 L	Fully-Furnished	2	Bachelors	Sale
+91	Puducherry Properties (Puducherry.txt)	3 BHK Apartment	Oulgaret North	Oulgaret / Puducherry	Apartment / 3 BHK	1359	₹70.86 L	Semi-Furnished	3	Family	Sale
+92	Puducherry Properties (Puducherry.txt)	4 BHK Independent House	Karaikal Central	Karaikal / Puducherry	Independent House / 4 BHK	1097	₹84.16 L	Semi-Furnished	4	Bachelors	Sale
+93	Puducherry Properties (Puducherry.txt)	3 BHK Independent House	Yanam North	Yanam / Puducherry	Independent House / 3 BHK	1298	₹70.98 L	Semi-Furnished	3	Family	Sale
+94	Puducherry Properties (Puducherry.txt)	4 BHK Apartment	Yanam Sector 3	Yanam / Puducherry	Apartment / 4 BHK	1731	₹83.86 L	Semi-Furnished	4	Family	Sale
+95	Puducherry Properties (Puducherry.txt)	2 BHK Builder Floor	Oulgaret Sector 3	Oulgaret / Puducherry	Builder Floor / 2 BHK	810	₹12,100/month	Semi-Furnished	2	Any	Rent
+96	Puducherry Properties (Puducherry.txt)	5 BHK Apartment	Yanam Residential Area	Yanam / Puducherry	Apartment / 5 BHK	2100	₹1.03 Cr	Fully-Furnished	5	Any	Sale
+97	Puducherry Properties (Puducherry.txt)	3 BHK Builder Floor	Oulgaret Extension	Oulgaret / Puducherry	Builder Floor / 3 BHK	1537	₹19,500/month	Fully-Furnished	3	Bachelors	Rent
+98	Puducherry Properties (Puducherry.txt)	1 BHK Studio	Oulgaret Extension	Oulgaret / Puducherry	Studio / 1 BHK	322	₹8,100/month	Semi-Furnished	2	Family	Rent
+99	Puducherry Properties (Puducherry.txt)	1 BHK Apartment	Yanam Residential Area	Yanam / Puducherry	Apartment / 1 BHK	434	₹26.94 L	Fully-Furnished	1	Family	Sale
+100	Puducherry Properties (Puducherry.txt)	3 BHK Villa	Puducherry North	Puducherry / Puducherry	Villa / 3 BHK	1771	₹77.35 L	Unfurnished	4	Bachelors	Sale
+101	Puducherry Properties (Puducherry.txt)	2 BHK Apartment	Oulgaret West	Oulgaret / Puducherry	Apartment / 2 BHK	812	₹11,700/month	Semi-Furnished	2	Bachelors	Rent
+102	Puducherry Properties (Puducherry.txt)	1 BHK Builder Floor	Yanam Town Centre	Yanam / Puducherry	Builder Floor / 1 BHK	420	₹28.84 L	Semi-Furnished	1	Bachelors	Sale
+103	Puducherry Properties (Puducherry.txt)	3 BHK Apartment	Karaikal Colony	Karaikal / Puducherry	Apartment / 3 BHK	1084	₹57.36 L	Semi-Furnished	3	Any	Sale
+104	Puducherry Properties (Puducherry.txt)	2 BHK Apartment	Yanam Central	Yanam / Puducherry	Apartment / 2 BHK	898	₹15,200/month	Unfurnished	1	Family	Rent
+105	Puducherry Properties (Puducherry.txt)	2 BHK Builder Floor	Oulgaret Nagar	Oulgaret / Puducherry	Builder Floor / 2 BHK	1011	₹45.69 L	Semi-Furnished	2	Any	Sale
+106	Puducherry Properties (Puducherry.txt)	1 BHK Independent House	Puducherry Sector 2	Puducherry / Puducherry	Independent House / 1 BHK	570	₹29.12 L	Unfurnished	1	Bachelors	Sale
+107	Puducherry Properties (Puducherry.txt)	3 BHK Apartment	Yanam Central	Yanam / Puducherry	Apartment / 3 BHK	1308	₹71.58 L	Fully-Furnished	3	Family	Sale
+108	Puducherry Properties (Puducherry.txt)	1 BHK Villa	Puducherry West	Puducherry / Puducherry	Villa / 1 BHK	731	₹8,800/month	Semi-Furnished	1	Family	Rent
+109	Puducherry Properties (Puducherry.txt)	1 BHK Apartment	Puducherry South	Puducherry / Puducherry	Apartment / 1 BHK	512	₹8,500/month	Semi-Furnished	1	Any	Rent
+110	Puducherry Properties (Puducherry.txt)	5 BHK Apartment	Karaikal Sector 1	Karaikal / Puducherry	Apartment / 5 BHK	2495	₹1.29 Cr	Unfurnished	5	Family	Sale
+111	Puducherry Properties (Puducherry.txt)	3 BHK Apartment	Yanam Residential Area	Yanam / Puducherry	Apartment / 3 BHK	1150	₹79.07 L	Fully-Furnished	3	Family	Sale
+112	Puducherry Properties (Puducherry.txt)	1 BHK Studio	Yanam Main Road	Yanam / Puducherry	Studio / 1 BHK	300	₹23.56 L	Semi-Furnished	1	Family	Sale
+113	Puducherry Properties (Puducherry.txt)	2 BHK Apartment	Oulgaret Sector 3	Oulgaret / Puducherry	Apartment / 2 BHK	879	₹59.23 L	Unfurnished	2	Bachelors	Sale
+114	Puducherry Properties (Puducherry.txt)	3 BHK Apartment	Yanam Sector 3	Yanam / Puducherry	Apartment / 3 BHK	1246	₹79.75 L	Semi-Furnished	2	Bachelors	Sale
+115	Puducherry Properties (Puducherry.txt)	1 BHK Studio	Oulgaret Extension	Oulgaret / Puducherry	Studio / 1 BHK	505	₹7,900/month	Unfurnished	1	Bachelors	Rent
+116	Puducherry Properties (Puducherry.txt)	2 BHK Apartment	Oulgaret Sector 3	Oulgaret / Puducherry	Apartment / 2 BHK	827	₹53.08 L	Semi-Furnished	2	Family	Sale
+117	Puducherry Properties (Puducherry.txt)	1 BHK Villa	Yanam East	Yanam / Puducherry	Villa / 1 BHK	701	₹8,100/month	Fully-Furnished	2	Bachelors	Rent
+118	Puducherry Properties (Puducherry.txt)	2 BHK Builder Floor	Karaikal East	Karaikal / Puducherry	Builder Floor / 2 BHK	979	₹16,800/month	Semi-Furnished	3	Bachelors	Rent
+119	Puducherry Properties (Puducherry.txt)	1 BHK Studio	Puducherry Main Road	Puducherry / Puducherry	Studio / 1 BHK	353	₹8,100/month	Semi-Furnished	1	Family	Rent
+120	Puducherry Properties (Puducherry.txt)	2 BHK Apartment	Oulgaret Colony	Oulgaret / Puducherry	Apartment / 2 BHK	984	₹57.08 L	Semi-Furnished	1	Family	Sale
+121	Puducherry Properties (Puducherry.txt)	4 BHK Builder Floor	Oulgaret Sector 1	Oulgaret / Puducherry	Builder Floor / 4 BHK	1555	₹24,000/month	Unfurnished	4	Bachelors	Rent
+122	Puducherry Properties (Puducherry.txt)	1 BHK Builder Floor	Puducherry West	Puducherry / Puducherry	Builder Floor / 1 BHK	494	₹8,900/month	Unfurnished	1	Family	Rent
+123	Puducherry Properties (Puducherry.txt)	2 BHK Apartment	Oulgaret Sector 3	Oulgaret / Puducherry	Apartment / 2 BHK	722	₹15,300/month	Fully-Furnished	2	Family	Rent
+124	Puducherry Properties (Puducherry.txt)	2 BHK Builder Floor	Karaikal Heights	Karaikal / Puducherry	Builder Floor / 2 BHK	688	₹15,400/month	Unfurnished	1	Family	Rent
+125	Puducherry Properties (Puducherry.txt)	2 BHK Builder Floor	Yanam Nagar	Yanam / Puducherry	Builder Floor / 2 BHK	874	₹46.41 L	Semi-Furnished	3	Any	Sale
+126	Puducherry Properties (Puducherry.txt)	2 BHK Apartment	Puducherry Central	Puducherry / Puducherry	Apartment / 2 BHK	887	₹13,700/month	Semi-Furnished	3	Family	Rent
+127	Puducherry Properties (Puducherry.txt)	2 BHK Apartment	Puducherry Main Road	Puducherry / Puducherry	Apartment / 2 BHK	1022	₹11,500/month	Fully-Furnished	1	Any	Rent
+128	Puducherry Properties (Puducherry.txt)	3 BHK Independent House	Yanam Nagar	Yanam / Puducherry	Independent House / 3 BHK	1462	₹21,300/month	Semi-Furnished	3	Any	Rent
+129	Puducherry Properties (Puducherry.txt)	4 BHK Independent House	Oulgaret Town Centre	Oulgaret / Puducherry	Independent House / 4 BHK	1958	₹86.44 L	Fully-Furnished	4	Bachelors	Sale
+130	Puducherry Properties (Puducherry.txt)	4 BHK Apartment	Oulgaret Colony	Oulgaret / Puducherry	Apartment / 4 BHK	2373	₹90.67 L	Semi-Furnished	4	Family	Sale
+131	Puducherry Properties (Puducherry.txt)	2 BHK Apartment	Oulgaret North	Oulgaret / Puducherry	Apartment / 2 BHK	826	₹46.08 L	Fully-Furnished	3	Bachelors	Sale
+132	Puducherry Properties (Puducherry.txt)	1 BHK Independent House	Puducherry Sector 3	Puducherry / Puducherry	Independent House / 1 BHK	709	₹40.04 L	Fully-Furnished	1	Any	Sale
+133	Puducherry Properties (Puducherry.txt)	4 BHK Apartment	Yanam West	Yanam / Puducherry	Apartment / 4 BHK	1759	₹26,200/month	Fully-Furnished	4	Bachelors	Rent
+134	Puducherry Properties (Puducherry.txt)	2 BHK Builder Floor	Oulgaret Sector 2	Oulgaret / Puducherry	Builder Floor / 2 BHK	898	₹11,200/month	Semi-Furnished	2	Any	Rent
+135	Puducherry Properties (Puducherry.txt)	2 BHK Apartment	Oulgaret Colony	Oulgaret / Puducherry	Apartment / 2 BHK	946	₹54.58 L	Fully-Furnished	1	Any	Sale
+136	Puducherry Properties (Puducherry.txt)	2 BHK Apartment	Puducherry South	Puducherry / Puducherry	Apartment / 2 BHK	1078	₹15,600/month	Unfurnished	2	Family	Rent
+137	Puducherry Properties (Puducherry.txt)	4 BHK Apartment	Yanam Main Road	Yanam / Puducherry	Apartment / 4 BHK	1753	₹96.91 L	Fully-Furnished	4	Bachelors	Sale
+138	Puducherry Properties (Puducherry.txt)	2 BHK Apartment	Yanam Residential Area	Yanam / Puducherry	Apartment / 2 BHK	844	₹42.86 L	Fully-Furnished	3	Family	Sale
+139	Puducherry Properties (Puducherry.txt)	2 BHK Independent House	Puducherry Sector 1	Puducherry / Puducherry	Independent House / 2 BHK	1035	₹48.98 L	Semi-Furnished	3	Bachelors	Sale
+140	Puducherry Properties (Puducherry.txt)	2 BHK Independent House	Oulgaret North	Oulgaret / Puducherry	Independent House / 2 BHK	865	₹15,400/month	Semi-Furnished	1	Any	Rent
+141	Puducherry Properties (Puducherry.txt)	4 BHK Builder Floor	Yanam Heights	Yanam / Puducherry	Builder Floor / 4 BHK	1757	₹1.04 Cr	Semi-Furnished	3	Bachelors	Sale
+142	Puducherry Properties (Puducherry.txt)	1 BHK Builder Floor	Puducherry Central	Puducherry / Puducherry	Builder Floor / 1 BHK	441	₹31.93 L	Unfurnished	1	Bachelors	Sale
+143	Puducherry Properties (Puducherry.txt)	3 BHK Apartment	Yanam East	Yanam / Puducherry	Apartment / 3 BHK	960	₹75.05 L	Semi-Furnished	3	Family	Sale
+144	Puducherry Properties (Puducherry.txt)	1 BHK Apartment	Puducherry Extension	Puducherry / Puducherry	Apartment / 1 BHK	452	₹29.85 L	Semi-Furnished	1	Any	Sale
+145	Puducherry Properties (Puducherry.txt)	1 BHK Apartment	Oulgaret West	Oulgaret / Puducherry	Apartment / 1 BHK	509	₹29.81 L	Fully-Furnished	1	Family	Sale
+146	Puducherry Properties (Puducherry.txt)	4 BHK Independent House	Puducherry Sector 2	Puducherry / Puducherry	Independent House / 4 BHK	1708	₹1.01 Cr	Unfurnished	4	Family	Sale
+147	Puducherry Properties (Puducherry.txt)	1 BHK Studio	Puducherry Main Road	Puducherry / Puducherry	Studio / 1 BHK	353	₹27.42 L	Semi-Furnished	1	Family	Sale
+148	Puducherry Properties (Puducherry.txt)	3 BHK Builder Floor	Puducherry South	Puducherry / Puducherry	Builder Floor / 3 BHK	1300	₹72.36 L	Fully-Furnished	3	Family	Sale
+149	Puducherry Properties (Puducherry.txt)	2 BHK Apartment	Yanam Nagar	Yanam / Puducherry	Apartment / 2 BHK	900	₹11,400/month	Fully-Furnished	2	Family	Rent
+150	Puducherry Properties (Puducherry.txt)	2 BHK Apartment	Karaikal Extension	Karaikal / Puducherry	Apartment / 2 BHK	774	₹46.32 L	Unfurnished	2	Any	Sale
+151	Puducherry Properties (Puducherry.txt)	2 BHK Independent House	Karaikal Colony	Karaikal / Puducherry	Independent House / 2 BHK	1084	₹44.28 L	Fully-Furnished	3	Bachelors	Sale
+152	Puducherry Properties (Puducherry.txt)	3 BHK Apartment	Puducherry Main Road	Puducherry / Puducherry	Apartment / 3 BHK	1435	₹83.45 L	Fully-Furnished	3	Family	Sale
+153	Puducherry Properties (Puducherry.txt)	2 BHK Apartment	Yanam Extension	Yanam / Puducherry	Apartment / 2 BHK	857	₹11,800/month	Fully-Furnished	1	Bachelors	Rent
+154	Puducherry Properties (Puducherry.txt)	2 BHK Apartment	Karaikal Residential Area	Karaikal / Puducherry	Apartment / 2 BHK	948	₹55.33 L	Fully-Furnished	2	Any	Sale
+155	Puducherry Properties (Puducherry.txt)	2 BHK Apartment	Karaikal Residential Area	Karaikal / Puducherry	Apartment / 2 BHK	781	₹44.03 L	Semi-Furnished	2	Family	Sale
+156	Puducherry Properties (Puducherry.txt)	4 BHK Apartment	Yanam East	Yanam / Puducherry	Apartment / 4 BHK	1883	₹22,000/month	Fully-Furnished	3	Family	Rent
+157	Puducherry Properties (Puducherry.txt)	1 BHK Apartment	Karaikal Sector 3	Karaikal / Puducherry	Apartment / 1 BHK	530	₹26.80 L	Fully-Furnished	1	Bachelors	Sale
+158	Puducherry Properties (Puducherry.txt)	4 BHK Apartment	Oulgaret Residential Area	Oulgaret / Puducherry	Apartment / 4 BHK	1793	₹22,000/month	Semi-Furnished	4	Bachelors	Rent
+159	Puducherry Properties (Puducherry.txt)	4 BHK Apartment	Yanam Main Road	Yanam / Puducherry	Apartment / 4 BHK	1566	₹25,000/month	Unfurnished	4	Bachelors	Rent
+160	Puducherry Properties (Puducherry.txt)	3 BHK Apartment	Puducherry Colony	Puducherry / Puducherry	Apartment / 3 BHK	1139	₹56.58 L	Fully-Furnished	3	Family	Sale
+161	Puducherry Properties (Puducherry.txt)	3 BHK Apartment	Oulgaret Nagar	Oulgaret / Puducherry	Apartment / 3 BHK	1221	₹21,200/month	Semi-Furnished	4	Any	Rent
+162	Puducherry Properties (Puducherry.txt)	1 BHK Builder Floor	Oulgaret Sector 2	Oulgaret / Puducherry	Builder Floor / 1 BHK	438	₹29.58 L	Fully-Furnished	1	Any	Sale
+163	Puducherry Properties (Puducherry.txt)	3 BHK Apartment	Oulgaret West	Oulgaret / Puducherry	Apartment / 3 BHK	1265	₹77.43 L	Semi-Furnished	3	Any	Sale
+164	Puducherry Properties (Puducherry.txt)	4 BHK Independent House	Puducherry Nagar	Puducherry / Puducherry	Independent House / 4 BHK	1943	₹27,000/month	Semi-Furnished	4	Family	Rent
+165	Puducherry Properties (Puducherry.txt)	2 BHK Apartment	Karaikal Residential Area	Karaikal / Puducherry	Apartment / 2 BHK	820	₹58.32 L	Fully-Furnished	2	Family	Sale
+166	Puducherry Properties (Puducherry.txt)	2 BHK Independent House	Puducherry West	Puducherry / Puducherry	Independent House / 2 BHK	1027	₹44.38 L	Semi-Furnished	2	Family	Sale
+167	Puducherry Properties (Puducherry.txt)	2 BHK Apartment	Oulgaret Sector 2	Oulgaret / Puducherry	Apartment / 2 BHK	856	₹51.73 L	Fully-Furnished	2	Family	Sale
+168	Puducherry Properties (Puducherry.txt)	3 BHK Apartment	Puducherry Sector 1	Puducherry / Puducherry	Apartment / 3 BHK	1276	₹73.79 L	Semi-Furnished	3	Family	Sale
+169	Puducherry Properties (Puducherry.txt)	1 BHK Apartment	Oulgaret Town Centre	Oulgaret / Puducherry	Apartment / 1 BHK	603	₹28.56 L	Semi-Furnished	2	Family	Sale
+170	Puducherry Properties (Puducherry.txt)	1 BHK Studio	Yanam Colony	Yanam / Puducherry	Studio / 1 BHK	358	₹9,900/month	Unfurnished	1	Family	Rent
+171	Puducherry Properties (Puducherry.txt)	3 BHK Apartment	Oulgaret North	Oulgaret / Puducherry	Apartment / 3 BHK	1468	₹75.85 L	Semi-Furnished	4	Any	Sale
+172	Puducherry Properties (Puducherry.txt)	1 BHK Apartment	Karaikal Sector 2	Karaikal / Puducherry	Apartment / 1 BHK	434	₹32.55 L	Unfurnished	2	Any	Sale
+173	Puducherry Properties (Puducherry.txt)	3 BHK Apartment	Oulgaret West	Oulgaret / Puducherry	Apartment / 3 BHK	1061	₹17,100/month	Unfurnished	3	Family	Rent
+174	Puducherry Properties (Puducherry.txt)	2 BHK Apartment	Oulgaret Central	Oulgaret / Puducherry	Apartment / 2 BHK	880	₹59.41 L	Semi-Furnished	3	Family	Sale
+175	Puducherry Properties (Puducherry.txt)	2 BHK Apartment	Yanam North	Yanam / Puducherry	Apartment / 2 BHK	744	₹42.61 L	Fully-Furnished	2	Family	Sale
+176	Puducherry Properties (Puducherry.txt)	1 BHK Villa	Oulgaret Residential Area	Oulgaret / Puducherry	Villa / 1 BHK	833	₹41.77 L	Semi-Furnished	2	Bachelors	Sale
+177	Puducherry Properties (Puducherry.txt)	4 BHK Independent House	Yanam Main Road	Yanam / Puducherry	Independent House / 4 BHK	2033	₹94.93 L	Semi-Furnished	4	Any	Sale
+178	Puducherry Properties (Puducherry.txt)	3 BHK Apartment	Puducherry West	Puducherry / Puducherry	Apartment / 3 BHK	1223	₹16,800/month	Unfurnished	2	Any	Rent
+179	Puducherry Properties (Puducherry.txt)	3 BHK Apartment	Puducherry North	Puducherry / Puducherry	Apartment / 3 BHK	1588	₹66.05 L	Unfurnished	4	Family	Sale
+180	Puducherry Properties (Puducherry.txt)	1 BHK Studio	Oulgaret West	Oulgaret / Puducherry	Studio / 1 BHK	418	₹25.53 L	Semi-Furnished	1	Family	Sale
+181	Puducherry Properties (Puducherry.txt)	1 BHK Studio	Yanam Sector 3	Yanam / Puducherry	Studio / 1 BHK	321	₹8,700/month	Unfurnished	1	Family	Rent
+182	Puducherry Properties (Puducherry.txt)	5 BHK Apartment	Oulgaret Residential Area	Oulgaret / Puducherry	Apartment / 5 BHK	2392	₹93.08 L	Semi-Furnished	5	Bachelors	Sale
+183	Puducherry Properties (Puducherry.txt)	1 BHK Builder Floor	Puducherry East	Puducherry / Puducherry	Builder Floor / 1 BHK	435	₹8,500/month	Fully-Furnished	1	Bachelors	Rent
+184	Puducherry Properties (Puducherry.txt)	3 BHK Apartment	Yanam North	Yanam / Puducherry	Apartment / 3 BHK	1437	₹79.65 L	Semi-Furnished	3	Family	Sale
+185	Puducherry Properties (Puducherry.txt)	1 BHK Apartment	Karaikal Heights	Karaikal / Puducherry	Apartment / 1 BHK	650	₹35.70 L	Semi-Furnished	1	Family	Sale
+186	Puducherry Properties (Puducherry.txt)	2 BHK Apartment	Puducherry Sector 2	Puducherry / Puducherry	Apartment / 2 BHK	578	₹12,800/month	Fully-Furnished	3	Family	Rent
+187	Puducherry Properties (Puducherry.txt)	1 BHK Studio	Puducherry North	Puducherry / Puducherry	Studio / 1 BHK	416	₹9,500/month	Semi-Furnished	1	Bachelors	Rent
+188	Puducherry Properties (Puducherry.txt)	3 BHK Villa	Yanam Sector 1	Yanam / Puducherry	Villa / 3 BHK	1670	₹86.56 L	Semi-Furnished	3	Any	Sale
+189	Puducherry Properties (Puducherry.txt)	3 BHK Apartment	Karaikal Central	Karaikal / Puducherry	Apartment / 3 BHK	1085	₹19,200/month	Semi-Furnished	3	Family	Rent
+190	Puducherry Properties (Puducherry.txt)	5 BHK Builder Floor	Oulgaret North	Oulgaret / Puducherry	Builder Floor / 5 BHK	2732	₹33,200/month	Fully-Furnished	5	Family	Rent
+191	Puducherry Properties (Puducherry.txt)	1 BHK Apartment	Yanam South	Yanam / Puducherry	Apartment / 1 BHK	600	₹10,200/month	Semi-Furnished	1	Any	Rent
+192	Puducherry Properties (Puducherry.txt)	2 BHK Builder Floor	Karaikal South	Karaikal / Puducherry	Builder Floor / 2 BHK	940	₹41.55 L	Fully-Furnished	1	Family	Sale
+193	Puducherry Properties (Puducherry.txt)	4 BHK Apartment	Yanam North	Yanam / Puducherry	Apartment / 4 BHK	1776	₹97.50 L	Semi-Furnished	4	Bachelors	Sale
+194	Puducherry Properties (Puducherry.txt)	1 BHK Apartment	Yanam West	Yanam / Puducherry	Apartment / 1 BHK	466	₹34.04 L	Semi-Furnished	2	Any	Sale
+195	Puducherry Properties (Puducherry.txt)	3 BHK Apartment	Yanam East	Yanam / Puducherry	Apartment / 3 BHK	1344	₹58.02 L	Fully-Furnished	3	Bachelors	Sale
+196	Puducherry Properties (Puducherry.txt)	5 BHK Builder Floor	Yanam Main Road	Yanam / Puducherry	Builder Floor / 5 BHK	2094	₹28,900/month	Semi-Furnished	5	Bachelors	Rent
+197	Puducherry Properties (Puducherry.txt)	2 BHK Builder Floor	Puducherry Town Centre	Puducherry / Puducherry	Builder Floor / 2 BHK	741	₹15,200/month	Fully-Furnished	1	Bachelors	Rent
+198	Puducherry Properties (Puducherry.txt)	1 BHK Apartment	Yanam Sector 2	Yanam / Puducherry	Apartment / 1 BHK	510	₹28.01 L	Fully-Furnished	1	Any	Sale
+199	Puducherry Properties (Puducherry.txt)	1 BHK Apartment	Yanam Heights	Yanam / Puducherry	Apartment / 1 BHK	517	₹31.08 L	Semi-Furnished	1	Family	Sale
+200	Puducherry Properties (Puducherry.txt)	2 BHK Independent House	Puducherry North	Puducherry / Puducherry	Independent House / 2 BHK	1083	₹12,100/month	Semi-Furnished	1	Family	Rent
+201	Puducherry Properties (Puducherry.txt)	2 BHK Apartment	Karaikal Main Road	Karaikal / Puducherry	Apartment / 2 BHK	1018	₹14,500/month	Semi-Furnished	1	Bachelors	Rent
+202	Puducherry Properties (Puducherry.txt)	3 BHK Apartment	Puducherry East	Puducherry / Puducherry	Apartment / 3 BHK	1300	₹15,600/month	Fully-Furnished	2	Family	Rent
+203	Puducherry Properties (Puducherry.txt)	3 BHK Apartment	Karaikal Extension	Karaikal / Puducherry	Apartment / 3 BHK	1207	₹74.95 L	Semi-Furnished	2	Any	Sale
+204	Puducherry Properties (Puducherry.txt)	3 BHK Apartment	Karaikal Residential Area	Karaikal / Puducherry	Apartment / 3 BHK	1275	₹56.21 L	Semi-Furnished	3	Family	Sale
+205	Puducherry Properties (Puducherry.txt)	2 BHK Apartment	Karaikal Colony	Karaikal / Puducherry	Apartment / 2 BHK	970	₹14,800/month	Fully-Furnished	2	Bachelors	Rent
+206	Puducherry Properties (Puducherry.txt)	4 BHK Apartment	Oulgaret Residential Area	Oulgaret / Puducherry	Apartment / 4 BHK	1751	₹24,400/month	Semi-Furnished	3	Bachelors	Rent
+207	Puducherry Properties (Puducherry.txt)	2 BHK Apartment	Oulgaret East	Oulgaret / Puducherry	Apartment / 2 BHK	823	₹41.49 L	Semi-Furnished	2	Family	Sale
+208	Puducherry Properties (Puducherry.txt)	4 BHK Independent House	Puducherry Central	Puducherry / Puducherry	Independent House / 4 BHK	2080	₹88.04 L	Fully-Furnished	3	Bachelors	Sale
+209	Puducherry Properties (Puducherry.txt)	4 BHK Independent House	Karaikal Sector 1	Karaikal / Puducherry	Independent House / 4 BHK	2221	₹1 Cr	Unfurnished	4	Bachelors	Sale
+210	Puducherry Properties (Puducherry.txt)	3 BHK Independent House	Puducherry Sector 2	Puducherry / Puducherry	Independent House / 3 BHK	1681	₹21,700/month	Fully-Furnished	3	Family	Rent
+211	Puducherry Properties (Puducherry.txt)	3 BHK Independent House	Yanam North	Yanam / Puducherry	Independent House / 3 BHK	1731	₹80.85 L	Fully-Furnished	3	Any	Sale
+212	Puducherry Properties (Puducherry.txt)	3 BHK Villa	Karaikal Sector 3	Karaikal / Puducherry	Villa / 3 BHK	1525	₹16,600/month	Semi-Furnished	3	Bachelors	Rent
+213	Puducherry Properties (Puducherry.txt)	4 BHK Builder Floor	Yanam Heights	Yanam / Puducherry	Builder Floor / 4 BHK	1636	₹22,700/month	Unfurnished	4	Family	Rent
+214	Puducherry Properties (Puducherry.txt)	2 BHK Villa	Puducherry Town Centre	Puducherry / Puducherry	Villa / 2 BHK	1552	₹17,600/month	Fully-Furnished	2	Family	Rent
+215	Puducherry Properties (Puducherry.txt)	3 BHK Apartment	Yanam Residential Area	Yanam / Puducherry	Apartment / 3 BHK	1216	₹73.96 L	Semi-Furnished	2	Family	Sale
+216	Puducherry Properties (Puducherry.txt)	2 BHK Builder Floor	Yanam Colony	Yanam / Puducherry	Builder Floor / 2 BHK	849	₹15,900/month	Fully-Furnished	3	Any	Rent
+217	Puducherry Properties (Puducherry.txt)	3 BHK Apartment	Karaikal Central	Karaikal / Puducherry	Apartment / 3 BHK	1212	₹16,600/month	Unfurnished	3	Family	Rent
+218	Puducherry Properties (Puducherry.txt)	3 BHK Villa	Puducherry South	Puducherry / Puducherry	Villa / 3 BHK	1866	₹78.25 L	Semi-Furnished	3	Family	Sale
+219	Puducherry Properties (Puducherry.txt)	3 BHK Apartment	Oulgaret South	Oulgaret / Puducherry	Apartment / 3 BHK	1193	₹60.33 L	Unfurnished	3	Bachelors	Sale
+220	Puducherry Properties (Puducherry.txt)	4 BHK Independent House	Puducherry Sector 2	Puducherry / Puducherry	Independent House / 4 BHK	2328	₹25,800/month	Semi-Furnished	3	Family	Rent
+221	Puducherry Properties (Puducherry.txt)	2 BHK Villa	Yanam Town Centre	Yanam / Puducherry	Villa / 2 BHK	922	₹15,200/month	Fully-Furnished	1	Any	Rent
+222	Puducherry Properties (Puducherry.txt)	1 BHK Independent House	Yanam South	Yanam / Puducherry	Independent House / 1 BHK	495	₹34.95 L	Unfurnished	1	Bachelors	Sale
+223	Puducherry Properties (Puducherry.txt)	2 BHK Independent House	Oulgaret Sector 3	Oulgaret / Puducherry	Independent House / 2 BHK	902	₹58.70 L	Semi-Furnished	3	Any	Sale
+224	Puducherry Properties (Puducherry.txt)	1 BHK Independent House	Puducherry East	Puducherry / Puducherry	Independent House / 1 BHK	509	₹35.90 L	Fully-Furnished	1	Family	Sale
+225	Puducherry Properties (Puducherry.txt)	2 BHK Apartment	Yanam Heights	Yanam / Puducherry	Apartment / 2 BHK	939	₹52.14 L	Semi-Furnished	1	Bachelors	Sale
+226	Puducherry Properties (Puducherry.txt)	2 BHK Apartment	Puducherry Colony	Puducherry / Puducherry	Apartment / 2 BHK	917	₹15,300/month	Semi-Furnished	1	Family	Rent
+227	Puducherry Properties (Puducherry.txt)	3 BHK Independent House	Karaikal Nagar	Karaikal / Puducherry	Independent House / 3 BHK	1128	₹70.69 L	Semi-Furnished	2	Family	Sale
+228	Puducherry Properties (Puducherry.txt)	2 BHK Apartment	Oulgaret Sector 2	Oulgaret / Puducherry	Apartment / 2 BHK	876	₹54.10 L	Fully-Furnished	2	Family	Sale
+229	Puducherry Properties (Puducherry.txt)	4 BHK Villa	Karaikal Sector 2	Karaikal / Puducherry	Villa / 4 BHK	2254	₹24,700/month	Unfurnished	3	Any	Rent
+230	Puducherry Properties (Puducherry.txt)	1 BHK Apartment	Yanam Sector 1	Yanam / Puducherry	Apartment / 1 BHK	569	₹8,000/month	Fully-Furnished	1	Bachelors	Rent
+231	Puducherry Properties (Puducherry.txt)	3 BHK Villa	Karaikal West	Karaikal / Puducherry	Villa / 3 BHK	1186	₹16,900/month	Semi-Furnished	4	Family	Rent
+232	Puducherry Properties (Puducherry.txt)	2 BHK Builder Floor	Karaikal North	Karaikal / Puducherry	Builder Floor / 2 BHK	900	₹57.47 L	Semi-Furnished	3	Any	Sale
+233	Puducherry Properties (Puducherry.txt)	3 BHK Apartment	Puducherry Nagar	Puducherry / Puducherry	Apartment / 3 BHK	1625	₹87.44 L	Semi-Furnished	3	Bachelors	Sale
+234	Puducherry Properties (Puducherry.txt)	1 BHK Builder Floor	Oulgaret Residential Area	Oulgaret / Puducherry	Builder Floor / 1 BHK	473	₹27.47 L	Unfurnished	1	Bachelors	Sale
+235	Puducherry Properties (Puducherry.txt)	1 BHK Builder Floor	Yanam South	Yanam / Puducherry	Builder Floor / 1 BHK	600	₹26.44 L	Unfurnished	1	Any	Sale
+236	Puducherry Properties (Puducherry.txt)	2 BHK Apartment	Oulgaret Extension	Oulgaret / Puducherry	Apartment / 2 BHK	842	₹12,600/month	Semi-Furnished	1	Family	Rent
+237	Puducherry Properties (Puducherry.txt)	4 BHK Apartment	Oulgaret Sector 2	Oulgaret / Puducherry	Apartment / 4 BHK	1863	₹80.11 L	Semi-Furnished	4	Family	Sale
+238	Puducherry Properties (Puducherry.txt)	4 BHK Apartment	Oulgaret Central	Oulgaret / Puducherry	Apartment / 4 BHK	1978	₹24,100/month	Fully-Furnished	5	Family	Rent
+239	Puducherry Properties (Puducherry.txt)	1 BHK Builder Floor	Karaikal South	Karaikal / Puducherry	Builder Floor / 1 BHK	676	₹7,800/month	Unfurnished	2	Any	Rent
+240	Puducherry Properties (Puducherry.txt)	4 BHK Apartment	Karaikal Sector 1	Karaikal / Puducherry	Apartment / 4 BHK	1792	₹22,300/month	Fully-Furnished	4	Bachelors	Rent
+241	Puducherry Properties (Puducherry.txt)	2 BHK Apartment	Puducherry East	Puducherry / Puducherry	Apartment / 2 BHK	747	₹14,000/month	Semi-Furnished	2	Any	Rent
+242	Puducherry Properties (Puducherry.txt)	2 BHK Villa	Karaikal Nagar	Karaikal / Puducherry	Villa / 2 BHK	1441	₹67.15 L	Unfurnished	2	Any	Sale
+243	Puducherry Properties (Puducherry.txt)	3 BHK Apartment	Oulgaret East	Oulgaret / Puducherry	Apartment / 3 BHK	1247	₹70.57 L	Semi-Furnished	2	Family	Sale
+244	Puducherry Properties (Puducherry.txt)	3 BHK Villa	Karaikal Colony	Karaikal / Puducherry	Villa / 3 BHK	2141	₹91.82 L	Fully-Furnished	3	Family	Sale
+245	Puducherry Properties (Puducherry.txt)	2 BHK Apartment	Oulgaret Heights	Oulgaret / Puducherry	Apartment / 2 BHK	675	₹47.23 L	Unfurnished	2	Family	Sale
+246	Puducherry Properties (Puducherry.txt)	3 BHK Apartment	Puducherry Sector 1	Puducherry / Puducherry	Apartment / 3 BHK	1086	₹20,300/month	Unfurnished	4	Any	Rent
+247	Puducherry Properties (Puducherry.txt)	2 BHK Independent House	Oulgaret Sector 3	Oulgaret / Puducherry	Independent House / 2 BHK	938	₹51.73 L	Semi-Furnished	3	Any	Sale
+248	Puducherry Properties (Puducherry.txt)	1 BHK Apartment	Karaikal Main Road	Karaikal / Puducherry	Apartment / 1 BHK	505	₹8,900/month	Semi-Furnished	2	Bachelors	Rent
+249	Puducherry Properties (Puducherry.txt)	4 BHK Apartment	Puducherry Central	Puducherry / Puducherry	Apartment / 4 BHK	1440	₹24,300/month	Semi-Furnished	4	Family	Rent
+250	Puducherry Properties (Puducherry.txt)	3 BHK Apartment	Karaikal Sector 2	Karaikal / Puducherry	Apartment / 3 BHK	1153	₹15,900/month	Fully-Furnished	3	Bachelors	Rent
+251	Puducherry Properties (Puducherry.txt)	4 BHK Independent House	Karaikal Heights	Karaikal / Puducherry	Independent House / 4 BHK	1658	₹22,700/month	Unfurnished	4	Family	Rent
+252	Puducherry Properties (Puducherry.txt)	1 BHK Apartment	Karaikal Sector 2	Karaikal / Puducherry	Apartment / 1 BHK	644	₹27.88 L	Fully-Furnished	2	Family	Sale
+253	Puducherry Properties (Puducherry.txt)	1 BHK Apartment	Puducherry Central	Puducherry / Puducherry	Apartment / 1 BHK	504	₹36.08 L	Fully-Furnished	1	Bachelors	Sale
+254	Puducherry Properties (Puducherry.txt)	3 BHK Apartment	Karaikal West	Karaikal / Puducherry	Apartment / 3 BHK	1199	₹71.15 L	Fully-Furnished	3	Family	Sale
+255	Puducherry Properties (Puducherry.txt)	4 BHK Builder Floor	Oulgaret Residential Area	Oulgaret / Puducherry	Builder Floor / 4 BHK	1203	₹24,700/month	Semi-Furnished	4	Bachelors	Rent
+256	Puducherry Properties (Puducherry.txt)	2 BHK Independent House	Puducherry Town Centre	Puducherry / Puducherry	Independent House / 2 BHK	963	₹43.45 L	Semi-Furnished	3	Bachelors	Sale
+257	Puducherry Properties (Puducherry.txt)	1 BHK Studio	Oulgaret North	Oulgaret / Puducherry	Studio / 1 BHK	362	₹6,900/month	Semi-Furnished	1	Family	Rent
+258	Puducherry Properties (Puducherry.txt)	2 BHK Apartment	Karaikal Central	Karaikal / Puducherry	Apartment / 2 BHK	836	₹40.89 L	Semi-Furnished	2	Family	Sale
+259	Puducherry Properties (Puducherry.txt)	1 BHK Apartment	Yanam Town Centre	Yanam / Puducherry	Apartment / 1 BHK	527	₹30.62 L	Unfurnished	1	Family	Sale
+260	Puducherry Properties (Puducherry.txt)	4 BHK Independent House	Yanam Extension	Yanam / Puducherry	Independent House / 4 BHK	2321	₹80.71 L	Semi-Furnished	4	Family	Sale
+261	Puducherry Properties (Puducherry.txt)	4 BHK Apartment	Puducherry Sector 2	Puducherry / Puducherry	Apartment / 4 BHK	1999	₹88.76 L	Unfurnished	3	Any	Sale
+262	Puducherry Properties (Puducherry.txt)	4 BHK Independent House	Karaikal Extension	Karaikal / Puducherry	Independent House / 4 BHK	2395	₹88.80 L	Unfurnished	4	Family	Sale
+263	Puducherry Properties (Puducherry.txt)	3 BHK Apartment	Yanam Nagar	Yanam / Puducherry	Apartment / 3 BHK	1159	₹19,000/month	Unfurnished	3	Any	Rent
+264	Puducherry Properties (Puducherry.txt)	1 BHK Studio	Oulgaret Residential Area	Oulgaret / Puducherry	Studio / 1 BHK	378	₹31.07 L	Unfurnished	1	Family	Sale
+265	Puducherry Properties (Puducherry.txt)	2 BHK Villa	Yanam North	Yanam / Puducherry	Villa / 2 BHK	995	₹12,000/month	Semi-Furnished	2	Any	Rent
+266	Puducherry Properties (Puducherry.txt)	2 BHK Independent House	Oulgaret East	Oulgaret / Puducherry	Independent House / 2 BHK	1081	₹17,100/month	Semi-Furnished	3	Family	Rent
+267	Puducherry Properties (Puducherry.txt)	3 BHK Apartment	Karaikal West	Karaikal / Puducherry	Apartment / 3 BHK	1382	₹21,100/month	Semi-Furnished	2	Bachelors	Rent
+268	Puducherry Properties (Puducherry.txt)	1 BHK Studio	Puducherry Colony	Puducherry / Puducherry	Studio / 1 BHK	361	₹7,000/month	Semi-Furnished	1	Any	Rent
+269	Puducherry Properties (Puducherry.txt)	2 BHK Apartment	Yanam Sector 1	Yanam / Puducherry	Apartment / 2 BHK	847	₹52.34 L	Semi-Furnished	2	Family	Sale
+270	Puducherry Properties (Puducherry.txt)	2 BHK Apartment	Oulgaret Extension	Oulgaret / Puducherry	Apartment / 2 BHK	945	₹60.80 L	Semi-Furnished	2	Family	Sale
+271	Puducherry Properties (Puducherry.txt)	3 BHK Independent House	Puducherry Sector 1	Puducherry / Puducherry	Independent House / 3 BHK	1627	₹16,800/month	Unfurnished	3	Bachelors	Rent
+272	Puducherry Properties (Puducherry.txt)	1 BHK Studio	Oulgaret South	Oulgaret / Puducherry	Studio / 1 BHK	402	₹29.16 L	Fully-Furnished	1	Family	Sale
+273	Puducherry Properties (Puducherry.txt)	2 BHK Villa	Puducherry Main Road	Puducherry / Puducherry	Villa / 2 BHK	1020	₹13,400/month	Unfurnished	2	Family	Rent
+274	Puducherry Properties (Puducherry.txt)	3 BHK Independent House	Yanam Heights	Yanam / Puducherry	Independent House / 3 BHK	1513	₹16,100/month	Fully-Furnished	3	Family	Rent
+275	Puducherry Properties (Puducherry.txt)	1 BHK Studio	Karaikal Town Centre	Karaikal / Puducherry	Studio / 1 BHK	475	₹25.02 L	Semi-Furnished	2	Any	Sale
+276	Puducherry Properties (Puducherry.txt)	3 BHK Apartment	Karaikal Sector 1	Karaikal / Puducherry	Apartment / 3 BHK	1241	₹73.95 L	Unfurnished	4	Any	Sale
+277	Puducherry Properties (Puducherry.txt)	2 BHK Apartment	Oulgaret Sector 1	Oulgaret / Puducherry	Apartment / 2 BHK	696	₹44.92 L	Semi-Furnished	2	Family	Sale
+278	Puducherry Properties (Puducherry.txt)	4 BHK Independent House	Yanam Heights	Yanam / Puducherry	Independent House / 4 BHK	2252	₹1.08 Cr	Unfurnished	5	Bachelors	Sale
+279	Puducherry Properties (Puducherry.txt)	1 BHK Studio	Oulgaret East	Oulgaret / Puducherry	Studio / 1 BHK	300	₹9,300/month	Semi-Furnished	1	Bachelors	Rent
+280	Puducherry Properties (Puducherry.txt)	3 BHK Apartment	Karaikal Main Road	Karaikal / Puducherry	Apartment / 3 BHK	1178	₹19,400/month	Fully-Furnished	4	Any	Rent
+281	Puducherry Properties (Puducherry.txt)	1 BHK Independent House	Puducherry Heights	Puducherry / Puducherry	Independent House / 1 BHK	698	₹8,300/month	Semi-Furnished	1	Bachelors	Rent
+282	Puducherry Properties (Puducherry.txt)	2 BHK Villa	Puducherry Heights	Puducherry / Puducherry	Villa / 2 BHK	1014	₹58.71 L	Semi-Furnished	2	Any	Sale
+283	Puducherry Properties (Puducherry.txt)	1 BHK Apartment	Karaikal Sector 3	Karaikal / Puducherry	Apartment / 1 BHK	537	₹36.23 L	Fully-Furnished	2	Family	Sale
+284	Puducherry Properties (Puducherry.txt)	3 BHK Apartment	Oulgaret Extension	Oulgaret / Puducherry	Apartment / 3 BHK	1353	₹82.01 L	Unfurnished	3	Any	Sale
+285	Puducherry Properties (Puducherry.txt)	2 BHK Independent House	Yanam Heights	Yanam / Puducherry	Independent House / 2 BHK	969	₹58.25 L	Semi-Furnished	3	Bachelors	Sale
+286	Puducherry Properties (Puducherry.txt)	1 BHK Studio	Yanam West	Yanam / Puducherry	Studio / 1 BHK	473	₹28.15 L	Semi-Furnished	1	Family	Sale
+287	Puducherry Properties (Puducherry.txt)	1 BHK Apartment	Yanam South	Yanam / Puducherry	Apartment / 1 BHK	426	₹9,500/month	Semi-Furnished	1	Bachelors	Rent
+288	Puducherry Properties (Puducherry.txt)	3 BHK Villa	Oulgaret Residential Area	Oulgaret / Puducherry	Villa / 3 BHK	1631	₹21,100/month	Semi-Furnished	3	Family	Rent
+289	Puducherry Properties (Puducherry.txt)	1 BHK Independent House	Karaikal Sector 1	Karaikal / Puducherry	Independent House / 1 BHK	716	₹9,300/month	Semi-Furnished	1	Bachelors	Rent
+290	Puducherry Properties (Puducherry.txt)	4 BHK Apartment	Karaikal Sector 2	Karaikal / Puducherry	Apartment / 4 BHK	1548	₹18,800/month	Unfurnished	4	Any	Rent
+291	Puducherry Properties (Puducherry.txt)	2 BHK Apartment	Oulgaret Nagar	Oulgaret / Puducherry	Apartment / 2 BHK	839	₹58.74 L	Semi-Furnished	1	Any	Sale
+292	Puducherry Properties (Puducherry.txt)	3 BHK Apartment	Yanam South	Yanam / Puducherry	Apartment / 3 BHK	1048	₹70.88 L	Semi-Furnished	4	Family	Sale
+293	Puducherry Properties (Puducherry.txt)	5 BHK Villa	Oulgaret Sector 1	Oulgaret / Puducherry	Villa / 5 BHK	3450	₹1.10 Cr	Fully-Furnished	4	Bachelors	Sale
+294	Puducherry Properties (Puducherry.txt)	4 BHK Apartment	Oulgaret Nagar	Oulgaret / Puducherry	Apartment / 4 BHK	1899	₹78.27 L	Semi-Furnished	4	Bachelors	Sale
+295	Puducherry Properties (Puducherry.txt)	2 BHK Builder Floor	Oulgaret Residential Area	Oulgaret / Puducherry	Builder Floor / 2 BHK	867	₹45.37 L	Fully-Furnished	2	Bachelors	Sale
+296	Puducherry Properties (Puducherry.txt)	3 BHK Apartment	Yanam Central	Yanam / Puducherry	Apartment / 3 BHK	1486	₹69.48 L	Semi-Furnished	4	Any	Sale
+297	Puducherry Properties (Puducherry.txt)	2 BHK Independent House	Oulgaret West	Oulgaret / Puducherry	Independent House / 2 BHK	1074	₹12,700/month	Semi-Furnished	3	Bachelors	Rent
+298	Puducherry Properties (Puducherry.txt)	1 BHK Studio	Oulgaret East	Oulgaret / Puducherry	Studio / 1 BHK	314	₹29.29 L	Fully-Furnished	1	Any	Sale
+299	Puducherry Properties (Puducherry.txt)	2 BHK Apartment	Yanam East	Yanam / Puducherry	Apartment / 2 BHK	984	₹49.05 L	Unfurnished	1	Any	Sale
+300	Puducherry Properties (Puducherry.txt)	4 BHK Apartment	Oulgaret Sector 1	Oulgaret / Puducherry	Apartment / 4 BHK	1746	₹99.49 L	Semi-Furnished	4	Bachelors	Sale
+301	Puducherry Properties (Puducherry.txt)	2 BHK Apartment	Karaikal Town Centre	Karaikal / Puducherry	Apartment / 2 BHK	883	₹49.71 L	Unfurnished	2	Bachelors	Sale
+302	Puducherry Properties (Puducherry.txt)	2 BHK Builder Floor	Oulgaret Main Road	Oulgaret / Puducherry	Builder Floor / 2 BHK	832	₹55.48 L	Semi-Furnished	1	Family	Sale
+303	Puducherry Properties (Puducherry.txt)	1 BHK Studio	Yanam South	Yanam / Puducherry	Studio / 1 BHK	394	₹31.84 L	Fully-Furnished	1	Family	Sale
+304	Puducherry Properties (Puducherry.txt)	3 BHK Apartment	Yanam Heights	Yanam / Puducherry	Apartment / 3 BHK	1293	₹65.36 L	Fully-Furnished	3	Any	Sale
+305	Puducherry Properties (Puducherry.txt)	3 BHK Builder Floor	Karaikal Central	Karaikal / Puducherry	Builder Floor / 3 BHK	1217	₹57.76 L	Fully-Furnished	3	Any	Sale
+306	Puducherry Properties (Puducherry.txt)	2 BHK Apartment	Karaikal West	Karaikal / Puducherry	Apartment / 2 BHK	843	₹58.56 L	Unfurnished	2	Family	Sale
+307	Puducherry Properties (Puducherry.txt)	3 BHK Apartment	Puducherry Heights	Puducherry / Puducherry	Apartment / 3 BHK	1073	₹67.63 L	Semi-Furnished	2	Family	Sale
+308	Puducherry Properties (Puducherry.txt)	2 BHK Apartment	Karaikal Sector 3	Karaikal / Puducherry	Apartment / 2 BHK	835	₹41.58 L	Fully-Furnished	2	Family	Sale
+309	Puducherry Properties (Puducherry.txt)	4 BHK Builder Floor	Oulgaret Sector 3	Oulgaret / Puducherry	Builder Floor / 4 BHK	1905	₹21,900/month	Fully-Furnished	5	Any	Rent
+310	Puducherry Properties (Puducherry.txt)	3 BHK Builder Floor	Yanam Residential Area	Yanam / Puducherry	Builder Floor / 3 BHK	1151	₹64.24 L	Fully-Furnished	2	Bachelors	Sale
+311	Puducherry Properties (Puducherry.txt)	3 BHK Builder Floor	Oulgaret Heights	Oulgaret / Puducherry	Builder Floor / 3 BHK	1032	₹76.78 L	Semi-Furnished	2	Any	Sale
+312	Puducherry Properties (Puducherry.txt)	2 BHK Builder Floor	Puducherry Colony	Puducherry / Puducherry	Builder Floor / 2 BHK	883	₹55.06 L	Semi-Furnished	1	Family	Sale
+313	Puducherry Properties (Puducherry.txt)	3 BHK Builder Floor	Karaikal Central	Karaikal / Puducherry	Builder Floor / 3 BHK	1276	₹82.29 L	Semi-Furnished	3	Bachelors	Sale
+314	Puducherry Properties (Puducherry.txt)	2 BHK Apartment	Yanam Colony	Yanam / Puducherry	Apartment / 2 BHK	1023	₹15,800/month	Semi-Furnished	1	Any	Rent
+315	Puducherry Properties (Puducherry.txt)	4 BHK Builder Floor	Oulgaret West	Oulgaret / Puducherry	Builder Floor / 4 BHK	1518	₹88.69 L	Semi-Furnished	4	Family	Sale
+316	Puducherry Properties (Puducherry.txt)	2 BHK Apartment	Karaikal Nagar	Karaikal / Puducherry	Apartment / 2 BHK	1068	₹15,300/month	Unfurnished	1	Bachelors	Rent
+317	Puducherry Properties (Puducherry.txt)	5 BHK Independent House	Oulgaret West	Oulgaret / Puducherry	Independent House / 5 BHK	2914	₹32,700/month	Fully-Furnished	5	Any	Rent
+318	Puducherry Properties (Puducherry.txt)	2 BHK Builder Floor	Yanam North	Yanam / Puducherry	Builder Floor / 2 BHK	769	₹14,600/month	Fully-Furnished	3	Any	Rent
+319	Puducherry Properties (Puducherry.txt)	3 BHK Apartment	Karaikal Nagar	Karaikal / Puducherry	Apartment / 3 BHK	1033	₹20,500/month	Semi-Furnished	2	Family	Rent
+320	Puducherry Properties (Puducherry.txt)	2 BHK Apartment	Puducherry Heights	Puducherry / Puducherry	Apartment / 2 BHK	1026	₹15,500/month	Unfurnished	1	Family	Rent
+321	Puducherry Properties (Puducherry.txt)	4 BHK Apartment	Puducherry Nagar	Puducherry / Puducherry	Apartment / 4 BHK	1753	₹1.01 Cr	Semi-Furnished	4	Family	Sale
+322	Puducherry Properties (Puducherry.txt)	2 BHK Apartment	Oulgaret Colony	Oulgaret / Puducherry	Apartment / 2 BHK	848	₹48.48 L	Fully-Furnished	2	Bachelors	Sale
+323	Puducherry Properties (Puducherry.txt)	3 BHK Independent House	Karaikal North	Karaikal / Puducherry	Independent House / 3 BHK	1468	₹21,900/month	Semi-Furnished	4	Bachelors	Rent
+324	Puducherry Properties (Puducherry.txt)	2 BHK Apartment	Yanam Central	Yanam / Puducherry	Apartment / 2 BHK	727	₹42.37 L	Unfurnished	2	Bachelors	Sale
+325	Puducherry Properties (Puducherry.txt)	2 BHK Apartment	Oulgaret Central	Oulgaret / Puducherry	Apartment / 2 BHK	858	₹11,100/month	Fully-Furnished	2	Family	Rent
+326	Puducherry Properties (Puducherry.txt)	2 BHK Apartment	Karaikal Extension	Karaikal / Puducherry	Apartment / 2 BHK	877	₹15,000/month	Fully-Furnished	3	Bachelors	Rent
+327	Puducherry Properties (Puducherry.txt)	1 BHK Studio	Puducherry Residential Area	Puducherry / Puducherry	Studio / 1 BHK	373	₹7,400/month	Unfurnished	2	Bachelors	Rent
+328	Puducherry Properties (Puducherry.txt)	2 BHK Independent House	Karaikal Main Road	Karaikal / Puducherry	Independent House / 2 BHK	1095	₹12,400/month	Semi-Furnished	2	Family	Rent
+329	Puducherry Properties (Puducherry.txt)	3 BHK Apartment	Karaikal Extension	Karaikal / Puducherry	Apartment / 3 BHK	1052	₹70.33 L	Fully-Furnished	4	Family	Sale
+330	Puducherry Properties (Puducherry.txt)	1 BHK Apartment	Yanam Central	Yanam / Puducherry	Apartment / 1 BHK	521	₹34.71 L	Unfurnished	1	Bachelors	Sale
+331	Puducherry Properties (Puducherry.txt)	4 BHK Builder Floor	Karaikal Colony	Karaikal / Puducherry	Builder Floor / 4 BHK	1800	₹27,100/month	Semi-Furnished	3	Family	Rent
+332	Puducherry Properties (Puducherry.txt)	2 BHK Apartment	Oulgaret Sector 1	Oulgaret / Puducherry	Apartment / 2 BHK	851	₹14,600/month	Fully-Furnished	2	Family	Rent
+333	Puducherry Properties (Puducherry.txt)	1 BHK Builder Floor	Yanam West	Yanam / Puducherry	Builder Floor / 1 BHK	564	₹28.92 L	Fully-Furnished	2	Family	Sale
+334	Puducherry Properties (Puducherry.txt)	3 BHK Apartment	Yanam West	Yanam / Puducherry	Apartment / 3 BHK	1251	₹67.31 L	Semi-Furnished	3	Any	Sale
+335	Puducherry Properties (Puducherry.txt)	3 BHK Apartment	Yanam Residential Area	Yanam / Puducherry	Apartment / 3 BHK	1575	₹77.62 L	Semi-Furnished	2	Bachelors	Sale
+336	Puducherry Properties (Puducherry.txt)	2 BHK Villa	Oulgaret Residential Area	Oulgaret / Puducherry	Villa / 2 BHK	956	₹15,400/month	Fully-Furnished	2	Any	Rent
+337	Puducherry Properties (Puducherry.txt)	3 BHK Apartment	Karaikal Extension	Karaikal / Puducherry	Apartment / 3 BHK	1116	₹79.90 L	Semi-Furnished	4	Bachelors	Sale
+338	Puducherry Properties (Puducherry.txt)	1 BHK Studio	Oulgaret Colony	Oulgaret / Puducherry	Studio / 1 BHK	417	₹27.11 L	Semi-Furnished	1	Bachelors	Sale
+339	Puducherry Properties (Puducherry.txt)	3 BHK Villa	Puducherry Nagar	Puducherry / Puducherry	Villa / 3 BHK	1783	₹81.78 L	Fully-Furnished	2	Bachelors	Sale
+340	Puducherry Properties (Puducherry.txt)	4 BHK Villa	Karaikal Sector 2	Karaikal / Puducherry	Villa / 4 BHK	1893	₹75.99 L	Semi-Furnished	4	Bachelors	Sale
+341	Puducherry Properties (Puducherry.txt)	3 BHK Independent House	Puducherry East	Puducherry / Puducherry	Independent House / 3 BHK	1535	₹23,200/month	Semi-Furnished	3	Any	Rent
+342	Puducherry Properties (Puducherry.txt)	3 BHK Builder Floor	Yanam Main Road	Yanam / Puducherry	Builder Floor / 3 BHK	1150	₹18,100/month	Semi-Furnished	3	Bachelors	Rent
+343	Puducherry Properties (Puducherry.txt)	3 BHK Builder Floor	Oulgaret South	Oulgaret / Puducherry	Builder Floor / 3 BHK	1254	₹16,400/month	Semi-Furnished	3	Bachelors	Rent
+344	Puducherry Properties (Puducherry.txt)	2 BHK Apartment	Karaikal Nagar	Karaikal / Puducherry	Apartment / 2 BHK	915	₹40.99 L	Semi-Furnished	1	Any	Sale
+345	Puducherry Properties (Puducherry.txt)	4 BHK Builder Floor	Karaikal Colony	Karaikal / Puducherry	Builder Floor / 4 BHK	1759	₹23,200/month	Semi-Furnished	5	Family	Rent
+346	Puducherry Properties (Puducherry.txt)	2 BHK Apartment	Yanam Extension	Yanam / Puducherry	Apartment / 2 BHK	799	₹42.81 L	Semi-Furnished	2	Bachelors	Sale
+347	Puducherry Properties (Puducherry.txt)	1 BHK Builder Floor	Karaikal Central	Karaikal / Puducherry	Builder Floor / 1 BHK	410	₹26.08 L	Fully-Furnished	1	Any	Sale
+348	Puducherry Properties (Puducherry.txt)	5 BHK Villa	Oulgaret Residential Area	Oulgaret / Puducherry	Villa / 5 BHK	2238	₹1.03 Cr	Unfurnished	5	Bachelors	Sale
+349	Puducherry Properties (Puducherry.txt)	1 BHK Apartment	Oulgaret East	Oulgaret / Puducherry	Apartment / 1 BHK	326	₹7,200/month	Semi-Furnished	2	Family	Rent
+350	Puducherry Properties (Puducherry.txt)	4 BHK Apartment	Oulgaret Residential Area	Oulgaret / Puducherry	Apartment / 4 BHK	1744	₹94.01 L	Semi-Furnished	5	Family	Sale
+351	Puducherry Properties (Puducherry.txt)	2 BHK Builder Floor	Oulgaret Nagar	Oulgaret / Puducherry	Builder Floor / 2 BHK	729	₹55.76 L	Semi-Furnished	2	Family	Sale
+352	Puducherry Properties (Puducherry.txt)	2 BHK Apartment	Puducherry North	Puducherry / Puducherry	Apartment / 2 BHK	838	₹15,900/month	Semi-Furnished	3	Any	Rent
+353	Puducherry Properties (Puducherry.txt)	3 BHK Builder Floor	Puducherry East	Puducherry / Puducherry	Builder Floor / 3 BHK	1139	₹66.89 L	Unfurnished	2	Any	Sale
+354	Puducherry Properties (Puducherry.txt)	1 BHK Apartment	Karaikal North	Karaikal / Puducherry	Apartment / 1 BHK	503	₹8,900/month	Semi-Furnished	2	Bachelors	Rent
+355	Puducherry Properties (Puducherry.txt)	2 BHK Villa	Puducherry Nagar	Puducherry / Puducherry	Villa / 2 BHK	1436	₹60.51 L	Semi-Furnished	2	Family	Sale
+356	Puducherry Properties (Puducherry.txt)	1 BHK Apartment	Yanam Main Road	Yanam / Puducherry	Apartment / 1 BHK	534	₹8,600/month	Unfurnished	1	Bachelors	Rent
+357	Puducherry Properties (Puducherry.txt)	3 BHK Apartment	Puducherry Colony	Puducherry / Puducherry	Apartment / 3 BHK	1229	₹64.41 L	Unfurnished	3	Bachelors	Sale
+358	Puducherry Properties (Puducherry.txt)	4 BHK Builder Floor	Puducherry Sector 3	Puducherry / Puducherry	Builder Floor / 4 BHK	1825	₹20,500/month	Semi-Furnished	4	Bachelors	Rent
+359	Puducherry Properties (Puducherry.txt)	2 BHK Apartment	Yanam Colony	Yanam / Puducherry	Apartment / 2 BHK	690	₹10,700/month	Unfurnished	2	Family	Rent
+360	Puducherry Properties (Puducherry.txt)	2 BHK Apartment	Yanam North	Yanam / Puducherry	Apartment / 2 BHK	870	₹16,000/month	Unfurnished	2	Family	Rent
+361	Puducherry Properties (Puducherry.txt)	1 BHK Builder Floor	Oulgaret Nagar	Oulgaret / Puducherry	Builder Floor / 1 BHK	368	₹30.41 L	Semi-Furnished	1	Family	Sale
+362	Puducherry Properties (Puducherry.txt)	3 BHK Apartment	Puducherry West	Puducherry / Puducherry	Apartment / 3 BHK	1343	₹75.27 L	Semi-Furnished	3	Any	Sale
+363	Puducherry Properties (Puducherry.txt)	3 BHK Independent House	Oulgaret Colony	Oulgaret / Puducherry	Independent House / 3 BHK	1796	₹72.79 L	Fully-Furnished	4	Family	Sale
+364	Puducherry Properties (Puducherry.txt)	3 BHK Apartment	Yanam East	Yanam / Puducherry	Apartment / 3 BHK	1144	₹21,300/month	Fully-Furnished	4	Family	Rent
+365	Puducherry Properties (Puducherry.txt)	2 BHK Apartment	Puducherry Sector 1	Puducherry / Puducherry	Apartment / 2 BHK	1118	₹14,800/month	Unfurnished	2	Family	Rent
+366	Puducherry Properties (Puducherry.txt)	2 BHK Builder Floor	Puducherry Central	Puducherry / Puducherry	Builder Floor / 2 BHK	993	₹53.08 L	Unfurnished	2	Family	Sale
+367	Puducherry Properties (Puducherry.txt)	2 BHK Apartment	Yanam Residential Area	Yanam / Puducherry	Apartment / 2 BHK	807	₹13,200/month	Semi-Furnished	2	Family	Rent
+368	Puducherry Properties (Puducherry.txt)	1 BHK Apartment	Puducherry West	Puducherry / Puducherry	Apartment / 1 BHK	661	₹33.52 L	Fully-Furnished	1	Family	Sale
+369	Puducherry Properties (Puducherry.txt)	2 BHK Apartment	Karaikal South	Karaikal / Puducherry	Apartment / 2 BHK	1188	₹55.97 L	Fully-Furnished	2	Bachelors	Sale
+370	Puducherry Properties (Puducherry.txt)	2 BHK Apartment	Yanam North	Yanam / Puducherry	Apartment / 2 BHK	910	₹46.91 L	Fully-Furnished	3	Family	Sale
+371	Puducherry Properties (Puducherry.txt)	1 BHK Independent House	Oulgaret Sector 1	Oulgaret / Puducherry	Independent House / 1 BHK	658	₹8,200/month	Unfurnished	2	Any	Rent
+372	Puducherry Properties (Puducherry.txt)	1 BHK Builder Floor	Puducherry Heights	Puducherry / Puducherry	Builder Floor / 1 BHK	397	₹29.97 L	Semi-Furnished	1	Any	Sale
+373	Puducherry Properties (Puducherry.txt)	2 BHK Independent House	Karaikal Residential Area	Karaikal / Puducherry	Independent House / 2 BHK	753	₹11,500/month	Semi-Furnished	2	Family	Rent
+374	Puducherry Properties (Puducherry.txt)	2 BHK Apartment	Oulgaret Heights	Oulgaret / Puducherry	Apartment / 2 BHK	1071	₹15,300/month	Semi-Furnished	2	Bachelors	Rent
+375	Puducherry Properties (Puducherry.txt)	3 BHK Apartment	Karaikal Central	Karaikal / Puducherry	Apartment / 3 BHK	1328	₹16,300/month	Semi-Furnished	2	Bachelors	Rent
+376	Puducherry Properties (Puducherry.txt)	1 BHK Builder Floor	Oulgaret North	Oulgaret / Puducherry	Builder Floor / 1 BHK	508	₹27.19 L	Unfurnished	1	Family	Sale
+377	Puducherry Properties (Puducherry.txt)	1 BHK Apartment	Yanam Extension	Yanam / Puducherry	Apartment / 1 BHK	479	₹29.55 L	Unfurnished	1	Bachelors	Sale
+378	Puducherry Properties (Puducherry.txt)	4 BHK Independent House	Yanam Main Road	Yanam / Puducherry	Independent House / 4 BHK	1575	₹83.21 L	Fully-Furnished	4	Family	Sale
+379	Puducherry Properties (Puducherry.txt)	4 BHK Apartment	Puducherry Sector 1	Puducherry / Puducherry	Apartment / 4 BHK	1695	₹94.37 L	Unfurnished	4	Any	Sale
+380	Puducherry Properties (Puducherry.txt)	3 BHK Apartment	Puducherry Extension	Puducherry / Puducherry	Apartment / 3 BHK	1040	₹18,000/month	Fully-Furnished	3	Family	Rent
+381	Puducherry Properties (Puducherry.txt)	2 BHK Villa	Yanam Heights	Yanam / Puducherry	Villa / 2 BHK	1359	₹15,900/month	Semi-Furnished	2	Family	Rent
+382	Puducherry Properties (Puducherry.txt)	2 BHK Apartment	Oulgaret Sector 1	Oulgaret / Puducherry	Apartment / 2 BHK	641	₹46.38 L	Fully-Furnished	2	Any	Sale
+383	Puducherry Properties (Puducherry.txt)	1 BHK Builder Floor	Oulgaret Sector 2	Oulgaret / Puducherry	Builder Floor / 1 BHK	515	₹8,000/month	Fully-Furnished	1	Any	Rent
+384	Puducherry Properties (Puducherry.txt)	3 BHK Apartment	Oulgaret East	Oulgaret / Puducherry	Apartment / 3 BHK	1330	₹56.60 L	Fully-Furnished	2	Any	Sale
+385	Puducherry Properties (Puducherry.txt)	4 BHK Builder Floor	Puducherry Central	Puducherry / Puducherry	Builder Floor / 4 BHK	1816	₹86.90 L	Semi-Furnished	4	Family	Sale
+386	Puducherry Properties (Puducherry.txt)	4 BHK Independent House	Puducherry Colony	Puducherry / Puducherry	Independent House / 4 BHK	2178	₹96.90 L	Unfurnished	5	Family	Sale
+387	Puducherry Properties (Puducherry.txt)	2 BHK Apartment	Karaikal East	Karaikal / Puducherry	Apartment / 2 BHK	773	₹45.55 L	Fully-Furnished	2	Bachelors	Sale
+388	Puducherry Properties (Puducherry.txt)	3 BHK Apartment	Yanam Extension	Yanam / Puducherry	Apartment / 3 BHK	1141	₹57.80 L	Semi-Furnished	3	Family	Sale
+389	Puducherry Properties (Puducherry.txt)	4 BHK Independent House	Oulgaret Colony	Oulgaret / Puducherry	Independent House / 4 BHK	2168	₹1.11 Cr	Fully-Furnished	3	Any	Sale
+390	Puducherry Properties (Puducherry.txt)	3 BHK Apartment	Karaikal Colony	Karaikal / Puducherry	Apartment / 3 BHK	1348	₹22,400/month	Unfurnished	3	Family	Rent
+391	Puducherry Properties (Puducherry.txt)	2 BHK Apartment	Puducherry Sector 3	Puducherry / Puducherry	Apartment / 2 BHK	931	₹48.71 L	Semi-Furnished	3	Bachelors	Sale
+392	Puducherry Properties (Puducherry.txt)	2 BHK Apartment	Karaikal Sector 2	Karaikal / Puducherry	Apartment / 2 BHK	789	₹12,000/month	Semi-Furnished	2	Any	Rent
+393	Puducherry Properties (Puducherry.txt)	3 BHK Independent House	Yanam Residential Area	Yanam / Puducherry	Independent House / 3 BHK	1467	₹62.95 L	Fully-Furnished	2	Any	Sale
+394	Puducherry Properties (Puducherry.txt)	2 BHK Apartment	Puducherry Sector 3	Puducherry / Puducherry	Apartment / 2 BHK	995	₹49.89 L	Semi-Furnished	1	Any	Sale
+395	Puducherry Properties (Puducherry.txt)	3 BHK Villa	Oulgaret Extension	Oulgaret / Puducherry	Villa / 3 BHK	1662	₹21,100/month	Unfurnished	2	Any	Rent
+396	Puducherry Properties (Puducherry.txt)	2 BHK Apartment	Karaikal Main Road	Karaikal / Puducherry	Apartment / 2 BHK	818	₹15,500/month	Unfurnished	2	Any	Rent
+397	Puducherry Properties (Puducherry.txt)	4 BHK Independent House	Karaikal Central	Karaikal / Puducherry	Independent House / 4 BHK	2440	₹22,300/month	Fully-Furnished	4	Bachelors	Rent
+398	Puducherry Properties (Puducherry.txt)	4 BHK Builder Floor	Oulgaret Colony	Oulgaret / Puducherry	Builder Floor / 4 BHK	1867	₹20,600/month	Fully-Furnished	4	Bachelors	Rent
+399	Puducherry Properties (Puducherry.txt)	3 BHK Apartment	Oulgaret Sector 1	Oulgaret / Puducherry	Apartment / 3 BHK	1079	₹72.87 L	Semi-Furnished	2	Family	Sale
+400	Puducherry Properties (Puducherry.txt)	2 BHK Apartment	Karaikal Extension	Karaikal / Puducherry	Apartment / 2 BHK	882	₹56.95 L	Fully-Furnished	2	Bachelors	Sale
+401	Puducherry Properties (Puducherry.txt)	2 BHK Apartment	Puducherry Heights	Puducherry / Puducherry	Apartment / 2 BHK	1147	₹45.07 L	Unfurnished	2	Any	Sale
+402	Puducherry Properties (Puducherry.txt)	2 BHK Apartment	Puducherry Residential Area	Puducherry / Puducherry	Apartment / 2 BHK	857	₹44.39 L	Unfurnished	1	Bachelors	Sale
+403	Puducherry Properties (Puducherry.txt)	2 BHK Apartment	Karaikal West	Karaikal / Puducherry	Apartment / 2 BHK	844	₹12,900/month	Fully-Furnished	1	Bachelors	Rent
+404	Puducherry Properties (Puducherry.txt)	3 BHK Apartment	Karaikal North	Karaikal / Puducherry	Apartment / 3 BHK	1379	₹79.10 L	Fully-Furnished	3	Bachelors	Sale
+405	Puducherry Properties (Puducherry.txt)	3 BHK Independent House	Oulgaret Residential Area	Oulgaret / Puducherry	Independent House / 3 BHK	1745	₹20,800/month	Semi-Furnished	3	Family	Rent
+406	Puducherry Properties (Puducherry.txt)	2 BHK Apartment	Yanam Colony	Yanam / Puducherry	Apartment / 2 BHK	819	₹12,700/month	Semi-Furnished	1	Family	Rent
+407	Puducherry Properties (Puducherry.txt)	2 BHK Apartment	Yanam Central	Yanam / Puducherry	Apartment / 2 BHK	875	₹15,900/month	Semi-Furnished	1	Bachelors	Rent
+408	Puducherry Properties (Puducherry.txt)	3 BHK Apartment	Puducherry Nagar	Puducherry / Puducherry	Apartment / 3 BHK	1182	₹66.93 L	Unfurnished	3	Family	Sale
+409	Puducherry Properties (Puducherry.txt)	2 BHK Apartment	Yanam Colony	Yanam / Puducherry	Apartment / 2 BHK	1016	₹16,300/month	Semi-Furnished	3	Family	Rent
+410	Puducherry Properties (Puducherry.txt)	4 BHK Apartment	Yanam Residential Area	Yanam / Puducherry	Apartment / 4 BHK	1470	₹88.27 L	Unfurnished	3	Any	Sale
+411	Puducherry Properties (Puducherry.txt)	3 BHK Builder Floor	Karaikal Extension	Karaikal / Puducherry	Builder Floor / 3 BHK	1146	₹59.38 L	Unfurnished	2	Any	Sale
+412	Puducherry Properties (Puducherry.txt)	3 BHK Apartment	Oulgaret Sector 2	Oulgaret / Puducherry	Apartment / 3 BHK	1091	₹68.38 L	Unfurnished	3	Any	Sale
+413	Puducherry Properties (Puducherry.txt)	1 BHK Apartment	Karaikal Residential Area	Karaikal / Puducherry	Apartment / 1 BHK	557	₹35.39 L	Semi-Furnished	2	Family	Sale
+414	Puducherry Properties (Puducherry.txt)	2 BHK Apartment	Yanam West	Yanam / Puducherry	Apartment / 2 BHK	856	₹43.74 L	Semi-Furnished	2	Any	Sale
+415	Puducherry Properties (Puducherry.txt)	1 BHK Apartment	Oulgaret Extension	Oulgaret / Puducherry	Apartment / 1 BHK	561	₹32.77 L	Unfurnished	1	Bachelors	Sale
+416	Puducherry Properties (Puducherry.txt)	2 BHK Apartment	Karaikal West	Karaikal / Puducherry	Apartment / 2 BHK	765	₹46.02 L	Fully-Furnished	2	Family	Sale
+417	Puducherry Properties (Puducherry.txt)	3 BHK Apartment	Karaikal Town Centre	Karaikal / Puducherry	Apartment / 3 BHK	1140	₹16,100/month	Unfurnished	3	Bachelors	Rent
+418	Puducherry Properties (Puducherry.txt)	1 BHK Studio	Puducherry South	Puducherry / Puducherry	Studio / 1 BHK	451	₹27.75 L	Semi-Furnished	2	Any	Sale
+419	Puducherry Properties (Puducherry.txt)	3 BHK Apartment	Oulgaret Town Centre	Oulgaret / Puducherry	Apartment / 3 BHK	984	₹15,000/month	Unfurnished	4	Family	Rent
+420	Puducherry Properties (Puducherry.txt)	3 BHK Apartment	Oulgaret Sector 2	Oulgaret / Puducherry	Apartment / 3 BHK	1370	₹17,700/month	Semi-Furnished	3	Family	Rent
+421	Puducherry Properties (Puducherry.txt)	4 BHK Villa	Puducherry Residential Area	Puducherry / Puducherry	Villa / 4 BHK	2004	₹86.06 L	Semi-Furnished	4	Bachelors	Sale
+422	Puducherry Properties (Puducherry.txt)	1 BHK Independent House	Puducherry Extension	Puducherry / Puducherry	Independent House / 1 BHK	608	₹31.80 L	Fully-Furnished	2	Any	Sale
+423	Puducherry Properties (Puducherry.txt)	4 BHK Independent House	Puducherry Town Centre	Puducherry / Puducherry	Independent House / 4 BHK	2170	₹1.05 Cr	Semi-Furnished	4	Any	Sale
+424	Puducherry Properties (Puducherry.txt)	1 BHK Apartment	Oulgaret South	Oulgaret / Puducherry	Apartment / 1 BHK	464	₹9,900/month	Fully-Furnished	1	Family	Rent
+425	Puducherry Properties (Puducherry.txt)	4 BHK Builder Floor	Karaikal West	Karaikal / Puducherry	Builder Floor / 4 BHK	1707	₹91.61 L	Fully-Furnished	3	Any	Sale
+426	Puducherry Properties (Puducherry.txt)	1 BHK Studio	Yanam Heights	Yanam / Puducherry	Studio / 1 BHK	411	₹27.24 L	Unfurnished	1	Any	Sale
+427	Puducherry Properties (Puducherry.txt)	3 BHK Villa	Yanam West	Yanam / Puducherry	Villa / 3 BHK	2154	₹70.30 L	Semi-Furnished	3	Family	Sale
+428	Puducherry Properties (Puducherry.txt)	4 BHK Independent House	Karaikal Sector 2	Karaikal / Puducherry	Independent House / 4 BHK	2304	₹23,400/month	Semi-Furnished	3	Bachelors	Rent
+429	Puducherry Properties (Puducherry.txt)	2 BHK Apartment	Karaikal Sector 3	Karaikal / Puducherry	Apartment / 2 BHK	1092	₹61.75 L	Fully-Furnished	1	Any	Sale
+430	Puducherry Properties (Puducherry.txt)	3 BHK Villa	Karaikal Sector 1	Karaikal / Puducherry	Villa / 3 BHK	1833	₹22,000/month	Semi-Furnished	2	Family	Rent
+431	Puducherry Properties (Puducherry.txt)	2 BHK Independent House	Karaikal West	Karaikal / Puducherry	Independent House / 2 BHK	871	₹59.35 L	Semi-Furnished	2	Any	Sale
+432	Puducherry Properties (Puducherry.txt)	3 BHK Apartment	Karaikal West	Karaikal / Puducherry	Apartment / 3 BHK	1391	₹64.28 L	Semi-Furnished	2	Any	Sale
+433	Puducherry Properties (Puducherry.txt)	3 BHK Independent House	Oulgaret Sector 1	Oulgaret / Puducherry	Independent House / 3 BHK	1638	₹21,600/month	Semi-Furnished	3	Family	Rent
+434	Puducherry Properties (Puducherry.txt)	2 BHK Apartment	Karaikal East	Karaikal / Puducherry	Apartment / 2 BHK	935	₹55.89 L	Semi-Furnished	2	Any	Sale
+435	Puducherry Properties (Puducherry.txt)	3 BHK Apartment	Puducherry South	Puducherry / Puducherry	Apartment / 3 BHK	944	₹60.82 L	Semi-Furnished	3	Family	Sale
+436	Puducherry Properties (Puducherry.txt)	1 BHK Apartment	Oulgaret Town Centre	Oulgaret / Puducherry	Apartment / 1 BHK	567	₹36.99 L	Unfurnished	1	Family	Sale
+437	Puducherry Properties (Puducherry.txt)	2 BHK Apartment	Puducherry Sector 2	Puducherry / Puducherry	Apartment / 2 BHK	765	₹15,700/month	Fully-Furnished	2	Any	Rent
+438	Puducherry Properties (Puducherry.txt)	4 BHK Independent House	Puducherry Central	Puducherry / Puducherry	Independent House / 4 BHK	2323	₹87.15 L	Unfurnished	5	Any	Sale
+439	Puducherry Properties (Puducherry.txt)	2 BHK Villa	Oulgaret Sector 2	Oulgaret / Puducherry	Villa / 2 BHK	1114	₹13,500/month	Fully-Furnished	2	Any	Rent
+440	Puducherry Properties (Puducherry.txt)	2 BHK Apartment	Karaikal West	Karaikal / Puducherry	Apartment / 2 BHK	931	₹48.40 L	Unfurnished	2	Any	Sale
+441	Puducherry Properties (Puducherry.txt)	2 BHK Apartment	Karaikal Town Centre	Karaikal / Puducherry	Apartment / 2 BHK	675	₹51.33 L	Fully-Furnished	2	Any	Sale
+442	Puducherry Properties (Puducherry.txt)	3 BHK Apartment	Oulgaret Town Centre	Oulgaret / Puducherry	Apartment / 3 BHK	996	₹16,200/month	Semi-Furnished	3	Family	Rent
+443	Puducherry Properties (Puducherry.txt)	2 BHK Apartment	Puducherry Main Road	Puducherry / Puducherry	Apartment / 2 BHK	588	₹53.07 L	Semi-Furnished	1	Family	Sale
+444	Puducherry Properties (Puducherry.txt)	3 BHK Apartment	Puducherry Colony	Puducherry / Puducherry	Apartment / 3 BHK	1065	₹68.02 L	Unfurnished	3	Family	Sale
+445	Puducherry Properties (Puducherry.txt)	4 BHK Apartment	Karaikal Residential Area	Karaikal / Puducherry	Apartment / 4 BHK	2016	₹26,300/month	Semi-Furnished	3	Bachelors	Rent
+446	Puducherry Properties (Puducherry.txt)	3 BHK Apartment	Karaikal Colony	Karaikal / Puducherry	Apartment / 3 BHK	1223	₹75.34 L	Unfurnished	3	Family	Sale
+447	Puducherry Properties (Puducherry.txt)	1 BHK Studio	Oulgaret Colony	Oulgaret / Puducherry	Studio / 1 BHK	393	₹30.74 L	Unfurnished	1	Family	Sale
+448	Puducherry Properties (Puducherry.txt)	4 BHK Apartment	Puducherry East	Puducherry / Puducherry	Apartment / 4 BHK	1932	₹95.71 L	Semi-Furnished	5	Family	Sale
+449	Puducherry Properties (Puducherry.txt)	3 BHK Apartment	Karaikal Extension	Karaikal / Puducherry	Apartment / 3 BHK	1489	₹22,300/month	Semi-Furnished	3	Family	Rent
+450	Puducherry Properties (Puducherry.txt)	2 BHK Builder Floor	Oulgaret Main Road	Oulgaret / Puducherry	Builder Floor / 2 BHK	824	₹41.37 L	Unfurnished	2	Bachelors	Sale
+451	Puducherry Properties (Puducherry.txt)	3 BHK Independent House	Puducherry Sector 2	Puducherry / Puducherry	Independent House / 3 BHK	1451	₹20,400/month	Fully-Furnished	3	Bachelors	Rent
+452	Puducherry Properties (Puducherry.txt)	4 BHK Builder Floor	Puducherry Sector 2	Puducherry / Puducherry	Builder Floor / 4 BHK	1837	₹24,300/month	Unfurnished	5	Family	Rent
+453	Puducherry Properties (Puducherry.txt)	2 BHK Independent House	Puducherry Central	Puducherry / Puducherry	Independent House / 2 BHK	849	₹55.22 L	Fully-Furnished	2	Any	Sale
+454	Puducherry Properties (Puducherry.txt)	2 BHK Villa	Puducherry Sector 1	Puducherry / Puducherry	Villa / 2 BHK	1019	₹13,700/month	Fully-Furnished	1	Bachelors	Rent
+455	Puducherry Properties (Puducherry.txt)	4 BHK Builder Floor	Karaikal Sector 3	Karaikal / Puducherry	Builder Floor / 4 BHK	1833	₹93.75 L	Fully-Furnished	4	Family	Sale
+456	Puducherry Properties (Puducherry.txt)	1 BHK Independent House	Yanam South	Yanam / Puducherry	Independent House / 1 BHK	641	₹9,200/month	Unfurnished	1	Family	Rent
+457	Puducherry Properties (Puducherry.txt)	2 BHK Apartment	Puducherry Main Road	Puducherry / Puducherry	Apartment / 2 BHK	1027	₹14,800/month	Semi-Furnished	1	Any	Rent
+458	Puducherry Properties (Puducherry.txt)	2 BHK Apartment	Yanam Sector 1	Yanam / Puducherry	Apartment / 2 BHK	634	₹53.51 L	Semi-Furnished	2	Bachelors	Sale
+459	Puducherry Properties (Puducherry.txt)	3 BHK Apartment	Puducherry West	Puducherry / Puducherry	Apartment / 3 BHK	1013	₹15,200/month	Fully-Furnished	3	Family	Rent
+460	Puducherry Properties (Puducherry.txt)	2 BHK Apartment	Puducherry West	Puducherry / Puducherry	Apartment / 2 BHK	837	₹14,000/month	Semi-Furnished	1	Family	Rent
+461	Puducherry Properties (Puducherry.txt)	4 BHK Independent House	Puducherry Town Centre	Puducherry / Puducherry	Independent House / 4 BHK	1661	₹23,000/month	Unfurnished	5	Any	Rent
+462	Puducherry Properties (Puducherry.txt)	2 BHK Apartment	Karaikal Town Centre	Karaikal / Puducherry	Apartment / 2 BHK	751	₹15,800/month	Fully-Furnished	2	Any	Rent
+463	Puducherry Properties (Puducherry.txt)	2 BHK Independent House	Oulgaret North	Oulgaret / Puducherry	Independent House / 2 BHK	1010	₹43.87 L	Unfurnished	2	Any	Sale
+464	Puducherry Properties (Puducherry.txt)	5 BHK Apartment	Puducherry Heights	Puducherry / Puducherry	Apartment / 5 BHK	2751	₹34,900/month	Unfurnished	5	Bachelors	Rent
+465	Puducherry Properties (Puducherry.txt)	1 BHK Apartment	Karaikal East	Karaikal / Puducherry	Apartment / 1 BHK	587	₹36.58 L	Fully-Furnished	2	Any	Sale
+466	Puducherry Properties (Puducherry.txt)	1 BHK Studio	Puducherry North	Puducherry / Puducherry	Studio / 1 BHK	368	₹30.76 L	Fully-Furnished	1	Any	Sale
+467	Puducherry Properties (Puducherry.txt)	1 BHK Apartment	Yanam Sector 2	Yanam / Puducherry	Apartment / 1 BHK	585	₹30.81 L	Semi-Furnished	1	Bachelors	Sale
+468	Puducherry Properties (Puducherry.txt)	2 BHK Apartment	Karaikal Nagar	Karaikal / Puducherry	Apartment / 2 BHK	844	₹57.43 L	Semi-Furnished	2	Any	Sale
+469	Puducherry Properties (Puducherry.txt)	2 BHK Apartment	Yanam North	Yanam / Puducherry	Apartment / 2 BHK	910	₹58.62 L	Fully-Furnished	3	Bachelors	Sale
+470	Puducherry Properties (Puducherry.txt)	2 BHK Apartment	Puducherry Central	Puducherry / Puducherry	Apartment / 2 BHK	823	₹47.02 L	Semi-Furnished	2	Bachelors	Sale
+471	Puducherry Properties (Puducherry.txt)	2 BHK Apartment	Oulgaret Residential Area	Oulgaret / Puducherry	Apartment / 2 BHK	692	₹12,000/month	Unfurnished	3	Family	Rent
+472	Puducherry Properties (Puducherry.txt)	3 BHK Apartment	Yanam Nagar	Yanam / Puducherry	Apartment / 3 BHK	1188	₹80.13 L	Semi-Furnished	3	Family	Sale
+473	Puducherry Properties (Puducherry.txt)	2 BHK Builder Floor	Puducherry Main Road	Puducherry / Puducherry	Builder Floor / 2 BHK	994	₹55.45 L	Unfurnished	2	Family	Sale
+474	Puducherry Properties (Puducherry.txt)	3 BHK Independent House	Karaikal East	Karaikal / Puducherry	Independent House / 3 BHK	1365	₹57 L	Semi-Furnished	3	Family	Sale
+475	Puducherry Properties (Puducherry.txt)	1 BHK Independent House	Puducherry Central	Puducherry / Puducherry	Independent House / 1 BHK	648	₹10,400/month	Semi-Furnished	2	Family	Rent
+476	Puducherry Properties (Puducherry.txt)	3 BHK Independent House	Karaikal Main Road	Karaikal / Puducherry	Independent House / 3 BHK	1367	₹82.11 L	Unfurnished	3	Family	Sale
+477	Puducherry Properties (Puducherry.txt)	3 BHK Apartment	Yanam South	Yanam / Puducherry	Apartment / 3 BHK	1296	₹67.89 L	Unfurnished	3	Family	Sale
+478	Puducherry Properties (Puducherry.txt)	3 BHK Independent House	Karaikal Extension	Karaikal / Puducherry	Independent House / 3 BHK	1738	₹18,600/month	Fully-Furnished	3	Bachelors	Rent
+479	Puducherry Properties (Puducherry.txt)	2 BHK Apartment	Yanam Central	Yanam / Puducherry	Apartment / 2 BHK	830	₹52.57 L	Unfurnished	3	Family	Sale
+480	Puducherry Properties (Puducherry.txt)	4 BHK Apartment	Oulgaret Sector 3	Oulgaret / Puducherry	Apartment / 4 BHK	1706	₹99.06 L	Semi-Furnished	4	Family	Sale
+481	Puducherry Properties (Puducherry.txt)	1 BHK Studio	Puducherry Colony	Puducherry / Puducherry	Studio / 1 BHK	364	₹26.71 L	Semi-Furnished	2	Bachelors	Sale
+482	Puducherry Properties (Puducherry.txt)	2 BHK Apartment	Yanam Sector 1	Yanam / Puducherry	Apartment / 2 BHK	874	₹16,400/month	Semi-Furnished	2	Family	Rent
+483	Puducherry Properties (Puducherry.txt)	3 BHK Apartment	Oulgaret Central	Oulgaret / Puducherry	Apartment / 3 BHK	917	₹15,900/month	Fully-Furnished	3	Family	Rent
+484	Puducherry Properties (Puducherry.txt)	1 BHK Apartment	Puducherry Heights	Puducherry / Puducherry	Apartment / 1 BHK	600	₹39.18 L	Semi-Furnished	2	Family	Sale
+485	Puducherry Properties (Puducherry.txt)	2 BHK Apartment	Karaikal Main Road	Karaikal / Puducherry	Apartment / 2 BHK	722	₹53.75 L	Semi-Furnished	1	Any	Sale
+486	Puducherry Properties (Puducherry.txt)	3 BHK Apartment	Puducherry South	Puducherry / Puducherry	Apartment / 3 BHK	1486	₹78.59 L	Semi-Furnished	3	Bachelors	Sale
+487	Puducherry Properties (Puducherry.txt)	1 BHK Builder Floor	Yanam Sector 1	Yanam / Puducherry	Builder Floor / 1 BHK	555	₹8,200/month	Semi-Furnished	1	Any	Rent
+488	Puducherry Properties (Puducherry.txt)	1 BHK Independent House	Oulgaret East	Oulgaret / Puducherry	Independent House / 1 BHK	604	₹8,900/month	Semi-Furnished	1	Family	Rent
+489	Puducherry Properties (Puducherry.txt)	1 BHK Studio	Puducherry Colony	Puducherry / Puducherry	Studio / 1 BHK	385	₹30.19 L	Semi-Furnished	1	Family	Sale
+490	Puducherry Properties (Puducherry.txt)	1 BHK Independent House	Yanam East	Yanam / Puducherry	Independent House / 1 BHK	709	₹10,700/month	Semi-Furnished	1	Family	Rent
+491	Puducherry Properties (Puducherry.txt)	2 BHK Apartment	Oulgaret East	Oulgaret / Puducherry	Apartment / 2 BHK	879	₹54.16 L	Semi-Furnished	2	Family	Sale
+492	Puducherry Properties (Puducherry.txt)	4 BHK Apartment	Oulgaret West	Oulgaret / Puducherry	Apartment / 4 BHK	1856	₹76.78 L	Semi-Furnished	4	Any	Sale
+493	Puducherry Properties (Puducherry.txt)	5 BHK Builder Floor	Yanam Nagar	Yanam / Puducherry	Builder Floor / 5 BHK	2400	₹1.28 Cr	Semi-Furnished	5	Family	Sale
+494	Puducherry Properties (Puducherry.txt)	5 BHK Villa	Puducherry West	Puducherry / Puducherry	Villa / 5 BHK	3060	₹29,500/month	Semi-Furnished	5	Family	Rent
+495	Puducherry Properties (Puducherry.txt)	4 BHK Apartment	Yanam Colony	Yanam / Puducherry	Apartment / 4 BHK	1578	₹22,200/month	Semi-Furnished	4	Any	Rent
+496	Puducherry Properties (Puducherry.txt)	3 BHK Apartment	Yanam Colony	Yanam / Puducherry	Apartment / 3 BHK	1440	₹60.32 L	Semi-Furnished	3	Family	Sale
+497	Puducherry Properties (Puducherry.txt)	3 BHK Apartment	Yanam Nagar	Yanam / Puducherry	Apartment / 3 BHK	977	₹14,500/month	Semi-Furnished	3	Family	Rent
+498	Puducherry Properties (Puducherry.txt)	1 BHK Studio	Yanam Heights	Yanam / Puducherry	Studio / 1 BHK	363	₹9,500/month	Fully-Furnished	1	Family	Rent
+499	Puducherry Properties (Puducherry.txt)	2 BHK Apartment	Yanam Sector 2	Yanam / Puducherry	Apartment / 2 BHK	858	₹50.18 L	Fully-Furnished	2	Any	Sale
+500	Puducherry Properties (Puducherry.txt)	2 BHK Apartment	Puducherry Colony	Puducherry / Puducherry	Apartment / 2 BHK	599	₹12,100/month	Semi-Furnished	2	Any	Rent
+501	Puducherry Properties (Puducherry.txt)	2 BHK Apartment	Yanam Heights	Yanam / Puducherry	Apartment / 2 BHK	939	₹11,900/month	Unfurnished	2	Any	Rent
+502	Puducherry Properties (Puducherry.txt)	2 BHK Apartment	Karaikal Sector 3	Karaikal / Puducherry	Apartment / 2 BHK	604	₹37.77 L	Semi-Furnished	3	Bachelors	Sale
+503	Puducherry Properties (Puducherry.txt)	2 BHK Apartment	Puducherry North	Puducherry / Puducherry	Apartment / 2 BHK	892	₹56.75 L	Semi-Furnished	2	Any	Sale
+504	Puducherry Properties (Puducherry.txt)	3 BHK Apartment	Oulgaret Extension	Oulgaret / Puducherry	Apartment / 3 BHK	1415	₹20,000/month	Unfurnished	3	Family	Rent
+505	Puducherry Properties (Puducherry.txt)	1 BHK Apartment	Karaikal Residential Area	Karaikal / Puducherry	Apartment / 1 BHK	577	₹8,300/month	Semi-Furnished	2	Family	Rent
+506	Puducherry Properties (Puducherry.txt)	3 BHK Villa	Karaikal West	Karaikal / Puducherry	Villa / 3 BHK	2120	₹78.11 L	Fully-Furnished	2	Family	Sale
+507	Puducherry Properties (Puducherry.txt)	2 BHK Apartment	Karaikal Extension	Karaikal / Puducherry	Apartment / 2 BHK	760	₹45.87 L	Semi-Furnished	3	Any	Sale
+508	Puducherry Properties (Puducherry.txt)	5 BHK Builder Floor	Karaikal South	Karaikal / Puducherry	Builder Floor / 5 BHK	2415	₹1.01 Cr	Semi-Furnished	5	Bachelors	Sale
+509	Puducherry Properties (Puducherry.txt)	3 BHK Apartment	Karaikal North	Karaikal / Puducherry	Apartment / 3 BHK	1310	₹19,400/month	Fully-Furnished	3	Bachelors	Rent
+510	Puducherry Properties (Puducherry.txt)	1 BHK Apartment	Yanam Colony	Yanam / Puducherry	Apartment / 1 BHK	509	₹27.43 L	Semi-Furnished	1	Family	Sale
+511	Puducherry Properties (Puducherry.txt)	2 BHK Apartment	Yanam Extension	Yanam / Puducherry	Apartment / 2 BHK	771	₹49.01 L	Semi-Furnished	3	Family	Sale
+512	Puducherry Properties (Puducherry.txt)	2 BHK Apartment	Yanam Extension	Yanam / Puducherry	Apartment / 2 BHK	942	₹56.65 L	Semi-Furnished	2	Family	Sale
+513	Puducherry Properties (Puducherry.txt)	4 BHK Apartment	Oulgaret Sector 1	Oulgaret / Puducherry	Apartment / 4 BHK	2391	₹96.72 L	Semi-Furnished	4	Bachelors	Sale
+514	Puducherry Properties (Puducherry.txt)	2 BHK Independent House	Oulgaret Central	Oulgaret / Puducherry	Independent House / 2 BHK	1015	₹44.40 L	Semi-Furnished	2	Family	Sale
+515	Puducherry Properties (Puducherry.txt)	3 BHK Builder Floor	Karaikal Central	Karaikal / Puducherry	Builder Floor / 3 BHK	1270	₹62.89 L	Semi-Furnished	2	Any	Sale
+516	Puducherry Properties (Puducherry.txt)	3 BHK Builder Floor	Oulgaret Extension	Oulgaret / Puducherry	Builder Floor / 3 BHK	1157	₹58.93 L	Fully-Furnished	4	Any	Sale
+517	Puducherry Properties (Puducherry.txt)	3 BHK Apartment	Oulgaret Colony	Oulgaret / Puducherry	Apartment / 3 BHK	1244	₹69.80 L	Semi-Furnished	3	Bachelors	Sale
+518	Puducherry Properties (Puducherry.txt)	2 BHK Builder Floor	Karaikal Sector 3	Karaikal / Puducherry	Builder Floor / 2 BHK	758	₹11,100/month	Fully-Furnished	2	Family	Rent
+519	Puducherry Properties (Puducherry.txt)	2 BHK Builder Floor	Puducherry West	Puducherry / Puducherry	Builder Floor / 2 BHK	778	₹52.80 L	Fully-Furnished	2	Any	Sale
+520	Puducherry Properties (Puducherry.txt)	3 BHK Apartment	Puducherry Residential Area	Puducherry / Puducherry	Apartment / 3 BHK	1260	₹22,000/month	Fully-Furnished	3	Family	Rent
+521	Puducherry Properties (Puducherry.txt)	4 BHK Independent House	Puducherry Nagar	Puducherry / Puducherry	Independent House / 4 BHK	2271	₹83.91 L	Semi-Furnished	3	Bachelors	Sale
+522	Puducherry Properties (Puducherry.txt)	2 BHK Villa	Karaikal Extension	Karaikal / Puducherry	Villa / 2 BHK	1053	₹15,900/month	Semi-Furnished	2	Any	Rent
+523	Puducherry Properties (Puducherry.txt)	1 BHK Apartment	Oulgaret Town Centre	Oulgaret / Puducherry	Apartment / 1 BHK	608	₹33.80 L	Semi-Furnished	2	Bachelors	Sale
+524	Puducherry Properties (Puducherry.txt)	5 BHK Apartment	Oulgaret West	Oulgaret / Puducherry	Apartment / 5 BHK	2160	₹1.08 Cr	Fully-Furnished	4	Family	Sale
+525	Puducherry Properties (Puducherry.txt)	2 BHK Apartment	Yanam Sector 3	Yanam / Puducherry	Apartment / 2 BHK	707	₹12,100/month	Unfurnished	3	Any	Rent
+526	Puducherry Properties (Puducherry.txt)	3 BHK Builder Floor	Puducherry Nagar	Puducherry / Puducherry	Builder Floor / 3 BHK	1338	₹21,100/month	Fully-Furnished	3	Family	Rent
+527	Puducherry Properties (Puducherry.txt)	3 BHK Apartment	Karaikal Central	Karaikal / Puducherry	Apartment / 3 BHK	1373	₹16,000/month	Unfurnished	2	Any	Rent
+528	Puducherry Properties (Puducherry.txt)	1 BHK Apartment	Karaikal South	Karaikal / Puducherry	Apartment / 1 BHK	679	₹28.13 L	Semi-Furnished	1	Bachelors	Sale
+529	Puducherry Properties (Puducherry.txt)	3 BHK Apartment	Oulgaret East	Oulgaret / Puducherry	Apartment / 3 BHK	1088	₹72.05 L	Fully-Furnished	4	Any	Sale
+530	Puducherry Properties (Puducherry.txt)	2 BHK Independent House	Karaikal West	Karaikal / Puducherry	Independent House / 2 BHK	899	₹47.99 L	Unfurnished	2	Family	Sale
+531	Puducherry Properties (Puducherry.txt)	5 BHK Apartment	Karaikal South	Karaikal / Puducherry	Apartment / 5 BHK	2364	₹31,700/month	Unfurnished	6	Family	Rent
+532	Puducherry Properties (Puducherry.txt)	2 BHK Builder Floor	Karaikal Extension	Karaikal / Puducherry	Builder Floor / 2 BHK	828	₹40.99 L	Semi-Furnished	1	Bachelors	Sale
+533	Puducherry Properties (Puducherry.txt)	2 BHK Apartment	Yanam East	Yanam / Puducherry	Apartment / 2 BHK	758	₹45.89 L	Semi-Furnished	3	Any	Sale
+534	Puducherry Properties (Puducherry.txt)	2 BHK Builder Floor	Puducherry Extension	Puducherry / Puducherry	Builder Floor / 2 BHK	893	₹11,900/month	Fully-Furnished	3	Family	Rent
+535	Puducherry Properties (Puducherry.txt)	1 BHK Apartment	Oulgaret Sector 3	Oulgaret / Puducherry	Apartment / 1 BHK	493	₹37.10 L	Fully-Furnished	1	Family	Sale
+536	Puducherry Properties (Puducherry.txt)	1 BHK Apartment	Karaikal Colony	Karaikal / Puducherry	Apartment / 1 BHK	636	₹9,800/month	Fully-Furnished	1	Family	Rent
+537	Puducherry Properties (Puducherry.txt)	4 BHK Apartment	Oulgaret Sector 2	Oulgaret / Puducherry	Apartment / 4 BHK	1578	₹20,500/month	Semi-Furnished	5	Family	Rent
+538	Puducherry Properties (Puducherry.txt)	2 BHK Independent House	Yanam Town Centre	Yanam / Puducherry	Independent House / 2 BHK	1012	₹52.70 L	Fully-Furnished	2	Family	Sale
+539	Puducherry Properties (Puducherry.txt)	3 BHK Independent House	Karaikal West	Karaikal / Puducherry	Independent House / 3 BHK	1555	₹63.46 L	Semi-Furnished	3	Family	Sale
+540	Puducherry Properties (Puducherry.txt)	4 BHK Apartment	Karaikal Colony	Karaikal / Puducherry	Apartment / 4 BHK	1902	₹97.52 L	Semi-Furnished	4	Family	Sale
+541	Puducherry Properties (Puducherry.txt)	3 BHK Builder Floor	Karaikal South	Karaikal / Puducherry	Builder Floor / 3 BHK	1074	₹16,100/month	Unfurnished	3	Family	Rent
+542	Puducherry Properties (Puducherry.txt)	4 BHK Builder Floor	Yanam Nagar	Yanam / Puducherry	Builder Floor / 4 BHK	2040	₹75.12 L	Semi-Furnished	4	Family	Sale
+543	Puducherry Properties (Puducherry.txt)	3 BHK Apartment	Yanam Central	Yanam / Puducherry	Apartment / 3 BHK	1398	₹65.86 L	Fully-Furnished	4	Any	Sale
+544	Puducherry Properties (Puducherry.txt)	3 BHK Independent House	Oulgaret Sector 3	Oulgaret / Puducherry	Independent House / 3 BHK	1429	₹82.09 L	Semi-Furnished	3	Family	Sale
+545	Puducherry Properties (Puducherry.txt)	3 BHK Apartment	Puducherry Residential Area	Puducherry / Puducherry	Apartment / 3 BHK	1427	₹63.89 L	Semi-Furnished	2	Family	Sale
+546	Puducherry Properties (Puducherry.txt)	3 BHK Apartment	Puducherry Main Road	Puducherry / Puducherry	Apartment / 3 BHK	1167	₹61.10 L	Semi-Furnished	3	Bachelors	Sale
+547	Puducherry Properties (Puducherry.txt)	3 BHK Apartment	Oulgaret Nagar	Oulgaret / Puducherry	Apartment / 3 BHK	1075	₹19,300/month	Unfurnished	3	Family	Rent
+548	Puducherry Properties (Puducherry.txt)	3 BHK Independent House	Yanam East	Yanam / Puducherry	Independent House / 3 BHK	1814	₹61.89 L	Fully-Furnished	3	Any	Sale
+549	Puducherry Properties (Puducherry.txt)	4 BHK Independent House	Karaikal Sector 3	Karaikal / Puducherry	Independent House / 4 BHK	1642	₹73.60 L	Fully-Furnished	4	Any	Sale
+550	Puducherry Properties (Puducherry.txt)	4 BHK Apartment	Puducherry Extension	Puducherry / Puducherry	Apartment / 4 BHK	1714	₹19,500/month	Semi-Furnished	5	Family	Rent
+551	Puducherry Properties (Puducherry.txt)	3 BHK Apartment	Puducherry Colony	Puducherry / Puducherry	Apartment / 3 BHK	935	₹69.87 L	Unfurnished	3	Bachelors	Sale
+552	Puducherry Properties (Puducherry.txt)	4 BHK Independent House	Oulgaret Sector 2	Oulgaret / Puducherry	Independent House / 4 BHK	1893	₹90.29 L	Semi-Furnished	4	Bachelors	Sale
+553	Puducherry Properties (Puducherry.txt)	3 BHK Apartment	Yanam Nagar	Yanam / Puducherry	Apartment / 3 BHK	1321	₹20,800/month	Unfurnished	3	Family	Rent
+554	Puducherry Properties (Puducherry.txt)	2 BHK Apartment	Yanam Sector 1	Yanam / Puducherry	Apartment / 2 BHK	936	₹50.65 L	Unfurnished	2	Bachelors	Sale
+555	Puducherry Properties (Puducherry.txt)	1 BHK Apartment	Oulgaret Town Centre	Oulgaret / Puducherry	Apartment / 1 BHK	520	₹36.64 L	Fully-Furnished	1	Family	Sale
+556	Puducherry Properties (Puducherry.txt)	3 BHK Apartment	Puducherry Colony	Puducherry / Puducherry	Apartment / 3 BHK	1045	₹64.75 L	Semi-Furnished	4	Family	Sale
+557	Puducherry Properties (Puducherry.txt)	2 BHK Apartment	Yanam Town Centre	Yanam / Puducherry	Apartment / 2 BHK	906	₹48.36 L	Fully-Furnished	3	Any	Sale
+558	Puducherry Properties (Puducherry.txt)	3 BHK Apartment	Oulgaret Nagar	Oulgaret / Puducherry	Apartment / 3 BHK	1324	₹19,800/month	Semi-Furnished	3	Family	Rent
+559	Puducherry Properties (Puducherry.txt)	1 BHK Studio	Yanam Residential Area	Yanam / Puducherry	Studio / 1 BHK	342	₹28.45 L	Semi-Furnished	1	Family	Sale
+560	Puducherry Properties (Puducherry.txt)	3 BHK Apartment	Yanam Extension	Yanam / Puducherry	Apartment / 3 BHK	1563	₹75.40 L	Fully-Furnished	2	Bachelors	Sale
+561	Puducherry Properties (Puducherry.txt)	3 BHK Independent House	Karaikal East	Karaikal / Puducherry	Independent House / 3 BHK	1253	₹17,300/month	Semi-Furnished	2	Family	Rent
+562	Puducherry Properties (Puducherry.txt)	2 BHK Apartment	Oulgaret Central	Oulgaret / Puducherry	Apartment / 2 BHK	832	₹40.38 L	Semi-Furnished	3	Any	Sale
+563	Puducherry Properties (Puducherry.txt)	4 BHK Villa	Oulgaret Colony	Oulgaret / Puducherry	Villa / 4 BHK	2178	₹80.91 L	Unfurnished	4	Family	Sale
+564	Puducherry Properties (Puducherry.txt)	2 BHK Apartment	Karaikal Colony	Karaikal / Puducherry	Apartment / 2 BHK	749	₹47.17 L	Semi-Furnished	2	Bachelors	Sale
+565	Puducherry Properties (Puducherry.txt)	4 BHK Independent House	Oulgaret East	Oulgaret / Puducherry	Independent House / 4 BHK	2590	₹99.83 L	Unfurnished	4	Any	Sale
+566	Puducherry Properties (Puducherry.txt)	1 BHK Studio	Yanam Extension	Yanam / Puducherry	Studio / 1 BHK	326	₹9,700/month	Fully-Furnished	1	Family	Rent
+567	Puducherry Properties (Puducherry.txt)	1 BHK Apartment	Yanam East	Yanam / Puducherry	Apartment / 1 BHK	451	₹10,400/month	Fully-Furnished	1	Any	Rent
+568	Puducherry Properties (Puducherry.txt)	4 BHK Apartment	Puducherry Sector 2	Puducherry / Puducherry	Apartment / 4 BHK	1465	₹20,400/month	Unfurnished	4	Any	Rent
+569	Puducherry Properties (Puducherry.txt)	3 BHK Independent House	Yanam Main Road	Yanam / Puducherry	Independent House / 3 BHK	2009	₹22,700/month	Semi-Furnished	4	Bachelors	Rent
+570	Puducherry Properties (Puducherry.txt)	2 BHK Villa	Karaikal Heights	Karaikal / Puducherry	Villa / 2 BHK	1100	₹46 L	Semi-Furnished	1	Bachelors	Sale
+571	Puducherry Properties (Puducherry.txt)	2 BHK Apartment	Karaikal Sector 1	Karaikal / Puducherry	Apartment / 2 BHK	967	₹54.27 L	Semi-Furnished	1	Any	Sale
+572	Puducherry Properties (Puducherry.txt)	3 BHK Apartment	Puducherry Main Road	Puducherry / Puducherry	Apartment / 3 BHK	1354	₹65.11 L	Fully-Furnished	3	Family	Sale
+573	Puducherry Properties (Puducherry.txt)	1 BHK Studio	Oulgaret Sector 2	Oulgaret / Puducherry	Studio / 1 BHK	390	₹25.80 L	Semi-Furnished	1	Family	Sale
+574	Puducherry Properties (Puducherry.txt)	4 BHK Builder Floor	Yanam Sector 1	Yanam / Puducherry	Builder Floor / 4 BHK	1545	₹70.59 L	Semi-Furnished	4	Family	Sale
+575	Puducherry Properties (Puducherry.txt)	2 BHK Independent House	Yanam Residential Area	Yanam / Puducherry	Independent House / 2 BHK	1164	₹59.11 L	Semi-Furnished	2	Family	Sale
+576	Puducherry Properties (Puducherry.txt)	3 BHK Apartment	Puducherry East	Puducherry / Puducherry	Apartment / 3 BHK	1247	₹63.50 L	Semi-Furnished	3	Any	Sale
+577	Puducherry Properties (Puducherry.txt)	1 BHK Studio	Puducherry Nagar	Puducherry / Puducherry	Studio / 1 BHK	353	₹34.14 L	Semi-Furnished	1	Any	Sale
+578	Puducherry Properties (Puducherry.txt)	5 BHK Apartment	Karaikal Colony	Karaikal / Puducherry	Apartment / 5 BHK	2016	₹1.05 Cr	Semi-Furnished	5	Bachelors	Sale
+579	Puducherry Properties (Puducherry.txt)	1 BHK Apartment	Yanam West	Yanam / Puducherry	Apartment / 1 BHK	495	₹9,600/month	Semi-Furnished	1	Family	Rent
+580	Puducherry Properties (Puducherry.txt)	1 BHK Apartment	Yanam South	Yanam / Puducherry	Apartment / 1 BHK	619	₹33.28 L	Semi-Furnished	1	Any	Sale
+581	Puducherry Properties (Puducherry.txt)	4 BHK Apartment	Oulgaret West	Oulgaret / Puducherry	Apartment / 4 BHK	1393	₹72.84 L	Fully-Furnished	4	Any	Sale
+582	Puducherry Properties (Puducherry.txt)	2 BHK Apartment	Puducherry Colony	Puducherry / Puducherry	Apartment / 2 BHK	865	₹43.81 L	Unfurnished	2	Bachelors	Sale
+583	Puducherry Properties (Puducherry.txt)	4 BHK Apartment	Yanam South	Yanam / Puducherry	Apartment / 4 BHK	1704	₹88.33 L	Semi-Furnished	3	Family	Sale
+584	Puducherry Properties (Puducherry.txt)	1 BHK Studio	Oulgaret North	Oulgaret / Puducherry	Studio / 1 BHK	346	₹6,900/month	Unfurnished	2	Family	Rent
+585	Puducherry Properties (Puducherry.txt)	3 BHK Villa	Yanam Sector 1	Yanam / Puducherry	Villa / 3 BHK	2108	₹93.81 L	Unfurnished	4	Bachelors	Sale
+586	Puducherry Properties (Puducherry.txt)	2 BHK Builder Floor	Puducherry Nagar	Puducherry / Puducherry	Builder Floor / 2 BHK	1053	₹16,300/month	Fully-Furnished	2	Family	Rent
+587	Puducherry Properties (Puducherry.txt)	2 BHK Apartment	Karaikal Heights	Karaikal / Puducherry	Apartment / 2 BHK	689	₹14,400/month	Semi-Furnished	2	Any	Rent
+588	Puducherry Properties (Puducherry.txt)	2 BHK Villa	Puducherry Main Road	Puducherry / Puducherry	Villa / 2 BHK	1205	₹50.94 L	Semi-Furnished	2	Bachelors	Sale
+589	Puducherry Properties (Puducherry.txt)	3 BHK Apartment	Yanam Town Centre	Yanam / Puducherry	Apartment / 3 BHK	1378	₹68.74 L	Fully-Furnished	3	Bachelors	Sale
+590	Puducherry Properties (Puducherry.txt)	2 BHK Builder Floor	Karaikal Central	Karaikal / Puducherry	Builder Floor / 2 BHK	803	₹55.09 L	Semi-Furnished	3	Bachelors	Sale
+591	Puducherry Properties (Puducherry.txt)	2 BHK Apartment	Karaikal Main Road	Karaikal / Puducherry	Apartment / 2 BHK	796	₹56.28 L	Fully-Furnished	2	Family	Sale
+592	Puducherry Properties (Puducherry.txt)	1 BHK Apartment	Karaikal Sector 2	Karaikal / Puducherry	Apartment / 1 BHK	512	₹29.46 L	Semi-Furnished	1	Family	Sale
+593	Puducherry Properties (Puducherry.txt)	2 BHK Apartment	Oulgaret Main Road	Oulgaret / Puducherry	Apartment / 2 BHK	867	₹52.79 L	Fully-Furnished	2	Family	Sale
+594	Puducherry Properties (Puducherry.txt)	1 BHK Apartment	Karaikal Sector 3	Karaikal / Puducherry	Apartment / 1 BHK	536	₹8,700/month	Semi-Furnished	1	Family	Rent
+595	Puducherry Properties (Puducherry.txt)	3 BHK Independent House	Oulgaret Residential Area	Oulgaret / Puducherry	Independent House / 3 BHK	1510	₹83.65 L	Fully-Furnished	3	Bachelors	Sale
+596	Puducherry Properties (Puducherry.txt)	2 BHK Apartment	Oulgaret Nagar	Oulgaret / Puducherry	Apartment / 2 BHK	943	₹11,700/month	Unfurnished	2	Any	Rent
+597	Puducherry Properties (Puducherry.txt)	1 BHK Villa	Yanam West	Yanam / Puducherry	Villa / 1 BHK	759	₹38.50 L	Fully-Furnished	1	Family	Sale
+598	Puducherry Properties (Puducherry.txt)	2 BHK Apartment	Yanam Colony	Yanam / Puducherry	Apartment / 2 BHK	650	₹48.96 L	Semi-Furnished	3	Any	Sale
+599	Puducherry Properties (Puducherry.txt)	4 BHK Apartment	Karaikal Extension	Karaikal / Puducherry	Apartment / 4 BHK	1826	₹94.78 L	Semi-Furnished	4	Family	Sale
+600	Puducherry Properties (Puducherry.txt)	3 BHK Apartment	Karaikal Sector 3	Karaikal / Puducherry	Apartment / 3 BHK	1133	₹18,600/month	Fully-Furnished	4	Family	Rent
+601	Puducherry Properties (Puducherry.txt)	3 BHK Apartment	Karaikal South	Karaikal / Puducherry	Apartment / 3 BHK	940	₹15,800/month	Fully-Furnished	3	Family	Rent
+602	Puducherry Properties (Puducherry.txt)	2 BHK Builder Floor	Karaikal Sector 3	Karaikal / Puducherry	Builder Floor / 2 BHK	1124	₹46.72 L	Fully-Furnished	2	Bachelors	Sale
+603	Puducherry Properties (Puducherry.txt)	2 BHK Apartment	Yanam Central	Yanam / Puducherry	Apartment / 2 BHK	747	₹53.94 L	Semi-Furnished	3	Bachelors	Sale
+604	Puducherry Properties (Puducherry.txt)	3 BHK Apartment	Yanam Residential Area	Yanam / Puducherry	Apartment / 3 BHK	1009	₹68.97 L	Fully-Furnished	3	Family	Sale
+605	Puducherry Properties (Puducherry.txt)	2 BHK Independent House	Karaikal Central	Karaikal / Puducherry	Independent House / 2 BHK	981	₹15,000/month	Semi-Furnished	1	Bachelors	Rent
+606	Puducherry Properties (Puducherry.txt)	1 BHK Independent House	Karaikal Sector 1	Karaikal / Puducherry	Independent House / 1 BHK	534	₹9,300/month	Semi-Furnished	1	Any	Rent
+607	Puducherry Properties (Puducherry.txt)	4 BHK Independent House	Yanam Extension	Yanam / Puducherry	Independent House / 4 BHK	1735	₹22,100/month	Fully-Furnished	4	Family	Rent
+608	Puducherry Properties (Puducherry.txt)	4 BHK Independent House	Oulgaret Central	Oulgaret / Puducherry	Independent House / 4 BHK	1526	₹95.56 L	Semi-Furnished	4	Family	Sale
+609	Puducherry Properties (Puducherry.txt)	4 BHK Builder Floor	Oulgaret Heights	Oulgaret / Puducherry	Builder Floor / 4 BHK	1767	₹81.23 L	Fully-Furnished	3	Any	Sale
+610	Puducherry Properties (Puducherry.txt)	4 BHK Independent House	Karaikal Sector 3	Karaikal / Puducherry	Independent House / 4 BHK	1671	₹26,900/month	Unfurnished	3	Bachelors	Rent
+611	Puducherry Properties (Puducherry.txt)	3 BHK Apartment	Puducherry North	Puducherry / Puducherry	Apartment / 3 BHK	1452	₹74.88 L	Fully-Furnished	3	Family	Sale
+612	Puducherry Properties (Puducherry.txt)	2 BHK Apartment	Puducherry Residential Area	Puducherry / Puducherry	Apartment / 2 BHK	879	₹15,100/month	Fully-Furnished	2	Family	Rent
+613	Puducherry Properties (Puducherry.txt)	4 BHK Independent House	Karaikal Sector 2	Karaikal / Puducherry	Independent House / 4 BHK	2901	₹1.15 Cr	Unfurnished	4	Family	Sale
+614	Puducherry Properties (Puducherry.txt)	1 BHK Apartment	Karaikal Sector 3	Karaikal / Puducherry	Apartment / 1 BHK	643	₹10,900/month	Semi-Furnished	2	Any	Rent
+615	Puducherry Properties (Puducherry.txt)	3 BHK Apartment	Yanam Main Road	Yanam / Puducherry	Apartment / 3 BHK	1403	₹76.27 L	Semi-Furnished	4	Bachelors	Sale
+616	Puducherry Properties (Puducherry.txt)	2 BHK Builder Floor	Yanam North	Yanam / Puducherry	Builder Floor / 2 BHK	866	₹58.60 L	Fully-Furnished	1	Family	Sale
+617	Puducherry Properties (Puducherry.txt)	2 BHK Builder Floor	Puducherry Sector 3	Puducherry / Puducherry	Builder Floor / 2 BHK	657	₹10,800/month	Fully-Furnished	3	Bachelors	Rent
+618	Puducherry Properties (Puducherry.txt)	1 BHK Studio	Yanam North	Yanam / Puducherry	Studio / 1 BHK	407	₹26.59 L	Fully-Furnished	1	Any	Sale
+619	Puducherry Properties (Puducherry.txt)	5 BHK Apartment	Yanam East	Yanam / Puducherry	Apartment / 5 BHK	3197	₹1.12 Cr	Semi-Furnished	4	Bachelors	Sale
+620	Puducherry Properties (Puducherry.txt)	2 BHK Apartment	Oulgaret South	Oulgaret / Puducherry	Apartment / 2 BHK	878	₹53.89 L	Semi-Furnished	2	Bachelors	Sale
+621	Puducherry Properties (Puducherry.txt)	3 BHK Apartment	Karaikal Town Centre	Karaikal / Puducherry	Apartment / 3 BHK	1129	₹19,100/month	Semi-Furnished	4	Family	Rent
+622	Puducherry Properties (Puducherry.txt)	3 BHK Apartment	Yanam West	Yanam / Puducherry	Apartment / 3 BHK	1369	₹21,400/month	Fully-Furnished	3	Family	Rent
+623	Puducherry Properties (Puducherry.txt)	3 BHK Builder Floor	Yanam Residential Area	Yanam / Puducherry	Builder Floor / 3 BHK	1044	₹65.60 L	Unfurnished	3	Bachelors	Sale
+624	Puducherry Properties (Puducherry.txt)	3 BHK Builder Floor	Karaikal Main Road	Karaikal / Puducherry	Builder Floor / 3 BHK	1035	₹60.78 L	Fully-Furnished	3	Family	Sale
+625	Puducherry Properties (Puducherry.txt)	5 BHK Apartment	Yanam Sector 2	Yanam / Puducherry	Apartment / 5 BHK	2467	₹1.12 Cr	Fully-Furnished	5	Bachelors	Sale
+626	Puducherry Properties (Puducherry.txt)	3 BHK Builder Floor	Oulgaret Central	Oulgaret / Puducherry	Builder Floor / 3 BHK	1357	₹65.25 L	Unfurnished	3	Family	Sale
+627	Puducherry Properties (Puducherry.txt)	2 BHK Apartment	Yanam Heights	Yanam / Puducherry	Apartment / 2 BHK	723	₹54.98 L	Fully-Furnished	2	Family	Sale
+628	Puducherry Properties (Puducherry.txt)	1 BHK Apartment	Karaikal North	Karaikal / Puducherry	Apartment / 1 BHK	605	₹8,600/month	Fully-Furnished	1	Family	Rent
+629	Puducherry Properties (Puducherry.txt)	4 BHK Apartment	Yanam Central	Yanam / Puducherry	Apartment / 4 BHK	1939	₹90.21 L	Semi-Furnished	4	Bachelors	Sale
+630	Puducherry Properties (Puducherry.txt)	1 BHK Studio	Oulgaret East	Oulgaret / Puducherry	Studio / 1 BHK	367	₹8,500/month	Unfurnished	1	Family	Rent
+631	Puducherry Properties (Puducherry.txt)	4 BHK Apartment	Oulgaret West	Oulgaret / Puducherry	Apartment / 4 BHK	2114	₹94.88 L	Fully-Furnished	4	Any	Sale
+632	Puducherry Properties (Puducherry.txt)	4 BHK Apartment	Karaikal East	Karaikal / Puducherry	Apartment / 4 BHK	1728	₹85.94 L	Semi-Furnished	3	Bachelors	Sale
+633	Puducherry Properties (Puducherry.txt)	2 BHK Independent House	Yanam Main Road	Yanam / Puducherry	Independent House / 2 BHK	830	₹48.76 L	Fully-Furnished	2	Family	Sale
+634	Puducherry Properties (Puducherry.txt)	3 BHK Apartment	Yanam Main Road	Yanam / Puducherry	Apartment / 3 BHK	1260	₹60.63 L	Semi-Furnished	4	Bachelors	Sale
+635	Puducherry Properties (Puducherry.txt)	2 BHK Apartment	Puducherry Colony	Puducherry / Puducherry	Apartment / 2 BHK	878	₹57.93 L	Unfurnished	2	Bachelors	Sale
+636	Puducherry Properties (Puducherry.txt)	1 BHK Apartment	Karaikal Nagar	Karaikal / Puducherry	Apartment / 1 BHK	516	₹9,500/month	Semi-Furnished	1	Family	Rent
+637	Puducherry Properties (Puducherry.txt)	2 BHK Apartment	Yanam Sector 3	Yanam / Puducherry	Apartment / 2 BHK	765	₹54.48 L	Semi-Furnished	1	Bachelors	Sale
+638	Puducherry Properties (Puducherry.txt)	4 BHK Apartment	Oulgaret Residential Area	Oulgaret / Puducherry	Apartment / 4 BHK	1616	₹84.94 L	Semi-Furnished	3	Bachelors	Sale
+639	Puducherry Properties (Puducherry.txt)	5 BHK Independent House	Yanam Heights	Yanam / Puducherry	Independent House / 5 BHK	2496	₹1.20 Cr	Unfurnished	5	Any	Sale
+640	Puducherry Properties (Puducherry.txt)	1 BHK Apartment	Karaikal Residential Area	Karaikal / Puducherry	Apartment / 1 BHK	502	₹33.32 L	Semi-Furnished	1	Family	Sale
+641	Puducherry Properties (Puducherry.txt)	4 BHK Villa	Puducherry East	Puducherry / Puducherry	Villa / 4 BHK	2369	₹29,700/month	Semi-Furnished	4	Bachelors	Rent
+642	Puducherry Properties (Puducherry.txt)	2 BHK Builder Floor	Puducherry West	Puducherry / Puducherry	Builder Floor / 2 BHK	843	₹45.06 L	Semi-Furnished	1	Any	Sale
+643	Puducherry Properties (Puducherry.txt)	3 BHK Apartment	Oulgaret Sector 2	Oulgaret / Puducherry	Apartment / 3 BHK	962	₹18,200/month	Unfurnished	2	Bachelors	Rent
+644	Puducherry Properties (Puducherry.txt)	2 BHK Independent House	Karaikal Town Centre	Karaikal / Puducherry	Independent House / 2 BHK	1180	₹51.92 L	Fully-Furnished	3	Family	Sale
+645	Puducherry Properties (Puducherry.txt)	4 BHK Builder Floor	Karaikal Sector 2	Karaikal / Puducherry	Builder Floor / 4 BHK	1954	₹27,300/month	Semi-Furnished	5	Any	Rent
+646	Puducherry Properties (Puducherry.txt)	2 BHK Apartment	Karaikal Central	Karaikal / Puducherry	Apartment / 2 BHK	957	₹47.45 L	Semi-Furnished	2	Bachelors	Sale
+647	Puducherry Properties (Puducherry.txt)	1 BHK Studio	Puducherry Main Road	Puducherry / Puducherry	Studio / 1 BHK	300	₹8,100/month	Fully-Furnished	2	Family	Rent
+648	Puducherry Properties (Puducherry.txt)	2 BHK Apartment	Yanam Town Centre	Yanam / Puducherry	Apartment / 2 BHK	898	₹14,500/month	Fully-Furnished	2	Family	Rent
+649	Puducherry Properties (Puducherry.txt)	1 BHK Builder Floor	Oulgaret Sector 3	Oulgaret / Puducherry	Builder Floor / 1 BHK	543	₹9,700/month	Semi-Furnished	1	Family	Rent
+650	Puducherry Properties (Puducherry.txt)	1 BHK Apartment	Yanam East	Yanam / Puducherry	Apartment / 1 BHK	584	₹10,500/month	Fully-Furnished	1	Any	Rent
+651	Puducherry Properties (Puducherry.txt)	4 BHK Apartment	Oulgaret South	Oulgaret / Puducherry	Apartment / 4 BHK	1515	₹78.88 L	Fully-Furnished	4	Family	Sale
+652	Puducherry Properties (Puducherry.txt)	4 BHK Apartment	Puducherry Residential Area	Puducherry / Puducherry	Apartment / 4 BHK	1782	₹22,500/month	Semi-Furnished	4	Any	Rent
+653	Puducherry Properties (Puducherry.txt)	1 BHK Apartment	Puducherry Sector 1	Puducherry / Puducherry	Apartment / 1 BHK	456	₹8,400/month	Unfurnished	1	Any	Rent
+654	Puducherry Properties (Puducherry.txt)	3 BHK Apartment	Puducherry Sector 1	Puducherry / Puducherry	Apartment / 3 BHK	1302	₹74.01 L	Unfurnished	3	Bachelors	Sale
+655	Puducherry Properties (Puducherry.txt)	1 BHK Independent House	Karaikal Sector 3	Karaikal / Puducherry	Independent House / 1 BHK	656	₹11,200/month	Fully-Furnished	1	Any	Rent
+656	Puducherry Properties (Puducherry.txt)	4 BHK Apartment	Karaikal Sector 2	Karaikal / Puducherry	Apartment / 4 BHK	2045	₹87.72 L	Unfurnished	4	Family	Sale
+657	Puducherry Properties (Puducherry.txt)	4 BHK Apartment	Puducherry Town Centre	Puducherry / Puducherry	Apartment / 4 BHK	2216	₹29,900/month	Unfurnished	4	Family	Rent
+658	Puducherry Properties (Puducherry.txt)	1 BHK Apartment	Oulgaret Heights	Oulgaret / Puducherry	Apartment / 1 BHK	463	₹29.81 L	Unfurnished	2	Bachelors	Sale
+659	Puducherry Properties (Puducherry.txt)	3 BHK Apartment	Karaikal Extension	Karaikal / Puducherry	Apartment / 3 BHK	1514	₹59.17 L	Unfurnished	3	Any	Sale
+660	Puducherry Properties (Puducherry.txt)	2 BHK Apartment	Puducherry West	Puducherry / Puducherry	Apartment / 2 BHK	831	₹58.63 L	Semi-Furnished	2	Any	Sale
+661	Puducherry Properties (Puducherry.txt)	1 BHK Independent House	Yanam Heights	Yanam / Puducherry	Independent House / 1 BHK	638	₹38.14 L	Fully-Furnished	1	Bachelors	Sale
+662	Puducherry Properties (Puducherry.txt)	1 BHK Apartment	Karaikal Sector 1	Karaikal / Puducherry	Apartment / 1 BHK	437	₹10,200/month	Semi-Furnished	1	Family	Rent
+663	Puducherry Properties (Puducherry.txt)	3 BHK Apartment	Yanam Sector 1	Yanam / Puducherry	Apartment / 3 BHK	1442	₹74.56 L	Unfurnished	3	Family	Sale
+664	Puducherry Properties (Puducherry.txt)	2 BHK Independent House	Yanam South	Yanam / Puducherry	Independent House / 2 BHK	1105	₹16,600/month	Unfurnished	2	Bachelors	Rent
+665	Puducherry Properties (Puducherry.txt)	3 BHK Apartment	Puducherry North	Puducherry / Puducherry	Apartment / 3 BHK	927	₹55.21 L	Fully-Furnished	3	Any	Sale
+666	Puducherry Properties (Puducherry.txt)	2 BHK Apartment	Yanam Residential Area	Yanam / Puducherry	Apartment / 2 BHK	970	₹56.47 L	Fully-Furnished	2	Any	Sale
+667	Puducherry Properties (Puducherry.txt)	4 BHK Builder Floor	Karaikal Heights	Karaikal / Puducherry	Builder Floor / 4 BHK	1782	₹25,200/month	Semi-Furnished	5	Bachelors	Rent
+668	Puducherry Properties (Puducherry.txt)	2 BHK Builder Floor	Oulgaret Heights	Oulgaret / Puducherry	Builder Floor / 2 BHK	689	₹39.36 L	Fully-Furnished	3	Family	Sale
+669	Puducherry Properties (Puducherry.txt)	5 BHK Apartment	Karaikal Central	Karaikal / Puducherry	Apartment / 5 BHK	2336	₹1.21 Cr	Semi-Furnished	5	Any	Sale
+670	Puducherry Properties (Puducherry.txt)	1 BHK Apartment	Karaikal East	Karaikal / Puducherry	Apartment / 1 BHK	699	₹33.70 L	Semi-Furnished	1	Any	Sale
+671	Puducherry Properties (Puducherry.txt)	2 BHK Builder Floor	Yanam Heights	Yanam / Puducherry	Builder Floor / 2 BHK	863	₹52.21 L	Unfurnished	2	Family	Sale
+672	Puducherry Properties (Puducherry.txt)	1 BHK Studio	Oulgaret Sector 1	Oulgaret / Puducherry	Studio / 1 BHK	331	₹25.33 L	Semi-Furnished	1	Family	Sale
+673	Puducherry Properties (Puducherry.txt)	3 BHK Independent House	Yanam Town Centre	Yanam / Puducherry	Independent House / 3 BHK	1689	₹21,900/month	Unfurnished	4	Any	Rent
+674	Puducherry Properties (Puducherry.txt)	2 BHK Apartment	Oulgaret North	Oulgaret / Puducherry	Apartment / 2 BHK	747	₹40.28 L	Semi-Furnished	3	Family	Sale
+675	Puducherry Properties (Puducherry.txt)	4 BHK Builder Floor	Oulgaret Sector 2	Oulgaret / Puducherry	Builder Floor / 4 BHK	1650	₹22,400/month	Semi-Furnished	4	Bachelors	Rent
+676	Puducherry Properties (Puducherry.txt)	2 BHK Apartment	Puducherry Colony	Puducherry / Puducherry	Apartment / 2 BHK	847	₹54.16 L	Semi-Furnished	1	Bachelors	Sale
+677	Puducherry Properties (Puducherry.txt)	3 BHK Builder Floor	Oulgaret Main Road	Oulgaret / Puducherry	Builder Floor / 3 BHK	1058	₹53.81 L	Unfurnished	2	Family	Sale
+678	Puducherry Properties (Puducherry.txt)	3 BHK Apartment	Oulgaret Extension	Oulgaret / Puducherry	Apartment / 3 BHK	804	₹74.34 L	Fully-Furnished	3	Family	Sale
+679	Puducherry Properties (Puducherry.txt)	3 BHK Apartment	Puducherry Town Centre	Puducherry / Puducherry	Apartment / 3 BHK	1094	₹16,300/month	Fully-Furnished	4	Family	Rent
+680	Puducherry Properties (Puducherry.txt)	1 BHK Apartment	Puducherry East	Puducherry / Puducherry	Apartment / 1 BHK	436	₹30.98 L	Fully-Furnished	1	Bachelors	Sale
+681	Puducherry Properties (Puducherry.txt)	1 BHK Villa	Karaikal Sector 3	Karaikal / Puducherry	Villa / 1 BHK	707	₹32.30 L	Semi-Furnished	1	Family	Sale
+682	Puducherry Properties (Puducherry.txt)	4 BHK Apartment	Yanam Colony	Yanam / Puducherry	Apartment / 4 BHK	1849	₹80.35 L	Semi-Furnished	4	Bachelors	Sale
+683	Puducherry Properties (Puducherry.txt)	3 BHK Builder Floor	Puducherry Heights	Puducherry / Puducherry	Builder Floor / 3 BHK	1296	₹69.90 L	Fully-Furnished	4	Bachelors	Sale
+684	Puducherry Properties (Puducherry.txt)	2 BHK Apartment	Yanam Nagar	Yanam / Puducherry	Apartment / 2 BHK	983	₹57.50 L	Semi-Furnished	1	Family	Sale
+685	Puducherry Properties (Puducherry.txt)	2 BHK Apartment	Karaikal Sector 1	Karaikal / Puducherry	Apartment / 2 BHK	779	₹13,100/month	Unfurnished	2	Family	Rent
+686	Puducherry Properties (Puducherry.txt)	3 BHK Apartment	Puducherry Sector 2	Puducherry / Puducherry	Apartment / 3 BHK	1468	₹85.58 L	Semi-Furnished	3	Any	Sale
+687	Puducherry Properties (Puducherry.txt)	2 BHK Apartment	Karaikal Main Road	Karaikal / Puducherry	Apartment / 2 BHK	860	₹44.44 L	Unfurnished	2	Family	Sale
+688	Puducherry Properties (Puducherry.txt)	4 BHK Apartment	Oulgaret Town Centre	Oulgaret / Puducherry	Apartment / 4 BHK	1655	₹27,100/month	Fully-Furnished	4	Bachelors	Rent
+689	Puducherry Properties (Puducherry.txt)	2 BHK Independent House	Karaikal Main Road	Karaikal / Puducherry	Independent House / 2 BHK	945	₹47.41 L	Semi-Furnished	1	Bachelors	Sale
+690	Puducherry Properties (Puducherry.txt)	2 BHK Apartment	Oulgaret Central	Oulgaret / Puducherry	Apartment / 2 BHK	712	₹44.16 L	Semi-Furnished	2	Family	Sale
+691	Puducherry Properties (Puducherry.txt)	4 BHK Apartment	Yanam Sector 1	Yanam / Puducherry	Apartment / 4 BHK	1703	₹97.27 L	Semi-Furnished	4	Family	Sale
+692	Puducherry Properties (Puducherry.txt)	3 BHK Apartment	Oulgaret Town Centre	Oulgaret / Puducherry	Apartment / 3 BHK	1169	₹64.64 L	Unfurnished	2	Bachelors	Sale
+693	Puducherry Properties (Puducherry.txt)	5 BHK Builder Floor	Oulgaret South	Oulgaret / Puducherry	Builder Floor / 5 BHK	2515	₹1.13 Cr	Unfurnished	5	Family	Sale
+694	Puducherry Properties (Puducherry.txt)	2 BHK Apartment	Puducherry Heights	Puducherry / Puducherry	Apartment / 2 BHK	701	₹14,900/month	Fully-Furnished	2	Any	Rent
+695	Puducherry Properties (Puducherry.txt)	3 BHK Apartment	Puducherry Nagar	Puducherry / Puducherry	Apartment / 3 BHK	1012	₹62.10 L	Fully-Furnished	4	Family	Sale
+696	Puducherry Properties (Puducherry.txt)	5 BHK Apartment	Karaikal Main Road	Karaikal / Puducherry	Apartment / 5 BHK	2119	₹24,900/month	Unfurnished	5	Family	Rent
+697	Puducherry Properties (Puducherry.txt)	2 BHK Builder Floor	Yanam West	Yanam / Puducherry	Builder Floor / 2 BHK	663	₹53.11 L	Semi-Furnished	1	Bachelors	Sale
+698	Puducherry Properties (Puducherry.txt)	4 BHK Apartment	Puducherry Town Centre	Puducherry / Puducherry	Apartment / 4 BHK	1320	₹19,700/month	Fully-Furnished	4	Family	Rent
+699	Puducherry Properties (Puducherry.txt)	4 BHK Builder Floor	Oulgaret Main Road	Oulgaret / Puducherry	Builder Floor / 4 BHK	1684	₹22,200/month	Fully-Furnished	4	Family	Rent
+700	Puducherry Properties (Puducherry.txt)	3 BHK Apartment	Oulgaret Extension	Oulgaret / Puducherry	Apartment / 3 BHK	1468	₹65.57 L	Semi-Furnished	3	Any	Sale
+701	Puducherry Properties (Puducherry.txt)	4 BHK Apartment	Oulgaret Sector 1	Oulgaret / Puducherry	Apartment / 4 BHK	1706	₹24,500/month	Unfurnished	4	Bachelors	Rent
+702	Puducherry Properties (Puducherry.txt)	5 BHK Apartment	Yanam Sector 1	Yanam / Puducherry	Apartment / 5 BHK	2528	₹1.29 Cr	Fully-Furnished	5	Any	Sale
+703	Puducherry Properties (Puducherry.txt)	2 BHK Builder Floor	Karaikal South	Karaikal / Puducherry	Builder Floor / 2 BHK	861	₹53.88 L	Semi-Furnished	2	Family	Sale
+704	Puducherry Properties (Puducherry.txt)	3 BHK Apartment	Oulgaret West	Oulgaret / Puducherry	Apartment / 3 BHK	1439	₹76.84 L	Semi-Furnished	3	Bachelors	Sale
+705	Puducherry Properties (Puducherry.txt)	2 BHK Builder Floor	Karaikal Sector 3	Karaikal / Puducherry	Builder Floor / 2 BHK	716	₹10,600/month	Unfurnished	3	Any	Rent
+706	Puducherry Properties (Puducherry.txt)	2 BHK Independent House	Yanam Main Road	Yanam / Puducherry	Independent House / 2 BHK	1261	₹15,100/month	Fully-Furnished	1	Family	Rent
+707	Puducherry Properties (Puducherry.txt)	2 BHK Apartment	Karaikal North	Karaikal / Puducherry	Apartment / 2 BHK	735	₹13,600/month	Semi-Furnished	2	Family	Rent
+708	Puducherry Properties (Puducherry.txt)	2 BHK Independent House	Yanam Residential Area	Yanam / Puducherry	Independent House / 2 BHK	862	₹48.74 L	Fully-Furnished	1	Family	Sale
+709	Puducherry Properties (Puducherry.txt)	4 BHK Independent House	Yanam Sector 1	Yanam / Puducherry	Independent House / 4 BHK	1676	₹83 L	Semi-Furnished	4	Family	Sale
+710	Puducherry Properties (Puducherry.txt)	4 BHK Apartment	Oulgaret Main Road	Oulgaret / Puducherry	Apartment / 4 BHK	1667	₹1.01 Cr	Semi-Furnished	3	Bachelors	Sale
+711	Puducherry Properties (Puducherry.txt)	3 BHK Apartment	Puducherry Nagar	Puducherry / Puducherry	Apartment / 3 BHK	1516	₹18,300/month	Unfurnished	3	Bachelors	Rent
+712	Puducherry Properties (Puducherry.txt)	2 BHK Builder Floor	Oulgaret Sector 3	Oulgaret / Puducherry	Builder Floor / 2 BHK	988	₹46.38 L	Semi-Furnished	2	Any	Sale
+713	Puducherry Properties (Puducherry.txt)	1 BHK Builder Floor	Oulgaret Central	Oulgaret / Puducherry	Builder Floor / 1 BHK	480	₹8,600/month	Unfurnished	1	Family	Rent
+714	Puducherry Properties (Puducherry.txt)	2 BHK Apartment	Yanam Nagar	Yanam / Puducherry	Apartment / 2 BHK	1071	₹16,700/month	Semi-Furnished	2	Bachelors	Rent
+715	Puducherry Properties (Puducherry.txt)	4 BHK Apartment	Yanam West	Yanam / Puducherry	Apartment / 4 BHK	1434	₹97.34 L	Semi-Furnished	4	Family	Sale
+716	Puducherry Properties (Puducherry.txt)	3 BHK Independent House	Puducherry East	Puducherry / Puducherry	Independent House / 3 BHK	1710	₹69.76 L	Fully-Furnished	3	Bachelors	Sale
+717	Puducherry Properties (Puducherry.txt)	3 BHK Builder Floor	Puducherry South	Puducherry / Puducherry	Builder Floor / 3 BHK	1446	₹20,700/month	Unfurnished	3	Family	Rent
+718	Puducherry Properties (Puducherry.txt)	3 BHK Independent House	Yanam Main Road	Yanam / Puducherry	Independent House / 3 BHK	1587	₹23,300/month	Semi-Furnished	3	Bachelors	Rent
+719	Puducherry Properties (Puducherry.txt)	3 BHK Builder Floor	Yanam Extension	Yanam / Puducherry	Builder Floor / 3 BHK	1307	₹71.86 L	Fully-Furnished	4	Family	Sale
+720	Puducherry Properties (Puducherry.txt)	1 BHK Builder Floor	Yanam East	Yanam / Puducherry	Builder Floor / 1 BHK	550	₹30.60 L	Unfurnished	1	Family	Sale
+721	Puducherry Properties (Puducherry.txt)	1 BHK Villa	Oulgaret Colony	Oulgaret / Puducherry	Villa / 1 BHK	762	₹10,200/month	Semi-Furnished	1	Family	Rent
+722	Puducherry Properties (Puducherry.txt)	1 BHK Builder Floor	Oulgaret Central	Oulgaret / Puducherry	Builder Floor / 1 BHK	448	₹30.85 L	Unfurnished	2	Family	Sale
+723	Puducherry Properties (Puducherry.txt)	2 BHK Apartment	Karaikal Town Centre	Karaikal / Puducherry	Apartment / 2 BHK	803	₹12,500/month	Semi-Furnished	2	Family	Rent
+724	Puducherry Properties (Puducherry.txt)	3 BHK Builder Floor	Karaikal North	Karaikal / Puducherry	Builder Floor / 3 BHK	1096	₹57.14 L	Fully-Furnished	2	Family	Sale
+725	Puducherry Properties (Puducherry.txt)	2 BHK Apartment	Yanam Sector 2	Yanam / Puducherry	Apartment / 2 BHK	769	₹14,100/month	Semi-Furnished	3	Family	Rent
+726	Puducherry Properties (Puducherry.txt)	4 BHK Independent House	Karaikal Main Road	Karaikal / Puducherry	Independent House / 4 BHK	1922	₹90.55 L	Semi-Furnished	3	Bachelors	Sale
+727	Puducherry Properties (Puducherry.txt)	3 BHK Apartment	Yanam Extension	Yanam / Puducherry	Apartment / 3 BHK	1217	₹73.91 L	Semi-Furnished	3	Any	Sale
+728	Puducherry Properties (Puducherry.txt)	2 BHK Builder Floor	Karaikal Colony	Karaikal / Puducherry	Builder Floor / 2 BHK	875	₹15,500/month	Fully-Furnished	1	Any	Rent
+729	Puducherry Properties (Puducherry.txt)	4 BHK Apartment	Karaikal North	Karaikal / Puducherry	Apartment / 4 BHK	1531	₹75.55 L	Semi-Furnished	4	Bachelors	Sale
+730	Puducherry Properties (Puducherry.txt)	2 BHK Apartment	Yanam Nagar	Yanam / Puducherry	Apartment / 2 BHK	718	₹11,300/month	Unfurnished	2	Family	Rent
+731	Puducherry Properties (Puducherry.txt)	2 BHK Apartment	Yanam Extension	Yanam / Puducherry	Apartment / 2 BHK	972	₹13,000/month	Semi-Furnished	2	Any	Rent
+732	Puducherry Properties (Puducherry.txt)	1 BHK Apartment	Karaikal Sector 1	Karaikal / Puducherry	Apartment / 1 BHK	488	₹8,700/month	Semi-Furnished	1	Family	Rent
+733	Puducherry Properties (Puducherry.txt)	1 BHK Apartment	Yanam Colony	Yanam / Puducherry	Apartment / 1 BHK	535	₹33.41 L	Fully-Furnished	1	Any	Sale
+734	Puducherry Properties (Puducherry.txt)	2 BHK Villa	Karaikal Sector 2	Karaikal / Puducherry	Villa / 2 BHK	1240	₹50.58 L	Semi-Furnished	2	Family	Sale
+735	Puducherry Properties (Puducherry.txt)	1 BHK Apartment	Oulgaret Extension	Oulgaret / Puducherry	Apartment / 1 BHK	392	₹8,400/month	Fully-Furnished	2	Family	Rent
+736	Puducherry Properties (Puducherry.txt)	2 BHK Apartment	Puducherry Extension	Puducherry / Puducherry	Apartment / 2 BHK	786	₹53.53 L	Semi-Furnished	1	Any	Sale
+737	Puducherry Properties (Puducherry.txt)	5 BHK Villa	Karaikal Sector 3	Karaikal / Puducherry	Villa / 5 BHK	3840	₹37,900/month	Fully-Furnished	6	Bachelors	Rent
+738	Puducherry Properties (Puducherry.txt)	2 BHK Builder Floor	Puducherry Sector 1	Puducherry / Puducherry	Builder Floor / 2 BHK	818	₹14,600/month	Fully-Furnished	1	Bachelors	Rent
+739	Puducherry Properties (Puducherry.txt)	2 BHK Builder Floor	Karaikal Colony	Karaikal / Puducherry	Builder Floor / 2 BHK	710	₹51.13 L	Semi-Furnished	2	Family	Sale
+740	Puducherry Properties (Puducherry.txt)	1 BHK Builder Floor	Yanam Extension	Yanam / Puducherry	Builder Floor / 1 BHK	498	₹9,300/month	Fully-Furnished	1	Family	Rent
+741	Puducherry Properties (Puducherry.txt)	1 BHK Independent House	Puducherry Colony	Puducherry / Puducherry	Independent House / 1 BHK	550	₹9,100/month	Unfurnished	1	Bachelors	Rent
+742	Puducherry Properties (Puducherry.txt)	3 BHK Apartment	Yanam South	Yanam / Puducherry	Apartment / 3 BHK	1267	₹20,900/month	Semi-Furnished	2	Family	Rent
+743	Puducherry Properties (Puducherry.txt)	2 BHK Apartment	Puducherry Extension	Puducherry / Puducherry	Apartment / 2 BHK	1080	₹50.37 L	Unfurnished	2	Bachelors	Sale
+744	Puducherry Properties (Puducherry.txt)	2 BHK Apartment	Puducherry Main Road	Puducherry / Puducherry	Apartment / 2 BHK	789	₹43.14 L	Semi-Furnished	3	Any	Sale
+745	Puducherry Properties (Puducherry.txt)	1 BHK Apartment	Karaikal Sector 1	Karaikal / Puducherry	Apartment / 1 BHK	452	₹31.71 L	Fully-Furnished	1	Bachelors	Sale
+746	Puducherry Properties (Puducherry.txt)	3 BHK Apartment	Yanam Central	Yanam / Puducherry	Apartment / 3 BHK	1193	₹79.02 L	Fully-Furnished	4	Any	Sale
+747	Puducherry Properties (Puducherry.txt)	2 BHK Apartment	Yanam Extension	Yanam / Puducherry	Apartment / 2 BHK	858	₹53.86 L	Semi-Furnished	3	Any	Sale
+748	Puducherry Properties (Puducherry.txt)	3 BHK Independent House	Puducherry West	Puducherry / Puducherry	Independent House / 3 BHK	1534	₹79.89 L	Semi-Furnished	4	Bachelors	Sale
+749	Puducherry Properties (Puducherry.txt)	4 BHK Villa	Oulgaret Town Centre	Oulgaret / Puducherry	Villa / 4 BHK	2403	₹27,500/month	Semi-Furnished	3	Family	Rent
+750	Puducherry Properties (Puducherry.txt)	3 BHK Apartment	Puducherry Sector 2	Puducherry / Puducherry	Apartment / 3 BHK	1494	₹61.54 L	Semi-Furnished	2	Bachelors	Sale
+751	Puducherry Properties (Puducherry.txt)	4 BHK Apartment	Puducherry Sector 2	Puducherry / Puducherry	Apartment / 4 BHK	1626	₹96.04 L	Fully-Furnished	4	Any	Sale
+752	Puducherry Properties (Puducherry.txt)	2 BHK Villa	Oulgaret Nagar	Oulgaret / Puducherry	Villa / 2 BHK	865	₹50.57 L	Unfurnished	2	Family	Sale
+753	Puducherry Properties (Puducherry.txt)	3 BHK Apartment	Karaikal North	Karaikal / Puducherry	Apartment / 3 BHK	1095	₹17,300/month	Semi-Furnished	3	Family	Rent
+754	Puducherry Properties (Puducherry.txt)	1 BHK Builder Floor	Karaikal Town Centre	Karaikal / Puducherry	Builder Floor / 1 BHK	599	₹37.39 L	Semi-Furnished	1	Bachelors	Sale
+755	Puducherry Properties (Puducherry.txt)	2 BHK Builder Floor	Yanam Extension	Yanam / Puducherry	Builder Floor / 2 BHK	670	₹13,000/month	Semi-Furnished	2	Family	Rent
+756	Puducherry Properties (Puducherry.txt)	2 BHK Apartment	Yanam Nagar	Yanam / Puducherry	Apartment / 2 BHK	862	₹13,600/month	Unfurnished	1	Family	Rent
+757	Puducherry Properties (Puducherry.txt)	3 BHK Builder Floor	Yanam West	Yanam / Puducherry	Builder Floor / 3 BHK	1354	₹79.06 L	Fully-Furnished	4	Any	Sale
+758	Puducherry Properties (Puducherry.txt)	4 BHK Villa	Oulgaret Sector 2	Oulgaret / Puducherry	Villa / 4 BHK	1915	₹25,700/month	Semi-Furnished	3	Family	Rent
+759	Puducherry Properties (Puducherry.txt)	3 BHK Villa	Oulgaret South	Oulgaret / Puducherry	Villa / 3 BHK	1806	₹17,200/month	Fully-Furnished	2	Bachelors	Rent
+760	Puducherry Properties (Puducherry.txt)	3 BHK Apartment	Puducherry Central	Puducherry / Puducherry	Apartment / 3 BHK	1069	₹15,500/month	Semi-Furnished	3	Family	Rent
+761	Puducherry Properties (Puducherry.txt)	1 BHK Studio	Puducherry Extension	Puducherry / Puducherry	Studio / 1 BHK	396	₹29.91 L	Semi-Furnished	1	Bachelors	Sale
+762	Puducherry Properties (Puducherry.txt)	5 BHK Independent House	Yanam Sector 2	Yanam / Puducherry	Independent House / 5 BHK	2653	₹25,900/month	Semi-Furnished	5	Family	Rent
+763	Puducherry Properties (Puducherry.txt)	3 BHK Apartment	Karaikal Residential Area	Karaikal / Puducherry	Apartment / 3 BHK	1232	₹61.39 L	Semi-Furnished	2	Any	Sale
+764	Puducherry Properties (Puducherry.txt)	2 BHK Apartment	Yanam Main Road	Yanam / Puducherry	Apartment / 2 BHK	568	₹14,000/month	Fully-Furnished	3	Family	Rent
+765	Puducherry Properties (Puducherry.txt)	2 BHK Apartment	Puducherry Extension	Puducherry / Puducherry	Apartment / 2 BHK	966	₹16,500/month	Semi-Furnished	2	Bachelors	Rent
+766	Puducherry Properties (Puducherry.txt)	5 BHK Builder Floor	Puducherry Sector 2	Puducherry / Puducherry	Builder Floor / 5 BHK	2199	₹32,000/month	Semi-Furnished	5	Any	Rent
+767	Puducherry Properties (Puducherry.txt)	1 BHK Apartment	Yanam Sector 1	Yanam / Puducherry	Apartment / 1 BHK	445	₹7,900/month	Fully-Furnished	1	Bachelors	Rent
+768	Puducherry Properties (Puducherry.txt)	5 BHK Builder Floor	Puducherry South	Puducherry / Puducherry	Builder Floor / 5 BHK	1843	₹1.10 Cr	Fully-Furnished	5	Bachelors	Sale
+769	Puducherry Properties (Puducherry.txt)	2 BHK Apartment	Oulgaret Main Road	Oulgaret / Puducherry	Apartment / 2 BHK	962	₹14,500/month	Semi-Furnished	3	Family	Rent
+770	Puducherry Properties (Puducherry.txt)	3 BHK Apartment	Oulgaret Heights	Oulgaret / Puducherry	Apartment / 3 BHK	1592	₹20,400/month	Semi-Furnished	4	Family	Rent
+771	Puducherry Properties (Puducherry.txt)	1 BHK Builder Floor	Karaikal Central	Karaikal / Puducherry	Builder Floor / 1 BHK	543	₹8,600/month	Semi-Furnished	2	Family	Rent
+772	Puducherry Properties (Puducherry.txt)	3 BHK Apartment	Puducherry Sector 2	Puducherry / Puducherry	Apartment / 3 BHK	1795	₹70.92 L	Semi-Furnished	3	Any	Sale
+773	Puducherry Properties (Puducherry.txt)	2 BHK Apartment	Oulgaret Town Centre	Oulgaret / Puducherry	Apartment / 2 BHK	891	₹46.91 L	Semi-Furnished	2	Family	Sale
+774	Puducherry Properties (Puducherry.txt)	3 BHK Apartment	Puducherry Extension	Puducherry / Puducherry	Apartment / 3 BHK	1246	₹19,700/month	Unfurnished	3	Any	Rent
+775	Puducherry Properties (Puducherry.txt)	2 BHK Builder Floor	Yanam Nagar	Yanam / Puducherry	Builder Floor / 2 BHK	943	₹16,300/month	Semi-Furnished	1	Bachelors	Rent
+776	Puducherry Properties (Puducherry.txt)	3 BHK Independent House	Puducherry South	Puducherry / Puducherry	Independent House / 3 BHK	1387	₹17,700/month	Unfurnished	4	Family	Rent
+777	Puducherry Properties (Puducherry.txt)	1 BHK Builder Floor	Oulgaret Town Centre	Oulgaret / Puducherry	Builder Floor / 1 BHK	536	₹37.07 L	Semi-Furnished	1	Bachelors	Sale
+778	Puducherry Properties (Puducherry.txt)	2 BHK Apartment	Oulgaret Sector 1	Oulgaret / Puducherry	Apartment / 2 BHK	796	₹15,200/month	Unfurnished	2	Bachelors	Rent
+779	Puducherry Properties (Puducherry.txt)	1 BHK Apartment	Yanam Extension	Yanam / Puducherry	Apartment / 1 BHK	467	₹8,600/month	Semi-Furnished	1	Family	Rent
+780	Puducherry Properties (Puducherry.txt)	2 BHK Builder Floor	Oulgaret Colony	Oulgaret / Puducherry	Builder Floor / 2 BHK	825	₹46.42 L	Semi-Furnished	3	Family	Sale
+781	Puducherry Properties (Puducherry.txt)	2 BHK Builder Floor	Oulgaret Extension	Oulgaret / Puducherry	Builder Floor / 2 BHK	1026	₹60.03 L	Fully-Furnished	1	Family	Sale
+782	Puducherry Properties (Puducherry.txt)	3 BHK Apartment	Puducherry Main Road	Puducherry / Puducherry	Apartment / 3 BHK	1166	₹16,300/month	Unfurnished	2	Family	Rent
+783	Puducherry Properties (Puducherry.txt)	2 BHK Apartment	Puducherry Extension	Puducherry / Puducherry	Apartment / 2 BHK	807	₹50.33 L	Fully-Furnished	2	Any	Sale
+784	Puducherry Properties (Puducherry.txt)	2 BHK Independent House	Karaikal Sector 1	Karaikal / Puducherry	Independent House / 2 BHK	1309	₹15,300/month	Fully-Furnished	2	Any	Rent
+785	Puducherry Properties (Puducherry.txt)	2 BHK Independent House	Karaikal Main Road	Karaikal / Puducherry	Independent House / 2 BHK	973	₹57.39 L	Fully-Furnished	2	Any	Sale
+786	Puducherry Properties (Puducherry.txt)	2 BHK Builder Floor	Puducherry Residential Area	Puducherry / Puducherry	Builder Floor / 2 BHK	770	₹10,800/month	Semi-Furnished	2	Any	Rent
+787	Puducherry Properties (Puducherry.txt)	1 BHK Independent House	Oulgaret Extension	Oulgaret / Puducherry	Independent House / 1 BHK	710	₹38.67 L	Semi-Furnished	1	Family	Sale
+788	Puducherry Properties (Puducherry.txt)	3 BHK Apartment	Yanam Sector 2	Yanam / Puducherry	Apartment / 3 BHK	1304	₹64.85 L	Semi-Furnished	3	Family	Sale
+789	Puducherry Properties (Puducherry.txt)	1 BHK Apartment	Oulgaret North	Oulgaret / Puducherry	Apartment / 1 BHK	642	₹27.61 L	Semi-Furnished	2	Bachelors	Sale
+790	Puducherry Properties (Puducherry.txt)	2 BHK Builder Floor	Oulgaret Central	Oulgaret / Puducherry	Builder Floor / 2 BHK	822	₹13,200/month	Fully-Furnished	2	Any	Rent
+791	Puducherry Properties (Puducherry.txt)	1 BHK Independent House	Yanam Extension	Yanam / Puducherry	Independent House / 1 BHK	790	₹11,900/month	Unfurnished	1	Family	Rent
+792	Puducherry Properties (Puducherry.txt)	3 BHK Apartment	Oulgaret Colony	Oulgaret / Puducherry	Apartment / 3 BHK	1117	₹18,400/month	Fully-Furnished	3	Family	Rent
+793	Puducherry Properties (Puducherry.txt)	2 BHK Apartment	Oulgaret Extension	Oulgaret / Puducherry	Apartment / 2 BHK	872	₹41.62 L	Fully-Furnished	2	Family	Sale
+794	Puducherry Properties (Puducherry.txt)	2 BHK Apartment	Oulgaret Central	Oulgaret / Puducherry	Apartment / 2 BHK	1080	₹12,600/month	Semi-Furnished	2	Any	Rent
+795	Puducherry Properties (Puducherry.txt)	2 BHK Builder Floor	Karaikal Heights	Karaikal / Puducherry	Builder Floor / 2 BHK	946	₹15,500/month	Fully-Furnished	1	Any	Rent
+796	Puducherry Properties (Puducherry.txt)	1 BHK Studio	Oulgaret Extension	Oulgaret / Puducherry	Studio / 1 BHK	359	₹24.42 L	Semi-Furnished	1	Family	Sale
+797	Puducherry Properties (Puducherry.txt)	3 BHK Builder Floor	Puducherry Sector 1	Puducherry / Puducherry	Builder Floor / 3 BHK	1374	₹19,000/month	Fully-Furnished	2	Bachelors	Rent
+798	Puducherry Properties (Puducherry.txt)	4 BHK Apartment	Oulgaret South	Oulgaret / Puducherry	Apartment / 4 BHK	1627	₹24,800/month	Semi-Furnished	5	Bachelors	Rent
+799	Puducherry Properties (Puducherry.txt)	1 BHK Independent House	Yanam Central	Yanam / Puducherry	Independent House / 1 BHK	634	₹38.93 L	Fully-Furnished	1	Bachelors	Sale
+800	Puducherry Properties (Puducherry.txt)	5 BHK Villa	Oulgaret South	Oulgaret / Puducherry	Villa / 5 BHK	3166	₹97.88 L	Unfurnished	5	Bachelors	Sale
+801	Puducherry Properties (Puducherry.txt)	3 BHK Independent House	Yanam North	Yanam / Puducherry	Independent House / 3 BHK	1738	₹19,900/month	Unfurnished	2	Family	Rent
+802	Puducherry Properties (Puducherry.txt)	2 BHK Apartment	Karaikal Heights	Karaikal / Puducherry	Apartment / 2 BHK	1184	₹12,200/month	Fully-Furnished	3	Any	Rent
+803	Puducherry Properties (Puducherry.txt)	2 BHK Apartment	Puducherry Main Road	Puducherry / Puducherry	Apartment / 2 BHK	763	₹11,200/month	Semi-Furnished	1	Family	Rent
+804	Puducherry Properties (Puducherry.txt)	2 BHK Independent House	Puducherry East	Puducherry / Puducherry	Independent House / 2 BHK	1131	₹61.56 L	Unfurnished	2	Bachelors	Sale
+805	Puducherry Properties (Puducherry.txt)	3 BHK Builder Floor	Oulgaret Sector 3	Oulgaret / Puducherry	Builder Floor / 3 BHK	1121	₹58.40 L	Fully-Furnished	4	Family	Sale
+806	Puducherry Properties (Puducherry.txt)	3 BHK Apartment	Karaikal Residential Area	Karaikal / Puducherry	Apartment / 3 BHK	1368	₹67.64 L	Unfurnished	3	Family	Sale
+807	Puducherry Properties (Puducherry.txt)	2 BHK Independent House	Oulgaret East	Oulgaret / Puducherry	Independent House / 2 BHK	808	₹50.44 L	Unfurnished	1	Any	Sale
+808	Puducherry Properties (Puducherry.txt)	2 BHK Apartment	Puducherry Main Road	Puducherry / Puducherry	Apartment / 2 BHK	598	₹13,800/month	Unfurnished	3	Bachelors	Rent
+809	Puducherry Properties (Puducherry.txt)	2 BHK Builder Floor	Oulgaret North	Oulgaret / Puducherry	Builder Floor / 2 BHK	873	₹44.26 L	Semi-Furnished	2	Any	Sale
+810	Puducherry Properties (Puducherry.txt)	1 BHK Villa	Oulgaret South	Oulgaret / Puducherry	Villa / 1 BHK	625	₹34.20 L	Semi-Furnished	1	Family	Sale
+811	Puducherry Properties (Puducherry.txt)	3 BHK Apartment	Yanam Residential Area	Yanam / Puducherry	Apartment / 3 BHK	1038	₹21,000/month	Semi-Furnished	3	Bachelors	Rent
+812	Puducherry Properties (Puducherry.txt)	4 BHK Builder Floor	Karaikal Colony	Karaikal / Puducherry	Builder Floor / 4 BHK	1734	₹96.72 L	Unfurnished	3	Bachelors	Sale
+813	Puducherry Properties (Puducherry.txt)	4 BHK Apartment	Oulgaret Colony	Oulgaret / Puducherry	Apartment / 4 BHK	1241	₹19,800/month	Semi-Furnished	4	Family	Rent
+814	Puducherry Properties (Puducherry.txt)	3 BHK Apartment	Yanam South	Yanam / Puducherry	Apartment / 3 BHK	989	₹54.27 L	Unfurnished	3	Family	Sale
+815	Puducherry Properties (Puducherry.txt)	4 BHK Villa	Yanam Sector 3	Yanam / Puducherry	Villa / 4 BHK	2427	₹82.59 L	Semi-Furnished	4	Bachelors	Sale
+816	Puducherry Properties (Puducherry.txt)	3 BHK Apartment	Karaikal Heights	Karaikal / Puducherry	Apartment / 3 BHK	1002	₹14,400/month	Semi-Furnished	3	Family	Rent
+817	Puducherry Properties (Puducherry.txt)	2 BHK Independent House	Oulgaret Sector 3	Oulgaret / Puducherry	Independent House / 2 BHK	974	₹51.27 L	Unfurnished	3	Family	Sale
+818	Puducherry Properties (Puducherry.txt)	2 BHK Villa	Oulgaret Colony	Oulgaret / Puducherry	Villa / 2 BHK	1165	₹63.89 L	Fully-Furnished	1	Family	Sale
+819	Puducherry Properties (Puducherry.txt)	2 BHK Apartment	Karaikal Central	Karaikal / Puducherry	Apartment / 2 BHK	733	₹49.14 L	Fully-Furnished	2	Family	Sale
+820	Puducherry Properties (Puducherry.txt)	3 BHK Apartment	Puducherry Sector 2	Puducherry / Puducherry	Apartment / 3 BHK	1257	₹69.09 L	Semi-Furnished	3	Family	Sale
+821	Puducherry Properties (Puducherry.txt)	1 BHK Apartment	Yanam West	Yanam / Puducherry	Apartment / 1 BHK	637	₹37.38 L	Fully-Furnished	1	Bachelors	Sale
+822	Puducherry Properties (Puducherry.txt)	2 BHK Apartment	Karaikal Main Road	Karaikal / Puducherry	Apartment / 2 BHK	988	₹42.27 L	Semi-Furnished	3	Bachelors	Sale
+823	Puducherry Properties (Puducherry.txt)	2 BHK Builder Floor	Puducherry Nagar	Puducherry / Puducherry	Builder Floor / 2 BHK	1000	₹42.19 L	Semi-Furnished	2	Any	Sale
+824	Puducherry Properties (Puducherry.txt)	4 BHK Builder Floor	Oulgaret West	Oulgaret / Puducherry	Builder Floor / 4 BHK	1644	₹82.29 L	Fully-Furnished	5	Any	Sale
+825	Puducherry Properties (Puducherry.txt)	1 BHK Studio	Puducherry East	Puducherry / Puducherry	Studio / 1 BHK	465	₹25.97 L	Fully-Furnished	1	Any	Sale
+826	Puducherry Properties (Puducherry.txt)	3 BHK Villa	Yanam South	Yanam / Puducherry	Villa / 3 BHK	1593	₹65.86 L	Fully-Furnished	3	Any	Sale
+827	Puducherry Properties (Puducherry.txt)	3 BHK Apartment	Yanam South	Yanam / Puducherry	Apartment / 3 BHK	1391	₹73.56 L	Unfurnished	3	Family	Sale
+828	Puducherry Properties (Puducherry.txt)	1 BHK Independent House	Yanam Residential Area	Yanam / Puducherry	Independent House / 1 BHK	538	₹27.72 L	Unfurnished	1	Family	Sale
+829	Puducherry Properties (Puducherry.txt)	3 BHK Apartment	Oulgaret Colony	Oulgaret / Puducherry	Apartment / 3 BHK	1280	₹71.86 L	Fully-Furnished	3	Bachelors	Sale
+830	Puducherry Properties (Puducherry.txt)	2 BHK Apartment	Karaikal Sector 3	Karaikal / Puducherry	Apartment / 2 BHK	892	₹14,400/month	Unfurnished	2	Family	Rent
+831	Puducherry Properties (Puducherry.txt)	2 BHK Apartment	Yanam East	Yanam / Puducherry	Apartment / 2 BHK	580	₹13,900/month	Fully-Furnished	2	Family	Rent
+832	Puducherry Properties (Puducherry.txt)	3 BHK Independent House	Oulgaret Main Road	Oulgaret / Puducherry	Independent House / 3 BHK	1760	₹71.32 L	Semi-Furnished	3	Bachelors	Sale
+833	Puducherry Properties (Puducherry.txt)	3 BHK Builder Floor	Yanam East	Yanam / Puducherry	Builder Floor / 3 BHK	1253	₹16,700/month	Fully-Furnished	3	Bachelors	Rent
+834	Puducherry Properties (Puducherry.txt)	4 BHK Apartment	Yanam North	Yanam / Puducherry	Apartment / 4 BHK	1945	₹29,500/month	Fully-Furnished	4	Bachelors	Rent
+835	Puducherry Properties (Puducherry.txt)	2 BHK Apartment	Puducherry North	Puducherry / Puducherry	Apartment / 2 BHK	836	₹51.12 L	Semi-Furnished	2	Family	Sale
+836	Puducherry Properties (Puducherry.txt)	2 BHK Apartment	Karaikal Town Centre	Karaikal / Puducherry	Apartment / 2 BHK	645	₹39.63 L	Unfurnished	2	Family	Sale
+837	Puducherry Properties (Puducherry.txt)	4 BHK Builder Floor	Yanam West	Yanam / Puducherry	Builder Floor / 4 BHK	1861	₹93.14 L	Fully-Furnished	5	Family	Sale
+838	Puducherry Properties (Puducherry.txt)	3 BHK Apartment	Yanam West	Yanam / Puducherry	Apartment / 3 BHK	1275	₹22,000/month	Semi-Furnished	4	Family	Rent
+839	Puducherry Properties (Puducherry.txt)	4 BHK Builder Floor	Karaikal Sector 2	Karaikal / Puducherry	Builder Floor / 4 BHK	1546	₹19,900/month	Semi-Furnished	4	Family	Rent
+840	Puducherry Properties (Puducherry.txt)	2 BHK Builder Floor	Yanam Main Road	Yanam / Puducherry	Builder Floor / 2 BHK	964	₹44.79 L	Semi-Furnished	2	Bachelors	Sale
+841	Puducherry Properties (Puducherry.txt)	3 BHK Apartment	Oulgaret Extension	Oulgaret / Puducherry	Apartment / 3 BHK	1521	₹62.57 L	Semi-Furnished	3	Bachelors	Sale
+842	Puducherry Properties (Puducherry.txt)	3 BHK Builder Floor	Yanam Sector 3	Yanam / Puducherry	Builder Floor / 3 BHK	1312	₹22,000/month	Fully-Furnished	3	Family	Rent
+843	Puducherry Properties (Puducherry.txt)	2 BHK Builder Floor	Puducherry Sector 3	Puducherry / Puducherry	Builder Floor / 2 BHK	927	₹48.85 L	Fully-Furnished	2	Family	Sale
+844	Puducherry Properties (Puducherry.txt)	2 BHK Villa	Karaikal Heights	Karaikal / Puducherry	Villa / 2 BHK	1191	₹12,800/month	Unfurnished	3	Any	Rent
+845	Puducherry Properties (Puducherry.txt)	3 BHK Apartment	Puducherry Extension	Puducherry / Puducherry	Apartment / 3 BHK	1343	₹16,100/month	Semi-Furnished	3	Bachelors	Rent
+846	Puducherry Properties (Puducherry.txt)	5 BHK Independent House	Oulgaret South	Oulgaret / Puducherry	Independent House / 5 BHK	2592	₹1.32 Cr	Semi-Furnished	4	Any	Sale
+847	Puducherry Properties (Puducherry.txt)	3 BHK Apartment	Yanam Heights	Yanam / Puducherry	Apartment / 3 BHK	1046	₹74.28 L	Semi-Furnished	3	Family	Sale
+848	Puducherry Properties (Puducherry.txt)	3 BHK Independent House	Oulgaret West	Oulgaret / Puducherry	Independent House / 3 BHK	1555	₹23,100/month	Semi-Furnished	3	Family	Rent
+849	Puducherry Properties (Puducherry.txt)	2 BHK Apartment	Yanam Nagar	Yanam / Puducherry	Apartment / 2 BHK	809	₹54.87 L	Semi-Furnished	2	Any	Sale
+850	Puducherry Properties (Puducherry.txt)	3 BHK Apartment	Oulgaret Sector 1	Oulgaret / Puducherry	Apartment / 3 BHK	1069	₹53.74 L	Semi-Furnished	4	Bachelors	Sale
+851	Puducherry Properties (Puducherry.txt)	1 BHK Studio	Yanam Sector 1	Yanam / Puducherry	Studio / 1 BHK	308	₹28.83 L	Semi-Furnished	1	Family	Sale
+852	Puducherry Properties (Puducherry.txt)	1 BHK Builder Floor	Yanam South	Yanam / Puducherry	Builder Floor / 1 BHK	563	₹31.08 L	Fully-Furnished	1	Family	Sale
+853	Puducherry Properties (Puducherry.txt)	4 BHK Villa	Yanam Colony	Yanam / Puducherry	Villa / 4 BHK	2206	₹99.90 L	Semi-Furnished	5	Bachelors	Sale
+854	Puducherry Properties (Puducherry.txt)	3 BHK Apartment	Yanam Main Road	Yanam / Puducherry	Apartment / 3 BHK	1464	₹62.30 L	Unfurnished	3	Family	Sale
+855	Puducherry Properties (Puducherry.txt)	2 BHK Apartment	Puducherry Main Road	Puducherry / Puducherry	Apartment / 2 BHK	540	₹14,000/month	Unfurnished	3	Any	Rent
+856	Puducherry Properties (Puducherry.txt)	2 BHK Independent House	Yanam Colony	Yanam / Puducherry	Independent House / 2 BHK	1006	₹41.88 L	Unfurnished	1	Bachelors	Sale
+857	Puducherry Properties (Puducherry.txt)	2 BHK Apartment	Karaikal Sector 3	Karaikal / Puducherry	Apartment / 2 BHK	1031	₹51.35 L	Fully-Furnished	2	Any	Sale
+858	Puducherry Properties (Puducherry.txt)	1 BHK Apartment	Yanam Sector 3	Yanam / Puducherry	Apartment / 1 BHK	605	₹35.66 L	Semi-Furnished	1	Family	Sale
+859	Puducherry Properties (Puducherry.txt)	3 BHK Apartment	Oulgaret Town Centre	Oulgaret / Puducherry	Apartment / 3 BHK	1185	₹21,700/month	Semi-Furnished	3	Any	Rent
+860	Puducherry Properties (Puducherry.txt)	2 BHK Villa	Yanam South	Yanam / Puducherry	Villa / 2 BHK	1089	₹43.63 L	Unfurnished	2	Bachelors	Sale
+861	Puducherry Properties (Puducherry.txt)	3 BHK Independent House	Karaikal Colony	Karaikal / Puducherry	Independent House / 3 BHK	1223	₹58.32 L	Unfurnished	3	Bachelors	Sale
+862	Puducherry Properties (Puducherry.txt)	2 BHK Apartment	Yanam Main Road	Yanam / Puducherry	Apartment / 2 BHK	853	₹58.76 L	Unfurnished	3	Bachelors	Sale
+863	Puducherry Properties (Puducherry.txt)	1 BHK Apartment	Puducherry Town Centre	Puducherry / Puducherry	Apartment / 1 BHK	593	₹27.09 L	Semi-Furnished	1	Bachelors	Sale
+864	Puducherry Properties (Puducherry.txt)	1 BHK Studio	Yanam Town Centre	Yanam / Puducherry	Studio / 1 BHK	349	₹23.97 L	Unfurnished	1	Any	Sale
+865	Puducherry Properties (Puducherry.txt)	2 BHK Villa	Yanam Residential Area	Yanam / Puducherry	Villa / 2 BHK	947	₹59.27 L	Semi-Furnished	1	Family	Sale
+866	Puducherry Properties (Puducherry.txt)	1 BHK Studio	Yanam Town Centre	Yanam / Puducherry	Studio / 1 BHK	368	₹31.37 L	Semi-Furnished	1	Family	Sale
+867	Puducherry Properties (Puducherry.txt)	2 BHK Apartment	Puducherry Nagar	Puducherry / Puducherry	Apartment / 2 BHK	954	₹60.48 L	Semi-Furnished	3	Family	Sale
+868	Puducherry Properties (Puducherry.txt)	3 BHK Builder Floor	Oulgaret Central	Oulgaret / Puducherry	Builder Floor / 3 BHK	1102	₹56.12 L	Fully-Furnished	3	Family	Sale
+869	Puducherry Properties (Puducherry.txt)	2 BHK Apartment	Puducherry Sector 2	Puducherry / Puducherry	Apartment / 2 BHK	859	₹45.21 L	Semi-Furnished	2	Any	Sale
+870	Puducherry Properties (Puducherry.txt)	1 BHK Studio	Oulgaret Sector 1	Oulgaret / Puducherry	Studio / 1 BHK	310	₹27.23 L	Unfurnished	1	Family	Sale
+871	Puducherry Properties (Puducherry.txt)	4 BHK Builder Floor	Yanam East	Yanam / Puducherry	Builder Floor / 4 BHK	1613	₹22,300/month	Fully-Furnished	4	Family	Rent
+872	Puducherry Properties (Puducherry.txt)	3 BHK Villa	Oulgaret Residential Area	Oulgaret / Puducherry	Villa / 3 BHK	1332	₹79.53 L	Semi-Furnished	3	Bachelors	Sale
+873	Puducherry Properties (Puducherry.txt)	1 BHK Apartment	Karaikal East	Karaikal / Puducherry	Apartment / 1 BHK	497	₹32.50 L	Unfurnished	1	Bachelors	Sale
+874	Puducherry Properties (Puducherry.txt)	2 BHK Apartment	Oulgaret East	Oulgaret / Puducherry	Apartment / 2 BHK	1004	₹58.95 L	Semi-Furnished	3	Family	Sale
+875	Puducherry Properties (Puducherry.txt)	2 BHK Apartment	Oulgaret Colony	Oulgaret / Puducherry	Apartment / 2 BHK	758	₹51.26 L	Fully-Furnished	2	Bachelors	Sale
+876	Puducherry Properties (Puducherry.txt)	3 BHK Apartment	Oulgaret Heights	Oulgaret / Puducherry	Apartment / 3 BHK	1267	₹67.59 L	Unfurnished	3	Family	Sale
+877	Puducherry Properties (Puducherry.txt)	2 BHK Apartment	Yanam Colony	Yanam / Puducherry	Apartment / 2 BHK	790	₹11,100/month	Fully-Furnished	1	Family	Rent
+878	Puducherry Properties (Puducherry.txt)	1 BHK Villa	Oulgaret Heights	Oulgaret / Puducherry	Villa / 1 BHK	788	₹28.79 L	Semi-Furnished	1	Bachelors	Sale
+879	Puducherry Properties (Puducherry.txt)	2 BHK Apartment	Oulgaret Colony	Oulgaret / Puducherry	Apartment / 2 BHK	666	₹50.85 L	Semi-Furnished	2	Any	Sale
+880	Puducherry Properties (Puducherry.txt)	3 BHK Builder Floor	Oulgaret Central	Oulgaret / Puducherry	Builder Floor / 3 BHK	1284	₹18,800/month	Unfurnished	3	Family	Rent
+881	Puducherry Properties (Puducherry.txt)	3 BHK Apartment	Yanam Heights	Yanam / Puducherry	Apartment / 3 BHK	1225	₹55.17 L	Unfurnished	3	Family	Sale
+882	Puducherry Properties (Puducherry.txt)	2 BHK Builder Floor	Karaikal North	Karaikal / Puducherry	Builder Floor / 2 BHK	998	₹56.80 L	Semi-Furnished	2	Family	Sale
+883	Puducherry Properties (Puducherry.txt)	3 BHK Apartment	Yanam Sector 1	Yanam / Puducherry	Apartment / 3 BHK	1157	₹17,600/month	Unfurnished	3	Family	Rent
+884	Puducherry Properties (Puducherry.txt)	2 BHK Builder Floor	Karaikal Extension	Karaikal / Puducherry	Builder Floor / 2 BHK	713	₹46.33 L	Unfurnished	2	Family	Sale
+885	Puducherry Properties (Puducherry.txt)	2 BHK Apartment	Yanam West	Yanam / Puducherry	Apartment / 2 BHK	689	₹44.04 L	Semi-Furnished	2	Any	Sale
+886	Puducherry Properties (Puducherry.txt)	2 BHK Apartment	Puducherry Residential Area	Puducherry / Puducherry	Apartment / 2 BHK	782	₹44.69 L	Semi-Furnished	1	Family	Sale
+887	Puducherry Properties (Puducherry.txt)	2 BHK Apartment	Oulgaret Nagar	Oulgaret / Puducherry	Apartment / 2 BHK	865	₹59.40 L	Semi-Furnished	2	Family	Sale
+888	Puducherry Properties (Puducherry.txt)	3 BHK Apartment	Puducherry East	Puducherry / Puducherry	Apartment / 3 BHK	1359	₹69.02 L	Semi-Furnished	3	Family	Sale
+889	Puducherry Properties (Puducherry.txt)	3 BHK Villa	Puducherry Town Centre	Puducherry / Puducherry	Villa / 3 BHK	1882	₹80.48 L	Fully-Furnished	4	Family	Sale
+890	Puducherry Properties (Puducherry.txt)	1 BHK Independent House	Oulgaret Sector 3	Oulgaret / Puducherry	Independent House / 1 BHK	786	₹10,600/month	Semi-Furnished	1	Any	Rent
+891	Puducherry Properties (Puducherry.txt)	5 BHK Apartment	Karaikal North	Karaikal / Puducherry	Apartment / 5 BHK	2956	₹1.27 Cr	Semi-Furnished	4	Any	Sale
+892	Puducherry Properties (Puducherry.txt)	1 BHK Studio	Yanam Nagar	Yanam / Puducherry	Studio / 1 BHK	391	₹7,600/month	Semi-Furnished	1	Family	Rent
+893	Puducherry Properties (Puducherry.txt)	2 BHK Builder Floor	Karaikal Main Road	Karaikal / Puducherry	Builder Floor / 2 BHK	859	₹59.26 L	Semi-Furnished	2	Family	Sale
+894	Puducherry Properties (Puducherry.txt)	3 BHK Builder Floor	Karaikal Colony	Karaikal / Puducherry	Builder Floor / 3 BHK	965	₹56.82 L	Semi-Furnished	3	Any	Sale
+895	Puducherry Properties (Puducherry.txt)	3 BHK Apartment	Karaikal Town Centre	Karaikal / Puducherry	Apartment / 3 BHK	1433	₹58.81 L	Unfurnished	2	Any	Sale
+896	Puducherry Properties (Puducherry.txt)	2 BHK Independent House	Oulgaret Residential Area	Oulgaret / Puducherry	Independent House / 2 BHK	998	₹43.29 L	Fully-Furnished	2	Any	Sale
+897	Puducherry Properties (Puducherry.txt)	3 BHK Apartment	Karaikal Heights	Karaikal / Puducherry	Apartment / 3 BHK	1320	₹73.71 L	Fully-Furnished	3	Any	Sale
+898	Puducherry Properties (Puducherry.txt)	1 BHK Apartment	Karaikal Colony	Karaikal / Puducherry	Apartment / 1 BHK	520	₹30.06 L	Fully-Furnished	1	Family	Sale
+899	Puducherry Properties (Puducherry.txt)	3 BHK Apartment	Puducherry East	Puducherry / Puducherry	Apartment / 3 BHK	1166	₹57.87 L	Unfurnished	3	Family	Sale
+900	Puducherry Properties (Puducherry.txt)	1 BHK Apartment	Puducherry West	Puducherry / Puducherry	Apartment / 1 BHK	584	₹35.96 L	Fully-Furnished	2	Family	Sale
+901	Puducherry Properties (Puducherry.txt)	2 BHK Apartment	Oulgaret East	Oulgaret / Puducherry	Apartment / 2 BHK	763	₹11,200/month	Semi-Furnished	2	Bachelors	Rent
+902	Puducherry Properties (Puducherry.txt)	2 BHK Apartment	Oulgaret North	Oulgaret / Puducherry	Apartment / 2 BHK	671	₹40.36 L	Fully-Furnished	3	Family	Sale
+903	Puducherry Properties (Puducherry.txt)	1 BHK Apartment	Yanam Town Centre	Yanam / Puducherry	Apartment / 1 BHK	580	₹34.91 L	Semi-Furnished	1	Family	Sale
+904	Puducherry Properties (Puducherry.txt)	2 BHK Apartment	Karaikal North	Karaikal / Puducherry	Apartment / 2 BHK	708	₹11,300/month	Semi-Furnished	2	Family	Rent
+905	Puducherry Properties (Puducherry.txt)	4 BHK Apartment	Yanam Main Road	Yanam / Puducherry	Apartment / 4 BHK	1883	₹26,600/month	Fully-Furnished	4	Any	Rent
+906	Puducherry Properties (Puducherry.txt)	2 BHK Apartment	Oulgaret Sector 1	Oulgaret / Puducherry	Apartment / 2 BHK	787	₹50.66 L	Semi-Furnished	3	Family	Sale
+907	Puducherry Properties (Puducherry.txt)	2 BHK Builder Floor	Karaikal Colony	Karaikal / Puducherry	Builder Floor / 2 BHK	967	₹12,800/month	Fully-Furnished	2	Family	Rent
+908	Puducherry Properties (Puducherry.txt)	4 BHK Apartment	Yanam Heights	Yanam / Puducherry	Apartment / 4 BHK	1597	₹86.40 L	Semi-Furnished	4	Bachelors	Sale
+909	Puducherry Properties (Puducherry.txt)	3 BHK Builder Floor	Karaikal Nagar	Karaikal / Puducherry	Builder Floor / 3 BHK	1139	₹54.62 L	Semi-Furnished	4	Any	Sale
+910	Puducherry Properties (Puducherry.txt)	2 BHK Apartment	Karaikal Colony	Karaikal / Puducherry	Apartment / 2 BHK	727	₹41.15 L	Semi-Furnished	2	Bachelors	Sale
+911	Puducherry Properties (Puducherry.txt)	1 BHK Apartment	Karaikal Residential Area	Karaikal / Puducherry	Apartment / 1 BHK	498	₹36.65 L	Semi-Furnished	1	Family	Sale
+912	Puducherry Properties (Puducherry.txt)	3 BHK Apartment	Yanam Sector 2	Yanam / Puducherry	Apartment / 3 BHK	1105	₹19,100/month	Fully-Furnished	4	Family	Rent
+913	Puducherry Properties (Puducherry.txt)	1 BHK Apartment	Puducherry West	Puducherry / Puducherry	Apartment / 1 BHK	495	₹8,000/month	Fully-Furnished	1	Bachelors	Rent
+914	Puducherry Properties (Puducherry.txt)	5 BHK Builder Floor	Yanam Sector 3	Yanam / Puducherry	Builder Floor / 5 BHK	2612	₹30,700/month	Semi-Furnished	5	Any	Rent
+915	Puducherry Properties (Puducherry.txt)	5 BHK Builder Floor	Puducherry Town Centre	Puducherry / Puducherry	Builder Floor / 5 BHK	2801	₹34,600/month	Unfurnished	5	Family	Rent
+916	Puducherry Properties (Puducherry.txt)	3 BHK Villa	Oulgaret Sector 1	Oulgaret / Puducherry	Villa / 3 BHK	1648	₹88.12 L	Semi-Furnished	4	Bachelors	Sale
+917	Puducherry Properties (Puducherry.txt)	3 BHK Apartment	Karaikal Sector 3	Karaikal / Puducherry	Apartment / 3 BHK	1411	₹64.68 L	Semi-Furnished	3	Family	Sale
+918	Puducherry Properties (Puducherry.txt)	2 BHK Apartment	Karaikal Residential Area	Karaikal / Puducherry	Apartment / 2 BHK	737	₹15,700/month	Semi-Furnished	2	Family	Rent
+919	Puducherry Properties (Puducherry.txt)	2 BHK Apartment	Oulgaret West	Oulgaret / Puducherry	Apartment / 2 BHK	717	₹48.67 L	Fully-Furnished	1	Any	Sale
+920	Puducherry Properties (Puducherry.txt)	3 BHK Apartment	Yanam Residential Area	Yanam / Puducherry	Apartment / 3 BHK	1430	₹18,300/month	Semi-Furnished	4	Bachelors	Rent
+921	Puducherry Properties (Puducherry.txt)	3 BHK Builder Floor	Yanam Sector 3	Yanam / Puducherry	Builder Floor / 3 BHK	1211	₹21,400/month	Fully-Furnished	3	Bachelors	Rent
+922	Puducherry Properties (Puducherry.txt)	2 BHK Independent House	Puducherry Town Centre	Puducherry / Puducherry	Independent House / 2 BHK	1054	₹11,700/month	Unfurnished	2	Family	Rent
+923	Puducherry Properties (Puducherry.txt)	3 BHK Apartment	Yanam Residential Area	Yanam / Puducherry	Apartment / 3 BHK	1185	₹68.85 L	Fully-Furnished	2	Any	Sale
+924	Puducherry Properties (Puducherry.txt)	2 BHK Apartment	Puducherry Nagar	Puducherry / Puducherry	Apartment / 2 BHK	899	₹46.49 L	Fully-Furnished	2	Any	Sale
+925	Puducherry Properties (Puducherry.txt)	5 BHK Independent House	Puducherry Residential Area	Puducherry / Puducherry	Independent House / 5 BHK	3645	₹35,200/month	Semi-Furnished	5	Any	Rent
+926	Puducherry Properties (Puducherry.txt)	2 BHK Apartment	Oulgaret Central	Oulgaret / Puducherry	Apartment / 2 BHK	717	₹51.25 L	Semi-Furnished	2	Any	Sale
+927	Puducherry Properties (Puducherry.txt)	2 BHK Builder Floor	Puducherry Central	Puducherry / Puducherry	Builder Floor / 2 BHK	740	₹51.53 L	Unfurnished	3	Family	Sale
+928	Puducherry Properties (Puducherry.txt)	1 BHK Studio	Karaikal North	Karaikal / Puducherry	Studio / 1 BHK	300	₹23.75 L	Fully-Furnished	1	Family	Sale
+929	Puducherry Properties (Puducherry.txt)	4 BHK Apartment	Puducherry Heights	Puducherry / Puducherry	Apartment / 4 BHK	1662	₹74.26 L	Semi-Furnished	4	Bachelors	Sale
+930	Puducherry Properties (Puducherry.txt)	2 BHK Builder Floor	Yanam North	Yanam / Puducherry	Builder Floor / 2 BHK	866	₹53.75 L	Fully-Furnished	2	Bachelors	Sale
+931	Puducherry Properties (Puducherry.txt)	2 BHK Apartment	Oulgaret West	Oulgaret / Puducherry	Apartment / 2 BHK	871	₹52.85 L	Fully-Furnished	2	Any	Sale
+932	Puducherry Properties (Puducherry.txt)	2 BHK Apartment	Karaikal Sector 1	Karaikal / Puducherry	Apartment / 2 BHK	998	₹11,600/month	Fully-Furnished	1	Family	Rent
+933	Puducherry Properties (Puducherry.txt)	3 BHK Apartment	Yanam Nagar	Yanam / Puducherry	Apartment / 3 BHK	1502	₹80.31 L	Semi-Furnished	3	Family	Sale
+934	Puducherry Properties (Puducherry.txt)	1 BHK Apartment	Oulgaret Sector 2	Oulgaret / Puducherry	Apartment / 1 BHK	476	₹36.23 L	Semi-Furnished	1	Family	Sale
+935	Puducherry Properties (Puducherry.txt)	3 BHK Apartment	Puducherry South	Puducherry / Puducherry	Apartment / 3 BHK	1243	₹69.48 L	Fully-Furnished	3	Bachelors	Sale
+936	Puducherry Properties (Puducherry.txt)	4 BHK Villa	Yanam Sector 3	Yanam / Puducherry	Villa / 4 BHK	2567	₹95.33 L	Semi-Furnished	3	Bachelors	Sale
+937	Puducherry Properties (Puducherry.txt)	2 BHK Apartment	Oulgaret East	Oulgaret / Puducherry	Apartment / 2 BHK	978	₹56.42 L	Semi-Furnished	3	Family	Sale
+938	Puducherry Properties (Puducherry.txt)	2 BHK Apartment	Puducherry Town Centre	Puducherry / Puducherry	Apartment / 2 BHK	816	₹13,000/month	Fully-Furnished	2	Family	Rent
+939	Puducherry Properties (Puducherry.txt)	4 BHK Apartment	Oulgaret West	Oulgaret / Puducherry	Apartment / 4 BHK	1512	₹84.17 L	Unfurnished	3	Family	Sale
+940	Puducherry Properties (Puducherry.txt)	1 BHK Apartment	Puducherry East	Puducherry / Puducherry	Apartment / 1 BHK	555	₹30.29 L	Unfurnished	1	Family	Sale
+941	Puducherry Properties (Puducherry.txt)	2 BHK Apartment	Oulgaret Sector 1	Oulgaret / Puducherry	Apartment / 2 BHK	982	₹61.01 L	Semi-Furnished	2	Any	Sale
+942	Puducherry Properties (Puducherry.txt)	1 BHK Independent House	Puducherry Sector 2	Puducherry / Puducherry	Independent House / 1 BHK	494	₹33.35 L	Semi-Furnished	1	Family	Sale
+943	Puducherry Properties (Puducherry.txt)	2 BHK Independent House	Karaikal Main Road	Karaikal / Puducherry	Independent House / 2 BHK	781	₹56.67 L	Fully-Furnished	3	Any	Sale
+944	Puducherry Properties (Puducherry.txt)	2 BHK Apartment	Oulgaret North	Oulgaret / Puducherry	Apartment / 2 BHK	755	₹53.04 L	Unfurnished	2	Family	Sale
+945	Puducherry Properties (Puducherry.txt)	4 BHK Apartment	Puducherry Heights	Puducherry / Puducherry	Apartment / 4 BHK	1623	₹1.02 Cr	Semi-Furnished	3	Family	Sale
+946	Puducherry Properties (Puducherry.txt)	4 BHK Builder Floor	Karaikal Central	Karaikal / Puducherry	Builder Floor / 4 BHK	1687	₹28,300/month	Semi-Furnished	4	Family	Rent
+947	Puducherry Properties (Puducherry.txt)	2 BHK Apartment	Karaikal Extension	Karaikal / Puducherry	Apartment / 2 BHK	983	₹11,800/month	Unfurnished	1	Bachelors	Rent
+948	Puducherry Properties (Puducherry.txt)	2 BHK Builder Floor	Karaikal East	Karaikal / Puducherry	Builder Floor / 2 BHK	903	₹14,900/month	Unfurnished	2	Family	Rent
+949	Puducherry Properties (Puducherry.txt)	4 BHK Apartment	Karaikal Sector 3	Karaikal / Puducherry	Apartment / 4 BHK	2254	₹1.09 Cr	Fully-Furnished	5	Bachelors	Sale
+950	Puducherry Properties (Puducherry.txt)	2 BHK Apartment	Karaikal Heights	Karaikal / Puducherry	Apartment / 2 BHK	954	₹15,600/month	Fully-Furnished	2	Any	Rent
+951	Puducherry Properties (Puducherry.txt)	2 BHK Apartment	Yanam Sector 3	Yanam / Puducherry	Apartment / 2 BHK	904	₹13,500/month	Unfurnished	3	Any	Rent
+952	Puducherry Properties (Puducherry.txt)	2 BHK Apartment	Oulgaret Nagar	Oulgaret / Puducherry	Apartment / 2 BHK	682	₹46.01 L	Semi-Furnished	2	Any	Sale
+953	Puducherry Properties (Puducherry.txt)	2 BHK Villa	Oulgaret West	Oulgaret / Puducherry	Villa / 2 BHK	1440	₹52.41 L	Semi-Furnished	2	Any	Sale
+954	Puducherry Properties (Puducherry.txt)	2 BHK Apartment	Oulgaret North	Oulgaret / Puducherry	Apartment / 2 BHK	888	₹16,200/month	Semi-Furnished	2	Bachelors	Rent
+955	Puducherry Properties (Puducherry.txt)	2 BHK Apartment	Puducherry West	Puducherry / Puducherry	Apartment / 2 BHK	959	₹14,900/month	Semi-Furnished	2	Family	Rent
+956	Puducherry Properties (Puducherry.txt)	3 BHK Apartment	Puducherry Sector 3	Puducherry / Puducherry	Apartment / 3 BHK	1571	₹21,700/month	Semi-Furnished	3	Bachelors	Rent
+957	Puducherry Properties (Puducherry.txt)	3 BHK Independent House	Oulgaret Sector 3	Oulgaret / Puducherry	Independent House / 3 BHK	1511	₹72.09 L	Semi-Furnished	4	Any	Sale
+958	Puducherry Properties (Puducherry.txt)	3 BHK Apartment	Karaikal Sector 3	Karaikal / Puducherry	Apartment / 3 BHK	1244	₹70.83 L	Fully-Furnished	2	Any	Sale
+959	Puducherry Properties (Puducherry.txt)	1 BHK Studio	Oulgaret Nagar	Oulgaret / Puducherry	Studio / 1 BHK	319	₹24.67 L	Semi-Furnished	2	Family	Sale
+960	Puducherry Properties (Puducherry.txt)	1 BHK Apartment	Puducherry Town Centre	Puducherry / Puducherry	Apartment / 1 BHK	403	₹35.54 L	Unfurnished	2	Family	Sale
+961	Puducherry Properties (Puducherry.txt)	5 BHK Apartment	Karaikal East	Karaikal / Puducherry	Apartment / 5 BHK	2645	₹31,700/month	Semi-Furnished	4	Any	Rent
+962	Puducherry Properties (Puducherry.txt)	3 BHK Builder Floor	Oulgaret Nagar	Oulgaret / Puducherry	Builder Floor / 3 BHK	941	₹15,800/month	Fully-Furnished	3	Bachelors	Rent
+963	Puducherry Properties (Puducherry.txt)	4 BHK Apartment	Puducherry Sector 1	Puducherry / Puducherry	Apartment / 4 BHK	1800	₹95.01 L	Fully-Furnished	4	Bachelors	Sale
+964	Puducherry Properties (Puducherry.txt)	2 BHK Villa	Karaikal Nagar	Karaikal / Puducherry	Villa / 2 BHK	1121	₹56.32 L	Fully-Furnished	2	Family	Sale
+965	Puducherry Properties (Puducherry.txt)	5 BHK Independent House	Oulgaret West	Oulgaret / Puducherry	Independent House / 5 BHK	2934	₹1.26 Cr	Fully-Furnished	6	Family	Sale
+966	Puducherry Properties (Puducherry.txt)	2 BHK Apartment	Karaikal Sector 3	Karaikal / Puducherry	Apartment / 2 BHK	907	₹56.20 L	Fully-Furnished	2	Family	Sale
+967	Puducherry Properties (Puducherry.txt)	3 BHK Builder Floor	Oulgaret Sector 3	Oulgaret / Puducherry	Builder Floor / 3 BHK	898	₹15,700/month	Unfurnished	3	Bachelors	Rent
+968	Puducherry Properties (Puducherry.txt)	3 BHK Villa	Karaikal Sector 3	Karaikal / Puducherry	Villa / 3 BHK	1195	₹66.08 L	Fully-Furnished	3	Family	Sale
+969	Puducherry Properties (Puducherry.txt)	1 BHK Apartment	Puducherry South	Puducherry / Puducherry	Apartment / 1 BHK	455	₹27.33 L	Semi-Furnished	1	Any	Sale
+970	Puducherry Properties (Puducherry.txt)	3 BHK Independent House	Oulgaret North	Oulgaret / Puducherry	Independent House / 3 BHK	1287	₹62.32 L	Fully-Furnished	3	Family	Sale
+971	Puducherry Properties (Puducherry.txt)	3 BHK Apartment	Oulgaret North	Oulgaret / Puducherry	Apartment / 3 BHK	1503	₹84.02 L	Unfurnished	2	Any	Sale
+972	Puducherry Properties (Puducherry.txt)	2 BHK Villa	Oulgaret Main Road	Oulgaret / Puducherry	Villa / 2 BHK	1257	₹13,800/month	Semi-Furnished	1	Bachelors	Rent
+973	Puducherry Properties (Puducherry.txt)	3 BHK Builder Floor	Yanam Sector 2	Yanam / Puducherry	Builder Floor / 3 BHK	1345	₹17,400/month	Semi-Furnished	4	Family	Rent
+974	Puducherry Properties (Puducherry.txt)	3 BHK Independent House	Oulgaret South	Oulgaret / Puducherry	Independent House / 3 BHK	1306	₹74.13 L	Semi-Furnished	4	Any	Sale
+975	Puducherry Properties (Puducherry.txt)	2 BHK Builder Floor	Puducherry Sector 1	Puducherry / Puducherry	Builder Floor / 2 BHK	623	₹12,700/month	Unfurnished	2	Family	Rent
+976	Puducherry Properties (Puducherry.txt)	4 BHK Apartment	Yanam North	Yanam / Puducherry	Apartment / 4 BHK	1772	₹86.78 L	Semi-Furnished	4	Bachelors	Sale
+977	Puducherry Properties (Puducherry.txt)	1 BHK Studio	Puducherry East	Puducherry / Puducherry	Studio / 1 BHK	434	₹30.75 L	Semi-Furnished	2	Family	Sale
+978	Puducherry Properties (Puducherry.txt)	4 BHK Apartment	Puducherry Residential Area	Puducherry / Puducherry	Apartment / 4 BHK	1836	₹27,200/month	Semi-Furnished	3	Any	Rent
+979	Puducherry Properties (Puducherry.txt)	2 BHK Apartment	Karaikal Extension	Karaikal / Puducherry	Apartment / 2 BHK	847	₹53.83 L	Semi-Furnished	2	Bachelors	Sale
+980	Puducherry Properties (Puducherry.txt)	3 BHK Apartment	Oulgaret Town Centre	Oulgaret / Puducherry	Apartment / 3 BHK	1334	₹63 L	Fully-Furnished	3	Any	Sale
+981	Puducherry Properties (Puducherry.txt)	2 BHK Apartment	Karaikal Nagar	Karaikal / Puducherry	Apartment / 2 BHK	1025	₹47.45 L	Semi-Furnished	1	Family	Sale
+982	Puducherry Properties (Puducherry.txt)	2 BHK Apartment	Karaikal South	Karaikal / Puducherry	Apartment / 2 BHK	716	₹14,400/month	Semi-Furnished	3	Bachelors	Rent
+983	Puducherry Properties (Puducherry.txt)	1 BHK Apartment	Yanam Central	Yanam / Puducherry	Apartment / 1 BHK	591	₹8,800/month	Unfurnished	1	Bachelors	Rent
+984	Puducherry Properties (Puducherry.txt)	3 BHK Apartment	Oulgaret Sector 3	Oulgaret / Puducherry	Apartment / 3 BHK	1269	₹72.94 L	Semi-Furnished	3	Family	Sale
+985	Puducherry Properties (Puducherry.txt)	2 BHK Apartment	Oulgaret Sector 3	Oulgaret / Puducherry	Apartment / 2 BHK	867	₹52.04 L	Unfurnished	2	Any	Sale
+986	Puducherry Properties (Puducherry.txt)	1 BHK Studio	Oulgaret Nagar	Oulgaret / Puducherry	Studio / 1 BHK	315	₹8,300/month	Unfurnished	1	Any	Rent
+987	Puducherry Properties (Puducherry.txt)	2 BHK Independent House	Puducherry Nagar	Puducherry / Puducherry	Independent House / 2 BHK	805	₹15,500/month	Semi-Furnished	2	Family	Rent
+988	Puducherry Properties (Puducherry.txt)	2 BHK Independent House	Oulgaret Sector 1	Oulgaret / Puducherry	Independent House / 2 BHK	1031	₹45.78 L	Semi-Furnished	2	Family	Sale
+989	Puducherry Properties (Puducherry.txt)	2 BHK Apartment	Puducherry Extension	Puducherry / Puducherry	Apartment / 2 BHK	1031	₹13,600/month	Fully-Furnished	1	Any	Rent
+990	Puducherry Properties (Puducherry.txt)	4 BHK Villa	Yanam East	Yanam / Puducherry	Villa / 4 BHK	2627	₹85.52 L	Fully-Furnished	4	Family	Sale
+991	Puducherry Properties (Puducherry.txt)	2 BHK Villa	Puducherry South	Puducherry / Puducherry	Villa / 2 BHK	930	₹14,400/month	Fully-Furnished	2	Bachelors	Rent
+992	Puducherry Properties (Puducherry.txt)	2 BHK Apartment	Oulgaret Nagar	Oulgaret / Puducherry	Apartment / 2 BHK	911	₹44.52 L	Unfurnished	1	Family	Sale
+993	Puducherry Properties (Puducherry.txt)	1 BHK Builder Floor	Yanam South	Yanam / Puducherry	Builder Floor / 1 BHK	526	₹37.41 L	Fully-Furnished	1	Any	Sale
+994	Puducherry Properties (Puducherry.txt)	2 BHK Apartment	Puducherry Sector 2	Puducherry / Puducherry	Apartment / 2 BHK	857	₹57.05 L	Unfurnished	2	Family	Sale
+995	Puducherry Properties (Puducherry.txt)	4 BHK Apartment	Puducherry Sector 2	Puducherry / Puducherry	Apartment / 4 BHK	1879	₹28,200/month	Fully-Furnished	4	Family	Rent
+996	Puducherry Properties (Puducherry.txt)	2 BHK Apartment	Puducherry Nagar	Puducherry / Puducherry	Apartment / 2 BHK	777	₹48.95 L	Unfurnished	1	Family	Sale
+997	Puducherry Properties (Puducherry.txt)	3 BHK Apartment	Karaikal Town Centre	Karaikal / Puducherry	Apartment / 3 BHK	1460	₹69.57 L	Fully-Furnished	3	Family	Sale
+998	Puducherry Properties (Puducherry.txt)	3 BHK Apartment	Karaikal Central	Karaikal / Puducherry	Apartment / 3 BHK	1348	₹20,400/month	Unfurnished	2	Family	Rent
+999	Puducherry Properties (Puducherry.txt)	2 BHK Apartment	Oulgaret East	Oulgaret / Puducherry	Apartment / 2 BHK	881	₹50.37 L	Semi-Furnished	2	Family	Sale
+1000	Puducherry Properties (Puducherry.txt)	4 BHK Independent House	Oulgaret Colony	Oulgaret / Puducherry	Independent House / 4 BHK	1684	₹1.03 Cr	Unfurnished	4	Family	Sale
+1001	Puducherry Properties (Puducherry.txt)	2 BHK Villa	Oulgaret North	Oulgaret / Puducherry	Villa / 2 BHK	1248	₹14,400/month	Fully-Furnished	2	Family	Rent
+1002	Puducherry Properties (Puducherry.txt)	3 BHK Apartment	Karaikal Heights	Karaikal / Puducherry	Apartment / 3 BHK	1271	₹57.77 L	Semi-Furnished	4	Bachelors	Sale
+1003	Puducherry Properties (Puducherry.txt)	4 BHK Apartment	Puducherry Town Centre	Puducherry / Puducherry	Apartment / 4 BHK	1226	₹19,900/month	Fully-Furnished	4	Family	Rent
+1004	Puducherry Properties (Puducherry.txt)	1 BHK Apartment	Yanam Residential Area	Yanam / Puducherry	Apartment / 1 BHK	530	₹33.96 L	Fully-Furnished	2	Family	Sale
+1005	Puducherry Properties (Puducherry.txt)	2 BHK Apartment	Puducherry South	Puducherry / Puducherry	Apartment / 2 BHK	884	₹12,000/month	Semi-Furnished	2	Family	Rent
+1006	Puducherry Properties (Puducherry.txt)	2 BHK Apartment	Karaikal Sector 2	Karaikal / Puducherry	Apartment / 2 BHK	860	₹50.45 L	Semi-Furnished	1	Any	Sale
+1007	Puducherry Properties (Puducherry.txt)	3 BHK Apartment	Karaikal Main Road	Karaikal / Puducherry	Apartment / 3 BHK	1298	₹73 L	Fully-Furnished	3	Family	Sale
+1008	Puducherry Properties (Puducherry.txt)	2 BHK Apartment	Oulgaret Heights	Oulgaret / Puducherry	Apartment / 2 BHK	1044	₹15,900/month	Semi-Furnished	1	Any	Rent
+1009	Puducherry Properties (Puducherry.txt)	5 BHK Apartment	Karaikal Sector 2	Karaikal / Puducherry	Apartment / 5 BHK	2720	₹1.12 Cr	Unfurnished	5	Family	Sale
+1010	Puducherry Properties (Puducherry.txt)	3 BHK Villa	Yanam Main Road	Yanam / Puducherry	Villa / 3 BHK	1788	₹21,000/month	Fully-Furnished	3	Any	Rent
+1011	Puducherry Properties (Puducherry.txt)	4 BHK Builder Floor	Yanam Nagar	Yanam / Puducherry	Builder Floor / 4 BHK	1630	₹98.77 L	Semi-Furnished	4	Bachelors	Sale
+1012	Puducherry Properties (Puducherry.txt)	3 BHK Apartment	Yanam East	Yanam / Puducherry	Apartment / 3 BHK	1235	₹21,300/month	Fully-Furnished	3	Family	Rent
+1013	Puducherry Properties (Puducherry.txt)	2 BHK Apartment	Oulgaret East	Oulgaret / Puducherry	Apartment / 2 BHK	868	₹47.83 L	Fully-Furnished	2	Any	Sale
+1014	Puducherry Properties (Puducherry.txt)	3 BHK Apartment	Yanam Extension	Yanam / Puducherry	Apartment / 3 BHK	1345	₹79.70 L	Semi-Furnished	2	Bachelors	Sale
+1015	Puducherry Properties (Puducherry.txt)	3 BHK Apartment	Karaikal Town Centre	Karaikal / Puducherry	Apartment / 3 BHK	1460	₹22,400/month	Unfurnished	3	Any	Rent
+1016	Puducherry Properties (Puducherry.txt)	4 BHK Apartment	Yanam Nagar	Yanam / Puducherry	Apartment / 4 BHK	1507	₹71.88 L	Semi-Furnished	4	Family	Sale
+1017	Puducherry Properties (Puducherry.txt)	3 BHK Builder Floor	Oulgaret Heights	Oulgaret / Puducherry	Builder Floor / 3 BHK	1268	₹20,600/month	Semi-Furnished	3	Family	Rent
+1018	Puducherry Properties (Puducherry.txt)	1 BHK Builder Floor	Puducherry Sector 2	Puducherry / Puducherry	Builder Floor / 1 BHK	486	₹31.66 L	Unfurnished	1	Any	Sale
+1019	Puducherry Properties (Puducherry.txt)	3 BHK Builder Floor	Oulgaret Sector 3	Oulgaret / Puducherry	Builder Floor / 3 BHK	1202	₹63.31 L	Semi-Furnished	2	Family	Sale
+1020	Puducherry Properties (Puducherry.txt)	1 BHK Apartment	Karaikal North	Karaikal / Puducherry	Apartment / 1 BHK	590	₹8,600/month	Unfurnished	1	Bachelors	Rent
+1021	Puducherry Properties (Puducherry.txt)	2 BHK Villa	Oulgaret West	Oulgaret / Puducherry	Villa / 2 BHK	1271	₹12,700/month	Semi-Furnished	2	Any	Rent
+1022	Puducherry Properties (Puducherry.txt)	2 BHK Apartment	Oulgaret Sector 3	Oulgaret / Puducherry	Apartment / 2 BHK	962	₹59.43 L	Semi-Furnished	2	Bachelors	Sale
+1023	Puducherry Properties (Puducherry.txt)	1 BHK Builder Floor	Oulgaret Nagar	Oulgaret / Puducherry	Builder Floor / 1 BHK	621	₹7,800/month	Semi-Furnished	1	Family	Rent
+1024	Puducherry Properties (Puducherry.txt)	1 BHK Apartment	Puducherry South	Puducherry / Puducherry	Apartment / 1 BHK	552	₹8,400/month	Semi-Furnished	1	Family	Rent
+1025	Puducherry Properties (Puducherry.txt)	2 BHK Apartment	Karaikal Central	Karaikal / Puducherry	Apartment / 2 BHK	995	₹58.57 L	Unfurnished	2	Any	Sale
+1026	Puducherry Properties (Puducherry.txt)	3 BHK Builder Floor	Puducherry Residential Area	Puducherry / Puducherry	Builder Floor / 3 BHK	1195	₹78.89 L	Semi-Furnished	3	Family	Sale
+1027	Puducherry Properties (Puducherry.txt)	3 BHK Villa	Puducherry Nagar	Puducherry / Puducherry	Villa / 3 BHK	1518	₹83.40 L	Fully-Furnished	3	Family	Sale
+1028	Puducherry Properties (Puducherry.txt)	2 BHK Villa	Karaikal Sector 3	Karaikal / Puducherry	Villa / 2 BHK	1388	₹64.56 L	Semi-Furnished	3	Bachelors	Sale
+1029	Puducherry Properties (Puducherry.txt)	3 BHK Independent House	Yanam Central	Yanam / Puducherry	Independent House / 3 BHK	1353	₹72.69 L	Semi-Furnished	3	Family	Sale
+1030	Puducherry Properties (Puducherry.txt)	2 BHK Independent House	Karaikal Residential Area	Karaikal / Puducherry	Independent House / 2 BHK	1035	₹59.57 L	Semi-Furnished	1	Family	Sale
+1031	Puducherry Properties (Puducherry.txt)	3 BHK Villa	Oulgaret Town Centre	Oulgaret / Puducherry	Villa / 3 BHK	2014	₹83.86 L	Semi-Furnished	3	Bachelors	Sale
+1032	Puducherry Properties (Puducherry.txt)	1 BHK Independent House	Yanam Heights	Yanam / Puducherry	Independent House / 1 BHK	618	₹9,100/month	Semi-Furnished	1	Bachelors	Rent
+1033	Puducherry Properties (Puducherry.txt)	3 BHK Apartment	Oulgaret Extension	Oulgaret / Puducherry	Apartment / 3 BHK	1128	₹75.40 L	Fully-Furnished	4	Any	Sale
+1034	Puducherry Properties (Puducherry.txt)	4 BHK Builder Floor	Karaikal Central	Karaikal / Puducherry	Builder Floor / 4 BHK	1535	₹82.65 L	Semi-Furnished	4	Family	Sale
+1035	Puducherry Properties (Puducherry.txt)	2 BHK Independent House	Puducherry Sector 2	Puducherry / Puducherry	Independent House / 2 BHK	1272	₹56.57 L	Unfurnished	3	Family	Sale
+1036	Puducherry Properties (Puducherry.txt)	2 BHK Builder Floor	Puducherry East	Puducherry / Puducherry	Builder Floor / 2 BHK	940	₹48.08 L	Fully-Furnished	1	Family	Sale
+1037	Puducherry Properties (Puducherry.txt)	2 BHK Apartment	Karaikal Sector 1	Karaikal / Puducherry	Apartment / 2 BHK	818	₹48 L	Semi-Furnished	2	Any	Sale
+1038	Puducherry Properties (Puducherry.txt)	2 BHK Apartment	Puducherry East	Puducherry / Puducherry	Apartment / 2 BHK	929	₹12,400/month	Semi-Furnished	2	Bachelors	Rent
+1039	Puducherry Properties (Puducherry.txt)	1 BHK Studio	Yanam Heights	Yanam / Puducherry	Studio / 1 BHK	434	₹30.85 L	Unfurnished	1	Family	Sale
+1040	Puducherry Properties (Puducherry.txt)	4 BHK Independent House	Yanam Sector 3	Yanam / Puducherry	Independent House / 4 BHK	1967	₹28,700/month	Fully-Furnished	5	Family	Rent
+1041	Puducherry Properties (Puducherry.txt)	2 BHK Apartment	Karaikal Heights	Karaikal / Puducherry	Apartment / 2 BHK	858	₹16,100/month	Semi-Furnished	2	Bachelors	Rent
+1042	Puducherry Properties (Puducherry.txt)	2 BHK Apartment	Oulgaret Sector 2	Oulgaret / Puducherry	Apartment / 2 BHK	703	₹50.30 L	Fully-Furnished	2	Bachelors	Sale
+1043	Puducherry Properties (Puducherry.txt)	2 BHK Apartment	Yanam Heights	Yanam / Puducherry	Apartment / 2 BHK	672	₹13,800/month	Fully-Furnished	2	Family	Rent
+1044	Puducherry Properties (Puducherry.txt)	2 BHK Builder Floor	Oulgaret Residential Area	Oulgaret / Puducherry	Builder Floor / 2 BHK	1025	₹16,500/month	Unfurnished	3	Any	Rent
+1045	Puducherry Properties (Puducherry.txt)	1 BHK Studio	Yanam Sector 3	Yanam / Puducherry	Studio / 1 BHK	372	₹28.22 L	Semi-Furnished	1	Family	Sale
+1046	Puducherry Properties (Puducherry.txt)	1 BHK Studio	Karaikal Residential Area	Karaikal / Puducherry	Studio / 1 BHK	417	₹9,800/month	Semi-Furnished	1	Bachelors	Rent
+1047	Puducherry Properties (Puducherry.txt)	2 BHK Apartment	Puducherry Residential Area	Puducherry / Puducherry	Apartment / 2 BHK	681	₹15,300/month	Unfurnished	2	Bachelors	Rent
+1048	Puducherry Properties (Puducherry.txt)	3 BHK Independent House	Yanam Central	Yanam / Puducherry	Independent House / 3 BHK	1383	₹16,500/month	Fully-Furnished	3	Any	Rent
+1049	Puducherry Properties (Puducherry.txt)	1 BHK Studio	Oulgaret Colony	Oulgaret / Puducherry	Studio / 1 BHK	417	₹10,300/month	Unfurnished	1	Any	Rent
+1050	Puducherry Properties (Puducherry.txt)	3 BHK Apartment	Oulgaret Colony	Oulgaret / Puducherry	Apartment / 3 BHK	1444	₹70.76 L	Semi-Furnished	3	Family	Sale
+1051	Puducherry Properties (Puducherry.txt)	3 BHK Independent House	Yanam Sector 2	Yanam / Puducherry	Independent House / 3 BHK	1109	₹61.17 L	Semi-Furnished	2	Bachelors	Sale
+1052	Puducherry Properties (Puducherry.txt)	3 BHK Apartment	Puducherry Main Road	Puducherry / Puducherry	Apartment / 3 BHK	1219	₹76.72 L	Unfurnished	3	Any	Sale
+1053	Puducherry Properties (Puducherry.txt)	3 BHK Apartment	Yanam North	Yanam / Puducherry	Apartment / 3 BHK	1336	₹20,500/month	Semi-Furnished	3	Family	Rent
+1054	Puducherry Properties (Puducherry.txt)	2 BHK Builder Floor	Yanam Colony	Yanam / Puducherry	Builder Floor / 2 BHK	1057	₹50.12 L	Semi-Furnished	2	Bachelors	Sale
+1055	Puducherry Properties (Puducherry.txt)	3 BHK Independent House	Puducherry Main Road	Puducherry / Puducherry	Independent House / 3 BHK	1408	₹20,400/month	Fully-Furnished	3	Any	Rent
+1056	Puducherry Properties (Puducherry.txt)	1 BHK Apartment	Karaikal Town Centre	Karaikal / Puducherry	Apartment / 1 BHK	530	₹36.22 L	Semi-Furnished	2	Any	Sale
+1057	Puducherry Properties (Puducherry.txt)	3 BHK Apartment	Karaikal Extension	Karaikal / Puducherry	Apartment / 3 BHK	1334	₹61.54 L	Fully-Furnished	3	Family	Sale
+1058	Puducherry Properties (Puducherry.txt)	2 BHK Apartment	Karaikal East	Karaikal / Puducherry	Apartment / 2 BHK	826	₹41.78 L	Semi-Furnished	2	Family	Sale
+1059	Puducherry Properties (Puducherry.txt)	3 BHK Apartment	Yanam East	Yanam / Puducherry	Apartment / 3 BHK	1383	₹76.35 L	Fully-Furnished	3	Family	Sale
+1060	Puducherry Properties (Puducherry.txt)	4 BHK Apartment	Puducherry North	Puducherry / Puducherry	Apartment / 4 BHK	1506	₹88.81 L	Unfurnished	4	Any	Sale
+1061	Puducherry Properties (Puducherry.txt)	4 BHK Builder Floor	Yanam Colony	Yanam / Puducherry	Builder Floor / 4 BHK	1661	₹26,800/month	Fully-Furnished	4	Bachelors	Rent
+1062	Puducherry Properties (Puducherry.txt)	3 BHK Apartment	Oulgaret Residential Area	Oulgaret / Puducherry	Apartment / 3 BHK	1306	₹65.98 L	Fully-Furnished	3	Family	Sale
+1063	Puducherry Properties (Puducherry.txt)	2 BHK Independent House	Karaikal Heights	Karaikal / Puducherry	Independent House / 2 BHK	923	₹15,800/month	Semi-Furnished	2	Any	Rent
+1064	Puducherry Properties (Puducherry.txt)	2 BHK Apartment	Oulgaret Town Centre	Oulgaret / Puducherry	Apartment / 2 BHK	774	₹53.26 L	Semi-Furnished	2	Any	Sale
+1065	Puducherry Properties (Puducherry.txt)	3 BHK Apartment	Oulgaret Town Centre	Oulgaret / Puducherry	Apartment / 3 BHK	1338	₹19,500/month	Unfurnished	4	Family	Rent
+1066	Puducherry Properties (Puducherry.txt)	3 BHK Apartment	Yanam Sector 3	Yanam / Puducherry	Apartment / 3 BHK	1243	₹80.01 L	Semi-Furnished	3	Bachelors	Sale
+1067	Puducherry Properties (Puducherry.txt)	2 BHK Apartment	Karaikal Extension	Karaikal / Puducherry	Apartment / 2 BHK	777	₹13,600/month	Semi-Furnished	1	Any	Rent
+1068	Puducherry Properties (Puducherry.txt)	2 BHK Apartment	Oulgaret Sector 3	Oulgaret / Puducherry	Apartment / 2 BHK	932	₹56.22 L	Unfurnished	1	Family	Sale
+1069	Puducherry Properties (Puducherry.txt)	1 BHK Studio	Yanam South	Yanam / Puducherry	Studio / 1 BHK	461	₹33.48 L	Fully-Furnished	1	Family	Sale
+1070	Puducherry Properties (Puducherry.txt)	3 BHK Apartment	Puducherry Sector 1	Puducherry / Puducherry	Apartment / 3 BHK	1267	₹17,700/month	Semi-Furnished	4	Family	Rent
+1071	Puducherry Properties (Puducherry.txt)	3 BHK Villa	Oulgaret Residential Area	Oulgaret / Puducherry	Villa / 3 BHK	1543	₹22,800/month	Fully-Furnished	3	Family	Rent
+1072	Puducherry Properties (Puducherry.txt)	3 BHK Builder Floor	Yanam Nagar	Yanam / Puducherry	Builder Floor / 3 BHK	1371	₹65.62 L	Semi-Furnished	3	Any	Sale
+1073	Puducherry Properties (Puducherry.txt)	1 BHK Apartment	Puducherry Heights	Puducherry / Puducherry	Apartment / 1 BHK	479	₹28.76 L	Semi-Furnished	1	Bachelors	Sale
+1074	Puducherry Properties (Puducherry.txt)	3 BHK Apartment	Yanam West	Yanam / Puducherry	Apartment / 3 BHK	1438	₹65.97 L	Semi-Furnished	3	Family	Sale
+1075	Puducherry Properties (Puducherry.txt)	3 BHK Builder Floor	Puducherry Town Centre	Puducherry / Puducherry	Builder Floor / 3 BHK	1148	₹58.86 L	Unfurnished	2	Bachelors	Sale
+1076	Puducherry Properties (Puducherry.txt)	3 BHK Builder Floor	Oulgaret East	Oulgaret / Puducherry	Builder Floor / 3 BHK	1403	₹16,500/month	Fully-Furnished	2	Bachelors	Rent
+1077	Puducherry Properties (Puducherry.txt)	5 BHK Builder Floor	Karaikal East	Karaikal / Puducherry	Builder Floor / 5 BHK	2194	₹99.41 L	Semi-Furnished	5	Bachelors	Sale
+1078	Puducherry Properties (Puducherry.txt)	2 BHK Independent House	Yanam Town Centre	Yanam / Puducherry	Independent House / 2 BHK	1033	₹11,700/month	Semi-Furnished	3	Bachelors	Rent
+1079	Puducherry Properties (Puducherry.txt)	3 BHK Independent House	Yanam East	Yanam / Puducherry	Independent House / 3 BHK	1342	₹57.76 L	Semi-Furnished	2	Family	Sale
+1080	Puducherry Properties (Puducherry.txt)	4 BHK Apartment	Oulgaret East	Oulgaret / Puducherry	Apartment / 4 BHK	2214	₹1.03 Cr	Fully-Furnished	5	Bachelors	Sale
+1081	Puducherry Properties (Puducherry.txt)	5 BHK Independent House	Yanam Town Centre	Yanam / Puducherry	Independent House / 5 BHK	2524	₹1.20 Cr	Semi-Furnished	6	Family	Sale
+1082	Puducherry Properties (Puducherry.txt)	1 BHK Apartment	Karaikal Sector 3	Karaikal / Puducherry	Apartment / 1 BHK	475	₹28.50 L	Semi-Furnished	1	Any	Sale
+1083	Puducherry Properties (Puducherry.txt)	2 BHK Builder Floor	Puducherry Main Road	Puducherry / Puducherry	Builder Floor / 2 BHK	913	₹52.64 L	Fully-Furnished	3	Any	Sale
+1084	Puducherry Properties (Puducherry.txt)	3 BHK Apartment	Karaikal Extension	Karaikal / Puducherry	Apartment / 3 BHK	1290	₹21,900/month	Semi-Furnished	2	Any	Rent
+1085	Puducherry Properties (Puducherry.txt)	4 BHK Villa	Oulgaret South	Oulgaret / Puducherry	Villa / 4 BHK	2457	₹26,800/month	Semi-Furnished	4	Family	Rent
+1086	Puducherry Properties (Puducherry.txt)	1 BHK Studio	Yanam Residential Area	Yanam / Puducherry	Studio / 1 BHK	468	₹9,500/month	Fully-Furnished	2	Family	Rent
+1087	Puducherry Properties (Puducherry.txt)	3 BHK Apartment	Puducherry Extension	Puducherry / Puducherry	Apartment / 3 BHK	1016	₹62.66 L	Semi-Furnished	2	Any	Sale
+1088	Puducherry Properties (Puducherry.txt)	3 BHK Apartment	Karaikal Colony	Karaikal / Puducherry	Apartment / 3 BHK	1373	₹20,300/month	Unfurnished	2	Bachelors	Rent
+1089	Puducherry Properties (Puducherry.txt)	4 BHK Villa	Yanam Nagar	Yanam / Puducherry	Villa / 4 BHK	2185	₹96.08 L	Semi-Furnished	4	Bachelors	Sale
+1090	Puducherry Properties (Puducherry.txt)	2 BHK Builder Floor	Karaikal West	Karaikal / Puducherry	Builder Floor / 2 BHK	855	₹16,300/month	Fully-Furnished	1	Any	Rent
+1091	Puducherry Properties (Puducherry.txt)	3 BHK Independent House	Yanam Central	Yanam / Puducherry	Independent House / 3 BHK	1874	₹84.94 L	Unfurnished	3	Bachelors	Sale
+1092	Puducherry Properties (Puducherry.txt)	2 BHK Apartment	Oulgaret Heights	Oulgaret / Puducherry	Apartment / 2 BHK	889	₹57.88 L	Unfurnished	2	Any	Sale
+1093	Puducherry Properties (Puducherry.txt)	2 BHK Apartment	Oulgaret Nagar	Oulgaret / Puducherry	Apartment / 2 BHK	891	₹14,600/month	Unfurnished	1	Family	Rent
+1094	Puducherry Properties (Puducherry.txt)	1 BHK Studio	Yanam West	Yanam / Puducherry	Studio / 1 BHK	444	₹31.62 L	Fully-Furnished	1	Any	Sale
+1095	Puducherry Properties (Puducherry.txt)	5 BHK Apartment	Yanam Heights	Yanam / Puducherry	Apartment / 5 BHK	1867	₹92.98 L	Unfurnished	6	Any	Sale
+1096	Puducherry Properties (Puducherry.txt)	2 BHK Apartment	Oulgaret Nagar	Oulgaret / Puducherry	Apartment / 2 BHK	938	₹14,600/month	Semi-Furnished	2	Bachelors	Rent
+1097	Puducherry Properties (Puducherry.txt)	2 BHK Apartment	Karaikal South	Karaikal / Puducherry	Apartment / 2 BHK	827	₹57.22 L	Semi-Furnished	2	Family	Sale
+1098	Puducherry Properties (Puducherry.txt)	2 BHK Apartment	Puducherry South	Puducherry / Puducherry	Apartment / 2 BHK	760	₹42.11 L	Fully-Furnished	2	Family	Sale
+1099	Puducherry Properties (Puducherry.txt)	3 BHK Apartment	Yanam Main Road	Yanam / Puducherry	Apartment / 3 BHK	1414	₹21,300/month	Unfurnished	3	Any	Rent
+1100	Puducherry Properties (Puducherry.txt)	3 BHK Apartment	Yanam Town Centre	Yanam / Puducherry	Apartment / 3 BHK	1262	₹16,900/month	Unfurnished	3	Bachelors	Rent
+1101	Puducherry Properties (Puducherry.txt)	4 BHK Builder Floor	Karaikal Residential Area	Karaikal / Puducherry	Builder Floor / 4 BHK	2021	₹97.96 L	Semi-Furnished	4	Family	Sale
+1102	Puducherry Properties (Puducherry.txt)	1 BHK Apartment	Puducherry North	Puducherry / Puducherry	Apartment / 1 BHK	566	₹10,800/month	Semi-Furnished	1	Family	Rent
+1103	Puducherry Properties (Puducherry.txt)	3 BHK Independent House	Yanam Sector 1	Yanam / Puducherry	Independent House / 3 BHK	1823	₹88.66 L	Unfurnished	3	Family	Sale
+1104	Puducherry Properties (Puducherry.txt)	2 BHK Independent House	Karaikal West	Karaikal / Puducherry	Independent House / 2 BHK	1010	₹49.64 L	Semi-Furnished	1	Family	Sale
+1105	Puducherry Properties (Puducherry.txt)	2 BHK Apartment	Puducherry North	Puducherry / Puducherry	Apartment / 2 BHK	758	₹39.30 L	Semi-Furnished	3	Family	Sale
+1106	Puducherry Properties (Puducherry.txt)	3 BHK Builder Floor	Puducherry Sector 3	Puducherry / Puducherry	Builder Floor / 3 BHK	1005	₹75.38 L	Unfurnished	3	Any	Sale
+1107	Puducherry Properties (Puducherry.txt)	4 BHK Apartment	Puducherry Heights	Puducherry / Puducherry	Apartment / 4 BHK	1663	₹80.33 L	Fully-Furnished	4	Bachelors	Sale
+1108	Puducherry Properties (Puducherry.txt)	1 BHK Villa	Karaikal Heights	Karaikal / Puducherry	Villa / 1 BHK	863	₹35.10 L	Unfurnished	1	Family	Sale
+1109	Puducherry Properties (Puducherry.txt)	4 BHK Villa	Karaikal Sector 3	Karaikal / Puducherry	Villa / 4 BHK	2500	₹96.44 L	Unfurnished	3	Bachelors	Sale
+1110	Puducherry Properties (Puducherry.txt)	5 BHK Apartment	Yanam Colony	Yanam / Puducherry	Apartment / 5 BHK	2049	₹1.20 Cr	Semi-Furnished	5	Family	Sale
+1111	Puducherry Properties (Puducherry.txt)	3 BHK Apartment	Puducherry Sector 2	Puducherry / Puducherry	Apartment / 3 BHK	1084	₹15,600/month	Semi-Furnished	2	Family	Rent
+1112	Puducherry Properties (Puducherry.txt)	1 BHK Builder Floor	Oulgaret North	Oulgaret / Puducherry	Builder Floor / 1 BHK	641	₹8,100/month	Semi-Furnished	1	Family	Rent
+1113	Puducherry Properties (Puducherry.txt)	2 BHK Builder Floor	Oulgaret Heights	Oulgaret / Puducherry	Builder Floor / 2 BHK	887	₹13,500/month	Unfurnished	2	Family	Rent
+1114	Puducherry Properties (Puducherry.txt)	4 BHK Apartment	Karaikal Sector 2	Karaikal / Puducherry	Apartment / 4 BHK	1941	₹25,700/month	Fully-Furnished	5	Family	Rent
+1115	Puducherry Properties (Puducherry.txt)	2 BHK Apartment	Karaikal West	Karaikal / Puducherry	Apartment / 2 BHK	979	₹11,900/month	Unfurnished	2	Family	Rent
+1116	Puducherry Properties (Puducherry.txt)	4 BHK Villa	Puducherry Colony	Puducherry / Puducherry	Villa / 4 BHK	2299	₹1.01 Cr	Unfurnished	4	Bachelors	Sale
+1117	Puducherry Properties (Puducherry.txt)	3 BHK Apartment	Yanam Sector 2	Yanam / Puducherry	Apartment / 3 BHK	1260	₹18,100/month	Unfurnished	3	Family	Rent
+1118	Puducherry Properties (Puducherry.txt)	3 BHK Apartment	Puducherry Nagar	Puducherry / Puducherry	Apartment / 3 BHK	1140	₹63.05 L	Semi-Furnished	4	Any	Sale
+1119	Puducherry Properties (Puducherry.txt)	2 BHK Apartment	Puducherry Main Road	Puducherry / Puducherry	Apartment / 2 BHK	733	₹14,600/month	Fully-Furnished	2	Any	Rent
+1120	Puducherry Properties (Puducherry.txt)	2 BHK Apartment	Yanam South	Yanam / Puducherry	Apartment / 2 BHK	749	₹55.95 L	Semi-Furnished	2	Family	Sale
+1121	Puducherry Properties (Puducherry.txt)	3 BHK Apartment	Karaikal Sector 2	Karaikal / Puducherry	Apartment / 3 BHK	1364	₹17,000/month	Unfurnished	2	Family	Rent
+1122	Puducherry Properties (Puducherry.txt)	4 BHK Independent House	Karaikal Extension	Karaikal / Puducherry	Independent House / 4 BHK	1986	₹23,600/month	Semi-Furnished	4	Bachelors	Rent
+1123	Puducherry Properties (Puducherry.txt)	1 BHK Apartment	Puducherry Extension	Puducherry / Puducherry	Apartment / 1 BHK	525	₹8,400/month	Unfurnished	1	Family	Rent
+1124	Puducherry Properties (Puducherry.txt)	4 BHK Apartment	Puducherry Heights	Puducherry / Puducherry	Apartment / 4 BHK	1406	₹19,600/month	Semi-Furnished	4	Family	Rent
+1125	Puducherry Properties (Puducherry.txt)	1 BHK Apartment	Oulgaret South	Oulgaret / Puducherry	Apartment / 1 BHK	499	₹35.66 L	Semi-Furnished	1	Family	Sale
+1126	Puducherry Properties (Puducherry.txt)	2 BHK Apartment	Puducherry East	Puducherry / Puducherry	Apartment / 2 BHK	968	₹15,800/month	Semi-Furnished	2	Any	Rent
+1127	Puducherry Properties (Puducherry.txt)	2 BHK Apartment	Karaikal Heights	Karaikal / Puducherry	Apartment / 2 BHK	732	₹13,100/month	Fully-Furnished	2	Any	Rent
+1128	Puducherry Properties (Puducherry.txt)	2 BHK Builder Floor	Yanam Sector 3	Yanam / Puducherry	Builder Floor / 2 BHK	556	₹12,600/month	Unfurnished	2	Bachelors	Rent
+1129	Puducherry Properties (Puducherry.txt)	2 BHK Apartment	Oulgaret Colony	Oulgaret / Puducherry	Apartment / 2 BHK	815	₹13,400/month	Fully-Furnished	2	Family	Rent
+1130	Puducherry Properties (Puducherry.txt)	1 BHK Studio	Puducherry Sector 2	Puducherry / Puducherry	Studio / 1 BHK	353	₹8,300/month	Unfurnished	1	Any	Rent
+1131	Puducherry Properties (Puducherry.txt)	3 BHK Independent House	Puducherry Main Road	Puducherry / Puducherry	Independent House / 3 BHK	1032	₹15,900/month	Fully-Furnished	3	Family	Rent
+1132	Puducherry Properties (Puducherry.txt)	4 BHK Apartment	Karaikal Sector 1	Karaikal / Puducherry	Apartment / 4 BHK	1697	₹1.02 Cr	Semi-Furnished	4	Family	Sale
+1133	Puducherry Properties (Puducherry.txt)	1 BHK Apartment	Yanam West	Yanam / Puducherry	Apartment / 1 BHK	543	₹34.60 L	Semi-Furnished	1	Family	Sale
+1134	Puducherry Properties (Puducherry.txt)	3 BHK Apartment	Yanam Residential Area	Yanam / Puducherry	Apartment / 3 BHK	1174	₹78.69 L	Unfurnished	3	Any	Sale
+1135	Puducherry Properties (Puducherry.txt)	3 BHK Apartment	Puducherry East	Puducherry / Puducherry	Apartment / 3 BHK	1417	₹17,700/month	Semi-Furnished	3	Family	Rent
+1136	Puducherry Properties (Puducherry.txt)	3 BHK Apartment	Oulgaret North	Oulgaret / Puducherry	Apartment / 3 BHK	1058	₹18,800/month	Unfurnished	3	Bachelors	Rent
+1137	Puducherry Properties (Puducherry.txt)	1 BHK Apartment	Karaikal Extension	Karaikal / Puducherry	Apartment / 1 BHK	561	₹26.94 L	Semi-Furnished	1	Family	Sale
+1138	Puducherry Properties (Puducherry.txt)	2 BHK Apartment	Karaikal Heights	Karaikal / Puducherry	Apartment / 2 BHK	664	₹47.34 L	Unfurnished	2	Bachelors	Sale
+1139	Puducherry Properties (Puducherry.txt)	4 BHK Apartment	Yanam Sector 3	Yanam / Puducherry	Apartment / 4 BHK	1788	₹88.77 L	Unfurnished	4	Bachelors	Sale
+1140	Puducherry Properties (Puducherry.txt)	3 BHK Villa	Yanam North	Yanam / Puducherry	Villa / 3 BHK	1713	₹85.35 L	Fully-Furnished	2	Bachelors	Sale
+1141	Puducherry Properties (Puducherry.txt)	4 BHK Independent House	Puducherry Sector 2	Puducherry / Puducherry	Independent House / 4 BHK	1779	₹93.87 L	Semi-Furnished	3	Bachelors	Sale
+1142	Puducherry Properties (Puducherry.txt)	3 BHK Apartment	Karaikal North	Karaikal / Puducherry	Apartment / 3 BHK	1242	₹16,000/month	Unfurnished	4	Family	Rent
+1143	Puducherry Properties (Puducherry.txt)	5 BHK Apartment	Yanam Colony	Yanam / Puducherry	Apartment / 5 BHK	2162	₹1.15 Cr	Semi-Furnished	6	Any	Sale
+1144	Puducherry Properties (Puducherry.txt)	2 BHK Apartment	Oulgaret Town Centre	Oulgaret / Puducherry	Apartment / 2 BHK	1158	₹57.26 L	Semi-Furnished	1	Family	Sale
+1145	Puducherry Properties (Puducherry.txt)	2 BHK Villa	Puducherry North	Puducherry / Puducherry	Villa / 2 BHK	1233	₹62.24 L	Unfurnished	2	Family	Sale
+1146	Puducherry Properties (Puducherry.txt)	1 BHK Apartment	Puducherry Heights	Puducherry / Puducherry	Apartment / 1 BHK	548	₹8,300/month	Semi-Furnished	1	Bachelors	Rent
+1147	Puducherry Properties (Puducherry.txt)	4 BHK Apartment	Puducherry Central	Puducherry / Puducherry	Apartment / 4 BHK	1487	₹89.47 L	Unfurnished	3	Family	Sale
+1148	Puducherry Properties (Puducherry.txt)	3 BHK Independent House	Karaikal Town Centre	Karaikal / Puducherry	Independent House / 3 BHK	2132	₹68.46 L	Fully-Furnished	3	Family	Sale
+1149	Puducherry Properties (Puducherry.txt)	2 BHK Apartment	Karaikal Heights	Karaikal / Puducherry	Apartment / 2 BHK	731	₹48.29 L	Unfurnished	3	Family	Sale
+1150	Puducherry Properties (Puducherry.txt)	2 BHK Apartment	Oulgaret Central	Oulgaret / Puducherry	Apartment / 2 BHK	738	₹44.68 L	Fully-Furnished	1	Family	Sale
+1151	Puducherry Properties (Puducherry.txt)	4 BHK Apartment	Puducherry Town Centre	Puducherry / Puducherry	Apartment / 4 BHK	1693	₹23,600/month	Semi-Furnished	5	Family	Rent
+1152	Puducherry Properties (Puducherry.txt)	3 BHK Builder Floor	Yanam Town Centre	Yanam / Puducherry	Builder Floor / 3 BHK	1368	₹78.48 L	Semi-Furnished	3	Family	Sale
+1153	Puducherry Properties (Puducherry.txt)	3 BHK Apartment	Yanam South	Yanam / Puducherry	Apartment / 3 BHK	1083	₹14,600/month	Unfurnished	4	Any	Rent
+1154	Puducherry Properties (Puducherry.txt)	4 BHK Apartment	Puducherry Residential Area	Puducherry / Puducherry	Apartment / 4 BHK	1932	₹1.01 Cr	Fully-Furnished	3	Family	Sale
+1155	Puducherry Properties (Puducherry.txt)	2 BHK Apartment	Yanam Extension	Yanam / Puducherry	Apartment / 2 BHK	1060	₹49.76 L	Semi-Furnished	1	Family	Sale
+1156	Puducherry Properties (Puducherry.txt)	2 BHK Builder Floor	Puducherry Main Road	Puducherry / Puducherry	Builder Floor / 2 BHK	719	₹53.11 L	Unfurnished	3	Family	Sale
+1157	Puducherry Properties (Puducherry.txt)	4 BHK Apartment	Karaikal Colony	Karaikal / Puducherry	Apartment / 4 BHK	2099	₹21,100/month	Fully-Furnished	4	Any	Rent
+1158	Puducherry Properties (Puducherry.txt)	3 BHK Apartment	Oulgaret Main Road	Oulgaret / Puducherry	Apartment / 3 BHK	1433	₹66.82 L	Semi-Furnished	2	Family	Sale
+1159	Puducherry Properties (Puducherry.txt)	2 BHK Villa	Oulgaret East	Oulgaret / Puducherry	Villa / 2 BHK	1020	₹12,700/month	Semi-Furnished	2	Family	Rent
+1160	Puducherry Properties (Puducherry.txt)	3 BHK Apartment	Yanam West	Yanam / Puducherry	Apartment / 3 BHK	1018	₹21,000/month	Fully-Furnished	3	Any	Rent
+1161	Puducherry Properties (Puducherry.txt)	2 BHK Independent House	Karaikal Sector 3	Karaikal / Puducherry	Independent House / 2 BHK	1022	₹14,300/month	Semi-Furnished	2	Family	Rent
+1162	Puducherry Properties (Puducherry.txt)	2 BHK Villa	Yanam South	Yanam / Puducherry	Villa / 2 BHK	863	₹14,200/month	Semi-Furnished	2	Family	Rent
+1163	Puducherry Properties (Puducherry.txt)	2 BHK Apartment	Yanam Sector 2	Yanam / Puducherry	Apartment / 2 BHK	833	₹12,400/month	Unfurnished	2	Family	Rent
+1164	Puducherry Properties (Puducherry.txt)	3 BHK Apartment	Karaikal North	Karaikal / Puducherry	Apartment / 3 BHK	1311	₹56.89 L	Fully-Furnished	3	Any	Sale
+1165	Puducherry Properties (Puducherry.txt)	3 BHK Apartment	Oulgaret Nagar	Oulgaret / Puducherry	Apartment / 3 BHK	1324	₹66.05 L	Semi-Furnished	3	Any	Sale
+1166	Puducherry Properties (Puducherry.txt)	4 BHK Apartment	Karaikal East	Karaikal / Puducherry	Apartment / 4 BHK	1873	₹80.94 L	Semi-Furnished	5	Bachelors	Sale
+1167	Puducherry Properties (Puducherry.txt)	2 BHK Builder Floor	Puducherry Heights	Puducherry / Puducherry	Builder Floor / 2 BHK	974	₹45.71 L	Fully-Furnished	2	Family	Sale
+1168	Puducherry Properties (Puducherry.txt)	3 BHK Apartment	Puducherry Residential Area	Puducherry / Puducherry	Apartment / 3 BHK	1217	₹72.91 L	Semi-Furnished	3	Bachelors	Sale
+1169	Puducherry Properties (Puducherry.txt)	3 BHK Apartment	Karaikal Nagar	Karaikal / Puducherry	Apartment / 3 BHK	1137	₹78.14 L	Semi-Furnished	3	Family	Sale
+1170	Puducherry Properties (Puducherry.txt)	3 BHK Apartment	Karaikal Sector 3	Karaikal / Puducherry	Apartment / 3 BHK	1450	₹78.58 L	Semi-Furnished	2	Bachelors	Sale
+1171	Puducherry Properties (Puducherry.txt)	4 BHK Apartment	Yanam Main Road	Yanam / Puducherry	Apartment / 4 BHK	1872	₹21,000/month	Unfurnished	5	Bachelors	Rent

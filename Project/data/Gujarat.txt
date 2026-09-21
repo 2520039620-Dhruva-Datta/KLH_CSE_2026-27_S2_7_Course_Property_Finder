@@ -1,0 +1,1172 @@
+No.	Source	Property	Location	City / State	Type / Config	Area	Price / Rent	Furnishing	Bathrooms	Tennants	Listing Type
+1	Gujarat Properties (Gujarat.txt)	3 BHK Builder Floor	Vadodara Sector 1	Vadodara / Gujarat	Builder Floor / 3 BHK	1205	₹18,500/month	Semi-Furnished	3	Any	Rent
+2	Gujarat Properties (Gujarat.txt)	3 BHK Apartment	Vadodara Sector 3	Vadodara / Gujarat	Apartment / 3 BHK	1103	₹20,700/month	Semi-Furnished	3	Family	Rent
+3	Gujarat Properties (Gujarat.txt)	2 BHK Apartment	Rajkot Central	Rajkot / Gujarat	Apartment / 2 BHK	949	₹56.48 L	Semi-Furnished	2	Any	Sale
+4	Gujarat Properties (Gujarat.txt)	3 BHK Independent House	Surat Sector 1	Surat / Gujarat	Independent House / 3 BHK	1732	₹1.07 Cr	Fully-Furnished	3	Family	Sale
+5	Gujarat Properties (Gujarat.txt)	4 BHK Builder Floor	Vadodara Town Centre	Vadodara / Gujarat	Builder Floor / 4 BHK	1711	₹1.20 Cr	Unfurnished	3	Family	Sale
+6	Gujarat Properties (Gujarat.txt)	2 BHK Apartment	Rajkot Sector 1	Rajkot / Gujarat	Apartment / 2 BHK	929	₹53.38 L	Unfurnished	3	Family	Sale
+7	Gujarat Properties (Gujarat.txt)	3 BHK Builder Floor	Rajkot Nagar	Rajkot / Gujarat	Builder Floor / 3 BHK	1463	₹74.08 L	Semi-Furnished	3	Family	Sale
+8	Gujarat Properties (Gujarat.txt)	1 BHK Villa	Rajkot Residential Area	Rajkot / Gujarat	Villa / 1 BHK	663	₹37.55 L	Unfurnished	1	Any	Sale
+9	Gujarat Properties (Gujarat.txt)	4 BHK Apartment	Ahmedabad North	Ahmedabad / Gujarat	Apartment / 4 BHK	1505	₹26,300/month	Semi-Furnished	4	Bachelors	Rent
+10	Gujarat Properties (Gujarat.txt)	1 BHK Studio	Vadodara East	Vadodara / Gujarat	Studio / 1 BHK	300	₹31.54 L	Fully-Furnished	1	Bachelors	Sale
+11	Gujarat Properties (Gujarat.txt)	2 BHK Independent House	Ahmedabad Town Centre	Ahmedabad / Gujarat	Independent House / 2 BHK	974	₹63.36 L	Fully-Furnished	1	Family	Sale
+12	Gujarat Properties (Gujarat.txt)	3 BHK Apartment	Ahmedabad North	Ahmedabad / Gujarat	Apartment / 3 BHK	1107	₹80.02 L	Unfurnished	2	Bachelors	Sale
+13	Gujarat Properties (Gujarat.txt)	2 BHK Apartment	Rajkot Colony	Rajkot / Gujarat	Apartment / 2 BHK	1053	₹15,000/month	Fully-Furnished	2	Bachelors	Rent
+14	Gujarat Properties (Gujarat.txt)	2 BHK Builder Floor	Rajkot Extension	Rajkot / Gujarat	Builder Floor / 2 BHK	652	₹56.86 L	Semi-Furnished	2	Family	Sale
+15	Gujarat Properties (Gujarat.txt)	1 BHK Apartment	Vadodara South	Vadodara / Gujarat	Apartment / 1 BHK	576	₹10,500/month	Fully-Furnished	1	Family	Rent
+16	Gujarat Properties (Gujarat.txt)	1 BHK Independent House	Vadodara Central	Vadodara / Gujarat	Independent House / 1 BHK	813	₹35.28 L	Unfurnished	1	Bachelors	Sale
+17	Gujarat Properties (Gujarat.txt)	2 BHK Apartment	Rajkot Heights	Rajkot / Gujarat	Apartment / 2 BHK	772	₹65.84 L	Semi-Furnished	3	Family	Sale
+18	Gujarat Properties (Gujarat.txt)	1 BHK Apartment	Rajkot Colony	Rajkot / Gujarat	Apartment / 1 BHK	485	₹43.16 L	Semi-Furnished	2	Any	Sale
+19	Gujarat Properties (Gujarat.txt)	2 BHK Independent House	Rajkot Heights	Rajkot / Gujarat	Independent House / 2 BHK	1028	₹20,500/month	Unfurnished	3	Bachelors	Rent
+20	Gujarat Properties (Gujarat.txt)	3 BHK Independent House	Rajkot Heights	Rajkot / Gujarat	Independent House / 3 BHK	1801	₹30,100/month	Semi-Furnished	3	Family	Rent
+21	Gujarat Properties (Gujarat.txt)	2 BHK Independent House	Surat Sector 3	Surat / Gujarat	Independent House / 2 BHK	933	₹69.49 L	Semi-Furnished	2	Family	Sale
+22	Gujarat Properties (Gujarat.txt)	3 BHK Apartment	Vadodara Central	Vadodara / Gujarat	Apartment / 3 BHK	1271	₹19,100/month	Semi-Furnished	3	Family	Rent
+23	Gujarat Properties (Gujarat.txt)	2 BHK Builder Floor	Ahmedabad East	Ahmedabad / Gujarat	Builder Floor / 2 BHK	984	₹14,800/month	Unfurnished	2	Bachelors	Rent
+24	Gujarat Properties (Gujarat.txt)	1 BHK Apartment	Ahmedabad South	Ahmedabad / Gujarat	Apartment / 1 BHK	445	₹10,500/month	Semi-Furnished	1	Family	Rent
+25	Gujarat Properties (Gujarat.txt)	1 BHK Studio	Vadodara Nagar	Vadodara / Gujarat	Studio / 1 BHK	300	₹39.72 L	Fully-Furnished	1	Family	Sale
+26	Gujarat Properties (Gujarat.txt)	2 BHK Independent House	Surat Sector 1	Surat / Gujarat	Independent House / 2 BHK	1034	₹62.15 L	Fully-Furnished	2	Family	Sale
+27	Gujarat Properties (Gujarat.txt)	3 BHK Apartment	Rajkot Sector 1	Rajkot / Gujarat	Apartment / 3 BHK	1140	₹86.56 L	Semi-Furnished	3	Bachelors	Sale
+28	Gujarat Properties (Gujarat.txt)	2 BHK Independent House	Ahmedabad Main Road	Ahmedabad / Gujarat	Independent House / 2 BHK	1248	₹18,200/month	Unfurnished	2	Family	Rent
+29	Gujarat Properties (Gujarat.txt)	3 BHK Apartment	Rajkot Sector 3	Rajkot / Gujarat	Apartment / 3 BHK	1262	₹25,800/month	Fully-Furnished	3	Family	Rent
+30	Gujarat Properties (Gujarat.txt)	4 BHK Apartment	Rajkot Sector 3	Rajkot / Gujarat	Apartment / 4 BHK	1870	₹89.60 L	Unfurnished	5	Bachelors	Sale
+31	Gujarat Properties (Gujarat.txt)	1 BHK Studio	Vadodara North	Vadodara / Gujarat	Studio / 1 BHK	409	₹12,000/month	Fully-Furnished	1	Any	Rent
+32	Gujarat Properties (Gujarat.txt)	3 BHK Apartment	Surat Sector 2	Surat / Gujarat	Apartment / 3 BHK	1100	₹67.18 L	Semi-Furnished	2	Bachelors	Sale
+33	Gujarat Properties (Gujarat.txt)	2 BHK Apartment	Surat Extension	Surat / Gujarat	Apartment / 2 BHK	781	₹69.26 L	Unfurnished	1	Family	Sale
+34	Gujarat Properties (Gujarat.txt)	3 BHK Apartment	Vadodara South	Vadodara / Gujarat	Apartment / 3 BHK	1310	₹22,900/month	Unfurnished	3	Bachelors	Rent
+35	Gujarat Properties (Gujarat.txt)	3 BHK Independent House	Vadodara Extension	Vadodara / Gujarat	Independent House / 3 BHK	1277	₹81.89 L	Unfurnished	3	Any	Sale
+36	Gujarat Properties (Gujarat.txt)	2 BHK Villa	Surat West	Surat / Gujarat	Villa / 2 BHK	1039	₹73.51 L	Fully-Furnished	2	Any	Sale
+37	Gujarat Properties (Gujarat.txt)	2 BHK Apartment	Ahmedabad East	Ahmedabad / Gujarat	Apartment / 2 BHK	852	₹66.17 L	Fully-Furnished	2	Bachelors	Sale
+38	Gujarat Properties (Gujarat.txt)	2 BHK Independent House	Ahmedabad Main Road	Ahmedabad / Gujarat	Independent House / 2 BHK	989	₹17,200/month	Semi-Furnished	3	Any	Rent
+39	Gujarat Properties (Gujarat.txt)	2 BHK Apartment	Rajkot South	Rajkot / Gujarat	Apartment / 2 BHK	935	₹55.34 L	Unfurnished	3	Any	Sale
+40	Gujarat Properties (Gujarat.txt)	2 BHK Independent House	Rajkot Sector 3	Rajkot / Gujarat	Independent House / 2 BHK	1075	₹55.85 L	Fully-Furnished	2	Any	Sale
+41	Gujarat Properties (Gujarat.txt)	2 BHK Apartment	Vadodara Extension	Vadodara / Gujarat	Apartment / 2 BHK	741	₹66.98 L	Semi-Furnished	3	Bachelors	Sale
+42	Gujarat Properties (Gujarat.txt)	3 BHK Apartment	Ahmedabad Sector 3	Ahmedabad / Gujarat	Apartment / 3 BHK	1488	₹26,500/month	Semi-Furnished	3	Bachelors	Rent
+43	Gujarat Properties (Gujarat.txt)	1 BHK Apartment	Surat East	Surat / Gujarat	Apartment / 1 BHK	556	₹35.25 L	Semi-Furnished	1	Family	Sale
+44	Gujarat Properties (Gujarat.txt)	3 BHK Apartment	Rajkot Sector 3	Rajkot / Gujarat	Apartment / 3 BHK	1085	₹91.88 L	Fully-Furnished	3	Family	Sale
+45	Gujarat Properties (Gujarat.txt)	2 BHK Builder Floor	Surat Central	Surat / Gujarat	Builder Floor / 2 BHK	876	₹53.72 L	Fully-Furnished	1	Family	Sale
+46	Gujarat Properties (Gujarat.txt)	3 BHK Apartment	Rajkot Sector 3	Rajkot / Gujarat	Apartment / 3 BHK	1334	₹21,100/month	Unfurnished	3	Bachelors	Rent
+47	Gujarat Properties (Gujarat.txt)	2 BHK Apartment	Rajkot Sector 1	Rajkot / Gujarat	Apartment / 2 BHK	896	₹62.91 L	Fully-Furnished	3	Bachelors	Sale
+48	Gujarat Properties (Gujarat.txt)	4 BHK Apartment	Rajkot Town Centre	Rajkot / Gujarat	Apartment / 4 BHK	1694	₹1.27 Cr	Unfurnished	3	Bachelors	Sale
+49	Gujarat Properties (Gujarat.txt)	2 BHK Apartment	Ahmedabad Extension	Ahmedabad / Gujarat	Apartment / 2 BHK	586	₹55.59 L	Fully-Furnished	3	Family	Sale
+50	Gujarat Properties (Gujarat.txt)	2 BHK Apartment	Rajkot Sector 3	Rajkot / Gujarat	Apartment / 2 BHK	881	₹17,200/month	Unfurnished	2	Family	Rent
+51	Gujarat Properties (Gujarat.txt)	5 BHK Apartment	Surat Sector 3	Surat / Gujarat	Apartment / 5 BHK	2511	₹1.14 Cr	Semi-Furnished	5	Any	Sale
+52	Gujarat Properties (Gujarat.txt)	2 BHK Independent House	Surat Heights	Surat / Gujarat	Independent House / 2 BHK	1033	₹71.44 L	Semi-Furnished	2	Bachelors	Sale
+53	Gujarat Properties (Gujarat.txt)	1 BHK Studio	Ahmedabad Sector 1	Ahmedabad / Gujarat	Studio / 1 BHK	428	₹8,800/month	Semi-Furnished	1	Bachelors	Rent
+54	Gujarat Properties (Gujarat.txt)	3 BHK Apartment	Vadodara Town Centre	Vadodara / Gujarat	Apartment / 3 BHK	1549	₹80.54 L	Unfurnished	4	Family	Sale
+55	Gujarat Properties (Gujarat.txt)	4 BHK Independent House	Ahmedabad Main Road	Ahmedabad / Gujarat	Independent House / 4 BHK	2125	₹1.31 Cr	Semi-Furnished	4	Family	Sale
+56	Gujarat Properties (Gujarat.txt)	3 BHK Apartment	Ahmedabad Nagar	Ahmedabad / Gujarat	Apartment / 3 BHK	852	₹88.50 L	Semi-Furnished	3	Bachelors	Sale
+57	Gujarat Properties (Gujarat.txt)	2 BHK Apartment	Ahmedabad Heights	Ahmedabad / Gujarat	Apartment / 2 BHK	854	₹49.40 L	Semi-Furnished	3	Family	Sale
+58	Gujarat Properties (Gujarat.txt)	4 BHK Apartment	Vadodara Nagar	Vadodara / Gujarat	Apartment / 4 BHK	1323	₹1.03 Cr	Unfurnished	3	Family	Sale
+59	Gujarat Properties (Gujarat.txt)	1 BHK Studio	Surat Residential Area	Surat / Gujarat	Studio / 1 BHK	324	₹33.76 L	Fully-Furnished	2	Bachelors	Sale
+60	Gujarat Properties (Gujarat.txt)	2 BHK Apartment	Rajkot Extension	Rajkot / Gujarat	Apartment / 2 BHK	607	₹46.76 L	Semi-Furnished	3	Family	Sale
+61	Gujarat Properties (Gujarat.txt)	2 BHK Apartment	Vadodara Sector 1	Vadodara / Gujarat	Apartment / 2 BHK	909	₹14,300/month	Unfurnished	2	Family	Rent
+62	Gujarat Properties (Gujarat.txt)	1 BHK Apartment	Ahmedabad Central	Ahmedabad / Gujarat	Apartment / 1 BHK	673	₹9,900/month	Unfurnished	1	Any	Rent
+63	Gujarat Properties (Gujarat.txt)	1 BHK Apartment	Surat West	Surat / Gujarat	Apartment / 1 BHK	664	₹48.48 L	Semi-Furnished	1	Family	Sale
+64	Gujarat Properties (Gujarat.txt)	5 BHK Apartment	Surat North	Surat / Gujarat	Apartment / 5 BHK	2072	₹1.16 Cr	Semi-Furnished	5	Bachelors	Sale
+65	Gujarat Properties (Gujarat.txt)	3 BHK Villa	Surat Main Road	Surat / Gujarat	Villa / 3 BHK	1625	₹78.28 L	Semi-Furnished	3	Any	Sale
+66	Gujarat Properties (Gujarat.txt)	3 BHK Apartment	Vadodara East	Vadodara / Gujarat	Apartment / 3 BHK	1257	₹21,600/month	Semi-Furnished	2	Family	Rent
+67	Gujarat Properties (Gujarat.txt)	2 BHK Apartment	Vadodara Sector 2	Vadodara / Gujarat	Apartment / 2 BHK	633	₹56.33 L	Fully-Furnished	1	Bachelors	Sale
+68	Gujarat Properties (Gujarat.txt)	3 BHK Builder Floor	Ahmedabad Main Road	Ahmedabad / Gujarat	Builder Floor / 3 BHK	1476	₹84.27 L	Fully-Furnished	3	Bachelors	Sale
+69	Gujarat Properties (Gujarat.txt)	2 BHK Builder Floor	Vadodara East	Vadodara / Gujarat	Builder Floor / 2 BHK	693	₹13,600/month	Semi-Furnished	1	Family	Rent
+70	Gujarat Properties (Gujarat.txt)	5 BHK Apartment	Ahmedabad South	Ahmedabad / Gujarat	Apartment / 5 BHK	2526	₹1.56 Cr	Semi-Furnished	4	Any	Sale
+71	Gujarat Properties (Gujarat.txt)	3 BHK Apartment	Vadodara East	Vadodara / Gujarat	Apartment / 3 BHK	1169	₹90.47 L	Fully-Furnished	3	Any	Sale
+72	Gujarat Properties (Gujarat.txt)	3 BHK Apartment	Vadodara Town Centre	Vadodara / Gujarat	Apartment / 3 BHK	1239	₹73.91 L	Fully-Furnished	3	Family	Sale
+73	Gujarat Properties (Gujarat.txt)	3 BHK Apartment	Surat Town Centre	Surat / Gujarat	Apartment / 3 BHK	1367	₹94.68 L	Semi-Furnished	2	Any	Sale
+74	Gujarat Properties (Gujarat.txt)	1 BHK Apartment	Ahmedabad Residential Area	Ahmedabad / Gujarat	Apartment / 1 BHK	629	₹40.08 L	Unfurnished	1	Any	Sale
+75	Gujarat Properties (Gujarat.txt)	2 BHK Independent House	Surat Residential Area	Surat / Gujarat	Independent House / 2 BHK	1087	₹55.24 L	Unfurnished	2	Family	Sale
+76	Gujarat Properties (Gujarat.txt)	2 BHK Apartment	Surat South	Surat / Gujarat	Apartment / 2 BHK	883	₹18,100/month	Semi-Furnished	2	Family	Rent
+77	Gujarat Properties (Gujarat.txt)	5 BHK Builder Floor	Vadodara Sector 3	Vadodara / Gujarat	Builder Floor / 5 BHK	2134	₹1.16 Cr	Semi-Furnished	4	Bachelors	Sale
+78	Gujarat Properties (Gujarat.txt)	4 BHK Villa	Rajkot Sector 1	Rajkot / Gujarat	Villa / 4 BHK	2330	₹33,600/month	Semi-Furnished	4	Family	Rent
+79	Gujarat Properties (Gujarat.txt)	1 BHK Apartment	Ahmedabad Sector 1	Ahmedabad / Gujarat	Apartment / 1 BHK	447	₹33 L	Fully-Furnished	1	Family	Sale
+80	Gujarat Properties (Gujarat.txt)	4 BHK Independent House	Rajkot West	Rajkot / Gujarat	Independent House / 4 BHK	2027	₹25,600/month	Semi-Furnished	4	Bachelors	Rent
+81	Gujarat Properties (Gujarat.txt)	2 BHK Independent House	Ahmedabad South	Ahmedabad / Gujarat	Independent House / 2 BHK	1001	₹52.03 L	Fully-Furnished	2	Family	Sale
+82	Gujarat Properties (Gujarat.txt)	2 BHK Apartment	Surat Main Road	Surat / Gujarat	Apartment / 2 BHK	690	₹46.81 L	Semi-Furnished	1	Any	Sale
+83	Gujarat Properties (Gujarat.txt)	5 BHK Apartment	Surat Heights	Surat / Gujarat	Apartment / 5 BHK	2309	₹39,000/month	Unfurnished	5	Bachelors	Rent
+84	Gujarat Properties (Gujarat.txt)	3 BHK Builder Floor	Rajkot North	Rajkot / Gujarat	Builder Floor / 3 BHK	1045	₹23,000/month	Semi-Furnished	4	Family	Rent
+85	Gujarat Properties (Gujarat.txt)	3 BHK Apartment	Ahmedabad North	Ahmedabad / Gujarat	Apartment / 3 BHK	1443	₹79.01 L	Semi-Furnished	3	Any	Sale
+86	Gujarat Properties (Gujarat.txt)	3 BHK Independent House	Rajkot Residential Area	Rajkot / Gujarat	Independent House / 3 BHK	1566	₹27,100/month	Unfurnished	3	Family	Rent
+87	Gujarat Properties (Gujarat.txt)	4 BHK Villa	Surat North	Surat / Gujarat	Villa / 4 BHK	2614	₹32,700/month	Fully-Furnished	4	Family	Rent
+88	Gujarat Properties (Gujarat.txt)	2 BHK Apartment	Vadodara Sector 3	Vadodara / Gujarat	Apartment / 2 BHK	854	₹68.60 L	Semi-Furnished	3	Any	Sale
+89	Gujarat Properties (Gujarat.txt)	2 BHK Builder Floor	Ahmedabad Heights	Ahmedabad / Gujarat	Builder Floor / 2 BHK	699	₹14,000/month	Semi-Furnished	2	Family	Rent
+90	Gujarat Properties (Gujarat.txt)	2 BHK Apartment	Vadodara South	Vadodara / Gujarat	Apartment / 2 BHK	934	₹55.54 L	Fully-Furnished	2	Any	Sale
+91	Gujarat Properties (Gujarat.txt)	4 BHK Builder Floor	Vadodara Main Road	Vadodara / Gujarat	Builder Floor / 4 BHK	1946	₹1.10 Cr	Semi-Furnished	4	Family	Sale
+92	Gujarat Properties (Gujarat.txt)	2 BHK Apartment	Ahmedabad Central	Ahmedabad / Gujarat	Apartment / 2 BHK	745	₹15,600/month	Unfurnished	1	Family	Rent
+93	Gujarat Properties (Gujarat.txt)	4 BHK Builder Floor	Rajkot Sector 2	Rajkot / Gujarat	Builder Floor / 4 BHK	1604	₹1.21 Cr	Semi-Furnished	4	Family	Sale
+94	Gujarat Properties (Gujarat.txt)	1 BHK Villa	Ahmedabad East	Ahmedabad / Gujarat	Villa / 1 BHK	684	₹45.32 L	Semi-Furnished	2	Bachelors	Sale
+95	Gujarat Properties (Gujarat.txt)	4 BHK Villa	Rajkot Sector 3	Rajkot / Gujarat	Villa / 4 BHK	2444	₹1.29 Cr	Fully-Furnished	5	Family	Sale
+96	Gujarat Properties (Gujarat.txt)	1 BHK Studio	Vadodara Nagar	Vadodara / Gujarat	Studio / 1 BHK	344	₹11,400/month	Fully-Furnished	1	Family	Rent
+97	Gujarat Properties (Gujarat.txt)	3 BHK Independent House	Vadodara Main Road	Vadodara / Gujarat	Independent House / 3 BHK	1564	₹23,200/month	Unfurnished	3	Family	Rent
+98	Gujarat Properties (Gujarat.txt)	2 BHK Builder Floor	Surat Extension	Surat / Gujarat	Builder Floor / 2 BHK	525	₹51.50 L	Unfurnished	2	Bachelors	Sale
+99	Gujarat Properties (Gujarat.txt)	5 BHK Villa	Vadodara Heights	Vadodara / Gujarat	Villa / 5 BHK	2437	₹30,800/month	Semi-Furnished	5	Bachelors	Rent
+100	Gujarat Properties (Gujarat.txt)	1 BHK Apartment	Ahmedabad East	Ahmedabad / Gujarat	Apartment / 1 BHK	551	₹38.11 L	Semi-Furnished	1	Family	Sale
+101	Gujarat Properties (Gujarat.txt)	1 BHK Independent House	Surat South	Surat / Gujarat	Independent House / 1 BHK	565	₹10,800/month	Semi-Furnished	1	Family	Rent
+102	Gujarat Properties (Gujarat.txt)	3 BHK Builder Floor	Vadodara Town Centre	Vadodara / Gujarat	Builder Floor / 3 BHK	1302	₹70.65 L	Unfurnished	3	Family	Sale
+103	Gujarat Properties (Gujarat.txt)	2 BHK Apartment	Rajkot Nagar	Rajkot / Gujarat	Apartment / 2 BHK	785	₹52.79 L	Semi-Furnished	2	Family	Sale
+104	Gujarat Properties (Gujarat.txt)	2 BHK Villa	Rajkot Sector 3	Rajkot / Gujarat	Villa / 2 BHK	1360	₹69.02 L	Semi-Furnished	2	Family	Sale
+105	Gujarat Properties (Gujarat.txt)	1 BHK Studio	Vadodara North	Vadodara / Gujarat	Studio / 1 BHK	345	₹30.78 L	Fully-Furnished	1	Any	Sale
+106	Gujarat Properties (Gujarat.txt)	4 BHK Apartment	Ahmedabad Colony	Ahmedabad / Gujarat	Apartment / 4 BHK	2022	₹25,100/month	Semi-Furnished	4	Family	Rent
+107	Gujarat Properties (Gujarat.txt)	2 BHK Apartment	Rajkot Extension	Rajkot / Gujarat	Apartment / 2 BHK	905	₹19,900/month	Fully-Furnished	2	Family	Rent
+108	Gujarat Properties (Gujarat.txt)	1 BHK Studio	Surat West	Surat / Gujarat	Studio / 1 BHK	322	₹41.43 L	Semi-Furnished	2	Family	Sale
+109	Gujarat Properties (Gujarat.txt)	1 BHK Studio	Rajkot Main Road	Rajkot / Gujarat	Studio / 1 BHK	360	₹40 L	Fully-Furnished	1	Family	Sale
+110	Gujarat Properties (Gujarat.txt)	2 BHK Independent House	Rajkot Town Centre	Rajkot / Gujarat	Independent House / 2 BHK	779	₹69.02 L	Fully-Furnished	2	Any	Sale
+111	Gujarat Properties (Gujarat.txt)	1 BHK Studio	Surat Town Centre	Surat / Gujarat	Studio / 1 BHK	357	₹34.83 L	Semi-Furnished	1	Bachelors	Sale
+112	Gujarat Properties (Gujarat.txt)	3 BHK Apartment	Vadodara East	Vadodara / Gujarat	Apartment / 3 BHK	1025	₹85.30 L	Semi-Furnished	2	Bachelors	Sale
+113	Gujarat Properties (Gujarat.txt)	3 BHK Apartment	Vadodara Nagar	Vadodara / Gujarat	Apartment / 3 BHK	1224	₹85.25 L	Semi-Furnished	3	Family	Sale
+114	Gujarat Properties (Gujarat.txt)	1 BHK Villa	Ahmedabad Colony	Ahmedabad / Gujarat	Villa / 1 BHK	754	₹50.53 L	Semi-Furnished	1	Any	Sale
+115	Gujarat Properties (Gujarat.txt)	5 BHK Builder Floor	Rajkot Colony	Rajkot / Gujarat	Builder Floor / 5 BHK	2486	₹36,400/month	Semi-Furnished	5	Any	Rent
+116	Gujarat Properties (Gujarat.txt)	3 BHK Apartment	Ahmedabad West	Ahmedabad / Gujarat	Apartment / 3 BHK	1451	₹96.87 L	Semi-Furnished	2	Family	Sale
+117	Gujarat Properties (Gujarat.txt)	3 BHK Apartment	Vadodara Colony	Vadodara / Gujarat	Apartment / 3 BHK	1628	₹90.53 L	Semi-Furnished	3	Bachelors	Sale
+118	Gujarat Properties (Gujarat.txt)	3 BHK Apartment	Vadodara Sector 3	Vadodara / Gujarat	Apartment / 3 BHK	942	₹73.86 L	Semi-Furnished	2	Any	Sale
+119	Gujarat Properties (Gujarat.txt)	4 BHK Independent House	Surat Sector 3	Surat / Gujarat	Independent House / 4 BHK	2455	₹1.19 Cr	Unfurnished	5	Any	Sale
+120	Gujarat Properties (Gujarat.txt)	5 BHK Builder Floor	Ahmedabad Town Centre	Ahmedabad / Gujarat	Builder Floor / 5 BHK	2496	₹30,100/month	Semi-Furnished	5	Bachelors	Rent
+121	Gujarat Properties (Gujarat.txt)	2 BHK Apartment	Ahmedabad Sector 1	Ahmedabad / Gujarat	Apartment / 2 BHK	990	₹73.48 L	Semi-Furnished	2	Family	Sale
+122	Gujarat Properties (Gujarat.txt)	3 BHK Builder Floor	Rajkot Heights	Rajkot / Gujarat	Builder Floor / 3 BHK	1456	₹79.18 L	Semi-Furnished	3	Family	Sale
+123	Gujarat Properties (Gujarat.txt)	2 BHK Apartment	Surat Extension	Surat / Gujarat	Apartment / 2 BHK	896	₹64.96 L	Semi-Furnished	2	Family	Sale
+124	Gujarat Properties (Gujarat.txt)	3 BHK Apartment	Surat Residential Area	Surat / Gujarat	Apartment / 3 BHK	1512	₹87.79 L	Unfurnished	3	Bachelors	Sale
+125	Gujarat Properties (Gujarat.txt)	3 BHK Apartment	Rajkot Town Centre	Rajkot / Gujarat	Apartment / 3 BHK	1211	₹21,100/month	Semi-Furnished	3	Any	Rent
+126	Gujarat Properties (Gujarat.txt)	3 BHK Apartment	Ahmedabad Nagar	Ahmedabad / Gujarat	Apartment / 3 BHK	1428	₹92.88 L	Semi-Furnished	4	Family	Sale
+127	Gujarat Properties (Gujarat.txt)	1 BHK Apartment	Surat South	Surat / Gujarat	Apartment / 1 BHK	578	₹36.62 L	Semi-Furnished	1	Bachelors	Sale
+128	Gujarat Properties (Gujarat.txt)	4 BHK Independent House	Ahmedabad Sector 2	Ahmedabad / Gujarat	Independent House / 4 BHK	2123	₹29,900/month	Unfurnished	4	Any	Rent
+129	Gujarat Properties (Gujarat.txt)	3 BHK Apartment	Ahmedabad Nagar	Ahmedabad / Gujarat	Apartment / 3 BHK	1224	₹24,100/month	Fully-Furnished	4	Any	Rent
+130	Gujarat Properties (Gujarat.txt)	1 BHK Builder Floor	Vadodara West	Vadodara / Gujarat	Builder Floor / 1 BHK	530	₹40.98 L	Semi-Furnished	2	Any	Sale
+131	Gujarat Properties (Gujarat.txt)	3 BHK Apartment	Vadodara Extension	Vadodara / Gujarat	Apartment / 3 BHK	1003	₹87.40 L	Unfurnished	3	Any	Sale
+132	Gujarat Properties (Gujarat.txt)	4 BHK Builder Floor	Ahmedabad Town Centre	Ahmedabad / Gujarat	Builder Floor / 4 BHK	1749	₹24,400/month	Fully-Furnished	4	Family	Rent
+133	Gujarat Properties (Gujarat.txt)	2 BHK Builder Floor	Vadodara Colony	Vadodara / Gujarat	Builder Floor / 2 BHK	691	₹13,400/month	Unfurnished	3	Bachelors	Rent
+134	Gujarat Properties (Gujarat.txt)	5 BHK Apartment	Surat West	Surat / Gujarat	Apartment / 5 BHK	2381	₹33,400/month	Semi-Furnished	5	Family	Rent
+135	Gujarat Properties (Gujarat.txt)	1 BHK Studio	Surat South	Surat / Gujarat	Studio / 1 BHK	457	₹36.30 L	Semi-Furnished	1	Family	Sale
+136	Gujarat Properties (Gujarat.txt)	3 BHK Apartment	Vadodara Main Road	Vadodara / Gujarat	Apartment / 3 BHK	1239	₹23,500/month	Semi-Furnished	3	Any	Rent
+137	Gujarat Properties (Gujarat.txt)	3 BHK Apartment	Rajkot North	Rajkot / Gujarat	Apartment / 3 BHK	1118	₹84.71 L	Semi-Furnished	3	Family	Sale
+138	Gujarat Properties (Gujarat.txt)	1 BHK Apartment	Rajkot Residential Area	Rajkot / Gujarat	Apartment / 1 BHK	482	₹12,500/month	Semi-Furnished	1	Family	Rent
+139	Gujarat Properties (Gujarat.txt)	2 BHK Apartment	Surat Central	Surat / Gujarat	Apartment / 2 BHK	965	₹65.07 L	Fully-Furnished	2	Bachelors	Sale
+140	Gujarat Properties (Gujarat.txt)	1 BHK Builder Floor	Rajkot Sector 3	Rajkot / Gujarat	Builder Floor / 1 BHK	559	₹13,000/month	Unfurnished	1	Bachelors	Rent
+141	Gujarat Properties (Gujarat.txt)	2 BHK Builder Floor	Surat Sector 3	Surat / Gujarat	Builder Floor / 2 BHK	839	₹60.97 L	Semi-Furnished	1	Family	Sale
+142	Gujarat Properties (Gujarat.txt)	2 BHK Apartment	Ahmedabad East	Ahmedabad / Gujarat	Apartment / 2 BHK	785	₹59.64 L	Unfurnished	3	Family	Sale
+143	Gujarat Properties (Gujarat.txt)	2 BHK Apartment	Surat Sector 3	Surat / Gujarat	Apartment / 2 BHK	860	₹18,400/month	Fully-Furnished	2	Family	Rent
+144	Gujarat Properties (Gujarat.txt)	1 BHK Apartment	Vadodara East	Vadodara / Gujarat	Apartment / 1 BHK	469	₹10,600/month	Fully-Furnished	1	Family	Rent
+145	Gujarat Properties (Gujarat.txt)	2 BHK Apartment	Vadodara Sector 3	Vadodara / Gujarat	Apartment / 2 BHK	838	₹52.56 L	Semi-Furnished	1	Family	Sale
+146	Gujarat Properties (Gujarat.txt)	2 BHK Apartment	Surat Sector 2	Surat / Gujarat	Apartment / 2 BHK	847	₹19,800/month	Fully-Furnished	2	Family	Rent
+147	Gujarat Properties (Gujarat.txt)	2 BHK Apartment	Ahmedabad Colony	Ahmedabad / Gujarat	Apartment / 2 BHK	970	₹55 L	Semi-Furnished	1	Family	Sale
+148	Gujarat Properties (Gujarat.txt)	2 BHK Builder Floor	Surat Nagar	Surat / Gujarat	Builder Floor / 2 BHK	710	₹59.14 L	Unfurnished	2	Family	Sale
+149	Gujarat Properties (Gujarat.txt)	2 BHK Apartment	Rajkot Sector 1	Rajkot / Gujarat	Apartment / 2 BHK	900	₹66.90 L	Semi-Furnished	2	Any	Sale
+150	Gujarat Properties (Gujarat.txt)	2 BHK Independent House	Rajkot Nagar	Rajkot / Gujarat	Independent House / 2 BHK	1027	₹14,200/month	Unfurnished	2	Bachelors	Rent
+151	Gujarat Properties (Gujarat.txt)	3 BHK Apartment	Ahmedabad Sector 3	Ahmedabad / Gujarat	Apartment / 3 BHK	1192	₹70.81 L	Semi-Furnished	3	Family	Sale
+152	Gujarat Properties (Gujarat.txt)	2 BHK Apartment	Ahmedabad Extension	Ahmedabad / Gujarat	Apartment / 2 BHK	986	₹15,100/month	Fully-Furnished	2	Family	Rent
+153	Gujarat Properties (Gujarat.txt)	3 BHK Apartment	Vadodara Sector 3	Vadodara / Gujarat	Apartment / 3 BHK	1337	₹93.46 L	Semi-Furnished	3	Any	Sale
+154	Gujarat Properties (Gujarat.txt)	2 BHK Builder Floor	Ahmedabad Sector 3	Ahmedabad / Gujarat	Builder Floor / 2 BHK	1009	₹56.11 L	Unfurnished	3	Family	Sale
+155	Gujarat Properties (Gujarat.txt)	2 BHK Builder Floor	Ahmedabad South	Ahmedabad / Gujarat	Builder Floor / 2 BHK	737	₹65.90 L	Semi-Furnished	2	Family	Sale
+156	Gujarat Properties (Gujarat.txt)	4 BHK Villa	Ahmedabad Heights	Ahmedabad / Gujarat	Villa / 4 BHK	2944	₹1.36 Cr	Semi-Furnished	4	Bachelors	Sale
+157	Gujarat Properties (Gujarat.txt)	2 BHK Builder Floor	Ahmedabad Extension	Ahmedabad / Gujarat	Builder Floor / 2 BHK	981	₹13,900/month	Unfurnished	2	Family	Rent
+158	Gujarat Properties (Gujarat.txt)	2 BHK Independent House	Surat Central	Surat / Gujarat	Independent House / 2 BHK	1133	₹19,000/month	Semi-Furnished	3	Any	Rent
+159	Gujarat Properties (Gujarat.txt)	3 BHK Apartment	Ahmedabad Sector 3	Ahmedabad / Gujarat	Apartment / 3 BHK	1276	₹94.45 L	Semi-Furnished	4	Family	Sale
+160	Gujarat Properties (Gujarat.txt)	3 BHK Apartment	Surat Extension	Surat / Gujarat	Apartment / 3 BHK	1186	₹87.57 L	Semi-Furnished	3	Family	Sale
+161	Gujarat Properties (Gujarat.txt)	4 BHK Apartment	Vadodara Main Road	Vadodara / Gujarat	Apartment / 4 BHK	1878	₹94.52 L	Unfurnished	5	Any	Sale
+162	Gujarat Properties (Gujarat.txt)	3 BHK Apartment	Ahmedabad North	Ahmedabad / Gujarat	Apartment / 3 BHK	1189	₹20,900/month	Semi-Furnished	3	Bachelors	Rent
+163	Gujarat Properties (Gujarat.txt)	4 BHK Independent House	Rajkot East	Rajkot / Gujarat	Independent House / 4 BHK	2328	₹1.20 Cr	Unfurnished	4	Bachelors	Sale
+164	Gujarat Properties (Gujarat.txt)	4 BHK Apartment	Surat North	Surat / Gujarat	Apartment / 4 BHK	1204	₹91.04 L	Semi-Furnished	4	Bachelors	Sale
+165	Gujarat Properties (Gujarat.txt)	1 BHK Apartment	Surat Sector 1	Surat / Gujarat	Apartment / 1 BHK	484	₹39.07 L	Semi-Furnished	1	Bachelors	Sale
+166	Gujarat Properties (Gujarat.txt)	5 BHK Builder Floor	Vadodara Central	Vadodara / Gujarat	Builder Floor / 5 BHK	1983	₹34,000/month	Fully-Furnished	5	Bachelors	Rent
+167	Gujarat Properties (Gujarat.txt)	3 BHK Villa	Rajkot Central	Rajkot / Gujarat	Villa / 3 BHK	1616	₹98.32 L	Semi-Furnished	3	Bachelors	Sale
+168	Gujarat Properties (Gujarat.txt)	3 BHK Villa	Surat Nagar	Surat / Gujarat	Villa / 3 BHK	1876	₹28,800/month	Semi-Furnished	3	Family	Rent
+169	Gujarat Properties (Gujarat.txt)	2 BHK Apartment	Rajkot South	Rajkot / Gujarat	Apartment / 2 BHK	920	₹16,800/month	Fully-Furnished	2	Family	Rent
+170	Gujarat Properties (Gujarat.txt)	1 BHK Studio	Surat Main Road	Surat / Gujarat	Studio / 1 BHK	410	₹33.75 L	Semi-Furnished	2	Family	Sale
+171	Gujarat Properties (Gujarat.txt)	2 BHK Apartment	Vadodara Extension	Vadodara / Gujarat	Apartment / 2 BHK	932	₹57.69 L	Fully-Furnished	2	Bachelors	Sale
+172	Gujarat Properties (Gujarat.txt)	3 BHK Apartment	Rajkot East	Rajkot / Gujarat	Apartment / 3 BHK	1117	₹25,900/month	Fully-Furnished	2	Bachelors	Rent
+173	Gujarat Properties (Gujarat.txt)	2 BHK Apartment	Ahmedabad Colony	Ahmedabad / Gujarat	Apartment / 2 BHK	845	₹58.64 L	Unfurnished	3	Bachelors	Sale
+174	Gujarat Properties (Gujarat.txt)	1 BHK Apartment	Vadodara Central	Vadodara / Gujarat	Apartment / 1 BHK	501	₹39.61 L	Semi-Furnished	1	Any	Sale
+175	Gujarat Properties (Gujarat.txt)	2 BHK Builder Floor	Vadodara Extension	Vadodara / Gujarat	Builder Floor / 2 BHK	783	₹59.19 L	Fully-Furnished	2	Bachelors	Sale
+176	Gujarat Properties (Gujarat.txt)	2 BHK Apartment	Ahmedabad Sector 3	Ahmedabad / Gujarat	Apartment / 2 BHK	830	₹19,700/month	Semi-Furnished	2	Any	Rent
+177	Gujarat Properties (Gujarat.txt)	2 BHK Apartment	Vadodara West	Vadodara / Gujarat	Apartment / 2 BHK	952	₹66.87 L	Semi-Furnished	2	Bachelors	Sale
+178	Gujarat Properties (Gujarat.txt)	1 BHK Studio	Vadodara Main Road	Vadodara / Gujarat	Studio / 1 BHK	365	₹35.70 L	Semi-Furnished	2	Family	Sale
+179	Gujarat Properties (Gujarat.txt)	2 BHK Apartment	Ahmedabad Extension	Ahmedabad / Gujarat	Apartment / 2 BHK	775	₹18,500/month	Semi-Furnished	1	Any	Rent
+180	Gujarat Properties (Gujarat.txt)	3 BHK Builder Floor	Rajkot Heights	Rajkot / Gujarat	Builder Floor / 3 BHK	1443	₹28,000/month	Semi-Furnished	4	Any	Rent
+181	Gujarat Properties (Gujarat.txt)	2 BHK Independent House	Rajkot Nagar	Rajkot / Gujarat	Independent House / 2 BHK	1028	₹17,400/month	Semi-Furnished	2	Family	Rent
+182	Gujarat Properties (Gujarat.txt)	2 BHK Apartment	Surat Sector 2	Surat / Gujarat	Apartment / 2 BHK	753	₹70.36 L	Fully-Furnished	3	Any	Sale
+183	Gujarat Properties (Gujarat.txt)	2 BHK Apartment	Ahmedabad Main Road	Ahmedabad / Gujarat	Apartment / 2 BHK	1047	₹54.80 L	Semi-Furnished	2	Bachelors	Sale
+184	Gujarat Properties (Gujarat.txt)	2 BHK Apartment	Surat Main Road	Surat / Gujarat	Apartment / 2 BHK	1012	₹59.85 L	Unfurnished	3	Bachelors	Sale
+185	Gujarat Properties (Gujarat.txt)	2 BHK Apartment	Rajkot Nagar	Rajkot / Gujarat	Apartment / 2 BHK	851	₹66.19 L	Fully-Furnished	3	Any	Sale
+186	Gujarat Properties (Gujarat.txt)	2 BHK Builder Floor	Vadodara Sector 3	Vadodara / Gujarat	Builder Floor / 2 BHK	805	₹50.70 L	Semi-Furnished	1	Family	Sale
+187	Gujarat Properties (Gujarat.txt)	2 BHK Apartment	Rajkot Sector 2	Rajkot / Gujarat	Apartment / 2 BHK	680	₹54.40 L	Semi-Furnished	2	Family	Sale
+188	Gujarat Properties (Gujarat.txt)	2 BHK Independent House	Surat East	Surat / Gujarat	Independent House / 2 BHK	990	₹16,500/month	Unfurnished	2	Bachelors	Rent
+189	Gujarat Properties (Gujarat.txt)	4 BHK Builder Floor	Vadodara Sector 2	Vadodara / Gujarat	Builder Floor / 4 BHK	1887	₹1.03 Cr	Fully-Furnished	5	Family	Sale
+190	Gujarat Properties (Gujarat.txt)	3 BHK Apartment	Rajkot Residential Area	Rajkot / Gujarat	Apartment / 3 BHK	1175	₹97.05 L	Semi-Furnished	3	Family	Sale
+191	Gujarat Properties (Gujarat.txt)	4 BHK Builder Floor	Surat North	Surat / Gujarat	Builder Floor / 4 BHK	2242	₹1.38 Cr	Semi-Furnished	5	Family	Sale
+192	Gujarat Properties (Gujarat.txt)	2 BHK Apartment	Vadodara Nagar	Vadodara / Gujarat	Apartment / 2 BHK	981	₹63.75 L	Semi-Furnished	2	Bachelors	Sale
+193	Gujarat Properties (Gujarat.txt)	5 BHK Apartment	Ahmedabad Extension	Ahmedabad / Gujarat	Apartment / 5 BHK	1678	₹31,600/month	Fully-Furnished	5	Any	Rent
+194	Gujarat Properties (Gujarat.txt)	1 BHK Apartment	Surat East	Surat / Gujarat	Apartment / 1 BHK	504	₹12,700/month	Fully-Furnished	1	Family	Rent
+195	Gujarat Properties (Gujarat.txt)	3 BHK Independent House	Vadodara Sector 3	Vadodara / Gujarat	Independent House / 3 BHK	1551	₹20,600/month	Unfurnished	4	Bachelors	Rent
+196	Gujarat Properties (Gujarat.txt)	4 BHK Villa	Rajkot North	Rajkot / Gujarat	Villa / 4 BHK	1828	₹30,200/month	Unfurnished	4	Bachelors	Rent
+197	Gujarat Properties (Gujarat.txt)	2 BHK Apartment	Vadodara West	Vadodara / Gujarat	Apartment / 2 BHK	978	₹57.35 L	Semi-Furnished	3	Bachelors	Sale
+198	Gujarat Properties (Gujarat.txt)	4 BHK Apartment	Ahmedabad Heights	Ahmedabad / Gujarat	Apartment / 4 BHK	2071	₹33,800/month	Unfurnished	3	Any	Rent
+199	Gujarat Properties (Gujarat.txt)	3 BHK Apartment	Rajkot Town Centre	Rajkot / Gujarat	Apartment / 3 BHK	847	₹87.04 L	Fully-Furnished	2	Bachelors	Sale
+200	Gujarat Properties (Gujarat.txt)	1 BHK Apartment	Vadodara Sector 2	Vadodara / Gujarat	Apartment / 1 BHK	502	₹11,900/month	Unfurnished	1	Bachelors	Rent
+201	Gujarat Properties (Gujarat.txt)	3 BHK Apartment	Surat Heights	Surat / Gujarat	Apartment / 3 BHK	1364	₹69.08 L	Fully-Furnished	3	Bachelors	Sale
+202	Gujarat Properties (Gujarat.txt)	2 BHK Apartment	Surat Colony	Surat / Gujarat	Apartment / 2 BHK	827	₹51.40 L	Semi-Furnished	1	Any	Sale
+203	Gujarat Properties (Gujarat.txt)	2 BHK Apartment	Vadodara Main Road	Vadodara / Gujarat	Apartment / 2 BHK	1015	₹52.02 L	Fully-Furnished	1	Bachelors	Sale
+204	Gujarat Properties (Gujarat.txt)	3 BHK Apartment	Vadodara South	Vadodara / Gujarat	Apartment / 3 BHK	1168	₹25,500/month	Semi-Furnished	3	Bachelors	Rent
+205	Gujarat Properties (Gujarat.txt)	3 BHK Builder Floor	Vadodara Nagar	Vadodara / Gujarat	Builder Floor / 3 BHK	1648	₹1.06 Cr	Fully-Furnished	2	Family	Sale
+206	Gujarat Properties (Gujarat.txt)	4 BHK Apartment	Rajkot Sector 1	Rajkot / Gujarat	Apartment / 4 BHK	1686	₹24,900/month	Semi-Furnished	3	Bachelors	Rent
+207	Gujarat Properties (Gujarat.txt)	3 BHK Apartment	Rajkot South	Rajkot / Gujarat	Apartment / 3 BHK	1264	₹83.21 L	Unfurnished	3	Family	Sale
+208	Gujarat Properties (Gujarat.txt)	2 BHK Apartment	Ahmedabad Residential Area	Ahmedabad / Gujarat	Apartment / 2 BHK	754	₹14,700/month	Fully-Furnished	3	Any	Rent
+209	Gujarat Properties (Gujarat.txt)	5 BHK Apartment	Surat North	Surat / Gujarat	Apartment / 5 BHK	2572	₹1.37 Cr	Semi-Furnished	4	Family	Sale
+210	Gujarat Properties (Gujarat.txt)	2 BHK Apartment	Vadodara Colony	Vadodara / Gujarat	Apartment / 2 BHK	859	₹59.87 L	Semi-Furnished	2	Any	Sale
+211	Gujarat Properties (Gujarat.txt)	2 BHK Apartment	Vadodara East	Vadodara / Gujarat	Apartment / 2 BHK	802	₹55.87 L	Semi-Furnished	1	Any	Sale
+212	Gujarat Properties (Gujarat.txt)	3 BHK Apartment	Vadodara South	Vadodara / Gujarat	Apartment / 3 BHK	1020	₹88.74 L	Semi-Furnished	3	Family	Sale
+213	Gujarat Properties (Gujarat.txt)	1 BHK Apartment	Rajkot Town Centre	Rajkot / Gujarat	Apartment / 1 BHK	442	₹39.02 L	Unfurnished	2	Any	Sale
+214	Gujarat Properties (Gujarat.txt)	4 BHK Independent House	Vadodara Sector 1	Vadodara / Gujarat	Independent House / 4 BHK	1918	₹1.21 Cr	Fully-Furnished	4	Family	Sale
+215	Gujarat Properties (Gujarat.txt)	2 BHK Builder Floor	Ahmedabad Colony	Ahmedabad / Gujarat	Builder Floor / 2 BHK	988	₹17,600/month	Semi-Furnished	2	Any	Rent
+216	Gujarat Properties (Gujarat.txt)	2 BHK Apartment	Surat Town Centre	Surat / Gujarat	Apartment / 2 BHK	767	₹50.13 L	Unfurnished	2	Bachelors	Sale
+217	Gujarat Properties (Gujarat.txt)	3 BHK Villa	Rajkot West	Rajkot / Gujarat	Villa / 3 BHK	1781	₹76.59 L	Semi-Furnished	3	Family	Sale
+218	Gujarat Properties (Gujarat.txt)	1 BHK Apartment	Rajkot South	Rajkot / Gujarat	Apartment / 1 BHK	491	₹9,300/month	Fully-Furnished	1	Family	Rent
+219	Gujarat Properties (Gujarat.txt)	3 BHK Apartment	Surat Sector 3	Surat / Gujarat	Apartment / 3 BHK	1498	₹98.09 L	Semi-Furnished	3	Any	Sale
+220	Gujarat Properties (Gujarat.txt)	2 BHK Apartment	Surat Heights	Surat / Gujarat	Apartment / 2 BHK	764	₹65.75 L	Unfurnished	2	Family	Sale
+221	Gujarat Properties (Gujarat.txt)	5 BHK Apartment	Rajkot West	Rajkot / Gujarat	Apartment / 5 BHK	2714	₹1.40 Cr	Semi-Furnished	5	Family	Sale
+222	Gujarat Properties (Gujarat.txt)	3 BHK Apartment	Rajkot South	Rajkot / Gujarat	Apartment / 3 BHK	1260	₹86.86 L	Semi-Furnished	4	Family	Sale
+223	Gujarat Properties (Gujarat.txt)	3 BHK Builder Floor	Rajkot Extension	Rajkot / Gujarat	Builder Floor / 3 BHK	913	₹65.33 L	Fully-Furnished	3	Bachelors	Sale
+224	Gujarat Properties (Gujarat.txt)	2 BHK Apartment	Vadodara Heights	Vadodara / Gujarat	Apartment / 2 BHK	978	₹52.41 L	Semi-Furnished	3	Any	Sale
+225	Gujarat Properties (Gujarat.txt)	5 BHK Apartment	Surat West	Surat / Gujarat	Apartment / 5 BHK	2674	₹1.52 Cr	Semi-Furnished	6	Any	Sale
+226	Gujarat Properties (Gujarat.txt)	3 BHK Apartment	Vadodara Sector 1	Vadodara / Gujarat	Apartment / 3 BHK	1092	₹79.95 L	Unfurnished	3	Family	Sale
+227	Gujarat Properties (Gujarat.txt)	1 BHK Builder Floor	Surat Main Road	Surat / Gujarat	Builder Floor / 1 BHK	567	₹40.88 L	Fully-Furnished	2	Bachelors	Sale
+228	Gujarat Properties (Gujarat.txt)	4 BHK Villa	Surat Residential Area	Surat / Gujarat	Villa / 4 BHK	2683	₹1.25 Cr	Unfurnished	3	Family	Sale
+229	Gujarat Properties (Gujarat.txt)	2 BHK Apartment	Surat South	Surat / Gujarat	Apartment / 2 BHK	847	₹52.24 L	Semi-Furnished	2	Any	Sale
+230	Gujarat Properties (Gujarat.txt)	4 BHK Apartment	Vadodara Sector 3	Vadodara / Gujarat	Apartment / 4 BHK	1768	₹1.26 Cr	Semi-Furnished	4	Bachelors	Sale
+231	Gujarat Properties (Gujarat.txt)	1 BHK Studio	Surat Sector 1	Surat / Gujarat	Studio / 1 BHK	387	₹36.02 L	Unfurnished	1	Family	Sale
+232	Gujarat Properties (Gujarat.txt)	3 BHK Apartment	Vadodara Sector 2	Vadodara / Gujarat	Apartment / 3 BHK	1350	₹73.69 L	Fully-Furnished	4	Any	Sale
+233	Gujarat Properties (Gujarat.txt)	3 BHK Villa	Vadodara Town Centre	Vadodara / Gujarat	Villa / 3 BHK	1675	₹81.71 L	Fully-Furnished	4	Bachelors	Sale
+234	Gujarat Properties (Gujarat.txt)	3 BHK Independent House	Rajkot Sector 1	Rajkot / Gujarat	Independent House / 3 BHK	1377	₹91.65 L	Semi-Furnished	3	Any	Sale
+235	Gujarat Properties (Gujarat.txt)	2 BHK Apartment	Rajkot Nagar	Rajkot / Gujarat	Apartment / 2 BHK	635	₹17,000/month	Semi-Furnished	3	Bachelors	Rent
+236	Gujarat Properties (Gujarat.txt)	3 BHK Builder Floor	Surat Colony	Surat / Gujarat	Builder Floor / 3 BHK	980	₹63.90 L	Unfurnished	4	Family	Sale
+237	Gujarat Properties (Gujarat.txt)	3 BHK Apartment	Vadodara Residential Area	Vadodara / Gujarat	Apartment / 3 BHK	909	₹17,500/month	Semi-Furnished	3	Family	Rent
+238	Gujarat Properties (Gujarat.txt)	3 BHK Apartment	Vadodara Nagar	Vadodara / Gujarat	Apartment / 3 BHK	1557	₹22,300/month	Semi-Furnished	4	Family	Rent
+239	Gujarat Properties (Gujarat.txt)	3 BHK Apartment	Ahmedabad South	Ahmedabad / Gujarat	Apartment / 3 BHK	1423	₹73.34 L	Semi-Furnished	4	Any	Sale
+240	Gujarat Properties (Gujarat.txt)	2 BHK Apartment	Ahmedabad Extension	Ahmedabad / Gujarat	Apartment / 2 BHK	834	₹70.99 L	Unfurnished	2	Bachelors	Sale
+241	Gujarat Properties (Gujarat.txt)	4 BHK Independent House	Vadodara South	Vadodara / Gujarat	Independent House / 4 BHK	2177	₹33,700/month	Fully-Furnished	4	Any	Rent
+242	Gujarat Properties (Gujarat.txt)	3 BHK Apartment	Vadodara Main Road	Vadodara / Gujarat	Apartment / 3 BHK	1303	₹20,700/month	Semi-Furnished	2	Bachelors	Rent
+243	Gujarat Properties (Gujarat.txt)	3 BHK Independent House	Surat Sector 1	Surat / Gujarat	Independent House / 3 BHK	1650	₹89.91 L	Fully-Furnished	3	Family	Sale
+244	Gujarat Properties (Gujarat.txt)	2 BHK Independent House	Ahmedabad East	Ahmedabad / Gujarat	Independent House / 2 BHK	1044	₹51.30 L	Unfurnished	2	Any	Sale
+245	Gujarat Properties (Gujarat.txt)	1 BHK Builder Floor	Ahmedabad Extension	Ahmedabad / Gujarat	Builder Floor / 1 BHK	529	₹39.67 L	Fully-Furnished	1	Family	Sale
+246	Gujarat Properties (Gujarat.txt)	4 BHK Villa	Ahmedabad Colony	Ahmedabad / Gujarat	Villa / 4 BHK	2526	₹1.15 Cr	Fully-Furnished	4	Family	Sale
+247	Gujarat Properties (Gujarat.txt)	2 BHK Apartment	Vadodara Central	Vadodara / Gujarat	Apartment / 2 BHK	612	₹59.24 L	Semi-Furnished	2	Bachelors	Sale
+248	Gujarat Properties (Gujarat.txt)	3 BHK Independent House	Vadodara Nagar	Vadodara / Gujarat	Independent House / 3 BHK	1582	₹23,300/month	Unfurnished	2	Bachelors	Rent
+249	Gujarat Properties (Gujarat.txt)	3 BHK Apartment	Rajkot West	Rajkot / Gujarat	Apartment / 3 BHK	1297	₹90.51 L	Semi-Furnished	3	Family	Sale
+250	Gujarat Properties (Gujarat.txt)	3 BHK Apartment	Vadodara Sector 2	Vadodara / Gujarat	Apartment / 3 BHK	1000	₹74.28 L	Semi-Furnished	4	Bachelors	Sale
+251	Gujarat Properties (Gujarat.txt)	2 BHK Apartment	Surat South	Surat / Gujarat	Apartment / 2 BHK	726	₹69.38 L	Unfurnished	2	Family	Sale
+252	Gujarat Properties (Gujarat.txt)	1 BHK Independent House	Rajkot Extension	Rajkot / Gujarat	Independent House / 1 BHK	782	₹48.61 L	Semi-Furnished	1	Bachelors	Sale
+253	Gujarat Properties (Gujarat.txt)	1 BHK Studio	Vadodara East	Vadodara / Gujarat	Studio / 1 BHK	327	₹9,800/month	Fully-Furnished	1	Family	Rent
+254	Gujarat Properties (Gujarat.txt)	2 BHK Independent House	Surat North	Surat / Gujarat	Independent House / 2 BHK	1033	₹20,300/month	Semi-Furnished	3	Family	Rent
+255	Gujarat Properties (Gujarat.txt)	3 BHK Independent House	Rajkot Sector 1	Rajkot / Gujarat	Independent House / 3 BHK	1491	₹70.78 L	Unfurnished	3	Family	Sale
+256	Gujarat Properties (Gujarat.txt)	3 BHK Apartment	Ahmedabad West	Ahmedabad / Gujarat	Apartment / 3 BHK	1493	₹19,700/month	Unfurnished	3	Family	Rent
+257	Gujarat Properties (Gujarat.txt)	2 BHK Apartment	Rajkot South	Rajkot / Gujarat	Apartment / 2 BHK	761	₹18,600/month	Semi-Furnished	2	Any	Rent
+258	Gujarat Properties (Gujarat.txt)	2 BHK Apartment	Rajkot East	Rajkot / Gujarat	Apartment / 2 BHK	731	₹18,800/month	Semi-Furnished	3	Bachelors	Rent
+259	Gujarat Properties (Gujarat.txt)	3 BHK Apartment	Ahmedabad South	Ahmedabad / Gujarat	Apartment / 3 BHK	1109	₹18,400/month	Semi-Furnished	3	Bachelors	Rent
+260	Gujarat Properties (Gujarat.txt)	2 BHK Apartment	Ahmedabad Town Centre	Ahmedabad / Gujarat	Apartment / 2 BHK	876	₹60.64 L	Fully-Furnished	2	Any	Sale
+261	Gujarat Properties (Gujarat.txt)	3 BHK Villa	Vadodara Main Road	Vadodara / Gujarat	Villa / 3 BHK	1555	₹92.77 L	Semi-Furnished	4	Bachelors	Sale
+262	Gujarat Properties (Gujarat.txt)	1 BHK Apartment	Rajkot Residential Area	Rajkot / Gujarat	Apartment / 1 BHK	517	₹41.03 L	Fully-Furnished	1	Family	Sale
+263	Gujarat Properties (Gujarat.txt)	1 BHK Apartment	Rajkot Sector 2	Rajkot / Gujarat	Apartment / 1 BHK	728	₹12,300/month	Semi-Furnished	1	Bachelors	Rent
+264	Gujarat Properties (Gujarat.txt)	2 BHK Apartment	Ahmedabad Residential Area	Ahmedabad / Gujarat	Apartment / 2 BHK	775	₹59.38 L	Fully-Furnished	2	Family	Sale
+265	Gujarat Properties (Gujarat.txt)	2 BHK Apartment	Surat Main Road	Surat / Gujarat	Apartment / 2 BHK	983	₹16,300/month	Fully-Furnished	2	Any	Rent
+266	Gujarat Properties (Gujarat.txt)	4 BHK Villa	Vadodara Main Road	Vadodara / Gujarat	Villa / 4 BHK	2471	₹37,300/month	Unfurnished	4	Family	Rent
+267	Gujarat Properties (Gujarat.txt)	4 BHK Apartment	Vadodara Sector 2	Vadodara / Gujarat	Apartment / 4 BHK	1513	₹1.08 Cr	Fully-Furnished	3	Family	Sale
+268	Gujarat Properties (Gujarat.txt)	2 BHK Independent House	Ahmedabad Heights	Ahmedabad / Gujarat	Independent House / 2 BHK	1070	₹15,300/month	Unfurnished	3	Family	Rent
+269	Gujarat Properties (Gujarat.txt)	1 BHK Apartment	Ahmedabad North	Ahmedabad / Gujarat	Apartment / 1 BHK	623	₹38.94 L	Unfurnished	1	Any	Sale
+270	Gujarat Properties (Gujarat.txt)	2 BHK Apartment	Ahmedabad Sector 2	Ahmedabad / Gujarat	Apartment / 2 BHK	921	₹17,500/month	Unfurnished	3	Bachelors	Rent
+271	Gujarat Properties (Gujarat.txt)	3 BHK Independent House	Ahmedabad Sector 1	Ahmedabad / Gujarat	Independent House / 3 BHK	1743	₹93.23 L	Fully-Furnished	3	Bachelors	Sale
+272	Gujarat Properties (Gujarat.txt)	2 BHK Apartment	Surat Central	Surat / Gujarat	Apartment / 2 BHK	904	₹19,200/month	Fully-Furnished	2	Any	Rent
+273	Gujarat Properties (Gujarat.txt)	2 BHK Apartment	Surat Central	Surat / Gujarat	Apartment / 2 BHK	761	₹67.55 L	Semi-Furnished	2	Bachelors	Sale
+274	Gujarat Properties (Gujarat.txt)	2 BHK Apartment	Vadodara Main Road	Vadodara / Gujarat	Apartment / 2 BHK	869	₹19,700/month	Fully-Furnished	2	Any	Rent
+275	Gujarat Properties (Gujarat.txt)	1 BHK Apartment	Rajkot Town Centre	Rajkot / Gujarat	Apartment / 1 BHK	344	₹11,400/month	Unfurnished	1	Family	Rent
+276	Gujarat Properties (Gujarat.txt)	4 BHK Apartment	Rajkot Colony	Rajkot / Gujarat	Apartment / 4 BHK	2067	₹25,300/month	Unfurnished	4	Bachelors	Rent
+277	Gujarat Properties (Gujarat.txt)	1 BHK Apartment	Vadodara Sector 1	Vadodara / Gujarat	Apartment / 1 BHK	519	₹38 L	Unfurnished	1	Family	Sale
+278	Gujarat Properties (Gujarat.txt)	3 BHK Villa	Surat Nagar	Surat / Gujarat	Villa / 3 BHK	1361	₹79.93 L	Semi-Furnished	2	Family	Sale
+279	Gujarat Properties (Gujarat.txt)	1 BHK Builder Floor	Vadodara Main Road	Vadodara / Gujarat	Builder Floor / 1 BHK	415	₹30.70 L	Unfurnished	1	Bachelors	Sale
+280	Gujarat Properties (Gujarat.txt)	1 BHK Apartment	Vadodara East	Vadodara / Gujarat	Apartment / 1 BHK	545	₹10,500/month	Semi-Furnished	2	Any	Rent
+281	Gujarat Properties (Gujarat.txt)	1 BHK Studio	Surat Town Centre	Surat / Gujarat	Studio / 1 BHK	341	₹8,200/month	Semi-Furnished	2	Family	Rent
+282	Gujarat Properties (Gujarat.txt)	2 BHK Apartment	Vadodara Town Centre	Vadodara / Gujarat	Apartment / 2 BHK	739	₹56.76 L	Fully-Furnished	1	Bachelors	Sale
+283	Gujarat Properties (Gujarat.txt)	2 BHK Apartment	Surat Sector 3	Surat / Gujarat	Apartment / 2 BHK	703	₹17,500/month	Fully-Furnished	2	Family	Rent
+284	Gujarat Properties (Gujarat.txt)	5 BHK Apartment	Rajkot Sector 1	Rajkot / Gujarat	Apartment / 5 BHK	1879	₹1.37 Cr	Semi-Furnished	5	Any	Sale
+285	Gujarat Properties (Gujarat.txt)	3 BHK Apartment	Surat Town Centre	Surat / Gujarat	Apartment / 3 BHK	1497	₹22,300/month	Fully-Furnished	2	Any	Rent
+286	Gujarat Properties (Gujarat.txt)	2 BHK Independent House	Surat Colony	Surat / Gujarat	Independent House / 2 BHK	879	₹71.55 L	Fully-Furnished	2	Family	Sale
+287	Gujarat Properties (Gujarat.txt)	2 BHK Apartment	Surat Sector 2	Surat / Gujarat	Apartment / 2 BHK	1087	₹68.24 L	Semi-Furnished	1	Any	Sale
+288	Gujarat Properties (Gujarat.txt)	2 BHK Apartment	Vadodara North	Vadodara / Gujarat	Apartment / 2 BHK	756	₹19,300/month	Semi-Furnished	2	Family	Rent
+289	Gujarat Properties (Gujarat.txt)	2 BHK Independent House	Rajkot Sector 3	Rajkot / Gujarat	Independent House / 2 BHK	891	₹15,900/month	Semi-Furnished	2	Any	Rent
+290	Gujarat Properties (Gujarat.txt)	1 BHK Independent House	Ahmedabad Town Centre	Ahmedabad / Gujarat	Independent House / 1 BHK	716	₹45.78 L	Semi-Furnished	1	Any	Sale
+291	Gujarat Properties (Gujarat.txt)	2 BHK Builder Floor	Vadodara Sector 2	Vadodara / Gujarat	Builder Floor / 2 BHK	1034	₹73.26 L	Fully-Furnished	2	Family	Sale
+292	Gujarat Properties (Gujarat.txt)	3 BHK Apartment	Surat Sector 3	Surat / Gujarat	Apartment / 3 BHK	1253	₹23,900/month	Semi-Furnished	3	Family	Rent
+293	Gujarat Properties (Gujarat.txt)	3 BHK Apartment	Rajkot Heights	Rajkot / Gujarat	Apartment / 3 BHK	1323	₹82 L	Semi-Furnished	3	Family	Sale
+294	Gujarat Properties (Gujarat.txt)	3 BHK Apartment	Surat Town Centre	Surat / Gujarat	Apartment / 3 BHK	1248	₹19,900/month	Semi-Furnished	3	Any	Rent
+295	Gujarat Properties (Gujarat.txt)	1 BHK Studio	Vadodara West	Vadodara / Gujarat	Studio / 1 BHK	462	₹12,700/month	Unfurnished	1	Bachelors	Rent
+296	Gujarat Properties (Gujarat.txt)	4 BHK Villa	Rajkot East	Rajkot / Gujarat	Villa / 4 BHK	2798	₹31,400/month	Unfurnished	4	Bachelors	Rent
+297	Gujarat Properties (Gujarat.txt)	1 BHK Studio	Ahmedabad South	Ahmedabad / Gujarat	Studio / 1 BHK	429	₹10,700/month	Semi-Furnished	1	Family	Rent
+298	Gujarat Properties (Gujarat.txt)	1 BHK Independent House	Rajkot East	Rajkot / Gujarat	Independent House / 1 BHK	561	₹11,400/month	Fully-Furnished	1	Family	Rent
+299	Gujarat Properties (Gujarat.txt)	1 BHK Apartment	Surat West	Surat / Gujarat	Apartment / 1 BHK	491	₹10,600/month	Fully-Furnished	1	Family	Rent
+300	Gujarat Properties (Gujarat.txt)	3 BHK Builder Floor	Surat Extension	Surat / Gujarat	Builder Floor / 3 BHK	1058	₹21,000/month	Semi-Furnished	3	Bachelors	Rent
+301	Gujarat Properties (Gujarat.txt)	3 BHK Apartment	Surat Heights	Surat / Gujarat	Apartment / 3 BHK	1017	₹20,900/month	Unfurnished	3	Family	Rent
+302	Gujarat Properties (Gujarat.txt)	3 BHK Apartment	Rajkot West	Rajkot / Gujarat	Apartment / 3 BHK	1309	₹98.52 L	Semi-Furnished	4	Any	Sale
+303	Gujarat Properties (Gujarat.txt)	1 BHK Builder Floor	Ahmedabad Heights	Ahmedabad / Gujarat	Builder Floor / 1 BHK	621	₹43.14 L	Fully-Furnished	1	Family	Sale
+304	Gujarat Properties (Gujarat.txt)	3 BHK Builder Floor	Vadodara Colony	Vadodara / Gujarat	Builder Floor / 3 BHK	1441	₹84.45 L	Semi-Furnished	3	Bachelors	Sale
+305	Gujarat Properties (Gujarat.txt)	5 BHK Apartment	Surat Colony	Surat / Gujarat	Apartment / 5 BHK	2539	₹32,000/month	Fully-Furnished	5	Bachelors	Rent
+306	Gujarat Properties (Gujarat.txt)	2 BHK Apartment	Vadodara Nagar	Vadodara / Gujarat	Apartment / 2 BHK	848	₹15,200/month	Semi-Furnished	3	Family	Rent
+307	Gujarat Properties (Gujarat.txt)	2 BHK Builder Floor	Surat Central	Surat / Gujarat	Builder Floor / 2 BHK	968	₹67.99 L	Semi-Furnished	2	Bachelors	Sale
+308	Gujarat Properties (Gujarat.txt)	2 BHK Independent House	Vadodara Heights	Vadodara / Gujarat	Independent House / 2 BHK	1021	₹71.59 L	Unfurnished	3	Family	Sale
+309	Gujarat Properties (Gujarat.txt)	1 BHK Studio	Ahmedabad Central	Ahmedabad / Gujarat	Studio / 1 BHK	376	₹40.99 L	Semi-Furnished	1	Any	Sale
+310	Gujarat Properties (Gujarat.txt)	1 BHK Apartment	Ahmedabad Nagar	Ahmedabad / Gujarat	Apartment / 1 BHK	590	₹41.30 L	Unfurnished	1	Family	Sale
+311	Gujarat Properties (Gujarat.txt)	3 BHK Apartment	Surat Sector 3	Surat / Gujarat	Apartment / 3 BHK	1356	₹79.62 L	Semi-Furnished	2	Family	Sale
+312	Gujarat Properties (Gujarat.txt)	2 BHK Independent House	Vadodara Heights	Vadodara / Gujarat	Independent House / 2 BHK	1178	₹62.29 L	Unfurnished	2	Any	Sale
+313	Gujarat Properties (Gujarat.txt)	1 BHK Studio	Ahmedabad Town Centre	Ahmedabad / Gujarat	Studio / 1 BHK	371	₹37.82 L	Semi-Furnished	1	Family	Sale
+314	Gujarat Properties (Gujarat.txt)	2 BHK Builder Floor	Vadodara Sector 3	Vadodara / Gujarat	Builder Floor / 2 BHK	825	₹59.84 L	Semi-Furnished	2	Any	Sale
+315	Gujarat Properties (Gujarat.txt)	4 BHK Apartment	Vadodara Extension	Vadodara / Gujarat	Apartment / 4 BHK	1848	₹1.16 Cr	Semi-Furnished	4	Bachelors	Sale
+316	Gujarat Properties (Gujarat.txt)	4 BHK Builder Floor	Vadodara Residential Area	Vadodara / Gujarat	Builder Floor / 4 BHK	1743	₹1.23 Cr	Unfurnished	3	Any	Sale
+317	Gujarat Properties (Gujarat.txt)	1 BHK Independent House	Ahmedabad Extension	Ahmedabad / Gujarat	Independent House / 1 BHK	585	₹44.88 L	Semi-Furnished	1	Family	Sale
+318	Gujarat Properties (Gujarat.txt)	1 BHK Apartment	Ahmedabad Town Centre	Ahmedabad / Gujarat	Apartment / 1 BHK	626	₹37.87 L	Semi-Furnished	1	Bachelors	Sale
+319	Gujarat Properties (Gujarat.txt)	3 BHK Independent House	Ahmedabad South	Ahmedabad / Gujarat	Independent House / 3 BHK	1211	₹18,300/month	Semi-Furnished	2	Family	Rent
+320	Gujarat Properties (Gujarat.txt)	3 BHK Apartment	Vadodara West	Vadodara / Gujarat	Apartment / 3 BHK	1303	₹19,400/month	Semi-Furnished	2	Family	Rent
+321	Gujarat Properties (Gujarat.txt)	2 BHK Apartment	Ahmedabad Sector 3	Ahmedabad / Gujarat	Apartment / 2 BHK	889	₹19,300/month	Semi-Furnished	3	Any	Rent
+322	Gujarat Properties (Gujarat.txt)	1 BHK Studio	Surat Sector 3	Surat / Gujarat	Studio / 1 BHK	340	₹28.96 L	Semi-Furnished	1	Family	Sale
+323	Gujarat Properties (Gujarat.txt)	2 BHK Apartment	Vadodara Residential Area	Vadodara / Gujarat	Apartment / 2 BHK	707	₹18,800/month	Semi-Furnished	2	Bachelors	Rent
+324	Gujarat Properties (Gujarat.txt)	2 BHK Independent House	Ahmedabad Central	Ahmedabad / Gujarat	Independent House / 2 BHK	1023	₹15,500/month	Semi-Furnished	1	Family	Rent
+325	Gujarat Properties (Gujarat.txt)	3 BHK Apartment	Surat Sector 2	Surat / Gujarat	Apartment / 3 BHK	1337	₹76.59 L	Unfurnished	3	Family	Sale
+326	Gujarat Properties (Gujarat.txt)	1 BHK Studio	Rajkot Nagar	Rajkot / Gujarat	Studio / 1 BHK	519	₹35.20 L	Semi-Furnished	1	Bachelors	Sale
+327	Gujarat Properties (Gujarat.txt)	4 BHK Apartment	Ahmedabad Heights	Ahmedabad / Gujarat	Apartment / 4 BHK	1762	₹98.49 L	Semi-Furnished	4	Any	Sale
+328	Gujarat Properties (Gujarat.txt)	3 BHK Apartment	Ahmedabad Extension	Ahmedabad / Gujarat	Apartment / 3 BHK	1207	₹67.13 L	Fully-Furnished	3	Bachelors	Sale
+329	Gujarat Properties (Gujarat.txt)	5 BHK Villa	Vadodara North	Vadodara / Gujarat	Villa / 5 BHK	3645	₹1.47 Cr	Unfurnished	5	Family	Sale
+330	Gujarat Properties (Gujarat.txt)	2 BHK Apartment	Vadodara Main Road	Vadodara / Gujarat	Apartment / 2 BHK	917	₹53.90 L	Semi-Furnished	2	Family	Sale
+331	Gujarat Properties (Gujarat.txt)	3 BHK Villa	Ahmedabad Residential Area	Ahmedabad / Gujarat	Villa / 3 BHK	1588	₹74.43 L	Semi-Furnished	4	Family	Sale
+332	Gujarat Properties (Gujarat.txt)	3 BHK Villa	Ahmedabad Colony	Ahmedabad / Gujarat	Villa / 3 BHK	1717	₹87.19 L	Unfurnished	3	Family	Sale
+333	Gujarat Properties (Gujarat.txt)	1 BHK Independent House	Rajkot South	Rajkot / Gujarat	Independent House / 1 BHK	680	₹43.30 L	Unfurnished	1	Family	Sale
+334	Gujarat Properties (Gujarat.txt)	3 BHK Independent House	Vadodara Colony	Vadodara / Gujarat	Independent House / 3 BHK	1483	₹94.44 L	Semi-Furnished	3	Any	Sale
+335	Gujarat Properties (Gujarat.txt)	3 BHK Apartment	Surat Nagar	Surat / Gujarat	Apartment / 3 BHK	1203	₹26,100/month	Semi-Furnished	3	Family	Rent
+336	Gujarat Properties (Gujarat.txt)	4 BHK Apartment	Surat West	Surat / Gujarat	Apartment / 4 BHK	1621	₹1.22 Cr	Semi-Furnished	5	Family	Sale
+337	Gujarat Properties (Gujarat.txt)	3 BHK Independent House	Ahmedabad Nagar	Ahmedabad / Gujarat	Independent House / 3 BHK	1527	₹85.08 L	Semi-Furnished	4	Family	Sale
+338	Gujarat Properties (Gujarat.txt)	3 BHK Apartment	Vadodara Sector 1	Vadodara / Gujarat	Apartment / 3 BHK	1515	₹76.84 L	Unfurnished	2	Bachelors	Sale
+339	Gujarat Properties (Gujarat.txt)	2 BHK Apartment	Surat Central	Surat / Gujarat	Apartment / 2 BHK	854	₹15,800/month	Semi-Furnished	2	Family	Rent
+340	Gujarat Properties (Gujarat.txt)	2 BHK Apartment	Surat Residential Area	Surat / Gujarat	Apartment / 2 BHK	898	₹16,700/month	Semi-Furnished	1	Family	Rent
+341	Gujarat Properties (Gujarat.txt)	3 BHK Independent House	Surat Colony	Surat / Gujarat	Independent House / 3 BHK	1577	₹92.48 L	Semi-Furnished	3	Bachelors	Sale
+342	Gujarat Properties (Gujarat.txt)	1 BHK Apartment	Surat South	Surat / Gujarat	Apartment / 1 BHK	442	₹34.76 L	Fully-Furnished	2	Bachelors	Sale
+343	Gujarat Properties (Gujarat.txt)	2 BHK Apartment	Vadodara Sector 2	Vadodara / Gujarat	Apartment / 2 BHK	1010	₹64.72 L	Semi-Furnished	2	Bachelors	Sale
+344	Gujarat Properties (Gujarat.txt)	4 BHK Apartment	Rajkot Nagar	Rajkot / Gujarat	Apartment / 4 BHK	1969	₹99.38 L	Fully-Furnished	5	Family	Sale
+345	Gujarat Properties (Gujarat.txt)	3 BHK Villa	Surat Sector 2	Surat / Gujarat	Villa / 3 BHK	1619	₹24,500/month	Semi-Furnished	2	Family	Rent
+346	Gujarat Properties (Gujarat.txt)	2 BHK Villa	Rajkot Extension	Rajkot / Gujarat	Villa / 2 BHK	1333	₹19,200/month	Fully-Furnished	2	Family	Rent
+347	Gujarat Properties (Gujarat.txt)	1 BHK Apartment	Rajkot Nagar	Rajkot / Gujarat	Apartment / 1 BHK	507	₹11,700/month	Semi-Furnished	1	Any	Rent
+348	Gujarat Properties (Gujarat.txt)	1 BHK Apartment	Vadodara Residential Area	Vadodara / Gujarat	Apartment / 1 BHK	419	₹42.70 L	Unfurnished	1	Family	Sale
+349	Gujarat Properties (Gujarat.txt)	1 BHK Independent House	Vadodara Main Road	Vadodara / Gujarat	Independent House / 1 BHK	583	₹12,600/month	Unfurnished	1	Bachelors	Rent
+350	Gujarat Properties (Gujarat.txt)	2 BHK Builder Floor	Surat Colony	Surat / Gujarat	Builder Floor / 2 BHK	845	₹60.20 L	Semi-Furnished	1	Bachelors	Sale
+351	Gujarat Properties (Gujarat.txt)	1 BHK Apartment	Ahmedabad South	Ahmedabad / Gujarat	Apartment / 1 BHK	545	₹10,700/month	Semi-Furnished	1	Family	Rent
+352	Gujarat Properties (Gujarat.txt)	2 BHK Builder Floor	Rajkot Sector 3	Rajkot / Gujarat	Builder Floor / 2 BHK	1004	₹54.35 L	Semi-Furnished	1	Family	Sale
+353	Gujarat Properties (Gujarat.txt)	3 BHK Apartment	Rajkot Nagar	Rajkot / Gujarat	Apartment / 3 BHK	1287	₹79.66 L	Semi-Furnished	3	Bachelors	Sale
+354	Gujarat Properties (Gujarat.txt)	4 BHK Independent House	Rajkot East	Rajkot / Gujarat	Independent House / 4 BHK	2239	₹1.09 Cr	Unfurnished	4	Any	Sale
+355	Gujarat Properties (Gujarat.txt)	4 BHK Builder Floor	Rajkot Colony	Rajkot / Gujarat	Builder Floor / 4 BHK	1534	₹33,500/month	Semi-Furnished	3	Family	Rent
+356	Gujarat Properties (Gujarat.txt)	2 BHK Apartment	Surat Residential Area	Surat / Gujarat	Apartment / 2 BHK	805	₹14,600/month	Unfurnished	3	Family	Rent
+357	Gujarat Properties (Gujarat.txt)	2 BHK Apartment	Ahmedabad Sector 2	Ahmedabad / Gujarat	Apartment / 2 BHK	599	₹14,700/month	Fully-Furnished	2	Family	Rent
+358	Gujarat Properties (Gujarat.txt)	2 BHK Apartment	Vadodara Residential Area	Vadodara / Gujarat	Apartment / 2 BHK	829	₹55.71 L	Fully-Furnished	2	Any	Sale
+359	Gujarat Properties (Gujarat.txt)	1 BHK Apartment	Surat Residential Area	Surat / Gujarat	Apartment / 1 BHK	613	₹41.68 L	Fully-Furnished	1	Family	Sale
+360	Gujarat Properties (Gujarat.txt)	1 BHK Apartment	Vadodara West	Vadodara / Gujarat	Apartment / 1 BHK	588	₹9,100/month	Semi-Furnished	2	Family	Rent
+361	Gujarat Properties (Gujarat.txt)	3 BHK Independent House	Surat East	Surat / Gujarat	Independent House / 3 BHK	1812	₹20,500/month	Semi-Furnished	2	Family	Rent
+362	Gujarat Properties (Gujarat.txt)	2 BHK Builder Floor	Surat West	Surat / Gujarat	Builder Floor / 2 BHK	983	₹15,300/month	Fully-Furnished	3	Bachelors	Rent
+363	Gujarat Properties (Gujarat.txt)	2 BHK Apartment	Surat Colony	Surat / Gujarat	Apartment / 2 BHK	900	₹70.52 L	Unfurnished	3	Bachelors	Sale
+364	Gujarat Properties (Gujarat.txt)	1 BHK Apartment	Rajkot Colony	Rajkot / Gujarat	Apartment / 1 BHK	658	₹35.33 L	Semi-Furnished	1	Bachelors	Sale
+365	Gujarat Properties (Gujarat.txt)	3 BHK Independent House	Surat Residential Area	Surat / Gujarat	Independent House / 3 BHK	1635	₹25,800/month	Fully-Furnished	4	Family	Rent
+366	Gujarat Properties (Gujarat.txt)	5 BHK Apartment	Surat West	Surat / Gujarat	Apartment / 5 BHK	2014	₹32,600/month	Semi-Furnished	4	Family	Rent
+367	Gujarat Properties (Gujarat.txt)	3 BHK Independent House	Rajkot Sector 2	Rajkot / Gujarat	Independent House / 3 BHK	1624	₹79.65 L	Fully-Furnished	3	Family	Sale
+368	Gujarat Properties (Gujarat.txt)	3 BHK Apartment	Ahmedabad East	Ahmedabad / Gujarat	Apartment / 3 BHK	1370	₹80.96 L	Semi-Furnished	3	Bachelors	Sale
+369	Gujarat Properties (Gujarat.txt)	3 BHK Builder Floor	Surat East	Surat / Gujarat	Builder Floor / 3 BHK	1259	₹98.02 L	Semi-Furnished	3	Any	Sale
+370	Gujarat Properties (Gujarat.txt)	4 BHK Builder Floor	Ahmedabad Extension	Ahmedabad / Gujarat	Builder Floor / 4 BHK	1860	₹26,200/month	Fully-Furnished	4	Bachelors	Rent
+371	Gujarat Properties (Gujarat.txt)	1 BHK Villa	Surat Sector 3	Surat / Gujarat	Villa / 1 BHK	767	₹10,300/month	Fully-Furnished	1	Family	Rent
+372	Gujarat Properties (Gujarat.txt)	2 BHK Apartment	Ahmedabad Nagar	Ahmedabad / Gujarat	Apartment / 2 BHK	726	₹15,400/month	Semi-Furnished	2	Bachelors	Rent
+373	Gujarat Properties (Gujarat.txt)	2 BHK Apartment	Vadodara Central	Vadodara / Gujarat	Apartment / 2 BHK	918	₹16,300/month	Fully-Furnished	1	Family	Rent
+374	Gujarat Properties (Gujarat.txt)	4 BHK Villa	Vadodara Colony	Vadodara / Gujarat	Villa / 4 BHK	2701	₹1.10 Cr	Semi-Furnished	4	Any	Sale
+375	Gujarat Properties (Gujarat.txt)	3 BHK Apartment	Ahmedabad Sector 3	Ahmedabad / Gujarat	Apartment / 3 BHK	1491	₹87.46 L	Unfurnished	3	Family	Sale
+376	Gujarat Properties (Gujarat.txt)	4 BHK Villa	Rajkot Central	Rajkot / Gujarat	Villa / 4 BHK	2251	₹30,400/month	Semi-Furnished	4	Any	Rent
+377	Gujarat Properties (Gujarat.txt)	5 BHK Apartment	Rajkot West	Rajkot / Gujarat	Apartment / 5 BHK	2354	₹29,900/month	Unfurnished	4	Family	Rent
+378	Gujarat Properties (Gujarat.txt)	2 BHK Apartment	Ahmedabad Main Road	Ahmedabad / Gujarat	Apartment / 2 BHK	866	₹13,800/month	Semi-Furnished	1	Any	Rent
+379	Gujarat Properties (Gujarat.txt)	2 BHK Apartment	Vadodara Town Centre	Vadodara / Gujarat	Apartment / 2 BHK	812	₹65.36 L	Semi-Furnished	3	Family	Sale
+380	Gujarat Properties (Gujarat.txt)	1 BHK Studio	Surat Sector 1	Surat / Gujarat	Studio / 1 BHK	300	₹9,600/month	Fully-Furnished	1	Family	Rent
+381	Gujarat Properties (Gujarat.txt)	1 BHK Studio	Ahmedabad Town Centre	Ahmedabad / Gujarat	Studio / 1 BHK	412	₹35.66 L	Fully-Furnished	1	Family	Sale
+382	Gujarat Properties (Gujarat.txt)	5 BHK Villa	Vadodara West	Vadodara / Gujarat	Villa / 5 BHK	3802	₹1.68 Cr	Semi-Furnished	5	Family	Sale
+383	Gujarat Properties (Gujarat.txt)	4 BHK Apartment	Rajkot Main Road	Rajkot / Gujarat	Apartment / 4 BHK	1777	₹33,600/month	Semi-Furnished	4	Family	Rent
+384	Gujarat Properties (Gujarat.txt)	3 BHK Apartment	Surat Sector 2	Surat / Gujarat	Apartment / 3 BHK	1218	₹86.84 L	Fully-Furnished	3	Any	Sale
+385	Gujarat Properties (Gujarat.txt)	3 BHK Independent House	Vadodara Sector 3	Vadodara / Gujarat	Independent House / 3 BHK	1246	₹26,100/month	Fully-Furnished	4	Bachelors	Rent
+386	Gujarat Properties (Gujarat.txt)	3 BHK Apartment	Vadodara Town Centre	Vadodara / Gujarat	Apartment / 3 BHK	1213	₹18,800/month	Unfurnished	3	Family	Rent
+387	Gujarat Properties (Gujarat.txt)	2 BHK Independent House	Ahmedabad Sector 3	Ahmedabad / Gujarat	Independent House / 2 BHK	1178	₹68.22 L	Semi-Furnished	3	Family	Sale
+388	Gujarat Properties (Gujarat.txt)	3 BHK Apartment	Vadodara Colony	Vadodara / Gujarat	Apartment / 3 BHK	1470	₹1.02 Cr	Semi-Furnished	3	Any	Sale
+389	Gujarat Properties (Gujarat.txt)	2 BHK Apartment	Vadodara Central	Vadodara / Gujarat	Apartment / 2 BHK	1088	₹57.02 L	Unfurnished	2	Bachelors	Sale
+390	Gujarat Properties (Gujarat.txt)	3 BHK Apartment	Vadodara East	Vadodara / Gujarat	Apartment / 3 BHK	1412	₹95.88 L	Semi-Furnished	2	Any	Sale
+391	Gujarat Properties (Gujarat.txt)	3 BHK Apartment	Rajkot Sector 3	Rajkot / Gujarat	Apartment / 3 BHK	1019	₹18,300/month	Unfurnished	3	Bachelors	Rent
+392	Gujarat Properties (Gujarat.txt)	2 BHK Independent House	Vadodara Colony	Vadodara / Gujarat	Independent House / 2 BHK	1285	₹60.59 L	Semi-Furnished	2	Family	Sale
+393	Gujarat Properties (Gujarat.txt)	1 BHK Apartment	Vadodara Residential Area	Vadodara / Gujarat	Apartment / 1 BHK	472	₹11,000/month	Unfurnished	1	Family	Rent
+394	Gujarat Properties (Gujarat.txt)	2 BHK Independent House	Surat West	Surat / Gujarat	Independent House / 2 BHK	1176	₹64.62 L	Unfurnished	2	Family	Sale
+395	Gujarat Properties (Gujarat.txt)	2 BHK Independent House	Vadodara East	Vadodara / Gujarat	Independent House / 2 BHK	1211	₹58.29 L	Semi-Furnished	1	Bachelors	Sale
+396	Gujarat Properties (Gujarat.txt)	3 BHK Independent House	Surat Central	Surat / Gujarat	Independent House / 3 BHK	1819	₹29,000/month	Fully-Furnished	3	Family	Rent
+397	Gujarat Properties (Gujarat.txt)	2 BHK Apartment	Vadodara Main Road	Vadodara / Gujarat	Apartment / 2 BHK	803	₹71.10 L	Semi-Furnished	2	Any	Sale
+398	Gujarat Properties (Gujarat.txt)	1 BHK Studio	Rajkot West	Rajkot / Gujarat	Studio / 1 BHK	325	₹41.12 L	Fully-Furnished	1	Bachelors	Sale
+399	Gujarat Properties (Gujarat.txt)	3 BHK Apartment	Rajkot Nagar	Rajkot / Gujarat	Apartment / 3 BHK	1405	₹23,000/month	Fully-Furnished	3	Bachelors	Rent
+400	Gujarat Properties (Gujarat.txt)	3 BHK Villa	Vadodara North	Vadodara / Gujarat	Villa / 3 BHK	1777	₹29,400/month	Fully-Furnished	3	Family	Rent
+401	Gujarat Properties (Gujarat.txt)	3 BHK Apartment	Rajkot Central	Rajkot / Gujarat	Apartment / 3 BHK	1236	₹92.51 L	Semi-Furnished	3	Bachelors	Sale
+402	Gujarat Properties (Gujarat.txt)	2 BHK Apartment	Ahmedabad Town Centre	Ahmedabad / Gujarat	Apartment / 2 BHK	811	₹60.68 L	Semi-Furnished	2	Bachelors	Sale
+403	Gujarat Properties (Gujarat.txt)	2 BHK Apartment	Rajkot Extension	Rajkot / Gujarat	Apartment / 2 BHK	845	₹49.77 L	Semi-Furnished	3	Bachelors	Sale
+404	Gujarat Properties (Gujarat.txt)	3 BHK Independent House	Vadodara North	Vadodara / Gujarat	Independent House / 3 BHK	1233	₹81.42 L	Semi-Furnished	3	Family	Sale
+405	Gujarat Properties (Gujarat.txt)	4 BHK Apartment	Rajkot Sector 1	Rajkot / Gujarat	Apartment / 4 BHK	1642	₹33,800/month	Semi-Furnished	4	Bachelors	Rent
+406	Gujarat Properties (Gujarat.txt)	2 BHK Builder Floor	Ahmedabad Main Road	Ahmedabad / Gujarat	Builder Floor / 2 BHK	761	₹13,800/month	Semi-Furnished	2	Bachelors	Rent
+407	Gujarat Properties (Gujarat.txt)	4 BHK Apartment	Vadodara Sector 3	Vadodara / Gujarat	Apartment / 4 BHK	2383	₹27,700/month	Fully-Furnished	3	Any	Rent
+408	Gujarat Properties (Gujarat.txt)	2 BHK Apartment	Surat Main Road	Surat / Gujarat	Apartment / 2 BHK	794	₹69.82 L	Fully-Furnished	1	Bachelors	Sale
+409	Gujarat Properties (Gujarat.txt)	2 BHK Villa	Ahmedabad Central	Ahmedabad / Gujarat	Villa / 2 BHK	1181	₹16,800/month	Semi-Furnished	2	Family	Rent
+410	Gujarat Properties (Gujarat.txt)	1 BHK Apartment	Surat Colony	Surat / Gujarat	Apartment / 1 BHK	662	₹13,300/month	Unfurnished	1	Family	Rent
+411	Gujarat Properties (Gujarat.txt)	2 BHK Apartment	Vadodara South	Vadodara / Gujarat	Apartment / 2 BHK	1009	₹61.92 L	Semi-Furnished	3	Family	Sale
+412	Gujarat Properties (Gujarat.txt)	2 BHK Apartment	Ahmedabad East	Ahmedabad / Gujarat	Apartment / 2 BHK	750	₹13,600/month	Unfurnished	2	Family	Rent
+413	Gujarat Properties (Gujarat.txt)	3 BHK Independent House	Rajkot Colony	Rajkot / Gujarat	Independent House / 3 BHK	1468	₹27,500/month	Fully-Furnished	3	Bachelors	Rent
+414	Gujarat Properties (Gujarat.txt)	1 BHK Studio	Surat Extension	Surat / Gujarat	Studio / 1 BHK	394	₹41.14 L	Semi-Furnished	1	Bachelors	Sale
+415	Gujarat Properties (Gujarat.txt)	1 BHK Builder Floor	Vadodara Colony	Vadodara / Gujarat	Builder Floor / 1 BHK	614	₹12,800/month	Unfurnished	1	Family	Rent
+416	Gujarat Properties (Gujarat.txt)	2 BHK Builder Floor	Rajkot Heights	Rajkot / Gujarat	Builder Floor / 2 BHK	719	₹18,400/month	Unfurnished	2	Bachelors	Rent
+417	Gujarat Properties (Gujarat.txt)	1 BHK Builder Floor	Vadodara West	Vadodara / Gujarat	Builder Floor / 1 BHK	564	₹9,600/month	Unfurnished	2	Any	Rent
+418	Gujarat Properties (Gujarat.txt)	2 BHK Apartment	Rajkot Heights	Rajkot / Gujarat	Apartment / 2 BHK	827	₹64.17 L	Unfurnished	2	Bachelors	Sale
+419	Gujarat Properties (Gujarat.txt)	4 BHK Apartment	Surat Extension	Surat / Gujarat	Apartment / 4 BHK	1779	₹1.15 Cr	Fully-Furnished	4	Bachelors	Sale
+420	Gujarat Properties (Gujarat.txt)	3 BHK Independent House	Surat Sector 2	Surat / Gujarat	Independent House / 3 BHK	1341	₹27,600/month	Fully-Furnished	4	Family	Rent
+421	Gujarat Properties (Gujarat.txt)	2 BHK Villa	Vadodara Colony	Vadodara / Gujarat	Villa / 2 BHK	1154	₹53.10 L	Semi-Furnished	3	Bachelors	Sale
+422	Gujarat Properties (Gujarat.txt)	1 BHK Independent House	Vadodara Sector 1	Vadodara / Gujarat	Independent House / 1 BHK	650	₹11,800/month	Unfurnished	1	Any	Rent
+423	Gujarat Properties (Gujarat.txt)	2 BHK Builder Floor	Vadodara Central	Vadodara / Gujarat	Builder Floor / 2 BHK	847	₹15,100/month	Semi-Furnished	3	Family	Rent
+424	Gujarat Properties (Gujarat.txt)	1 BHK Apartment	Rajkot Main Road	Rajkot / Gujarat	Apartment / 1 BHK	443	₹41.96 L	Semi-Furnished	2	Family	Sale
+425	Gujarat Properties (Gujarat.txt)	4 BHK Independent House	Rajkot Town Centre	Rajkot / Gujarat	Independent House / 4 BHK	1830	₹1.16 Cr	Fully-Furnished	5	Bachelors	Sale
+426	Gujarat Properties (Gujarat.txt)	4 BHK Independent House	Rajkot West	Rajkot / Gujarat	Independent House / 4 BHK	2485	₹1.40 Cr	Fully-Furnished	5	Family	Sale
+427	Gujarat Properties (Gujarat.txt)	4 BHK Apartment	Surat Residential Area	Surat / Gujarat	Apartment / 4 BHK	1578	₹1.14 Cr	Semi-Furnished	4	Family	Sale
+428	Gujarat Properties (Gujarat.txt)	4 BHK Independent House	Surat South	Surat / Gujarat	Independent House / 4 BHK	1985	₹1.24 Cr	Semi-Furnished	4	Family	Sale
+429	Gujarat Properties (Gujarat.txt)	3 BHK Apartment	Vadodara East	Vadodara / Gujarat	Apartment / 3 BHK	1398	₹74.01 L	Unfurnished	4	Family	Sale
+430	Gujarat Properties (Gujarat.txt)	4 BHK Independent House	Surat Town Centre	Surat / Gujarat	Independent House / 4 BHK	2204	₹35,300/month	Unfurnished	4	Bachelors	Rent
+431	Gujarat Properties (Gujarat.txt)	1 BHK Apartment	Surat Sector 1	Surat / Gujarat	Apartment / 1 BHK	594	₹41.41 L	Semi-Furnished	1	Any	Sale
+432	Gujarat Properties (Gujarat.txt)	4 BHK Independent House	Surat West	Surat / Gujarat	Independent House / 4 BHK	2159	₹32,600/month	Semi-Furnished	4	Family	Rent
+433	Gujarat Properties (Gujarat.txt)	1 BHK Apartment	Surat Main Road	Surat / Gujarat	Apartment / 1 BHK	512	₹11,100/month	Unfurnished	1	Family	Rent
+434	Gujarat Properties (Gujarat.txt)	2 BHK Independent House	Vadodara Sector 1	Vadodara / Gujarat	Independent House / 2 BHK	1234	₹16,700/month	Fully-Furnished	2	Family	Rent
+435	Gujarat Properties (Gujarat.txt)	1 BHK Apartment	Ahmedabad Central	Ahmedabad / Gujarat	Apartment / 1 BHK	556	₹42.31 L	Unfurnished	2	Any	Sale
+436	Gujarat Properties (Gujarat.txt)	2 BHK Independent House	Rajkot Residential Area	Rajkot / Gujarat	Independent House / 2 BHK	1151	₹15,400/month	Unfurnished	2	Family	Rent
+437	Gujarat Properties (Gujarat.txt)	4 BHK Apartment	Ahmedabad Central	Ahmedabad / Gujarat	Apartment / 4 BHK	1742	₹29,300/month	Unfurnished	3	Family	Rent
+438	Gujarat Properties (Gujarat.txt)	1 BHK Builder Floor	Vadodara Sector 2	Vadodara / Gujarat	Builder Floor / 1 BHK	579	₹10,600/month	Semi-Furnished	1	Family	Rent
+439	Gujarat Properties (Gujarat.txt)	3 BHK Apartment	Vadodara Colony	Vadodara / Gujarat	Apartment / 3 BHK	1115	₹25,800/month	Fully-Furnished	3	Any	Rent
+440	Gujarat Properties (Gujarat.txt)	3 BHK Villa	Surat Nagar	Surat / Gujarat	Villa / 3 BHK	1761	₹1.01 Cr	Unfurnished	3	Family	Sale
+441	Gujarat Properties (Gujarat.txt)	1 BHK Studio	Ahmedabad North	Ahmedabad / Gujarat	Studio / 1 BHK	386	₹37.79 L	Unfurnished	1	Any	Sale
+442	Gujarat Properties (Gujarat.txt)	4 BHK Apartment	Vadodara Nagar	Vadodara / Gujarat	Apartment / 4 BHK	2040	₹1.35 Cr	Fully-Furnished	5	Bachelors	Sale
+443	Gujarat Properties (Gujarat.txt)	2 BHK Apartment	Vadodara East	Vadodara / Gujarat	Apartment / 2 BHK	1013	₹54.81 L	Semi-Furnished	2	Family	Sale
+444	Gujarat Properties (Gujarat.txt)	2 BHK Builder Floor	Vadodara Sector 1	Vadodara / Gujarat	Builder Floor / 2 BHK	741	₹57.67 L	Fully-Furnished	1	Bachelors	Sale
+445	Gujarat Properties (Gujarat.txt)	3 BHK Apartment	Ahmedabad West	Ahmedabad / Gujarat	Apartment / 3 BHK	1073	₹18,800/month	Semi-Furnished	3	Bachelors	Rent
+446	Gujarat Properties (Gujarat.txt)	3 BHK Builder Floor	Rajkot Sector 1	Rajkot / Gujarat	Builder Floor / 3 BHK	1083	₹65.89 L	Unfurnished	3	Family	Sale
+447	Gujarat Properties (Gujarat.txt)	3 BHK Apartment	Vadodara Town Centre	Vadodara / Gujarat	Apartment / 3 BHK	1361	₹86.30 L	Semi-Furnished	2	Family	Sale
+448	Gujarat Properties (Gujarat.txt)	3 BHK Apartment	Vadodara South	Vadodara / Gujarat	Apartment / 3 BHK	1436	₹77.01 L	Fully-Furnished	3	Any	Sale
+449	Gujarat Properties (Gujarat.txt)	1 BHK Studio	Vadodara West	Vadodara / Gujarat	Studio / 1 BHK	358	₹10,700/month	Unfurnished	1	Any	Rent
+450	Gujarat Properties (Gujarat.txt)	1 BHK Apartment	Surat Sector 1	Surat / Gujarat	Apartment / 1 BHK	532	₹9,300/month	Semi-Furnished	1	Family	Rent
+451	Gujarat Properties (Gujarat.txt)	3 BHK Apartment	Rajkot West	Rajkot / Gujarat	Apartment / 3 BHK	1270	₹72 L	Semi-Furnished	2	Family	Sale
+452	Gujarat Properties (Gujarat.txt)	3 BHK Apartment	Vadodara North	Vadodara / Gujarat	Apartment / 3 BHK	1778	₹96.82 L	Semi-Furnished	2	Any	Sale
+453	Gujarat Properties (Gujarat.txt)	2 BHK Apartment	Surat Sector 2	Surat / Gujarat	Apartment / 2 BHK	873	₹51.42 L	Unfurnished	1	Family	Sale
+454	Gujarat Properties (Gujarat.txt)	4 BHK Builder Floor	Rajkot Town Centre	Rajkot / Gujarat	Builder Floor / 4 BHK	1808	₹1.27 Cr	Unfurnished	4	Bachelors	Sale
+455	Gujarat Properties (Gujarat.txt)	3 BHK Apartment	Ahmedabad South	Ahmedabad / Gujarat	Apartment / 3 BHK	1259	₹22,000/month	Fully-Furnished	3	Family	Rent
+456	Gujarat Properties (Gujarat.txt)	1 BHK Studio	Ahmedabad Colony	Ahmedabad / Gujarat	Studio / 1 BHK	391	₹32.20 L	Fully-Furnished	1	Family	Sale
+457	Gujarat Properties (Gujarat.txt)	3 BHK Apartment	Vadodara Colony	Vadodara / Gujarat	Apartment / 3 BHK	1128	₹24,900/month	Unfurnished	2	Bachelors	Rent
+458	Gujarat Properties (Gujarat.txt)	2 BHK Apartment	Ahmedabad Town Centre	Ahmedabad / Gujarat	Apartment / 2 BHK	863	₹51.24 L	Fully-Furnished	3	Any	Sale
+459	Gujarat Properties (Gujarat.txt)	3 BHK Apartment	Vadodara Main Road	Vadodara / Gujarat	Apartment / 3 BHK	934	₹20,100/month	Semi-Furnished	3	Family	Rent
+460	Gujarat Properties (Gujarat.txt)	3 BHK Apartment	Vadodara Nagar	Vadodara / Gujarat	Apartment / 3 BHK	1142	₹75.93 L	Semi-Furnished	2	Any	Sale
+461	Gujarat Properties (Gujarat.txt)	1 BHK Apartment	Vadodara Sector 3	Vadodara / Gujarat	Apartment / 1 BHK	405	₹42.53 L	Unfurnished	1	Family	Sale
+462	Gujarat Properties (Gujarat.txt)	3 BHK Apartment	Ahmedabad Residential Area	Ahmedabad / Gujarat	Apartment / 3 BHK	1493	₹23,800/month	Semi-Furnished	3	Bachelors	Rent
+463	Gujarat Properties (Gujarat.txt)	2 BHK Apartment	Ahmedabad East	Ahmedabad / Gujarat	Apartment / 2 BHK	888	₹13,900/month	Semi-Furnished	1	Bachelors	Rent
+464	Gujarat Properties (Gujarat.txt)	3 BHK Apartment	Surat Main Road	Surat / Gujarat	Apartment / 3 BHK	1242	₹92.75 L	Fully-Furnished	3	Family	Sale
+465	Gujarat Properties (Gujarat.txt)	4 BHK Apartment	Vadodara East	Vadodara / Gujarat	Apartment / 4 BHK	1487	₹30,700/month	Semi-Furnished	4	Family	Rent
+466	Gujarat Properties (Gujarat.txt)	2 BHK Apartment	Surat North	Surat / Gujarat	Apartment / 2 BHK	975	₹15,700/month	Semi-Furnished	2	Bachelors	Rent
+467	Gujarat Properties (Gujarat.txt)	2 BHK Apartment	Surat Main Road	Surat / Gujarat	Apartment / 2 BHK	594	₹14,900/month	Semi-Furnished	3	Bachelors	Rent
+468	Gujarat Properties (Gujarat.txt)	3 BHK Apartment	Surat Sector 3	Surat / Gujarat	Apartment / 3 BHK	1125	₹21,100/month	Fully-Furnished	3	Any	Rent
+469	Gujarat Properties (Gujarat.txt)	2 BHK Apartment	Surat West	Surat / Gujarat	Apartment / 2 BHK	890	₹52.11 L	Semi-Furnished	2	Family	Sale
+470	Gujarat Properties (Gujarat.txt)	4 BHK Villa	Vadodara North	Vadodara / Gujarat	Villa / 4 BHK	2207	₹1.15 Cr	Unfurnished	4	Bachelors	Sale
+471	Gujarat Properties (Gujarat.txt)	3 BHK Apartment	Vadodara Town Centre	Vadodara / Gujarat	Apartment / 3 BHK	1207	₹92.15 L	Semi-Furnished	3	Family	Sale
+472	Gujarat Properties (Gujarat.txt)	2 BHK Builder Floor	Vadodara East	Vadodara / Gujarat	Builder Floor / 2 BHK	853	₹52.72 L	Unfurnished	2	Any	Sale
+473	Gujarat Properties (Gujarat.txt)	2 BHK Villa	Rajkot East	Rajkot / Gujarat	Villa / 2 BHK	1364	₹17,500/month	Semi-Furnished	1	Any	Rent
+474	Gujarat Properties (Gujarat.txt)	3 BHK Builder Floor	Rajkot Heights	Rajkot / Gujarat	Builder Floor / 3 BHK	1276	₹68.27 L	Unfurnished	3	Bachelors	Sale
+475	Gujarat Properties (Gujarat.txt)	2 BHK Independent House	Rajkot Nagar	Rajkot / Gujarat	Independent House / 2 BHK	866	₹52.41 L	Semi-Furnished	2	Family	Sale
+476	Gujarat Properties (Gujarat.txt)	2 BHK Apartment	Ahmedabad Colony	Ahmedabad / Gujarat	Apartment / 2 BHK	718	₹13,100/month	Unfurnished	2	Family	Rent
+477	Gujarat Properties (Gujarat.txt)	2 BHK Apartment	Ahmedabad Residential Area	Ahmedabad / Gujarat	Apartment / 2 BHK	728	₹14,700/month	Semi-Furnished	3	Bachelors	Rent
+478	Gujarat Properties (Gujarat.txt)	2 BHK Apartment	Surat Sector 3	Surat / Gujarat	Apartment / 2 BHK	861	₹14,700/month	Semi-Furnished	2	Family	Rent
+479	Gujarat Properties (Gujarat.txt)	4 BHK Builder Floor	Vadodara Colony	Vadodara / Gujarat	Builder Floor / 4 BHK	1901	₹1.04 Cr	Semi-Furnished	5	Bachelors	Sale
+480	Gujarat Properties (Gujarat.txt)	2 BHK Independent House	Ahmedabad Sector 3	Ahmedabad / Gujarat	Independent House / 2 BHK	866	₹18,200/month	Semi-Furnished	2	Family	Rent
+481	Gujarat Properties (Gujarat.txt)	1 BHK Independent House	Rajkot Town Centre	Rajkot / Gujarat	Independent House / 1 BHK	636	₹11,900/month	Fully-Furnished	1	Family	Rent
+482	Gujarat Properties (Gujarat.txt)	2 BHK Independent House	Surat Sector 3	Surat / Gujarat	Independent House / 2 BHK	1242	₹58.56 L	Semi-Furnished	2	Any	Sale
+483	Gujarat Properties (Gujarat.txt)	3 BHK Apartment	Vadodara Main Road	Vadodara / Gujarat	Apartment / 3 BHK	1411	₹24,500/month	Unfurnished	3	Family	Rent
+484	Gujarat Properties (Gujarat.txt)	4 BHK Builder Floor	Rajkot Sector 2	Rajkot / Gujarat	Builder Floor / 4 BHK	1728	₹86.99 L	Semi-Furnished	4	Bachelors	Sale
+485	Gujarat Properties (Gujarat.txt)	1 BHK Studio	Rajkot Heights	Rajkot / Gujarat	Studio / 1 BHK	354	₹10,500/month	Semi-Furnished	1	Family	Rent
+486	Gujarat Properties (Gujarat.txt)	1 BHK Studio	Surat Sector 3	Surat / Gujarat	Studio / 1 BHK	334	₹41.27 L	Unfurnished	2	Bachelors	Sale
+487	Gujarat Properties (Gujarat.txt)	1 BHK Apartment	Ahmedabad South	Ahmedabad / Gujarat	Apartment / 1 BHK	574	₹41.70 L	Fully-Furnished	1	Bachelors	Sale
+488	Gujarat Properties (Gujarat.txt)	1 BHK Independent House	Ahmedabad South	Ahmedabad / Gujarat	Independent House / 1 BHK	644	₹11,400/month	Fully-Furnished	1	Family	Rent
+489	Gujarat Properties (Gujarat.txt)	2 BHK Independent House	Rajkot Heights	Rajkot / Gujarat	Independent House / 2 BHK	1064	₹20,600/month	Unfurnished	3	Bachelors	Rent
+490	Gujarat Properties (Gujarat.txt)	2 BHK Independent House	Rajkot Residential Area	Rajkot / Gujarat	Independent House / 2 BHK	844	₹69.28 L	Semi-Furnished	2	Any	Sale
+491	Gujarat Properties (Gujarat.txt)	2 BHK Builder Floor	Vadodara Heights	Vadodara / Gujarat	Builder Floor / 2 BHK	1053	₹67.13 L	Fully-Furnished	1	Bachelors	Sale
+492	Gujarat Properties (Gujarat.txt)	5 BHK Apartment	Vadodara Colony	Vadodara / Gujarat	Apartment / 5 BHK	1799	₹1.09 Cr	Semi-Furnished	4	Bachelors	Sale
+493	Gujarat Properties (Gujarat.txt)	4 BHK Independent House	Vadodara Sector 3	Vadodara / Gujarat	Independent House / 4 BHK	2043	₹1.33 Cr	Semi-Furnished	5	Family	Sale
+494	Gujarat Properties (Gujarat.txt)	1 BHK Apartment	Surat South	Surat / Gujarat	Apartment / 1 BHK	459	₹9,200/month	Fully-Furnished	1	Bachelors	Rent
+495	Gujarat Properties (Gujarat.txt)	4 BHK Apartment	Surat Extension	Surat / Gujarat	Apartment / 4 BHK	1676	₹1.09 Cr	Fully-Furnished	4	Family	Sale
+496	Gujarat Properties (Gujarat.txt)	2 BHK Apartment	Rajkot West	Rajkot / Gujarat	Apartment / 2 BHK	1018	₹75.44 L	Semi-Furnished	2	Any	Sale
+497	Gujarat Properties (Gujarat.txt)	2 BHK Apartment	Surat Colony	Surat / Gujarat	Apartment / 2 BHK	902	₹68.97 L	Semi-Furnished	3	Family	Sale
+498	Gujarat Properties (Gujarat.txt)	2 BHK Independent House	Surat Sector 1	Surat / Gujarat	Independent House / 2 BHK	982	₹60.84 L	Unfurnished	2	Family	Sale
+499	Gujarat Properties (Gujarat.txt)	5 BHK Apartment	Ahmedabad Central	Ahmedabad / Gujarat	Apartment / 5 BHK	2245	₹1.50 Cr	Unfurnished	5	Family	Sale
+500	Gujarat Properties (Gujarat.txt)	3 BHK Villa	Rajkot Sector 1	Rajkot / Gujarat	Villa / 3 BHK	1927	₹1.12 Cr	Semi-Furnished	3	Bachelors	Sale
+501	Gujarat Properties (Gujarat.txt)	1 BHK Apartment	Rajkot Central	Rajkot / Gujarat	Apartment / 1 BHK	590	₹32.76 L	Semi-Furnished	1	Family	Sale
+502	Gujarat Properties (Gujarat.txt)	2 BHK Villa	Vadodara Colony	Vadodara / Gujarat	Villa / 2 BHK	1200	₹58.65 L	Unfurnished	2	Family	Sale
+503	Gujarat Properties (Gujarat.txt)	4 BHK Villa	Vadodara West	Vadodara / Gujarat	Villa / 4 BHK	2089	₹1.25 Cr	Semi-Furnished	5	Family	Sale
+504	Gujarat Properties (Gujarat.txt)	2 BHK Villa	Vadodara West	Vadodara / Gujarat	Villa / 2 BHK	1069	₹20,000/month	Fully-Furnished	2	Family	Rent
+505	Gujarat Properties (Gujarat.txt)	3 BHK Independent House	Vadodara Town Centre	Vadodara / Gujarat	Independent House / 3 BHK	1425	₹26,000/month	Semi-Furnished	3	Any	Rent
+506	Gujarat Properties (Gujarat.txt)	3 BHK Apartment	Ahmedabad North	Ahmedabad / Gujarat	Apartment / 3 BHK	1187	₹25,700/month	Semi-Furnished	2	Bachelors	Rent
+507	Gujarat Properties (Gujarat.txt)	2 BHK Apartment	Ahmedabad Sector 3	Ahmedabad / Gujarat	Apartment / 2 BHK	956	₹20,400/month	Semi-Furnished	2	Family	Rent
+508	Gujarat Properties (Gujarat.txt)	4 BHK Builder Floor	Rajkot Sector 3	Rajkot / Gujarat	Builder Floor / 4 BHK	1605	₹32,500/month	Semi-Furnished	4	Bachelors	Rent
+509	Gujarat Properties (Gujarat.txt)	3 BHK Apartment	Surat Town Centre	Surat / Gujarat	Apartment / 3 BHK	1039	₹67.84 L	Semi-Furnished	4	Bachelors	Sale
+510	Gujarat Properties (Gujarat.txt)	4 BHK Apartment	Rajkot West	Rajkot / Gujarat	Apartment / 4 BHK	1606	₹1.25 Cr	Semi-Furnished	5	Bachelors	Sale
+511	Gujarat Properties (Gujarat.txt)	2 BHK Builder Floor	Vadodara South	Vadodara / Gujarat	Builder Floor / 2 BHK	1071	₹19,000/month	Semi-Furnished	2	Bachelors	Rent
+512	Gujarat Properties (Gujarat.txt)	4 BHK Apartment	Surat Sector 2	Surat / Gujarat	Apartment / 4 BHK	1555	₹93.83 L	Fully-Furnished	4	Family	Sale
+513	Gujarat Properties (Gujarat.txt)	2 BHK Apartment	Ahmedabad Central	Ahmedabad / Gujarat	Apartment / 2 BHK	856	₹60.11 L	Semi-Furnished	2	Family	Sale
+514	Gujarat Properties (Gujarat.txt)	2 BHK Builder Floor	Rajkot North	Rajkot / Gujarat	Builder Floor / 2 BHK	906	₹57.86 L	Unfurnished	1	Bachelors	Sale
+515	Gujarat Properties (Gujarat.txt)	2 BHK Builder Floor	Ahmedabad Heights	Ahmedabad / Gujarat	Builder Floor / 2 BHK	807	₹14,000/month	Fully-Furnished	2	Family	Rent
+516	Gujarat Properties (Gujarat.txt)	4 BHK Builder Floor	Vadodara Heights	Vadodara / Gujarat	Builder Floor / 4 BHK	1712	₹1.10 Cr	Unfurnished	4	Bachelors	Sale
+517	Gujarat Properties (Gujarat.txt)	2 BHK Builder Floor	Vadodara Heights	Vadodara / Gujarat	Builder Floor / 2 BHK	873	₹49.65 L	Semi-Furnished	3	Bachelors	Sale
+518	Gujarat Properties (Gujarat.txt)	4 BHK Builder Floor	Vadodara South	Vadodara / Gujarat	Builder Floor / 4 BHK	1958	₹29,500/month	Semi-Furnished	4	Family	Rent
+519	Gujarat Properties (Gujarat.txt)	3 BHK Independent House	Rajkot Sector 2	Rajkot / Gujarat	Independent House / 3 BHK	1540	₹71.91 L	Fully-Furnished	3	Family	Sale
+520	Gujarat Properties (Gujarat.txt)	3 BHK Apartment	Vadodara North	Vadodara / Gujarat	Apartment / 3 BHK	1290	₹74.89 L	Semi-Furnished	4	Family	Sale
+521	Gujarat Properties (Gujarat.txt)	1 BHK Studio	Surat Sector 3	Surat / Gujarat	Studio / 1 BHK	428	₹43.62 L	Fully-Furnished	1	Bachelors	Sale
+522	Gujarat Properties (Gujarat.txt)	2 BHK Builder Floor	Rajkot Extension	Rajkot / Gujarat	Builder Floor / 2 BHK	735	₹65.61 L	Unfurnished	2	Family	Sale
+523	Gujarat Properties (Gujarat.txt)	1 BHK Apartment	Vadodara Residential Area	Vadodara / Gujarat	Apartment / 1 BHK	573	₹13,200/month	Fully-Furnished	1	Bachelors	Rent
+524	Gujarat Properties (Gujarat.txt)	2 BHK Apartment	Vadodara Central	Vadodara / Gujarat	Apartment / 2 BHK	854	₹13,500/month	Unfurnished	1	Any	Rent
+525	Gujarat Properties (Gujarat.txt)	2 BHK Apartment	Rajkot Extension	Rajkot / Gujarat	Apartment / 2 BHK	719	₹65.41 L	Fully-Furnished	3	Family	Sale
+526	Gujarat Properties (Gujarat.txt)	4 BHK Apartment	Surat Town Centre	Surat / Gujarat	Apartment / 4 BHK	1851	₹1.20 Cr	Semi-Furnished	4	Family	Sale
+527	Gujarat Properties (Gujarat.txt)	3 BHK Independent House	Ahmedabad West	Ahmedabad / Gujarat	Independent House / 3 BHK	1888	₹1.10 Cr	Semi-Furnished	4	Family	Sale
+528	Gujarat Properties (Gujarat.txt)	1 BHK Studio	Surat Sector 2	Surat / Gujarat	Studio / 1 BHK	303	₹39.24 L	Fully-Furnished	1	Any	Sale
+529	Gujarat Properties (Gujarat.txt)	3 BHK Independent House	Vadodara East	Vadodara / Gujarat	Independent House / 3 BHK	1831	₹27,500/month	Unfurnished	3	Any	Rent
+530	Gujarat Properties (Gujarat.txt)	2 BHK Builder Floor	Vadodara Sector 2	Vadodara / Gujarat	Builder Floor / 2 BHK	808	₹52.52 L	Fully-Furnished	2	Family	Sale
+531	Gujarat Properties (Gujarat.txt)	3 BHK Apartment	Ahmedabad East	Ahmedabad / Gujarat	Apartment / 3 BHK	819	₹62.88 L	Semi-Furnished	3	Bachelors	Sale
+532	Gujarat Properties (Gujarat.txt)	2 BHK Independent House	Rajkot Colony	Rajkot / Gujarat	Independent House / 2 BHK	1082	₹55.88 L	Semi-Furnished	2	Family	Sale
+533	Gujarat Properties (Gujarat.txt)	5 BHK Apartment	Ahmedabad Extension	Ahmedabad / Gujarat	Apartment / 5 BHK	2853	₹1.53 Cr	Semi-Furnished	5	Bachelors	Sale
+534	Gujarat Properties (Gujarat.txt)	2 BHK Apartment	Rajkot Nagar	Rajkot / Gujarat	Apartment / 2 BHK	1094	₹64.56 L	Semi-Furnished	1	Family	Sale
+535	Gujarat Properties (Gujarat.txt)	2 BHK Independent House	Ahmedabad Sector 1	Ahmedabad / Gujarat	Independent House / 2 BHK	934	₹57.74 L	Semi-Furnished	1	Bachelors	Sale
+536	Gujarat Properties (Gujarat.txt)	1 BHK Independent House	Rajkot West	Rajkot / Gujarat	Independent House / 1 BHK	628	₹44.67 L	Fully-Furnished	1	Family	Sale
+537	Gujarat Properties (Gujarat.txt)	2 BHK Independent House	Vadodara Sector 1	Vadodara / Gujarat	Independent House / 2 BHK	1045	₹58.12 L	Semi-Furnished	1	Any	Sale
+538	Gujarat Properties (Gujarat.txt)	4 BHK Apartment	Rajkot Town Centre	Rajkot / Gujarat	Apartment / 4 BHK	1799	₹96.64 L	Fully-Furnished	5	Bachelors	Sale
+539	Gujarat Properties (Gujarat.txt)	3 BHK Apartment	Ahmedabad Town Centre	Ahmedabad / Gujarat	Apartment / 3 BHK	918	₹84.94 L	Semi-Furnished	2	Any	Sale
+540	Gujarat Properties (Gujarat.txt)	2 BHK Apartment	Rajkot East	Rajkot / Gujarat	Apartment / 2 BHK	865	₹54.18 L	Semi-Furnished	2	Any	Sale
+541	Gujarat Properties (Gujarat.txt)	5 BHK Independent House	Surat Town Centre	Surat / Gujarat	Independent House / 5 BHK	3277	₹45,600/month	Unfurnished	5	Family	Rent
+542	Gujarat Properties (Gujarat.txt)	2 BHK Apartment	Vadodara West	Vadodara / Gujarat	Apartment / 2 BHK	822	₹63.66 L	Semi-Furnished	2	Family	Sale
+543	Gujarat Properties (Gujarat.txt)	2 BHK Apartment	Ahmedabad East	Ahmedabad / Gujarat	Apartment / 2 BHK	867	₹17,200/month	Fully-Furnished	2	Bachelors	Rent
+544	Gujarat Properties (Gujarat.txt)	5 BHK Apartment	Ahmedabad Sector 3	Ahmedabad / Gujarat	Apartment / 5 BHK	2200	₹35,400/month	Unfurnished	5	Bachelors	Rent
+545	Gujarat Properties (Gujarat.txt)	2 BHK Builder Floor	Ahmedabad Sector 2	Ahmedabad / Gujarat	Builder Floor / 2 BHK	838	₹16,500/month	Semi-Furnished	2	Bachelors	Rent
+546	Gujarat Properties (Gujarat.txt)	2 BHK Apartment	Surat Central	Surat / Gujarat	Apartment / 2 BHK	922	₹50.34 L	Unfurnished	2	Any	Sale
+547	Gujarat Properties (Gujarat.txt)	2 BHK Apartment	Surat Town Centre	Surat / Gujarat	Apartment / 2 BHK	1013	₹65.90 L	Fully-Furnished	2	Family	Sale
+548	Gujarat Properties (Gujarat.txt)	4 BHK Independent House	Vadodara East	Vadodara / Gujarat	Independent House / 4 BHK	1321	₹1.02 Cr	Semi-Furnished	4	Any	Sale
+549	Gujarat Properties (Gujarat.txt)	2 BHK Apartment	Ahmedabad Sector 3	Ahmedabad / Gujarat	Apartment / 2 BHK	918	₹18,900/month	Unfurnished	1	Bachelors	Rent
+550	Gujarat Properties (Gujarat.txt)	3 BHK Builder Floor	Surat Extension	Surat / Gujarat	Builder Floor / 3 BHK	1234	₹25,000/month	Semi-Furnished	3	Any	Rent
+551	Gujarat Properties (Gujarat.txt)	3 BHK Apartment	Vadodara Nagar	Vadodara / Gujarat	Apartment / 3 BHK	1215	₹25,100/month	Fully-Furnished	4	Bachelors	Rent
+552	Gujarat Properties (Gujarat.txt)	4 BHK Apartment	Rajkot Town Centre	Rajkot / Gujarat	Apartment / 4 BHK	1366	₹89.50 L	Fully-Furnished	4	Family	Sale
+553	Gujarat Properties (Gujarat.txt)	4 BHK Apartment	Rajkot West	Rajkot / Gujarat	Apartment / 4 BHK	1400	₹87.66 L	Semi-Furnished	4	Family	Sale
+554	Gujarat Properties (Gujarat.txt)	3 BHK Apartment	Vadodara East	Vadodara / Gujarat	Apartment / 3 BHK	1391	₹23,700/month	Semi-Furnished	2	Bachelors	Rent
+555	Gujarat Properties (Gujarat.txt)	2 BHK Villa	Ahmedabad Sector 1	Ahmedabad / Gujarat	Villa / 2 BHK	948	₹14,900/month	Unfurnished	2	Family	Rent
+556	Gujarat Properties (Gujarat.txt)	1 BHK Builder Floor	Rajkot Town Centre	Rajkot / Gujarat	Builder Floor / 1 BHK	554	₹12,600/month	Semi-Furnished	1	Bachelors	Rent
+557	Gujarat Properties (Gujarat.txt)	3 BHK Apartment	Surat Nagar	Surat / Gujarat	Apartment / 3 BHK	1357	₹24,100/month	Unfurnished	3	Any	Rent
+558	Gujarat Properties (Gujarat.txt)	2 BHK Villa	Vadodara South	Vadodara / Gujarat	Villa / 2 BHK	939	₹59.22 L	Unfurnished	1	Bachelors	Sale
+559	Gujarat Properties (Gujarat.txt)	3 BHK Apartment	Vadodara Extension	Vadodara / Gujarat	Apartment / 3 BHK	1102	₹92.19 L	Unfurnished	4	Family	Sale
+560	Gujarat Properties (Gujarat.txt)	2 BHK Apartment	Rajkot North	Rajkot / Gujarat	Apartment / 2 BHK	803	₹14,300/month	Fully-Furnished	3	Bachelors	Rent
+561	Gujarat Properties (Gujarat.txt)	2 BHK Apartment	Vadodara Sector 1	Vadodara / Gujarat	Apartment / 2 BHK	934	₹64.56 L	Semi-Furnished	2	Any	Sale
+562	Gujarat Properties (Gujarat.txt)	4 BHK Apartment	Vadodara Nagar	Vadodara / Gujarat	Apartment / 4 BHK	2063	₹1.19 Cr	Fully-Furnished	4	Bachelors	Sale
+563	Gujarat Properties (Gujarat.txt)	5 BHK Independent House	Ahmedabad Central	Ahmedabad / Gujarat	Independent House / 5 BHK	2901	₹36,200/month	Unfurnished	5	Family	Rent
+564	Gujarat Properties (Gujarat.txt)	2 BHK Independent House	Vadodara Sector 1	Vadodara / Gujarat	Independent House / 2 BHK	1164	₹55.96 L	Semi-Furnished	2	Family	Sale
+565	Gujarat Properties (Gujarat.txt)	1 BHK Apartment	Ahmedabad Residential Area	Ahmedabad / Gujarat	Apartment / 1 BHK	597	₹40.45 L	Semi-Furnished	2	Bachelors	Sale
+566	Gujarat Properties (Gujarat.txt)	2 BHK Apartment	Ahmedabad Central	Ahmedabad / Gujarat	Apartment / 2 BHK	996	₹17,200/month	Fully-Furnished	2	Any	Rent
+567	Gujarat Properties (Gujarat.txt)	2 BHK Independent House	Ahmedabad Heights	Ahmedabad / Gujarat	Independent House / 2 BHK	839	₹15,900/month	Fully-Furnished	1	Bachelors	Rent
+568	Gujarat Properties (Gujarat.txt)	4 BHK Apartment	Vadodara South	Vadodara / Gujarat	Apartment / 4 BHK	1626	₹93.77 L	Fully-Furnished	4	Family	Sale
+569	Gujarat Properties (Gujarat.txt)	3 BHK Apartment	Rajkot Town Centre	Rajkot / Gujarat	Apartment / 3 BHK	928	₹89.53 L	Fully-Furnished	4	Family	Sale
+570	Gujarat Properties (Gujarat.txt)	4 BHK Apartment	Surat Main Road	Surat / Gujarat	Apartment / 4 BHK	1530	₹28,700/month	Semi-Furnished	5	Bachelors	Rent
+571	Gujarat Properties (Gujarat.txt)	1 BHK Builder Floor	Vadodara Sector 2	Vadodara / Gujarat	Builder Floor / 1 BHK	655	₹10,800/month	Unfurnished	1	Any	Rent
+572	Gujarat Properties (Gujarat.txt)	3 BHK Apartment	Surat Central	Surat / Gujarat	Apartment / 3 BHK	1468	₹24,300/month	Fully-Furnished	3	Family	Rent
+573	Gujarat Properties (Gujarat.txt)	3 BHK Villa	Surat East	Surat / Gujarat	Villa / 3 BHK	2119	₹23,800/month	Semi-Furnished	3	Family	Rent
+574	Gujarat Properties (Gujarat.txt)	3 BHK Apartment	Ahmedabad Residential Area	Ahmedabad / Gujarat	Apartment / 3 BHK	887	₹74.07 L	Fully-Furnished	3	Any	Sale
+575	Gujarat Properties (Gujarat.txt)	2 BHK Independent House	Rajkot Sector 2	Rajkot / Gujarat	Independent House / 2 BHK	1137	₹71.07 L	Fully-Furnished	2	Bachelors	Sale
+576	Gujarat Properties (Gujarat.txt)	1 BHK Apartment	Vadodara Sector 2	Vadodara / Gujarat	Apartment / 1 BHK	447	₹37.04 L	Semi-Furnished	1	Any	Sale
+577	Gujarat Properties (Gujarat.txt)	3 BHK Independent House	Ahmedabad Main Road	Ahmedabad / Gujarat	Independent House / 3 BHK	1694	₹21,400/month	Unfurnished	4	Family	Rent
+578	Gujarat Properties (Gujarat.txt)	4 BHK Apartment	Surat Colony	Surat / Gujarat	Apartment / 4 BHK	1918	₹1.08 Cr	Semi-Furnished	4	Bachelors	Sale
+579	Gujarat Properties (Gujarat.txt)	2 BHK Independent House	Ahmedabad Colony	Ahmedabad / Gujarat	Independent House / 2 BHK	1047	₹19,600/month	Semi-Furnished	2	Family	Rent
+580	Gujarat Properties (Gujarat.txt)	2 BHK Apartment	Rajkot South	Rajkot / Gujarat	Apartment / 2 BHK	806	₹59.91 L	Semi-Furnished	2	Family	Sale
+581	Gujarat Properties (Gujarat.txt)	3 BHK Villa	Rajkot Sector 1	Rajkot / Gujarat	Villa / 3 BHK	1509	₹84.62 L	Fully-Furnished	3	Any	Sale
+582	Gujarat Properties (Gujarat.txt)	2 BHK Builder Floor	Surat Heights	Surat / Gujarat	Builder Floor / 2 BHK	928	₹61.82 L	Fully-Furnished	1	Family	Sale
+583	Gujarat Properties (Gujarat.txt)	1 BHK Villa	Ahmedabad Town Centre	Ahmedabad / Gujarat	Villa / 1 BHK	671	₹45.28 L	Semi-Furnished	1	Any	Sale
+584	Gujarat Properties (Gujarat.txt)	3 BHK Builder Floor	Vadodara Central	Vadodara / Gujarat	Builder Floor / 3 BHK	1197	₹71.64 L	Fully-Furnished	2	Family	Sale
+585	Gujarat Properties (Gujarat.txt)	2 BHK Independent House	Ahmedabad West	Ahmedabad / Gujarat	Independent House / 2 BHK	1007	₹67.10 L	Semi-Furnished	3	Any	Sale
+586	Gujarat Properties (Gujarat.txt)	2 BHK Apartment	Rajkot Heights	Rajkot / Gujarat	Apartment / 2 BHK	836	₹17,400/month	Unfurnished	3	Bachelors	Rent
+587	Gujarat Properties (Gujarat.txt)	3 BHK Apartment	Rajkot Extension	Rajkot / Gujarat	Apartment / 3 BHK	1092	₹76.66 L	Semi-Furnished	3	Family	Sale
+588	Gujarat Properties (Gujarat.txt)	2 BHK Apartment	Vadodara Heights	Vadodara / Gujarat	Apartment / 2 BHK	857	₹19,000/month	Unfurnished	2	Family	Rent
+589	Gujarat Properties (Gujarat.txt)	2 BHK Builder Floor	Rajkot Main Road	Rajkot / Gujarat	Builder Floor / 2 BHK	1054	₹60.92 L	Fully-Furnished	2	Any	Sale
+590	Gujarat Properties (Gujarat.txt)	3 BHK Independent House	Rajkot Town Centre	Rajkot / Gujarat	Independent House / 3 BHK	1629	₹99.16 L	Unfurnished	4	Any	Sale
+591	Gujarat Properties (Gujarat.txt)	3 BHK Independent House	Rajkot Sector 3	Rajkot / Gujarat	Independent House / 3 BHK	1272	₹26,300/month	Semi-Furnished	3	Bachelors	Rent
+592	Gujarat Properties (Gujarat.txt)	3 BHK Apartment	Rajkot North	Rajkot / Gujarat	Apartment / 3 BHK	864	₹73.07 L	Semi-Furnished	2	Bachelors	Sale
+593	Gujarat Properties (Gujarat.txt)	2 BHK Apartment	Vadodara North	Vadodara / Gujarat	Apartment / 2 BHK	808	₹49.05 L	Semi-Furnished	2	Family	Sale
+594	Gujarat Properties (Gujarat.txt)	3 BHK Apartment	Vadodara South	Vadodara / Gujarat	Apartment / 3 BHK	1500	₹26,400/month	Fully-Furnished	2	Family	Rent
+595	Gujarat Properties (Gujarat.txt)	3 BHK Apartment	Rajkot Sector 1	Rajkot / Gujarat	Apartment / 3 BHK	1374	₹71.09 L	Fully-Furnished	4	Bachelors	Sale
+596	Gujarat Properties (Gujarat.txt)	2 BHK Apartment	Surat Town Centre	Surat / Gujarat	Apartment / 2 BHK	655	₹48.85 L	Unfurnished	2	Any	Sale
+597	Gujarat Properties (Gujarat.txt)	3 BHK Apartment	Surat Residential Area	Surat / Gujarat	Apartment / 3 BHK	1040	₹22,200/month	Unfurnished	3	Any	Rent
+598	Gujarat Properties (Gujarat.txt)	3 BHK Apartment	Rajkot East	Rajkot / Gujarat	Apartment / 3 BHK	1176	₹82 L	Unfurnished	2	Family	Sale
+599	Gujarat Properties (Gujarat.txt)	3 BHK Independent House	Vadodara Sector 3	Vadodara / Gujarat	Independent House / 3 BHK	1551	₹88.71 L	Unfurnished	3	Any	Sale
+600	Gujarat Properties (Gujarat.txt)	2 BHK Apartment	Surat Sector 2	Surat / Gujarat	Apartment / 2 BHK	954	₹18,200/month	Semi-Furnished	2	Family	Rent
+601	Gujarat Properties (Gujarat.txt)	3 BHK Independent House	Vadodara Sector 2	Vadodara / Gujarat	Independent House / 3 BHK	1630	₹86.23 L	Semi-Furnished	4	Any	Sale
+602	Gujarat Properties (Gujarat.txt)	3 BHK Builder Floor	Ahmedabad South	Ahmedabad / Gujarat	Builder Floor / 3 BHK	1140	₹89.26 L	Semi-Furnished	3	Bachelors	Sale
+603	Gujarat Properties (Gujarat.txt)	1 BHK Apartment	Rajkot West	Rajkot / Gujarat	Apartment / 1 BHK	509	₹9,200/month	Semi-Furnished	1	Any	Rent
+604	Gujarat Properties (Gujarat.txt)	2 BHK Apartment	Ahmedabad South	Ahmedabad / Gujarat	Apartment / 2 BHK	740	₹66.65 L	Fully-Furnished	3	Family	Sale
+605	Gujarat Properties (Gujarat.txt)	1 BHK Independent House	Surat Residential Area	Surat / Gujarat	Independent House / 1 BHK	492	₹43.84 L	Unfurnished	1	Family	Sale
+606	Gujarat Properties (Gujarat.txt)	4 BHK Apartment	Vadodara Colony	Vadodara / Gujarat	Apartment / 4 BHK	1443	₹1.09 Cr	Semi-Furnished	3	Bachelors	Sale
+607	Gujarat Properties (Gujarat.txt)	2 BHK Apartment	Ahmedabad Main Road	Ahmedabad / Gujarat	Apartment / 2 BHK	870	₹60.92 L	Semi-Furnished	1	Any	Sale
+608	Gujarat Properties (Gujarat.txt)	1 BHK Apartment	Vadodara East	Vadodara / Gujarat	Apartment / 1 BHK	622	₹40.34 L	Unfurnished	2	Any	Sale
+609	Gujarat Properties (Gujarat.txt)	3 BHK Apartment	Ahmedabad South	Ahmedabad / Gujarat	Apartment / 3 BHK	843	₹91.76 L	Fully-Furnished	2	Family	Sale
+610	Gujarat Properties (Gujarat.txt)	3 BHK Apartment	Surat Residential Area	Surat / Gujarat	Apartment / 3 BHK	1323	₹80.01 L	Semi-Furnished	2	Family	Sale
+611	Gujarat Properties (Gujarat.txt)	1 BHK Independent House	Surat Extension	Surat / Gujarat	Independent House / 1 BHK	739	₹40.37 L	Semi-Furnished	1	Bachelors	Sale
+612	Gujarat Properties (Gujarat.txt)	3 BHK Independent House	Ahmedabad Colony	Ahmedabad / Gujarat	Independent House / 3 BHK	1905	₹1.02 Cr	Fully-Furnished	3	Bachelors	Sale
+613	Gujarat Properties (Gujarat.txt)	3 BHK Independent House	Rajkot Nagar	Rajkot / Gujarat	Independent House / 3 BHK	1317	₹24,100/month	Fully-Furnished	3	Family	Rent
+614	Gujarat Properties (Gujarat.txt)	2 BHK Independent House	Vadodara Sector 3	Vadodara / Gujarat	Independent House / 2 BHK	1237	₹16,600/month	Semi-Furnished	1	Family	Rent
+615	Gujarat Properties (Gujarat.txt)	2 BHK Independent House	Surat West	Surat / Gujarat	Independent House / 2 BHK	977	₹64.99 L	Semi-Furnished	2	Any	Sale
+616	Gujarat Properties (Gujarat.txt)	1 BHK Studio	Rajkot Colony	Rajkot / Gujarat	Studio / 1 BHK	379	₹11,100/month	Semi-Furnished	2	Bachelors	Rent
+617	Gujarat Properties (Gujarat.txt)	4 BHK Independent House	Surat Colony	Surat / Gujarat	Independent House / 4 BHK	1955	₹27,300/month	Fully-Furnished	3	Bachelors	Rent
+618	Gujarat Properties (Gujarat.txt)	4 BHK Apartment	Vadodara Sector 2	Vadodara / Gujarat	Apartment / 4 BHK	1833	₹25,300/month	Semi-Furnished	4	Any	Rent
+619	Gujarat Properties (Gujarat.txt)	2 BHK Apartment	Ahmedabad North	Ahmedabad / Gujarat	Apartment / 2 BHK	874	₹55.36 L	Semi-Furnished	1	Bachelors	Sale
+620	Gujarat Properties (Gujarat.txt)	1 BHK Villa	Vadodara North	Vadodara / Gujarat	Villa / 1 BHK	564	₹34.99 L	Unfurnished	1	Bachelors	Sale
+621	Gujarat Properties (Gujarat.txt)	1 BHK Apartment	Vadodara Central	Vadodara / Gujarat	Apartment / 1 BHK	402	₹32.07 L	Semi-Furnished	1	Family	Sale
+622	Gujarat Properties (Gujarat.txt)	1 BHK Studio	Surat South	Surat / Gujarat	Studio / 1 BHK	375	₹9,900/month	Semi-Furnished	2	Bachelors	Rent
+623	Gujarat Properties (Gujarat.txt)	3 BHK Apartment	Rajkot South	Rajkot / Gujarat	Apartment / 3 BHK	1161	₹18,000/month	Semi-Furnished	3	Bachelors	Rent
+624	Gujarat Properties (Gujarat.txt)	2 BHK Villa	Vadodara South	Vadodara / Gujarat	Villa / 2 BHK	1449	₹22,600/month	Fully-Furnished	2	Family	Rent
+625	Gujarat Properties (Gujarat.txt)	4 BHK Villa	Surat Sector 1	Surat / Gujarat	Villa / 4 BHK	2262	₹36,900/month	Semi-Furnished	3	Family	Rent
+626	Gujarat Properties (Gujarat.txt)	2 BHK Independent House	Surat North	Surat / Gujarat	Independent House / 2 BHK	1242	₹18,400/month	Unfurnished	1	Any	Rent
+627	Gujarat Properties (Gujarat.txt)	2 BHK Builder Floor	Surat West	Surat / Gujarat	Builder Floor / 2 BHK	920	₹15,800/month	Semi-Furnished	2	Bachelors	Rent
+628	Gujarat Properties (Gujarat.txt)	5 BHK Builder Floor	Ahmedabad East	Ahmedabad / Gujarat	Builder Floor / 5 BHK	2530	₹1.53 Cr	Unfurnished	5	Bachelors	Sale
+629	Gujarat Properties (Gujarat.txt)	5 BHK Apartment	Surat Residential Area	Surat / Gujarat	Apartment / 5 BHK	2137	₹30,500/month	Semi-Furnished	5	Family	Rent
+630	Gujarat Properties (Gujarat.txt)	3 BHK Apartment	Rajkot West	Rajkot / Gujarat	Apartment / 3 BHK	1273	₹92.10 L	Semi-Furnished	3	Family	Sale
+631	Gujarat Properties (Gujarat.txt)	3 BHK Independent House	Vadodara Main Road	Vadodara / Gujarat	Independent House / 3 BHK	1645	₹81.40 L	Semi-Furnished	2	Any	Sale
+632	Gujarat Properties (Gujarat.txt)	4 BHK Apartment	Ahmedabad Colony	Ahmedabad / Gujarat	Apartment / 4 BHK	1717	₹1.26 Cr	Semi-Furnished	4	Family	Sale
+633	Gujarat Properties (Gujarat.txt)	2 BHK Apartment	Rajkot Nagar	Rajkot / Gujarat	Apartment / 2 BHK	946	₹16,600/month	Semi-Furnished	2	Family	Rent
+634	Gujarat Properties (Gujarat.txt)	1 BHK Independent House	Ahmedabad Central	Ahmedabad / Gujarat	Independent House / 1 BHK	555	₹12,100/month	Semi-Furnished	1	Bachelors	Rent
+635	Gujarat Properties (Gujarat.txt)	4 BHK Apartment	Rajkot Central	Rajkot / Gujarat	Apartment / 4 BHK	1702	₹91.16 L	Semi-Furnished	4	Family	Sale
+636	Gujarat Properties (Gujarat.txt)	3 BHK Builder Floor	Vadodara Residential Area	Vadodara / Gujarat	Builder Floor / 3 BHK	1019	₹24,500/month	Semi-Furnished	3	Any	Rent
+637	Gujarat Properties (Gujarat.txt)	1 BHK Independent House	Vadodara Colony	Vadodara / Gujarat	Independent House / 1 BHK	716	₹46 L	Semi-Furnished	2	Family	Sale
+638	Gujarat Properties (Gujarat.txt)	3 BHK Independent House	Surat Sector 2	Surat / Gujarat	Independent House / 3 BHK	1686	₹89.05 L	Semi-Furnished	2	Family	Sale
+639	Gujarat Properties (Gujarat.txt)	3 BHK Builder Floor	Rajkot West	Rajkot / Gujarat	Builder Floor / 3 BHK	1412	₹22,300/month	Semi-Furnished	2	Any	Rent
+640	Gujarat Properties (Gujarat.txt)	1 BHK Studio	Vadodara Nagar	Vadodara / Gujarat	Studio / 1 BHK	348	₹33.36 L	Fully-Furnished	1	Family	Sale
+641	Gujarat Properties (Gujarat.txt)	2 BHK Independent House	Rajkot Town Centre	Rajkot / Gujarat	Independent House / 2 BHK	1078	₹71.23 L	Fully-Furnished	2	Any	Sale
+642	Gujarat Properties (Gujarat.txt)	1 BHK Apartment	Ahmedabad Nagar	Ahmedabad / Gujarat	Apartment / 1 BHK	403	₹11,300/month	Fully-Furnished	1	Any	Rent
+643	Gujarat Properties (Gujarat.txt)	2 BHK Apartment	Surat North	Surat / Gujarat	Apartment / 2 BHK	892	₹57.26 L	Unfurnished	2	Bachelors	Sale
+644	Gujarat Properties (Gujarat.txt)	1 BHK Builder Floor	Surat Colony	Surat / Gujarat	Builder Floor / 1 BHK	480	₹11,500/month	Fully-Furnished	2	Family	Rent
+645	Gujarat Properties (Gujarat.txt)	1 BHK Apartment	Rajkot Residential Area	Rajkot / Gujarat	Apartment / 1 BHK	595	₹11,900/month	Semi-Furnished	1	Family	Rent
+646	Gujarat Properties (Gujarat.txt)	1 BHK Apartment	Surat Main Road	Surat / Gujarat	Apartment / 1 BHK	385	₹35.31 L	Fully-Furnished	1	Bachelors	Sale
+647	Gujarat Properties (Gujarat.txt)	2 BHK Apartment	Rajkot South	Rajkot / Gujarat	Apartment / 2 BHK	636	₹59.21 L	Semi-Furnished	1	Bachelors	Sale
+648	Gujarat Properties (Gujarat.txt)	1 BHK Studio	Ahmedabad Central	Ahmedabad / Gujarat	Studio / 1 BHK	356	₹32.89 L	Semi-Furnished	1	Family	Sale
+649	Gujarat Properties (Gujarat.txt)	4 BHK Villa	Surat East	Surat / Gujarat	Villa / 4 BHK	2094	₹32,500/month	Semi-Furnished	3	Bachelors	Rent
+650	Gujarat Properties (Gujarat.txt)	4 BHK Independent House	Surat South	Surat / Gujarat	Independent House / 4 BHK	1850	₹30,200/month	Fully-Furnished	4	Family	Rent
+651	Gujarat Properties (Gujarat.txt)	1 BHK Builder Floor	Rajkot Residential Area	Rajkot / Gujarat	Builder Floor / 1 BHK	370	₹39.81 L	Semi-Furnished	2	Any	Sale
+652	Gujarat Properties (Gujarat.txt)	3 BHK Apartment	Rajkot Residential Area	Rajkot / Gujarat	Apartment / 3 BHK	1578	₹92.56 L	Fully-Furnished	3	Any	Sale
+653	Gujarat Properties (Gujarat.txt)	2 BHK Builder Floor	Ahmedabad Sector 2	Ahmedabad / Gujarat	Builder Floor / 2 BHK	734	₹49.06 L	Fully-Furnished	2	Any	Sale
+654	Gujarat Properties (Gujarat.txt)	1 BHK Apartment	Vadodara North	Vadodara / Gujarat	Apartment / 1 BHK	588	₹44.60 L	Unfurnished	1	Family	Sale
+655	Gujarat Properties (Gujarat.txt)	2 BHK Builder Floor	Rajkot Sector 3	Rajkot / Gujarat	Builder Floor / 2 BHK	843	₹59.33 L	Unfurnished	2	Family	Sale
+656	Gujarat Properties (Gujarat.txt)	3 BHK Apartment	Ahmedabad Town Centre	Ahmedabad / Gujarat	Apartment / 3 BHK	1256	₹24,100/month	Fully-Furnished	3	Bachelors	Rent
+657	Gujarat Properties (Gujarat.txt)	1 BHK Studio	Ahmedabad East	Ahmedabad / Gujarat	Studio / 1 BHK	408	₹43.19 L	Fully-Furnished	2	Family	Sale
+658	Gujarat Properties (Gujarat.txt)	3 BHK Independent House	Rajkot South	Rajkot / Gujarat	Independent House / 3 BHK	1323	₹76.13 L	Fully-Furnished	3	Family	Sale
+659	Gujarat Properties (Gujarat.txt)	5 BHK Apartment	Vadodara Central	Vadodara / Gujarat	Apartment / 5 BHK	2808	₹31,400/month	Fully-Furnished	6	Bachelors	Rent
+660	Gujarat Properties (Gujarat.txt)	1 BHK Studio	Surat Sector 1	Surat / Gujarat	Studio / 1 BHK	300	₹37.06 L	Unfurnished	1	Any	Sale
+661	Gujarat Properties (Gujarat.txt)	3 BHK Apartment	Rajkot Sector 3	Rajkot / Gujarat	Apartment / 3 BHK	1343	₹71.02 L	Unfurnished	3	Any	Sale
+662	Gujarat Properties (Gujarat.txt)	4 BHK Builder Floor	Rajkot East	Rajkot / Gujarat	Builder Floor / 4 BHK	1301	₹1.16 Cr	Semi-Furnished	4	Bachelors	Sale
+663	Gujarat Properties (Gujarat.txt)	2 BHK Apartment	Surat Heights	Surat / Gujarat	Apartment / 2 BHK	906	₹53.49 L	Fully-Furnished	2	Bachelors	Sale
+664	Gujarat Properties (Gujarat.txt)	1 BHK Apartment	Rajkot East	Rajkot / Gujarat	Apartment / 1 BHK	498	₹33.92 L	Semi-Furnished	1	Family	Sale
+665	Gujarat Properties (Gujarat.txt)	2 BHK Apartment	Ahmedabad Sector 3	Ahmedabad / Gujarat	Apartment / 2 BHK	872	₹17,900/month	Semi-Furnished	2	Family	Rent
+666	Gujarat Properties (Gujarat.txt)	4 BHK Apartment	Rajkot Sector 3	Rajkot / Gujarat	Apartment / 4 BHK	1796	₹34,600/month	Semi-Furnished	3	Any	Rent
+667	Gujarat Properties (Gujarat.txt)	4 BHK Builder Floor	Surat East	Surat / Gujarat	Builder Floor / 4 BHK	1835	₹1.04 Cr	Fully-Furnished	5	Family	Sale
+668	Gujarat Properties (Gujarat.txt)	1 BHK Apartment	Ahmedabad Nagar	Ahmedabad / Gujarat	Apartment / 1 BHK	427	₹31.09 L	Semi-Furnished	1	Bachelors	Sale
+669	Gujarat Properties (Gujarat.txt)	3 BHK Apartment	Ahmedabad Sector 2	Ahmedabad / Gujarat	Apartment / 3 BHK	1074	₹79.10 L	Semi-Furnished	3	Family	Sale
+670	Gujarat Properties (Gujarat.txt)	2 BHK Builder Floor	Vadodara North	Vadodara / Gujarat	Builder Floor / 2 BHK	812	₹68.77 L	Semi-Furnished	2	Family	Sale
+671	Gujarat Properties (Gujarat.txt)	3 BHK Apartment	Ahmedabad Sector 1	Ahmedabad / Gujarat	Apartment / 3 BHK	1418	₹85.68 L	Semi-Furnished	2	Any	Sale
+672	Gujarat Properties (Gujarat.txt)	1 BHK Builder Floor	Ahmedabad South	Ahmedabad / Gujarat	Builder Floor / 1 BHK	504	₹36.21 L	Fully-Furnished	1	Family	Sale
+673	Gujarat Properties (Gujarat.txt)	3 BHK Apartment	Surat Residential Area	Surat / Gujarat	Apartment / 3 BHK	1741	₹23,500/month	Semi-Furnished	3	Family	Rent
+674	Gujarat Properties (Gujarat.txt)	2 BHK Apartment	Surat Residential Area	Surat / Gujarat	Apartment / 2 BHK	941	₹63.41 L	Unfurnished	3	Family	Sale
+675	Gujarat Properties (Gujarat.txt)	3 BHK Builder Floor	Vadodara Residential Area	Vadodara / Gujarat	Builder Floor / 3 BHK	1190	₹88.20 L	Semi-Furnished	2	Any	Sale
+676	Gujarat Properties (Gujarat.txt)	2 BHK Apartment	Ahmedabad Heights	Ahmedabad / Gujarat	Apartment / 2 BHK	721	₹54.89 L	Semi-Furnished	2	Family	Sale
+677	Gujarat Properties (Gujarat.txt)	4 BHK Builder Floor	Surat Nagar	Surat / Gujarat	Builder Floor / 4 BHK	1914	₹1.16 Cr	Semi-Furnished	4	Family	Sale
+678	Gujarat Properties (Gujarat.txt)	4 BHK Apartment	Vadodara Heights	Vadodara / Gujarat	Apartment / 4 BHK	1462	₹1.21 Cr	Semi-Furnished	5	Any	Sale
+679	Gujarat Properties (Gujarat.txt)	3 BHK Independent House	Surat South	Surat / Gujarat	Independent House / 3 BHK	1514	₹71.66 L	Semi-Furnished	3	Family	Sale
+680	Gujarat Properties (Gujarat.txt)	2 BHK Apartment	Surat Nagar	Surat / Gujarat	Apartment / 2 BHK	870	₹55.21 L	Unfurnished	2	Family	Sale
+681	Gujarat Properties (Gujarat.txt)	3 BHK Builder Floor	Surat Extension	Surat / Gujarat	Builder Floor / 3 BHK	1326	₹79.33 L	Semi-Furnished	3	Bachelors	Sale
+682	Gujarat Properties (Gujarat.txt)	3 BHK Independent House	Surat Sector 3	Surat / Gujarat	Independent House / 3 BHK	1749	₹87.05 L	Semi-Furnished	3	Family	Sale
+683	Gujarat Properties (Gujarat.txt)	3 BHK Independent House	Vadodara Heights	Vadodara / Gujarat	Independent House / 3 BHK	1341	₹91.21 L	Semi-Furnished	3	Any	Sale
+684	Gujarat Properties (Gujarat.txt)	3 BHK Builder Floor	Ahmedabad South	Ahmedabad / Gujarat	Builder Floor / 3 BHK	996	₹88.90 L	Semi-Furnished	3	Any	Sale
+685	Gujarat Properties (Gujarat.txt)	1 BHK Builder Floor	Ahmedabad Town Centre	Ahmedabad / Gujarat	Builder Floor / 1 BHK	528	₹35.53 L	Fully-Furnished	2	Bachelors	Sale
+686	Gujarat Properties (Gujarat.txt)	2 BHK Independent House	Surat Heights	Surat / Gujarat	Independent House / 2 BHK	1183	₹78.50 L	Semi-Furnished	3	Bachelors	Sale
+687	Gujarat Properties (Gujarat.txt)	3 BHK Independent House	Rajkot Residential Area	Rajkot / Gujarat	Independent House / 3 BHK	1289	₹20,300/month	Semi-Furnished	3	Family	Rent
+688	Gujarat Properties (Gujarat.txt)	3 BHK Villa	Ahmedabad Sector 1	Ahmedabad / Gujarat	Villa / 3 BHK	1869	₹23,500/month	Semi-Furnished	2	Bachelors	Rent
+689	Gujarat Properties (Gujarat.txt)	3 BHK Apartment	Vadodara Nagar	Vadodara / Gujarat	Apartment / 3 BHK	1263	₹90.31 L	Fully-Furnished	3	Family	Sale
+690	Gujarat Properties (Gujarat.txt)	2 BHK Apartment	Ahmedabad Sector 1	Ahmedabad / Gujarat	Apartment / 2 BHK	867	₹17,500/month	Semi-Furnished	2	Bachelors	Rent
+691	Gujarat Properties (Gujarat.txt)	3 BHK Independent House	Surat Sector 2	Surat / Gujarat	Independent House / 3 BHK	1285	₹89.21 L	Unfurnished	2	Any	Sale
+692	Gujarat Properties (Gujarat.txt)	2 BHK Apartment	Surat West	Surat / Gujarat	Apartment / 2 BHK	907	₹18,800/month	Unfurnished	2	Family	Rent
+693	Gujarat Properties (Gujarat.txt)	2 BHK Independent House	Ahmedabad Sector 3	Ahmedabad / Gujarat	Independent House / 2 BHK	1091	₹21,100/month	Unfurnished	1	Family	Rent
+694	Gujarat Properties (Gujarat.txt)	3 BHK Apartment	Surat Main Road	Surat / Gujarat	Apartment / 3 BHK	914	₹18,700/month	Semi-Furnished	4	Any	Rent
+695	Gujarat Properties (Gujarat.txt)	4 BHK Builder Floor	Vadodara Sector 3	Vadodara / Gujarat	Builder Floor / 4 BHK	1991	₹1.07 Cr	Fully-Furnished	3	Bachelors	Sale
+696	Gujarat Properties (Gujarat.txt)	3 BHK Independent House	Vadodara Residential Area	Vadodara / Gujarat	Independent House / 3 BHK	2055	₹29,700/month	Semi-Furnished	3	Any	Rent
+697	Gujarat Properties (Gujarat.txt)	3 BHK Independent House	Vadodara Main Road	Vadodara / Gujarat	Independent House / 3 BHK	1333	₹24,600/month	Unfurnished	2	Family	Rent
+698	Gujarat Properties (Gujarat.txt)	2 BHK Villa	Rajkot Sector 3	Rajkot / Gujarat	Villa / 2 BHK	1086	₹59.35 L	Fully-Furnished	3	Family	Sale
+699	Gujarat Properties (Gujarat.txt)	2 BHK Apartment	Surat Main Road	Surat / Gujarat	Apartment / 2 BHK	1016	₹65.11 L	Unfurnished	2	Family	Sale
+700	Gujarat Properties (Gujarat.txt)	2 BHK Apartment	Ahmedabad Sector 2	Ahmedabad / Gujarat	Apartment / 2 BHK	696	₹51.03 L	Unfurnished	2	Family	Sale
+701	Gujarat Properties (Gujarat.txt)	3 BHK Apartment	Rajkot Town Centre	Rajkot / Gujarat	Apartment / 3 BHK	1432	₹97.10 L	Fully-Furnished	2	Any	Sale
+702	Gujarat Properties (Gujarat.txt)	3 BHK Apartment	Ahmedabad Town Centre	Ahmedabad / Gujarat	Apartment / 3 BHK	1063	₹96.04 L	Fully-Furnished	3	Family	Sale
+703	Gujarat Properties (Gujarat.txt)	3 BHK Apartment	Surat Nagar	Surat / Gujarat	Apartment / 3 BHK	1237	₹72.64 L	Semi-Furnished	3	Bachelors	Sale
+704	Gujarat Properties (Gujarat.txt)	1 BHK Apartment	Rajkot Heights	Rajkot / Gujarat	Apartment / 1 BHK	502	₹43.52 L	Semi-Furnished	1	Bachelors	Sale
+705	Gujarat Properties (Gujarat.txt)	4 BHK Builder Floor	Vadodara Residential Area	Vadodara / Gujarat	Builder Floor / 4 BHK	2015	₹99.15 L	Fully-Furnished	4	Bachelors	Sale
+706	Gujarat Properties (Gujarat.txt)	2 BHK Independent House	Surat Heights	Surat / Gujarat	Independent House / 2 BHK	1121	₹65.80 L	Semi-Furnished	1	Bachelors	Sale
+707	Gujarat Properties (Gujarat.txt)	1 BHK Apartment	Vadodara Sector 3	Vadodara / Gujarat	Apartment / 1 BHK	518	₹43.03 L	Semi-Furnished	2	Family	Sale
+708	Gujarat Properties (Gujarat.txt)	2 BHK Builder Floor	Ahmedabad Residential Area	Ahmedabad / Gujarat	Builder Floor / 2 BHK	780	₹66.80 L	Unfurnished	3	Any	Sale
+709	Gujarat Properties (Gujarat.txt)	1 BHK Apartment	Ahmedabad South	Ahmedabad / Gujarat	Apartment / 1 BHK	582	₹32.65 L	Unfurnished	1	Any	Sale
+710	Gujarat Properties (Gujarat.txt)	3 BHK Apartment	Vadodara Central	Vadodara / Gujarat	Apartment / 3 BHK	1348	₹27,200/month	Unfurnished	2	Bachelors	Rent
+711	Gujarat Properties (Gujarat.txt)	3 BHK Independent House	Surat Town Centre	Surat / Gujarat	Independent House / 3 BHK	1375	₹20,100/month	Fully-Furnished	3	Family	Rent
+712	Gujarat Properties (Gujarat.txt)	2 BHK Villa	Ahmedabad West	Ahmedabad / Gujarat	Villa / 2 BHK	1238	₹64.92 L	Semi-Furnished	2	Any	Sale
+713	Gujarat Properties (Gujarat.txt)	1 BHK Independent House	Surat Nagar	Surat / Gujarat	Independent House / 1 BHK	669	₹12,400/month	Fully-Furnished	1	Bachelors	Rent
+714	Gujarat Properties (Gujarat.txt)	1 BHK Apartment	Rajkot West	Rajkot / Gujarat	Apartment / 1 BHK	563	₹10,600/month	Unfurnished	1	Bachelors	Rent
+715	Gujarat Properties (Gujarat.txt)	2 BHK Villa	Ahmedabad Nagar	Ahmedabad / Gujarat	Villa / 2 BHK	906	₹14,500/month	Semi-Furnished	1	Family	Rent
+716	Gujarat Properties (Gujarat.txt)	1 BHK Builder Floor	Vadodara Sector 1	Vadodara / Gujarat	Builder Floor / 1 BHK	631	₹44.85 L	Fully-Furnished	2	Family	Sale
+717	Gujarat Properties (Gujarat.txt)	1 BHK Studio	Vadodara Sector 3	Vadodara / Gujarat	Studio / 1 BHK	318	₹35.40 L	Fully-Furnished	1	Bachelors	Sale
+718	Gujarat Properties (Gujarat.txt)	2 BHK Independent House	Vadodara East	Vadodara / Gujarat	Independent House / 2 BHK	955	₹50.97 L	Fully-Furnished	2	Bachelors	Sale
+719	Gujarat Properties (Gujarat.txt)	3 BHK Apartment	Ahmedabad Sector 2	Ahmedabad / Gujarat	Apartment / 3 BHK	1195	₹20,400/month	Fully-Furnished	2	Family	Rent
+720	Gujarat Properties (Gujarat.txt)	1 BHK Studio	Vadodara Heights	Vadodara / Gujarat	Studio / 1 BHK	382	₹42.03 L	Semi-Furnished	2	Any	Sale
+721	Gujarat Properties (Gujarat.txt)	4 BHK Independent House	Ahmedabad Extension	Ahmedabad / Gujarat	Independent House / 4 BHK	2147	₹34,300/month	Semi-Furnished	4	Bachelors	Rent
+722	Gujarat Properties (Gujarat.txt)	2 BHK Apartment	Surat East	Surat / Gujarat	Apartment / 2 BHK	772	₹70.17 L	Semi-Furnished	2	Bachelors	Sale
+723	Gujarat Properties (Gujarat.txt)	4 BHK Apartment	Vadodara South	Vadodara / Gujarat	Apartment / 4 BHK	1675	₹1 Cr	Fully-Furnished	4	Any	Sale
+724	Gujarat Properties (Gujarat.txt)	2 BHK Apartment	Vadodara East	Vadodara / Gujarat	Apartment / 2 BHK	686	₹63.59 L	Semi-Furnished	3	Any	Sale
+725	Gujarat Properties (Gujarat.txt)	4 BHK Apartment	Vadodara Nagar	Vadodara / Gujarat	Apartment / 4 BHK	1675	₹99.44 L	Unfurnished	4	Bachelors	Sale
+726	Gujarat Properties (Gujarat.txt)	3 BHK Apartment	Surat Main Road	Surat / Gujarat	Apartment / 3 BHK	1327	₹24,700/month	Fully-Furnished	4	Family	Rent
+727	Gujarat Properties (Gujarat.txt)	3 BHK Apartment	Rajkot Sector 1	Rajkot / Gujarat	Apartment / 3 BHK	1154	₹19,600/month	Semi-Furnished	2	Family	Rent
+728	Gujarat Properties (Gujarat.txt)	3 BHK Villa	Vadodara Central	Vadodara / Gujarat	Villa / 3 BHK	1605	₹26,800/month	Fully-Furnished	3	Family	Rent
+729	Gujarat Properties (Gujarat.txt)	4 BHK Villa	Vadodara Town Centre	Vadodara / Gujarat	Villa / 4 BHK	2522	₹1.07 Cr	Semi-Furnished	5	Bachelors	Sale
+730	Gujarat Properties (Gujarat.txt)	3 BHK Builder Floor	Rajkot Main Road	Rajkot / Gujarat	Builder Floor / 3 BHK	1378	₹95.18 L	Semi-Furnished	2	Bachelors	Sale
+731	Gujarat Properties (Gujarat.txt)	2 BHK Apartment	Surat Extension	Surat / Gujarat	Apartment / 2 BHK	823	₹71.40 L	Fully-Furnished	2	Family	Sale
+732	Gujarat Properties (Gujarat.txt)	2 BHK Builder Floor	Rajkot Sector 1	Rajkot / Gujarat	Builder Floor / 2 BHK	874	₹13,600/month	Semi-Furnished	2	Family	Rent
+733	Gujarat Properties (Gujarat.txt)	2 BHK Villa	Surat Sector 3	Surat / Gujarat	Villa / 2 BHK	1009	₹56.41 L	Unfurnished	2	Family	Sale
+734	Gujarat Properties (Gujarat.txt)	3 BHK Independent House	Surat Extension	Surat / Gujarat	Independent House / 3 BHK	1870	₹87.23 L	Fully-Furnished	4	Bachelors	Sale
+735	Gujarat Properties (Gujarat.txt)	2 BHK Apartment	Rajkot Heights	Rajkot / Gujarat	Apartment / 2 BHK	855	₹67.90 L	Unfurnished	3	Family	Sale
+736	Gujarat Properties (Gujarat.txt)	3 BHK Independent House	Surat East	Surat / Gujarat	Independent House / 3 BHK	1456	₹70.23 L	Unfurnished	3	Any	Sale
+737	Gujarat Properties (Gujarat.txt)	1 BHK Studio	Vadodara Central	Vadodara / Gujarat	Studio / 1 BHK	305	₹10,300/month	Semi-Furnished	2	Family	Rent
+738	Gujarat Properties (Gujarat.txt)	3 BHK Builder Floor	Rajkot Main Road	Rajkot / Gujarat	Builder Floor / 3 BHK	923	₹22,500/month	Semi-Furnished	3	Bachelors	Rent
+739	Gujarat Properties (Gujarat.txt)	4 BHK Apartment	Rajkot Sector 3	Rajkot / Gujarat	Apartment / 4 BHK	1783	₹31,900/month	Semi-Furnished	5	Any	Rent
+740	Gujarat Properties (Gujarat.txt)	4 BHK Apartment	Rajkot East	Rajkot / Gujarat	Apartment / 4 BHK	1900	₹1.29 Cr	Semi-Furnished	4	Family	Sale
+741	Gujarat Properties (Gujarat.txt)	2 BHK Apartment	Ahmedabad East	Ahmedabad / Gujarat	Apartment / 2 BHK	870	₹19,400/month	Semi-Furnished	2	Any	Rent
+742	Gujarat Properties (Gujarat.txt)	2 BHK Apartment	Ahmedabad Nagar	Ahmedabad / Gujarat	Apartment / 2 BHK	787	₹15,700/month	Fully-Furnished	2	Family	Rent
+743	Gujarat Properties (Gujarat.txt)	4 BHK Builder Floor	Vadodara Sector 2	Vadodara / Gujarat	Builder Floor / 4 BHK	1827	₹90.27 L	Semi-Furnished	3	Bachelors	Sale
+744	Gujarat Properties (Gujarat.txt)	2 BHK Apartment	Ahmedabad Nagar	Ahmedabad / Gujarat	Apartment / 2 BHK	693	₹17,500/month	Semi-Furnished	2	Any	Rent
+745	Gujarat Properties (Gujarat.txt)	3 BHK Builder Floor	Vadodara Central	Vadodara / Gujarat	Builder Floor / 3 BHK	1291	₹24,400/month	Fully-Furnished	3	Family	Rent
+746	Gujarat Properties (Gujarat.txt)	3 BHK Apartment	Surat Heights	Surat / Gujarat	Apartment / 3 BHK	1587	₹98.80 L	Semi-Furnished	3	Bachelors	Sale
+747	Gujarat Properties (Gujarat.txt)	3 BHK Independent House	Vadodara Residential Area	Vadodara / Gujarat	Independent House / 3 BHK	1141	₹23,800/month	Semi-Furnished	3	Family	Rent
+748	Gujarat Properties (Gujarat.txt)	4 BHK Villa	Surat Sector 3	Surat / Gujarat	Villa / 4 BHK	2410	₹1.37 Cr	Unfurnished	4	Family	Sale
+749	Gujarat Properties (Gujarat.txt)	2 BHK Apartment	Vadodara Heights	Vadodara / Gujarat	Apartment / 2 BHK	1113	₹58.26 L	Unfurnished	1	Bachelors	Sale
+750	Gujarat Properties (Gujarat.txt)	4 BHK Apartment	Rajkot Residential Area	Rajkot / Gujarat	Apartment / 4 BHK	1500	₹28,000/month	Semi-Furnished	5	Bachelors	Rent
+751	Gujarat Properties (Gujarat.txt)	1 BHK Independent House	Vadodara Central	Vadodara / Gujarat	Independent House / 1 BHK	544	₹43.09 L	Semi-Furnished	1	Any	Sale
+752	Gujarat Properties (Gujarat.txt)	3 BHK Apartment	Surat Central	Surat / Gujarat	Apartment / 3 BHK	1345	₹78.10 L	Fully-Furnished	3	Bachelors	Sale
+753	Gujarat Properties (Gujarat.txt)	3 BHK Apartment	Rajkot Sector 3	Rajkot / Gujarat	Apartment / 3 BHK	1121	₹77.92 L	Semi-Furnished	2	Bachelors	Sale
+754	Gujarat Properties (Gujarat.txt)	2 BHK Independent House	Surat Main Road	Surat / Gujarat	Independent House / 2 BHK	849	₹18,100/month	Unfurnished	2	Family	Rent
+755	Gujarat Properties (Gujarat.txt)	1 BHK Studio	Rajkot Extension	Rajkot / Gujarat	Studio / 1 BHK	341	₹31.94 L	Unfurnished	1	Family	Sale
+756	Gujarat Properties (Gujarat.txt)	1 BHK Apartment	Ahmedabad Colony	Ahmedabad / Gujarat	Apartment / 1 BHK	454	₹31.24 L	Fully-Furnished	1	Bachelors	Sale
+757	Gujarat Properties (Gujarat.txt)	1 BHK Builder Floor	Ahmedabad Colony	Ahmedabad / Gujarat	Builder Floor / 1 BHK	459	₹12,600/month	Semi-Furnished	1	Family	Rent
+758	Gujarat Properties (Gujarat.txt)	2 BHK Apartment	Surat Sector 3	Surat / Gujarat	Apartment / 2 BHK	882	₹69.87 L	Fully-Furnished	2	Any	Sale
+759	Gujarat Properties (Gujarat.txt)	2 BHK Independent House	Surat Nagar	Surat / Gujarat	Independent House / 2 BHK	1065	₹73.60 L	Fully-Furnished	2	Family	Sale
+760	Gujarat Properties (Gujarat.txt)	2 BHK Apartment	Surat Residential Area	Surat / Gujarat	Apartment / 2 BHK	1203	₹15,100/month	Semi-Furnished	3	Any	Rent
+761	Gujarat Properties (Gujarat.txt)	2 BHK Villa	Rajkot East	Rajkot / Gujarat	Villa / 2 BHK	1009	₹63.52 L	Unfurnished	2	Bachelors	Sale
+762	Gujarat Properties (Gujarat.txt)	3 BHK Apartment	Vadodara Nagar	Vadodara / Gujarat	Apartment / 3 BHK	1221	₹19,700/month	Semi-Furnished	3	Family	Rent
+763	Gujarat Properties (Gujarat.txt)	2 BHK Apartment	Vadodara Nagar	Vadodara / Gujarat	Apartment / 2 BHK	987	₹17,000/month	Semi-Furnished	3	Family	Rent
+764	Gujarat Properties (Gujarat.txt)	1 BHK Apartment	Rajkot South	Rajkot / Gujarat	Apartment / 1 BHK	524	₹35.85 L	Semi-Furnished	2	Family	Sale
+765	Gujarat Properties (Gujarat.txt)	4 BHK Independent House	Rajkot North	Rajkot / Gujarat	Independent House / 4 BHK	2304	₹1.10 Cr	Fully-Furnished	4	Family	Sale
+766	Gujarat Properties (Gujarat.txt)	1 BHK Independent House	Ahmedabad Sector 1	Ahmedabad / Gujarat	Independent House / 1 BHK	576	₹41.38 L	Unfurnished	1	Bachelors	Sale
+767	Gujarat Properties (Gujarat.txt)	2 BHK Apartment	Ahmedabad West	Ahmedabad / Gujarat	Apartment / 2 BHK	870	₹49.45 L	Fully-Furnished	1	Any	Sale
+768	Gujarat Properties (Gujarat.txt)	4 BHK Villa	Ahmedabad Colony	Ahmedabad / Gujarat	Villa / 4 BHK	2644	₹1.42 Cr	Semi-Furnished	5	Family	Sale
+769	Gujarat Properties (Gujarat.txt)	1 BHK Studio	Vadodara Residential Area	Vadodara / Gujarat	Studio / 1 BHK	381	₹11,400/month	Semi-Furnished	1	Family	Rent
+770	Gujarat Properties (Gujarat.txt)	2 BHK Builder Floor	Ahmedabad Sector 1	Ahmedabad / Gujarat	Builder Floor / 2 BHK	831	₹50.80 L	Semi-Furnished	2	Family	Sale
+771	Gujarat Properties (Gujarat.txt)	1 BHK Independent House	Ahmedabad North	Ahmedabad / Gujarat	Independent House / 1 BHK	766	₹46.72 L	Semi-Furnished	1	Bachelors	Sale
+772	Gujarat Properties (Gujarat.txt)	5 BHK Apartment	Rajkot Main Road	Rajkot / Gujarat	Apartment / 5 BHK	2444	₹1.35 Cr	Semi-Furnished	5	Family	Sale
+773	Gujarat Properties (Gujarat.txt)	2 BHK Apartment	Rajkot South	Rajkot / Gujarat	Apartment / 2 BHK	679	₹13,200/month	Unfurnished	1	Family	Rent
+774	Gujarat Properties (Gujarat.txt)	4 BHK Apartment	Rajkot Residential Area	Rajkot / Gujarat	Apartment / 4 BHK	1956	₹1.13 Cr	Semi-Furnished	4	Family	Sale
+775	Gujarat Properties (Gujarat.txt)	2 BHK Independent House	Surat Sector 1	Surat / Gujarat	Independent House / 2 BHK	992	₹15,800/month	Semi-Furnished	3	Family	Rent
+776	Gujarat Properties (Gujarat.txt)	2 BHK Apartment	Rajkot Residential Area	Rajkot / Gujarat	Apartment / 2 BHK	1017	₹20,400/month	Semi-Furnished	1	Any	Rent
+777	Gujarat Properties (Gujarat.txt)	4 BHK Independent House	Ahmedabad North	Ahmedabad / Gujarat	Independent House / 4 BHK	2007	₹24,700/month	Fully-Furnished	5	Family	Rent
+778	Gujarat Properties (Gujarat.txt)	2 BHK Apartment	Rajkot Extension	Rajkot / Gujarat	Apartment / 2 BHK	905	₹17,700/month	Semi-Furnished	2	Family	Rent
+779	Gujarat Properties (Gujarat.txt)	1 BHK Apartment	Vadodara Residential Area	Vadodara / Gujarat	Apartment / 1 BHK	722	₹13,900/month	Unfurnished	1	Family	Rent
+780	Gujarat Properties (Gujarat.txt)	2 BHK Apartment	Rajkot Heights	Rajkot / Gujarat	Apartment / 2 BHK	1032	₹54.70 L	Fully-Furnished	2	Family	Sale
+781	Gujarat Properties (Gujarat.txt)	2 BHK Independent House	Surat Heights	Surat / Gujarat	Independent House / 2 BHK	1128	₹58.96 L	Unfurnished	3	Family	Sale
+782	Gujarat Properties (Gujarat.txt)	2 BHK Apartment	Surat Town Centre	Surat / Gujarat	Apartment / 2 BHK	815	₹66.39 L	Unfurnished	2	Family	Sale
+783	Gujarat Properties (Gujarat.txt)	2 BHK Apartment	Vadodara Nagar	Vadodara / Gujarat	Apartment / 2 BHK	741	₹68.85 L	Semi-Furnished	3	Bachelors	Sale
+784	Gujarat Properties (Gujarat.txt)	3 BHK Independent House	Ahmedabad Town Centre	Ahmedabad / Gujarat	Independent House / 3 BHK	1327	₹95.51 L	Semi-Furnished	4	Bachelors	Sale
+785	Gujarat Properties (Gujarat.txt)	4 BHK Apartment	Ahmedabad West	Ahmedabad / Gujarat	Apartment / 4 BHK	1743	₹1.04 Cr	Semi-Furnished	4	Family	Sale
+786	Gujarat Properties (Gujarat.txt)	4 BHK Apartment	Vadodara East	Vadodara / Gujarat	Apartment / 4 BHK	1473	₹85.96 L	Semi-Furnished	4	Family	Sale
+787	Gujarat Properties (Gujarat.txt)	2 BHK Apartment	Surat Sector 3	Surat / Gujarat	Apartment / 2 BHK	742	₹17,400/month	Unfurnished	1	Bachelors	Rent
+788	Gujarat Properties (Gujarat.txt)	4 BHK Apartment	Vadodara Nagar	Vadodara / Gujarat	Apartment / 4 BHK	1777	₹1.30 Cr	Fully-Furnished	5	Bachelors	Sale
+789	Gujarat Properties (Gujarat.txt)	2 BHK Apartment	Vadodara Central	Vadodara / Gujarat	Apartment / 2 BHK	874	₹60.51 L	Semi-Furnished	2	Bachelors	Sale
+790	Gujarat Properties (Gujarat.txt)	2 BHK Apartment	Rajkot North	Rajkot / Gujarat	Apartment / 2 BHK	849	₹56.37 L	Fully-Furnished	2	Family	Sale
+791	Gujarat Properties (Gujarat.txt)	2 BHK Apartment	Vadodara Extension	Vadodara / Gujarat	Apartment / 2 BHK	889	₹52.51 L	Unfurnished	2	Bachelors	Sale
+792	Gujarat Properties (Gujarat.txt)	5 BHK Builder Floor	Rajkot North	Rajkot / Gujarat	Builder Floor / 5 BHK	2493	₹1.43 Cr	Semi-Furnished	5	Family	Sale
+793	Gujarat Properties (Gujarat.txt)	4 BHK Builder Floor	Surat Residential Area	Surat / Gujarat	Builder Floor / 4 BHK	1382	₹95.38 L	Semi-Furnished	5	Family	Sale
+794	Gujarat Properties (Gujarat.txt)	2 BHK Apartment	Vadodara North	Vadodara / Gujarat	Apartment / 2 BHK	743	₹61.21 L	Fully-Furnished	2	Family	Sale
+795	Gujarat Properties (Gujarat.txt)	3 BHK Independent House	Vadodara Sector 3	Vadodara / Gujarat	Independent House / 3 BHK	1156	₹18,800/month	Fully-Furnished	3	Bachelors	Rent
+796	Gujarat Properties (Gujarat.txt)	4 BHK Apartment	Ahmedabad Heights	Ahmedabad / Gujarat	Apartment / 4 BHK	1634	₹89.78 L	Fully-Furnished	4	Family	Sale
+797	Gujarat Properties (Gujarat.txt)	2 BHK Independent House	Surat Central	Surat / Gujarat	Independent House / 2 BHK	1102	₹67.05 L	Semi-Furnished	2	Family	Sale
+798	Gujarat Properties (Gujarat.txt)	2 BHK Apartment	Surat Colony	Surat / Gujarat	Apartment / 2 BHK	997	₹56.72 L	Unfurnished	2	Family	Sale
+799	Gujarat Properties (Gujarat.txt)	3 BHK Apartment	Vadodara Sector 2	Vadodara / Gujarat	Apartment / 3 BHK	1234	₹19,500/month	Semi-Furnished	3	Bachelors	Rent
+800	Gujarat Properties (Gujarat.txt)	1 BHK Apartment	Surat South	Surat / Gujarat	Apartment / 1 BHK	439	₹35.59 L	Fully-Furnished	1	Family	Sale
+801	Gujarat Properties (Gujarat.txt)	2 BHK Independent House	Vadodara Sector 3	Vadodara / Gujarat	Independent House / 2 BHK	1279	₹17,800/month	Semi-Furnished	2	Any	Rent
+802	Gujarat Properties (Gujarat.txt)	4 BHK Apartment	Vadodara Town Centre	Vadodara / Gujarat	Apartment / 4 BHK	1656	₹99.68 L	Semi-Furnished	4	Family	Sale
+803	Gujarat Properties (Gujarat.txt)	4 BHK Independent House	Surat Main Road	Surat / Gujarat	Independent House / 4 BHK	2103	₹94.81 L	Semi-Furnished	3	Any	Sale
+804	Gujarat Properties (Gujarat.txt)	3 BHK Builder Floor	Rajkot Extension	Rajkot / Gujarat	Builder Floor / 3 BHK	1119	₹82.39 L	Unfurnished	2	Any	Sale
+805	Gujarat Properties (Gujarat.txt)	1 BHK Builder Floor	Rajkot Colony	Rajkot / Gujarat	Builder Floor / 1 BHK	623	₹37.51 L	Semi-Furnished	2	Family	Sale
+806	Gujarat Properties (Gujarat.txt)	3 BHK Builder Floor	Vadodara Extension	Vadodara / Gujarat	Builder Floor / 3 BHK	1339	₹99.33 L	Semi-Furnished	4	Bachelors	Sale
+807	Gujarat Properties (Gujarat.txt)	3 BHK Apartment	Vadodara Nagar	Vadodara / Gujarat	Apartment / 3 BHK	1257	₹98.87 L	Fully-Furnished	3	Bachelors	Sale
+808	Gujarat Properties (Gujarat.txt)	1 BHK Apartment	Rajkot Central	Rajkot / Gujarat	Apartment / 1 BHK	495	₹31.42 L	Semi-Furnished	1	Bachelors	Sale
+809	Gujarat Properties (Gujarat.txt)	3 BHK Apartment	Surat Town Centre	Surat / Gujarat	Apartment / 3 BHK	1104	₹22,300/month	Semi-Furnished	4	Bachelors	Rent
+810	Gujarat Properties (Gujarat.txt)	4 BHK Independent House	Surat South	Surat / Gujarat	Independent House / 4 BHK	2691	₹1.47 Cr	Semi-Furnished	4	Family	Sale
+811	Gujarat Properties (Gujarat.txt)	3 BHK Apartment	Surat Central	Surat / Gujarat	Apartment / 3 BHK	1420	₹72.76 L	Unfurnished	2	Bachelors	Sale
+812	Gujarat Properties (Gujarat.txt)	4 BHK Builder Floor	Surat South	Surat / Gujarat	Builder Floor / 4 BHK	1845	₹94.25 L	Semi-Furnished	5	Any	Sale
+813	Gujarat Properties (Gujarat.txt)	4 BHK Apartment	Rajkot West	Rajkot / Gujarat	Apartment / 4 BHK	1577	₹1.14 Cr	Semi-Furnished	5	Family	Sale
+814	Gujarat Properties (Gujarat.txt)	4 BHK Apartment	Ahmedabad Main Road	Ahmedabad / Gujarat	Apartment / 4 BHK	2079	₹34,300/month	Fully-Furnished	4	Bachelors	Rent
+815	Gujarat Properties (Gujarat.txt)	4 BHK Apartment	Surat Colony	Surat / Gujarat	Apartment / 4 BHK	1689	₹94.30 L	Unfurnished	4	Any	Sale
+816	Gujarat Properties (Gujarat.txt)	3 BHK Apartment	Ahmedabad Main Road	Ahmedabad / Gujarat	Apartment / 3 BHK	1154	₹97.43 L	Fully-Furnished	3	Any	Sale
+817	Gujarat Properties (Gujarat.txt)	2 BHK Builder Floor	Rajkot South	Rajkot / Gujarat	Builder Floor / 2 BHK	845	₹59.83 L	Unfurnished	2	Family	Sale
+818	Gujarat Properties (Gujarat.txt)	3 BHK Villa	Ahmedabad Sector 1	Ahmedabad / Gujarat	Villa / 3 BHK	2116	₹99.20 L	Semi-Furnished	4	Family	Sale
+819	Gujarat Properties (Gujarat.txt)	4 BHK Apartment	Surat Central	Surat / Gujarat	Apartment / 4 BHK	1773	₹1.24 Cr	Fully-Furnished	4	Family	Sale
+820	Gujarat Properties (Gujarat.txt)	1 BHK Apartment	Surat Sector 3	Surat / Gujarat	Apartment / 1 BHK	463	₹9,300/month	Fully-Furnished	1	Any	Rent
+821	Gujarat Properties (Gujarat.txt)	2 BHK Apartment	Rajkot Sector 1	Rajkot / Gujarat	Apartment / 2 BHK	942	₹58.97 L	Fully-Furnished	2	Any	Sale
+822	Gujarat Properties (Gujarat.txt)	2 BHK Apartment	Surat East	Surat / Gujarat	Apartment / 2 BHK	725	₹54.44 L	Semi-Furnished	2	Any	Sale
+823	Gujarat Properties (Gujarat.txt)	3 BHK Villa	Surat Main Road	Surat / Gujarat	Villa / 3 BHK	1935	₹1.12 Cr	Semi-Furnished	2	Any	Sale
+824	Gujarat Properties (Gujarat.txt)	3 BHK Independent House	Vadodara Town Centre	Vadodara / Gujarat	Independent House / 3 BHK	1585	₹90.43 L	Semi-Furnished	3	Family	Sale
+825	Gujarat Properties (Gujarat.txt)	1 BHK Builder Floor	Vadodara South	Vadodara / Gujarat	Builder Floor / 1 BHK	530	₹11,000/month	Unfurnished	1	Family	Rent
+826	Gujarat Properties (Gujarat.txt)	1 BHK Builder Floor	Surat Sector 2	Surat / Gujarat	Builder Floor / 1 BHK	540	₹10,100/month	Semi-Furnished	1	Family	Rent
+827	Gujarat Properties (Gujarat.txt)	3 BHK Villa	Vadodara Residential Area	Vadodara / Gujarat	Villa / 3 BHK	1677	₹85.35 L	Fully-Furnished	3	Family	Sale
+828	Gujarat Properties (Gujarat.txt)	3 BHK Apartment	Ahmedabad Town Centre	Ahmedabad / Gujarat	Apartment / 3 BHK	1354	₹19,000/month	Fully-Furnished	2	Bachelors	Rent
+829	Gujarat Properties (Gujarat.txt)	2 BHK Apartment	Ahmedabad North	Ahmedabad / Gujarat	Apartment / 2 BHK	913	₹69.36 L	Unfurnished	2	Family	Sale
+830	Gujarat Properties (Gujarat.txt)	3 BHK Apartment	Surat Extension	Surat / Gujarat	Apartment / 3 BHK	1117	₹24,500/month	Semi-Furnished	3	Family	Rent
+831	Gujarat Properties (Gujarat.txt)	1 BHK Villa	Surat Sector 1	Surat / Gujarat	Villa / 1 BHK	823	₹9,900/month	Semi-Furnished	1	Bachelors	Rent
+832	Gujarat Properties (Gujarat.txt)	1 BHK Independent House	Rajkot Sector 3	Rajkot / Gujarat	Independent House / 1 BHK	594	₹11,800/month	Unfurnished	1	Bachelors	Rent
+833	Gujarat Properties (Gujarat.txt)	4 BHK Apartment	Ahmedabad Town Centre	Ahmedabad / Gujarat	Apartment / 4 BHK	1752	₹1.01 Cr	Fully-Furnished	4	Family	Sale
+834	Gujarat Properties (Gujarat.txt)	3 BHK Builder Floor	Surat Colony	Surat / Gujarat	Builder Floor / 3 BHK	1111	₹18,500/month	Unfurnished	2	Bachelors	Rent
+835	Gujarat Properties (Gujarat.txt)	2 BHK Builder Floor	Rajkot Residential Area	Rajkot / Gujarat	Builder Floor / 2 BHK	820	₹17,300/month	Semi-Furnished	1	Family	Rent
+836	Gujarat Properties (Gujarat.txt)	1 BHK Builder Floor	Rajkot Nagar	Rajkot / Gujarat	Builder Floor / 1 BHK	601	₹9,900/month	Fully-Furnished	1	Any	Rent
+837	Gujarat Properties (Gujarat.txt)	2 BHK Apartment	Rajkot Heights	Rajkot / Gujarat	Apartment / 2 BHK	825	₹13,400/month	Semi-Furnished	2	Family	Rent
+838	Gujarat Properties (Gujarat.txt)	4 BHK Apartment	Ahmedabad Town Centre	Ahmedabad / Gujarat	Apartment / 4 BHK	1451	₹90.81 L	Unfurnished	5	Family	Sale
+839	Gujarat Properties (Gujarat.txt)	2 BHK Apartment	Ahmedabad Sector 2	Ahmedabad / Gujarat	Apartment / 2 BHK	840	₹61.99 L	Fully-Furnished	3	Family	Sale
+840	Gujarat Properties (Gujarat.txt)	1 BHK Apartment	Rajkot Residential Area	Rajkot / Gujarat	Apartment / 1 BHK	403	₹36.99 L	Fully-Furnished	1	Family	Sale
+841	Gujarat Properties (Gujarat.txt)	5 BHK Apartment	Surat South	Surat / Gujarat	Apartment / 5 BHK	2794	₹30,700/month	Fully-Furnished	5	Family	Rent
+842	Gujarat Properties (Gujarat.txt)	2 BHK Apartment	Vadodara South	Vadodara / Gujarat	Apartment / 2 BHK	789	₹68.71 L	Unfurnished	2	Any	Sale
+843	Gujarat Properties (Gujarat.txt)	2 BHK Apartment	Rajkot Extension	Rajkot / Gujarat	Apartment / 2 BHK	875	₹55.85 L	Fully-Furnished	2	Family	Sale
+844	Gujarat Properties (Gujarat.txt)	1 BHK Apartment	Surat Sector 2	Surat / Gujarat	Apartment / 1 BHK	419	₹40.80 L	Fully-Furnished	1	Any	Sale
+845	Gujarat Properties (Gujarat.txt)	1 BHK Studio	Rajkot East	Rajkot / Gujarat	Studio / 1 BHK	327	₹39.91 L	Fully-Furnished	2	Bachelors	Sale
+846	Gujarat Properties (Gujarat.txt)	1 BHK Villa	Rajkot North	Rajkot / Gujarat	Villa / 1 BHK	511	₹12,600/month	Fully-Furnished	2	Family	Rent
+847	Gujarat Properties (Gujarat.txt)	2 BHK Builder Floor	Surat Sector 1	Surat / Gujarat	Builder Floor / 2 BHK	960	₹68.57 L	Fully-Furnished	2	Bachelors	Sale
+848	Gujarat Properties (Gujarat.txt)	3 BHK Villa	Ahmedabad East	Ahmedabad / Gujarat	Villa / 3 BHK	1654	₹28,300/month	Semi-Furnished	4	Bachelors	Rent
+849	Gujarat Properties (Gujarat.txt)	1 BHK Studio	Ahmedabad Residential Area	Ahmedabad / Gujarat	Studio / 1 BHK	359	₹39.89 L	Semi-Furnished	1	Bachelors	Sale
+850	Gujarat Properties (Gujarat.txt)	4 BHK Apartment	Ahmedabad Sector 3	Ahmedabad / Gujarat	Apartment / 4 BHK	1425	₹1.18 Cr	Semi-Furnished	5	Bachelors	Sale
+851	Gujarat Properties (Gujarat.txt)	5 BHK Apartment	Surat South	Surat / Gujarat	Apartment / 5 BHK	3044	₹1.30 Cr	Semi-Furnished	5	Bachelors	Sale
+852	Gujarat Properties (Gujarat.txt)	3 BHK Apartment	Surat North	Surat / Gujarat	Apartment / 3 BHK	1465	₹19,800/month	Fully-Furnished	3	Family	Rent
+853	Gujarat Properties (Gujarat.txt)	2 BHK Apartment	Surat Nagar	Surat / Gujarat	Apartment / 2 BHK	853	₹18,400/month	Semi-Furnished	2	Family	Rent
+854	Gujarat Properties (Gujarat.txt)	1 BHK Builder Floor	Vadodara Nagar	Vadodara / Gujarat	Builder Floor / 1 BHK	362	₹8,900/month	Unfurnished	1	Family	Rent
+855	Gujarat Properties (Gujarat.txt)	3 BHK Villa	Rajkot East	Rajkot / Gujarat	Villa / 3 BHK	2010	₹1.10 Cr	Fully-Furnished	2	Bachelors	Sale
+856	Gujarat Properties (Gujarat.txt)	3 BHK Independent House	Rajkot Extension	Rajkot / Gujarat	Independent House / 3 BHK	1293	₹25,000/month	Unfurnished	4	Bachelors	Rent
+857	Gujarat Properties (Gujarat.txt)	3 BHK Builder Floor	Vadodara Nagar	Vadodara / Gujarat	Builder Floor / 3 BHK	1246	₹22,800/month	Semi-Furnished	3	Any	Rent
+858	Gujarat Properties (Gujarat.txt)	4 BHK Builder Floor	Ahmedabad Sector 3	Ahmedabad / Gujarat	Builder Floor / 4 BHK	1790	₹1.30 Cr	Semi-Furnished	4	Family	Sale
+859	Gujarat Properties (Gujarat.txt)	2 BHK Apartment	Rajkot Sector 1	Rajkot / Gujarat	Apartment / 2 BHK	793	₹14,100/month	Semi-Furnished	2	Bachelors	Rent
+860	Gujarat Properties (Gujarat.txt)	2 BHK Apartment	Surat North	Surat / Gujarat	Apartment / 2 BHK	916	₹15,400/month	Fully-Furnished	2	Bachelors	Rent
+861	Gujarat Properties (Gujarat.txt)	2 BHK Apartment	Ahmedabad Main Road	Ahmedabad / Gujarat	Apartment / 2 BHK	1033	₹19,500/month	Fully-Furnished	3	Any	Rent
+862	Gujarat Properties (Gujarat.txt)	1 BHK Builder Floor	Vadodara Colony	Vadodara / Gujarat	Builder Floor / 1 BHK	559	₹10,600/month	Fully-Furnished	1	Bachelors	Rent
+863	Gujarat Properties (Gujarat.txt)	2 BHK Builder Floor	Ahmedabad Sector 2	Ahmedabad / Gujarat	Builder Floor / 2 BHK	754	₹56.83 L	Fully-Furnished	2	Any	Sale
+864	Gujarat Properties (Gujarat.txt)	1 BHK Studio	Rajkot West	Rajkot / Gujarat	Studio / 1 BHK	389	₹11,300/month	Semi-Furnished	1	Family	Rent
+865	Gujarat Properties (Gujarat.txt)	1 BHK Apartment	Rajkot South	Rajkot / Gujarat	Apartment / 1 BHK	604	₹40.01 L	Fully-Furnished	1	Bachelors	Sale
+866	Gujarat Properties (Gujarat.txt)	2 BHK Villa	Rajkot South	Rajkot / Gujarat	Villa / 2 BHK	1069	₹60.99 L	Fully-Furnished	2	Family	Sale
+867	Gujarat Properties (Gujarat.txt)	5 BHK Villa	Rajkot Nagar	Rajkot / Gujarat	Villa / 5 BHK	2911	₹1.39 Cr	Fully-Furnished	4	Family	Sale
+868	Gujarat Properties (Gujarat.txt)	2 BHK Builder Floor	Rajkot Central	Rajkot / Gujarat	Builder Floor / 2 BHK	729	₹14,900/month	Semi-Furnished	3	Bachelors	Rent
+869	Gujarat Properties (Gujarat.txt)	4 BHK Independent House	Surat Main Road	Surat / Gujarat	Independent House / 4 BHK	2110	₹1.12 Cr	Semi-Furnished	4	Bachelors	Sale
+870	Gujarat Properties (Gujarat.txt)	3 BHK Apartment	Rajkot South	Rajkot / Gujarat	Apartment / 3 BHK	1193	₹77.97 L	Fully-Furnished	3	Bachelors	Sale
+871	Gujarat Properties (Gujarat.txt)	2 BHK Apartment	Rajkot Heights	Rajkot / Gujarat	Apartment / 2 BHK	852	₹67.85 L	Fully-Furnished	2	Family	Sale
+872	Gujarat Properties (Gujarat.txt)	3 BHK Apartment	Surat Nagar	Surat / Gujarat	Apartment / 3 BHK	1241	₹80.75 L	Semi-Furnished	3	Family	Sale
+873	Gujarat Properties (Gujarat.txt)	1 BHK Independent House	Vadodara Colony	Vadodara / Gujarat	Independent House / 1 BHK	668	₹45.02 L	Semi-Furnished	1	Bachelors	Sale
+874	Gujarat Properties (Gujarat.txt)	2 BHK Apartment	Surat South	Surat / Gujarat	Apartment / 2 BHK	818	₹17,400/month	Unfurnished	2	Any	Rent
+875	Gujarat Properties (Gujarat.txt)	2 BHK Apartment	Vadodara Extension	Vadodara / Gujarat	Apartment / 2 BHK	722	₹62.50 L	Semi-Furnished	1	Bachelors	Sale
+876	Gujarat Properties (Gujarat.txt)	1 BHK Independent House	Ahmedabad Heights	Ahmedabad / Gujarat	Independent House / 1 BHK	701	₹13,600/month	Semi-Furnished	1	Any	Rent
+877	Gujarat Properties (Gujarat.txt)	1 BHK Independent House	Rajkot Town Centre	Rajkot / Gujarat	Independent House / 1 BHK	579	₹42.45 L	Unfurnished	1	Family	Sale
+878	Gujarat Properties (Gujarat.txt)	3 BHK Apartment	Vadodara North	Vadodara / Gujarat	Apartment / 3 BHK	1510	₹22,600/month	Fully-Furnished	2	Any	Rent
+879	Gujarat Properties (Gujarat.txt)	2 BHK Apartment	Rajkot East	Rajkot / Gujarat	Apartment / 2 BHK	962	₹16,000/month	Fully-Furnished	1	Bachelors	Rent
+880	Gujarat Properties (Gujarat.txt)	3 BHK Builder Floor	Ahmedabad Town Centre	Ahmedabad / Gujarat	Builder Floor / 3 BHK	1194	₹83.75 L	Fully-Furnished	3	Bachelors	Sale
+881	Gujarat Properties (Gujarat.txt)	3 BHK Apartment	Vadodara Extension	Vadodara / Gujarat	Apartment / 3 BHK	1265	₹94.81 L	Unfurnished	4	Bachelors	Sale
+882	Gujarat Properties (Gujarat.txt)	3 BHK Villa	Surat Sector 1	Surat / Gujarat	Villa / 3 BHK	1631	₹26,300/month	Semi-Furnished	3	Family	Rent
+883	Gujarat Properties (Gujarat.txt)	3 BHK Apartment	Vadodara Colony	Vadodara / Gujarat	Apartment / 3 BHK	1263	₹18,600/month	Unfurnished	3	Any	Rent
+884	Gujarat Properties (Gujarat.txt)	3 BHK Builder Floor	Surat Central	Surat / Gujarat	Builder Floor / 3 BHK	1781	₹27,300/month	Semi-Furnished	3	Bachelors	Rent
+885	Gujarat Properties (Gujarat.txt)	4 BHK Apartment	Surat Extension	Surat / Gujarat	Apartment / 4 BHK	2460	₹1.42 Cr	Unfurnished	5	Family	Sale
+886	Gujarat Properties (Gujarat.txt)	3 BHK Independent House	Vadodara North	Vadodara / Gujarat	Independent House / 3 BHK	1593	₹28,400/month	Semi-Furnished	3	Family	Rent
+887	Gujarat Properties (Gujarat.txt)	2 BHK Apartment	Ahmedabad Sector 3	Ahmedabad / Gujarat	Apartment / 2 BHK	796	₹62.31 L	Fully-Furnished	1	Family	Sale
+888	Gujarat Properties (Gujarat.txt)	2 BHK Independent House	Vadodara Sector 2	Vadodara / Gujarat	Independent House / 2 BHK	765	₹70.64 L	Semi-Furnished	1	Family	Sale
+889	Gujarat Properties (Gujarat.txt)	2 BHK Apartment	Surat West	Surat / Gujarat	Apartment / 2 BHK	877	₹56.87 L	Semi-Furnished	2	Family	Sale
+890	Gujarat Properties (Gujarat.txt)	3 BHK Apartment	Vadodara South	Vadodara / Gujarat	Apartment / 3 BHK	878	₹21,000/month	Unfurnished	3	Family	Rent
+891	Gujarat Properties (Gujarat.txt)	2 BHK Apartment	Surat West	Surat / Gujarat	Apartment / 2 BHK	774	₹16,400/month	Semi-Furnished	2	Bachelors	Rent
+892	Gujarat Properties (Gujarat.txt)	2 BHK Apartment	Rajkot East	Rajkot / Gujarat	Apartment / 2 BHK	471	₹17,200/month	Unfurnished	2	Family	Rent
+893	Gujarat Properties (Gujarat.txt)	2 BHK Builder Floor	Surat Residential Area	Surat / Gujarat	Builder Floor / 2 BHK	782	₹51.39 L	Unfurnished	2	Bachelors	Sale
+894	Gujarat Properties (Gujarat.txt)	3 BHK Independent House	Surat Main Road	Surat / Gujarat	Independent House / 3 BHK	1721	₹96.37 L	Semi-Furnished	2	Any	Sale
+895	Gujarat Properties (Gujarat.txt)	4 BHK Apartment	Vadodara East	Vadodara / Gujarat	Apartment / 4 BHK	1793	₹1.12 Cr	Fully-Furnished	5	Any	Sale
+896	Gujarat Properties (Gujarat.txt)	3 BHK Villa	Ahmedabad Extension	Ahmedabad / Gujarat	Villa / 3 BHK	1620	₹21,900/month	Semi-Furnished	2	Bachelors	Rent
+897	Gujarat Properties (Gujarat.txt)	3 BHK Builder Floor	Vadodara Central	Vadodara / Gujarat	Builder Floor / 3 BHK	1401	₹79.43 L	Unfurnished	2	Bachelors	Sale
+898	Gujarat Properties (Gujarat.txt)	1 BHK Builder Floor	Ahmedabad Residential Area	Ahmedabad / Gujarat	Builder Floor / 1 BHK	535	₹37.50 L	Unfurnished	1	Family	Sale
+899	Gujarat Properties (Gujarat.txt)	3 BHK Apartment	Ahmedabad Colony	Ahmedabad / Gujarat	Apartment / 3 BHK	892	₹72.53 L	Fully-Furnished	3	Family	Sale
+900	Gujarat Properties (Gujarat.txt)	1 BHK Apartment	Rajkot Main Road	Rajkot / Gujarat	Apartment / 1 BHK	578	₹39.46 L	Semi-Furnished	1	Family	Sale
+901	Gujarat Properties (Gujarat.txt)	2 BHK Independent House	Surat East	Surat / Gujarat	Independent House / 2 BHK	999	₹52.66 L	Semi-Furnished	2	Family	Sale
+902	Gujarat Properties (Gujarat.txt)	2 BHK Independent House	Ahmedabad Sector 3	Ahmedabad / Gujarat	Independent House / 2 BHK	930	₹15,500/month	Semi-Furnished	1	Bachelors	Rent
+903	Gujarat Properties (Gujarat.txt)	3 BHK Apartment	Vadodara Heights	Vadodara / Gujarat	Apartment / 3 BHK	1485	₹1.01 Cr	Semi-Furnished	3	Bachelors	Sale
+904	Gujarat Properties (Gujarat.txt)	3 BHK Builder Floor	Vadodara East	Vadodara / Gujarat	Builder Floor / 3 BHK	1273	₹20,900/month	Unfurnished	3	Any	Rent
+905	Gujarat Properties (Gujarat.txt)	4 BHK Independent House	Surat Nagar	Surat / Gujarat	Independent House / 4 BHK	2337	₹28,300/month	Unfurnished	4	Family	Rent
+906	Gujarat Properties (Gujarat.txt)	2 BHK Apartment	Vadodara Residential Area	Vadodara / Gujarat	Apartment / 2 BHK	1044	₹76.03 L	Semi-Furnished	1	Any	Sale
+907	Gujarat Properties (Gujarat.txt)	3 BHK Independent House	Vadodara Colony	Vadodara / Gujarat	Independent House / 3 BHK	1599	₹74.18 L	Fully-Furnished	2	Family	Sale
+908	Gujarat Properties (Gujarat.txt)	2 BHK Builder Floor	Rajkot North	Rajkot / Gujarat	Builder Floor / 2 BHK	794	₹50.39 L	Fully-Furnished	2	Family	Sale
+909	Gujarat Properties (Gujarat.txt)	1 BHK Builder Floor	Rajkot Main Road	Rajkot / Gujarat	Builder Floor / 1 BHK	590	₹41.36 L	Unfurnished	1	Family	Sale
+910	Gujarat Properties (Gujarat.txt)	3 BHK Apartment	Ahmedabad Colony	Ahmedabad / Gujarat	Apartment / 3 BHK	1205	₹90.35 L	Semi-Furnished	4	Family	Sale
+911	Gujarat Properties (Gujarat.txt)	1 BHK Apartment	Vadodara North	Vadodara / Gujarat	Apartment / 1 BHK	497	₹13,000/month	Semi-Furnished	1	Any	Rent
+912	Gujarat Properties (Gujarat.txt)	2 BHK Apartment	Surat Extension	Surat / Gujarat	Apartment / 2 BHK	781	₹70.19 L	Semi-Furnished	2	Family	Sale
+913	Gujarat Properties (Gujarat.txt)	1 BHK Villa	Vadodara Sector 2	Vadodara / Gujarat	Villa / 1 BHK	641	₹11,400/month	Semi-Furnished	1	Family	Rent
+914	Gujarat Properties (Gujarat.txt)	1 BHK Apartment	Surat Main Road	Surat / Gujarat	Apartment / 1 BHK	614	₹9,600/month	Fully-Furnished	1	Family	Rent
+915	Gujarat Properties (Gujarat.txt)	2 BHK Apartment	Rajkot Extension	Rajkot / Gujarat	Apartment / 2 BHK	702	₹13,400/month	Fully-Furnished	2	Any	Rent
+916	Gujarat Properties (Gujarat.txt)	3 BHK Apartment	Surat Sector 3	Surat / Gujarat	Apartment / 3 BHK	1451	₹99.38 L	Fully-Furnished	3	Any	Sale
+917	Gujarat Properties (Gujarat.txt)	4 BHK Apartment	Vadodara Town Centre	Vadodara / Gujarat	Apartment / 4 BHK	1759	₹98.83 L	Semi-Furnished	3	Family	Sale
+918	Gujarat Properties (Gujarat.txt)	3 BHK Apartment	Ahmedabad Sector 3	Ahmedabad / Gujarat	Apartment / 3 BHK	1053	₹17,600/month	Unfurnished	4	Bachelors	Rent
+919	Gujarat Properties (Gujarat.txt)	4 BHK Apartment	Vadodara Heights	Vadodara / Gujarat	Apartment / 4 BHK	1356	₹1.13 Cr	Semi-Furnished	4	Family	Sale
+920	Gujarat Properties (Gujarat.txt)	3 BHK Builder Floor	Ahmedabad Sector 2	Ahmedabad / Gujarat	Builder Floor / 3 BHK	1083	₹22,500/month	Unfurnished	4	Bachelors	Rent
+921	Gujarat Properties (Gujarat.txt)	1 BHK Independent House	Ahmedabad West	Ahmedabad / Gujarat	Independent House / 1 BHK	656	₹33.72 L	Fully-Furnished	1	Family	Sale
+922	Gujarat Properties (Gujarat.txt)	1 BHK Apartment	Rajkot Residential Area	Rajkot / Gujarat	Apartment / 1 BHK	618	₹47.03 L	Fully-Furnished	1	Family	Sale
+923	Gujarat Properties (Gujarat.txt)	4 BHK Builder Floor	Vadodara South	Vadodara / Gujarat	Builder Floor / 4 BHK	1913	₹1.06 Cr	Fully-Furnished	4	Family	Sale
+924	Gujarat Properties (Gujarat.txt)	5 BHK Apartment	Vadodara West	Vadodara / Gujarat	Apartment / 5 BHK	2395	₹37,300/month	Unfurnished	5	Any	Rent
+925	Gujarat Properties (Gujarat.txt)	2 BHK Apartment	Vadodara Heights	Vadodara / Gujarat	Apartment / 2 BHK	860	₹18,900/month	Unfurnished	1	Any	Rent
+926	Gujarat Properties (Gujarat.txt)	4 BHK Apartment	Surat Nagar	Surat / Gujarat	Apartment / 4 BHK	1762	₹24,200/month	Fully-Furnished	4	Family	Rent
+927	Gujarat Properties (Gujarat.txt)	4 BHK Apartment	Ahmedabad Sector 3	Ahmedabad / Gujarat	Apartment / 4 BHK	1736	₹92.16 L	Semi-Furnished	3	Bachelors	Sale
+928	Gujarat Properties (Gujarat.txt)	4 BHK Apartment	Surat Town Centre	Surat / Gujarat	Apartment / 4 BHK	1878	₹29,600/month	Unfurnished	4	Family	Rent
+929	Gujarat Properties (Gujarat.txt)	1 BHK Apartment	Rajkot North	Rajkot / Gujarat	Apartment / 1 BHK	472	₹39.04 L	Semi-Furnished	1	Bachelors	Sale
+930	Gujarat Properties (Gujarat.txt)	1 BHK Apartment	Vadodara Residential Area	Vadodara / Gujarat	Apartment / 1 BHK	538	₹13,000/month	Fully-Furnished	2	Family	Rent
+931	Gujarat Properties (Gujarat.txt)	2 BHK Independent House	Surat Colony	Surat / Gujarat	Independent House / 2 BHK	852	₹51.02 L	Fully-Furnished	3	Family	Sale
+932	Gujarat Properties (Gujarat.txt)	4 BHK Builder Floor	Rajkot Town Centre	Rajkot / Gujarat	Builder Floor / 4 BHK	1649	₹33,000/month	Fully-Furnished	3	Family	Rent
+933	Gujarat Properties (Gujarat.txt)	1 BHK Studio	Surat Town Centre	Surat / Gujarat	Studio / 1 BHK	351	₹31.24 L	Unfurnished	1	Family	Sale
+934	Gujarat Properties (Gujarat.txt)	3 BHK Villa	Rajkot Nagar	Rajkot / Gujarat	Villa / 3 BHK	1578	₹26,900/month	Unfurnished	3	Bachelors	Rent
+935	Gujarat Properties (Gujarat.txt)	1 BHK Studio	Vadodara Sector 1	Vadodara / Gujarat	Studio / 1 BHK	387	₹41.85 L	Semi-Furnished	1	Family	Sale
+936	Gujarat Properties (Gujarat.txt)	3 BHK Apartment	Surat Sector 3	Surat / Gujarat	Apartment / 3 BHK	1152	₹89.76 L	Unfurnished	4	Family	Sale
+937	Gujarat Properties (Gujarat.txt)	2 BHK Independent House	Rajkot Central	Rajkot / Gujarat	Independent House / 2 BHK	1225	₹72.57 L	Fully-Furnished	1	Bachelors	Sale
+938	Gujarat Properties (Gujarat.txt)	3 BHK Independent House	Surat Town Centre	Surat / Gujarat	Independent House / 3 BHK	1193	₹79.59 L	Unfurnished	2	Bachelors	Sale
+939	Gujarat Properties (Gujarat.txt)	3 BHK Apartment	Rajkot Central	Rajkot / Gujarat	Apartment / 3 BHK	1100	₹96.21 L	Semi-Furnished	3	Any	Sale
+940	Gujarat Properties (Gujarat.txt)	2 BHK Independent House	Ahmedabad Central	Ahmedabad / Gujarat	Independent House / 2 BHK	838	₹52.11 L	Fully-Furnished	2	Family	Sale
+941	Gujarat Properties (Gujarat.txt)	1 BHK Apartment	Vadodara Sector 3	Vadodara / Gujarat	Apartment / 1 BHK	458	₹40.18 L	Unfurnished	2	Bachelors	Sale
+942	Gujarat Properties (Gujarat.txt)	2 BHK Independent House	Ahmedabad South	Ahmedabad / Gujarat	Independent House / 2 BHK	925	₹14,300/month	Unfurnished	3	Any	Rent
+943	Gujarat Properties (Gujarat.txt)	4 BHK Builder Floor	Ahmedabad Extension	Ahmedabad / Gujarat	Builder Floor / 4 BHK	1995	₹1.28 Cr	Semi-Furnished	3	Family	Sale
+944	Gujarat Properties (Gujarat.txt)	1 BHK Apartment	Ahmedabad South	Ahmedabad / Gujarat	Apartment / 1 BHK	639	₹12,100/month	Semi-Furnished	1	Bachelors	Rent
+945	Gujarat Properties (Gujarat.txt)	4 BHK Apartment	Vadodara North	Vadodara / Gujarat	Apartment / 4 BHK	1503	₹1.19 Cr	Semi-Furnished	4	Family	Sale
+946	Gujarat Properties (Gujarat.txt)	4 BHK Apartment	Ahmedabad Colony	Ahmedabad / Gujarat	Apartment / 4 BHK	1424	₹31,800/month	Unfurnished	5	Bachelors	Rent
+947	Gujarat Properties (Gujarat.txt)	4 BHK Apartment	Surat West	Surat / Gujarat	Apartment / 4 BHK	1438	₹23,500/month	Fully-Furnished	4	Bachelors	Rent
+948	Gujarat Properties (Gujarat.txt)	3 BHK Apartment	Rajkot Colony	Rajkot / Gujarat	Apartment / 3 BHK	1355	₹81.02 L	Semi-Furnished	2	Bachelors	Sale
+949	Gujarat Properties (Gujarat.txt)	4 BHK Builder Floor	Rajkot Sector 2	Rajkot / Gujarat	Builder Floor / 4 BHK	1694	₹1.19 Cr	Semi-Furnished	3	Any	Sale
+950	Gujarat Properties (Gujarat.txt)	3 BHK Independent House	Ahmedabad West	Ahmedabad / Gujarat	Independent House / 3 BHK	1690	₹95.32 L	Fully-Furnished	3	Bachelors	Sale
+951	Gujarat Properties (Gujarat.txt)	2 BHK Independent House	Rajkot Main Road	Rajkot / Gujarat	Independent House / 2 BHK	1150	₹56.84 L	Unfurnished	1	Bachelors	Sale
+952	Gujarat Properties (Gujarat.txt)	5 BHK Apartment	Surat Central	Surat / Gujarat	Apartment / 5 BHK	1860	₹1.14 Cr	Unfurnished	5	Bachelors	Sale
+953	Gujarat Properties (Gujarat.txt)	2 BHK Apartment	Vadodara Nagar	Vadodara / Gujarat	Apartment / 2 BHK	983	₹66.49 L	Fully-Furnished	2	Bachelors	Sale
+954	Gujarat Properties (Gujarat.txt)	3 BHK Apartment	Ahmedabad Nagar	Ahmedabad / Gujarat	Apartment / 3 BHK	1324	₹21,400/month	Semi-Furnished	2	Any	Rent
+955	Gujarat Properties (Gujarat.txt)	1 BHK Apartment	Rajkot Extension	Rajkot / Gujarat	Apartment / 1 BHK	574	₹11,200/month	Unfurnished	1	Family	Rent
+956	Gujarat Properties (Gujarat.txt)	1 BHK Studio	Rajkot Sector 2	Rajkot / Gujarat	Studio / 1 BHK	415	₹30.29 L	Unfurnished	1	Any	Sale
+957	Gujarat Properties (Gujarat.txt)	3 BHK Builder Floor	Rajkot Sector 3	Rajkot / Gujarat	Builder Floor / 3 BHK	1123	₹79.02 L	Semi-Furnished	3	Family	Sale
+958	Gujarat Properties (Gujarat.txt)	1 BHK Apartment	Vadodara Nagar	Vadodara / Gujarat	Apartment / 1 BHK	503	₹39.43 L	Semi-Furnished	2	Family	Sale
+959	Gujarat Properties (Gujarat.txt)	4 BHK Apartment	Vadodara Nagar	Vadodara / Gujarat	Apartment / 4 BHK	1598	₹88.65 L	Fully-Furnished	5	Any	Sale
+960	Gujarat Properties (Gujarat.txt)	2 BHK Apartment	Rajkot Main Road	Rajkot / Gujarat	Apartment / 2 BHK	870	₹69.41 L	Unfurnished	3	Any	Sale
+961	Gujarat Properties (Gujarat.txt)	2 BHK Builder Floor	Surat Residential Area	Surat / Gujarat	Builder Floor / 2 BHK	939	₹69.96 L	Semi-Furnished	2	Bachelors	Sale
+962	Gujarat Properties (Gujarat.txt)	2 BHK Apartment	Rajkot Central	Rajkot / Gujarat	Apartment / 2 BHK	990	₹15,000/month	Unfurnished	2	Bachelors	Rent
+963	Gujarat Properties (Gujarat.txt)	1 BHK Apartment	Ahmedabad North	Ahmedabad / Gujarat	Apartment / 1 BHK	507	₹9,200/month	Fully-Furnished	2	Bachelors	Rent
+964	Gujarat Properties (Gujarat.txt)	4 BHK Builder Floor	Vadodara Town Centre	Vadodara / Gujarat	Builder Floor / 4 BHK	1662	₹1.21 Cr	Unfurnished	4	Any	Sale
+965	Gujarat Properties (Gujarat.txt)	2 BHK Apartment	Rajkot Central	Rajkot / Gujarat	Apartment / 2 BHK	839	₹18,300/month	Semi-Furnished	2	Any	Rent
+966	Gujarat Properties (Gujarat.txt)	2 BHK Independent House	Surat Residential Area	Surat / Gujarat	Independent House / 2 BHK	1197	₹78.75 L	Fully-Furnished	1	Family	Sale
+967	Gujarat Properties (Gujarat.txt)	2 BHK Apartment	Vadodara North	Vadodara / Gujarat	Apartment / 2 BHK	803	₹68.77 L	Fully-Furnished	2	Family	Sale
+968	Gujarat Properties (Gujarat.txt)	1 BHK Builder Floor	Ahmedabad South	Ahmedabad / Gujarat	Builder Floor / 1 BHK	479	₹32.15 L	Semi-Furnished	1	Bachelors	Sale
+969	Gujarat Properties (Gujarat.txt)	3 BHK Apartment	Rajkot Town Centre	Rajkot / Gujarat	Apartment / 3 BHK	1236	₹68.89 L	Fully-Furnished	3	Family	Sale
+970	Gujarat Properties (Gujarat.txt)	1 BHK Studio	Surat Colony	Surat / Gujarat	Studio / 1 BHK	371	₹33.87 L	Semi-Furnished	1	Any	Sale
+971	Gujarat Properties (Gujarat.txt)	1 BHK Apartment	Surat Colony	Surat / Gujarat	Apartment / 1 BHK	436	₹43.29 L	Semi-Furnished	2	Family	Sale
+972	Gujarat Properties (Gujarat.txt)	2 BHK Independent House	Vadodara Residential Area	Vadodara / Gujarat	Independent House / 2 BHK	1087	₹20,500/month	Unfurnished	2	Bachelors	Rent
+973	Gujarat Properties (Gujarat.txt)	2 BHK Independent House	Ahmedabad South	Ahmedabad / Gujarat	Independent House / 2 BHK	829	₹62.46 L	Semi-Furnished	3	Bachelors	Sale
+974	Gujarat Properties (Gujarat.txt)	2 BHK Apartment	Rajkot West	Rajkot / Gujarat	Apartment / 2 BHK	818	₹62.69 L	Fully-Furnished	2	Family	Sale
+975	Gujarat Properties (Gujarat.txt)	1 BHK Apartment	Ahmedabad Sector 1	Ahmedabad / Gujarat	Apartment / 1 BHK	639	₹41.22 L	Semi-Furnished	1	Family	Sale
+976	Gujarat Properties (Gujarat.txt)	2 BHK Apartment	Surat Extension	Surat / Gujarat	Apartment / 2 BHK	844	₹14,200/month	Semi-Furnished	2	Bachelors	Rent
+977	Gujarat Properties (Gujarat.txt)	3 BHK Apartment	Ahmedabad South	Ahmedabad / Gujarat	Apartment / 3 BHK	1364	₹20,500/month	Semi-Furnished	2	Bachelors	Rent
+978	Gujarat Properties (Gujarat.txt)	3 BHK Builder Floor	Vadodara Nagar	Vadodara / Gujarat	Builder Floor / 3 BHK	1193	₹21,700/month	Semi-Furnished	3	Bachelors	Rent
+979	Gujarat Properties (Gujarat.txt)	2 BHK Apartment	Ahmedabad East	Ahmedabad / Gujarat	Apartment / 2 BHK	1005	₹60.93 L	Unfurnished	2	Bachelors	Sale
+980	Gujarat Properties (Gujarat.txt)	2 BHK Apartment	Vadodara Central	Vadodara / Gujarat	Apartment / 2 BHK	1030	₹16,900/month	Semi-Furnished	2	Family	Rent
+981	Gujarat Properties (Gujarat.txt)	3 BHK Apartment	Surat East	Surat / Gujarat	Apartment / 3 BHK	1269	₹18,500/month	Fully-Furnished	2	Family	Rent
+982	Gujarat Properties (Gujarat.txt)	2 BHK Villa	Ahmedabad North	Ahmedabad / Gujarat	Villa / 2 BHK	1060	₹65.51 L	Unfurnished	2	Family	Sale
+983	Gujarat Properties (Gujarat.txt)	2 BHK Apartment	Ahmedabad Nagar	Ahmedabad / Gujarat	Apartment / 2 BHK	791	₹68.16 L	Semi-Furnished	3	Bachelors	Sale
+984	Gujarat Properties (Gujarat.txt)	3 BHK Apartment	Surat Colony	Surat / Gujarat	Apartment / 3 BHK	1723	₹78.65 L	Semi-Furnished	4	Any	Sale
+985	Gujarat Properties (Gujarat.txt)	2 BHK Apartment	Surat Sector 3	Surat / Gujarat	Apartment / 2 BHK	918	₹17,000/month	Fully-Furnished	2	Family	Rent
+986	Gujarat Properties (Gujarat.txt)	2 BHK Villa	Surat South	Surat / Gujarat	Villa / 2 BHK	1360	₹81.72 L	Semi-Furnished	3	Any	Sale
+987	Gujarat Properties (Gujarat.txt)	1 BHK Builder Floor	Vadodara South	Vadodara / Gujarat	Builder Floor / 1 BHK	481	₹41.86 L	Semi-Furnished	1	Bachelors	Sale
+988	Gujarat Properties (Gujarat.txt)	4 BHK Apartment	Rajkot Main Road	Rajkot / Gujarat	Apartment / 4 BHK	1585	₹25,900/month	Semi-Furnished	5	Family	Rent
+989	Gujarat Properties (Gujarat.txt)	2 BHK Builder Floor	Rajkot Sector 1	Rajkot / Gujarat	Builder Floor / 2 BHK	812	₹55.14 L	Semi-Furnished	1	Family	Sale
+990	Gujarat Properties (Gujarat.txt)	1 BHK Builder Floor	Vadodara Town Centre	Vadodara / Gujarat	Builder Floor / 1 BHK	524	₹11,400/month	Unfurnished	1	Family	Rent
+991	Gujarat Properties (Gujarat.txt)	2 BHK Builder Floor	Surat Extension	Surat / Gujarat	Builder Floor / 2 BHK	713	₹58.59 L	Fully-Furnished	1	Any	Sale
+992	Gujarat Properties (Gujarat.txt)	4 BHK Independent House	Surat Heights	Surat / Gujarat	Independent House / 4 BHK	2162	₹35,600/month	Semi-Furnished	4	Family	Rent
+993	Gujarat Properties (Gujarat.txt)	3 BHK Apartment	Vadodara Extension	Vadodara / Gujarat	Apartment / 3 BHK	1273	₹94.97 L	Semi-Furnished	2	Family	Sale
+994	Gujarat Properties (Gujarat.txt)	1 BHK Apartment	Vadodara East	Vadodara / Gujarat	Apartment / 1 BHK	584	₹43.46 L	Semi-Furnished	1	Any	Sale
+995	Gujarat Properties (Gujarat.txt)	1 BHK Apartment	Ahmedabad East	Ahmedabad / Gujarat	Apartment / 1 BHK	486	₹40.32 L	Fully-Furnished	2	Family	Sale
+996	Gujarat Properties (Gujarat.txt)	3 BHK Villa	Vadodara Heights	Vadodara / Gujarat	Villa / 3 BHK	1896	₹20,800/month	Semi-Furnished	4	Family	Rent
+997	Gujarat Properties (Gujarat.txt)	1 BHK Studio	Vadodara Nagar	Vadodara / Gujarat	Studio / 1 BHK	325	₹8,100/month	Unfurnished	2	Any	Rent
+998	Gujarat Properties (Gujarat.txt)	3 BHK Apartment	Rajkot Main Road	Rajkot / Gujarat	Apartment / 3 BHK	1350	₹71.41 L	Fully-Furnished	3	Family	Sale
+999	Gujarat Properties (Gujarat.txt)	3 BHK Builder Floor	Surat Extension	Surat / Gujarat	Builder Floor / 3 BHK	1389	₹25,800/month	Semi-Furnished	3	Family	Rent
+1000	Gujarat Properties (Gujarat.txt)	3 BHK Apartment	Ahmedabad Town Centre	Ahmedabad / Gujarat	Apartment / 3 BHK	1143	₹87.94 L	Fully-Furnished	3	Family	Sale
+1001	Gujarat Properties (Gujarat.txt)	2 BHK Apartment	Vadodara South	Vadodara / Gujarat	Apartment / 2 BHK	970	₹70.16 L	Semi-Furnished	3	Family	Sale
+1002	Gujarat Properties (Gujarat.txt)	2 BHK Apartment	Ahmedabad Sector 2	Ahmedabad / Gujarat	Apartment / 2 BHK	814	₹50.39 L	Semi-Furnished	1	Any	Sale
+1003	Gujarat Properties (Gujarat.txt)	2 BHK Apartment	Rajkot North	Rajkot / Gujarat	Apartment / 2 BHK	783	₹50.79 L	Fully-Furnished	3	Bachelors	Sale
+1004	Gujarat Properties (Gujarat.txt)	3 BHK Apartment	Surat Heights	Surat / Gujarat	Apartment / 3 BHK	1382	₹20,900/month	Semi-Furnished	2	Any	Rent
+1005	Gujarat Properties (Gujarat.txt)	3 BHK Builder Floor	Vadodara Central	Vadodara / Gujarat	Builder Floor / 3 BHK	1145	₹18,800/month	Unfurnished	4	Any	Rent
+1006	Gujarat Properties (Gujarat.txt)	2 BHK Builder Floor	Vadodara Nagar	Vadodara / Gujarat	Builder Floor / 2 BHK	752	₹19,300/month	Semi-Furnished	1	Bachelors	Rent
+1007	Gujarat Properties (Gujarat.txt)	1 BHK Studio	Rajkot West	Rajkot / Gujarat	Studio / 1 BHK	429	₹9,100/month	Semi-Furnished	1	Family	Rent
+1008	Gujarat Properties (Gujarat.txt)	2 BHK Apartment	Surat Main Road	Surat / Gujarat	Apartment / 2 BHK	779	₹13,900/month	Unfurnished	1	Family	Rent
+1009	Gujarat Properties (Gujarat.txt)	1 BHK Independent House	Rajkot South	Rajkot / Gujarat	Independent House / 1 BHK	565	₹10,800/month	Unfurnished	1	Family	Rent
+1010	Gujarat Properties (Gujarat.txt)	3 BHK Apartment	Surat Nagar	Surat / Gujarat	Apartment / 3 BHK	1553	₹80.14 L	Semi-Furnished	3	Bachelors	Sale
+1011	Gujarat Properties (Gujarat.txt)	2 BHK Apartment	Vadodara North	Vadodara / Gujarat	Apartment / 2 BHK	704	₹17,800/month	Fully-Furnished	3	Family	Rent
+1012	Gujarat Properties (Gujarat.txt)	2 BHK Independent House	Surat Heights	Surat / Gujarat	Independent House / 2 BHK	1094	₹68.64 L	Semi-Furnished	2	Family	Sale
+1013	Gujarat Properties (Gujarat.txt)	4 BHK Apartment	Ahmedabad Central	Ahmedabad / Gujarat	Apartment / 4 BHK	1966	₹1.33 Cr	Unfurnished	4	Bachelors	Sale
+1014	Gujarat Properties (Gujarat.txt)	2 BHK Apartment	Ahmedabad Main Road	Ahmedabad / Gujarat	Apartment / 2 BHK	643	₹63.14 L	Unfurnished	2	Any	Sale
+1015	Gujarat Properties (Gujarat.txt)	1 BHK Apartment	Vadodara Central	Vadodara / Gujarat	Apartment / 1 BHK	530	₹11,400/month	Fully-Furnished	1	Any	Rent
+1016	Gujarat Properties (Gujarat.txt)	2 BHK Independent House	Ahmedabad Sector 3	Ahmedabad / Gujarat	Independent House / 2 BHK	1190	₹15,200/month	Fully-Furnished	3	Family	Rent
+1017	Gujarat Properties (Gujarat.txt)	3 BHK Apartment	Vadodara South	Vadodara / Gujarat	Apartment / 3 BHK	1213	₹21,000/month	Fully-Furnished	2	Family	Rent
+1018	Gujarat Properties (Gujarat.txt)	2 BHK Villa	Rajkot Sector 3	Rajkot / Gujarat	Villa / 2 BHK	727	₹17,000/month	Semi-Furnished	2	Family	Rent
+1019	Gujarat Properties (Gujarat.txt)	3 BHK Villa	Ahmedabad Heights	Ahmedabad / Gujarat	Villa / 3 BHK	1811	₹1 Cr	Semi-Furnished	2	Any	Sale
+1020	Gujarat Properties (Gujarat.txt)	1 BHK Villa	Surat Heights	Surat / Gujarat	Villa / 1 BHK	546	₹13,200/month	Unfurnished	2	Bachelors	Rent
+1021	Gujarat Properties (Gujarat.txt)	2 BHK Villa	Rajkot Main Road	Rajkot / Gujarat	Villa / 2 BHK	1398	₹79.68 L	Semi-Furnished	3	Bachelors	Sale
+1022	Gujarat Properties (Gujarat.txt)	2 BHK Apartment	Ahmedabad Main Road	Ahmedabad / Gujarat	Apartment / 2 BHK	666	₹50.79 L	Semi-Furnished	2	Bachelors	Sale
+1023	Gujarat Properties (Gujarat.txt)	2 BHK Apartment	Surat Central	Surat / Gujarat	Apartment / 2 BHK	832	₹70.23 L	Fully-Furnished	2	Any	Sale
+1024	Gujarat Properties (Gujarat.txt)	3 BHK Builder Floor	Rajkot Main Road	Rajkot / Gujarat	Builder Floor / 3 BHK	1384	₹18,800/month	Semi-Furnished	3	Family	Rent
+1025	Gujarat Properties (Gujarat.txt)	4 BHK Apartment	Surat Town Centre	Surat / Gujarat	Apartment / 4 BHK	1675	₹33,000/month	Semi-Furnished	3	Any	Rent
+1026	Gujarat Properties (Gujarat.txt)	2 BHK Independent House	Vadodara North	Vadodara / Gujarat	Independent House / 2 BHK	790	₹16,500/month	Fully-Furnished	2	Family	Rent
+1027	Gujarat Properties (Gujarat.txt)	3 BHK Apartment	Rajkot Residential Area	Rajkot / Gujarat	Apartment / 3 BHK	1259	₹75.73 L	Fully-Furnished	3	Bachelors	Sale
+1028	Gujarat Properties (Gujarat.txt)	5 BHK Builder Floor	Rajkot Residential Area	Rajkot / Gujarat	Builder Floor / 5 BHK	3031	₹42,100/month	Fully-Furnished	5	Family	Rent
+1029	Gujarat Properties (Gujarat.txt)	2 BHK Apartment	Vadodara Sector 2	Vadodara / Gujarat	Apartment / 2 BHK	1058	₹54.29 L	Fully-Furnished	2	Any	Sale
+1030	Gujarat Properties (Gujarat.txt)	2 BHK Builder Floor	Vadodara North	Vadodara / Gujarat	Builder Floor / 2 BHK	1049	₹19,400/month	Semi-Furnished	2	Family	Rent
+1031	Gujarat Properties (Gujarat.txt)	3 BHK Apartment	Surat Main Road	Surat / Gujarat	Apartment / 3 BHK	1325	₹93.06 L	Fully-Furnished	3	Bachelors	Sale
+1032	Gujarat Properties (Gujarat.txt)	2 BHK Apartment	Ahmedabad East	Ahmedabad / Gujarat	Apartment / 2 BHK	696	₹17,400/month	Unfurnished	2	Family	Rent
+1033	Gujarat Properties (Gujarat.txt)	3 BHK Builder Floor	Vadodara Heights	Vadodara / Gujarat	Builder Floor / 3 BHK	1092	₹88.98 L	Semi-Furnished	2	Bachelors	Sale
+1034	Gujarat Properties (Gujarat.txt)	1 BHK Apartment	Rajkot East	Rajkot / Gujarat	Apartment / 1 BHK	338	₹30.40 L	Unfurnished	1	Bachelors	Sale
+1035	Gujarat Properties (Gujarat.txt)	2 BHK Independent House	Ahmedabad Central	Ahmedabad / Gujarat	Independent House / 2 BHK	974	₹64.74 L	Fully-Furnished	2	Bachelors	Sale
+1036	Gujarat Properties (Gujarat.txt)	1 BHK Studio	Vadodara Sector 1	Vadodara / Gujarat	Studio / 1 BHK	446	₹41.39 L	Unfurnished	1	Bachelors	Sale
+1037	Gujarat Properties (Gujarat.txt)	3 BHK Independent House	Vadodara North	Vadodara / Gujarat	Independent House / 3 BHK	1550	₹24,800/month	Unfurnished	3	Any	Rent
+1038	Gujarat Properties (Gujarat.txt)	1 BHK Studio	Ahmedabad Central	Ahmedabad / Gujarat	Studio / 1 BHK	369	₹9,600/month	Fully-Furnished	1	Family	Rent
+1039	Gujarat Properties (Gujarat.txt)	3 BHK Independent House	Rajkot Central	Rajkot / Gujarat	Independent House / 3 BHK	1263	₹26,200/month	Unfurnished	4	Family	Rent
+1040	Gujarat Properties (Gujarat.txt)	2 BHK Apartment	Rajkot Heights	Rajkot / Gujarat	Apartment / 2 BHK	871	₹68.45 L	Fully-Furnished	2	Any	Sale
+1041	Gujarat Properties (Gujarat.txt)	3 BHK Apartment	Vadodara Central	Vadodara / Gujarat	Apartment / 3 BHK	1335	₹23,500/month	Fully-Furnished	3	Any	Rent
+1042	Gujarat Properties (Gujarat.txt)	3 BHK Apartment	Vadodara Heights	Vadodara / Gujarat	Apartment / 3 BHK	1159	₹79.42 L	Fully-Furnished	3	Bachelors	Sale
+1043	Gujarat Properties (Gujarat.txt)	1 BHK Villa	Rajkot Central	Rajkot / Gujarat	Villa / 1 BHK	787	₹47.85 L	Semi-Furnished	1	Family	Sale
+1044	Gujarat Properties (Gujarat.txt)	4 BHK Apartment	Surat Sector 2	Surat / Gujarat	Apartment / 4 BHK	1877	₹28,300/month	Semi-Furnished	4	Family	Rent
+1045	Gujarat Properties (Gujarat.txt)	2 BHK Villa	Surat East	Surat / Gujarat	Villa / 2 BHK	905	₹59.89 L	Fully-Furnished	2	Family	Sale
+1046	Gujarat Properties (Gujarat.txt)	2 BHK Apartment	Rajkot West	Rajkot / Gujarat	Apartment / 2 BHK	793	₹59.99 L	Semi-Furnished	2	Family	Sale
+1047	Gujarat Properties (Gujarat.txt)	3 BHK Apartment	Ahmedabad South	Ahmedabad / Gujarat	Apartment / 3 BHK	1319	₹24,500/month	Fully-Furnished	2	Family	Rent
+1048	Gujarat Properties (Gujarat.txt)	2 BHK Villa	Rajkot Main Road	Rajkot / Gujarat	Villa / 2 BHK	857	₹16,200/month	Semi-Furnished	3	Bachelors	Rent
+1049	Gujarat Properties (Gujarat.txt)	2 BHK Independent House	Ahmedabad Nagar	Ahmedabad / Gujarat	Independent House / 2 BHK	961	₹16,000/month	Unfurnished	2	Bachelors	Rent
+1050	Gujarat Properties (Gujarat.txt)	3 BHK Apartment	Vadodara East	Vadodara / Gujarat	Apartment / 3 BHK	1270	₹88.99 L	Fully-Furnished	2	Family	Sale
+1051	Gujarat Properties (Gujarat.txt)	4 BHK Apartment	Vadodara Sector 1	Vadodara / Gujarat	Apartment / 4 BHK	1918	₹1.33 Cr	Semi-Furnished	5	Bachelors	Sale
+1052	Gujarat Properties (Gujarat.txt)	3 BHK Independent House	Surat Nagar	Surat / Gujarat	Independent House / 3 BHK	1369	₹22,400/month	Semi-Furnished	4	Bachelors	Rent
+1053	Gujarat Properties (Gujarat.txt)	4 BHK Apartment	Rajkot Nagar	Rajkot / Gujarat	Apartment / 4 BHK	1623	₹98.40 L	Unfurnished	4	Bachelors	Sale
+1054	Gujarat Properties (Gujarat.txt)	2 BHK Independent House	Vadodara Main Road	Vadodara / Gujarat	Independent House / 2 BHK	858	₹62.29 L	Semi-Furnished	2	Family	Sale
+1055	Gujarat Properties (Gujarat.txt)	3 BHK Apartment	Vadodara West	Vadodara / Gujarat	Apartment / 3 BHK	848	₹74.38 L	Semi-Furnished	3	Bachelors	Sale
+1056	Gujarat Properties (Gujarat.txt)	3 BHK Apartment	Vadodara Extension	Vadodara / Gujarat	Apartment / 3 BHK	1267	₹23,500/month	Fully-Furnished	3	Bachelors	Rent
+1057	Gujarat Properties (Gujarat.txt)	2 BHK Apartment	Vadodara South	Vadodara / Gujarat	Apartment / 2 BHK	850	₹55.67 L	Fully-Furnished	2	Family	Sale
+1058	Gujarat Properties (Gujarat.txt)	2 BHK Apartment	Vadodara Extension	Vadodara / Gujarat	Apartment / 2 BHK	781	₹49.83 L	Unfurnished	2	Family	Sale
+1059	Gujarat Properties (Gujarat.txt)	2 BHK Apartment	Surat South	Surat / Gujarat	Apartment / 2 BHK	873	₹50.76 L	Unfurnished	2	Bachelors	Sale
+1060	Gujarat Properties (Gujarat.txt)	3 BHK Apartment	Ahmedabad North	Ahmedabad / Gujarat	Apartment / 3 BHK	1055	₹82.90 L	Semi-Furnished	4	Bachelors	Sale
+1061	Gujarat Properties (Gujarat.txt)	1 BHK Apartment	Rajkot Sector 1	Rajkot / Gujarat	Apartment / 1 BHK	447	₹41.14 L	Semi-Furnished	1	Family	Sale
+1062	Gujarat Properties (Gujarat.txt)	3 BHK Villa	Surat Sector 2	Surat / Gujarat	Villa / 3 BHK	1651	₹20,200/month	Unfurnished	2	Any	Rent
+1063	Gujarat Properties (Gujarat.txt)	3 BHK Builder Floor	Surat Main Road	Surat / Gujarat	Builder Floor / 3 BHK	1148	₹93.97 L	Unfurnished	2	Any	Sale
+1064	Gujarat Properties (Gujarat.txt)	3 BHK Apartment	Rajkot East	Rajkot / Gujarat	Apartment / 3 BHK	1299	₹19,900/month	Semi-Furnished	3	Family	Rent
+1065	Gujarat Properties (Gujarat.txt)	2 BHK Apartment	Vadodara Sector 1	Vadodara / Gujarat	Apartment / 2 BHK	1265	₹77.63 L	Unfurnished	3	Family	Sale
+1066	Gujarat Properties (Gujarat.txt)	2 BHK Apartment	Rajkot Colony	Rajkot / Gujarat	Apartment / 2 BHK	876	₹50.74 L	Fully-Furnished	3	Any	Sale
+1067	Gujarat Properties (Gujarat.txt)	2 BHK Villa	Rajkot Residential Area	Rajkot / Gujarat	Villa / 2 BHK	1318	₹68.80 L	Unfurnished	2	Family	Sale
+1068	Gujarat Properties (Gujarat.txt)	3 BHK Apartment	Surat East	Surat / Gujarat	Apartment / 3 BHK	1170	₹22,100/month	Semi-Furnished	2	Any	Rent
+1069	Gujarat Properties (Gujarat.txt)	2 BHK Apartment	Rajkot Extension	Rajkot / Gujarat	Apartment / 2 BHK	815	₹15,300/month	Unfurnished	3	Any	Rent
+1070	Gujarat Properties (Gujarat.txt)	2 BHK Apartment	Surat South	Surat / Gujarat	Apartment / 2 BHK	729	₹61.96 L	Unfurnished	2	Any	Sale
+1071	Gujarat Properties (Gujarat.txt)	3 BHK Apartment	Rajkot Sector 1	Rajkot / Gujarat	Apartment / 3 BHK	970	₹73.67 L	Unfurnished	3	Any	Sale
+1072	Gujarat Properties (Gujarat.txt)	3 BHK Apartment	Ahmedabad Sector 3	Ahmedabad / Gujarat	Apartment / 3 BHK	1179	₹22,500/month	Fully-Furnished	2	Bachelors	Rent
+1073	Gujarat Properties (Gujarat.txt)	2 BHK Apartment	Vadodara Main Road	Vadodara / Gujarat	Apartment / 2 BHK	809	₹63.89 L	Unfurnished	2	Family	Sale
+1074	Gujarat Properties (Gujarat.txt)	1 BHK Villa	Surat Extension	Surat / Gujarat	Villa / 1 BHK	653	₹47.26 L	Fully-Furnished	1	Bachelors	Sale
+1075	Gujarat Properties (Gujarat.txt)	4 BHK Independent House	Vadodara Sector 3	Vadodara / Gujarat	Independent House / 4 BHK	2405	₹1.05 Cr	Semi-Furnished	4	Family	Sale
+1076	Gujarat Properties (Gujarat.txt)	3 BHK Independent House	Rajkot Main Road	Rajkot / Gujarat	Independent House / 3 BHK	1552	₹79.73 L	Semi-Furnished	2	Bachelors	Sale
+1077	Gujarat Properties (Gujarat.txt)	4 BHK Apartment	Rajkot Sector 3	Rajkot / Gujarat	Apartment / 4 BHK	2079	₹1.21 Cr	Unfurnished	5	Any	Sale
+1078	Gujarat Properties (Gujarat.txt)	3 BHK Apartment	Ahmedabad Extension	Ahmedabad / Gujarat	Apartment / 3 BHK	1388	₹1.01 Cr	Fully-Furnished	4	Family	Sale
+1079	Gujarat Properties (Gujarat.txt)	3 BHK Apartment	Surat Sector 2	Surat / Gujarat	Apartment / 3 BHK	1133	₹80.96 L	Semi-Furnished	3	Any	Sale
+1080	Gujarat Properties (Gujarat.txt)	2 BHK Apartment	Ahmedabad West	Ahmedabad / Gujarat	Apartment / 2 BHK	857	₹17,700/month	Unfurnished	1	Family	Rent
+1081	Gujarat Properties (Gujarat.txt)	4 BHK Independent House	Rajkot Heights	Rajkot / Gujarat	Independent House / 4 BHK	1930	₹1.25 Cr	Semi-Furnished	4	Family	Sale
+1082	Gujarat Properties (Gujarat.txt)	2 BHK Apartment	Surat Town Centre	Surat / Gujarat	Apartment / 2 BHK	988	₹50.96 L	Semi-Furnished	2	Bachelors	Sale
+1083	Gujarat Properties (Gujarat.txt)	3 BHK Apartment	Surat Residential Area	Surat / Gujarat	Apartment / 3 BHK	1394	₹70.15 L	Semi-Furnished	3	Any	Sale
+1084	Gujarat Properties (Gujarat.txt)	3 BHK Apartment	Vadodara Sector 1	Vadodara / Gujarat	Apartment / 3 BHK	1442	₹27,100/month	Fully-Furnished	2	Family	Rent
+1085	Gujarat Properties (Gujarat.txt)	2 BHK Independent House	Surat Main Road	Surat / Gujarat	Independent House / 2 BHK	1273	₹71.25 L	Semi-Furnished	3	Family	Sale
+1086	Gujarat Properties (Gujarat.txt)	4 BHK Apartment	Ahmedabad Heights	Ahmedabad / Gujarat	Apartment / 4 BHK	1762	₹1.13 Cr	Semi-Furnished	3	Family	Sale
+1087	Gujarat Properties (Gujarat.txt)	2 BHK Independent House	Surat Residential Area	Surat / Gujarat	Independent House / 2 BHK	1023	₹75.51 L	Semi-Furnished	1	Any	Sale
+1088	Gujarat Properties (Gujarat.txt)	2 BHK Apartment	Ahmedabad West	Ahmedabad / Gujarat	Apartment / 2 BHK	837	₹14,900/month	Semi-Furnished	1	Any	Rent
+1089	Gujarat Properties (Gujarat.txt)	2 BHK Apartment	Rajkot Sector 2	Rajkot / Gujarat	Apartment / 2 BHK	598	₹17,000/month	Semi-Furnished	2	Any	Rent
+1090	Gujarat Properties (Gujarat.txt)	2 BHK Independent House	Ahmedabad South	Ahmedabad / Gujarat	Independent House / 2 BHK	902	₹20,100/month	Semi-Furnished	2	Family	Rent
+1091	Gujarat Properties (Gujarat.txt)	1 BHK Independent House	Ahmedabad South	Ahmedabad / Gujarat	Independent House / 1 BHK	751	₹35.75 L	Semi-Furnished	1	Family	Sale
+1092	Gujarat Properties (Gujarat.txt)	1 BHK Apartment	Rajkot Colony	Rajkot / Gujarat	Apartment / 1 BHK	566	₹10,500/month	Fully-Furnished	2	Any	Rent
+1093	Gujarat Properties (Gujarat.txt)	1 BHK Independent House	Ahmedabad Nagar	Ahmedabad / Gujarat	Independent House / 1 BHK	618	₹35.42 L	Unfurnished	2	Any	Sale
+1094	Gujarat Properties (Gujarat.txt)	1 BHK Independent House	Ahmedabad Main Road	Ahmedabad / Gujarat	Independent House / 1 BHK	609	₹33.64 L	Semi-Furnished	1	Any	Sale
+1095	Gujarat Properties (Gujarat.txt)	2 BHK Builder Floor	Vadodara Sector 1	Vadodara / Gujarat	Builder Floor / 2 BHK	680	₹17,100/month	Fully-Furnished	2	Bachelors	Rent
+1096	Gujarat Properties (Gujarat.txt)	3 BHK Apartment	Surat Heights	Surat / Gujarat	Apartment / 3 BHK	1333	₹97.33 L	Fully-Furnished	4	Family	Sale
+1097	Gujarat Properties (Gujarat.txt)	3 BHK Independent House	Vadodara Sector 3	Vadodara / Gujarat	Independent House / 3 BHK	1410	₹19,000/month	Fully-Furnished	3	Bachelors	Rent
+1098	Gujarat Properties (Gujarat.txt)	2 BHK Villa	Surat West	Surat / Gujarat	Villa / 2 BHK	962	₹13,900/month	Fully-Furnished	2	Family	Rent
+1099	Gujarat Properties (Gujarat.txt)	2 BHK Apartment	Surat East	Surat / Gujarat	Apartment / 2 BHK	785	₹14,400/month	Unfurnished	2	Bachelors	Rent
+1100	Gujarat Properties (Gujarat.txt)	1 BHK Independent House	Surat West	Surat / Gujarat	Independent House / 1 BHK	620	₹34.15 L	Unfurnished	1	Family	Sale
+1101	Gujarat Properties (Gujarat.txt)	2 BHK Apartment	Surat Town Centre	Surat / Gujarat	Apartment / 2 BHK	713	₹50.63 L	Unfurnished	1	Bachelors	Sale
+1102	Gujarat Properties (Gujarat.txt)	3 BHK Villa	Ahmedabad North	Ahmedabad / Gujarat	Villa / 3 BHK	1406	₹19,300/month	Semi-Furnished	3	Family	Rent
+1103	Gujarat Properties (Gujarat.txt)	2 BHK Independent House	Ahmedabad South	Ahmedabad / Gujarat	Independent House / 2 BHK	630	₹16,600/month	Fully-Furnished	2	Any	Rent
+1104	Gujarat Properties (Gujarat.txt)	1 BHK Studio	Vadodara Town Centre	Vadodara / Gujarat	Studio / 1 BHK	427	₹34.66 L	Fully-Furnished	1	Family	Sale
+1105	Gujarat Properties (Gujarat.txt)	4 BHK Builder Floor	Rajkot Extension	Rajkot / Gujarat	Builder Floor / 4 BHK	1726	₹32,900/month	Unfurnished	4	Family	Rent
+1106	Gujarat Properties (Gujarat.txt)	3 BHK Independent House	Vadodara Residential Area	Vadodara / Gujarat	Independent House / 3 BHK	1377	₹80.42 L	Semi-Furnished	3	Family	Sale
+1107	Gujarat Properties (Gujarat.txt)	2 BHK Villa	Rajkot Sector 1	Rajkot / Gujarat	Villa / 2 BHK	1170	₹18,500/month	Unfurnished	2	Bachelors	Rent
+1108	Gujarat Properties (Gujarat.txt)	2 BHK Builder Floor	Rajkot Sector 2	Rajkot / Gujarat	Builder Floor / 2 BHK	566	₹62.30 L	Semi-Furnished	2	Bachelors	Sale
+1109	Gujarat Properties (Gujarat.txt)	2 BHK Apartment	Ahmedabad Sector 2	Ahmedabad / Gujarat	Apartment / 2 BHK	769	₹61.85 L	Semi-Furnished	1	Any	Sale
+1110	Gujarat Properties (Gujarat.txt)	4 BHK Builder Floor	Surat Nagar	Surat / Gujarat	Builder Floor / 4 BHK	1753	₹1.29 Cr	Semi-Furnished	4	Bachelors	Sale
+1111	Gujarat Properties (Gujarat.txt)	2 BHK Builder Floor	Vadodara Sector 1	Vadodara / Gujarat	Builder Floor / 2 BHK	805	₹13,500/month	Semi-Furnished	2	Bachelors	Rent
+1112	Gujarat Properties (Gujarat.txt)	3 BHK Apartment	Rajkot Sector 1	Rajkot / Gujarat	Apartment / 3 BHK	1494	₹91 L	Semi-Furnished	2	Any	Sale
+1113	Gujarat Properties (Gujarat.txt)	3 BHK Apartment	Ahmedabad Sector 3	Ahmedabad / Gujarat	Apartment / 3 BHK	1197	₹88.24 L	Semi-Furnished	3	Family	Sale
+1114	Gujarat Properties (Gujarat.txt)	2 BHK Apartment	Rajkot Main Road	Rajkot / Gujarat	Apartment / 2 BHK	688	₹65.45 L	Fully-Furnished	2	Bachelors	Sale
+1115	Gujarat Properties (Gujarat.txt)	2 BHK Apartment	Surat Sector 3	Surat / Gujarat	Apartment / 2 BHK	718	₹65.03 L	Unfurnished	2	Family	Sale
+1116	Gujarat Properties (Gujarat.txt)	3 BHK Apartment	Surat Main Road	Surat / Gujarat	Apartment / 3 BHK	1193	₹68.73 L	Semi-Furnished	3	Any	Sale
+1117	Gujarat Properties (Gujarat.txt)	3 BHK Apartment	Surat Main Road	Surat / Gujarat	Apartment / 3 BHK	1328	₹80.92 L	Semi-Furnished	3	Any	Sale
+1118	Gujarat Properties (Gujarat.txt)	5 BHK Independent House	Ahmedabad Central	Ahmedabad / Gujarat	Independent House / 5 BHK	2596	₹40,700/month	Fully-Furnished	6	Bachelors	Rent
+1119	Gujarat Properties (Gujarat.txt)	2 BHK Independent House	Rajkot Town Centre	Rajkot / Gujarat	Independent House / 2 BHK	944	₹15,900/month	Semi-Furnished	2	Family	Rent
+1120	Gujarat Properties (Gujarat.txt)	2 BHK Apartment	Vadodara South	Vadodara / Gujarat	Apartment / 2 BHK	892	₹70.06 L	Semi-Furnished	1	Family	Sale
+1121	Gujarat Properties (Gujarat.txt)	3 BHK Apartment	Vadodara Main Road	Vadodara / Gujarat	Apartment / 3 BHK	1365	₹20,400/month	Unfurnished	3	Family	Rent
+1122	Gujarat Properties (Gujarat.txt)	4 BHK Builder Floor	Rajkot Colony	Rajkot / Gujarat	Builder Floor / 4 BHK	1438	₹25,400/month	Semi-Furnished	4	Family	Rent
+1123	Gujarat Properties (Gujarat.txt)	2 BHK Builder Floor	Vadodara Town Centre	Vadodara / Gujarat	Builder Floor / 2 BHK	960	₹64.47 L	Unfurnished	1	Any	Sale
+1124	Gujarat Properties (Gujarat.txt)	1 BHK Studio	Vadodara Town Centre	Vadodara / Gujarat	Studio / 1 BHK	458	₹12,300/month	Semi-Furnished	1	Family	Rent
+1125	Gujarat Properties (Gujarat.txt)	1 BHK Apartment	Surat Sector 3	Surat / Gujarat	Apartment / 1 BHK	454	₹37.43 L	Fully-Furnished	1	Family	Sale
+1126	Gujarat Properties (Gujarat.txt)	2 BHK Apartment	Surat Town Centre	Surat / Gujarat	Apartment / 2 BHK	926	₹16,900/month	Fully-Furnished	2	Any	Rent
+1127	Gujarat Properties (Gujarat.txt)	3 BHK Builder Floor	Surat North	Surat / Gujarat	Builder Floor / 3 BHK	1241	₹77.90 L	Semi-Furnished	3	Any	Sale
+1128	Gujarat Properties (Gujarat.txt)	4 BHK Apartment	Ahmedabad Main Road	Ahmedabad / Gujarat	Apartment / 4 BHK	1906	₹1.19 Cr	Unfurnished	3	Bachelors	Sale
+1129	Gujarat Properties (Gujarat.txt)	1 BHK Studio	Ahmedabad Central	Ahmedabad / Gujarat	Studio / 1 BHK	354	₹9,200/month	Semi-Furnished	2	Family	Rent
+1130	Gujarat Properties (Gujarat.txt)	4 BHK Apartment	Vadodara West	Vadodara / Gujarat	Apartment / 4 BHK	1959	₹1.04 Cr	Unfurnished	4	Bachelors	Sale
+1131	Gujarat Properties (Gujarat.txt)	4 BHK Apartment	Ahmedabad Central	Ahmedabad / Gujarat	Apartment / 4 BHK	1737	₹1.10 Cr	Unfurnished	4	Any	Sale
+1132	Gujarat Properties (Gujarat.txt)	2 BHK Builder Floor	Rajkot Colony	Rajkot / Gujarat	Builder Floor / 2 BHK	821	₹57.89 L	Semi-Furnished	2	Any	Sale
+1133	Gujarat Properties (Gujarat.txt)	2 BHK Apartment	Vadodara Colony	Vadodara / Gujarat	Apartment / 2 BHK	920	₹60.41 L	Fully-Furnished	1	Any	Sale
+1134	Gujarat Properties (Gujarat.txt)	2 BHK Apartment	Vadodara Sector 3	Vadodara / Gujarat	Apartment / 2 BHK	976	₹67.26 L	Semi-Furnished	1	Bachelors	Sale
+1135	Gujarat Properties (Gujarat.txt)	3 BHK Independent House	Vadodara Town Centre	Vadodara / Gujarat	Independent House / 3 BHK	1981	₹30,000/month	Semi-Furnished	4	Bachelors	Rent
+1136	Gujarat Properties (Gujarat.txt)	3 BHK Builder Floor	Rajkot Town Centre	Rajkot / Gujarat	Builder Floor / 3 BHK	1106	₹18,500/month	Semi-Furnished	2	Family	Rent
+1137	Gujarat Properties (Gujarat.txt)	3 BHK Builder Floor	Vadodara Colony	Vadodara / Gujarat	Builder Floor / 3 BHK	1365	₹75.30 L	Semi-Furnished	4	Family	Sale
+1138	Gujarat Properties (Gujarat.txt)	2 BHK Apartment	Vadodara Extension	Vadodara / Gujarat	Apartment / 2 BHK	770	₹16,200/month	Unfurnished	2	Family	Rent
+1139	Gujarat Properties (Gujarat.txt)	2 BHK Apartment	Surat Central	Surat / Gujarat	Apartment / 2 BHK	760	₹56.61 L	Semi-Furnished	3	Family	Sale
+1140	Gujarat Properties (Gujarat.txt)	3 BHK Independent House	Vadodara Colony	Vadodara / Gujarat	Independent House / 3 BHK	1663	₹1.04 Cr	Fully-Furnished	4	Family	Sale
+1141	Gujarat Properties (Gujarat.txt)	5 BHK Apartment	Vadodara Sector 1	Vadodara / Gujarat	Apartment / 5 BHK	2499	₹36,800/month	Fully-Furnished	5	Family	Rent
+1142	Gujarat Properties (Gujarat.txt)	1 BHK Studio	Vadodara Town Centre	Vadodara / Gujarat	Studio / 1 BHK	377	₹9,700/month	Unfurnished	2	Family	Rent
+1143	Gujarat Properties (Gujarat.txt)	4 BHK Apartment	Ahmedabad Main Road	Ahmedabad / Gujarat	Apartment / 4 BHK	1514	₹1.02 Cr	Fully-Furnished	4	Any	Sale
+1144	Gujarat Properties (Gujarat.txt)	1 BHK Apartment	Rajkot Sector 3	Rajkot / Gujarat	Apartment / 1 BHK	538	₹9,600/month	Fully-Furnished	1	Bachelors	Rent
+1145	Gujarat Properties (Gujarat.txt)	1 BHK Builder Floor	Ahmedabad Sector 3	Ahmedabad / Gujarat	Builder Floor / 1 BHK	475	₹30.55 L	Fully-Furnished	1	Family	Sale
+1146	Gujarat Properties (Gujarat.txt)	2 BHK Villa	Vadodara Colony	Vadodara / Gujarat	Villa / 2 BHK	1118	₹63.99 L	Semi-Furnished	3	Family	Sale
+1147	Gujarat Properties (Gujarat.txt)	4 BHK Apartment	Ahmedabad Sector 3	Ahmedabad / Gujarat	Apartment / 4 BHK	1947	₹1.25 Cr	Semi-Furnished	4	Any	Sale
+1148	Gujarat Properties (Gujarat.txt)	2 BHK Villa	Surat West	Surat / Gujarat	Villa / 2 BHK	1135	₹20,000/month	Semi-Furnished	3	Bachelors	Rent
+1149	Gujarat Properties (Gujarat.txt)	1 BHK Apartment	Vadodara Nagar	Vadodara / Gujarat	Apartment / 1 BHK	616	₹11,000/month	Fully-Furnished	1	Family	Rent
+1150	Gujarat Properties (Gujarat.txt)	2 BHK Apartment	Vadodara Central	Vadodara / Gujarat	Apartment / 2 BHK	931	₹72.94 L	Semi-Furnished	2	Family	Sale
+1151	Gujarat Properties (Gujarat.txt)	1 BHK Apartment	Rajkot Sector 2	Rajkot / Gujarat	Apartment / 1 BHK	421	₹10,600/month	Unfurnished	1	Family	Rent
+1152	Gujarat Properties (Gujarat.txt)	1 BHK Apartment	Surat Central	Surat / Gujarat	Apartment / 1 BHK	392	₹11,900/month	Fully-Furnished	1	Bachelors	Rent
+1153	Gujarat Properties (Gujarat.txt)	1 BHK Studio	Vadodara North	Vadodara / Gujarat	Studio / 1 BHK	471	₹39.51 L	Fully-Furnished	1	Bachelors	Sale
+1154	Gujarat Properties (Gujarat.txt)	3 BHK Apartment	Vadodara North	Vadodara / Gujarat	Apartment / 3 BHK	1495	₹70.95 L	Fully-Furnished	2	Family	Sale
+1155	Gujarat Properties (Gujarat.txt)	3 BHK Builder Floor	Vadodara Sector 1	Vadodara / Gujarat	Builder Floor / 3 BHK	1104	₹92.91 L	Semi-Furnished	4	Any	Sale
+1156	Gujarat Properties (Gujarat.txt)	2 BHK Builder Floor	Ahmedabad Sector 1	Ahmedabad / Gujarat	Builder Floor / 2 BHK	860	₹69.79 L	Unfurnished	3	Bachelors	Sale
+1157	Gujarat Properties (Gujarat.txt)	3 BHK Apartment	Ahmedabad Sector 1	Ahmedabad / Gujarat	Apartment / 3 BHK	1053	₹25,500/month	Semi-Furnished	3	Any	Rent
+1158	Gujarat Properties (Gujarat.txt)	1 BHK Builder Floor	Vadodara Sector 1	Vadodara / Gujarat	Builder Floor / 1 BHK	547	₹10,800/month	Fully-Furnished	2	Family	Rent
+1159	Gujarat Properties (Gujarat.txt)	2 BHK Builder Floor	Rajkot Nagar	Rajkot / Gujarat	Builder Floor / 2 BHK	731	₹16,200/month	Unfurnished	1	Any	Rent
+1160	Gujarat Properties (Gujarat.txt)	2 BHK Builder Floor	Surat Nagar	Surat / Gujarat	Builder Floor / 2 BHK	669	₹65.86 L	Semi-Furnished	2	Any	Sale
+1161	Gujarat Properties (Gujarat.txt)	1 BHK Builder Floor	Ahmedabad Colony	Ahmedabad / Gujarat	Builder Floor / 1 BHK	416	₹43.89 L	Semi-Furnished	1	Bachelors	Sale
+1162	Gujarat Properties (Gujarat.txt)	5 BHK Apartment	Ahmedabad Sector 1	Ahmedabad / Gujarat	Apartment / 5 BHK	2178	₹1.57 Cr	Fully-Furnished	5	Any	Sale
+1163	Gujarat Properties (Gujarat.txt)	2 BHK Villa	Rajkot West	Rajkot / Gujarat	Villa / 2 BHK	1111	₹68.25 L	Unfurnished	2	Family	Sale
+1164	Gujarat Properties (Gujarat.txt)	1 BHK Studio	Surat Town Centre	Surat / Gujarat	Studio / 1 BHK	390	₹34.99 L	Semi-Furnished	1	Family	Sale
+1165	Gujarat Properties (Gujarat.txt)	2 BHK Independent House	Rajkot Town Centre	Rajkot / Gujarat	Independent House / 2 BHK	1026	₹14,600/month	Semi-Furnished	2	Bachelors	Rent
+1166	Gujarat Properties (Gujarat.txt)	3 BHK Apartment	Vadodara Nagar	Vadodara / Gujarat	Apartment / 3 BHK	1442	₹27,200/month	Unfurnished	3	Any	Rent
+1167	Gujarat Properties (Gujarat.txt)	1 BHK Villa	Surat Heights	Surat / Gujarat	Villa / 1 BHK	748	₹12,800/month	Semi-Furnished	1	Family	Rent
+1168	Gujarat Properties (Gujarat.txt)	3 BHK Apartment	Ahmedabad South	Ahmedabad / Gujarat	Apartment / 3 BHK	1199	₹18,800/month	Semi-Furnished	4	Bachelors	Rent
+1169	Gujarat Properties (Gujarat.txt)	2 BHK Apartment	Rajkot South	Rajkot / Gujarat	Apartment / 2 BHK	836	₹72.01 L	Semi-Furnished	2	Family	Sale
+1170	Gujarat Properties (Gujarat.txt)	1 BHK Villa	Vadodara South	Vadodara / Gujarat	Villa / 1 BHK	650	₹41.43 L	Unfurnished	1	Family	Sale
+1171	Gujarat Properties (Gujarat.txt)	4 BHK Apartment	Vadodara West	Vadodara / Gujarat	Apartment / 4 BHK	1632	₹33,300/month	Unfurnished	4	Family	Rent

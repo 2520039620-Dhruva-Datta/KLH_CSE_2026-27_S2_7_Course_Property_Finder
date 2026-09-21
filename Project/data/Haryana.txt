@@ -1,0 +1,1172 @@
+No.	Source	Property	Location	City / State	Type / Config	Area	Price / Rent	Furnishing	Bathrooms	Tennants	Listing Type
+1	Haryana Properties (Haryana.txt)	3 BHK Builder Floor	Gurugram West	Gurugram / Haryana	Builder Floor / 3 BHK	1379	₹26,400/month	Fully-Furnished	4	Family	Rent
+2	Haryana Properties (Haryana.txt)	4 BHK Independent House	Panipat Sector 1	Panipat / Haryana	Independent House / 4 BHK	2072	₹1.51 Cr	Semi-Furnished	4	Family	Sale
+3	Haryana Properties (Haryana.txt)	3 BHK Apartment	Gurugram Colony	Gurugram / Haryana	Apartment / 3 BHK	1412	₹1.17 Cr	Semi-Furnished	3	Family	Sale
+4	Haryana Properties (Haryana.txt)	3 BHK Independent House	Panipat Sector 3	Panipat / Haryana	Independent House / 3 BHK	1491	₹95.73 L	Semi-Furnished	3	Any	Sale
+5	Haryana Properties (Haryana.txt)	1 BHK Apartment	Gurugram Town Centre	Gurugram / Haryana	Apartment / 1 BHK	514	₹47.57 L	Fully-Furnished	1	Family	Sale
+6	Haryana Properties (Haryana.txt)	3 BHK Apartment	Panipat West	Panipat / Haryana	Apartment / 3 BHK	1147	₹22,900/month	Semi-Furnished	3	Family	Rent
+7	Haryana Properties (Haryana.txt)	2 BHK Apartment	Karnal Heights	Karnal / Haryana	Apartment / 2 BHK	1094	₹84.88 L	Semi-Furnished	3	Family	Sale
+8	Haryana Properties (Haryana.txt)	2 BHK Independent House	Gurugram West	Gurugram / Haryana	Independent House / 2 BHK	1031	₹89.65 L	Semi-Furnished	2	Any	Sale
+9	Haryana Properties (Haryana.txt)	3 BHK Villa	Faridabad Sector 3	Faridabad / Haryana	Villa / 3 BHK	1870	₹25,300/month	Semi-Furnished	3	Bachelors	Rent
+10	Haryana Properties (Haryana.txt)	1 BHK Builder Floor	Karnal Town Centre	Karnal / Haryana	Builder Floor / 1 BHK	460	₹38.67 L	Fully-Furnished	1	Any	Sale
+11	Haryana Properties (Haryana.txt)	4 BHK Villa	Faridabad Sector 1	Faridabad / Haryana	Villa / 4 BHK	2082	₹33,800/month	Unfurnished	4	Any	Rent
+12	Haryana Properties (Haryana.txt)	3 BHK Apartment	Gurugram South	Gurugram / Haryana	Apartment / 3 BHK	1204	₹24,600/month	Semi-Furnished	3	Any	Rent
+13	Haryana Properties (Haryana.txt)	2 BHK Builder Floor	Faridabad Main Road	Faridabad / Haryana	Builder Floor / 2 BHK	883	₹87.67 L	Semi-Furnished	2	Family	Sale
+14	Haryana Properties (Haryana.txt)	2 BHK Builder Floor	Panipat Heights	Panipat / Haryana	Builder Floor / 2 BHK	737	₹23,300/month	Fully-Furnished	1	Family	Rent
+15	Haryana Properties (Haryana.txt)	2 BHK Builder Floor	Gurugram Sector 1	Gurugram / Haryana	Builder Floor / 2 BHK	842	₹77.88 L	Semi-Furnished	2	Bachelors	Sale
+16	Haryana Properties (Haryana.txt)	3 BHK Apartment	Gurugram Central	Gurugram / Haryana	Apartment / 3 BHK	1307	₹30,800/month	Semi-Furnished	2	Any	Rent
+17	Haryana Properties (Haryana.txt)	2 BHK Apartment	Gurugram Residential Area	Gurugram / Haryana	Apartment / 2 BHK	788	₹21,300/month	Unfurnished	1	Family	Rent
+18	Haryana Properties (Haryana.txt)	2 BHK Apartment	Karnal Heights	Karnal / Haryana	Apartment / 2 BHK	774	₹83.40 L	Fully-Furnished	2	Any	Sale
+19	Haryana Properties (Haryana.txt)	3 BHK Apartment	Faridabad South	Faridabad / Haryana	Apartment / 3 BHK	1181	₹22,000/month	Unfurnished	4	Any	Rent
+20	Haryana Properties (Haryana.txt)	1 BHK Studio	Karnal Colony	Karnal / Haryana	Studio / 1 BHK	356	₹12,100/month	Fully-Furnished	2	Any	Rent
+21	Haryana Properties (Haryana.txt)	1 BHK Builder Floor	Gurugram Town Centre	Gurugram / Haryana	Builder Floor / 1 BHK	439	₹43.53 L	Unfurnished	2	Bachelors	Sale
+22	Haryana Properties (Haryana.txt)	1 BHK Independent House	Panipat Main Road	Panipat / Haryana	Independent House / 1 BHK	715	₹51.92 L	Unfurnished	1	Any	Sale
+23	Haryana Properties (Haryana.txt)	3 BHK Villa	Panipat Colony	Panipat / Haryana	Villa / 3 BHK	2110	₹1.33 Cr	Unfurnished	4	Family	Sale
+24	Haryana Properties (Haryana.txt)	3 BHK Apartment	Faridabad North	Faridabad / Haryana	Apartment / 3 BHK	1197	₹1.04 Cr	Fully-Furnished	3	Any	Sale
+25	Haryana Properties (Haryana.txt)	3 BHK Builder Floor	Gurugram West	Gurugram / Haryana	Builder Floor / 3 BHK	1257	₹1.12 Cr	Semi-Furnished	2	Bachelors	Sale
+26	Haryana Properties (Haryana.txt)	2 BHK Apartment	Faridabad Residential Area	Faridabad / Haryana	Apartment / 2 BHK	707	₹21,600/month	Semi-Furnished	3	Family	Rent
+27	Haryana Properties (Haryana.txt)	4 BHK Apartment	Faridabad Nagar	Faridabad / Haryana	Apartment / 4 BHK	1695	₹34,700/month	Semi-Furnished	3	Family	Rent
+28	Haryana Properties (Haryana.txt)	2 BHK Independent House	Panipat Heights	Panipat / Haryana	Independent House / 2 BHK	807	₹22,600/month	Semi-Furnished	1	Any	Rent
+29	Haryana Properties (Haryana.txt)	1 BHK Apartment	Gurugram East	Gurugram / Haryana	Apartment / 1 BHK	590	₹54.66 L	Semi-Furnished	1	Any	Sale
+30	Haryana Properties (Haryana.txt)	3 BHK Independent House	Gurugram West	Gurugram / Haryana	Independent House / 3 BHK	1639	₹1.29 Cr	Fully-Furnished	3	Family	Sale
+31	Haryana Properties (Haryana.txt)	2 BHK Villa	Panipat Extension	Panipat / Haryana	Villa / 2 BHK	908	₹24,300/month	Semi-Furnished	1	Bachelors	Rent
+32	Haryana Properties (Haryana.txt)	3 BHK Apartment	Gurugram Sector 3	Gurugram / Haryana	Apartment / 3 BHK	1282	₹24,000/month	Semi-Furnished	4	Bachelors	Rent
+33	Haryana Properties (Haryana.txt)	3 BHK Apartment	Gurugram Heights	Gurugram / Haryana	Apartment / 3 BHK	1446	₹85.26 L	Fully-Furnished	4	Family	Sale
+34	Haryana Properties (Haryana.txt)	1 BHK Studio	Panipat Sector 3	Panipat / Haryana	Studio / 1 BHK	338	₹10,500/month	Unfurnished	2	Family	Rent
+35	Haryana Properties (Haryana.txt)	3 BHK Apartment	Gurugram Sector 3	Gurugram / Haryana	Apartment / 3 BHK	1300	₹86.34 L	Fully-Furnished	3	Bachelors	Sale
+36	Haryana Properties (Haryana.txt)	4 BHK Builder Floor	Panipat Extension	Panipat / Haryana	Builder Floor / 4 BHK	2298	₹32,000/month	Unfurnished	4	Family	Rent
+37	Haryana Properties (Haryana.txt)	1 BHK Apartment	Panipat Extension	Panipat / Haryana	Apartment / 1 BHK	420	₹37.92 L	Unfurnished	1	Family	Sale
+38	Haryana Properties (Haryana.txt)	4 BHK Apartment	Karnal Residential Area	Karnal / Haryana	Apartment / 4 BHK	2231	₹1.59 Cr	Unfurnished	4	Bachelors	Sale
+39	Haryana Properties (Haryana.txt)	4 BHK Builder Floor	Faridabad Sector 3	Faridabad / Haryana	Builder Floor / 4 BHK	1600	₹37,800/month	Semi-Furnished	3	Any	Rent
+40	Haryana Properties (Haryana.txt)	2 BHK Builder Floor	Faridabad Town Centre	Faridabad / Haryana	Builder Floor / 2 BHK	954	₹81.53 L	Semi-Furnished	2	Any	Sale
+41	Haryana Properties (Haryana.txt)	2 BHK Apartment	Karnal Colony	Karnal / Haryana	Apartment / 2 BHK	834	₹67.92 L	Semi-Furnished	2	Any	Sale
+42	Haryana Properties (Haryana.txt)	5 BHK Apartment	Panipat Heights	Panipat / Haryana	Apartment / 5 BHK	2117	₹1.48 Cr	Unfurnished	5	Family	Sale
+43	Haryana Properties (Haryana.txt)	1 BHK Apartment	Karnal East	Karnal / Haryana	Apartment / 1 BHK	447	₹44.72 L	Semi-Furnished	1	Bachelors	Sale
+44	Haryana Properties (Haryana.txt)	2 BHK Apartment	Karnal Sector 1	Karnal / Haryana	Apartment / 2 BHK	844	₹17,000/month	Semi-Furnished	2	Bachelors	Rent
+45	Haryana Properties (Haryana.txt)	2 BHK Apartment	Faridabad Town Centre	Faridabad / Haryana	Apartment / 2 BHK	998	₹90.83 L	Semi-Furnished	2	Bachelors	Sale
+46	Haryana Properties (Haryana.txt)	3 BHK Villa	Gurugram East	Gurugram / Haryana	Villa / 3 BHK	1834	₹25,600/month	Unfurnished	3	Family	Rent
+47	Haryana Properties (Haryana.txt)	1 BHK Apartment	Faridabad Heights	Faridabad / Haryana	Apartment / 1 BHK	624	₹13,800/month	Semi-Furnished	2	Bachelors	Rent
+48	Haryana Properties (Haryana.txt)	3 BHK Villa	Panipat Residential Area	Panipat / Haryana	Villa / 3 BHK	1519	₹28,500/month	Semi-Furnished	3	Family	Rent
+49	Haryana Properties (Haryana.txt)	4 BHK Apartment	Panipat Extension	Panipat / Haryana	Apartment / 4 BHK	1678	₹1.13 Cr	Unfurnished	5	Family	Sale
+50	Haryana Properties (Haryana.txt)	3 BHK Apartment	Faridabad Sector 2	Faridabad / Haryana	Apartment / 3 BHK	1342	₹22,900/month	Unfurnished	2	Bachelors	Rent
+51	Haryana Properties (Haryana.txt)	4 BHK Apartment	Faridabad Extension	Faridabad / Haryana	Apartment / 4 BHK	1952	₹1.53 Cr	Semi-Furnished	3	Bachelors	Sale
+52	Haryana Properties (Haryana.txt)	5 BHK Independent House	Panipat Main Road	Panipat / Haryana	Independent House / 5 BHK	2664	₹38,100/month	Fully-Furnished	5	Bachelors	Rent
+53	Haryana Properties (Haryana.txt)	4 BHK Builder Floor	Panipat Heights	Panipat / Haryana	Builder Floor / 4 BHK	1693	₹1.43 Cr	Fully-Furnished	5	Family	Sale
+54	Haryana Properties (Haryana.txt)	2 BHK Apartment	Faridabad West	Faridabad / Haryana	Apartment / 2 BHK	938	₹21,900/month	Unfurnished	3	Bachelors	Rent
+55	Haryana Properties (Haryana.txt)	2 BHK Independent House	Karnal Residential Area	Karnal / Haryana	Independent House / 2 BHK	738	₹74.60 L	Fully-Furnished	3	Family	Sale
+56	Haryana Properties (Haryana.txt)	3 BHK Villa	Panipat Nagar	Panipat / Haryana	Villa / 3 BHK	1576	₹27,500/month	Semi-Furnished	3	Family	Rent
+57	Haryana Properties (Haryana.txt)	3 BHK Independent House	Gurugram East	Gurugram / Haryana	Independent House / 3 BHK	1409	₹1.09 Cr	Unfurnished	3	Family	Sale
+58	Haryana Properties (Haryana.txt)	3 BHK Apartment	Karnal East	Karnal / Haryana	Apartment / 3 BHK	1322	₹1.10 Cr	Semi-Furnished	4	Family	Sale
+59	Haryana Properties (Haryana.txt)	3 BHK Builder Floor	Karnal Extension	Karnal / Haryana	Builder Floor / 3 BHK	1237	₹1.05 Cr	Unfurnished	4	Family	Sale
+60	Haryana Properties (Haryana.txt)	3 BHK Villa	Panipat Central	Panipat / Haryana	Villa / 3 BHK	1439	₹1.19 Cr	Unfurnished	2	Any	Sale
+61	Haryana Properties (Haryana.txt)	2 BHK Apartment	Gurugram Sector 3	Gurugram / Haryana	Apartment / 2 BHK	783	₹23,000/month	Fully-Furnished	2	Bachelors	Rent
+62	Haryana Properties (Haryana.txt)	4 BHK Builder Floor	Faridabad Central	Faridabad / Haryana	Builder Floor / 4 BHK	1896	₹1.42 Cr	Fully-Furnished	5	Any	Sale
+63	Haryana Properties (Haryana.txt)	2 BHK Apartment	Faridabad Extension	Faridabad / Haryana	Apartment / 2 BHK	715	₹56.82 L	Semi-Furnished	1	Family	Sale
+64	Haryana Properties (Haryana.txt)	4 BHK Builder Floor	Faridabad Sector 2	Faridabad / Haryana	Builder Floor / 4 BHK	1945	₹35,100/month	Fully-Furnished	4	Family	Rent
+65	Haryana Properties (Haryana.txt)	3 BHK Builder Floor	Panipat Central	Panipat / Haryana	Builder Floor / 3 BHK	1683	₹26,900/month	Semi-Furnished	3	Bachelors	Rent
+66	Haryana Properties (Haryana.txt)	2 BHK Villa	Faridabad Colony	Faridabad / Haryana	Villa / 2 BHK	1398	₹22,400/month	Semi-Furnished	3	Any	Rent
+67	Haryana Properties (Haryana.txt)	2 BHK Apartment	Faridabad Main Road	Faridabad / Haryana	Apartment / 2 BHK	744	₹75.53 L	Semi-Furnished	2	Any	Sale
+68	Haryana Properties (Haryana.txt)	3 BHK Independent House	Karnal Sector 3	Karnal / Haryana	Independent House / 3 BHK	1679	₹98.73 L	Semi-Furnished	4	Bachelors	Sale
+69	Haryana Properties (Haryana.txt)	4 BHK Apartment	Karnal Extension	Karnal / Haryana	Apartment / 4 BHK	1809	₹36,000/month	Semi-Furnished	4	Bachelors	Rent
+70	Haryana Properties (Haryana.txt)	1 BHK Apartment	Karnal South	Karnal / Haryana	Apartment / 1 BHK	480	₹40.09 L	Unfurnished	2	Family	Sale
+71	Haryana Properties (Haryana.txt)	3 BHK Builder Floor	Panipat Heights	Panipat / Haryana	Builder Floor / 3 BHK	1534	₹1.21 Cr	Fully-Furnished	3	Family	Sale
+72	Haryana Properties (Haryana.txt)	3 BHK Independent House	Panipat Heights	Panipat / Haryana	Independent House / 3 BHK	1575	₹27,400/month	Semi-Furnished	3	Bachelors	Rent
+73	Haryana Properties (Haryana.txt)	2 BHK Apartment	Panipat Colony	Panipat / Haryana	Apartment / 2 BHK	1026	₹69.57 L	Fully-Furnished	1	Family	Sale
+74	Haryana Properties (Haryana.txt)	2 BHK Builder Floor	Gurugram Sector 3	Gurugram / Haryana	Builder Floor / 2 BHK	878	₹21,700/month	Unfurnished	2	Family	Rent
+75	Haryana Properties (Haryana.txt)	2 BHK Apartment	Gurugram Central	Gurugram / Haryana	Apartment / 2 BHK	858	₹24,000/month	Unfurnished	2	Family	Rent
+76	Haryana Properties (Haryana.txt)	3 BHK Builder Floor	Gurugram Extension	Gurugram / Haryana	Builder Floor / 3 BHK	1437	₹1.24 Cr	Unfurnished	2	Family	Sale
+77	Haryana Properties (Haryana.txt)	4 BHK Apartment	Panipat South	Panipat / Haryana	Apartment / 4 BHK	1726	₹1.48 Cr	Semi-Furnished	4	Family	Sale
+78	Haryana Properties (Haryana.txt)	2 BHK Apartment	Gurugram Extension	Gurugram / Haryana	Apartment / 2 BHK	740	₹74.26 L	Fully-Furnished	1	Family	Sale
+79	Haryana Properties (Haryana.txt)	2 BHK Apartment	Panipat Sector 3	Panipat / Haryana	Apartment / 2 BHK	812	₹59.63 L	Fully-Furnished	2	Family	Sale
+80	Haryana Properties (Haryana.txt)	3 BHK Independent House	Gurugram East	Gurugram / Haryana	Independent House / 3 BHK	1434	₹1.20 Cr	Unfurnished	2	Family	Sale
+81	Haryana Properties (Haryana.txt)	4 BHK Apartment	Gurugram Town Centre	Gurugram / Haryana	Apartment / 4 BHK	1883	₹1.22 Cr	Semi-Furnished	4	Family	Sale
+82	Haryana Properties (Haryana.txt)	3 BHK Apartment	Faridabad Colony	Faridabad / Haryana	Apartment / 3 BHK	1460	₹1.13 Cr	Semi-Furnished	3	Bachelors	Sale
+83	Haryana Properties (Haryana.txt)	1 BHK Builder Floor	Karnal Heights	Karnal / Haryana	Builder Floor / 1 BHK	665	₹16,700/month	Unfurnished	1	Bachelors	Rent
+84	Haryana Properties (Haryana.txt)	3 BHK Builder Floor	Panipat Main Road	Panipat / Haryana	Builder Floor / 3 BHK	1193	₹1.12 Cr	Unfurnished	3	Family	Sale
+85	Haryana Properties (Haryana.txt)	4 BHK Independent House	Karnal West	Karnal / Haryana	Independent House / 4 BHK	2356	₹1.55 Cr	Fully-Furnished	4	Bachelors	Sale
+86	Haryana Properties (Haryana.txt)	3 BHK Apartment	Faridabad East	Faridabad / Haryana	Apartment / 3 BHK	1022	₹23,400/month	Unfurnished	2	Family	Rent
+87	Haryana Properties (Haryana.txt)	3 BHK Apartment	Panipat Sector 1	Panipat / Haryana	Apartment / 3 BHK	1121	₹1.15 Cr	Unfurnished	3	Any	Sale
+88	Haryana Properties (Haryana.txt)	3 BHK Apartment	Gurugram Heights	Gurugram / Haryana	Apartment / 3 BHK	1073	₹82.51 L	Semi-Furnished	3	Family	Sale
+89	Haryana Properties (Haryana.txt)	1 BHK Apartment	Gurugram Sector 3	Gurugram / Haryana	Apartment / 1 BHK	471	₹12,300/month	Semi-Furnished	1	Bachelors	Rent
+90	Haryana Properties (Haryana.txt)	2 BHK Builder Floor	Faridabad Sector 2	Faridabad / Haryana	Builder Floor / 2 BHK	1010	₹80.33 L	Unfurnished	2	Any	Sale
+91	Haryana Properties (Haryana.txt)	3 BHK Apartment	Faridabad West	Faridabad / Haryana	Apartment / 3 BHK	1129	₹79.68 L	Unfurnished	3	Bachelors	Sale
+92	Haryana Properties (Haryana.txt)	4 BHK Apartment	Faridabad Residential Area	Faridabad / Haryana	Apartment / 4 BHK	2114	₹1.63 Cr	Semi-Furnished	4	Bachelors	Sale
+93	Haryana Properties (Haryana.txt)	2 BHK Builder Floor	Panipat Residential Area	Panipat / Haryana	Builder Floor / 2 BHK	820	₹60.13 L	Semi-Furnished	2	Family	Sale
+94	Haryana Properties (Haryana.txt)	2 BHK Independent House	Faridabad North	Faridabad / Haryana	Independent House / 2 BHK	938	₹22,300/month	Fully-Furnished	1	Any	Rent
+95	Haryana Properties (Haryana.txt)	2 BHK Apartment	Gurugram Main Road	Gurugram / Haryana	Apartment / 2 BHK	661	₹20,100/month	Semi-Furnished	1	Family	Rent
+96	Haryana Properties (Haryana.txt)	1 BHK Studio	Karnal West	Karnal / Haryana	Studio / 1 BHK	428	₹46.57 L	Unfurnished	1	Family	Sale
+97	Haryana Properties (Haryana.txt)	1 BHK Builder Floor	Panipat Extension	Panipat / Haryana	Builder Floor / 1 BHK	573	₹44.73 L	Semi-Furnished	2	Family	Sale
+98	Haryana Properties (Haryana.txt)	3 BHK Apartment	Karnal Extension	Karnal / Haryana	Apartment / 3 BHK	1123	₹92.64 L	Fully-Furnished	2	Bachelors	Sale
+99	Haryana Properties (Haryana.txt)	2 BHK Apartment	Karnal Main Road	Karnal / Haryana	Apartment / 2 BHK	840	₹19,000/month	Semi-Furnished	2	Family	Rent
+100	Haryana Properties (Haryana.txt)	1 BHK Apartment	Panipat Central	Panipat / Haryana	Apartment / 1 BHK	530	₹12,000/month	Unfurnished	1	Any	Rent
+101	Haryana Properties (Haryana.txt)	2 BHK Builder Floor	Faridabad Sector 2	Faridabad / Haryana	Builder Floor / 2 BHK	829	₹77.68 L	Fully-Furnished	2	Any	Sale
+102	Haryana Properties (Haryana.txt)	2 BHK Apartment	Panipat Residential Area	Panipat / Haryana	Apartment / 2 BHK	1052	₹68.31 L	Unfurnished	2	Any	Sale
+103	Haryana Properties (Haryana.txt)	2 BHK Independent House	Karnal Sector 1	Karnal / Haryana	Independent House / 2 BHK	702	₹22,900/month	Fully-Furnished	2	Bachelors	Rent
+104	Haryana Properties (Haryana.txt)	3 BHK Villa	Faridabad Town Centre	Faridabad / Haryana	Villa / 3 BHK	1662	₹33,800/month	Semi-Furnished	3	Bachelors	Rent
+105	Haryana Properties (Haryana.txt)	3 BHK Independent House	Karnal Main Road	Karnal / Haryana	Independent House / 3 BHK	1403	₹24,100/month	Unfurnished	3	Family	Rent
+106	Haryana Properties (Haryana.txt)	4 BHK Apartment	Karnal Sector 2	Karnal / Haryana	Apartment / 4 BHK	1404	₹1.09 Cr	Semi-Furnished	4	Bachelors	Sale
+107	Haryana Properties (Haryana.txt)	3 BHK Apartment	Faridabad Town Centre	Faridabad / Haryana	Apartment / 3 BHK	1504	₹34,200/month	Fully-Furnished	4	Any	Rent
+108	Haryana Properties (Haryana.txt)	3 BHK Apartment	Gurugram Sector 3	Gurugram / Haryana	Apartment / 3 BHK	1457	₹94.15 L	Fully-Furnished	2	Any	Sale
+109	Haryana Properties (Haryana.txt)	3 BHK Independent House	Panipat West	Panipat / Haryana	Independent House / 3 BHK	1461	₹87.07 L	Semi-Furnished	3	Family	Sale
+110	Haryana Properties (Haryana.txt)	5 BHK Apartment	Panipat North	Panipat / Haryana	Apartment / 5 BHK	2220	₹1.59 Cr	Fully-Furnished	5	Any	Sale
+111	Haryana Properties (Haryana.txt)	2 BHK Apartment	Karnal Sector 3	Karnal / Haryana	Apartment / 2 BHK	984	₹61.75 L	Fully-Furnished	1	Any	Sale
+112	Haryana Properties (Haryana.txt)	1 BHK Apartment	Gurugram Main Road	Gurugram / Haryana	Apartment / 1 BHK	553	₹12,200/month	Semi-Furnished	1	Bachelors	Rent
+113	Haryana Properties (Haryana.txt)	2 BHK Apartment	Panipat Sector 2	Panipat / Haryana	Apartment / 2 BHK	868	₹18,600/month	Semi-Furnished	2	Family	Rent
+114	Haryana Properties (Haryana.txt)	1 BHK Builder Floor	Panipat South	Panipat / Haryana	Builder Floor / 1 BHK	466	₹53.69 L	Unfurnished	1	Bachelors	Sale
+115	Haryana Properties (Haryana.txt)	5 BHK Independent House	Faridabad Town Centre	Faridabad / Haryana	Independent House / 5 BHK	3240	₹55,400/month	Unfurnished	6	Bachelors	Rent
+116	Haryana Properties (Haryana.txt)	3 BHK Apartment	Panipat West	Panipat / Haryana	Apartment / 3 BHK	1388	₹1.23 Cr	Fully-Furnished	3	Bachelors	Sale
+117	Haryana Properties (Haryana.txt)	3 BHK Apartment	Panipat Sector 3	Panipat / Haryana	Apartment / 3 BHK	1197	₹1.19 Cr	Semi-Furnished	4	Family	Sale
+118	Haryana Properties (Haryana.txt)	3 BHK Apartment	Panipat Main Road	Panipat / Haryana	Apartment / 3 BHK	1315	₹26,000/month	Semi-Furnished	3	Bachelors	Rent
+119	Haryana Properties (Haryana.txt)	3 BHK Builder Floor	Panipat Heights	Panipat / Haryana	Builder Floor / 3 BHK	1028	₹1.06 Cr	Fully-Furnished	3	Bachelors	Sale
+120	Haryana Properties (Haryana.txt)	3 BHK Apartment	Panipat Town Centre	Panipat / Haryana	Apartment / 3 BHK	1420	₹1.06 Cr	Unfurnished	3	Family	Sale
+121	Haryana Properties (Haryana.txt)	2 BHK Apartment	Karnal Nagar	Karnal / Haryana	Apartment / 2 BHK	816	₹83.11 L	Unfurnished	1	Any	Sale
+122	Haryana Properties (Haryana.txt)	3 BHK Villa	Gurugram West	Gurugram / Haryana	Villa / 3 BHK	1846	₹1.35 Cr	Semi-Furnished	3	Bachelors	Sale
+123	Haryana Properties (Haryana.txt)	1 BHK Apartment	Karnal Residential Area	Karnal / Haryana	Apartment / 1 BHK	568	₹12,200/month	Unfurnished	1	Family	Rent
+124	Haryana Properties (Haryana.txt)	1 BHK Builder Floor	Karnal Central	Karnal / Haryana	Builder Floor / 1 BHK	481	₹13,100/month	Unfurnished	2	Family	Rent
+125	Haryana Properties (Haryana.txt)	2 BHK Independent House	Faridabad Sector 3	Faridabad / Haryana	Independent House / 2 BHK	662	₹16,000/month	Unfurnished	2	Bachelors	Rent
+126	Haryana Properties (Haryana.txt)	4 BHK Independent House	Faridabad Residential Area	Faridabad / Haryana	Independent House / 4 BHK	2343	₹42,200/month	Unfurnished	4	Bachelors	Rent
+127	Haryana Properties (Haryana.txt)	3 BHK Apartment	Faridabad Sector 2	Faridabad / Haryana	Apartment / 3 BHK	997	₹22,300/month	Fully-Furnished	3	Any	Rent
+128	Haryana Properties (Haryana.txt)	2 BHK Builder Floor	Faridabad East	Faridabad / Haryana	Builder Floor / 2 BHK	806	₹61.34 L	Unfurnished	2	Any	Sale
+129	Haryana Properties (Haryana.txt)	3 BHK Builder Floor	Gurugram Extension	Gurugram / Haryana	Builder Floor / 3 BHK	1205	₹97.11 L	Unfurnished	3	Family	Sale
+130	Haryana Properties (Haryana.txt)	2 BHK Apartment	Karnal West	Karnal / Haryana	Apartment / 2 BHK	788	₹20,400/month	Unfurnished	2	Family	Rent
+131	Haryana Properties (Haryana.txt)	2 BHK Apartment	Gurugram East	Gurugram / Haryana	Apartment / 2 BHK	802	₹23,000/month	Fully-Furnished	2	Any	Rent
+132	Haryana Properties (Haryana.txt)	3 BHK Builder Floor	Faridabad Residential Area	Faridabad / Haryana	Builder Floor / 3 BHK	1153	₹23,200/month	Fully-Furnished	2	Family	Rent
+133	Haryana Properties (Haryana.txt)	3 BHK Apartment	Karnal Main Road	Karnal / Haryana	Apartment / 3 BHK	1251	₹32,700/month	Fully-Furnished	2	Family	Rent
+134	Haryana Properties (Haryana.txt)	3 BHK Apartment	Karnal West	Karnal / Haryana	Apartment / 3 BHK	1421	₹25,400/month	Fully-Furnished	3	Family	Rent
+135	Haryana Properties (Haryana.txt)	2 BHK Independent House	Panipat West	Panipat / Haryana	Independent House / 2 BHK	951	₹77.33 L	Semi-Furnished	2	Family	Sale
+136	Haryana Properties (Haryana.txt)	3 BHK Apartment	Faridabad Nagar	Faridabad / Haryana	Apartment / 3 BHK	882	₹1.04 Cr	Fully-Furnished	3	Family	Sale
+137	Haryana Properties (Haryana.txt)	1 BHK Apartment	Gurugram Heights	Gurugram / Haryana	Apartment / 1 BHK	551	₹45.09 L	Semi-Furnished	1	Family	Sale
+138	Haryana Properties (Haryana.txt)	2 BHK Independent House	Panipat Sector 2	Panipat / Haryana	Independent House / 2 BHK	841	₹17,000/month	Fully-Furnished	2	Bachelors	Rent
+139	Haryana Properties (Haryana.txt)	1 BHK Builder Floor	Faridabad Residential Area	Faridabad / Haryana	Builder Floor / 1 BHK	518	₹41.54 L	Semi-Furnished	1	Family	Sale
+140	Haryana Properties (Haryana.txt)	2 BHK Independent House	Gurugram Central	Gurugram / Haryana	Independent House / 2 BHK	973	₹78.95 L	Unfurnished	2	Any	Sale
+141	Haryana Properties (Haryana.txt)	4 BHK Apartment	Karnal Extension	Karnal / Haryana	Apartment / 4 BHK	1531	₹33,000/month	Semi-Furnished	3	Family	Rent
+142	Haryana Properties (Haryana.txt)	3 BHK Independent House	Gurugram Colony	Gurugram / Haryana	Independent House / 3 BHK	1895	₹1.18 Cr	Unfurnished	4	Family	Sale
+143	Haryana Properties (Haryana.txt)	3 BHK Apartment	Gurugram West	Gurugram / Haryana	Apartment / 3 BHK	1235	₹96.24 L	Fully-Furnished	2	Bachelors	Sale
+144	Haryana Properties (Haryana.txt)	2 BHK Builder Floor	Faridabad Sector 3	Faridabad / Haryana	Builder Floor / 2 BHK	894	₹23,600/month	Semi-Furnished	2	Bachelors	Rent
+145	Haryana Properties (Haryana.txt)	2 BHK Builder Floor	Panipat South	Panipat / Haryana	Builder Floor / 2 BHK	801	₹77.64 L	Fully-Furnished	2	Bachelors	Sale
+146	Haryana Properties (Haryana.txt)	2 BHK Apartment	Panipat West	Panipat / Haryana	Apartment / 2 BHK	941	₹81.35 L	Semi-Furnished	3	Family	Sale
+147	Haryana Properties (Haryana.txt)	2 BHK Apartment	Faridabad Nagar	Faridabad / Haryana	Apartment / 2 BHK	931	₹24,100/month	Semi-Furnished	1	Family	Rent
+148	Haryana Properties (Haryana.txt)	3 BHK Apartment	Panipat Main Road	Panipat / Haryana	Apartment / 3 BHK	1327	₹1.03 Cr	Semi-Furnished	4	Any	Sale
+149	Haryana Properties (Haryana.txt)	2 BHK Builder Floor	Panipat Sector 2	Panipat / Haryana	Builder Floor / 2 BHK	826	₹81.50 L	Semi-Furnished	1	Any	Sale
+150	Haryana Properties (Haryana.txt)	1 BHK Apartment	Gurugram Residential Area	Gurugram / Haryana	Apartment / 1 BHK	473	₹39.44 L	Unfurnished	1	Family	Sale
+151	Haryana Properties (Haryana.txt)	3 BHK Apartment	Gurugram Central	Gurugram / Haryana	Apartment / 3 BHK	1188	₹29,700/month	Fully-Furnished	3	Bachelors	Rent
+152	Haryana Properties (Haryana.txt)	2 BHK Apartment	Faridabad Heights	Faridabad / Haryana	Apartment / 2 BHK	1109	₹21,500/month	Unfurnished	1	Family	Rent
+153	Haryana Properties (Haryana.txt)	3 BHK Apartment	Faridabad Extension	Faridabad / Haryana	Apartment / 3 BHK	1188	₹1.05 Cr	Semi-Furnished	4	Bachelors	Sale
+154	Haryana Properties (Haryana.txt)	3 BHK Apartment	Faridabad Colony	Faridabad / Haryana	Apartment / 3 BHK	948	₹99.06 L	Fully-Furnished	4	Any	Sale
+155	Haryana Properties (Haryana.txt)	3 BHK Builder Floor	Karnal Nagar	Karnal / Haryana	Builder Floor / 3 BHK	1424	₹1.10 Cr	Unfurnished	3	Family	Sale
+156	Haryana Properties (Haryana.txt)	1 BHK Builder Floor	Panipat Sector 3	Panipat / Haryana	Builder Floor / 1 BHK	529	₹48.22 L	Fully-Furnished	2	Family	Sale
+157	Haryana Properties (Haryana.txt)	1 BHK Apartment	Faridabad South	Faridabad / Haryana	Apartment / 1 BHK	485	₹13,100/month	Semi-Furnished	1	Any	Rent
+158	Haryana Properties (Haryana.txt)	2 BHK Builder Floor	Faridabad North	Faridabad / Haryana	Builder Floor / 2 BHK	919	₹22,800/month	Unfurnished	1	Bachelors	Rent
+159	Haryana Properties (Haryana.txt)	2 BHK Builder Floor	Karnal Extension	Karnal / Haryana	Builder Floor / 2 BHK	698	₹61.87 L	Fully-Furnished	2	Family	Sale
+160	Haryana Properties (Haryana.txt)	1 BHK Builder Floor	Karnal South	Karnal / Haryana	Builder Floor / 1 BHK	524	₹11,200/month	Unfurnished	1	Any	Rent
+161	Haryana Properties (Haryana.txt)	2 BHK Apartment	Karnal Sector 3	Karnal / Haryana	Apartment / 2 BHK	861	₹20,700/month	Unfurnished	3	Family	Rent
+162	Haryana Properties (Haryana.txt)	1 BHK Studio	Karnal Heights	Karnal / Haryana	Studio / 1 BHK	392	₹14,900/month	Semi-Furnished	1	Family	Rent
+163	Haryana Properties (Haryana.txt)	4 BHK Apartment	Panipat Colony	Panipat / Haryana	Apartment / 4 BHK	1349	₹1.26 Cr	Fully-Furnished	4	Family	Sale
+164	Haryana Properties (Haryana.txt)	2 BHK Apartment	Faridabad Colony	Faridabad / Haryana	Apartment / 2 BHK	806	₹79.98 L	Fully-Furnished	2	Bachelors	Sale
+165	Haryana Properties (Haryana.txt)	3 BHK Apartment	Karnal North	Karnal / Haryana	Apartment / 3 BHK	1033	₹81.38 L	Fully-Furnished	2	Family	Sale
+166	Haryana Properties (Haryana.txt)	1 BHK Independent House	Gurugram East	Gurugram / Haryana	Independent House / 1 BHK	611	₹48.60 L	Unfurnished	1	Bachelors	Sale
+167	Haryana Properties (Haryana.txt)	1 BHK Builder Floor	Panipat Sector 3	Panipat / Haryana	Builder Floor / 1 BHK	466	₹12,900/month	Semi-Furnished	1	Any	Rent
+168	Haryana Properties (Haryana.txt)	3 BHK Apartment	Faridabad East	Faridabad / Haryana	Apartment / 3 BHK	964	₹24,000/month	Fully-Furnished	3	Family	Rent
+169	Haryana Properties (Haryana.txt)	1 BHK Apartment	Gurugram Sector 2	Gurugram / Haryana	Apartment / 1 BHK	355	₹46.01 L	Semi-Furnished	1	Bachelors	Sale
+170	Haryana Properties (Haryana.txt)	3 BHK Apartment	Karnal Central	Karnal / Haryana	Apartment / 3 BHK	1529	₹30,800/month	Semi-Furnished	2	Family	Rent
+171	Haryana Properties (Haryana.txt)	2 BHK Apartment	Faridabad Sector 3	Faridabad / Haryana	Apartment / 2 BHK	771	₹68.08 L	Semi-Furnished	2	Family	Sale
+172	Haryana Properties (Haryana.txt)	1 BHK Apartment	Gurugram Residential Area	Gurugram / Haryana	Apartment / 1 BHK	495	₹45.62 L	Fully-Furnished	1	Bachelors	Sale
+173	Haryana Properties (Haryana.txt)	3 BHK Apartment	Karnal South	Karnal / Haryana	Apartment / 3 BHK	1506	₹30,300/month	Semi-Furnished	2	Any	Rent
+174	Haryana Properties (Haryana.txt)	3 BHK Apartment	Karnal Heights	Karnal / Haryana	Apartment / 3 BHK	1315	₹1.19 Cr	Semi-Furnished	3	Bachelors	Sale
+175	Haryana Properties (Haryana.txt)	5 BHK Apartment	Gurugram North	Gurugram / Haryana	Apartment / 5 BHK	2603	₹1.80 Cr	Unfurnished	5	Bachelors	Sale
+176	Haryana Properties (Haryana.txt)	2 BHK Builder Floor	Faridabad North	Faridabad / Haryana	Builder Floor / 2 BHK	1042	₹20,300/month	Semi-Furnished	3	Family	Rent
+177	Haryana Properties (Haryana.txt)	2 BHK Apartment	Faridabad Colony	Faridabad / Haryana	Apartment / 2 BHK	716	₹19,600/month	Fully-Furnished	1	Any	Rent
+178	Haryana Properties (Haryana.txt)	3 BHK Apartment	Gurugram North	Gurugram / Haryana	Apartment / 3 BHK	1215	₹29,000/month	Semi-Furnished	4	Family	Rent
+179	Haryana Properties (Haryana.txt)	3 BHK Villa	Panipat Extension	Panipat / Haryana	Villa / 3 BHK	1944	₹1.03 Cr	Semi-Furnished	4	Family	Sale
+180	Haryana Properties (Haryana.txt)	3 BHK Apartment	Gurugram Heights	Gurugram / Haryana	Apartment / 3 BHK	1177	₹80.59 L	Fully-Furnished	2	Family	Sale
+181	Haryana Properties (Haryana.txt)	3 BHK Builder Floor	Gurugram West	Gurugram / Haryana	Builder Floor / 3 BHK	1214	₹1.13 Cr	Fully-Furnished	3	Family	Sale
+182	Haryana Properties (Haryana.txt)	4 BHK Builder Floor	Panipat Colony	Panipat / Haryana	Builder Floor / 4 BHK	1799	₹1.17 Cr	Fully-Furnished	3	Family	Sale
+183	Haryana Properties (Haryana.txt)	2 BHK Independent House	Karnal Central	Karnal / Haryana	Independent House / 2 BHK	1153	₹19,000/month	Unfurnished	2	Bachelors	Rent
+184	Haryana Properties (Haryana.txt)	3 BHK Builder Floor	Panipat Sector 2	Panipat / Haryana	Builder Floor / 3 BHK	1094	₹29,900/month	Unfurnished	2	Bachelors	Rent
+185	Haryana Properties (Haryana.txt)	2 BHK Apartment	Panipat South	Panipat / Haryana	Apartment / 2 BHK	802	₹79.38 L	Semi-Furnished	2	Family	Sale
+186	Haryana Properties (Haryana.txt)	5 BHK Apartment	Faridabad Extension	Faridabad / Haryana	Apartment / 5 BHK	1834	₹42,900/month	Unfurnished	6	Family	Rent
+187	Haryana Properties (Haryana.txt)	3 BHK Villa	Karnal Sector 3	Karnal / Haryana	Villa / 3 BHK	1739	₹28,900/month	Semi-Furnished	3	Bachelors	Rent
+188	Haryana Properties (Haryana.txt)	3 BHK Builder Floor	Gurugram Sector 3	Gurugram / Haryana	Builder Floor / 3 BHK	1052	₹89.45 L	Semi-Furnished	3	Family	Sale
+189	Haryana Properties (Haryana.txt)	1 BHK Builder Floor	Gurugram Colony	Gurugram / Haryana	Builder Floor / 1 BHK	488	₹12,400/month	Fully-Furnished	1	Bachelors	Rent
+190	Haryana Properties (Haryana.txt)	1 BHK Studio	Gurugram Main Road	Gurugram / Haryana	Studio / 1 BHK	377	₹13,700/month	Semi-Furnished	2	Family	Rent
+191	Haryana Properties (Haryana.txt)	3 BHK Builder Floor	Faridabad Main Road	Faridabad / Haryana	Builder Floor / 3 BHK	1340	₹31,700/month	Unfurnished	2	Any	Rent
+192	Haryana Properties (Haryana.txt)	3 BHK Apartment	Gurugram Sector 1	Gurugram / Haryana	Apartment / 3 BHK	1499	₹31,300/month	Semi-Furnished	2	Bachelors	Rent
+193	Haryana Properties (Haryana.txt)	3 BHK Apartment	Panipat Sector 3	Panipat / Haryana	Apartment / 3 BHK	1256	₹25,000/month	Fully-Furnished	2	Bachelors	Rent
+194	Haryana Properties (Haryana.txt)	4 BHK Apartment	Faridabad South	Faridabad / Haryana	Apartment / 4 BHK	1330	₹1.06 Cr	Semi-Furnished	4	Family	Sale
+195	Haryana Properties (Haryana.txt)	4 BHK Apartment	Panipat Sector 2	Panipat / Haryana	Apartment / 4 BHK	1375	₹1.30 Cr	Fully-Furnished	4	Bachelors	Sale
+196	Haryana Properties (Haryana.txt)	5 BHK Apartment	Gurugram South	Gurugram / Haryana	Apartment / 5 BHK	2198	₹1.44 Cr	Fully-Furnished	4	Bachelors	Sale
+197	Haryana Properties (Haryana.txt)	3 BHK Apartment	Karnal Colony	Karnal / Haryana	Apartment / 3 BHK	1246	₹85.97 L	Fully-Furnished	3	Any	Sale
+198	Haryana Properties (Haryana.txt)	3 BHK Builder Floor	Gurugram Sector 2	Gurugram / Haryana	Builder Floor / 3 BHK	1433	₹87.92 L	Semi-Furnished	3	Family	Sale
+199	Haryana Properties (Haryana.txt)	3 BHK Apartment	Karnal Extension	Karnal / Haryana	Apartment / 3 BHK	1209	₹30,700/month	Fully-Furnished	4	Any	Rent
+200	Haryana Properties (Haryana.txt)	2 BHK Apartment	Karnal North	Karnal / Haryana	Apartment / 2 BHK	813	₹80.08 L	Semi-Furnished	2	Family	Sale
+201	Haryana Properties (Haryana.txt)	2 BHK Villa	Gurugram Sector 1	Gurugram / Haryana	Villa / 2 BHK	1299	₹22,100/month	Unfurnished	2	Family	Rent
+202	Haryana Properties (Haryana.txt)	2 BHK Apartment	Faridabad Heights	Faridabad / Haryana	Apartment / 2 BHK	747	₹18,500/month	Fully-Furnished	3	Family	Rent
+203	Haryana Properties (Haryana.txt)	1 BHK Studio	Panipat Town Centre	Panipat / Haryana	Studio / 1 BHK	407	₹14,300/month	Semi-Furnished	1	Family	Rent
+204	Haryana Properties (Haryana.txt)	3 BHK Apartment	Karnal North	Karnal / Haryana	Apartment / 3 BHK	1081	₹1.05 Cr	Unfurnished	3	Bachelors	Sale
+205	Haryana Properties (Haryana.txt)	4 BHK Independent House	Faridabad Town Centre	Faridabad / Haryana	Independent House / 4 BHK	2047	₹32,500/month	Semi-Furnished	4	Family	Rent
+206	Haryana Properties (Haryana.txt)	4 BHK Independent House	Panipat Sector 2	Panipat / Haryana	Independent House / 4 BHK	2203	₹43,000/month	Unfurnished	4	Bachelors	Rent
+207	Haryana Properties (Haryana.txt)	3 BHK Apartment	Panipat Sector 3	Panipat / Haryana	Apartment / 3 BHK	1486	₹91.87 L	Unfurnished	3	Family	Sale
+208	Haryana Properties (Haryana.txt)	3 BHK Apartment	Karnal Sector 1	Karnal / Haryana	Apartment / 3 BHK	1572	₹1.23 Cr	Semi-Furnished	3	Family	Sale
+209	Haryana Properties (Haryana.txt)	2 BHK Apartment	Gurugram Town Centre	Gurugram / Haryana	Apartment / 2 BHK	1000	₹71.53 L	Semi-Furnished	2	Family	Sale
+210	Haryana Properties (Haryana.txt)	2 BHK Builder Floor	Faridabad Sector 1	Faridabad / Haryana	Builder Floor / 2 BHK	914	₹69.82 L	Semi-Furnished	1	Bachelors	Sale
+211	Haryana Properties (Haryana.txt)	2 BHK Builder Floor	Panipat West	Panipat / Haryana	Builder Floor / 2 BHK	883	₹19,500/month	Fully-Furnished	3	Family	Rent
+212	Haryana Properties (Haryana.txt)	5 BHK Apartment	Karnal Residential Area	Karnal / Haryana	Apartment / 5 BHK	2662	₹1.44 Cr	Unfurnished	5	Family	Sale
+213	Haryana Properties (Haryana.txt)	3 BHK Villa	Panipat Nagar	Panipat / Haryana	Villa / 3 BHK	1625	₹88.08 L	Unfurnished	2	Bachelors	Sale
+214	Haryana Properties (Haryana.txt)	2 BHK Apartment	Gurugram Heights	Gurugram / Haryana	Apartment / 2 BHK	708	₹78.29 L	Semi-Furnished	2	Any	Sale
+215	Haryana Properties (Haryana.txt)	3 BHK Independent House	Gurugram Extension	Gurugram / Haryana	Independent House / 3 BHK	1561	₹1.28 Cr	Unfurnished	4	Family	Sale
+216	Haryana Properties (Haryana.txt)	2 BHK Apartment	Faridabad South	Faridabad / Haryana	Apartment / 2 BHK	648	₹58.09 L	Semi-Furnished	2	Family	Sale
+217	Haryana Properties (Haryana.txt)	3 BHK Apartment	Gurugram Central	Gurugram / Haryana	Apartment / 3 BHK	1178	₹93.78 L	Semi-Furnished	2	Family	Sale
+218	Haryana Properties (Haryana.txt)	3 BHK Independent House	Gurugram North	Gurugram / Haryana	Independent House / 3 BHK	1466	₹1.13 Cr	Fully-Furnished	2	Family	Sale
+219	Haryana Properties (Haryana.txt)	2 BHK Villa	Karnal Extension	Karnal / Haryana	Villa / 2 BHK	1113	₹25,600/month	Unfurnished	2	Family	Rent
+220	Haryana Properties (Haryana.txt)	2 BHK Independent House	Karnal Heights	Karnal / Haryana	Independent House / 2 BHK	969	₹80.89 L	Fully-Furnished	1	Family	Sale
+221	Haryana Properties (Haryana.txt)	2 BHK Builder Floor	Faridabad Central	Faridabad / Haryana	Builder Floor / 2 BHK	747	₹57.96 L	Fully-Furnished	2	Family	Sale
+222	Haryana Properties (Haryana.txt)	2 BHK Villa	Gurugram Colony	Gurugram / Haryana	Villa / 2 BHK	1101	₹85.66 L	Unfurnished	1	Family	Sale
+223	Haryana Properties (Haryana.txt)	2 BHK Builder Floor	Karnal Sector 3	Karnal / Haryana	Builder Floor / 2 BHK	688	₹72.50 L	Semi-Furnished	2	Family	Sale
+224	Haryana Properties (Haryana.txt)	2 BHK Apartment	Gurugram Sector 1	Gurugram / Haryana	Apartment / 2 BHK	852	₹19,000/month	Fully-Furnished	1	Bachelors	Rent
+225	Haryana Properties (Haryana.txt)	3 BHK Independent House	Karnal Sector 3	Karnal / Haryana	Independent House / 3 BHK	1593	₹1.27 Cr	Unfurnished	2	Family	Sale
+226	Haryana Properties (Haryana.txt)	2 BHK Apartment	Karnal West	Karnal / Haryana	Apartment / 2 BHK	966	₹80.83 L	Semi-Furnished	2	Family	Sale
+227	Haryana Properties (Haryana.txt)	3 BHK Apartment	Karnal Colony	Karnal / Haryana	Apartment / 3 BHK	1201	₹1.15 Cr	Semi-Furnished	3	Family	Sale
+228	Haryana Properties (Haryana.txt)	3 BHK Apartment	Karnal Sector 2	Karnal / Haryana	Apartment / 3 BHK	1218	₹27,300/month	Semi-Furnished	3	Family	Rent
+229	Haryana Properties (Haryana.txt)	1 BHK Studio	Faridabad West	Faridabad / Haryana	Studio / 1 BHK	340	₹10,500/month	Fully-Furnished	1	Family	Rent
+230	Haryana Properties (Haryana.txt)	3 BHK Apartment	Faridabad North	Faridabad / Haryana	Apartment / 3 BHK	1407	₹29,100/month	Unfurnished	2	Bachelors	Rent
+231	Haryana Properties (Haryana.txt)	3 BHK Independent House	Faridabad Central	Faridabad / Haryana	Independent House / 3 BHK	1287	₹32,700/month	Semi-Furnished	3	Any	Rent
+232	Haryana Properties (Haryana.txt)	2 BHK Apartment	Panipat Nagar	Panipat / Haryana	Apartment / 2 BHK	746	₹64.17 L	Semi-Furnished	2	Bachelors	Sale
+233	Haryana Properties (Haryana.txt)	3 BHK Apartment	Gurugram Heights	Gurugram / Haryana	Apartment / 3 BHK	1267	₹89.96 L	Unfurnished	3	Family	Sale
+234	Haryana Properties (Haryana.txt)	2 BHK Apartment	Gurugram North	Gurugram / Haryana	Apartment / 2 BHK	876	₹23,000/month	Semi-Furnished	3	Any	Rent
+235	Haryana Properties (Haryana.txt)	3 BHK Apartment	Panipat Sector 2	Panipat / Haryana	Apartment / 3 BHK	1346	₹28,100/month	Semi-Furnished	4	Bachelors	Rent
+236	Haryana Properties (Haryana.txt)	2 BHK Builder Floor	Gurugram East	Gurugram / Haryana	Builder Floor / 2 BHK	869	₹23,900/month	Semi-Furnished	2	Family	Rent
+237	Haryana Properties (Haryana.txt)	2 BHK Apartment	Panipat Main Road	Panipat / Haryana	Apartment / 2 BHK	891	₹21,100/month	Unfurnished	2	Bachelors	Rent
+238	Haryana Properties (Haryana.txt)	4 BHK Builder Floor	Panipat East	Panipat / Haryana	Builder Floor / 4 BHK	1981	₹1.17 Cr	Semi-Furnished	4	Any	Sale
+239	Haryana Properties (Haryana.txt)	3 BHK Apartment	Gurugram Sector 2	Gurugram / Haryana	Apartment / 3 BHK	1219	₹90.64 L	Semi-Furnished	3	Any	Sale
+240	Haryana Properties (Haryana.txt)	1 BHK Builder Floor	Gurugram Sector 2	Gurugram / Haryana	Builder Floor / 1 BHK	490	₹47.89 L	Fully-Furnished	1	Family	Sale
+241	Haryana Properties (Haryana.txt)	1 BHK Apartment	Karnal Nagar	Karnal / Haryana	Apartment / 1 BHK	528	₹15,900/month	Semi-Furnished	2	Any	Rent
+242	Haryana Properties (Haryana.txt)	4 BHK Independent House	Panipat Extension	Panipat / Haryana	Independent House / 4 BHK	2420	₹1.32 Cr	Semi-Furnished	4	Bachelors	Sale
+243	Haryana Properties (Haryana.txt)	1 BHK Builder Floor	Gurugram Nagar	Gurugram / Haryana	Builder Floor / 1 BHK	505	₹46.45 L	Semi-Furnished	1	Bachelors	Sale
+244	Haryana Properties (Haryana.txt)	2 BHK Apartment	Gurugram East	Gurugram / Haryana	Apartment / 2 BHK	766	₹67.28 L	Semi-Furnished	2	Family	Sale
+245	Haryana Properties (Haryana.txt)	4 BHK Apartment	Panipat Nagar	Panipat / Haryana	Apartment / 4 BHK	1777	₹1.22 Cr	Unfurnished	4	Any	Sale
+246	Haryana Properties (Haryana.txt)	4 BHK Apartment	Karnal West	Karnal / Haryana	Apartment / 4 BHK	1505	₹34,600/month	Semi-Furnished	4	Family	Rent
+247	Haryana Properties (Haryana.txt)	4 BHK Apartment	Karnal Nagar	Karnal / Haryana	Apartment / 4 BHK	1679	₹1.40 Cr	Fully-Furnished	5	Family	Sale
+248	Haryana Properties (Haryana.txt)	2 BHK Independent House	Faridabad South	Faridabad / Haryana	Independent House / 2 BHK	999	₹24,600/month	Semi-Furnished	2	Family	Rent
+249	Haryana Properties (Haryana.txt)	4 BHK Apartment	Karnal Main Road	Karnal / Haryana	Apartment / 4 BHK	1688	₹1.47 Cr	Semi-Furnished	5	Family	Sale
+250	Haryana Properties (Haryana.txt)	2 BHK Independent House	Karnal Nagar	Karnal / Haryana	Independent House / 2 BHK	1069	₹84.59 L	Semi-Furnished	3	Bachelors	Sale
+251	Haryana Properties (Haryana.txt)	1 BHK Apartment	Gurugram Colony	Gurugram / Haryana	Apartment / 1 BHK	615	₹48.64 L	Unfurnished	1	Family	Sale
+252	Haryana Properties (Haryana.txt)	1 BHK Independent House	Karnal Central	Karnal / Haryana	Independent House / 1 BHK	683	₹15,400/month	Unfurnished	1	Family	Rent
+253	Haryana Properties (Haryana.txt)	2 BHK Apartment	Karnal Residential Area	Karnal / Haryana	Apartment / 2 BHK	1057	₹22,700/month	Fully-Furnished	2	Bachelors	Rent
+254	Haryana Properties (Haryana.txt)	4 BHK Apartment	Faridabad Colony	Faridabad / Haryana	Apartment / 4 BHK	1707	₹1.38 Cr	Semi-Furnished	4	Family	Sale
+255	Haryana Properties (Haryana.txt)	3 BHK Apartment	Gurugram Nagar	Gurugram / Haryana	Apartment / 3 BHK	1084	₹26,300/month	Semi-Furnished	3	Family	Rent
+256	Haryana Properties (Haryana.txt)	4 BHK Independent House	Panipat Colony	Panipat / Haryana	Independent House / 4 BHK	2436	₹1.19 Cr	Semi-Furnished	3	Bachelors	Sale
+257	Haryana Properties (Haryana.txt)	4 BHK Apartment	Panipat Sector 1	Panipat / Haryana	Apartment / 4 BHK	1341	₹1.29 Cr	Fully-Furnished	4	Family	Sale
+258	Haryana Properties (Haryana.txt)	5 BHK Builder Floor	Gurugram North	Gurugram / Haryana	Builder Floor / 5 BHK	2728	₹53,100/month	Fully-Furnished	5	Bachelors	Rent
+259	Haryana Properties (Haryana.txt)	3 BHK Independent House	Karnal Heights	Karnal / Haryana	Independent House / 3 BHK	1709	₹93.23 L	Fully-Furnished	3	Bachelors	Sale
+260	Haryana Properties (Haryana.txt)	4 BHK Independent House	Faridabad South	Faridabad / Haryana	Independent House / 4 BHK	2077	₹1.61 Cr	Semi-Furnished	5	Family	Sale
+261	Haryana Properties (Haryana.txt)	5 BHK Independent House	Karnal Sector 1	Karnal / Haryana	Independent House / 5 BHK	2696	₹1.86 Cr	Semi-Furnished	5	Bachelors	Sale
+262	Haryana Properties (Haryana.txt)	2 BHK Apartment	Panipat Main Road	Panipat / Haryana	Apartment / 2 BHK	823	₹81.28 L	Unfurnished	1	Family	Sale
+263	Haryana Properties (Haryana.txt)	3 BHK Independent House	Faridabad South	Faridabad / Haryana	Independent House / 3 BHK	1414	₹31,200/month	Semi-Furnished	3	Family	Rent
+264	Haryana Properties (Haryana.txt)	3 BHK Apartment	Karnal Sector 3	Karnal / Haryana	Apartment / 3 BHK	1280	₹87.95 L	Unfurnished	4	Bachelors	Sale
+265	Haryana Properties (Haryana.txt)	2 BHK Apartment	Karnal Colony	Karnal / Haryana	Apartment / 2 BHK	707	₹17,300/month	Semi-Furnished	2	Family	Rent
+266	Haryana Properties (Haryana.txt)	2 BHK Apartment	Karnal Heights	Karnal / Haryana	Apartment / 2 BHK	894	₹20,000/month	Fully-Furnished	2	Family	Rent
+267	Haryana Properties (Haryana.txt)	1 BHK Studio	Gurugram Residential Area	Gurugram / Haryana	Studio / 1 BHK	475	₹39.54 L	Semi-Furnished	1	Family	Sale
+268	Haryana Properties (Haryana.txt)	1 BHK Builder Floor	Faridabad Main Road	Faridabad / Haryana	Builder Floor / 1 BHK	536	₹10,800/month	Fully-Furnished	1	Family	Rent
+269	Haryana Properties (Haryana.txt)	3 BHK Independent House	Karnal Nagar	Karnal / Haryana	Independent House / 3 BHK	1237	₹1.11 Cr	Unfurnished	3	Family	Sale
+270	Haryana Properties (Haryana.txt)	1 BHK Apartment	Karnal Central	Karnal / Haryana	Apartment / 1 BHK	526	₹41.62 L	Semi-Furnished	1	Any	Sale
+271	Haryana Properties (Haryana.txt)	1 BHK Studio	Faridabad Colony	Faridabad / Haryana	Studio / 1 BHK	336	₹36.83 L	Semi-Furnished	2	Bachelors	Sale
+272	Haryana Properties (Haryana.txt)	3 BHK Villa	Faridabad South	Faridabad / Haryana	Villa / 3 BHK	1963	₹1.24 Cr	Semi-Furnished	2	Family	Sale
+273	Haryana Properties (Haryana.txt)	3 BHK Builder Floor	Panipat North	Panipat / Haryana	Builder Floor / 3 BHK	1157	₹31,300/month	Semi-Furnished	4	Any	Rent
+274	Haryana Properties (Haryana.txt)	3 BHK Apartment	Faridabad West	Faridabad / Haryana	Apartment / 3 BHK	1229	₹1.09 Cr	Unfurnished	3	Family	Sale
+275	Haryana Properties (Haryana.txt)	4 BHK Apartment	Karnal Extension	Karnal / Haryana	Apartment / 4 BHK	1965	₹1.19 Cr	Unfurnished	4	Any	Sale
+276	Haryana Properties (Haryana.txt)	2 BHK Apartment	Gurugram Central	Gurugram / Haryana	Apartment / 2 BHK	747	₹71.17 L	Fully-Furnished	1	Bachelors	Sale
+277	Haryana Properties (Haryana.txt)	3 BHK Apartment	Gurugram Sector 2	Gurugram / Haryana	Apartment / 3 BHK	1123	₹1 Cr	Fully-Furnished	4	Family	Sale
+278	Haryana Properties (Haryana.txt)	3 BHK Apartment	Panipat Sector 1	Panipat / Haryana	Apartment / 3 BHK	1313	₹1.19 Cr	Unfurnished	3	Family	Sale
+279	Haryana Properties (Haryana.txt)	1 BHK Apartment	Faridabad Colony	Faridabad / Haryana	Apartment / 1 BHK	431	₹38.48 L	Semi-Furnished	1	Family	Sale
+280	Haryana Properties (Haryana.txt)	1 BHK Apartment	Gurugram West	Gurugram / Haryana	Apartment / 1 BHK	525	₹42.52 L	Unfurnished	2	Bachelors	Sale
+281	Haryana Properties (Haryana.txt)	4 BHK Apartment	Gurugram Sector 2	Gurugram / Haryana	Apartment / 4 BHK	1995	₹1.59 Cr	Semi-Furnished	3	Family	Sale
+282	Haryana Properties (Haryana.txt)	1 BHK Builder Floor	Faridabad North	Faridabad / Haryana	Builder Floor / 1 BHK	566	₹14,100/month	Semi-Furnished	1	Family	Rent
+283	Haryana Properties (Haryana.txt)	1 BHK Apartment	Gurugram Extension	Gurugram / Haryana	Apartment / 1 BHK	459	₹11,800/month	Unfurnished	1	Family	Rent
+284	Haryana Properties (Haryana.txt)	3 BHK Apartment	Karnal Sector 3	Karnal / Haryana	Apartment / 3 BHK	1367	₹1.16 Cr	Unfurnished	3	Bachelors	Sale
+285	Haryana Properties (Haryana.txt)	4 BHK Builder Floor	Faridabad Sector 2	Faridabad / Haryana	Builder Floor / 4 BHK	1257	₹29,400/month	Semi-Furnished	4	Family	Rent
+286	Haryana Properties (Haryana.txt)	2 BHK Apartment	Faridabad East	Faridabad / Haryana	Apartment / 2 BHK	925	₹20,100/month	Semi-Furnished	2	Bachelors	Rent
+287	Haryana Properties (Haryana.txt)	2 BHK Apartment	Karnal East	Karnal / Haryana	Apartment / 2 BHK	1048	₹22,600/month	Unfurnished	2	Bachelors	Rent
+288	Haryana Properties (Haryana.txt)	1 BHK Apartment	Faridabad Sector 2	Faridabad / Haryana	Apartment / 1 BHK	471	₹53.68 L	Fully-Furnished	1	Bachelors	Sale
+289	Haryana Properties (Haryana.txt)	3 BHK Apartment	Karnal Colony	Karnal / Haryana	Apartment / 3 BHK	1133	₹97.17 L	Fully-Furnished	2	Any	Sale
+290	Haryana Properties (Haryana.txt)	2 BHK Builder Floor	Gurugram Main Road	Gurugram / Haryana	Builder Floor / 2 BHK	825	₹76.96 L	Semi-Furnished	3	Bachelors	Sale
+291	Haryana Properties (Haryana.txt)	4 BHK Apartment	Panipat Residential Area	Panipat / Haryana	Apartment / 4 BHK	1465	₹33,500/month	Semi-Furnished	5	Any	Rent
+292	Haryana Properties (Haryana.txt)	3 BHK Independent House	Faridabad Main Road	Faridabad / Haryana	Independent House / 3 BHK	1596	₹32,800/month	Unfurnished	4	Family	Rent
+293	Haryana Properties (Haryana.txt)	5 BHK Apartment	Gurugram South	Gurugram / Haryana	Apartment / 5 BHK	2476	₹1.41 Cr	Unfurnished	4	Family	Sale
+294	Haryana Properties (Haryana.txt)	2 BHK Independent House	Panipat South	Panipat / Haryana	Independent House / 2 BHK	1035	₹80.61 L	Unfurnished	1	Family	Sale
+295	Haryana Properties (Haryana.txt)	3 BHK Apartment	Faridabad West	Faridabad / Haryana	Apartment / 3 BHK	1415	₹1.14 Cr	Fully-Furnished	3	Family	Sale
+296	Haryana Properties (Haryana.txt)	3 BHK Apartment	Panipat Sector 3	Panipat / Haryana	Apartment / 3 BHK	1336	₹1.02 Cr	Fully-Furnished	3	Family	Sale
+297	Haryana Properties (Haryana.txt)	4 BHK Apartment	Gurugram Nagar	Gurugram / Haryana	Apartment / 4 BHK	1783	₹1.33 Cr	Fully-Furnished	5	Family	Sale
+298	Haryana Properties (Haryana.txt)	1 BHK Builder Floor	Panipat Sector 2	Panipat / Haryana	Builder Floor / 1 BHK	669	₹47.82 L	Semi-Furnished	1	Family	Sale
+299	Haryana Properties (Haryana.txt)	2 BHK Independent House	Faridabad Sector 3	Faridabad / Haryana	Independent House / 2 BHK	1185	₹82.96 L	Semi-Furnished	1	Family	Sale
+300	Haryana Properties (Haryana.txt)	1 BHK Studio	Faridabad Nagar	Faridabad / Haryana	Studio / 1 BHK	354	₹42.64 L	Unfurnished	1	Bachelors	Sale
+301	Haryana Properties (Haryana.txt)	4 BHK Apartment	Faridabad South	Faridabad / Haryana	Apartment / 4 BHK	1786	₹1.31 Cr	Unfurnished	4	Any	Sale
+302	Haryana Properties (Haryana.txt)	3 BHK Apartment	Gurugram Main Road	Gurugram / Haryana	Apartment / 3 BHK	1293	₹1.14 Cr	Semi-Furnished	3	Family	Sale
+303	Haryana Properties (Haryana.txt)	2 BHK Apartment	Panipat Colony	Panipat / Haryana	Apartment / 2 BHK	922	₹66.88 L	Unfurnished	2	Bachelors	Sale
+304	Haryana Properties (Haryana.txt)	5 BHK Apartment	Faridabad Heights	Faridabad / Haryana	Apartment / 5 BHK	2263	₹1.32 Cr	Fully-Furnished	4	Any	Sale
+305	Haryana Properties (Haryana.txt)	3 BHK Independent House	Gurugram East	Gurugram / Haryana	Independent House / 3 BHK	1110	₹1.09 Cr	Fully-Furnished	4	Family	Sale
+306	Haryana Properties (Haryana.txt)	2 BHK Independent House	Panipat Sector 1	Panipat / Haryana	Independent House / 2 BHK	889	₹82.74 L	Semi-Furnished	2	Bachelors	Sale
+307	Haryana Properties (Haryana.txt)	5 BHK Villa	Gurugram South	Gurugram / Haryana	Villa / 5 BHK	3689	₹51,800/month	Fully-Furnished	4	Family	Rent
+308	Haryana Properties (Haryana.txt)	2 BHK Apartment	Panipat South	Panipat / Haryana	Apartment / 2 BHK	966	₹81.34 L	Semi-Furnished	2	Any	Sale
+309	Haryana Properties (Haryana.txt)	4 BHK Independent House	Faridabad Heights	Faridabad / Haryana	Independent House / 4 BHK	1888	₹1.54 Cr	Fully-Furnished	3	Family	Sale
+310	Haryana Properties (Haryana.txt)	3 BHK Apartment	Karnal South	Karnal / Haryana	Apartment / 3 BHK	1643	₹33,000/month	Semi-Furnished	3	Family	Rent
+311	Haryana Properties (Haryana.txt)	2 BHK Apartment	Karnal Main Road	Karnal / Haryana	Apartment / 2 BHK	640	₹21,300/month	Fully-Furnished	2	Family	Rent
+312	Haryana Properties (Haryana.txt)	3 BHK Apartment	Gurugram West	Gurugram / Haryana	Apartment / 3 BHK	1217	₹80.91 L	Semi-Furnished	3	Bachelors	Sale
+313	Haryana Properties (Haryana.txt)	1 BHK Studio	Karnal South	Karnal / Haryana	Studio / 1 BHK	438	₹14,600/month	Unfurnished	2	Any	Rent
+314	Haryana Properties (Haryana.txt)	1 BHK Apartment	Karnal Heights	Karnal / Haryana	Apartment / 1 BHK	567	₹39.55 L	Fully-Furnished	1	Bachelors	Sale
+315	Haryana Properties (Haryana.txt)	3 BHK Independent House	Panipat Sector 1	Panipat / Haryana	Independent House / 3 BHK	1767	₹34,900/month	Semi-Furnished	3	Family	Rent
+316	Haryana Properties (Haryana.txt)	3 BHK Independent House	Gurugram Sector 1	Gurugram / Haryana	Independent House / 3 BHK	1540	₹33,100/month	Unfurnished	3	Bachelors	Rent
+317	Haryana Properties (Haryana.txt)	2 BHK Apartment	Karnal North	Karnal / Haryana	Apartment / 2 BHK	938	₹82.74 L	Unfurnished	3	Family	Sale
+318	Haryana Properties (Haryana.txt)	2 BHK Apartment	Gurugram Extension	Gurugram / Haryana	Apartment / 2 BHK	871	₹23,000/month	Fully-Furnished	1	Family	Rent
+319	Haryana Properties (Haryana.txt)	1 BHK Villa	Faridabad South	Faridabad / Haryana	Villa / 1 BHK	713	₹47.14 L	Fully-Furnished	1	Any	Sale
+320	Haryana Properties (Haryana.txt)	2 BHK Apartment	Faridabad South	Faridabad / Haryana	Apartment / 2 BHK	925	₹87.23 L	Semi-Furnished	3	Family	Sale
+321	Haryana Properties (Haryana.txt)	2 BHK Independent House	Karnal Colony	Karnal / Haryana	Independent House / 2 BHK	796	₹17,200/month	Semi-Furnished	3	Any	Rent
+322	Haryana Properties (Haryana.txt)	2 BHK Independent House	Faridabad Residential Area	Faridabad / Haryana	Independent House / 2 BHK	1088	₹18,300/month	Semi-Furnished	2	Bachelors	Rent
+323	Haryana Properties (Haryana.txt)	4 BHK Apartment	Karnal Town Centre	Karnal / Haryana	Apartment / 4 BHK	1756	₹35,400/month	Unfurnished	4	Family	Rent
+324	Haryana Properties (Haryana.txt)	1 BHK Apartment	Gurugram Residential Area	Gurugram / Haryana	Apartment / 1 BHK	461	₹10,600/month	Semi-Furnished	1	Family	Rent
+325	Haryana Properties (Haryana.txt)	2 BHK Apartment	Karnal West	Karnal / Haryana	Apartment / 2 BHK	937	₹87.13 L	Semi-Furnished	2	Any	Sale
+326	Haryana Properties (Haryana.txt)	4 BHK Villa	Faridabad Main Road	Faridabad / Haryana	Villa / 4 BHK	2406	₹1.36 Cr	Fully-Furnished	5	Bachelors	Sale
+327	Haryana Properties (Haryana.txt)	2 BHK Villa	Gurugram Sector 1	Gurugram / Haryana	Villa / 2 BHK	1231	₹24,000/month	Semi-Furnished	3	Family	Rent
+328	Haryana Properties (Haryana.txt)	4 BHK Apartment	Gurugram East	Gurugram / Haryana	Apartment / 4 BHK	1690	₹35,900/month	Semi-Furnished	3	Family	Rent
+329	Haryana Properties (Haryana.txt)	3 BHK Independent House	Karnal North	Karnal / Haryana	Independent House / 3 BHK	1236	₹28,800/month	Fully-Furnished	4	Family	Rent
+330	Haryana Properties (Haryana.txt)	2 BHK Builder Floor	Karnal Colony	Karnal / Haryana	Builder Floor / 2 BHK	852	₹64.23 L	Unfurnished	3	Any	Sale
+331	Haryana Properties (Haryana.txt)	3 BHK Independent House	Faridabad West	Faridabad / Haryana	Independent House / 3 BHK	1778	₹97.09 L	Fully-Furnished	3	Any	Sale
+332	Haryana Properties (Haryana.txt)	2 BHK Apartment	Karnal Main Road	Karnal / Haryana	Apartment / 2 BHK	762	₹58.60 L	Unfurnished	1	Family	Sale
+333	Haryana Properties (Haryana.txt)	2 BHK Apartment	Karnal Central	Karnal / Haryana	Apartment / 2 BHK	918	₹19,900/month	Semi-Furnished	2	Bachelors	Rent
+334	Haryana Properties (Haryana.txt)	4 BHK Apartment	Faridabad Main Road	Faridabad / Haryana	Apartment / 4 BHK	1880	₹1.11 Cr	Semi-Furnished	4	Family	Sale
+335	Haryana Properties (Haryana.txt)	2 BHK Apartment	Gurugram West	Gurugram / Haryana	Apartment / 2 BHK	736	₹62.65 L	Semi-Furnished	2	Any	Sale
+336	Haryana Properties (Haryana.txt)	2 BHK Villa	Gurugram Central	Gurugram / Haryana	Villa / 2 BHK	1116	₹91.95 L	Fully-Furnished	2	Family	Sale
+337	Haryana Properties (Haryana.txt)	4 BHK Independent House	Panipat South	Panipat / Haryana	Independent House / 4 BHK	1979	₹37,200/month	Fully-Furnished	3	Family	Rent
+338	Haryana Properties (Haryana.txt)	2 BHK Apartment	Gurugram Residential Area	Gurugram / Haryana	Apartment / 2 BHK	989	₹22,200/month	Fully-Furnished	1	Bachelors	Rent
+339	Haryana Properties (Haryana.txt)	2 BHK Apartment	Faridabad West	Faridabad / Haryana	Apartment / 2 BHK	922	₹73.76 L	Fully-Furnished	2	Family	Sale
+340	Haryana Properties (Haryana.txt)	1 BHK Apartment	Faridabad Colony	Faridabad / Haryana	Apartment / 1 BHK	479	₹49.26 L	Semi-Furnished	1	Family	Sale
+341	Haryana Properties (Haryana.txt)	3 BHK Independent House	Panipat Nagar	Panipat / Haryana	Independent House / 3 BHK	1513	₹1.06 Cr	Semi-Furnished	3	Bachelors	Sale
+342	Haryana Properties (Haryana.txt)	4 BHK Independent House	Gurugram Main Road	Gurugram / Haryana	Independent House / 4 BHK	1509	₹35,900/month	Fully-Furnished	5	Family	Rent
+343	Haryana Properties (Haryana.txt)	1 BHK Studio	Karnal Sector 3	Karnal / Haryana	Studio / 1 BHK	336	₹49.64 L	Unfurnished	1	Bachelors	Sale
+344	Haryana Properties (Haryana.txt)	2 BHK Independent House	Karnal Colony	Karnal / Haryana	Independent House / 2 BHK	892	₹80.09 L	Unfurnished	2	Bachelors	Sale
+345	Haryana Properties (Haryana.txt)	3 BHK Apartment	Karnal Main Road	Karnal / Haryana	Apartment / 3 BHK	1122	₹89.77 L	Unfurnished	3	Any	Sale
+346	Haryana Properties (Haryana.txt)	3 BHK Builder Floor	Gurugram Nagar	Gurugram / Haryana	Builder Floor / 3 BHK	1708	₹94.34 L	Fully-Furnished	4	Family	Sale
+347	Haryana Properties (Haryana.txt)	2 BHK Apartment	Karnal Central	Karnal / Haryana	Apartment / 2 BHK	847	₹21,700/month	Fully-Furnished	2	Family	Rent
+348	Haryana Properties (Haryana.txt)	5 BHK Builder Floor	Karnal West	Karnal / Haryana	Builder Floor / 5 BHK	2653	₹1.58 Cr	Semi-Furnished	4	Family	Sale
+349	Haryana Properties (Haryana.txt)	2 BHK Builder Floor	Panipat Sector 1	Panipat / Haryana	Builder Floor / 2 BHK	894	₹22,900/month	Semi-Furnished	2	Family	Rent
+350	Haryana Properties (Haryana.txt)	2 BHK Apartment	Gurugram Town Centre	Gurugram / Haryana	Apartment / 2 BHK	866	₹78.45 L	Semi-Furnished	2	Family	Sale
+351	Haryana Properties (Haryana.txt)	3 BHK Apartment	Faridabad Heights	Faridabad / Haryana	Apartment / 3 BHK	1353	₹30,600/month	Semi-Furnished	3	Bachelors	Rent
+352	Haryana Properties (Haryana.txt)	3 BHK Apartment	Gurugram Sector 2	Gurugram / Haryana	Apartment / 3 BHK	1325	₹1.03 Cr	Unfurnished	3	Any	Sale
+353	Haryana Properties (Haryana.txt)	1 BHK Studio	Gurugram North	Gurugram / Haryana	Studio / 1 BHK	360	₹51.47 L	Fully-Furnished	1	Bachelors	Sale
+354	Haryana Properties (Haryana.txt)	1 BHK Studio	Gurugram Sector 3	Gurugram / Haryana	Studio / 1 BHK	375	₹40.01 L	Unfurnished	1	Bachelors	Sale
+355	Haryana Properties (Haryana.txt)	2 BHK Independent House	Faridabad Town Centre	Faridabad / Haryana	Independent House / 2 BHK	1141	₹24,500/month	Fully-Furnished	2	Bachelors	Rent
+356	Haryana Properties (Haryana.txt)	4 BHK Builder Floor	Gurugram Sector 1	Gurugram / Haryana	Builder Floor / 4 BHK	2116	₹1.51 Cr	Fully-Furnished	4	Family	Sale
+357	Haryana Properties (Haryana.txt)	2 BHK Apartment	Panipat Main Road	Panipat / Haryana	Apartment / 2 BHK	1016	₹62.36 L	Semi-Furnished	2	Family	Sale
+358	Haryana Properties (Haryana.txt)	2 BHK Apartment	Faridabad North	Faridabad / Haryana	Apartment / 2 BHK	757	₹80.94 L	Unfurnished	1	Family	Sale
+359	Haryana Properties (Haryana.txt)	5 BHK Apartment	Panipat Main Road	Panipat / Haryana	Apartment / 5 BHK	2416	₹1.37 Cr	Fully-Furnished	5	Bachelors	Sale
+360	Haryana Properties (Haryana.txt)	2 BHK Apartment	Faridabad Town Centre	Faridabad / Haryana	Apartment / 2 BHK	731	₹22,800/month	Semi-Furnished	2	Family	Rent
+361	Haryana Properties (Haryana.txt)	2 BHK Apartment	Gurugram East	Gurugram / Haryana	Apartment / 2 BHK	862	₹69.24 L	Fully-Furnished	2	Bachelors	Sale
+362	Haryana Properties (Haryana.txt)	1 BHK Independent House	Faridabad Central	Faridabad / Haryana	Independent House / 1 BHK	584	₹15,700/month	Fully-Furnished	1	Family	Rent
+363	Haryana Properties (Haryana.txt)	2 BHK Independent House	Panipat Colony	Panipat / Haryana	Independent House / 2 BHK	874	₹21,000/month	Fully-Furnished	3	Any	Rent
+364	Haryana Properties (Haryana.txt)	1 BHK Apartment	Faridabad West	Faridabad / Haryana	Apartment / 1 BHK	520	₹51.95 L	Fully-Furnished	1	Family	Sale
+365	Haryana Properties (Haryana.txt)	1 BHK Apartment	Gurugram Central	Gurugram / Haryana	Apartment / 1 BHK	502	₹48.94 L	Semi-Furnished	1	Any	Sale
+366	Haryana Properties (Haryana.txt)	2 BHK Builder Floor	Karnal Central	Karnal / Haryana	Builder Floor / 2 BHK	858	₹16,300/month	Unfurnished	1	Family	Rent
+367	Haryana Properties (Haryana.txt)	3 BHK Apartment	Gurugram North	Gurugram / Haryana	Apartment / 3 BHK	1218	₹1.18 Cr	Unfurnished	3	Any	Sale
+368	Haryana Properties (Haryana.txt)	2 BHK Apartment	Karnal Sector 1	Karnal / Haryana	Apartment / 2 BHK	594	₹15,600/month	Fully-Furnished	2	Family	Rent
+369	Haryana Properties (Haryana.txt)	2 BHK Villa	Faridabad Colony	Faridabad / Haryana	Villa / 2 BHK	1128	₹90.33 L	Semi-Furnished	2	Bachelors	Sale
+370	Haryana Properties (Haryana.txt)	5 BHK Apartment	Gurugram North	Gurugram / Haryana	Apartment / 5 BHK	1935	₹1.83 Cr	Fully-Furnished	5	Any	Sale
+371	Haryana Properties (Haryana.txt)	3 BHK Independent House	Panipat East	Panipat / Haryana	Independent House / 3 BHK	1822	₹97.73 L	Semi-Furnished	3	Any	Sale
+372	Haryana Properties (Haryana.txt)	3 BHK Apartment	Faridabad Main Road	Faridabad / Haryana	Apartment / 3 BHK	1422	₹1.11 Cr	Semi-Furnished	2	Bachelors	Sale
+373	Haryana Properties (Haryana.txt)	4 BHK Apartment	Faridabad Sector 1	Faridabad / Haryana	Apartment / 4 BHK	1737	₹29,800/month	Semi-Furnished	4	Family	Rent
+374	Haryana Properties (Haryana.txt)	4 BHK Apartment	Panipat Sector 2	Panipat / Haryana	Apartment / 4 BHK	1797	₹1.14 Cr	Unfurnished	5	Any	Sale
+375	Haryana Properties (Haryana.txt)	2 BHK Independent House	Faridabad Heights	Faridabad / Haryana	Independent House / 2 BHK	1041	₹21,800/month	Fully-Furnished	2	Any	Rent
+376	Haryana Properties (Haryana.txt)	3 BHK Apartment	Karnal Sector 1	Karnal / Haryana	Apartment / 3 BHK	1290	₹26,500/month	Fully-Furnished	3	Family	Rent
+377	Haryana Properties (Haryana.txt)	5 BHK Apartment	Panipat Nagar	Panipat / Haryana	Apartment / 5 BHK	2410	₹41,000/month	Unfurnished	4	Bachelors	Rent
+378	Haryana Properties (Haryana.txt)	3 BHK Apartment	Faridabad Sector 1	Faridabad / Haryana	Apartment / 3 BHK	1094	₹1.06 Cr	Semi-Furnished	3	Family	Sale
+379	Haryana Properties (Haryana.txt)	1 BHK Studio	Karnal Nagar	Karnal / Haryana	Studio / 1 BHK	414	₹10,400/month	Unfurnished	1	Family	Rent
+380	Haryana Properties (Haryana.txt)	2 BHK Independent House	Karnal West	Karnal / Haryana	Independent House / 2 BHK	1147	₹20,800/month	Semi-Furnished	2	Bachelors	Rent
+381	Haryana Properties (Haryana.txt)	4 BHK Apartment	Panipat West	Panipat / Haryana	Apartment / 4 BHK	1250	₹1.21 Cr	Unfurnished	3	Family	Sale
+382	Haryana Properties (Haryana.txt)	2 BHK Apartment	Gurugram East	Gurugram / Haryana	Apartment / 2 BHK	781	₹75.82 L	Semi-Furnished	2	Family	Sale
+383	Haryana Properties (Haryana.txt)	4 BHK Builder Floor	Karnal Heights	Karnal / Haryana	Builder Floor / 4 BHK	1845	₹1.40 Cr	Semi-Furnished	4	Bachelors	Sale
+384	Haryana Properties (Haryana.txt)	3 BHK Apartment	Faridabad West	Faridabad / Haryana	Apartment / 3 BHK	1064	₹1.01 Cr	Unfurnished	3	Family	Sale
+385	Haryana Properties (Haryana.txt)	1 BHK Apartment	Panipat East	Panipat / Haryana	Apartment / 1 BHK	526	₹52.82 L	Fully-Furnished	1	Family	Sale
+386	Haryana Properties (Haryana.txt)	3 BHK Builder Floor	Faridabad South	Faridabad / Haryana	Builder Floor / 3 BHK	1495	₹1.01 Cr	Semi-Furnished	3	Family	Sale
+387	Haryana Properties (Haryana.txt)	2 BHK Independent House	Karnal South	Karnal / Haryana	Independent House / 2 BHK	916	₹67.40 L	Semi-Furnished	2	Bachelors	Sale
+388	Haryana Properties (Haryana.txt)	4 BHK Apartment	Gurugram Sector 1	Gurugram / Haryana	Apartment / 4 BHK	1672	₹1.08 Cr	Semi-Furnished	5	Family	Sale
+389	Haryana Properties (Haryana.txt)	5 BHK Apartment	Gurugram Extension	Gurugram / Haryana	Apartment / 5 BHK	2386	₹1.49 Cr	Semi-Furnished	5	Bachelors	Sale
+390	Haryana Properties (Haryana.txt)	2 BHK Independent House	Karnal Residential Area	Karnal / Haryana	Independent House / 2 BHK	966	₹83.67 L	Unfurnished	2	Family	Sale
+391	Haryana Properties (Haryana.txt)	1 BHK Studio	Karnal Nagar	Karnal / Haryana	Studio / 1 BHK	365	₹39.77 L	Semi-Furnished	2	Any	Sale
+392	Haryana Properties (Haryana.txt)	1 BHK Apartment	Panipat West	Panipat / Haryana	Apartment / 1 BHK	363	₹44.15 L	Semi-Furnished	1	Any	Sale
+393	Haryana Properties (Haryana.txt)	4 BHK Apartment	Panipat Heights	Panipat / Haryana	Apartment / 4 BHK	1953	₹1.32 Cr	Fully-Furnished	4	Bachelors	Sale
+394	Haryana Properties (Haryana.txt)	4 BHK Villa	Karnal South	Karnal / Haryana	Villa / 4 BHK	1747	₹31,100/month	Unfurnished	3	Any	Rent
+395	Haryana Properties (Haryana.txt)	3 BHK Independent House	Panipat West	Panipat / Haryana	Independent House / 3 BHK	1446	₹28,200/month	Semi-Furnished	3	Family	Rent
+396	Haryana Properties (Haryana.txt)	3 BHK Apartment	Karnal South	Karnal / Haryana	Apartment / 3 BHK	1083	₹95.77 L	Unfurnished	3	Family	Sale
+397	Haryana Properties (Haryana.txt)	3 BHK Villa	Gurugram North	Gurugram / Haryana	Villa / 3 BHK	1756	₹93 L	Fully-Furnished	3	Any	Sale
+398	Haryana Properties (Haryana.txt)	2 BHK Apartment	Karnal Sector 3	Karnal / Haryana	Apartment / 2 BHK	815	₹19,000/month	Unfurnished	3	Family	Rent
+399	Haryana Properties (Haryana.txt)	4 BHK Villa	Panipat Heights	Panipat / Haryana	Villa / 4 BHK	2089	₹1.31 Cr	Semi-Furnished	4	Family	Sale
+400	Haryana Properties (Haryana.txt)	2 BHK Apartment	Gurugram West	Gurugram / Haryana	Apartment / 2 BHK	1038	₹22,500/month	Semi-Furnished	3	Family	Rent
+401	Haryana Properties (Haryana.txt)	1 BHK Apartment	Faridabad Colony	Faridabad / Haryana	Apartment / 1 BHK	501	₹40.89 L	Unfurnished	1	Any	Sale
+402	Haryana Properties (Haryana.txt)	2 BHK Apartment	Karnal Town Centre	Karnal / Haryana	Apartment / 2 BHK	736	₹18,400/month	Fully-Furnished	3	Family	Rent
+403	Haryana Properties (Haryana.txt)	4 BHK Apartment	Gurugram Central	Gurugram / Haryana	Apartment / 4 BHK	1527	₹1.32 Cr	Semi-Furnished	3	Family	Sale
+404	Haryana Properties (Haryana.txt)	2 BHK Apartment	Panipat Heights	Panipat / Haryana	Apartment / 2 BHK	688	₹71.20 L	Fully-Furnished	2	Family	Sale
+405	Haryana Properties (Haryana.txt)	3 BHK Apartment	Faridabad Sector 2	Faridabad / Haryana	Apartment / 3 BHK	1036	₹22,500/month	Semi-Furnished	3	Bachelors	Rent
+406	Haryana Properties (Haryana.txt)	1 BHK Independent House	Faridabad Main Road	Faridabad / Haryana	Independent House / 1 BHK	632	₹15,500/month	Fully-Furnished	1	Family	Rent
+407	Haryana Properties (Haryana.txt)	5 BHK Apartment	Panipat Main Road	Panipat / Haryana	Apartment / 5 BHK	2716	₹1.53 Cr	Fully-Furnished	5	Family	Sale
+408	Haryana Properties (Haryana.txt)	4 BHK Independent House	Gurugram Central	Gurugram / Haryana	Independent House / 4 BHK	1779	₹1.26 Cr	Unfurnished	3	Family	Sale
+409	Haryana Properties (Haryana.txt)	2 BHK Builder Floor	Panipat Sector 2	Panipat / Haryana	Builder Floor / 2 BHK	858	₹85.14 L	Fully-Furnished	2	Any	Sale
+410	Haryana Properties (Haryana.txt)	2 BHK Builder Floor	Karnal Town Centre	Karnal / Haryana	Builder Floor / 2 BHK	883	₹16,700/month	Semi-Furnished	3	Family	Rent
+411	Haryana Properties (Haryana.txt)	3 BHK Apartment	Panipat Main Road	Panipat / Haryana	Apartment / 3 BHK	966	₹97.90 L	Unfurnished	3	Any	Sale
+412	Haryana Properties (Haryana.txt)	3 BHK Builder Floor	Panipat West	Panipat / Haryana	Builder Floor / 3 BHK	1075	₹1.07 Cr	Semi-Furnished	2	Family	Sale
+413	Haryana Properties (Haryana.txt)	2 BHK Independent House	Gurugram Central	Gurugram / Haryana	Independent House / 2 BHK	1098	₹90.17 L	Fully-Furnished	2	Bachelors	Sale
+414	Haryana Properties (Haryana.txt)	2 BHK Independent House	Faridabad Town Centre	Faridabad / Haryana	Independent House / 2 BHK	755	₹57.52 L	Unfurnished	2	Bachelors	Sale
+415	Haryana Properties (Haryana.txt)	2 BHK Builder Floor	Karnal Extension	Karnal / Haryana	Builder Floor / 2 BHK	775	₹65.64 L	Semi-Furnished	3	Any	Sale
+416	Haryana Properties (Haryana.txt)	2 BHK Apartment	Karnal Colony	Karnal / Haryana	Apartment / 2 BHK	909	₹74.76 L	Fully-Furnished	2	Family	Sale
+417	Haryana Properties (Haryana.txt)	1 BHK Apartment	Faridabad Colony	Faridabad / Haryana	Apartment / 1 BHK	513	₹11,500/month	Unfurnished	1	Any	Rent
+418	Haryana Properties (Haryana.txt)	2 BHK Builder Floor	Gurugram East	Gurugram / Haryana	Builder Floor / 2 BHK	888	₹19,000/month	Fully-Furnished	3	Bachelors	Rent
+419	Haryana Properties (Haryana.txt)	3 BHK Builder Floor	Panipat Extension	Panipat / Haryana	Builder Floor / 3 BHK	1274	₹24,100/month	Semi-Furnished	3	Family	Rent
+420	Haryana Properties (Haryana.txt)	2 BHK Builder Floor	Panipat Sector 2	Panipat / Haryana	Builder Floor / 2 BHK	865	₹83.93 L	Semi-Furnished	1	Family	Sale
+421	Haryana Properties (Haryana.txt)	1 BHK Builder Floor	Karnal Sector 3	Karnal / Haryana	Builder Floor / 1 BHK	568	₹55.76 L	Semi-Furnished	1	Bachelors	Sale
+422	Haryana Properties (Haryana.txt)	3 BHK Builder Floor	Gurugram Extension	Gurugram / Haryana	Builder Floor / 3 BHK	1042	₹22,400/month	Semi-Furnished	3	Bachelors	Rent
+423	Haryana Properties (Haryana.txt)	1 BHK Studio	Karnal Central	Karnal / Haryana	Studio / 1 BHK	392	₹36.36 L	Semi-Furnished	1	Any	Sale
+424	Haryana Properties (Haryana.txt)	1 BHK Apartment	Faridabad Sector 3	Faridabad / Haryana	Apartment / 1 BHK	416	₹12,600/month	Fully-Furnished	1	Bachelors	Rent
+425	Haryana Properties (Haryana.txt)	3 BHK Independent House	Faridabad East	Faridabad / Haryana	Independent House / 3 BHK	1213	₹1.07 Cr	Semi-Furnished	4	Family	Sale
+426	Haryana Properties (Haryana.txt)	2 BHK Independent House	Karnal Main Road	Karnal / Haryana	Independent House / 2 BHK	809	₹84.84 L	Unfurnished	2	Any	Sale
+427	Haryana Properties (Haryana.txt)	3 BHK Apartment	Panipat Nagar	Panipat / Haryana	Apartment / 3 BHK	1282	₹1.13 Cr	Fully-Furnished	3	Any	Sale
+428	Haryana Properties (Haryana.txt)	3 BHK Apartment	Gurugram Extension	Gurugram / Haryana	Apartment / 3 BHK	1252	₹28,700/month	Semi-Furnished	3	Family	Rent
+429	Haryana Properties (Haryana.txt)	3 BHK Apartment	Faridabad Nagar	Faridabad / Haryana	Apartment / 3 BHK	1425	₹1.22 Cr	Semi-Furnished	2	Any	Sale
+430	Haryana Properties (Haryana.txt)	2 BHK Apartment	Faridabad Extension	Faridabad / Haryana	Apartment / 2 BHK	642	₹63.25 L	Semi-Furnished	2	Any	Sale
+431	Haryana Properties (Haryana.txt)	3 BHK Independent House	Faridabad Residential Area	Faridabad / Haryana	Independent House / 3 BHK	1708	₹1.09 Cr	Unfurnished	2	Family	Sale
+432	Haryana Properties (Haryana.txt)	3 BHK Apartment	Faridabad Residential Area	Faridabad / Haryana	Apartment / 3 BHK	939	₹81.32 L	Fully-Furnished	3	Any	Sale
+433	Haryana Properties (Haryana.txt)	4 BHK Apartment	Gurugram East	Gurugram / Haryana	Apartment / 4 BHK	2013	₹1.56 Cr	Semi-Furnished	5	Bachelors	Sale
+434	Haryana Properties (Haryana.txt)	2 BHK Villa	Panipat Central	Panipat / Haryana	Villa / 2 BHK	1245	₹84.33 L	Semi-Furnished	2	Any	Sale
+435	Haryana Properties (Haryana.txt)	2 BHK Apartment	Gurugram Extension	Gurugram / Haryana	Apartment / 2 BHK	916	₹86.36 L	Unfurnished	2	Bachelors	Sale
+436	Haryana Properties (Haryana.txt)	4 BHK Apartment	Panipat North	Panipat / Haryana	Apartment / 4 BHK	1820	₹42,100/month	Semi-Furnished	4	Family	Rent
+437	Haryana Properties (Haryana.txt)	3 BHK Apartment	Gurugram Central	Gurugram / Haryana	Apartment / 3 BHK	1420	₹96.46 L	Semi-Furnished	3	Family	Sale
+438	Haryana Properties (Haryana.txt)	2 BHK Apartment	Karnal South	Karnal / Haryana	Apartment / 2 BHK	989	₹66.64 L	Unfurnished	3	Family	Sale
+439	Haryana Properties (Haryana.txt)	4 BHK Independent House	Gurugram West	Gurugram / Haryana	Independent House / 4 BHK	2698	₹1.38 Cr	Fully-Furnished	4	Bachelors	Sale
+440	Haryana Properties (Haryana.txt)	2 BHK Apartment	Faridabad Sector 1	Faridabad / Haryana	Apartment / 2 BHK	735	₹21,300/month	Semi-Furnished	1	Bachelors	Rent
+441	Haryana Properties (Haryana.txt)	2 BHK Independent House	Gurugram West	Gurugram / Haryana	Independent House / 2 BHK	1029	₹82.55 L	Semi-Furnished	2	Any	Sale
+442	Haryana Properties (Haryana.txt)	4 BHK Apartment	Faridabad Town Centre	Faridabad / Haryana	Apartment / 4 BHK	1833	₹1.53 Cr	Semi-Furnished	5	Family	Sale
+443	Haryana Properties (Haryana.txt)	5 BHK Apartment	Faridabad Central	Faridabad / Haryana	Apartment / 5 BHK	2233	₹51,300/month	Semi-Furnished	6	Family	Rent
+444	Haryana Properties (Haryana.txt)	3 BHK Apartment	Karnal Main Road	Karnal / Haryana	Apartment / 3 BHK	1312	₹29,600/month	Semi-Furnished	3	Bachelors	Rent
+445	Haryana Properties (Haryana.txt)	4 BHK Builder Floor	Panipat South	Panipat / Haryana	Builder Floor / 4 BHK	1683	₹39,800/month	Unfurnished	5	Family	Rent
+446	Haryana Properties (Haryana.txt)	2 BHK Apartment	Panipat Main Road	Panipat / Haryana	Apartment / 2 BHK	983	₹70.91 L	Semi-Furnished	2	Family	Sale
+447	Haryana Properties (Haryana.txt)	3 BHK Independent House	Faridabad South	Faridabad / Haryana	Independent House / 3 BHK	1406	₹33,700/month	Semi-Furnished	2	Family	Rent
+448	Haryana Properties (Haryana.txt)	2 BHK Apartment	Gurugram Nagar	Gurugram / Haryana	Apartment / 2 BHK	786	₹23,000/month	Semi-Furnished	3	Any	Rent
+449	Haryana Properties (Haryana.txt)	3 BHK Builder Floor	Faridabad Colony	Faridabad / Haryana	Builder Floor / 3 BHK	1174	₹94.76 L	Fully-Furnished	3	Bachelors	Sale
+450	Haryana Properties (Haryana.txt)	2 BHK Villa	Panipat Extension	Panipat / Haryana	Villa / 2 BHK	950	₹18,100/month	Fully-Furnished	1	Bachelors	Rent
+451	Haryana Properties (Haryana.txt)	4 BHK Apartment	Gurugram Sector 3	Gurugram / Haryana	Apartment / 4 BHK	1333	₹28,700/month	Fully-Furnished	4	Bachelors	Rent
+452	Haryana Properties (Haryana.txt)	1 BHK Apartment	Gurugram North	Gurugram / Haryana	Apartment / 1 BHK	589	₹57.11 L	Unfurnished	1	Family	Sale
+453	Haryana Properties (Haryana.txt)	3 BHK Apartment	Panipat Nagar	Panipat / Haryana	Apartment / 3 BHK	1074	₹21,500/month	Fully-Furnished	3	Family	Rent
+454	Haryana Properties (Haryana.txt)	2 BHK Apartment	Karnal Main Road	Karnal / Haryana	Apartment / 2 BHK	696	₹83.21 L	Fully-Furnished	3	Any	Sale
+455	Haryana Properties (Haryana.txt)	1 BHK Apartment	Karnal North	Karnal / Haryana	Apartment / 1 BHK	595	₹43.32 L	Semi-Furnished	1	Family	Sale
+456	Haryana Properties (Haryana.txt)	2 BHK Apartment	Karnal Sector 1	Karnal / Haryana	Apartment / 2 BHK	852	₹16,700/month	Unfurnished	1	Family	Rent
+457	Haryana Properties (Haryana.txt)	1 BHK Villa	Karnal Residential Area	Karnal / Haryana	Villa / 1 BHK	776	₹12,000/month	Fully-Furnished	1	Any	Rent
+458	Haryana Properties (Haryana.txt)	1 BHK Apartment	Faridabad Main Road	Faridabad / Haryana	Apartment / 1 BHK	523	₹54.63 L	Semi-Furnished	1	Bachelors	Sale
+459	Haryana Properties (Haryana.txt)	5 BHK Independent House	Karnal Town Centre	Karnal / Haryana	Independent House / 5 BHK	2546	₹1.74 Cr	Semi-Furnished	5	Family	Sale
+460	Haryana Properties (Haryana.txt)	2 BHK Apartment	Faridabad Sector 2	Faridabad / Haryana	Apartment / 2 BHK	609	₹17,200/month	Fully-Furnished	1	Family	Rent
+461	Haryana Properties (Haryana.txt)	4 BHK Apartment	Faridabad Residential Area	Faridabad / Haryana	Apartment / 4 BHK	1307	₹1.40 Cr	Semi-Furnished	4	Family	Sale
+462	Haryana Properties (Haryana.txt)	2 BHK Apartment	Faridabad Central	Faridabad / Haryana	Apartment / 2 BHK	906	₹71.29 L	Unfurnished	2	Any	Sale
+463	Haryana Properties (Haryana.txt)	1 BHK Apartment	Faridabad Residential Area	Faridabad / Haryana	Apartment / 1 BHK	521	₹53.21 L	Unfurnished	1	Family	Sale
+464	Haryana Properties (Haryana.txt)	4 BHK Builder Floor	Karnal East	Karnal / Haryana	Builder Floor / 4 BHK	1267	₹1.18 Cr	Semi-Furnished	4	Family	Sale
+465	Haryana Properties (Haryana.txt)	2 BHK Apartment	Faridabad Town Centre	Faridabad / Haryana	Apartment / 2 BHK	841	₹83.92 L	Semi-Furnished	3	Bachelors	Sale
+466	Haryana Properties (Haryana.txt)	2 BHK Builder Floor	Panipat East	Panipat / Haryana	Builder Floor / 2 BHK	739	₹19,100/month	Fully-Furnished	2	Any	Rent
+467	Haryana Properties (Haryana.txt)	1 BHK Studio	Gurugram Sector 3	Gurugram / Haryana	Studio / 1 BHK	300	₹10,900/month	Semi-Furnished	1	Family	Rent
+468	Haryana Properties (Haryana.txt)	5 BHK Independent House	Gurugram Sector 1	Gurugram / Haryana	Independent House / 5 BHK	3712	₹1.76 Cr	Unfurnished	5	Bachelors	Sale
+469	Haryana Properties (Haryana.txt)	1 BHK Studio	Karnal Main Road	Karnal / Haryana	Studio / 1 BHK	318	₹34.40 L	Fully-Furnished	1	Bachelors	Sale
+470	Haryana Properties (Haryana.txt)	3 BHK Apartment	Gurugram Sector 2	Gurugram / Haryana	Apartment / 3 BHK	1509	₹99.90 L	Unfurnished	3	Any	Sale
+471	Haryana Properties (Haryana.txt)	2 BHK Apartment	Panipat Colony	Panipat / Haryana	Apartment / 2 BHK	849	₹70.45 L	Semi-Furnished	2	Family	Sale
+472	Haryana Properties (Haryana.txt)	2 BHK Apartment	Karnal Sector 2	Karnal / Haryana	Apartment / 2 BHK	944	₹72.22 L	Semi-Furnished	1	Bachelors	Sale
+473	Haryana Properties (Haryana.txt)	3 BHK Apartment	Panipat Central	Panipat / Haryana	Apartment / 3 BHK	1490	₹1.16 Cr	Semi-Furnished	3	Any	Sale
+474	Haryana Properties (Haryana.txt)	1 BHK Apartment	Karnal Extension	Karnal / Haryana	Apartment / 1 BHK	469	₹54.11 L	Unfurnished	2	Bachelors	Sale
+475	Haryana Properties (Haryana.txt)	1 BHK Apartment	Gurugram Residential Area	Gurugram / Haryana	Apartment / 1 BHK	582	₹48.82 L	Fully-Furnished	1	Bachelors	Sale
+476	Haryana Properties (Haryana.txt)	3 BHK Independent House	Panipat Main Road	Panipat / Haryana	Independent House / 3 BHK	1552	₹1.25 Cr	Semi-Furnished	2	Bachelors	Sale
+477	Haryana Properties (Haryana.txt)	1 BHK Studio	Faridabad Colony	Faridabad / Haryana	Studio / 1 BHK	304	₹48.56 L	Semi-Furnished	1	Any	Sale
+478	Haryana Properties (Haryana.txt)	4 BHK Apartment	Panipat Heights	Panipat / Haryana	Apartment / 4 BHK	1924	₹1.38 Cr	Semi-Furnished	4	Any	Sale
+479	Haryana Properties (Haryana.txt)	2 BHK Apartment	Faridabad East	Faridabad / Haryana	Apartment / 2 BHK	918	₹63.91 L	Semi-Furnished	3	Any	Sale
+480	Haryana Properties (Haryana.txt)	5 BHK Apartment	Faridabad West	Faridabad / Haryana	Apartment / 5 BHK	2672	₹1.86 Cr	Fully-Furnished	4	Any	Sale
+481	Haryana Properties (Haryana.txt)	4 BHK Apartment	Panipat Sector 1	Panipat / Haryana	Apartment / 4 BHK	1598	₹1.10 Cr	Fully-Furnished	4	Family	Sale
+482	Haryana Properties (Haryana.txt)	2 BHK Apartment	Panipat Colony	Panipat / Haryana	Apartment / 2 BHK	941	₹74.84 L	Semi-Furnished	2	Family	Sale
+483	Haryana Properties (Haryana.txt)	4 BHK Apartment	Karnal Sector 3	Karnal / Haryana	Apartment / 4 BHK	1698	₹1.18 Cr	Fully-Furnished	3	Any	Sale
+484	Haryana Properties (Haryana.txt)	3 BHK Apartment	Gurugram Town Centre	Gurugram / Haryana	Apartment / 3 BHK	1313	₹33,100/month	Unfurnished	3	Any	Rent
+485	Haryana Properties (Haryana.txt)	2 BHK Apartment	Faridabad South	Faridabad / Haryana	Apartment / 2 BHK	933	₹20,500/month	Fully-Furnished	2	Family	Rent
+486	Haryana Properties (Haryana.txt)	1 BHK Studio	Faridabad Sector 1	Faridabad / Haryana	Studio / 1 BHK	357	₹12,100/month	Semi-Furnished	1	Family	Rent
+487	Haryana Properties (Haryana.txt)	2 BHK Apartment	Faridabad Central	Faridabad / Haryana	Apartment / 2 BHK	967	₹66.87 L	Fully-Furnished	3	Bachelors	Sale
+488	Haryana Properties (Haryana.txt)	1 BHK Independent House	Karnal Central	Karnal / Haryana	Independent House / 1 BHK	632	₹58.15 L	Unfurnished	1	Bachelors	Sale
+489	Haryana Properties (Haryana.txt)	2 BHK Builder Floor	Gurugram Heights	Gurugram / Haryana	Builder Floor / 2 BHK	939	₹68.98 L	Semi-Furnished	1	Any	Sale
+490	Haryana Properties (Haryana.txt)	2 BHK Villa	Karnal Residential Area	Karnal / Haryana	Villa / 2 BHK	1061	₹25,000/month	Semi-Furnished	3	Bachelors	Rent
+491	Haryana Properties (Haryana.txt)	3 BHK Independent House	Panipat Extension	Panipat / Haryana	Independent House / 3 BHK	1540	₹25,100/month	Unfurnished	3	Family	Rent
+492	Haryana Properties (Haryana.txt)	1 BHK Apartment	Panipat Extension	Panipat / Haryana	Apartment / 1 BHK	503	₹11,400/month	Semi-Furnished	1	Bachelors	Rent
+493	Haryana Properties (Haryana.txt)	4 BHK Apartment	Karnal Sector 3	Karnal / Haryana	Apartment / 4 BHK	1648	₹1.38 Cr	Unfurnished	4	Bachelors	Sale
+494	Haryana Properties (Haryana.txt)	2 BHK Apartment	Gurugram Central	Gurugram / Haryana	Apartment / 2 BHK	916	₹19,900/month	Semi-Furnished	2	Family	Rent
+495	Haryana Properties (Haryana.txt)	1 BHK Builder Floor	Faridabad Heights	Faridabad / Haryana	Builder Floor / 1 BHK	474	₹40.26 L	Unfurnished	1	Family	Sale
+496	Haryana Properties (Haryana.txt)	2 BHK Apartment	Panipat Heights	Panipat / Haryana	Apartment / 2 BHK	1015	₹90.39 L	Semi-Furnished	1	Bachelors	Sale
+497	Haryana Properties (Haryana.txt)	1 BHK Apartment	Gurugram Sector 1	Gurugram / Haryana	Apartment / 1 BHK	525	₹14,800/month	Fully-Furnished	1	Family	Rent
+498	Haryana Properties (Haryana.txt)	2 BHK Builder Floor	Faridabad Town Centre	Faridabad / Haryana	Builder Floor / 2 BHK	620	₹67.76 L	Fully-Furnished	3	Any	Sale
+499	Haryana Properties (Haryana.txt)	4 BHK Apartment	Gurugram Residential Area	Gurugram / Haryana	Apartment / 4 BHK	1880	₹36,500/month	Semi-Furnished	4	Family	Rent
+500	Haryana Properties (Haryana.txt)	1 BHK Studio	Faridabad Town Centre	Faridabad / Haryana	Studio / 1 BHK	390	₹12,500/month	Fully-Furnished	1	Bachelors	Rent
+501	Haryana Properties (Haryana.txt)	2 BHK Apartment	Faridabad Heights	Faridabad / Haryana	Apartment / 2 BHK	1031	₹82.56 L	Semi-Furnished	2	Any	Sale
+502	Haryana Properties (Haryana.txt)	2 BHK Builder Floor	Karnal Heights	Karnal / Haryana	Builder Floor / 2 BHK	643	₹69.46 L	Semi-Furnished	2	Family	Sale
+503	Haryana Properties (Haryana.txt)	2 BHK Independent House	Panipat Sector 2	Panipat / Haryana	Independent House / 2 BHK	1313	₹79.46 L	Unfurnished	2	Any	Sale
+504	Haryana Properties (Haryana.txt)	1 BHK Builder Floor	Panipat Central	Panipat / Haryana	Builder Floor / 1 BHK	562	₹53.77 L	Unfurnished	1	Bachelors	Sale
+505	Haryana Properties (Haryana.txt)	2 BHK Apartment	Gurugram Central	Gurugram / Haryana	Apartment / 2 BHK	836	₹59.79 L	Fully-Furnished	2	Family	Sale
+506	Haryana Properties (Haryana.txt)	5 BHK Independent House	Gurugram Central	Gurugram / Haryana	Independent House / 5 BHK	3169	₹1.50 Cr	Semi-Furnished	5	Family	Sale
+507	Haryana Properties (Haryana.txt)	2 BHK Builder Floor	Faridabad Heights	Faridabad / Haryana	Builder Floor / 2 BHK	939	₹67.59 L	Fully-Furnished	3	Bachelors	Sale
+508	Haryana Properties (Haryana.txt)	1 BHK Apartment	Gurugram West	Gurugram / Haryana	Apartment / 1 BHK	494	₹39.43 L	Unfurnished	2	Family	Sale
+509	Haryana Properties (Haryana.txt)	4 BHK Apartment	Karnal Town Centre	Karnal / Haryana	Apartment / 4 BHK	1875	₹1.39 Cr	Unfurnished	3	Family	Sale
+510	Haryana Properties (Haryana.txt)	2 BHK Independent House	Karnal Nagar	Karnal / Haryana	Independent House / 2 BHK	738	₹68.61 L	Fully-Furnished	2	Any	Sale
+511	Haryana Properties (Haryana.txt)	2 BHK Apartment	Panipat North	Panipat / Haryana	Apartment / 2 BHK	834	₹59.27 L	Semi-Furnished	2	Bachelors	Sale
+512	Haryana Properties (Haryana.txt)	1 BHK Apartment	Gurugram Colony	Gurugram / Haryana	Apartment / 1 BHK	556	₹12,300/month	Semi-Furnished	2	Family	Rent
+513	Haryana Properties (Haryana.txt)	1 BHK Apartment	Faridabad East	Faridabad / Haryana	Apartment / 1 BHK	574	₹11,400/month	Semi-Furnished	1	Bachelors	Rent
+514	Haryana Properties (Haryana.txt)	3 BHK Builder Floor	Karnal Town Centre	Karnal / Haryana	Builder Floor / 3 BHK	1030	₹1.10 Cr	Semi-Furnished	3	Bachelors	Sale
+515	Haryana Properties (Haryana.txt)	2 BHK Builder Floor	Karnal South	Karnal / Haryana	Builder Floor / 2 BHK	881	₹21,600/month	Semi-Furnished	2	Bachelors	Rent
+516	Haryana Properties (Haryana.txt)	3 BHK Independent House	Panipat Town Centre	Panipat / Haryana	Independent House / 3 BHK	1522	₹31,000/month	Unfurnished	2	Any	Rent
+517	Haryana Properties (Haryana.txt)	4 BHK Villa	Karnal Town Centre	Karnal / Haryana	Villa / 4 BHK	2909	₹46,600/month	Semi-Furnished	4	Any	Rent
+518	Haryana Properties (Haryana.txt)	3 BHK Apartment	Panipat Sector 3	Panipat / Haryana	Apartment / 3 BHK	1142	₹87.20 L	Fully-Furnished	3	Bachelors	Sale
+519	Haryana Properties (Haryana.txt)	1 BHK Independent House	Gurugram Sector 1	Gurugram / Haryana	Independent House / 1 BHK	566	₹54.96 L	Semi-Furnished	1	Family	Sale
+520	Haryana Properties (Haryana.txt)	1 BHK Studio	Faridabad Main Road	Faridabad / Haryana	Studio / 1 BHK	433	₹38.95 L	Fully-Furnished	2	Bachelors	Sale
+521	Haryana Properties (Haryana.txt)	2 BHK Apartment	Faridabad West	Faridabad / Haryana	Apartment / 2 BHK	821	₹58.65 L	Semi-Furnished	2	Any	Sale
+522	Haryana Properties (Haryana.txt)	3 BHK Villa	Gurugram Central	Gurugram / Haryana	Villa / 3 BHK	1732	₹33,000/month	Fully-Furnished	4	Bachelors	Rent
+523	Haryana Properties (Haryana.txt)	3 BHK Apartment	Karnal Residential Area	Karnal / Haryana	Apartment / 3 BHK	1117	₹96.91 L	Semi-Furnished	3	Family	Sale
+524	Haryana Properties (Haryana.txt)	3 BHK Builder Floor	Gurugram Nagar	Gurugram / Haryana	Builder Floor / 3 BHK	1248	₹26,600/month	Unfurnished	4	Any	Rent
+525	Haryana Properties (Haryana.txt)	4 BHK Apartment	Panipat Extension	Panipat / Haryana	Apartment / 4 BHK	1843	₹1.16 Cr	Fully-Furnished	4	Family	Sale
+526	Haryana Properties (Haryana.txt)	2 BHK Villa	Gurugram Heights	Gurugram / Haryana	Villa / 2 BHK	1392	₹23,000/month	Fully-Furnished	1	Any	Rent
+527	Haryana Properties (Haryana.txt)	4 BHK Apartment	Panipat Main Road	Panipat / Haryana	Apartment / 4 BHK	1729	₹33,700/month	Fully-Furnished	4	Bachelors	Rent
+528	Haryana Properties (Haryana.txt)	3 BHK Apartment	Karnal Residential Area	Karnal / Haryana	Apartment / 3 BHK	1495	₹1.18 Cr	Fully-Furnished	4	Family	Sale
+529	Haryana Properties (Haryana.txt)	3 BHK Apartment	Gurugram South	Gurugram / Haryana	Apartment / 3 BHK	998	₹92.02 L	Semi-Furnished	3	Bachelors	Sale
+530	Haryana Properties (Haryana.txt)	2 BHK Apartment	Karnal Main Road	Karnal / Haryana	Apartment / 2 BHK	940	₹21,000/month	Fully-Furnished	1	Bachelors	Rent
+531	Haryana Properties (Haryana.txt)	2 BHK Independent House	Faridabad Sector 2	Faridabad / Haryana	Independent House / 2 BHK	925	₹79.84 L	Semi-Furnished	1	Family	Sale
+532	Haryana Properties (Haryana.txt)	2 BHK Villa	Gurugram Sector 2	Gurugram / Haryana	Villa / 2 BHK	1373	₹86.33 L	Unfurnished	2	Bachelors	Sale
+533	Haryana Properties (Haryana.txt)	1 BHK Apartment	Karnal South	Karnal / Haryana	Apartment / 1 BHK	549	₹14,600/month	Semi-Furnished	1	Family	Rent
+534	Haryana Properties (Haryana.txt)	2 BHK Independent House	Panipat Extension	Panipat / Haryana	Independent House / 2 BHK	698	₹20,500/month	Unfurnished	1	Bachelors	Rent
+535	Haryana Properties (Haryana.txt)	3 BHK Apartment	Gurugram South	Gurugram / Haryana	Apartment / 3 BHK	776	₹81.78 L	Fully-Furnished	3	Family	Sale
+536	Haryana Properties (Haryana.txt)	1 BHK Builder Floor	Panipat Colony	Panipat / Haryana	Builder Floor / 1 BHK	467	₹51.46 L	Semi-Furnished	2	Any	Sale
+537	Haryana Properties (Haryana.txt)	4 BHK Apartment	Faridabad Town Centre	Faridabad / Haryana	Apartment / 4 BHK	1982	₹30,500/month	Unfurnished	3	Any	Rent
+538	Haryana Properties (Haryana.txt)	2 BHK Apartment	Faridabad Main Road	Faridabad / Haryana	Apartment / 2 BHK	864	₹18,200/month	Semi-Furnished	2	Any	Rent
+539	Haryana Properties (Haryana.txt)	4 BHK Villa	Gurugram West	Gurugram / Haryana	Villa / 4 BHK	2442	₹36,500/month	Fully-Furnished	4	Bachelors	Rent
+540	Haryana Properties (Haryana.txt)	3 BHK Builder Floor	Karnal Sector 1	Karnal / Haryana	Builder Floor / 3 BHK	1420	₹1.20 Cr	Semi-Furnished	4	Family	Sale
+541	Haryana Properties (Haryana.txt)	2 BHK Apartment	Karnal Colony	Karnal / Haryana	Apartment / 2 BHK	712	₹16,600/month	Unfurnished	1	Family	Rent
+542	Haryana Properties (Haryana.txt)	3 BHK Independent House	Faridabad Sector 1	Faridabad / Haryana	Independent House / 3 BHK	1830	₹1.02 Cr	Unfurnished	3	Family	Sale
+543	Haryana Properties (Haryana.txt)	3 BHK Apartment	Faridabad Main Road	Faridabad / Haryana	Apartment / 3 BHK	952	₹86.37 L	Semi-Furnished	3	Any	Sale
+544	Haryana Properties (Haryana.txt)	1 BHK Builder Floor	Gurugram Colony	Gurugram / Haryana	Builder Floor / 1 BHK	383	₹41.74 L	Semi-Furnished	1	Any	Sale
+545	Haryana Properties (Haryana.txt)	2 BHK Apartment	Panipat Residential Area	Panipat / Haryana	Apartment / 2 BHK	1022	₹80.88 L	Semi-Furnished	3	Any	Sale
+546	Haryana Properties (Haryana.txt)	3 BHK Villa	Faridabad Sector 3	Faridabad / Haryana	Villa / 3 BHK	1817	₹33,400/month	Semi-Furnished	3	Family	Rent
+547	Haryana Properties (Haryana.txt)	1 BHK Builder Floor	Faridabad Residential Area	Faridabad / Haryana	Builder Floor / 1 BHK	496	₹11,400/month	Semi-Furnished	1	Family	Rent
+548	Haryana Properties (Haryana.txt)	3 BHK Builder Floor	Karnal North	Karnal / Haryana	Builder Floor / 3 BHK	885	₹76.61 L	Semi-Furnished	2	Family	Sale
+549	Haryana Properties (Haryana.txt)	1 BHK Villa	Faridabad Central	Faridabad / Haryana	Villa / 1 BHK	772	₹17,300/month	Unfurnished	1	Any	Rent
+550	Haryana Properties (Haryana.txt)	3 BHK Apartment	Panipat Residential Area	Panipat / Haryana	Apartment / 3 BHK	1438	₹27,600/month	Semi-Furnished	3	Bachelors	Rent
+551	Haryana Properties (Haryana.txt)	2 BHK Apartment	Karnal Sector 2	Karnal / Haryana	Apartment / 2 BHK	793	₹61.81 L	Unfurnished	1	Any	Sale
+552	Haryana Properties (Haryana.txt)	2 BHK Apartment	Panipat Heights	Panipat / Haryana	Apartment / 2 BHK	895	₹20,200/month	Fully-Furnished	2	Family	Rent
+553	Haryana Properties (Haryana.txt)	4 BHK Apartment	Karnal Heights	Karnal / Haryana	Apartment / 4 BHK	1326	₹1.42 Cr	Semi-Furnished	4	Any	Sale
+554	Haryana Properties (Haryana.txt)	1 BHK Apartment	Faridabad Town Centre	Faridabad / Haryana	Apartment / 1 BHK	477	₹52.13 L	Fully-Furnished	1	Bachelors	Sale
+555	Haryana Properties (Haryana.txt)	2 BHK Villa	Karnal Nagar	Karnal / Haryana	Villa / 2 BHK	1183	₹18,700/month	Fully-Furnished	2	Family	Rent
+556	Haryana Properties (Haryana.txt)	1 BHK Studio	Faridabad South	Faridabad / Haryana	Studio / 1 BHK	369	₹39.56 L	Fully-Furnished	1	Family	Sale
+557	Haryana Properties (Haryana.txt)	1 BHK Apartment	Faridabad Nagar	Faridabad / Haryana	Apartment / 1 BHK	450	₹50.10 L	Unfurnished	2	Bachelors	Sale
+558	Haryana Properties (Haryana.txt)	2 BHK Apartment	Panipat West	Panipat / Haryana	Apartment / 2 BHK	912	₹86.71 L	Semi-Furnished	3	Family	Sale
+559	Haryana Properties (Haryana.txt)	2 BHK Builder Floor	Faridabad Main Road	Faridabad / Haryana	Builder Floor / 2 BHK	827	₹21,000/month	Semi-Furnished	3	Any	Rent
+560	Haryana Properties (Haryana.txt)	2 BHK Apartment	Gurugram East	Gurugram / Haryana	Apartment / 2 BHK	911	₹74.18 L	Unfurnished	2	Any	Sale
+561	Haryana Properties (Haryana.txt)	1 BHK Apartment	Panipat Sector 1	Panipat / Haryana	Apartment / 1 BHK	518	₹40.20 L	Semi-Furnished	1	Family	Sale
+562	Haryana Properties (Haryana.txt)	1 BHK Apartment	Karnal Town Centre	Karnal / Haryana	Apartment / 1 BHK	492	₹48.15 L	Semi-Furnished	1	Bachelors	Sale
+563	Haryana Properties (Haryana.txt)	1 BHK Studio	Faridabad Sector 3	Faridabad / Haryana	Studio / 1 BHK	350	₹10,900/month	Semi-Furnished	1	Bachelors	Rent
+564	Haryana Properties (Haryana.txt)	1 BHK Apartment	Karnal Heights	Karnal / Haryana	Apartment / 1 BHK	485	₹11,400/month	Semi-Furnished	1	Bachelors	Rent
+565	Haryana Properties (Haryana.txt)	1 BHK Studio	Gurugram Sector 3	Gurugram / Haryana	Studio / 1 BHK	329	₹12,400/month	Semi-Furnished	1	Bachelors	Rent
+566	Haryana Properties (Haryana.txt)	2 BHK Independent House	Gurugram South	Gurugram / Haryana	Independent House / 2 BHK	879	₹60.89 L	Semi-Furnished	2	Family	Sale
+567	Haryana Properties (Haryana.txt)	1 BHK Villa	Panipat Extension	Panipat / Haryana	Villa / 1 BHK	614	₹53.68 L	Unfurnished	1	Bachelors	Sale
+568	Haryana Properties (Haryana.txt)	3 BHK Apartment	Faridabad North	Faridabad / Haryana	Apartment / 3 BHK	1339	₹1.09 Cr	Fully-Furnished	2	Family	Sale
+569	Haryana Properties (Haryana.txt)	1 BHK Apartment	Panipat South	Panipat / Haryana	Apartment / 1 BHK	507	₹11,300/month	Semi-Furnished	2	Any	Rent
+570	Haryana Properties (Haryana.txt)	2 BHK Apartment	Panipat East	Panipat / Haryana	Apartment / 2 BHK	870	₹17,300/month	Semi-Furnished	2	Family	Rent
+571	Haryana Properties (Haryana.txt)	2 BHK Villa	Faridabad Sector 3	Faridabad / Haryana	Villa / 2 BHK	1187	₹77.52 L	Fully-Furnished	2	Any	Sale
+572	Haryana Properties (Haryana.txt)	1 BHK Apartment	Gurugram North	Gurugram / Haryana	Apartment / 1 BHK	492	₹42.75 L	Unfurnished	1	Family	Sale
+573	Haryana Properties (Haryana.txt)	3 BHK Apartment	Faridabad Heights	Faridabad / Haryana	Apartment / 3 BHK	1301	₹1.03 Cr	Semi-Furnished	2	Bachelors	Sale
+574	Haryana Properties (Haryana.txt)	2 BHK Builder Floor	Gurugram Sector 3	Gurugram / Haryana	Builder Floor / 2 BHK	903	₹18,100/month	Fully-Furnished	2	Any	Rent
+575	Haryana Properties (Haryana.txt)	1 BHK Apartment	Faridabad West	Faridabad / Haryana	Apartment / 1 BHK	591	₹53.77 L	Semi-Furnished	1	Family	Sale
+576	Haryana Properties (Haryana.txt)	3 BHK Builder Floor	Panipat South	Panipat / Haryana	Builder Floor / 3 BHK	1265	₹32,400/month	Unfurnished	2	Bachelors	Rent
+577	Haryana Properties (Haryana.txt)	3 BHK Apartment	Gurugram Central	Gurugram / Haryana	Apartment / 3 BHK	1080	₹24,400/month	Semi-Furnished	3	Family	Rent
+578	Haryana Properties (Haryana.txt)	2 BHK Apartment	Karnal West	Karnal / Haryana	Apartment / 2 BHK	913	₹71.40 L	Fully-Furnished	2	Bachelors	Sale
+579	Haryana Properties (Haryana.txt)	2 BHK Builder Floor	Faridabad Sector 1	Faridabad / Haryana	Builder Floor / 2 BHK	859	₹65.53 L	Fully-Furnished	1	Family	Sale
+580	Haryana Properties (Haryana.txt)	4 BHK Independent House	Faridabad Main Road	Faridabad / Haryana	Independent House / 4 BHK	1534	₹1.20 Cr	Unfurnished	5	Bachelors	Sale
+581	Haryana Properties (Haryana.txt)	3 BHK Independent House	Faridabad South	Faridabad / Haryana	Independent House / 3 BHK	1424	₹31,900/month	Unfurnished	3	Family	Rent
+582	Haryana Properties (Haryana.txt)	5 BHK Independent House	Karnal Nagar	Karnal / Haryana	Independent House / 5 BHK	2652	₹45,600/month	Semi-Furnished	5	Family	Rent
+583	Haryana Properties (Haryana.txt)	1 BHK Studio	Faridabad East	Faridabad / Haryana	Studio / 1 BHK	305	₹48.02 L	Fully-Furnished	1	Bachelors	Sale
+584	Haryana Properties (Haryana.txt)	2 BHK Builder Floor	Karnal Nagar	Karnal / Haryana	Builder Floor / 2 BHK	1078	₹24,100/month	Semi-Furnished	2	Family	Rent
+585	Haryana Properties (Haryana.txt)	3 BHK Builder Floor	Gurugram Nagar	Gurugram / Haryana	Builder Floor / 3 BHK	1366	₹1.08 Cr	Unfurnished	4	Any	Sale
+586	Haryana Properties (Haryana.txt)	3 BHK Apartment	Gurugram Town Centre	Gurugram / Haryana	Apartment / 3 BHK	1345	₹28,200/month	Unfurnished	3	Family	Rent
+587	Haryana Properties (Haryana.txt)	2 BHK Independent House	Gurugram Extension	Gurugram / Haryana	Independent House / 2 BHK	1072	₹18,100/month	Unfurnished	2	Bachelors	Rent
+588	Haryana Properties (Haryana.txt)	4 BHK Apartment	Gurugram East	Gurugram / Haryana	Apartment / 4 BHK	1786	₹35,700/month	Semi-Furnished	3	Family	Rent
+589	Haryana Properties (Haryana.txt)	2 BHK Apartment	Panipat Main Road	Panipat / Haryana	Apartment / 2 BHK	687	₹77.96 L	Unfurnished	2	Family	Sale
+590	Haryana Properties (Haryana.txt)	3 BHK Builder Floor	Gurugram Central	Gurugram / Haryana	Builder Floor / 3 BHK	877	₹26,200/month	Fully-Furnished	2	Any	Rent
+591	Haryana Properties (Haryana.txt)	2 BHK Apartment	Panipat Main Road	Panipat / Haryana	Apartment / 2 BHK	770	₹81.83 L	Fully-Furnished	2	Family	Sale
+592	Haryana Properties (Haryana.txt)	4 BHK Apartment	Panipat West	Panipat / Haryana	Apartment / 4 BHK	1734	₹1.54 Cr	Semi-Furnished	4	Family	Sale
+593	Haryana Properties (Haryana.txt)	2 BHK Apartment	Faridabad Sector 3	Faridabad / Haryana	Apartment / 2 BHK	989	₹64.21 L	Fully-Furnished	2	Family	Sale
+594	Haryana Properties (Haryana.txt)	1 BHK Apartment	Karnal Sector 1	Karnal / Haryana	Apartment / 1 BHK	574	₹47.39 L	Fully-Furnished	1	Family	Sale
+595	Haryana Properties (Haryana.txt)	1 BHK Apartment	Faridabad Sector 3	Faridabad / Haryana	Apartment / 1 BHK	433	₹13,900/month	Fully-Furnished	1	Family	Rent
+596	Haryana Properties (Haryana.txt)	1 BHK Independent House	Panipat East	Panipat / Haryana	Independent House / 1 BHK	740	₹16,700/month	Fully-Furnished	1	Family	Rent
+597	Haryana Properties (Haryana.txt)	2 BHK Builder Floor	Faridabad Central	Faridabad / Haryana	Builder Floor / 2 BHK	1055	₹24,700/month	Fully-Furnished	2	Family	Rent
+598	Haryana Properties (Haryana.txt)	2 BHK Apartment	Karnal Main Road	Karnal / Haryana	Apartment / 2 BHK	966	₹74.50 L	Semi-Furnished	2	Family	Sale
+599	Haryana Properties (Haryana.txt)	3 BHK Builder Floor	Gurugram Nagar	Gurugram / Haryana	Builder Floor / 3 BHK	1395	₹1.02 Cr	Unfurnished	3	Bachelors	Sale
+600	Haryana Properties (Haryana.txt)	3 BHK Apartment	Panipat Extension	Panipat / Haryana	Apartment / 3 BHK	1105	₹79.31 L	Semi-Furnished	3	Bachelors	Sale
+601	Haryana Properties (Haryana.txt)	3 BHK Apartment	Gurugram East	Gurugram / Haryana	Apartment / 3 BHK	1335	₹25,000/month	Unfurnished	2	Family	Rent
+602	Haryana Properties (Haryana.txt)	2 BHK Apartment	Panipat Nagar	Panipat / Haryana	Apartment / 2 BHK	854	₹63 L	Semi-Furnished	2	Any	Sale
+603	Haryana Properties (Haryana.txt)	1 BHK Apartment	Gurugram Nagar	Gurugram / Haryana	Apartment / 1 BHK	631	₹14,300/month	Fully-Furnished	1	Any	Rent
+604	Haryana Properties (Haryana.txt)	2 BHK Villa	Panipat Main Road	Panipat / Haryana	Villa / 2 BHK	731	₹16,300/month	Semi-Furnished	1	Bachelors	Rent
+605	Haryana Properties (Haryana.txt)	3 BHK Independent House	Faridabad Sector 2	Faridabad / Haryana	Independent House / 3 BHK	1496	₹32,300/month	Fully-Furnished	2	Any	Rent
+606	Haryana Properties (Haryana.txt)	2 BHK Independent House	Panipat East	Panipat / Haryana	Independent House / 2 BHK	959	₹18,900/month	Fully-Furnished	1	Any	Rent
+607	Haryana Properties (Haryana.txt)	2 BHK Apartment	Gurugram Sector 2	Gurugram / Haryana	Apartment / 2 BHK	986	₹84.48 L	Semi-Furnished	2	Family	Sale
+608	Haryana Properties (Haryana.txt)	1 BHK Apartment	Karnal Sector 2	Karnal / Haryana	Apartment / 1 BHK	531	₹54.18 L	Semi-Furnished	2	Bachelors	Sale
+609	Haryana Properties (Haryana.txt)	2 BHK Independent House	Panipat South	Panipat / Haryana	Independent House / 2 BHK	1086	₹21,200/month	Fully-Furnished	2	Family	Rent
+610	Haryana Properties (Haryana.txt)	2 BHK Apartment	Gurugram North	Gurugram / Haryana	Apartment / 2 BHK	891	₹83.42 L	Semi-Furnished	3	Family	Sale
+611	Haryana Properties (Haryana.txt)	3 BHK Builder Floor	Panipat East	Panipat / Haryana	Builder Floor / 3 BHK	1459	₹25,200/month	Unfurnished	3	Bachelors	Rent
+612	Haryana Properties (Haryana.txt)	3 BHK Independent House	Gurugram Extension	Gurugram / Haryana	Independent House / 3 BHK	1399	₹1.21 Cr	Semi-Furnished	3	Bachelors	Sale
+613	Haryana Properties (Haryana.txt)	3 BHK Villa	Panipat Nagar	Panipat / Haryana	Villa / 3 BHK	1656	₹29,600/month	Semi-Furnished	3	Family	Rent
+614	Haryana Properties (Haryana.txt)	2 BHK Builder Floor	Panipat Extension	Panipat / Haryana	Builder Floor / 2 BHK	808	₹22,700/month	Unfurnished	2	Any	Rent
+615	Haryana Properties (Haryana.txt)	3 BHK Builder Floor	Karnal South	Karnal / Haryana	Builder Floor / 3 BHK	1131	₹95.15 L	Unfurnished	3	Any	Sale
+616	Haryana Properties (Haryana.txt)	1 BHK Apartment	Faridabad Nagar	Faridabad / Haryana	Apartment / 1 BHK	403	₹13,400/month	Fully-Furnished	1	Family	Rent
+617	Haryana Properties (Haryana.txt)	4 BHK Apartment	Panipat Town Centre	Panipat / Haryana	Apartment / 4 BHK	1668	₹1.47 Cr	Fully-Furnished	4	Any	Sale
+618	Haryana Properties (Haryana.txt)	2 BHK Apartment	Panipat Central	Panipat / Haryana	Apartment / 2 BHK	874	₹23,900/month	Semi-Furnished	2	Family	Rent
+619	Haryana Properties (Haryana.txt)	3 BHK Apartment	Panipat Sector 3	Panipat / Haryana	Apartment / 3 BHK	1240	₹25,900/month	Fully-Furnished	4	Any	Rent
+620	Haryana Properties (Haryana.txt)	2 BHK Independent House	Panipat Nagar	Panipat / Haryana	Independent House / 2 BHK	1060	₹90.60 L	Fully-Furnished	2	Bachelors	Sale
+621	Haryana Properties (Haryana.txt)	4 BHK Apartment	Karnal Colony	Karnal / Haryana	Apartment / 4 BHK	1549	₹1.13 Cr	Semi-Furnished	4	Any	Sale
+622	Haryana Properties (Haryana.txt)	2 BHK Apartment	Panipat Main Road	Panipat / Haryana	Apartment / 2 BHK	639	₹73.83 L	Semi-Furnished	2	Any	Sale
+623	Haryana Properties (Haryana.txt)	3 BHK Apartment	Gurugram Nagar	Gurugram / Haryana	Apartment / 3 BHK	1112	₹90.55 L	Unfurnished	3	Bachelors	Sale
+624	Haryana Properties (Haryana.txt)	2 BHK Apartment	Karnal West	Karnal / Haryana	Apartment / 2 BHK	961	₹66.41 L	Semi-Furnished	2	Family	Sale
+625	Haryana Properties (Haryana.txt)	3 BHK Apartment	Panipat North	Panipat / Haryana	Apartment / 3 BHK	1330	₹31,600/month	Fully-Furnished	2	Bachelors	Rent
+626	Haryana Properties (Haryana.txt)	1 BHK Studio	Panipat Central	Panipat / Haryana	Studio / 1 BHK	391	₹11,500/month	Semi-Furnished	1	Bachelors	Rent
+627	Haryana Properties (Haryana.txt)	2 BHK Independent House	Gurugram East	Gurugram / Haryana	Independent House / 2 BHK	932	₹20,200/month	Semi-Furnished	2	Family	Rent
+628	Haryana Properties (Haryana.txt)	2 BHK Independent House	Karnal Extension	Karnal / Haryana	Independent House / 2 BHK	999	₹63.48 L	Semi-Furnished	2	Family	Sale
+629	Haryana Properties (Haryana.txt)	4 BHK Independent House	Faridabad Extension	Faridabad / Haryana	Independent House / 4 BHK	2040	₹1.33 Cr	Unfurnished	4	Family	Sale
+630	Haryana Properties (Haryana.txt)	4 BHK Apartment	Karnal Nagar	Karnal / Haryana	Apartment / 4 BHK	1455	₹32,300/month	Fully-Furnished	4	Any	Rent
+631	Haryana Properties (Haryana.txt)	2 BHK Independent House	Karnal Sector 2	Karnal / Haryana	Independent House / 2 BHK	1060	₹81.79 L	Semi-Furnished	2	Family	Sale
+632	Haryana Properties (Haryana.txt)	5 BHK Independent House	Faridabad Main Road	Faridabad / Haryana	Independent House / 5 BHK	2344	₹1.81 Cr	Unfurnished	4	Family	Sale
+633	Haryana Properties (Haryana.txt)	3 BHK Apartment	Faridabad South	Faridabad / Haryana	Apartment / 3 BHK	1382	₹28,000/month	Semi-Furnished	2	Family	Rent
+634	Haryana Properties (Haryana.txt)	2 BHK Independent House	Faridabad South	Faridabad / Haryana	Independent House / 2 BHK	1130	₹74.13 L	Fully-Furnished	2	Family	Sale
+635	Haryana Properties (Haryana.txt)	2 BHK Apartment	Gurugram West	Gurugram / Haryana	Apartment / 2 BHK	708	₹66.54 L	Fully-Furnished	2	Any	Sale
+636	Haryana Properties (Haryana.txt)	1 BHK Apartment	Gurugram Sector 2	Gurugram / Haryana	Apartment / 1 BHK	669	₹11,600/month	Semi-Furnished	1	Any	Rent
+637	Haryana Properties (Haryana.txt)	3 BHK Apartment	Faridabad South	Faridabad / Haryana	Apartment / 3 BHK	1287	₹1.04 Cr	Semi-Furnished	3	Family	Sale
+638	Haryana Properties (Haryana.txt)	2 BHK Apartment	Karnal Colony	Karnal / Haryana	Apartment / 2 BHK	849	₹69.59 L	Semi-Furnished	2	Any	Sale
+639	Haryana Properties (Haryana.txt)	4 BHK Villa	Gurugram West	Gurugram / Haryana	Villa / 4 BHK	2652	₹33,200/month	Semi-Furnished	4	Bachelors	Rent
+640	Haryana Properties (Haryana.txt)	2 BHK Apartment	Karnal Sector 2	Karnal / Haryana	Apartment / 2 BHK	694	₹77.26 L	Unfurnished	2	Family	Sale
+641	Haryana Properties (Haryana.txt)	1 BHK Studio	Gurugram West	Gurugram / Haryana	Studio / 1 BHK	358	₹43.62 L	Unfurnished	1	Family	Sale
+642	Haryana Properties (Haryana.txt)	2 BHK Builder Floor	Faridabad South	Faridabad / Haryana	Builder Floor / 2 BHK	854	₹62.20 L	Unfurnished	2	Bachelors	Sale
+643	Haryana Properties (Haryana.txt)	2 BHK Apartment	Gurugram Nagar	Gurugram / Haryana	Apartment / 2 BHK	880	₹87.96 L	Fully-Furnished	2	Family	Sale
+644	Haryana Properties (Haryana.txt)	4 BHK Builder Floor	Gurugram West	Gurugram / Haryana	Builder Floor / 4 BHK	1519	₹32,200/month	Semi-Furnished	4	Any	Rent
+645	Haryana Properties (Haryana.txt)	4 BHK Apartment	Faridabad Nagar	Faridabad / Haryana	Apartment / 4 BHK	1424	₹1.21 Cr	Fully-Furnished	4	Any	Sale
+646	Haryana Properties (Haryana.txt)	3 BHK Villa	Gurugram Main Road	Gurugram / Haryana	Villa / 3 BHK	1779	₹31,500/month	Semi-Furnished	4	Family	Rent
+647	Haryana Properties (Haryana.txt)	2 BHK Apartment	Faridabad Central	Faridabad / Haryana	Apartment / 2 BHK	866	₹61.81 L	Fully-Furnished	2	Family	Sale
+648	Haryana Properties (Haryana.txt)	1 BHK Independent House	Karnal Nagar	Karnal / Haryana	Independent House / 1 BHK	594	₹15,400/month	Semi-Furnished	1	Family	Rent
+649	Haryana Properties (Haryana.txt)	5 BHK Apartment	Faridabad Main Road	Faridabad / Haryana	Apartment / 5 BHK	2347	₹44,100/month	Semi-Furnished	5	Bachelors	Rent
+650	Haryana Properties (Haryana.txt)	2 BHK Apartment	Gurugram Sector 2	Gurugram / Haryana	Apartment / 2 BHK	862	₹59.79 L	Semi-Furnished	2	Family	Sale
+651	Haryana Properties (Haryana.txt)	5 BHK Apartment	Faridabad Nagar	Faridabad / Haryana	Apartment / 5 BHK	2597	₹43,100/month	Fully-Furnished	5	Any	Rent
+652	Haryana Properties (Haryana.txt)	2 BHK Independent House	Gurugram Town Centre	Gurugram / Haryana	Independent House / 2 BHK	990	₹77.27 L	Unfurnished	2	Any	Sale
+653	Haryana Properties (Haryana.txt)	2 BHK Builder Floor	Faridabad Sector 2	Faridabad / Haryana	Builder Floor / 2 BHK	746	₹17,000/month	Semi-Furnished	3	Family	Rent
+654	Haryana Properties (Haryana.txt)	1 BHK Apartment	Panipat North	Panipat / Haryana	Apartment / 1 BHK	522	₹46.63 L	Fully-Furnished	1	Family	Sale
+655	Haryana Properties (Haryana.txt)	5 BHK Apartment	Panipat Sector 3	Panipat / Haryana	Apartment / 5 BHK	2647	₹41,300/month	Fully-Furnished	4	Bachelors	Rent
+656	Haryana Properties (Haryana.txt)	2 BHK Villa	Karnal Sector 2	Karnal / Haryana	Villa / 2 BHK	1065	₹67.10 L	Fully-Furnished	2	Bachelors	Sale
+657	Haryana Properties (Haryana.txt)	3 BHK Independent House	Faridabad Nagar	Faridabad / Haryana	Independent House / 3 BHK	1760	₹1.27 Cr	Fully-Furnished	3	Bachelors	Sale
+658	Haryana Properties (Haryana.txt)	4 BHK Independent House	Panipat North	Panipat / Haryana	Independent House / 4 BHK	1976	₹1.16 Cr	Semi-Furnished	5	Family	Sale
+659	Haryana Properties (Haryana.txt)	3 BHK Apartment	Panipat Sector 1	Panipat / Haryana	Apartment / 3 BHK	1397	₹1.13 Cr	Semi-Furnished	3	Family	Sale
+660	Haryana Properties (Haryana.txt)	3 BHK Independent House	Karnal Sector 3	Karnal / Haryana	Independent House / 3 BHK	1471	₹28,400/month	Semi-Furnished	3	Any	Rent
+661	Haryana Properties (Haryana.txt)	3 BHK Apartment	Panipat Central	Panipat / Haryana	Apartment / 3 BHK	1153	₹1.01 Cr	Unfurnished	3	Family	Sale
+662	Haryana Properties (Haryana.txt)	4 BHK Villa	Faridabad Sector 1	Faridabad / Haryana	Villa / 4 BHK	2243	₹1.22 Cr	Fully-Furnished	4	Family	Sale
+663	Haryana Properties (Haryana.txt)	1 BHK Apartment	Panipat Nagar	Panipat / Haryana	Apartment / 1 BHK	514	₹53.77 L	Semi-Furnished	1	Any	Sale
+664	Haryana Properties (Haryana.txt)	2 BHK Apartment	Karnal East	Karnal / Haryana	Apartment / 2 BHK	1013	₹17,400/month	Fully-Furnished	2	Any	Rent
+665	Haryana Properties (Haryana.txt)	1 BHK Studio	Panipat Heights	Panipat / Haryana	Studio / 1 BHK	418	₹12,300/month	Fully-Furnished	1	Bachelors	Rent
+666	Haryana Properties (Haryana.txt)	3 BHK Builder Floor	Gurugram South	Gurugram / Haryana	Builder Floor / 3 BHK	1301	₹28,900/month	Fully-Furnished	3	Family	Rent
+667	Haryana Properties (Haryana.txt)	2 BHK Builder Floor	Faridabad Sector 1	Faridabad / Haryana	Builder Floor / 2 BHK	786	₹64.74 L	Semi-Furnished	3	Family	Sale
+668	Haryana Properties (Haryana.txt)	4 BHK Apartment	Gurugram North	Gurugram / Haryana	Apartment / 4 BHK	1698	₹1.48 Cr	Unfurnished	5	Any	Sale
+669	Haryana Properties (Haryana.txt)	1 BHK Villa	Faridabad Colony	Faridabad / Haryana	Villa / 1 BHK	729	₹59.40 L	Semi-Furnished	1	Any	Sale
+670	Haryana Properties (Haryana.txt)	3 BHK Builder Floor	Gurugram Town Centre	Gurugram / Haryana	Builder Floor / 3 BHK	1259	₹31,100/month	Semi-Furnished	3	Any	Rent
+671	Haryana Properties (Haryana.txt)	3 BHK Apartment	Panipat Town Centre	Panipat / Haryana	Apartment / 3 BHK	1058	₹29,400/month	Semi-Furnished	3	Any	Rent
+672	Haryana Properties (Haryana.txt)	2 BHK Apartment	Panipat Residential Area	Panipat / Haryana	Apartment / 2 BHK	827	₹72.72 L	Semi-Furnished	2	Any	Sale
+673	Haryana Properties (Haryana.txt)	2 BHK Apartment	Karnal West	Karnal / Haryana	Apartment / 2 BHK	531	₹69.95 L	Semi-Furnished	1	Family	Sale
+674	Haryana Properties (Haryana.txt)	3 BHK Builder Floor	Panipat Main Road	Panipat / Haryana	Builder Floor / 3 BHK	1471	₹87.22 L	Unfurnished	3	Family	Sale
+675	Haryana Properties (Haryana.txt)	3 BHK Builder Floor	Faridabad South	Faridabad / Haryana	Builder Floor / 3 BHK	1460	₹1.07 Cr	Fully-Furnished	3	Family	Sale
+676	Haryana Properties (Haryana.txt)	2 BHK Apartment	Faridabad West	Faridabad / Haryana	Apartment / 2 BHK	1014	₹80.42 L	Semi-Furnished	2	Bachelors	Sale
+677	Haryana Properties (Haryana.txt)	3 BHK Independent House	Karnal Residential Area	Karnal / Haryana	Independent House / 3 BHK	1538	₹88.22 L	Semi-Furnished	4	Any	Sale
+678	Haryana Properties (Haryana.txt)	1 BHK Studio	Faridabad Sector 2	Faridabad / Haryana	Studio / 1 BHK	313	₹12,100/month	Unfurnished	1	Family	Rent
+679	Haryana Properties (Haryana.txt)	2 BHK Villa	Gurugram Residential Area	Gurugram / Haryana	Villa / 2 BHK	1044	₹19,600/month	Unfurnished	2	Family	Rent
+680	Haryana Properties (Haryana.txt)	3 BHK Apartment	Gurugram Sector 3	Gurugram / Haryana	Apartment / 3 BHK	1208	₹83.42 L	Unfurnished	3	Bachelors	Sale
+681	Haryana Properties (Haryana.txt)	2 BHK Apartment	Faridabad Colony	Faridabad / Haryana	Apartment / 2 BHK	840	₹77.19 L	Semi-Furnished	2	Any	Sale
+682	Haryana Properties (Haryana.txt)	2 BHK Apartment	Faridabad East	Faridabad / Haryana	Apartment / 2 BHK	640	₹70.56 L	Semi-Furnished	3	Family	Sale
+683	Haryana Properties (Haryana.txt)	2 BHK Apartment	Karnal Sector 1	Karnal / Haryana	Apartment / 2 BHK	678	₹20,700/month	Unfurnished	3	Bachelors	Rent
+684	Haryana Properties (Haryana.txt)	1 BHK Studio	Panipat Sector 3	Panipat / Haryana	Studio / 1 BHK	337	₹51.09 L	Unfurnished	1	Any	Sale
+685	Haryana Properties (Haryana.txt)	2 BHK Builder Floor	Karnal Main Road	Karnal / Haryana	Builder Floor / 2 BHK	999	₹20,800/month	Unfurnished	2	Bachelors	Rent
+686	Haryana Properties (Haryana.txt)	4 BHK Villa	Gurugram Sector 1	Gurugram / Haryana	Villa / 4 BHK	2620	₹1.22 Cr	Semi-Furnished	4	Bachelors	Sale
+687	Haryana Properties (Haryana.txt)	2 BHK Apartment	Panipat North	Panipat / Haryana	Apartment / 2 BHK	838	₹70.33 L	Semi-Furnished	3	Family	Sale
+688	Haryana Properties (Haryana.txt)	2 BHK Villa	Panipat West	Panipat / Haryana	Villa / 2 BHK	1180	₹94.61 L	Semi-Furnished	1	Family	Sale
+689	Haryana Properties (Haryana.txt)	4 BHK Apartment	Gurugram Town Centre	Gurugram / Haryana	Apartment / 4 BHK	1737	₹38,400/month	Fully-Furnished	4	Any	Rent
+690	Haryana Properties (Haryana.txt)	3 BHK Apartment	Karnal Town Centre	Karnal / Haryana	Apartment / 3 BHK	1014	₹26,500/month	Fully-Furnished	2	Family	Rent
+691	Haryana Properties (Haryana.txt)	2 BHK Builder Floor	Panipat Town Centre	Panipat / Haryana	Builder Floor / 2 BHK	868	₹79.57 L	Fully-Furnished	2	Any	Sale
+692	Haryana Properties (Haryana.txt)	4 BHK Apartment	Faridabad Sector 3	Faridabad / Haryana	Apartment / 4 BHK	1895	₹1.18 Cr	Fully-Furnished	4	Any	Sale
+693	Haryana Properties (Haryana.txt)	3 BHK Apartment	Karnal Colony	Karnal / Haryana	Apartment / 3 BHK	1043	₹29,000/month	Fully-Furnished	3	Family	Rent
+694	Haryana Properties (Haryana.txt)	3 BHK Apartment	Panipat Colony	Panipat / Haryana	Apartment / 3 BHK	1144	₹1.15 Cr	Fully-Furnished	3	Bachelors	Sale
+695	Haryana Properties (Haryana.txt)	4 BHK Apartment	Panipat Residential Area	Panipat / Haryana	Apartment / 4 BHK	1874	₹1.21 Cr	Semi-Furnished	5	Family	Sale
+696	Haryana Properties (Haryana.txt)	2 BHK Apartment	Gurugram Heights	Gurugram / Haryana	Apartment / 2 BHK	723	₹23,000/month	Fully-Furnished	2	Family	Rent
+697	Haryana Properties (Haryana.txt)	4 BHK Independent House	Panipat Colony	Panipat / Haryana	Independent House / 4 BHK	2760	₹42,900/month	Semi-Furnished	4	Family	Rent
+698	Haryana Properties (Haryana.txt)	2 BHK Apartment	Panipat Heights	Panipat / Haryana	Apartment / 2 BHK	870	₹68.15 L	Semi-Furnished	1	Bachelors	Sale
+699	Haryana Properties (Haryana.txt)	3 BHK Builder Floor	Gurugram South	Gurugram / Haryana	Builder Floor / 3 BHK	911	₹98.63 L	Unfurnished	2	Family	Sale
+700	Haryana Properties (Haryana.txt)	1 BHK Builder Floor	Gurugram Central	Gurugram / Haryana	Builder Floor / 1 BHK	522	₹46.50 L	Unfurnished	1	Any	Sale
+701	Haryana Properties (Haryana.txt)	1 BHK Studio	Karnal Central	Karnal / Haryana	Studio / 1 BHK	300	₹50.19 L	Unfurnished	2	Family	Sale
+702	Haryana Properties (Haryana.txt)	2 BHK Builder Floor	Faridabad North	Faridabad / Haryana	Builder Floor / 2 BHK	889	₹17,500/month	Semi-Furnished	1	Bachelors	Rent
+703	Haryana Properties (Haryana.txt)	3 BHK Villa	Panipat Heights	Panipat / Haryana	Villa / 3 BHK	1409	₹1 Cr	Semi-Furnished	4	Bachelors	Sale
+704	Haryana Properties (Haryana.txt)	2 BHK Apartment	Gurugram Central	Gurugram / Haryana	Apartment / 2 BHK	945	₹70.50 L	Fully-Furnished	2	Any	Sale
+705	Haryana Properties (Haryana.txt)	2 BHK Apartment	Panipat Extension	Panipat / Haryana	Apartment / 2 BHK	805	₹74.72 L	Fully-Furnished	2	Bachelors	Sale
+706	Haryana Properties (Haryana.txt)	2 BHK Apartment	Gurugram Residential Area	Gurugram / Haryana	Apartment / 2 BHK	955	₹87.57 L	Fully-Furnished	2	Bachelors	Sale
+707	Haryana Properties (Haryana.txt)	2 BHK Apartment	Karnal West	Karnal / Haryana	Apartment / 2 BHK	1012	₹24,300/month	Semi-Furnished	2	Family	Rent
+708	Haryana Properties (Haryana.txt)	1 BHK Apartment	Faridabad Residential Area	Faridabad / Haryana	Apartment / 1 BHK	622	₹14,100/month	Fully-Furnished	1	Family	Rent
+709	Haryana Properties (Haryana.txt)	3 BHK Apartment	Panipat Central	Panipat / Haryana	Apartment / 3 BHK	1084	₹85.26 L	Unfurnished	3	Family	Sale
+710	Haryana Properties (Haryana.txt)	3 BHK Builder Floor	Panipat Heights	Panipat / Haryana	Builder Floor / 3 BHK	1411	₹94.50 L	Semi-Furnished	3	Any	Sale
+711	Haryana Properties (Haryana.txt)	2 BHK Apartment	Faridabad Heights	Faridabad / Haryana	Apartment / 2 BHK	674	₹67.48 L	Semi-Furnished	3	Family	Sale
+712	Haryana Properties (Haryana.txt)	1 BHK Apartment	Gurugram Extension	Gurugram / Haryana	Apartment / 1 BHK	430	₹43.10 L	Semi-Furnished	1	Family	Sale
+713	Haryana Properties (Haryana.txt)	1 BHK Studio	Panipat Central	Panipat / Haryana	Studio / 1 BHK	338	₹40.21 L	Semi-Furnished	1	Any	Sale
+714	Haryana Properties (Haryana.txt)	3 BHK Apartment	Faridabad Sector 1	Faridabad / Haryana	Apartment / 3 BHK	1169	₹27,200/month	Semi-Furnished	3	Family	Rent
+715	Haryana Properties (Haryana.txt)	2 BHK Apartment	Faridabad Residential Area	Faridabad / Haryana	Apartment / 2 BHK	922	₹68.67 L	Semi-Furnished	2	Any	Sale
+716	Haryana Properties (Haryana.txt)	2 BHK Apartment	Panipat Town Centre	Panipat / Haryana	Apartment / 2 BHK	737	₹22,600/month	Semi-Furnished	2	Any	Rent
+717	Haryana Properties (Haryana.txt)	3 BHK Apartment	Panipat North	Panipat / Haryana	Apartment / 3 BHK	1340	₹82.92 L	Semi-Furnished	3	Bachelors	Sale
+718	Haryana Properties (Haryana.txt)	1 BHK Builder Floor	Panipat Central	Panipat / Haryana	Builder Floor / 1 BHK	499	₹55.26 L	Unfurnished	2	Bachelors	Sale
+719	Haryana Properties (Haryana.txt)	3 BHK Apartment	Faridabad Residential Area	Faridabad / Haryana	Apartment / 3 BHK	1120	₹25,700/month	Fully-Furnished	4	Family	Rent
+720	Haryana Properties (Haryana.txt)	5 BHK Apartment	Gurugram Central	Gurugram / Haryana	Apartment / 5 BHK	2557	₹1.67 Cr	Semi-Furnished	5	Family	Sale
+721	Haryana Properties (Haryana.txt)	1 BHK Studio	Faridabad Nagar	Faridabad / Haryana	Studio / 1 BHK	376	₹40.33 L	Unfurnished	2	Family	Sale
+722	Haryana Properties (Haryana.txt)	2 BHK Independent House	Faridabad Extension	Faridabad / Haryana	Independent House / 2 BHK	946	₹89.61 L	Semi-Furnished	1	Family	Sale
+723	Haryana Properties (Haryana.txt)	2 BHK Apartment	Panipat Sector 2	Panipat / Haryana	Apartment / 2 BHK	815	₹69.74 L	Semi-Furnished	1	Any	Sale
+724	Haryana Properties (Haryana.txt)	4 BHK Builder Floor	Karnal North	Karnal / Haryana	Builder Floor / 4 BHK	1690	₹29,800/month	Semi-Furnished	5	Any	Rent
+725	Haryana Properties (Haryana.txt)	1 BHK Studio	Gurugram Sector 3	Gurugram / Haryana	Studio / 1 BHK	396	₹11,700/month	Unfurnished	1	Any	Rent
+726	Haryana Properties (Haryana.txt)	3 BHK Builder Floor	Panipat Sector 2	Panipat / Haryana	Builder Floor / 3 BHK	1008	₹89.26 L	Semi-Furnished	3	Any	Sale
+727	Haryana Properties (Haryana.txt)	2 BHK Apartment	Faridabad North	Faridabad / Haryana	Apartment / 2 BHK	928	₹68.25 L	Semi-Furnished	2	Bachelors	Sale
+728	Haryana Properties (Haryana.txt)	4 BHK Villa	Faridabad Nagar	Faridabad / Haryana	Villa / 4 BHK	2678	₹1.67 Cr	Semi-Furnished	5	Bachelors	Sale
+729	Haryana Properties (Haryana.txt)	3 BHK Builder Floor	Faridabad East	Faridabad / Haryana	Builder Floor / 3 BHK	1174	₹25,500/month	Unfurnished	3	Family	Rent
+730	Haryana Properties (Haryana.txt)	1 BHK Studio	Karnal Residential Area	Karnal / Haryana	Studio / 1 BHK	300	₹12,000/month	Unfurnished	1	Bachelors	Rent
+731	Haryana Properties (Haryana.txt)	2 BHK Apartment	Faridabad Heights	Faridabad / Haryana	Apartment / 2 BHK	806	₹70.86 L	Semi-Furnished	3	Family	Sale
+732	Haryana Properties (Haryana.txt)	2 BHK Apartment	Panipat Central	Panipat / Haryana	Apartment / 2 BHK	740	₹18,200/month	Unfurnished	2	Family	Rent
+733	Haryana Properties (Haryana.txt)	2 BHK Apartment	Faridabad Central	Faridabad / Haryana	Apartment / 2 BHK	890	₹17,200/month	Fully-Furnished	3	Bachelors	Rent
+734	Haryana Properties (Haryana.txt)	2 BHK Apartment	Panipat Town Centre	Panipat / Haryana	Apartment / 2 BHK	737	₹81.80 L	Fully-Furnished	2	Family	Sale
+735	Haryana Properties (Haryana.txt)	3 BHK Independent House	Karnal North	Karnal / Haryana	Independent House / 3 BHK	1160	₹1.16 Cr	Fully-Furnished	3	Any	Sale
+736	Haryana Properties (Haryana.txt)	4 BHK Apartment	Panipat Main Road	Panipat / Haryana	Apartment / 4 BHK	1728	₹1.23 Cr	Semi-Furnished	4	Any	Sale
+737	Haryana Properties (Haryana.txt)	2 BHK Apartment	Karnal North	Karnal / Haryana	Apartment / 2 BHK	810	₹22,200/month	Unfurnished	2	Family	Rent
+738	Haryana Properties (Haryana.txt)	1 BHK Apartment	Faridabad Sector 3	Faridabad / Haryana	Apartment / 1 BHK	603	₹54.80 L	Unfurnished	1	Bachelors	Sale
+739	Haryana Properties (Haryana.txt)	3 BHK Apartment	Faridabad Extension	Faridabad / Haryana	Apartment / 3 BHK	1042	₹23,000/month	Semi-Furnished	2	Bachelors	Rent
+740	Haryana Properties (Haryana.txt)	5 BHK Independent House	Karnal Main Road	Karnal / Haryana	Independent House / 5 BHK	2344	₹1.67 Cr	Semi-Furnished	4	Family	Sale
+741	Haryana Properties (Haryana.txt)	3 BHK Apartment	Karnal Heights	Karnal / Haryana	Apartment / 3 BHK	1411	₹1.10 Cr	Fully-Furnished	3	Family	Sale
+742	Haryana Properties (Haryana.txt)	4 BHK Apartment	Karnal East	Karnal / Haryana	Apartment / 4 BHK	1371	₹1.02 Cr	Fully-Furnished	5	Any	Sale
+743	Haryana Properties (Haryana.txt)	1 BHK Builder Floor	Karnal Residential Area	Karnal / Haryana	Builder Floor / 1 BHK	673	₹50.59 L	Fully-Furnished	1	Family	Sale
+744	Haryana Properties (Haryana.txt)	3 BHK Apartment	Faridabad Residential Area	Faridabad / Haryana	Apartment / 3 BHK	1690	₹1.18 Cr	Semi-Furnished	3	Bachelors	Sale
+745	Haryana Properties (Haryana.txt)	2 BHK Apartment	Faridabad Heights	Faridabad / Haryana	Apartment / 2 BHK	572	₹77.56 L	Semi-Furnished	2	Family	Sale
+746	Haryana Properties (Haryana.txt)	3 BHK Builder Floor	Karnal Main Road	Karnal / Haryana	Builder Floor / 3 BHK	1061	₹26,700/month	Semi-Furnished	3	Family	Rent
+747	Haryana Properties (Haryana.txt)	3 BHK Apartment	Karnal Residential Area	Karnal / Haryana	Apartment / 3 BHK	1272	₹30,500/month	Semi-Furnished	4	Any	Rent
+748	Haryana Properties (Haryana.txt)	2 BHK Apartment	Gurugram Sector 1	Gurugram / Haryana	Apartment / 2 BHK	794	₹76.17 L	Semi-Furnished	1	Family	Sale
+749	Haryana Properties (Haryana.txt)	2 BHK Apartment	Faridabad Nagar	Faridabad / Haryana	Apartment / 2 BHK	941	₹18,900/month	Unfurnished	2	Bachelors	Rent
+750	Haryana Properties (Haryana.txt)	2 BHK Independent House	Karnal South	Karnal / Haryana	Independent House / 2 BHK	1314	₹92.16 L	Semi-Furnished	3	Family	Sale
+751	Haryana Properties (Haryana.txt)	2 BHK Apartment	Panipat Central	Panipat / Haryana	Apartment / 2 BHK	977	₹21,600/month	Semi-Furnished	3	Family	Rent
+752	Haryana Properties (Haryana.txt)	1 BHK Studio	Karnal Town Centre	Karnal / Haryana	Studio / 1 BHK	385	₹40.79 L	Unfurnished	1	Any	Sale
+753	Haryana Properties (Haryana.txt)	2 BHK Independent House	Panipat Colony	Panipat / Haryana	Independent House / 2 BHK	1159	₹26,000/month	Fully-Furnished	2	Family	Rent
+754	Haryana Properties (Haryana.txt)	1 BHK Apartment	Karnal Colony	Karnal / Haryana	Apartment / 1 BHK	469	₹47.09 L	Semi-Furnished	1	Any	Sale
+755	Haryana Properties (Haryana.txt)	2 BHK Apartment	Faridabad North	Faridabad / Haryana	Apartment / 2 BHK	1092	₹92.74 L	Fully-Furnished	2	Bachelors	Sale
+756	Haryana Properties (Haryana.txt)	2 BHK Villa	Gurugram Sector 3	Gurugram / Haryana	Villa / 2 BHK	865	₹68.32 L	Semi-Furnished	2	Family	Sale
+757	Haryana Properties (Haryana.txt)	4 BHK Apartment	Faridabad Sector 1	Faridabad / Haryana	Apartment / 4 BHK	1698	₹1.06 Cr	Unfurnished	4	Family	Sale
+758	Haryana Properties (Haryana.txt)	3 BHK Apartment	Karnal Town Centre	Karnal / Haryana	Apartment / 3 BHK	1209	₹95 L	Unfurnished	3	Bachelors	Sale
+759	Haryana Properties (Haryana.txt)	2 BHK Independent House	Karnal Main Road	Karnal / Haryana	Independent House / 2 BHK	879	₹20,700/month	Fully-Furnished	2	Family	Rent
+760	Haryana Properties (Haryana.txt)	4 BHK Independent House	Faridabad East	Faridabad / Haryana	Independent House / 4 BHK	2244	₹33,800/month	Semi-Furnished	4	Any	Rent
+761	Haryana Properties (Haryana.txt)	2 BHK Villa	Karnal Town Centre	Karnal / Haryana	Villa / 2 BHK	1040	₹91.64 L	Semi-Furnished	2	Bachelors	Sale
+762	Haryana Properties (Haryana.txt)	2 BHK Apartment	Panipat Heights	Panipat / Haryana	Apartment / 2 BHK	867	₹72.48 L	Fully-Furnished	2	Any	Sale
+763	Haryana Properties (Haryana.txt)	2 BHK Villa	Faridabad North	Faridabad / Haryana	Villa / 2 BHK	1245	₹79.72 L	Semi-Furnished	1	Bachelors	Sale
+764	Haryana Properties (Haryana.txt)	1 BHK Villa	Faridabad Residential Area	Faridabad / Haryana	Villa / 1 BHK	891	₹51.82 L	Semi-Furnished	1	Any	Sale
+765	Haryana Properties (Haryana.txt)	1 BHK Apartment	Gurugram Heights	Gurugram / Haryana	Apartment / 1 BHK	447	₹10,300/month	Unfurnished	1	Any	Rent
+766	Haryana Properties (Haryana.txt)	2 BHK Apartment	Karnal Extension	Karnal / Haryana	Apartment / 2 BHK	852	₹23,400/month	Semi-Furnished	3	Bachelors	Rent
+767	Haryana Properties (Haryana.txt)	4 BHK Apartment	Panipat Town Centre	Panipat / Haryana	Apartment / 4 BHK	1722	₹1.41 Cr	Unfurnished	4	Family	Sale
+768	Haryana Properties (Haryana.txt)	3 BHK Independent House	Panipat Colony	Panipat / Haryana	Independent House / 3 BHK	1649	₹1.22 Cr	Semi-Furnished	3	Bachelors	Sale
+769	Haryana Properties (Haryana.txt)	2 BHK Independent House	Panipat North	Panipat / Haryana	Independent House / 2 BHK	1149	₹18,500/month	Semi-Furnished	2	Bachelors	Rent
+770	Haryana Properties (Haryana.txt)	1 BHK Builder Floor	Faridabad Colony	Faridabad / Haryana	Builder Floor / 1 BHK	556	₹53.38 L	Unfurnished	1	Bachelors	Sale
+771	Haryana Properties (Haryana.txt)	3 BHK Apartment	Karnal North	Karnal / Haryana	Apartment / 3 BHK	1180	₹1.07 Cr	Semi-Furnished	3	Bachelors	Sale
+772	Haryana Properties (Haryana.txt)	2 BHK Apartment	Karnal Town Centre	Karnal / Haryana	Apartment / 2 BHK	699	₹22,000/month	Semi-Furnished	1	Family	Rent
+773	Haryana Properties (Haryana.txt)	1 BHK Studio	Karnal Sector 3	Karnal / Haryana	Studio / 1 BHK	300	₹40.68 L	Fully-Furnished	1	Family	Sale
+774	Haryana Properties (Haryana.txt)	4 BHK Builder Floor	Karnal Nagar	Karnal / Haryana	Builder Floor / 4 BHK	1799	₹39,500/month	Fully-Furnished	5	Family	Rent
+775	Haryana Properties (Haryana.txt)	1 BHK Studio	Panipat Town Centre	Panipat / Haryana	Studio / 1 BHK	442	₹10,400/month	Semi-Furnished	2	Family	Rent
+776	Haryana Properties (Haryana.txt)	3 BHK Apartment	Karnal Nagar	Karnal / Haryana	Apartment / 3 BHK	1105	₹92.11 L	Fully-Furnished	3	Family	Sale
+777	Haryana Properties (Haryana.txt)	5 BHK Apartment	Karnal Town Centre	Karnal / Haryana	Apartment / 5 BHK	2251	₹42,500/month	Unfurnished	6	Bachelors	Rent
+778	Haryana Properties (Haryana.txt)	3 BHK Apartment	Panipat South	Panipat / Haryana	Apartment / 3 BHK	1430	₹25,500/month	Unfurnished	3	Any	Rent
+779	Haryana Properties (Haryana.txt)	3 BHK Apartment	Panipat South	Panipat / Haryana	Apartment / 3 BHK	1188	₹1.09 Cr	Semi-Furnished	3	Any	Sale
+780	Haryana Properties (Haryana.txt)	2 BHK Apartment	Karnal Nagar	Karnal / Haryana	Apartment / 2 BHK	1049	₹23,300/month	Unfurnished	2	Any	Rent
+781	Haryana Properties (Haryana.txt)	2 BHK Villa	Gurugram Sector 1	Gurugram / Haryana	Villa / 2 BHK	1273	₹77.18 L	Fully-Furnished	3	Any	Sale
+782	Haryana Properties (Haryana.txt)	3 BHK Villa	Karnal East	Karnal / Haryana	Villa / 3 BHK	1864	₹29,900/month	Semi-Furnished	3	Any	Rent
+783	Haryana Properties (Haryana.txt)	2 BHK Builder Floor	Karnal West	Karnal / Haryana	Builder Floor / 2 BHK	526	₹19,900/month	Fully-Furnished	2	Family	Rent
+784	Haryana Properties (Haryana.txt)	3 BHK Apartment	Panipat Extension	Panipat / Haryana	Apartment / 3 BHK	953	₹1 Cr	Fully-Furnished	4	Family	Sale
+785	Haryana Properties (Haryana.txt)	1 BHK Apartment	Gurugram Town Centre	Gurugram / Haryana	Apartment / 1 BHK	565	₹52.66 L	Semi-Furnished	1	Bachelors	Sale
+786	Haryana Properties (Haryana.txt)	2 BHK Apartment	Karnal Heights	Karnal / Haryana	Apartment / 2 BHK	972	₹23,400/month	Fully-Furnished	2	Family	Rent
+787	Haryana Properties (Haryana.txt)	2 BHK Independent House	Karnal Sector 1	Karnal / Haryana	Independent House / 2 BHK	1077	₹85.68 L	Unfurnished	2	Any	Sale
+788	Haryana Properties (Haryana.txt)	2 BHK Apartment	Panipat East	Panipat / Haryana	Apartment / 2 BHK	813	₹81.82 L	Fully-Furnished	3	Family	Sale
+789	Haryana Properties (Haryana.txt)	1 BHK Independent House	Panipat West	Panipat / Haryana	Independent House / 1 BHK	649	₹48.76 L	Semi-Furnished	2	Family	Sale
+790	Haryana Properties (Haryana.txt)	2 BHK Builder Floor	Faridabad Central	Faridabad / Haryana	Builder Floor / 2 BHK	1019	₹86.16 L	Semi-Furnished	1	Bachelors	Sale
+791	Haryana Properties (Haryana.txt)	1 BHK Villa	Gurugram Main Road	Gurugram / Haryana	Villa / 1 BHK	743	₹44.84 L	Fully-Furnished	1	Family	Sale
+792	Haryana Properties (Haryana.txt)	5 BHK Builder Floor	Karnal Residential Area	Karnal / Haryana	Builder Floor / 5 BHK	2054	₹1.38 Cr	Fully-Furnished	5	Family	Sale
+793	Haryana Properties (Haryana.txt)	3 BHK Builder Floor	Panipat Sector 3	Panipat / Haryana	Builder Floor / 3 BHK	1390	₹24,800/month	Fully-Furnished	3	Family	Rent
+794	Haryana Properties (Haryana.txt)	3 BHK Apartment	Panipat Extension	Panipat / Haryana	Apartment / 3 BHK	1303	₹1.20 Cr	Semi-Furnished	4	Family	Sale
+795	Haryana Properties (Haryana.txt)	1 BHK Studio	Karnal Nagar	Karnal / Haryana	Studio / 1 BHK	337	₹46.22 L	Fully-Furnished	1	Family	Sale
+796	Haryana Properties (Haryana.txt)	3 BHK Apartment	Panipat Central	Panipat / Haryana	Apartment / 3 BHK	1452	₹1.11 Cr	Unfurnished	3	Family	Sale
+797	Haryana Properties (Haryana.txt)	3 BHK Apartment	Gurugram Sector 3	Gurugram / Haryana	Apartment / 3 BHK	1136	₹23,900/month	Fully-Furnished	3	Any	Rent
+798	Haryana Properties (Haryana.txt)	2 BHK Villa	Gurugram Heights	Gurugram / Haryana	Villa / 2 BHK	1330	₹19,200/month	Semi-Furnished	1	Any	Rent
+799	Haryana Properties (Haryana.txt)	1 BHK Apartment	Faridabad Heights	Faridabad / Haryana	Apartment / 1 BHK	534	₹38.53 L	Semi-Furnished	1	Bachelors	Sale
+800	Haryana Properties (Haryana.txt)	2 BHK Apartment	Faridabad Central	Faridabad / Haryana	Apartment / 2 BHK	924	₹77.39 L	Semi-Furnished	2	Family	Sale
+801	Haryana Properties (Haryana.txt)	2 BHK Independent House	Gurugram Sector 1	Gurugram / Haryana	Independent House / 2 BHK	928	₹18,600/month	Semi-Furnished	1	Bachelors	Rent
+802	Haryana Properties (Haryana.txt)	1 BHK Studio	Faridabad Sector 1	Faridabad / Haryana	Studio / 1 BHK	300	₹35.48 L	Unfurnished	1	Bachelors	Sale
+803	Haryana Properties (Haryana.txt)	3 BHK Builder Floor	Karnal Heights	Karnal / Haryana	Builder Floor / 3 BHK	1036	₹22,300/month	Fully-Furnished	4	Any	Rent
+804	Haryana Properties (Haryana.txt)	3 BHK Builder Floor	Panipat Residential Area	Panipat / Haryana	Builder Floor / 3 BHK	1445	₹1.03 Cr	Unfurnished	3	Family	Sale
+805	Haryana Properties (Haryana.txt)	2 BHK Villa	Gurugram Main Road	Gurugram / Haryana	Villa / 2 BHK	980	₹80.79 L	Semi-Furnished	2	Family	Sale
+806	Haryana Properties (Haryana.txt)	4 BHK Apartment	Panipat Colony	Panipat / Haryana	Apartment / 4 BHK	1838	₹1.22 Cr	Semi-Furnished	5	Any	Sale
+807	Haryana Properties (Haryana.txt)	2 BHK Villa	Karnal Extension	Karnal / Haryana	Villa / 2 BHK	1492	₹73.75 L	Semi-Furnished	3	Any	Sale
+808	Haryana Properties (Haryana.txt)	3 BHK Apartment	Karnal Heights	Karnal / Haryana	Apartment / 3 BHK	1177	₹22,700/month	Semi-Furnished	2	Family	Rent
+809	Haryana Properties (Haryana.txt)	1 BHK Villa	Faridabad Colony	Faridabad / Haryana	Villa / 1 BHK	726	₹41.18 L	Semi-Furnished	1	Family	Sale
+810	Haryana Properties (Haryana.txt)	1 BHK Studio	Faridabad Sector 1	Faridabad / Haryana	Studio / 1 BHK	300	₹42.29 L	Fully-Furnished	2	Family	Sale
+811	Haryana Properties (Haryana.txt)	1 BHK Builder Floor	Panipat North	Panipat / Haryana	Builder Floor / 1 BHK	621	₹15,500/month	Semi-Furnished	1	Bachelors	Rent
+812	Haryana Properties (Haryana.txt)	2 BHK Apartment	Faridabad South	Faridabad / Haryana	Apartment / 2 BHK	636	₹56.33 L	Semi-Furnished	2	Any	Sale
+813	Haryana Properties (Haryana.txt)	1 BHK Villa	Karnal Sector 1	Karnal / Haryana	Villa / 1 BHK	774	₹46.78 L	Unfurnished	2	Family	Sale
+814	Haryana Properties (Haryana.txt)	4 BHK Apartment	Faridabad Central	Faridabad / Haryana	Apartment / 4 BHK	1809	₹1.21 Cr	Fully-Furnished	4	Family	Sale
+815	Haryana Properties (Haryana.txt)	2 BHK Apartment	Karnal Sector 1	Karnal / Haryana	Apartment / 2 BHK	710	₹17,200/month	Fully-Furnished	3	Family	Rent
+816	Haryana Properties (Haryana.txt)	2 BHK Apartment	Faridabad Sector 1	Faridabad / Haryana	Apartment / 2 BHK	858	₹62.51 L	Unfurnished	2	Family	Sale
+817	Haryana Properties (Haryana.txt)	4 BHK Builder Floor	Gurugram North	Gurugram / Haryana	Builder Floor / 4 BHK	1378	₹1.21 Cr	Unfurnished	3	Family	Sale
+818	Haryana Properties (Haryana.txt)	1 BHK Independent House	Panipat West	Panipat / Haryana	Independent House / 1 BHK	640	₹54.05 L	Semi-Furnished	1	Family	Sale
+819	Haryana Properties (Haryana.txt)	3 BHK Villa	Gurugram Nagar	Gurugram / Haryana	Villa / 3 BHK	1385	₹1.21 Cr	Fully-Furnished	4	Any	Sale
+820	Haryana Properties (Haryana.txt)	2 BHK Apartment	Gurugram Extension	Gurugram / Haryana	Apartment / 2 BHK	930	₹21,000/month	Unfurnished	1	Bachelors	Rent
+821	Haryana Properties (Haryana.txt)	3 BHK Apartment	Gurugram Sector 2	Gurugram / Haryana	Apartment / 3 BHK	1380	₹1.22 Cr	Semi-Furnished	3	Family	Sale
+822	Haryana Properties (Haryana.txt)	3 BHK Apartment	Faridabad Town Centre	Faridabad / Haryana	Apartment / 3 BHK	1344	₹85.82 L	Semi-Furnished	2	Family	Sale
+823	Haryana Properties (Haryana.txt)	2 BHK Independent House	Faridabad West	Faridabad / Haryana	Independent House / 2 BHK	1116	₹19,800/month	Fully-Furnished	2	Bachelors	Rent
+824	Haryana Properties (Haryana.txt)	2 BHK Apartment	Faridabad Colony	Faridabad / Haryana	Apartment / 2 BHK	793	₹22,100/month	Fully-Furnished	1	Family	Rent
+825	Haryana Properties (Haryana.txt)	3 BHK Builder Floor	Karnal Heights	Karnal / Haryana	Builder Floor / 3 BHK	1580	₹1.28 Cr	Unfurnished	3	Family	Sale
+826	Haryana Properties (Haryana.txt)	1 BHK Studio	Karnal Extension	Karnal / Haryana	Studio / 1 BHK	397	₹38.22 L	Semi-Furnished	1	Family	Sale
+827	Haryana Properties (Haryana.txt)	3 BHK Apartment	Gurugram Main Road	Gurugram / Haryana	Apartment / 3 BHK	1094	₹94.05 L	Unfurnished	3	Family	Sale
+828	Haryana Properties (Haryana.txt)	2 BHK Independent House	Faridabad Sector 1	Faridabad / Haryana	Independent House / 2 BHK	987	₹71.52 L	Semi-Furnished	2	Any	Sale
+829	Haryana Properties (Haryana.txt)	1 BHK Studio	Faridabad Sector 2	Faridabad / Haryana	Studio / 1 BHK	312	₹38.49 L	Semi-Furnished	1	Bachelors	Sale
+830	Haryana Properties (Haryana.txt)	5 BHK Apartment	Gurugram Sector 1	Gurugram / Haryana	Apartment / 5 BHK	2456	₹1.85 Cr	Unfurnished	4	Family	Sale
+831	Haryana Properties (Haryana.txt)	4 BHK Apartment	Faridabad Main Road	Faridabad / Haryana	Apartment / 4 BHK	1540	₹39,900/month	Unfurnished	4	Family	Rent
+832	Haryana Properties (Haryana.txt)	3 BHK Builder Floor	Panipat Central	Panipat / Haryana	Builder Floor / 3 BHK	1140	₹98.03 L	Unfurnished	3	Bachelors	Sale
+833	Haryana Properties (Haryana.txt)	3 BHK Apartment	Gurugram Town Centre	Gurugram / Haryana	Apartment / 3 BHK	1276	₹83.53 L	Semi-Furnished	2	Bachelors	Sale
+834	Haryana Properties (Haryana.txt)	3 BHK Builder Floor	Panipat Colony	Panipat / Haryana	Builder Floor / 3 BHK	913	₹28,200/month	Fully-Furnished	2	Bachelors	Rent
+835	Haryana Properties (Haryana.txt)	3 BHK Independent House	Faridabad West	Faridabad / Haryana	Independent House / 3 BHK	1778	₹33,900/month	Fully-Furnished	3	Family	Rent
+836	Haryana Properties (Haryana.txt)	3 BHK Builder Floor	Karnal Central	Karnal / Haryana	Builder Floor / 3 BHK	1060	₹89.89 L	Semi-Furnished	2	Bachelors	Sale
+837	Haryana Properties (Haryana.txt)	2 BHK Independent House	Faridabad Sector 1	Faridabad / Haryana	Independent House / 2 BHK	1021	₹21,100/month	Semi-Furnished	2	Any	Rent
+838	Haryana Properties (Haryana.txt)	4 BHK Independent House	Faridabad North	Faridabad / Haryana	Independent House / 4 BHK	1994	₹32,200/month	Fully-Furnished	3	Family	Rent
+839	Haryana Properties (Haryana.txt)	2 BHK Independent House	Karnal Heights	Karnal / Haryana	Independent House / 2 BHK	942	₹23,200/month	Semi-Furnished	2	Bachelors	Rent
+840	Haryana Properties (Haryana.txt)	1 BHK Apartment	Karnal Heights	Karnal / Haryana	Apartment / 1 BHK	576	₹51.64 L	Fully-Furnished	1	Family	Sale
+841	Haryana Properties (Haryana.txt)	1 BHK Builder Floor	Faridabad North	Faridabad / Haryana	Builder Floor / 1 BHK	386	₹14,500/month	Fully-Furnished	1	Family	Rent
+842	Haryana Properties (Haryana.txt)	2 BHK Apartment	Panipat Sector 1	Panipat / Haryana	Apartment / 2 BHK	960	₹17,600/month	Fully-Furnished	2	Any	Rent
+843	Haryana Properties (Haryana.txt)	4 BHK Apartment	Gurugram West	Gurugram / Haryana	Apartment / 4 BHK	1677	₹1.36 Cr	Semi-Furnished	4	Bachelors	Sale
+844	Haryana Properties (Haryana.txt)	5 BHK Apartment	Karnal Heights	Karnal / Haryana	Apartment / 5 BHK	2110	₹1.55 Cr	Fully-Furnished	6	Bachelors	Sale
+845	Haryana Properties (Haryana.txt)	2 BHK Builder Floor	Faridabad Sector 3	Faridabad / Haryana	Builder Floor / 2 BHK	916	₹21,100/month	Unfurnished	3	Bachelors	Rent
+846	Haryana Properties (Haryana.txt)	1 BHK Apartment	Gurugram Central	Gurugram / Haryana	Apartment / 1 BHK	450	₹15,200/month	Semi-Furnished	1	Family	Rent
+847	Haryana Properties (Haryana.txt)	3 BHK Apartment	Faridabad Central	Faridabad / Haryana	Apartment / 3 BHK	1438	₹25,300/month	Fully-Furnished	4	Bachelors	Rent
+848	Haryana Properties (Haryana.txt)	2 BHK Apartment	Gurugram Sector 1	Gurugram / Haryana	Apartment / 2 BHK	807	₹69.35 L	Semi-Furnished	3	Bachelors	Sale
+849	Haryana Properties (Haryana.txt)	1 BHK Builder Floor	Gurugram Sector 3	Gurugram / Haryana	Builder Floor / 1 BHK	587	₹14,400/month	Semi-Furnished	1	Family	Rent
+850	Haryana Properties (Haryana.txt)	3 BHK Apartment	Panipat Heights	Panipat / Haryana	Apartment / 3 BHK	1074	₹24,400/month	Fully-Furnished	2	Bachelors	Rent
+851	Haryana Properties (Haryana.txt)	5 BHK Independent House	Faridabad Central	Faridabad / Haryana	Independent House / 5 BHK	3252	₹44,400/month	Unfurnished	4	Bachelors	Rent
+852	Haryana Properties (Haryana.txt)	1 BHK Apartment	Gurugram East	Gurugram / Haryana	Apartment / 1 BHK	494	₹44.18 L	Semi-Furnished	1	Any	Sale
+853	Haryana Properties (Haryana.txt)	3 BHK Apartment	Karnal North	Karnal / Haryana	Apartment / 3 BHK	1132	₹1.08 Cr	Semi-Furnished	3	Family	Sale
+854	Haryana Properties (Haryana.txt)	2 BHK Apartment	Panipat South	Panipat / Haryana	Apartment / 2 BHK	973	₹79.08 L	Fully-Furnished	2	Family	Sale
+855	Haryana Properties (Haryana.txt)	3 BHK Apartment	Karnal East	Karnal / Haryana	Apartment / 3 BHK	1221	₹97.39 L	Fully-Furnished	3	Family	Sale
+856	Haryana Properties (Haryana.txt)	2 BHK Builder Floor	Panipat Sector 1	Panipat / Haryana	Builder Floor / 2 BHK	961	₹23,900/month	Semi-Furnished	2	Bachelors	Rent
+857	Haryana Properties (Haryana.txt)	4 BHK Builder Floor	Faridabad South	Faridabad / Haryana	Builder Floor / 4 BHK	1488	₹1.20 Cr	Fully-Furnished	4	Any	Sale
+858	Haryana Properties (Haryana.txt)	1 BHK Apartment	Gurugram Sector 1	Gurugram / Haryana	Apartment / 1 BHK	537	₹51.73 L	Unfurnished	1	Family	Sale
+859	Haryana Properties (Haryana.txt)	2 BHK Independent House	Karnal Extension	Karnal / Haryana	Independent House / 2 BHK	949	₹20,800/month	Unfurnished	1	Family	Rent
+860	Haryana Properties (Haryana.txt)	3 BHK Apartment	Karnal Sector 1	Karnal / Haryana	Apartment / 3 BHK	1530	₹30,500/month	Fully-Furnished	3	Family	Rent
+861	Haryana Properties (Haryana.txt)	3 BHK Independent House	Karnal South	Karnal / Haryana	Independent House / 3 BHK	1390	₹98.37 L	Semi-Furnished	3	Any	Sale
+862	Haryana Properties (Haryana.txt)	2 BHK Builder Floor	Gurugram Main Road	Gurugram / Haryana	Builder Floor / 2 BHK	659	₹71.51 L	Fully-Furnished	3	Bachelors	Sale
+863	Haryana Properties (Haryana.txt)	2 BHK Apartment	Panipat Sector 2	Panipat / Haryana	Apartment / 2 BHK	966	₹81.16 L	Fully-Furnished	2	Family	Sale
+864	Haryana Properties (Haryana.txt)	1 BHK Studio	Karnal Central	Karnal / Haryana	Studio / 1 BHK	332	₹11,600/month	Fully-Furnished	1	Bachelors	Rent
+865	Haryana Properties (Haryana.txt)	2 BHK Apartment	Faridabad West	Faridabad / Haryana	Apartment / 2 BHK	778	₹58.23 L	Fully-Furnished	2	Family	Sale
+866	Haryana Properties (Haryana.txt)	3 BHK Apartment	Panipat East	Panipat / Haryana	Apartment / 3 BHK	1081	₹1.12 Cr	Fully-Furnished	3	Bachelors	Sale
+867	Haryana Properties (Haryana.txt)	2 BHK Builder Floor	Karnal West	Karnal / Haryana	Builder Floor / 2 BHK	1135	₹82.82 L	Unfurnished	1	Bachelors	Sale
+868	Haryana Properties (Haryana.txt)	2 BHK Apartment	Gurugram West	Gurugram / Haryana	Apartment / 2 BHK	655	₹69.75 L	Semi-Furnished	2	Bachelors	Sale
+869	Haryana Properties (Haryana.txt)	2 BHK Apartment	Panipat Extension	Panipat / Haryana	Apartment / 2 BHK	1018	₹17,500/month	Fully-Furnished	1	Family	Rent
+870	Haryana Properties (Haryana.txt)	3 BHK Apartment	Panipat Extension	Panipat / Haryana	Apartment / 3 BHK	952	₹23,300/month	Fully-Furnished	4	Bachelors	Rent
+871	Haryana Properties (Haryana.txt)	2 BHK Apartment	Faridabad Residential Area	Faridabad / Haryana	Apartment / 2 BHK	794	₹72.94 L	Semi-Furnished	2	Bachelors	Sale
+872	Haryana Properties (Haryana.txt)	2 BHK Apartment	Panipat Extension	Panipat / Haryana	Apartment / 2 BHK	575	₹15,700/month	Semi-Furnished	2	Any	Rent
+873	Haryana Properties (Haryana.txt)	2 BHK Apartment	Faridabad Central	Faridabad / Haryana	Apartment / 2 BHK	947	₹72.54 L	Semi-Furnished	2	Bachelors	Sale
+874	Haryana Properties (Haryana.txt)	2 BHK Apartment	Karnal Extension	Karnal / Haryana	Apartment / 2 BHK	843	₹20,800/month	Unfurnished	1	Family	Rent
+875	Haryana Properties (Haryana.txt)	2 BHK Apartment	Karnal North	Karnal / Haryana	Apartment / 2 BHK	806	₹20,000/month	Semi-Furnished	3	Family	Rent
+876	Haryana Properties (Haryana.txt)	4 BHK Apartment	Karnal South	Karnal / Haryana	Apartment / 4 BHK	2079	₹33,900/month	Fully-Furnished	3	Family	Rent
+877	Haryana Properties (Haryana.txt)	2 BHK Apartment	Faridabad Residential Area	Faridabad / Haryana	Apartment / 2 BHK	843	₹80.76 L	Unfurnished	1	Any	Sale
+878	Haryana Properties (Haryana.txt)	2 BHK Apartment	Gurugram Heights	Gurugram / Haryana	Apartment / 2 BHK	762	₹17,700/month	Fully-Furnished	2	Any	Rent
+879	Haryana Properties (Haryana.txt)	2 BHK Apartment	Gurugram Residential Area	Gurugram / Haryana	Apartment / 2 BHK	835	₹70.68 L	Unfurnished	2	Bachelors	Sale
+880	Haryana Properties (Haryana.txt)	2 BHK Independent House	Panipat West	Panipat / Haryana	Independent House / 2 BHK	965	₹67.27 L	Semi-Furnished	2	Any	Sale
+881	Haryana Properties (Haryana.txt)	3 BHK Apartment	Panipat Nagar	Panipat / Haryana	Apartment / 3 BHK	1119	₹22,600/month	Semi-Furnished	3	Family	Rent
+882	Haryana Properties (Haryana.txt)	4 BHK Builder Floor	Gurugram Extension	Gurugram / Haryana	Builder Floor / 4 BHK	1484	₹1.07 Cr	Semi-Furnished	5	Any	Sale
+883	Haryana Properties (Haryana.txt)	1 BHK Studio	Faridabad Extension	Faridabad / Haryana	Studio / 1 BHK	362	₹13,200/month	Unfurnished	1	Family	Rent
+884	Haryana Properties (Haryana.txt)	1 BHK Studio	Gurugram Extension	Gurugram / Haryana	Studio / 1 BHK	325	₹11,200/month	Unfurnished	1	Any	Rent
+885	Haryana Properties (Haryana.txt)	3 BHK Apartment	Faridabad Sector 1	Faridabad / Haryana	Apartment / 3 BHK	1266	₹85.07 L	Unfurnished	3	Family	Sale
+886	Haryana Properties (Haryana.txt)	1 BHK Studio	Faridabad Sector 2	Faridabad / Haryana	Studio / 1 BHK	326	₹11,100/month	Fully-Furnished	2	Any	Rent
+887	Haryana Properties (Haryana.txt)	3 BHK Independent House	Faridabad West	Faridabad / Haryana	Independent House / 3 BHK	1342	₹1.07 Cr	Semi-Furnished	3	Family	Sale
+888	Haryana Properties (Haryana.txt)	2 BHK Villa	Panipat East	Panipat / Haryana	Villa / 2 BHK	1169	₹92.37 L	Semi-Furnished	3	Family	Sale
+889	Haryana Properties (Haryana.txt)	3 BHK Villa	Gurugram East	Gurugram / Haryana	Villa / 3 BHK	1360	₹1.22 Cr	Fully-Furnished	3	Bachelors	Sale
+890	Haryana Properties (Haryana.txt)	4 BHK Apartment	Karnal Heights	Karnal / Haryana	Apartment / 4 BHK	1775	₹1.44 Cr	Unfurnished	4	Family	Sale
+891	Haryana Properties (Haryana.txt)	2 BHK Apartment	Panipat Town Centre	Panipat / Haryana	Apartment / 2 BHK	764	₹72.51 L	Semi-Furnished	1	Family	Sale
+892	Haryana Properties (Haryana.txt)	2 BHK Apartment	Faridabad North	Faridabad / Haryana	Apartment / 2 BHK	803	₹17,800/month	Semi-Furnished	1	Bachelors	Rent
+893	Haryana Properties (Haryana.txt)	5 BHK Apartment	Gurugram North	Gurugram / Haryana	Apartment / 5 BHK	2266	₹49,600/month	Semi-Furnished	5	Any	Rent
+894	Haryana Properties (Haryana.txt)	3 BHK Apartment	Panipat West	Panipat / Haryana	Apartment / 3 BHK	1213	₹27,100/month	Semi-Furnished	2	Any	Rent
+895	Haryana Properties (Haryana.txt)	2 BHK Builder Floor	Faridabad Sector 3	Faridabad / Haryana	Builder Floor / 2 BHK	857	₹16,600/month	Semi-Furnished	3	Family	Rent
+896	Haryana Properties (Haryana.txt)	3 BHK Apartment	Gurugram South	Gurugram / Haryana	Apartment / 3 BHK	1153	₹1.09 Cr	Semi-Furnished	2	Bachelors	Sale
+897	Haryana Properties (Haryana.txt)	2 BHK Apartment	Panipat North	Panipat / Haryana	Apartment / 2 BHK	964	₹85.28 L	Unfurnished	1	Bachelors	Sale
+898	Haryana Properties (Haryana.txt)	1 BHK Apartment	Gurugram Sector 2	Gurugram / Haryana	Apartment / 1 BHK	434	₹52.82 L	Fully-Furnished	1	Bachelors	Sale
+899	Haryana Properties (Haryana.txt)	3 BHK Apartment	Panipat Sector 2	Panipat / Haryana	Apartment / 3 BHK	1303	₹1.13 Cr	Semi-Furnished	3	Bachelors	Sale
+900	Haryana Properties (Haryana.txt)	3 BHK Builder Floor	Panipat Main Road	Panipat / Haryana	Builder Floor / 3 BHK	1272	₹28,600/month	Semi-Furnished	3	Family	Rent
+901	Haryana Properties (Haryana.txt)	1 BHK Independent House	Faridabad Main Road	Faridabad / Haryana	Independent House / 1 BHK	682	₹51.87 L	Semi-Furnished	2	Family	Sale
+902	Haryana Properties (Haryana.txt)	3 BHK Apartment	Faridabad Central	Faridabad / Haryana	Apartment / 3 BHK	1054	₹1.10 Cr	Fully-Furnished	3	Family	Sale
+903	Haryana Properties (Haryana.txt)	2 BHK Independent House	Faridabad South	Faridabad / Haryana	Independent House / 2 BHK	1012	₹82.42 L	Semi-Furnished	2	Any	Sale
+904	Haryana Properties (Haryana.txt)	3 BHK Independent House	Gurugram East	Gurugram / Haryana	Independent House / 3 BHK	1249	₹1.21 Cr	Semi-Furnished	2	Bachelors	Sale
+905	Haryana Properties (Haryana.txt)	2 BHK Apartment	Karnal Sector 2	Karnal / Haryana	Apartment / 2 BHK	724	₹23,200/month	Semi-Furnished	2	Bachelors	Rent
+906	Haryana Properties (Haryana.txt)	2 BHK Independent House	Faridabad Sector 3	Faridabad / Haryana	Independent House / 2 BHK	938	₹22,000/month	Unfurnished	2	Family	Rent
+907	Haryana Properties (Haryana.txt)	3 BHK Independent House	Panipat Central	Panipat / Haryana	Independent House / 3 BHK	1256	₹1.13 Cr	Semi-Furnished	4	Any	Sale
+908	Haryana Properties (Haryana.txt)	4 BHK Apartment	Faridabad West	Faridabad / Haryana	Apartment / 4 BHK	1827	₹1.42 Cr	Semi-Furnished	4	Any	Sale
+909	Haryana Properties (Haryana.txt)	3 BHK Builder Floor	Faridabad Main Road	Faridabad / Haryana	Builder Floor / 3 BHK	1546	₹27,300/month	Semi-Furnished	3	Family	Rent
+910	Haryana Properties (Haryana.txt)	3 BHK Villa	Faridabad North	Faridabad / Haryana	Villa / 3 BHK	1525	₹86.12 L	Unfurnished	3	Any	Sale
+911	Haryana Properties (Haryana.txt)	2 BHK Apartment	Karnal South	Karnal / Haryana	Apartment / 2 BHK	921	₹74.71 L	Unfurnished	1	Family	Sale
+912	Haryana Properties (Haryana.txt)	3 BHK Independent House	Gurugram Residential Area	Gurugram / Haryana	Independent House / 3 BHK	1438	₹32,900/month	Fully-Furnished	3	Any	Rent
+913	Haryana Properties (Haryana.txt)	3 BHK Builder Floor	Gurugram Nagar	Gurugram / Haryana	Builder Floor / 3 BHK	1426	₹1.10 Cr	Fully-Furnished	3	Family	Sale
+914	Haryana Properties (Haryana.txt)	2 BHK Apartment	Panipat Town Centre	Panipat / Haryana	Apartment / 2 BHK	859	₹66.48 L	Unfurnished	2	Family	Sale
+915	Haryana Properties (Haryana.txt)	1 BHK Studio	Faridabad Main Road	Faridabad / Haryana	Studio / 1 BHK	367	₹47.81 L	Semi-Furnished	1	Bachelors	Sale
+916	Haryana Properties (Haryana.txt)	3 BHK Apartment	Gurugram Sector 1	Gurugram / Haryana	Apartment / 3 BHK	1396	₹26,300/month	Fully-Furnished	4	Any	Rent
+917	Haryana Properties (Haryana.txt)	2 BHK Apartment	Panipat North	Panipat / Haryana	Apartment / 2 BHK	825	₹74.24 L	Semi-Furnished	1	Any	Sale
+918	Haryana Properties (Haryana.txt)	4 BHK Apartment	Faridabad Sector 2	Faridabad / Haryana	Apartment / 4 BHK	2048	₹32,300/month	Semi-Furnished	4	Family	Rent
+919	Haryana Properties (Haryana.txt)	1 BHK Studio	Panipat Extension	Panipat / Haryana	Studio / 1 BHK	364	₹41.52 L	Semi-Furnished	1	Family	Sale
+920	Haryana Properties (Haryana.txt)	1 BHK Apartment	Panipat Main Road	Panipat / Haryana	Apartment / 1 BHK	573	₹11,900/month	Fully-Furnished	1	Family	Rent
+921	Haryana Properties (Haryana.txt)	2 BHK Villa	Karnal Extension	Karnal / Haryana	Villa / 2 BHK	1068	₹90.93 L	Semi-Furnished	2	Any	Sale
+922	Haryana Properties (Haryana.txt)	2 BHK Apartment	Faridabad Residential Area	Faridabad / Haryana	Apartment / 2 BHK	869	₹21,300/month	Semi-Furnished	1	Bachelors	Rent
+923	Haryana Properties (Haryana.txt)	3 BHK Independent House	Gurugram Sector 1	Gurugram / Haryana	Independent House / 3 BHK	1278	₹83.17 L	Semi-Furnished	3	Family	Sale
+924	Haryana Properties (Haryana.txt)	2 BHK Villa	Faridabad Residential Area	Faridabad / Haryana	Villa / 2 BHK	801	₹73.04 L	Unfurnished	1	Family	Sale
+925	Haryana Properties (Haryana.txt)	1 BHK Apartment	Panipat Residential Area	Panipat / Haryana	Apartment / 1 BHK	564	₹13,200/month	Unfurnished	1	Any	Rent
+926	Haryana Properties (Haryana.txt)	3 BHK Apartment	Karnal South	Karnal / Haryana	Apartment / 3 BHK	1041	₹1.03 Cr	Unfurnished	3	Family	Sale
+927	Haryana Properties (Haryana.txt)	3 BHK Apartment	Faridabad Heights	Faridabad / Haryana	Apartment / 3 BHK	1450	₹1.21 Cr	Semi-Furnished	3	Any	Sale
+928	Haryana Properties (Haryana.txt)	2 BHK Apartment	Panipat Sector 2	Panipat / Haryana	Apartment / 2 BHK	900	₹22,900/month	Semi-Furnished	2	Bachelors	Rent
+929	Haryana Properties (Haryana.txt)	2 BHK Apartment	Karnal Central	Karnal / Haryana	Apartment / 2 BHK	738	₹66.16 L	Unfurnished	2	Any	Sale
+930	Haryana Properties (Haryana.txt)	3 BHK Apartment	Karnal Heights	Karnal / Haryana	Apartment / 3 BHK	1512	₹1.24 Cr	Semi-Furnished	4	Family	Sale
+931	Haryana Properties (Haryana.txt)	3 BHK Builder Floor	Faridabad Town Centre	Faridabad / Haryana	Builder Floor / 3 BHK	1255	₹1.04 Cr	Fully-Furnished	3	Any	Sale
+932	Haryana Properties (Haryana.txt)	3 BHK Builder Floor	Karnal Sector 1	Karnal / Haryana	Builder Floor / 3 BHK	1368	₹84.77 L	Semi-Furnished	3	Bachelors	Sale
+933	Haryana Properties (Haryana.txt)	4 BHK Independent House	Gurugram South	Gurugram / Haryana	Independent House / 4 BHK	2866	₹41,200/month	Unfurnished	4	Any	Rent
+934	Haryana Properties (Haryana.txt)	1 BHK Apartment	Faridabad North	Faridabad / Haryana	Apartment / 1 BHK	576	₹39.59 L	Unfurnished	1	Any	Sale
+935	Haryana Properties (Haryana.txt)	3 BHK Builder Floor	Panipat Colony	Panipat / Haryana	Builder Floor / 3 BHK	1351	₹1.04 Cr	Semi-Furnished	3	Family	Sale
+936	Haryana Properties (Haryana.txt)	3 BHK Villa	Karnal Extension	Karnal / Haryana	Villa / 3 BHK	1567	₹89.96 L	Semi-Furnished	4	Bachelors	Sale
+937	Haryana Properties (Haryana.txt)	4 BHK Builder Floor	Gurugram Sector 1	Gurugram / Haryana	Builder Floor / 4 BHK	1754	₹1.34 Cr	Semi-Furnished	3	Any	Sale
+938	Haryana Properties (Haryana.txt)	2 BHK Apartment	Panipat West	Panipat / Haryana	Apartment / 2 BHK	748	₹18,300/month	Semi-Furnished	1	Bachelors	Rent
+939	Haryana Properties (Haryana.txt)	3 BHK Apartment	Karnal Town Centre	Karnal / Haryana	Apartment / 3 BHK	1221	₹23,900/month	Fully-Furnished	2	Family	Rent
+940	Haryana Properties (Haryana.txt)	4 BHK Apartment	Panipat Extension	Panipat / Haryana	Apartment / 4 BHK	1709	₹1.17 Cr	Unfurnished	5	Bachelors	Sale
+941	Haryana Properties (Haryana.txt)	4 BHK Apartment	Karnal Town Centre	Karnal / Haryana	Apartment / 4 BHK	1970	₹1.42 Cr	Semi-Furnished	3	Any	Sale
+942	Haryana Properties (Haryana.txt)	2 BHK Apartment	Gurugram Heights	Gurugram / Haryana	Apartment / 2 BHK	967	₹24,400/month	Unfurnished	3	Family	Rent
+943	Haryana Properties (Haryana.txt)	1 BHK Builder Floor	Gurugram Town Centre	Gurugram / Haryana	Builder Floor / 1 BHK	531	₹13,600/month	Unfurnished	1	Any	Rent
+944	Haryana Properties (Haryana.txt)	2 BHK Builder Floor	Faridabad Heights	Faridabad / Haryana	Builder Floor / 2 BHK	717	₹60.07 L	Semi-Furnished	2	Bachelors	Sale
+945	Haryana Properties (Haryana.txt)	1 BHK Studio	Faridabad North	Faridabad / Haryana	Studio / 1 BHK	406	₹12,700/month	Semi-Furnished	1	Any	Rent
+946	Haryana Properties (Haryana.txt)	2 BHK Builder Floor	Faridabad Sector 3	Faridabad / Haryana	Builder Floor / 2 BHK	829	₹59.45 L	Semi-Furnished	2	Any	Sale
+947	Haryana Properties (Haryana.txt)	1 BHK Apartment	Faridabad Extension	Faridabad / Haryana	Apartment / 1 BHK	651	₹45.04 L	Fully-Furnished	2	Any	Sale
+948	Haryana Properties (Haryana.txt)	1 BHK Studio	Karnal Central	Karnal / Haryana	Studio / 1 BHK	356	₹11,500/month	Unfurnished	1	Family	Rent
+949	Haryana Properties (Haryana.txt)	3 BHK Independent House	Karnal Heights	Karnal / Haryana	Independent House / 3 BHK	1248	₹89.29 L	Fully-Furnished	2	Family	Sale
+950	Haryana Properties (Haryana.txt)	1 BHK Builder Floor	Gurugram Colony	Gurugram / Haryana	Builder Floor / 1 BHK	436	₹52.87 L	Semi-Furnished	1	Bachelors	Sale
+951	Haryana Properties (Haryana.txt)	4 BHK Apartment	Karnal Nagar	Karnal / Haryana	Apartment / 4 BHK	2181	₹43,200/month	Unfurnished	4	Family	Rent
+952	Haryana Properties (Haryana.txt)	3 BHK Independent House	Faridabad Sector 3	Faridabad / Haryana	Independent House / 3 BHK	1539	₹1.15 Cr	Unfurnished	4	Family	Sale
+953	Haryana Properties (Haryana.txt)	3 BHK Builder Floor	Karnal North	Karnal / Haryana	Builder Floor / 3 BHK	1358	₹1.07 Cr	Unfurnished	3	Family	Sale
+954	Haryana Properties (Haryana.txt)	4 BHK Apartment	Gurugram Main Road	Gurugram / Haryana	Apartment / 4 BHK	1467	₹1.44 Cr	Fully-Furnished	3	Family	Sale
+955	Haryana Properties (Haryana.txt)	2 BHK Independent House	Karnal South	Karnal / Haryana	Independent House / 2 BHK	1043	₹71.12 L	Semi-Furnished	2	Bachelors	Sale
+956	Haryana Properties (Haryana.txt)	5 BHK Villa	Gurugram Nagar	Gurugram / Haryana	Villa / 5 BHK	2469	₹1.44 Cr	Fully-Furnished	5	Family	Sale
+957	Haryana Properties (Haryana.txt)	3 BHK Apartment	Faridabad Colony	Faridabad / Haryana	Apartment / 3 BHK	1585	₹1.23 Cr	Fully-Furnished	3	Bachelors	Sale
+958	Haryana Properties (Haryana.txt)	2 BHK Builder Floor	Panipat Sector 2	Panipat / Haryana	Builder Floor / 2 BHK	824	₹66.74 L	Semi-Furnished	3	Bachelors	Sale
+959	Haryana Properties (Haryana.txt)	2 BHK Apartment	Gurugram Sector 3	Gurugram / Haryana	Apartment / 2 BHK	706	₹16,500/month	Unfurnished	2	Any	Rent
+960	Haryana Properties (Haryana.txt)	5 BHK Apartment	Faridabad North	Faridabad / Haryana	Apartment / 5 BHK	2425	₹1.87 Cr	Unfurnished	5	Bachelors	Sale
+961	Haryana Properties (Haryana.txt)	3 BHK Apartment	Karnal North	Karnal / Haryana	Apartment / 3 BHK	1078	₹31,500/month	Unfurnished	3	Any	Rent
+962	Haryana Properties (Haryana.txt)	5 BHK Independent House	Faridabad Nagar	Faridabad / Haryana	Independent House / 5 BHK	3044	₹1.46 Cr	Semi-Furnished	6	Family	Sale
+963	Haryana Properties (Haryana.txt)	2 BHK Apartment	Karnal Heights	Karnal / Haryana	Apartment / 2 BHK	873	₹85.68 L	Unfurnished	1	Family	Sale
+964	Haryana Properties (Haryana.txt)	2 BHK Villa	Faridabad Main Road	Faridabad / Haryana	Villa / 2 BHK	983	₹88.16 L	Unfurnished	2	Bachelors	Sale
+965	Haryana Properties (Haryana.txt)	3 BHK Villa	Faridabad West	Faridabad / Haryana	Villa / 3 BHK	1194	₹97.84 L	Semi-Furnished	2	Bachelors	Sale
+966	Haryana Properties (Haryana.txt)	1 BHK Apartment	Gurugram Residential Area	Gurugram / Haryana	Apartment / 1 BHK	563	₹53.59 L	Semi-Furnished	1	Family	Sale
+967	Haryana Properties (Haryana.txt)	2 BHK Apartment	Panipat Central	Panipat / Haryana	Apartment / 2 BHK	906	₹19,600/month	Semi-Furnished	2	Bachelors	Rent
+968	Haryana Properties (Haryana.txt)	3 BHK Independent House	Gurugram Extension	Gurugram / Haryana	Independent House / 3 BHK	1773	₹26,800/month	Unfurnished	2	Any	Rent
+969	Haryana Properties (Haryana.txt)	4 BHK Apartment	Faridabad Colony	Faridabad / Haryana	Apartment / 4 BHK	1423	₹1.32 Cr	Semi-Furnished	3	Bachelors	Sale
+970	Haryana Properties (Haryana.txt)	2 BHK Apartment	Panipat North	Panipat / Haryana	Apartment / 2 BHK	1168	₹68.24 L	Semi-Furnished	3	Family	Sale
+971	Haryana Properties (Haryana.txt)	2 BHK Apartment	Gurugram Central	Gurugram / Haryana	Apartment / 2 BHK	837	₹20,900/month	Unfurnished	2	Family	Rent
+972	Haryana Properties (Haryana.txt)	1 BHK Independent House	Gurugram Extension	Gurugram / Haryana	Independent House / 1 BHK	625	₹49.92 L	Semi-Furnished	1	Bachelors	Sale
+973	Haryana Properties (Haryana.txt)	3 BHK Independent House	Karnal South	Karnal / Haryana	Independent House / 3 BHK	1634	₹29,300/month	Unfurnished	3	Family	Rent
+974	Haryana Properties (Haryana.txt)	4 BHK Apartment	Faridabad West	Faridabad / Haryana	Apartment / 4 BHK	2222	₹43,900/month	Semi-Furnished	5	Family	Rent
+975	Haryana Properties (Haryana.txt)	5 BHK Apartment	Karnal Heights	Karnal / Haryana	Apartment / 5 BHK	2701	₹1.56 Cr	Fully-Furnished	6	Family	Sale
+976	Haryana Properties (Haryana.txt)	3 BHK Apartment	Panipat Town Centre	Panipat / Haryana	Apartment / 3 BHK	1121	₹31,800/month	Semi-Furnished	3	Any	Rent
+977	Haryana Properties (Haryana.txt)	3 BHK Builder Floor	Panipat South	Panipat / Haryana	Builder Floor / 3 BHK	1326	₹1.01 Cr	Semi-Furnished	4	Family	Sale
+978	Haryana Properties (Haryana.txt)	1 BHK Apartment	Gurugram Sector 2	Gurugram / Haryana	Apartment / 1 BHK	525	₹12,800/month	Semi-Furnished	1	Bachelors	Rent
+979	Haryana Properties (Haryana.txt)	1 BHK Apartment	Panipat Residential Area	Panipat / Haryana	Apartment / 1 BHK	504	₹51.14 L	Fully-Furnished	1	Any	Sale
+980	Haryana Properties (Haryana.txt)	2 BHK Builder Floor	Karnal North	Karnal / Haryana	Builder Floor / 2 BHK	994	₹24,900/month	Semi-Furnished	2	Any	Rent
+981	Haryana Properties (Haryana.txt)	3 BHK Independent House	Gurugram Colony	Gurugram / Haryana	Independent House / 3 BHK	1285	₹25,400/month	Unfurnished	3	Any	Rent
+982	Haryana Properties (Haryana.txt)	3 BHK Builder Floor	Karnal Colony	Karnal / Haryana	Builder Floor / 3 BHK	1789	₹1.28 Cr	Fully-Furnished	3	Bachelors	Sale
+983	Haryana Properties (Haryana.txt)	1 BHK Independent House	Gurugram South	Gurugram / Haryana	Independent House / 1 BHK	597	₹47.87 L	Semi-Furnished	1	Bachelors	Sale
+984	Haryana Properties (Haryana.txt)	4 BHK Apartment	Karnal North	Karnal / Haryana	Apartment / 4 BHK	1378	₹1.41 Cr	Unfurnished	3	Family	Sale
+985	Haryana Properties (Haryana.txt)	2 BHK Apartment	Karnal Town Centre	Karnal / Haryana	Apartment / 2 BHK	775	₹18,300/month	Semi-Furnished	2	Any	Rent
+986	Haryana Properties (Haryana.txt)	1 BHK Studio	Faridabad Main Road	Faridabad / Haryana	Studio / 1 BHK	379	₹14,300/month	Semi-Furnished	1	Any	Rent
+987	Haryana Properties (Haryana.txt)	2 BHK Apartment	Karnal East	Karnal / Haryana	Apartment / 2 BHK	867	₹79.21 L	Unfurnished	2	Family	Sale
+988	Haryana Properties (Haryana.txt)	1 BHK Apartment	Gurugram Nagar	Gurugram / Haryana	Apartment / 1 BHK	478	₹47.66 L	Semi-Furnished	1	Any	Sale
+989	Haryana Properties (Haryana.txt)	3 BHK Builder Floor	Faridabad Sector 2	Faridabad / Haryana	Builder Floor / 3 BHK	1054	₹24,700/month	Unfurnished	4	Family	Rent
+990	Haryana Properties (Haryana.txt)	2 BHK Apartment	Gurugram Nagar	Gurugram / Haryana	Apartment / 2 BHK	799	₹81.15 L	Semi-Furnished	1	Bachelors	Sale
+991	Haryana Properties (Haryana.txt)	2 BHK Villa	Karnal Nagar	Karnal / Haryana	Villa / 2 BHK	896	₹76.41 L	Fully-Furnished	2	Any	Sale
+992	Haryana Properties (Haryana.txt)	2 BHK Apartment	Panipat South	Panipat / Haryana	Apartment / 2 BHK	908	₹22,400/month	Semi-Furnished	1	Bachelors	Rent
+993	Haryana Properties (Haryana.txt)	1 BHK Studio	Panipat South	Panipat / Haryana	Studio / 1 BHK	300	₹13,100/month	Fully-Furnished	1	Bachelors	Rent
+994	Haryana Properties (Haryana.txt)	2 BHK Builder Floor	Gurugram North	Gurugram / Haryana	Builder Floor / 2 BHK	917	₹61.60 L	Fully-Furnished	1	Family	Sale
+995	Haryana Properties (Haryana.txt)	2 BHK Builder Floor	Faridabad West	Faridabad / Haryana	Builder Floor / 2 BHK	715	₹22,200/month	Unfurnished	2	Family	Rent
+996	Haryana Properties (Haryana.txt)	1 BHK Studio	Gurugram Main Road	Gurugram / Haryana	Studio / 1 BHK	320	₹37.82 L	Semi-Furnished	1	Any	Sale
+997	Haryana Properties (Haryana.txt)	2 BHK Apartment	Gurugram Residential Area	Gurugram / Haryana	Apartment / 2 BHK	819	₹77.39 L	Semi-Furnished	2	Family	Sale
+998	Haryana Properties (Haryana.txt)	4 BHK Independent House	Gurugram Nagar	Gurugram / Haryana	Independent House / 4 BHK	1183	₹26,700/month	Semi-Furnished	4	Family	Rent
+999	Haryana Properties (Haryana.txt)	2 BHK Apartment	Faridabad Nagar	Faridabad / Haryana	Apartment / 2 BHK	884	₹19,800/month	Unfurnished	2	Family	Rent
+1000	Haryana Properties (Haryana.txt)	4 BHK Apartment	Karnal Main Road	Karnal / Haryana	Apartment / 4 BHK	2116	₹1.65 Cr	Fully-Furnished	3	Family	Sale
+1001	Haryana Properties (Haryana.txt)	4 BHK Apartment	Panipat Heights	Panipat / Haryana	Apartment / 4 BHK	1664	₹1.14 Cr	Semi-Furnished	4	Bachelors	Sale
+1002	Haryana Properties (Haryana.txt)	4 BHK Apartment	Panipat North	Panipat / Haryana	Apartment / 4 BHK	1423	₹1.29 Cr	Fully-Furnished	5	Any	Sale
+1003	Haryana Properties (Haryana.txt)	3 BHK Apartment	Faridabad South	Faridabad / Haryana	Apartment / 3 BHK	1444	₹1.01 Cr	Fully-Furnished	3	Family	Sale
+1004	Haryana Properties (Haryana.txt)	1 BHK Apartment	Karnal Sector 2	Karnal / Haryana	Apartment / 1 BHK	444	₹10,600/month	Fully-Furnished	2	Family	Rent
+1005	Haryana Properties (Haryana.txt)	2 BHK Villa	Karnal West	Karnal / Haryana	Villa / 2 BHK	981	₹66.18 L	Unfurnished	2	Family	Sale
+1006	Haryana Properties (Haryana.txt)	2 BHK Apartment	Gurugram South	Gurugram / Haryana	Apartment / 2 BHK	893	₹83.09 L	Fully-Furnished	2	Bachelors	Sale
+1007	Haryana Properties (Haryana.txt)	2 BHK Independent House	Panipat Sector 2	Panipat / Haryana	Independent House / 2 BHK	1069	₹91.09 L	Semi-Furnished	1	Any	Sale
+1008	Haryana Properties (Haryana.txt)	2 BHK Independent House	Karnal North	Karnal / Haryana	Independent House / 2 BHK	815	₹18,200/month	Fully-Furnished	1	Bachelors	Rent
+1009	Haryana Properties (Haryana.txt)	1 BHK Apartment	Panipat North	Panipat / Haryana	Apartment / 1 BHK	408	₹14,600/month	Fully-Furnished	1	Bachelors	Rent
+1010	Haryana Properties (Haryana.txt)	4 BHK Villa	Karnal West	Karnal / Haryana	Villa / 4 BHK	2607	₹1.52 Cr	Semi-Furnished	4	Bachelors	Sale
+1011	Haryana Properties (Haryana.txt)	4 BHK Independent House	Faridabad East	Faridabad / Haryana	Independent House / 4 BHK	2330	₹1.64 Cr	Unfurnished	4	Any	Sale
+1012	Haryana Properties (Haryana.txt)	3 BHK Apartment	Karnal Sector 1	Karnal / Haryana	Apartment / 3 BHK	1564	₹93.56 L	Fully-Furnished	3	Family	Sale
+1013	Haryana Properties (Haryana.txt)	3 BHK Independent House	Gurugram North	Gurugram / Haryana	Independent House / 3 BHK	1543	₹27,600/month	Unfurnished	3	Family	Rent
+1014	Haryana Properties (Haryana.txt)	4 BHK Independent House	Panipat Sector 1	Panipat / Haryana	Independent House / 4 BHK	1568	₹1.29 Cr	Semi-Furnished	3	Family	Sale
+1015	Haryana Properties (Haryana.txt)	3 BHK Independent House	Faridabad Sector 3	Faridabad / Haryana	Independent House / 3 BHK	1701	₹35,000/month	Semi-Furnished	3	Bachelors	Rent
+1016	Haryana Properties (Haryana.txt)	1 BHK Apartment	Karnal Residential Area	Karnal / Haryana	Apartment / 1 BHK	498	₹15,100/month	Unfurnished	1	Family	Rent
+1017	Haryana Properties (Haryana.txt)	3 BHK Builder Floor	Faridabad Residential Area	Faridabad / Haryana	Builder Floor / 3 BHK	1407	₹29,400/month	Fully-Furnished	3	Any	Rent
+1018	Haryana Properties (Haryana.txt)	2 BHK Apartment	Gurugram Colony	Gurugram / Haryana	Apartment / 2 BHK	618	₹17,600/month	Unfurnished	3	Family	Rent
+1019	Haryana Properties (Haryana.txt)	3 BHK Independent House	Karnal Heights	Karnal / Haryana	Independent House / 3 BHK	1762	₹35,900/month	Unfurnished	4	Family	Rent
+1020	Haryana Properties (Haryana.txt)	3 BHK Apartment	Panipat Sector 3	Panipat / Haryana	Apartment / 3 BHK	1440	₹90.43 L	Semi-Furnished	3	Family	Sale
+1021	Haryana Properties (Haryana.txt)	1 BHK Apartment	Gurugram Colony	Gurugram / Haryana	Apartment / 1 BHK	492	₹14,300/month	Semi-Furnished	2	Family	Rent
+1022	Haryana Properties (Haryana.txt)	3 BHK Apartment	Gurugram Central	Gurugram / Haryana	Apartment / 3 BHK	1282	₹26,800/month	Unfurnished	3	Any	Rent
+1023	Haryana Properties (Haryana.txt)	4 BHK Apartment	Karnal Central	Karnal / Haryana	Apartment / 4 BHK	1798	₹1.07 Cr	Fully-Furnished	4	Bachelors	Sale
+1024	Haryana Properties (Haryana.txt)	2 BHK Apartment	Panipat East	Panipat / Haryana	Apartment / 2 BHK	663	₹19,400/month	Fully-Furnished	3	Family	Rent
+1025	Haryana Properties (Haryana.txt)	3 BHK Villa	Faridabad Sector 1	Faridabad / Haryana	Villa / 3 BHK	1361	₹29,000/month	Fully-Furnished	4	Family	Rent
+1026	Haryana Properties (Haryana.txt)	1 BHK Villa	Panipat Sector 3	Panipat / Haryana	Villa / 1 BHK	648	₹57.06 L	Fully-Furnished	1	Bachelors	Sale
+1027	Haryana Properties (Haryana.txt)	3 BHK Apartment	Faridabad Sector 3	Faridabad / Haryana	Apartment / 3 BHK	1256	₹93.77 L	Semi-Furnished	2	Bachelors	Sale
+1028	Haryana Properties (Haryana.txt)	1 BHK Studio	Karnal Sector 2	Karnal / Haryana	Studio / 1 BHK	355	₹44.67 L	Fully-Furnished	1	Family	Sale
+1029	Haryana Properties (Haryana.txt)	3 BHK Apartment	Panipat Sector 1	Panipat / Haryana	Apartment / 3 BHK	995	₹26,700/month	Semi-Furnished	3	Family	Rent
+1030	Haryana Properties (Haryana.txt)	2 BHK Builder Floor	Gurugram Residential Area	Gurugram / Haryana	Builder Floor / 2 BHK	809	₹22,200/month	Semi-Furnished	1	Any	Rent
+1031	Haryana Properties (Haryana.txt)	2 BHK Builder Floor	Faridabad South	Faridabad / Haryana	Builder Floor / 2 BHK	843	₹22,300/month	Unfurnished	2	Family	Rent
+1032	Haryana Properties (Haryana.txt)	4 BHK Apartment	Panipat Extension	Panipat / Haryana	Apartment / 4 BHK	1860	₹35,800/month	Semi-Furnished	5	Family	Rent
+1033	Haryana Properties (Haryana.txt)	2 BHK Apartment	Gurugram South	Gurugram / Haryana	Apartment / 2 BHK	693	₹82.92 L	Semi-Furnished	2	Bachelors	Sale
+1034	Haryana Properties (Haryana.txt)	1 BHK Apartment	Panipat Town Centre	Panipat / Haryana	Apartment / 1 BHK	574	₹13,800/month	Unfurnished	1	Bachelors	Rent
+1035	Haryana Properties (Haryana.txt)	2 BHK Independent House	Gurugram South	Gurugram / Haryana	Independent House / 2 BHK	977	₹64.94 L	Unfurnished	2	Family	Sale
+1036	Haryana Properties (Haryana.txt)	2 BHK Apartment	Karnal Central	Karnal / Haryana	Apartment / 2 BHK	883	₹61.24 L	Unfurnished	2	Family	Sale
+1037	Haryana Properties (Haryana.txt)	1 BHK Builder Floor	Karnal North	Karnal / Haryana	Builder Floor / 1 BHK	528	₹38.45 L	Unfurnished	1	Any	Sale
+1038	Haryana Properties (Haryana.txt)	4 BHK Apartment	Gurugram Central	Gurugram / Haryana	Apartment / 4 BHK	1607	₹1.27 Cr	Semi-Furnished	5	Any	Sale
+1039	Haryana Properties (Haryana.txt)	1 BHK Apartment	Panipat Residential Area	Panipat / Haryana	Apartment / 1 BHK	412	₹46.03 L	Semi-Furnished	1	Family	Sale
+1040	Haryana Properties (Haryana.txt)	4 BHK Apartment	Karnal South	Karnal / Haryana	Apartment / 4 BHK	1613	₹1.51 Cr	Semi-Furnished	5	Family	Sale
+1041	Haryana Properties (Haryana.txt)	2 BHK Independent House	Karnal West	Karnal / Haryana	Independent House / 2 BHK	942	₹69.66 L	Semi-Furnished	2	Bachelors	Sale
+1042	Haryana Properties (Haryana.txt)	3 BHK Apartment	Panipat Town Centre	Panipat / Haryana	Apartment / 3 BHK	1180	₹30,100/month	Semi-Furnished	4	Family	Rent
+1043	Haryana Properties (Haryana.txt)	4 BHK Apartment	Karnal North	Karnal / Haryana	Apartment / 4 BHK	1461	₹33,900/month	Fully-Furnished	3	Bachelors	Rent
+1044	Haryana Properties (Haryana.txt)	3 BHK Apartment	Faridabad Town Centre	Faridabad / Haryana	Apartment / 3 BHK	1204	₹1.16 Cr	Semi-Furnished	3	Bachelors	Sale
+1045	Haryana Properties (Haryana.txt)	3 BHK Apartment	Karnal East	Karnal / Haryana	Apartment / 3 BHK	1198	₹1.08 Cr	Unfurnished	3	Family	Sale
+1046	Haryana Properties (Haryana.txt)	2 BHK Villa	Karnal Colony	Karnal / Haryana	Villa / 2 BHK	810	₹19,800/month	Unfurnished	2	Family	Rent
+1047	Haryana Properties (Haryana.txt)	3 BHK Apartment	Panipat South	Panipat / Haryana	Apartment / 3 BHK	1108	₹26,200/month	Semi-Furnished	2	Bachelors	Rent
+1048	Haryana Properties (Haryana.txt)	2 BHK Villa	Karnal Residential Area	Karnal / Haryana	Villa / 2 BHK	1150	₹79.03 L	Unfurnished	2	Family	Sale
+1049	Haryana Properties (Haryana.txt)	1 BHK Apartment	Gurugram Town Centre	Gurugram / Haryana	Apartment / 1 BHK	509	₹52.23 L	Unfurnished	1	Family	Sale
+1050	Haryana Properties (Haryana.txt)	2 BHK Apartment	Gurugram Sector 3	Gurugram / Haryana	Apartment / 2 BHK	1070	₹23,800/month	Unfurnished	2	Family	Rent
+1051	Haryana Properties (Haryana.txt)	2 BHK Builder Floor	Karnal Main Road	Karnal / Haryana	Builder Floor / 2 BHK	804	₹79.59 L	Semi-Furnished	3	Any	Sale
+1052	Haryana Properties (Haryana.txt)	2 BHK Apartment	Karnal Sector 2	Karnal / Haryana	Apartment / 2 BHK	1140	₹24,100/month	Semi-Furnished	1	Family	Rent
+1053	Haryana Properties (Haryana.txt)	2 BHK Apartment	Karnal Main Road	Karnal / Haryana	Apartment / 2 BHK	702	₹21,800/month	Semi-Furnished	2	Bachelors	Rent
+1054	Haryana Properties (Haryana.txt)	4 BHK Apartment	Panipat Colony	Panipat / Haryana	Apartment / 4 BHK	1548	₹35,400/month	Fully-Furnished	4	Bachelors	Rent
+1055	Haryana Properties (Haryana.txt)	2 BHK Apartment	Karnal Nagar	Karnal / Haryana	Apartment / 2 BHK	844	₹23,500/month	Semi-Furnished	1	Family	Rent
+1056	Haryana Properties (Haryana.txt)	3 BHK Builder Floor	Gurugram Sector 1	Gurugram / Haryana	Builder Floor / 3 BHK	1254	₹94.49 L	Unfurnished	2	Any	Sale
+1057	Haryana Properties (Haryana.txt)	2 BHK Villa	Gurugram Colony	Gurugram / Haryana	Villa / 2 BHK	1114	₹24,700/month	Unfurnished	1	Bachelors	Rent
+1058	Haryana Properties (Haryana.txt)	2 BHK Apartment	Gurugram Residential Area	Gurugram / Haryana	Apartment / 2 BHK	949	₹22,700/month	Semi-Furnished	2	Any	Rent
+1059	Haryana Properties (Haryana.txt)	3 BHK Apartment	Faridabad Sector 2	Faridabad / Haryana	Apartment / 3 BHK	1387	₹27,000/month	Fully-Furnished	2	Any	Rent
+1060	Haryana Properties (Haryana.txt)	2 BHK Apartment	Gurugram Central	Gurugram / Haryana	Apartment / 2 BHK	665	₹20,700/month	Fully-Furnished	2	Family	Rent
+1061	Haryana Properties (Haryana.txt)	1 BHK Apartment	Gurugram West	Gurugram / Haryana	Apartment / 1 BHK	491	₹52.82 L	Fully-Furnished	1	Any	Sale
+1062	Haryana Properties (Haryana.txt)	2 BHK Apartment	Karnal East	Karnal / Haryana	Apartment / 2 BHK	837	₹83.16 L	Semi-Furnished	1	Family	Sale
+1063	Haryana Properties (Haryana.txt)	2 BHK Apartment	Karnal Sector 1	Karnal / Haryana	Apartment / 2 BHK	835	₹62.19 L	Semi-Furnished	2	Any	Sale
+1064	Haryana Properties (Haryana.txt)	2 BHK Apartment	Karnal Sector 2	Karnal / Haryana	Apartment / 2 BHK	800	₹67.08 L	Semi-Furnished	2	Family	Sale
+1065	Haryana Properties (Haryana.txt)	3 BHK Villa	Panipat West	Panipat / Haryana	Villa / 3 BHK	1822	₹25,500/month	Unfurnished	3	Family	Rent
+1066	Haryana Properties (Haryana.txt)	2 BHK Builder Floor	Karnal Sector 3	Karnal / Haryana	Builder Floor / 2 BHK	766	₹81.87 L	Semi-Furnished	2	Family	Sale
+1067	Haryana Properties (Haryana.txt)	1 BHK Studio	Gurugram Residential Area	Gurugram / Haryana	Studio / 1 BHK	358	₹37.69 L	Semi-Furnished	1	Bachelors	Sale
+1068	Haryana Properties (Haryana.txt)	2 BHK Apartment	Karnal Town Centre	Karnal / Haryana	Apartment / 2 BHK	838	₹66.07 L	Unfurnished	1	Family	Sale
+1069	Haryana Properties (Haryana.txt)	1 BHK Apartment	Karnal Heights	Karnal / Haryana	Apartment / 1 BHK	452	₹48.94 L	Fully-Furnished	1	Any	Sale
+1070	Haryana Properties (Haryana.txt)	3 BHK Apartment	Panipat Main Road	Panipat / Haryana	Apartment / 3 BHK	1225	₹84.60 L	Semi-Furnished	3	Any	Sale
+1071	Haryana Properties (Haryana.txt)	3 BHK Apartment	Panipat Colony	Panipat / Haryana	Apartment / 3 BHK	1348	₹97.80 L	Semi-Furnished	4	Bachelors	Sale
+1072	Haryana Properties (Haryana.txt)	5 BHK Independent House	Karnal Main Road	Karnal / Haryana	Independent House / 5 BHK	2893	₹1.80 Cr	Unfurnished	5	Bachelors	Sale
+1073	Haryana Properties (Haryana.txt)	3 BHK Independent House	Panipat North	Panipat / Haryana	Independent House / 3 BHK	1710	₹29,100/month	Unfurnished	4	Bachelors	Rent
+1074	Haryana Properties (Haryana.txt)	2 BHK Apartment	Gurugram Main Road	Gurugram / Haryana	Apartment / 2 BHK	821	₹82.88 L	Semi-Furnished	2	Any	Sale
+1075	Haryana Properties (Haryana.txt)	2 BHK Villa	Faridabad Sector 1	Faridabad / Haryana	Villa / 2 BHK	1296	₹20,100/month	Semi-Furnished	2	Any	Rent
+1076	Haryana Properties (Haryana.txt)	1 BHK Builder Floor	Gurugram South	Gurugram / Haryana	Builder Floor / 1 BHK	588	₹16,000/month	Unfurnished	1	Bachelors	Rent
+1077	Haryana Properties (Haryana.txt)	1 BHK Villa	Panipat Sector 3	Panipat / Haryana	Villa / 1 BHK	475	₹13,800/month	Semi-Furnished	1	Family	Rent
+1078	Haryana Properties (Haryana.txt)	2 BHK Apartment	Faridabad South	Faridabad / Haryana	Apartment / 2 BHK	958	₹65.36 L	Semi-Furnished	3	Any	Sale
+1079	Haryana Properties (Haryana.txt)	4 BHK Apartment	Karnal Colony	Karnal / Haryana	Apartment / 4 BHK	1789	₹1.38 Cr	Semi-Furnished	4	Family	Sale
+1080	Haryana Properties (Haryana.txt)	3 BHK Independent House	Karnal Main Road	Karnal / Haryana	Independent House / 3 BHK	1389	₹26,300/month	Semi-Furnished	4	Bachelors	Rent
+1081	Haryana Properties (Haryana.txt)	1 BHK Villa	Gurugram Town Centre	Gurugram / Haryana	Villa / 1 BHK	711	₹44.93 L	Unfurnished	1	Bachelors	Sale
+1082	Haryana Properties (Haryana.txt)	3 BHK Apartment	Panipat East	Panipat / Haryana	Apartment / 3 BHK	995	₹81.79 L	Unfurnished	4	Family	Sale
+1083	Haryana Properties (Haryana.txt)	3 BHK Apartment	Karnal Main Road	Karnal / Haryana	Apartment / 3 BHK	1139	₹22,000/month	Fully-Furnished	2	Family	Rent
+1084	Haryana Properties (Haryana.txt)	1 BHK Villa	Faridabad Town Centre	Faridabad / Haryana	Villa / 1 BHK	797	₹57.77 L	Semi-Furnished	1	Family	Sale
+1085	Haryana Properties (Haryana.txt)	3 BHK Builder Floor	Faridabad East	Faridabad / Haryana	Builder Floor / 3 BHK	785	₹1.07 Cr	Fully-Furnished	3	Family	Sale
+1086	Haryana Properties (Haryana.txt)	1 BHK Studio	Karnal Residential Area	Karnal / Haryana	Studio / 1 BHK	370	₹41.80 L	Semi-Furnished	2	Family	Sale
+1087	Haryana Properties (Haryana.txt)	3 BHK Independent House	Panipat Sector 3	Panipat / Haryana	Independent House / 3 BHK	1543	₹24,900/month	Semi-Furnished	2	Any	Rent
+1088	Haryana Properties (Haryana.txt)	3 BHK Builder Floor	Gurugram Nagar	Gurugram / Haryana	Builder Floor / 3 BHK	1297	₹82.85 L	Semi-Furnished	3	Any	Sale
+1089	Haryana Properties (Haryana.txt)	2 BHK Villa	Panipat East	Panipat / Haryana	Villa / 2 BHK	755	₹76.78 L	Fully-Furnished	2	Bachelors	Sale
+1090	Haryana Properties (Haryana.txt)	3 BHK Apartment	Faridabad Sector 2	Faridabad / Haryana	Apartment / 3 BHK	1213	₹1.11 Cr	Unfurnished	3	Any	Sale
+1091	Haryana Properties (Haryana.txt)	2 BHK Apartment	Karnal Colony	Karnal / Haryana	Apartment / 2 BHK	861	₹79.82 L	Fully-Furnished	2	Family	Sale
+1092	Haryana Properties (Haryana.txt)	3 BHK Apartment	Gurugram Sector 3	Gurugram / Haryana	Apartment / 3 BHK	1336	₹1 Cr	Semi-Furnished	4	Family	Sale
+1093	Haryana Properties (Haryana.txt)	3 BHK Independent House	Gurugram Sector 1	Gurugram / Haryana	Independent House / 3 BHK	1571	₹26,500/month	Unfurnished	3	Family	Rent
+1094	Haryana Properties (Haryana.txt)	1 BHK Apartment	Panipat Heights	Panipat / Haryana	Apartment / 1 BHK	547	₹49.82 L	Fully-Furnished	2	Family	Sale
+1095	Haryana Properties (Haryana.txt)	1 BHK Independent House	Faridabad Heights	Faridabad / Haryana	Independent House / 1 BHK	516	₹38.65 L	Unfurnished	1	Bachelors	Sale
+1096	Haryana Properties (Haryana.txt)	4 BHK Apartment	Panipat Heights	Panipat / Haryana	Apartment / 4 BHK	1473	₹1.26 Cr	Fully-Furnished	3	Bachelors	Sale
+1097	Haryana Properties (Haryana.txt)	1 BHK Apartment	Gurugram Heights	Gurugram / Haryana	Apartment / 1 BHK	353	₹12,500/month	Fully-Furnished	2	Family	Rent
+1098	Haryana Properties (Haryana.txt)	3 BHK Independent House	Panipat Town Centre	Panipat / Haryana	Independent House / 3 BHK	1508	₹26,400/month	Fully-Furnished	2	Bachelors	Rent
+1099	Haryana Properties (Haryana.txt)	3 BHK Apartment	Gurugram Heights	Gurugram / Haryana	Apartment / 3 BHK	1387	₹97.36 L	Unfurnished	3	Bachelors	Sale
+1100	Haryana Properties (Haryana.txt)	2 BHK Apartment	Faridabad Sector 1	Faridabad / Haryana	Apartment / 2 BHK	791	₹65.56 L	Semi-Furnished	2	Family	Sale
+1101	Haryana Properties (Haryana.txt)	4 BHK Apartment	Panipat Sector 2	Panipat / Haryana	Apartment / 4 BHK	1427	₹32,000/month	Unfurnished	4	Any	Rent
+1102	Haryana Properties (Haryana.txt)	2 BHK Villa	Karnal Central	Karnal / Haryana	Villa / 2 BHK	1001	₹21,200/month	Semi-Furnished	1	Family	Rent
+1103	Haryana Properties (Haryana.txt)	3 BHK Apartment	Karnal Town Centre	Karnal / Haryana	Apartment / 3 BHK	1114	₹30,000/month	Fully-Furnished	3	Family	Rent
+1104	Haryana Properties (Haryana.txt)	1 BHK Independent House	Panipat Heights	Panipat / Haryana	Independent House / 1 BHK	706	₹13,100/month	Unfurnished	1	Bachelors	Rent
+1105	Haryana Properties (Haryana.txt)	2 BHK Apartment	Karnal Sector 2	Karnal / Haryana	Apartment / 2 BHK	943	₹19,000/month	Semi-Furnished	2	Family	Rent
+1106	Haryana Properties (Haryana.txt)	3 BHK Apartment	Panipat Town Centre	Panipat / Haryana	Apartment / 3 BHK	984	₹89.88 L	Fully-Furnished	3	Any	Sale
+1107	Haryana Properties (Haryana.txt)	3 BHK Apartment	Panipat Sector 2	Panipat / Haryana	Apartment / 3 BHK	875	₹26,600/month	Semi-Furnished	4	Family	Rent
+1108	Haryana Properties (Haryana.txt)	2 BHK Villa	Panipat East	Panipat / Haryana	Villa / 2 BHK	1191	₹18,900/month	Unfurnished	1	Bachelors	Rent
+1109	Haryana Properties (Haryana.txt)	3 BHK Apartment	Gurugram Main Road	Gurugram / Haryana	Apartment / 3 BHK	1067	₹92.95 L	Fully-Furnished	3	Any	Sale
+1110	Haryana Properties (Haryana.txt)	2 BHK Builder Floor	Faridabad Residential Area	Faridabad / Haryana	Builder Floor / 2 BHK	1090	₹24,200/month	Semi-Furnished	2	Bachelors	Rent
+1111	Haryana Properties (Haryana.txt)	1 BHK Apartment	Faridabad Heights	Faridabad / Haryana	Apartment / 1 BHK	604	₹46.96 L	Semi-Furnished	1	Any	Sale
+1112	Haryana Properties (Haryana.txt)	1 BHK Apartment	Karnal Colony	Karnal / Haryana	Apartment / 1 BHK	586	₹55.24 L	Unfurnished	1	Any	Sale
+1113	Haryana Properties (Haryana.txt)	1 BHK Studio	Panipat South	Panipat / Haryana	Studio / 1 BHK	406	₹46.46 L	Semi-Furnished	1	Family	Sale
+1114	Haryana Properties (Haryana.txt)	2 BHK Apartment	Karnal Sector 3	Karnal / Haryana	Apartment / 2 BHK	823	₹21,000/month	Semi-Furnished	2	Family	Rent
+1115	Haryana Properties (Haryana.txt)	2 BHK Apartment	Panipat West	Panipat / Haryana	Apartment / 2 BHK	995	₹88.98 L	Semi-Furnished	1	Family	Sale
+1116	Haryana Properties (Haryana.txt)	2 BHK Apartment	Gurugram West	Gurugram / Haryana	Apartment / 2 BHK	762	₹18,200/month	Semi-Furnished	2	Any	Rent
+1117	Haryana Properties (Haryana.txt)	4 BHK Builder Floor	Panipat Extension	Panipat / Haryana	Builder Floor / 4 BHK	1905	₹1.16 Cr	Fully-Furnished	4	Bachelors	Sale
+1118	Haryana Properties (Haryana.txt)	2 BHK Apartment	Faridabad Extension	Faridabad / Haryana	Apartment / 2 BHK	831	₹18,900/month	Fully-Furnished	1	Family	Rent
+1119	Haryana Properties (Haryana.txt)	1 BHK Builder Floor	Faridabad Town Centre	Faridabad / Haryana	Builder Floor / 1 BHK	616	₹55.88 L	Fully-Furnished	2	Any	Sale
+1120	Haryana Properties (Haryana.txt)	1 BHK Apartment	Karnal Main Road	Karnal / Haryana	Apartment / 1 BHK	517	₹15,500/month	Unfurnished	2	Any	Rent
+1121	Haryana Properties (Haryana.txt)	4 BHK Apartment	Faridabad East	Faridabad / Haryana	Apartment / 4 BHK	1477	₹37,000/month	Semi-Furnished	4	Any	Rent
+1122	Haryana Properties (Haryana.txt)	1 BHK Studio	Karnal Sector 2	Karnal / Haryana	Studio / 1 BHK	330	₹42.60 L	Fully-Furnished	1	Bachelors	Sale
+1123	Haryana Properties (Haryana.txt)	4 BHK Builder Floor	Panipat Town Centre	Panipat / Haryana	Builder Floor / 4 BHK	1626	₹1.41 Cr	Semi-Furnished	4	Any	Sale
+1124	Haryana Properties (Haryana.txt)	5 BHK Apartment	Panipat West	Panipat / Haryana	Apartment / 5 BHK	1934	₹46,200/month	Semi-Furnished	5	Family	Rent
+1125	Haryana Properties (Haryana.txt)	2 BHK Apartment	Panipat Central	Panipat / Haryana	Apartment / 2 BHK	847	₹76.74 L	Unfurnished	2	Bachelors	Sale
+1126	Haryana Properties (Haryana.txt)	3 BHK Builder Floor	Karnal North	Karnal / Haryana	Builder Floor / 3 BHK	1482	₹34,300/month	Unfurnished	3	Bachelors	Rent
+1127	Haryana Properties (Haryana.txt)	2 BHK Apartment	Karnal Central	Karnal / Haryana	Apartment / 2 BHK	831	₹71.52 L	Semi-Furnished	2	Family	Sale
+1128	Haryana Properties (Haryana.txt)	2 BHK Villa	Gurugram East	Gurugram / Haryana	Villa / 2 BHK	1228	₹83.42 L	Semi-Furnished	2	Family	Sale
+1129	Haryana Properties (Haryana.txt)	4 BHK Independent House	Faridabad Central	Faridabad / Haryana	Independent House / 4 BHK	1588	₹1.08 Cr	Unfurnished	4	Bachelors	Sale
+1130	Haryana Properties (Haryana.txt)	2 BHK Villa	Gurugram Sector 1	Gurugram / Haryana	Villa / 2 BHK	1009	₹80.50 L	Semi-Furnished	3	Family	Sale
+1131	Haryana Properties (Haryana.txt)	1 BHK Studio	Karnal Extension	Karnal / Haryana	Studio / 1 BHK	382	₹48.42 L	Unfurnished	1	Family	Sale
+1132	Haryana Properties (Haryana.txt)	1 BHK Apartment	Karnal Nagar	Karnal / Haryana	Apartment / 1 BHK	636	₹12,000/month	Semi-Furnished	2	Any	Rent
+1133	Haryana Properties (Haryana.txt)	1 BHK Apartment	Faridabad Sector 1	Faridabad / Haryana	Apartment / 1 BHK	488	₹42.92 L	Fully-Furnished	1	Family	Sale
+1134	Haryana Properties (Haryana.txt)	3 BHK Apartment	Panipat East	Panipat / Haryana	Apartment / 3 BHK	1443	₹1.07 Cr	Fully-Furnished	3	Bachelors	Sale
+1135	Haryana Properties (Haryana.txt)	1 BHK Villa	Karnal East	Karnal / Haryana	Villa / 1 BHK	569	₹13,600/month	Fully-Furnished	1	Any	Rent
+1136	Haryana Properties (Haryana.txt)	2 BHK Villa	Panipat South	Panipat / Haryana	Villa / 2 BHK	1120	₹88.30 L	Unfurnished	2	Bachelors	Sale
+1137	Haryana Properties (Haryana.txt)	4 BHK Apartment	Panipat Sector 2	Panipat / Haryana	Apartment / 4 BHK	1952	₹30,600/month	Fully-Furnished	4	Any	Rent
+1138	Haryana Properties (Haryana.txt)	2 BHK Apartment	Gurugram Town Centre	Gurugram / Haryana	Apartment / 2 BHK	974	₹24,200/month	Unfurnished	3	Any	Rent
+1139	Haryana Properties (Haryana.txt)	2 BHK Independent House	Faridabad Heights	Faridabad / Haryana	Independent House / 2 BHK	779	₹65.96 L	Fully-Furnished	3	Bachelors	Sale
+1140	Haryana Properties (Haryana.txt)	2 BHK Independent House	Faridabad North	Faridabad / Haryana	Independent House / 2 BHK	884	₹66.75 L	Semi-Furnished	2	Family	Sale
+1141	Haryana Properties (Haryana.txt)	3 BHK Independent House	Karnal North	Karnal / Haryana	Independent House / 3 BHK	1843	₹1.06 Cr	Semi-Furnished	2	Bachelors	Sale
+1142	Haryana Properties (Haryana.txt)	5 BHK Apartment	Karnal South	Karnal / Haryana	Apartment / 5 BHK	2650	₹52,700/month	Unfurnished	6	Family	Rent
+1143	Haryana Properties (Haryana.txt)	3 BHK Apartment	Gurugram Sector 3	Gurugram / Haryana	Apartment / 3 BHK	1185	₹87.70 L	Semi-Furnished	3	Family	Sale
+1144	Haryana Properties (Haryana.txt)	4 BHK Independent House	Panipat Residential Area	Panipat / Haryana	Independent House / 4 BHK	2182	₹43,600/month	Unfurnished	5	Family	Rent
+1145	Haryana Properties (Haryana.txt)	4 BHK Apartment	Gurugram Nagar	Gurugram / Haryana	Apartment / 4 BHK	1687	₹29,000/month	Fully-Furnished	4	Family	Rent
+1146	Haryana Properties (Haryana.txt)	4 BHK Builder Floor	Faridabad South	Faridabad / Haryana	Builder Floor / 4 BHK	1880	₹1.49 Cr	Unfurnished	5	Any	Sale
+1147	Haryana Properties (Haryana.txt)	4 BHK Apartment	Karnal Town Centre	Karnal / Haryana	Apartment / 4 BHK	1895	₹38,300/month	Semi-Furnished	4	Bachelors	Rent
+1148	Haryana Properties (Haryana.txt)	4 BHK Apartment	Panipat Sector 3	Panipat / Haryana	Apartment / 4 BHK	2223	₹1.17 Cr	Semi-Furnished	4	Any	Sale
+1149	Haryana Properties (Haryana.txt)	2 BHK Villa	Faridabad Colony	Faridabad / Haryana	Villa / 2 BHK	971	₹80.55 L	Fully-Furnished	2	Any	Sale
+1150	Haryana Properties (Haryana.txt)	1 BHK Studio	Faridabad East	Faridabad / Haryana	Studio / 1 BHK	397	₹12,900/month	Semi-Furnished	2	Family	Rent
+1151	Haryana Properties (Haryana.txt)	2 BHK Apartment	Karnal South	Karnal / Haryana	Apartment / 2 BHK	740	₹67.82 L	Semi-Furnished	2	Bachelors	Sale
+1152	Haryana Properties (Haryana.txt)	1 BHK Apartment	Panipat Main Road	Panipat / Haryana	Apartment / 1 BHK	599	₹53.79 L	Fully-Furnished	1	Any	Sale
+1153	Haryana Properties (Haryana.txt)	3 BHK Apartment	Faridabad Town Centre	Faridabad / Haryana	Apartment / 3 BHK	969	₹79.66 L	Semi-Furnished	4	Any	Sale
+1154	Haryana Properties (Haryana.txt)	3 BHK Independent House	Panipat Town Centre	Panipat / Haryana	Independent House / 3 BHK	1806	₹1.11 Cr	Semi-Furnished	3	Any	Sale
+1155	Haryana Properties (Haryana.txt)	3 BHK Apartment	Panipat Colony	Panipat / Haryana	Apartment / 3 BHK	1630	₹1.30 Cr	Unfurnished	2	Bachelors	Sale
+1156	Haryana Properties (Haryana.txt)	4 BHK Apartment	Panipat Town Centre	Panipat / Haryana	Apartment / 4 BHK	1858	₹1.48 Cr	Unfurnished	5	Family	Sale
+1157	Haryana Properties (Haryana.txt)	3 BHK Apartment	Karnal Town Centre	Karnal / Haryana	Apartment / 3 BHK	1126	₹24,900/month	Unfurnished	4	Bachelors	Rent
+1158	Haryana Properties (Haryana.txt)	3 BHK Apartment	Gurugram Sector 1	Gurugram / Haryana	Apartment / 3 BHK	1400	₹26,200/month	Semi-Furnished	3	Any	Rent
+1159	Haryana Properties (Haryana.txt)	2 BHK Independent House	Gurugram Central	Gurugram / Haryana	Independent House / 2 BHK	1261	₹21,100/month	Semi-Furnished	3	Any	Rent
+1160	Haryana Properties (Haryana.txt)	3 BHK Apartment	Karnal Central	Karnal / Haryana	Apartment / 3 BHK	1063	₹87.38 L	Semi-Furnished	3	Family	Sale
+1161	Haryana Properties (Haryana.txt)	2 BHK Apartment	Karnal Residential Area	Karnal / Haryana	Apartment / 2 BHK	1018	₹87.29 L	Semi-Furnished	2	Bachelors	Sale
+1162	Haryana Properties (Haryana.txt)	2 BHK Apartment	Gurugram East	Gurugram / Haryana	Apartment / 2 BHK	824	₹69.07 L	Semi-Furnished	2	Any	Sale
+1163	Haryana Properties (Haryana.txt)	3 BHK Independent House	Faridabad Colony	Faridabad / Haryana	Independent House / 3 BHK	1191	₹1.15 Cr	Semi-Furnished	4	Bachelors	Sale
+1164	Haryana Properties (Haryana.txt)	2 BHK Independent House	Gurugram Colony	Gurugram / Haryana	Independent House / 2 BHK	764	₹58.55 L	Unfurnished	3	Family	Sale
+1165	Haryana Properties (Haryana.txt)	3 BHK Builder Floor	Gurugram Main Road	Gurugram / Haryana	Builder Floor / 3 BHK	1304	₹1.03 Cr	Semi-Furnished	2	Bachelors	Sale
+1166	Haryana Properties (Haryana.txt)	1 BHK Builder Floor	Faridabad Town Centre	Faridabad / Haryana	Builder Floor / 1 BHK	762	₹47.41 L	Semi-Furnished	2	Family	Sale
+1167	Haryana Properties (Haryana.txt)	3 BHK Independent House	Gurugram Nagar	Gurugram / Haryana	Independent House / 3 BHK	1560	₹1.22 Cr	Semi-Furnished	2	Any	Sale
+1168	Haryana Properties (Haryana.txt)	4 BHK Apartment	Karnal Residential Area	Karnal / Haryana	Apartment / 4 BHK	1544	₹36,700/month	Unfurnished	4	Any	Rent
+1169	Haryana Properties (Haryana.txt)	4 BHK Apartment	Faridabad Main Road	Faridabad / Haryana	Apartment / 4 BHK	2140	₹41,400/month	Semi-Furnished	4	Family	Rent
+1170	Haryana Properties (Haryana.txt)	3 BHK Apartment	Faridabad Colony	Faridabad / Haryana	Apartment / 3 BHK	971	₹80.03 L	Semi-Furnished	3	Bachelors	Sale
+1171	Haryana Properties (Haryana.txt)	1 BHK Studio	Panipat East	Panipat / Haryana	Studio / 1 BHK	453	₹54.10 L	Semi-Furnished	1	Any	Sale
