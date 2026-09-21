@@ -1,0 +1,1172 @@
+No.	Source	Property	Location	City / State	Type / Config	Area	Price / Rent	Furnishing	Bathrooms	Tennants	Listing Type
+1	Rajasthan Properties (Rajasthan.txt)	2 BHK Builder Floor	Jodhpur Central	Jodhpur / Rajasthan	Builder Floor / 2 BHK	930	₹50.58 L	Semi-Furnished	3	Bachelors	Sale
+2	Rajasthan Properties (Rajasthan.txt)	1 BHK Builder Floor	Jodhpur West	Jodhpur / Rajasthan	Builder Floor / 1 BHK	536	₹31.28 L	Semi-Furnished	1	Any	Sale
+3	Rajasthan Properties (Rajasthan.txt)	2 BHK Apartment	Udaipur Nagar	Udaipur / Rajasthan	Apartment / 2 BHK	916	₹49.69 L	Semi-Furnished	2	Bachelors	Sale
+4	Rajasthan Properties (Rajasthan.txt)	2 BHK Apartment	Jodhpur Nagar	Jodhpur / Rajasthan	Apartment / 2 BHK	791	₹15,700/month	Semi-Furnished	3	Bachelors	Rent
+5	Rajasthan Properties (Rajasthan.txt)	3 BHK Builder Floor	Udaipur South	Udaipur / Rajasthan	Builder Floor / 3 BHK	1114	₹64.79 L	Unfurnished	4	Family	Sale
+6	Rajasthan Properties (Rajasthan.txt)	2 BHK Independent House	Jodhpur Sector 2	Jodhpur / Rajasthan	Independent House / 2 BHK	998	₹13,900/month	Semi-Furnished	2	Family	Rent
+7	Rajasthan Properties (Rajasthan.txt)	2 BHK Apartment	Udaipur Sector 1	Udaipur / Rajasthan	Apartment / 2 BHK	807	₹54.76 L	Fully-Furnished	2	Bachelors	Sale
+8	Rajasthan Properties (Rajasthan.txt)	2 BHK Builder Floor	Jodhpur Extension	Jodhpur / Rajasthan	Builder Floor / 2 BHK	992	₹14,200/month	Semi-Furnished	2	Family	Rent
+9	Rajasthan Properties (Rajasthan.txt)	2 BHK Apartment	Udaipur Nagar	Udaipur / Rajasthan	Apartment / 2 BHK	719	₹50.32 L	Fully-Furnished	1	Any	Sale
+10	Rajasthan Properties (Rajasthan.txt)	3 BHK Builder Floor	Kota Colony	Kota / Rajasthan	Builder Floor / 3 BHK	1200	₹72.23 L	Unfurnished	3	Family	Sale
+11	Rajasthan Properties (Rajasthan.txt)	1 BHK Studio	Jaipur Sector 1	Jaipur / Rajasthan	Studio / 1 BHK	356	₹27.61 L	Semi-Furnished	1	Family	Sale
+12	Rajasthan Properties (Rajasthan.txt)	2 BHK Apartment	Jodhpur Sector 3	Jodhpur / Rajasthan	Apartment / 2 BHK	777	₹12,300/month	Fully-Furnished	2	Bachelors	Rent
+13	Rajasthan Properties (Rajasthan.txt)	4 BHK Villa	Kota South	Kota / Rajasthan	Villa / 4 BHK	1837	₹74.35 L	Unfurnished	4	Family	Sale
+14	Rajasthan Properties (Rajasthan.txt)	3 BHK Apartment	Jaipur Residential Area	Jaipur / Rajasthan	Apartment / 3 BHK	1000	₹75.42 L	Fully-Furnished	3	Family	Sale
+15	Rajasthan Properties (Rajasthan.txt)	3 BHK Builder Floor	Kota Residential Area	Kota / Rajasthan	Builder Floor / 3 BHK	1469	₹75.87 L	Semi-Furnished	3	Family	Sale
+16	Rajasthan Properties (Rajasthan.txt)	3 BHK Builder Floor	Kota East	Kota / Rajasthan	Builder Floor / 3 BHK	1266	₹16,400/month	Semi-Furnished	4	Any	Rent
+17	Rajasthan Properties (Rajasthan.txt)	2 BHK Apartment	Udaipur South	Udaipur / Rajasthan	Apartment / 2 BHK	832	₹14,800/month	Semi-Furnished	2	Any	Rent
+18	Rajasthan Properties (Rajasthan.txt)	4 BHK Independent House	Jodhpur North	Jodhpur / Rajasthan	Independent House / 4 BHK	1983	₹20,800/month	Semi-Furnished	3	Bachelors	Rent
+19	Rajasthan Properties (Rajasthan.txt)	1 BHK Builder Floor	Kota Extension	Kota / Rajasthan	Builder Floor / 1 BHK	514	₹36.19 L	Unfurnished	1	Any	Sale
+20	Rajasthan Properties (Rajasthan.txt)	4 BHK Independent House	Jodhpur Town Centre	Jodhpur / Rajasthan	Independent House / 4 BHK	1819	₹96.31 L	Fully-Furnished	3	Family	Sale
+21	Rajasthan Properties (Rajasthan.txt)	2 BHK Builder Floor	Udaipur North	Udaipur / Rajasthan	Builder Floor / 2 BHK	984	₹14,400/month	Semi-Furnished	2	Family	Rent
+22	Rajasthan Properties (Rajasthan.txt)	2 BHK Apartment	Udaipur Town Centre	Udaipur / Rajasthan	Apartment / 2 BHK	737	₹55.64 L	Unfurnished	2	Family	Sale
+23	Rajasthan Properties (Rajasthan.txt)	4 BHK Apartment	Jaipur West	Jaipur / Rajasthan	Apartment / 4 BHK	2220	₹99.90 L	Unfurnished	4	Family	Sale
+24	Rajasthan Properties (Rajasthan.txt)	2 BHK Villa	Udaipur Extension	Udaipur / Rajasthan	Villa / 2 BHK	1081	₹13,000/month	Semi-Furnished	2	Any	Rent
+25	Rajasthan Properties (Rajasthan.txt)	4 BHK Builder Floor	Kota Sector 3	Kota / Rajasthan	Builder Floor / 4 BHK	1800	₹74.78 L	Semi-Furnished	4	Family	Sale
+26	Rajasthan Properties (Rajasthan.txt)	2 BHK Apartment	Udaipur Main Road	Udaipur / Rajasthan	Apartment / 2 BHK	777	₹56.99 L	Fully-Furnished	1	Family	Sale
+27	Rajasthan Properties (Rajasthan.txt)	4 BHK Builder Floor	Jaipur Sector 3	Jaipur / Rajasthan	Builder Floor / 4 BHK	2201	₹94.64 L	Semi-Furnished	4	Any	Sale
+28	Rajasthan Properties (Rajasthan.txt)	3 BHK Apartment	Jodhpur Colony	Jodhpur / Rajasthan	Apartment / 3 BHK	1027	₹71.21 L	Semi-Furnished	3	Family	Sale
+29	Rajasthan Properties (Rajasthan.txt)	2 BHK Independent House	Kota Town Centre	Kota / Rajasthan	Independent House / 2 BHK	1200	₹56.44 L	Fully-Furnished	2	Family	Sale
+30	Rajasthan Properties (Rajasthan.txt)	3 BHK Apartment	Kota Sector 3	Kota / Rajasthan	Apartment / 3 BHK	1466	₹16,400/month	Semi-Furnished	3	Family	Rent
+31	Rajasthan Properties (Rajasthan.txt)	2 BHK Apartment	Kota West	Kota / Rajasthan	Apartment / 2 BHK	1017	₹11,800/month	Fully-Furnished	3	Any	Rent
+32	Rajasthan Properties (Rajasthan.txt)	2 BHK Builder Floor	Jaipur Central	Jaipur / Rajasthan	Builder Floor / 2 BHK	918	₹16,100/month	Fully-Furnished	2	Any	Rent
+33	Rajasthan Properties (Rajasthan.txt)	2 BHK Apartment	Jaipur South	Jaipur / Rajasthan	Apartment / 2 BHK	953	₹60.92 L	Semi-Furnished	3	Family	Sale
+34	Rajasthan Properties (Rajasthan.txt)	3 BHK Builder Floor	Jodhpur Heights	Jodhpur / Rajasthan	Builder Floor / 3 BHK	1087	₹16,600/month	Semi-Furnished	3	Any	Rent
+35	Rajasthan Properties (Rajasthan.txt)	1 BHK Apartment	Kota Sector 2	Kota / Rajasthan	Apartment / 1 BHK	579	₹9,300/month	Semi-Furnished	1	Bachelors	Rent
+36	Rajasthan Properties (Rajasthan.txt)	3 BHK Independent House	Jaipur South	Jaipur / Rajasthan	Independent House / 3 BHK	1181	₹19,800/month	Semi-Furnished	3	Family	Rent
+37	Rajasthan Properties (Rajasthan.txt)	2 BHK Apartment	Jaipur East	Jaipur / Rajasthan	Apartment / 2 BHK	858	₹15,700/month	Fully-Furnished	2	Family	Rent
+38	Rajasthan Properties (Rajasthan.txt)	3 BHK Apartment	Jodhpur Town Centre	Jodhpur / Rajasthan	Apartment / 3 BHK	1512	₹83.63 L	Semi-Furnished	3	Bachelors	Sale
+39	Rajasthan Properties (Rajasthan.txt)	4 BHK Apartment	Kota Sector 2	Kota / Rajasthan	Apartment / 4 BHK	1478	₹79.76 L	Fully-Furnished	4	Bachelors	Sale
+40	Rajasthan Properties (Rajasthan.txt)	5 BHK Apartment	Kota Main Road	Kota / Rajasthan	Apartment / 5 BHK	2123	₹1.02 Cr	Semi-Furnished	4	Family	Sale
+41	Rajasthan Properties (Rajasthan.txt)	1 BHK Independent House	Jaipur Central	Jaipur / Rajasthan	Independent House / 1 BHK	451	₹31.28 L	Semi-Furnished	1	Any	Sale
+42	Rajasthan Properties (Rajasthan.txt)	2 BHK Independent House	Udaipur West	Udaipur / Rajasthan	Independent House / 2 BHK	1009	₹51.83 L	Fully-Furnished	2	Bachelors	Sale
+43	Rajasthan Properties (Rajasthan.txt)	2 BHK Apartment	Jaipur North	Jaipur / Rajasthan	Apartment / 2 BHK	1123	₹65.30 L	Semi-Furnished	3	Family	Sale
+44	Rajasthan Properties (Rajasthan.txt)	4 BHK Apartment	Udaipur Heights	Udaipur / Rajasthan	Apartment / 4 BHK	1848	₹76.60 L	Semi-Furnished	4	Family	Sale
+45	Rajasthan Properties (Rajasthan.txt)	3 BHK Apartment	Jodhpur Town Centre	Jodhpur / Rajasthan	Apartment / 3 BHK	1384	₹77 L	Unfurnished	4	Bachelors	Sale
+46	Rajasthan Properties (Rajasthan.txt)	1 BHK Independent House	Jaipur East	Jaipur / Rajasthan	Independent House / 1 BHK	605	₹34.25 L	Fully-Furnished	1	Family	Sale
+47	Rajasthan Properties (Rajasthan.txt)	3 BHK Builder Floor	Kota Heights	Kota / Rajasthan	Builder Floor / 3 BHK	1472	₹79.54 L	Semi-Furnished	2	Bachelors	Sale
+48	Rajasthan Properties (Rajasthan.txt)	4 BHK Apartment	Jaipur East	Jaipur / Rajasthan	Apartment / 4 BHK	1670	₹73.63 L	Semi-Furnished	3	Any	Sale
+49	Rajasthan Properties (Rajasthan.txt)	3 BHK Builder Floor	Kota Main Road	Kota / Rajasthan	Builder Floor / 3 BHK	1388	₹16,600/month	Unfurnished	2	Any	Rent
+50	Rajasthan Properties (Rajasthan.txt)	1 BHK Apartment	Jodhpur Central	Jodhpur / Rajasthan	Apartment / 1 BHK	534	₹35.83 L	Fully-Furnished	1	Family	Sale
+51	Rajasthan Properties (Rajasthan.txt)	1 BHK Apartment	Jodhpur East	Jodhpur / Rajasthan	Apartment / 1 BHK	531	₹31.99 L	Fully-Furnished	1	Any	Sale
+52	Rajasthan Properties (Rajasthan.txt)	2 BHK Apartment	Jodhpur Main Road	Jodhpur / Rajasthan	Apartment / 2 BHK	742	₹40.51 L	Fully-Furnished	3	Family	Sale
+53	Rajasthan Properties (Rajasthan.txt)	3 BHK Independent House	Jaipur Nagar	Jaipur / Rajasthan	Independent House / 3 BHK	1503	₹64.74 L	Semi-Furnished	3	Any	Sale
+54	Rajasthan Properties (Rajasthan.txt)	2 BHK Villa	Jodhpur Main Road	Jodhpur / Rajasthan	Villa / 2 BHK	948	₹53.79 L	Fully-Furnished	1	Family	Sale
+55	Rajasthan Properties (Rajasthan.txt)	3 BHK Builder Floor	Jaipur East	Jaipur / Rajasthan	Builder Floor / 3 BHK	1259	₹17,700/month	Semi-Furnished	3	Family	Rent
+56	Rajasthan Properties (Rajasthan.txt)	4 BHK Apartment	Jodhpur Sector 1	Jodhpur / Rajasthan	Apartment / 4 BHK	1318	₹68.86 L	Fully-Furnished	5	Family	Sale
+57	Rajasthan Properties (Rajasthan.txt)	3 BHK Builder Floor	Kota Sector 3	Kota / Rajasthan	Builder Floor / 3 BHK	1220	₹57.56 L	Semi-Furnished	3	Any	Sale
+58	Rajasthan Properties (Rajasthan.txt)	1 BHK Studio	Jaipur Main Road	Jaipur / Rajasthan	Studio / 1 BHK	332	₹31.37 L	Fully-Furnished	1	Any	Sale
+59	Rajasthan Properties (Rajasthan.txt)	2 BHK Builder Floor	Jodhpur East	Jodhpur / Rajasthan	Builder Floor / 2 BHK	818	₹13,000/month	Semi-Furnished	2	Bachelors	Rent
+60	Rajasthan Properties (Rajasthan.txt)	3 BHK Apartment	Jodhpur Main Road	Jodhpur / Rajasthan	Apartment / 3 BHK	1398	₹18,500/month	Semi-Furnished	3	Bachelors	Rent
+61	Rajasthan Properties (Rajasthan.txt)	3 BHK Apartment	Jaipur North	Jaipur / Rajasthan	Apartment / 3 BHK	1557	₹19,200/month	Semi-Furnished	2	Family	Rent
+62	Rajasthan Properties (Rajasthan.txt)	2 BHK Apartment	Jaipur West	Jaipur / Rajasthan	Apartment / 2 BHK	762	₹13,700/month	Unfurnished	3	Family	Rent
+63	Rajasthan Properties (Rajasthan.txt)	2 BHK Builder Floor	Jodhpur Town Centre	Jodhpur / Rajasthan	Builder Floor / 2 BHK	744	₹12,300/month	Unfurnished	3	Any	Rent
+64	Rajasthan Properties (Rajasthan.txt)	3 BHK Apartment	Kota Extension	Kota / Rajasthan	Apartment / 3 BHK	1488	₹69.82 L	Unfurnished	3	Family	Sale
+65	Rajasthan Properties (Rajasthan.txt)	3 BHK Apartment	Jodhpur Main Road	Jodhpur / Rajasthan	Apartment / 3 BHK	1242	₹66.17 L	Unfurnished	3	Family	Sale
+66	Rajasthan Properties (Rajasthan.txt)	3 BHK Apartment	Jodhpur Heights	Jodhpur / Rajasthan	Apartment / 3 BHK	1413	₹59.72 L	Semi-Furnished	3	Bachelors	Sale
+67	Rajasthan Properties (Rajasthan.txt)	3 BHK Apartment	Jodhpur Nagar	Jodhpur / Rajasthan	Apartment / 3 BHK	1156	₹22,000/month	Semi-Furnished	3	Family	Rent
+68	Rajasthan Properties (Rajasthan.txt)	3 BHK Apartment	Jodhpur North	Jodhpur / Rajasthan	Apartment / 3 BHK	1398	₹16,100/month	Semi-Furnished	2	Family	Rent
+69	Rajasthan Properties (Rajasthan.txt)	4 BHK Independent House	Udaipur Sector 1	Udaipur / Rajasthan	Independent House / 4 BHK	1863	₹26,800/month	Semi-Furnished	3	Any	Rent
+70	Rajasthan Properties (Rajasthan.txt)	2 BHK Independent House	Udaipur Extension	Udaipur / Rajasthan	Independent House / 2 BHK	1062	₹12,500/month	Fully-Furnished	2	Family	Rent
+71	Rajasthan Properties (Rajasthan.txt)	3 BHK Independent House	Udaipur Heights	Udaipur / Rajasthan	Independent House / 3 BHK	1623	₹75.02 L	Semi-Furnished	3	Family	Sale
+72	Rajasthan Properties (Rajasthan.txt)	3 BHK Apartment	Kota Town Centre	Kota / Rajasthan	Apartment / 3 BHK	1419	₹19,400/month	Fully-Furnished	3	Family	Rent
+73	Rajasthan Properties (Rajasthan.txt)	2 BHK Apartment	Jaipur North	Jaipur / Rajasthan	Apartment / 2 BHK	746	₹13,500/month	Semi-Furnished	1	Family	Rent
+74	Rajasthan Properties (Rajasthan.txt)	5 BHK Apartment	Kota East	Kota / Rajasthan	Apartment / 5 BHK	2553	₹31,800/month	Semi-Furnished	4	Any	Rent
+75	Rajasthan Properties (Rajasthan.txt)	5 BHK Independent House	Jodhpur Sector 2	Jodhpur / Rajasthan	Independent House / 5 BHK	2394	₹1.31 Cr	Fully-Furnished	5	Family	Sale
+76	Rajasthan Properties (Rajasthan.txt)	1 BHK Villa	Jaipur Heights	Jaipur / Rajasthan	Villa / 1 BHK	669	₹32.13 L	Semi-Furnished	1	Family	Sale
+77	Rajasthan Properties (Rajasthan.txt)	4 BHK Apartment	Udaipur East	Udaipur / Rajasthan	Apartment / 4 BHK	2206	₹25,900/month	Semi-Furnished	4	Family	Rent
+78	Rajasthan Properties (Rajasthan.txt)	3 BHK Builder Floor	Jaipur Nagar	Jaipur / Rajasthan	Builder Floor / 3 BHK	1558	₹76.63 L	Unfurnished	4	Family	Sale
+79	Rajasthan Properties (Rajasthan.txt)	4 BHK Independent House	Kota Main Road	Kota / Rajasthan	Independent House / 4 BHK	1952	₹91.23 L	Semi-Furnished	3	Bachelors	Sale
+80	Rajasthan Properties (Rajasthan.txt)	2 BHK Apartment	Jodhpur Main Road	Jodhpur / Rajasthan	Apartment / 2 BHK	859	₹11,800/month	Semi-Furnished	1	Bachelors	Rent
+81	Rajasthan Properties (Rajasthan.txt)	2 BHK Villa	Jaipur Sector 3	Jaipur / Rajasthan	Villa / 2 BHK	1476	₹62.84 L	Fully-Furnished	1	Bachelors	Sale
+82	Rajasthan Properties (Rajasthan.txt)	1 BHK Studio	Jodhpur Sector 2	Jodhpur / Rajasthan	Studio / 1 BHK	487	₹10,600/month	Fully-Furnished	1	Family	Rent
+83	Rajasthan Properties (Rajasthan.txt)	4 BHK Apartment	Udaipur Town Centre	Udaipur / Rajasthan	Apartment / 4 BHK	1845	₹90.57 L	Semi-Furnished	4	Any	Sale
+84	Rajasthan Properties (Rajasthan.txt)	2 BHK Independent House	Jaipur Sector 1	Jaipur / Rajasthan	Independent House / 2 BHK	1067	₹50.74 L	Semi-Furnished	2	Bachelors	Sale
+85	Rajasthan Properties (Rajasthan.txt)	5 BHK Builder Floor	Kota North	Kota / Rajasthan	Builder Floor / 5 BHK	1899	₹91.21 L	Semi-Furnished	5	Family	Sale
+86	Rajasthan Properties (Rajasthan.txt)	3 BHK Apartment	Jodhpur Sector 3	Jodhpur / Rajasthan	Apartment / 3 BHK	1102	₹74.67 L	Semi-Furnished	3	Family	Sale
+87	Rajasthan Properties (Rajasthan.txt)	3 BHK Builder Floor	Udaipur Central	Udaipur / Rajasthan	Builder Floor / 3 BHK	1458	₹69.48 L	Semi-Furnished	2	Any	Sale
+88	Rajasthan Properties (Rajasthan.txt)	3 BHK Apartment	Jodhpur Nagar	Jodhpur / Rajasthan	Apartment / 3 BHK	1392	₹21,100/month	Fully-Furnished	4	Bachelors	Rent
+89	Rajasthan Properties (Rajasthan.txt)	4 BHK Builder Floor	Kota Central	Kota / Rajasthan	Builder Floor / 4 BHK	1850	₹81.08 L	Semi-Furnished	4	Any	Sale
+90	Rajasthan Properties (Rajasthan.txt)	3 BHK Independent House	Udaipur North	Udaipur / Rajasthan	Independent House / 3 BHK	1502	₹23,600/month	Fully-Furnished	3	Family	Rent
+91	Rajasthan Properties (Rajasthan.txt)	3 BHK Villa	Jaipur East	Jaipur / Rajasthan	Villa / 3 BHK	1103	₹17,200/month	Unfurnished	3	Any	Rent
+92	Rajasthan Properties (Rajasthan.txt)	1 BHK Builder Floor	Udaipur Colony	Udaipur / Rajasthan	Builder Floor / 1 BHK	425	₹30.02 L	Fully-Furnished	2	Bachelors	Sale
+93	Rajasthan Properties (Rajasthan.txt)	2 BHK Independent House	Kota Extension	Kota / Rajasthan	Independent House / 2 BHK	1139	₹16,600/month	Fully-Furnished	2	Family	Rent
+94	Rajasthan Properties (Rajasthan.txt)	2 BHK Apartment	Jaipur West	Jaipur / Rajasthan	Apartment / 2 BHK	696	₹15,500/month	Semi-Furnished	2	Family	Rent
+95	Rajasthan Properties (Rajasthan.txt)	4 BHK Apartment	Kota Residential Area	Kota / Rajasthan	Apartment / 4 BHK	1608	₹24,100/month	Unfurnished	5	Family	Rent
+96	Rajasthan Properties (Rajasthan.txt)	2 BHK Independent House	Kota South	Kota / Rajasthan	Independent House / 2 BHK	1256	₹48.65 L	Semi-Furnished	1	Family	Sale
+97	Rajasthan Properties (Rajasthan.txt)	3 BHK Builder Floor	Kota Sector 2	Kota / Rajasthan	Builder Floor / 3 BHK	1267	₹21,000/month	Fully-Furnished	2	Family	Rent
+98	Rajasthan Properties (Rajasthan.txt)	4 BHK Apartment	Jaipur Sector 1	Jaipur / Rajasthan	Apartment / 4 BHK	1838	₹95.22 L	Fully-Furnished	4	Family	Sale
+99	Rajasthan Properties (Rajasthan.txt)	1 BHK Independent House	Jaipur Sector 2	Jaipur / Rajasthan	Independent House / 1 BHK	600	₹8,000/month	Semi-Furnished	1	Bachelors	Rent
+100	Rajasthan Properties (Rajasthan.txt)	4 BHK Apartment	Jodhpur Central	Jodhpur / Rajasthan	Apartment / 4 BHK	1725	₹23,100/month	Semi-Furnished	4	Any	Rent
+101	Rajasthan Properties (Rajasthan.txt)	5 BHK Independent House	Jodhpur Central	Jodhpur / Rajasthan	Independent House / 5 BHK	2956	₹1.28 Cr	Semi-Furnished	4	Family	Sale
+102	Rajasthan Properties (Rajasthan.txt)	4 BHK Builder Floor	Jaipur Sector 1	Jaipur / Rajasthan	Builder Floor / 4 BHK	1265	₹72.14 L	Semi-Furnished	4	Family	Sale
+103	Rajasthan Properties (Rajasthan.txt)	2 BHK Apartment	Kota Sector 3	Kota / Rajasthan	Apartment / 2 BHK	810	₹50.65 L	Semi-Furnished	2	Bachelors	Sale
+104	Rajasthan Properties (Rajasthan.txt)	1 BHK Apartment	Jodhpur Sector 1	Jodhpur / Rajasthan	Apartment / 1 BHK	449	₹29.40 L	Unfurnished	1	Family	Sale
+105	Rajasthan Properties (Rajasthan.txt)	1 BHK Builder Floor	Jodhpur Sector 1	Jodhpur / Rajasthan	Builder Floor / 1 BHK	494	₹28.12 L	Unfurnished	1	Family	Sale
+106	Rajasthan Properties (Rajasthan.txt)	3 BHK Apartment	Kota Sector 3	Kota / Rajasthan	Apartment / 3 BHK	1325	₹73.79 L	Fully-Furnished	4	Bachelors	Sale
+107	Rajasthan Properties (Rajasthan.txt)	3 BHK Independent House	Udaipur Heights	Udaipur / Rajasthan	Independent House / 3 BHK	1071	₹18,000/month	Fully-Furnished	3	Bachelors	Rent
+108	Rajasthan Properties (Rajasthan.txt)	2 BHK Apartment	Jaipur Residential Area	Jaipur / Rajasthan	Apartment / 2 BHK	813	₹48.42 L	Semi-Furnished	3	Bachelors	Sale
+109	Rajasthan Properties (Rajasthan.txt)	2 BHK Villa	Kota Colony	Kota / Rajasthan	Villa / 2 BHK	1133	₹62.77 L	Semi-Furnished	2	Bachelors	Sale
+110	Rajasthan Properties (Rajasthan.txt)	1 BHK Independent House	Jaipur Residential Area	Jaipur / Rajasthan	Independent House / 1 BHK	681	₹31.97 L	Semi-Furnished	1	Any	Sale
+111	Rajasthan Properties (Rajasthan.txt)	3 BHK Independent House	Udaipur Residential Area	Udaipur / Rajasthan	Independent House / 3 BHK	1559	₹85.51 L	Unfurnished	3	Family	Sale
+112	Rajasthan Properties (Rajasthan.txt)	3 BHK Builder Floor	Jaipur Town Centre	Jaipur / Rajasthan	Builder Floor / 3 BHK	1176	₹76.33 L	Semi-Furnished	2	Any	Sale
+113	Rajasthan Properties (Rajasthan.txt)	2 BHK Builder Floor	Jodhpur Sector 2	Jodhpur / Rajasthan	Builder Floor / 2 BHK	932	₹14,200/month	Unfurnished	1	Family	Rent
+114	Rajasthan Properties (Rajasthan.txt)	2 BHK Independent House	Kota Sector 3	Kota / Rajasthan	Independent House / 2 BHK	1112	₹48.97 L	Semi-Furnished	2	Family	Sale
+115	Rajasthan Properties (Rajasthan.txt)	2 BHK Apartment	Kota Sector 2	Kota / Rajasthan	Apartment / 2 BHK	840	₹56.79 L	Semi-Furnished	2	Family	Sale
+116	Rajasthan Properties (Rajasthan.txt)	4 BHK Builder Floor	Kota Sector 3	Kota / Rajasthan	Builder Floor / 4 BHK	1817	₹21,300/month	Semi-Furnished	4	Bachelors	Rent
+117	Rajasthan Properties (Rajasthan.txt)	3 BHK Apartment	Jodhpur Heights	Jodhpur / Rajasthan	Apartment / 3 BHK	1171	₹16,500/month	Semi-Furnished	3	Family	Rent
+118	Rajasthan Properties (Rajasthan.txt)	3 BHK Apartment	Kota Residential Area	Kota / Rajasthan	Apartment / 3 BHK	1025	₹58.87 L	Fully-Furnished	3	Family	Sale
+119	Rajasthan Properties (Rajasthan.txt)	2 BHK Villa	Jaipur Sector 1	Jaipur / Rajasthan	Villa / 2 BHK	935	₹61.08 L	Semi-Furnished	2	Family	Sale
+120	Rajasthan Properties (Rajasthan.txt)	2 BHK Apartment	Udaipur Colony	Udaipur / Rajasthan	Apartment / 2 BHK	827	₹49.44 L	Fully-Furnished	2	Any	Sale
+121	Rajasthan Properties (Rajasthan.txt)	3 BHK Apartment	Kota Town Centre	Kota / Rajasthan	Apartment / 3 BHK	1245	₹65.48 L	Unfurnished	3	Family	Sale
+122	Rajasthan Properties (Rajasthan.txt)	3 BHK Builder Floor	Kota Heights	Kota / Rajasthan	Builder Floor / 3 BHK	1172	₹18,300/month	Semi-Furnished	2	Any	Rent
+123	Rajasthan Properties (Rajasthan.txt)	2 BHK Apartment	Kota Sector 3	Kota / Rajasthan	Apartment / 2 BHK	920	₹55.99 L	Semi-Furnished	2	Bachelors	Sale
+124	Rajasthan Properties (Rajasthan.txt)	1 BHK Apartment	Jodhpur Heights	Jodhpur / Rajasthan	Apartment / 1 BHK	629	₹33.87 L	Fully-Furnished	1	Family	Sale
+125	Rajasthan Properties (Rajasthan.txt)	1 BHK Independent House	Jodhpur Main Road	Jodhpur / Rajasthan	Independent House / 1 BHK	609	₹10,900/month	Fully-Furnished	2	Family	Rent
+126	Rajasthan Properties (Rajasthan.txt)	5 BHK Apartment	Kota Colony	Kota / Rajasthan	Apartment / 5 BHK	2223	₹1.30 Cr	Fully-Furnished	5	Family	Sale
+127	Rajasthan Properties (Rajasthan.txt)	3 BHK Builder Floor	Udaipur Nagar	Udaipur / Rajasthan	Builder Floor / 3 BHK	1173	₹21,500/month	Unfurnished	3	Family	Rent
+128	Rajasthan Properties (Rajasthan.txt)	1 BHK Apartment	Udaipur East	Udaipur / Rajasthan	Apartment / 1 BHK	626	₹40.15 L	Unfurnished	1	Any	Sale
+129	Rajasthan Properties (Rajasthan.txt)	2 BHK Apartment	Jodhpur South	Jodhpur / Rajasthan	Apartment / 2 BHK	822	₹45.37 L	Unfurnished	1	Any	Sale
+130	Rajasthan Properties (Rajasthan.txt)	2 BHK Apartment	Jodhpur Sector 3	Jodhpur / Rajasthan	Apartment / 2 BHK	873	₹55.20 L	Fully-Furnished	2	Family	Sale
+131	Rajasthan Properties (Rajasthan.txt)	1 BHK Independent House	Jodhpur Colony	Jodhpur / Rajasthan	Independent House / 1 BHK	562	₹33.84 L	Fully-Furnished	1	Family	Sale
+132	Rajasthan Properties (Rajasthan.txt)	1 BHK Apartment	Jodhpur Central	Jodhpur / Rajasthan	Apartment / 1 BHK	468	₹31.67 L	Unfurnished	1	Family	Sale
+133	Rajasthan Properties (Rajasthan.txt)	2 BHK Apartment	Udaipur Main Road	Udaipur / Rajasthan	Apartment / 2 BHK	851	₹41.16 L	Fully-Furnished	3	Family	Sale
+134	Rajasthan Properties (Rajasthan.txt)	2 BHK Apartment	Kota Sector 3	Kota / Rajasthan	Apartment / 2 BHK	874	₹14,700/month	Fully-Furnished	3	Family	Rent
+135	Rajasthan Properties (Rajasthan.txt)	2 BHK Builder Floor	Udaipur West	Udaipur / Rajasthan	Builder Floor / 2 BHK	905	₹48.31 L	Semi-Furnished	2	Family	Sale
+136	Rajasthan Properties (Rajasthan.txt)	2 BHK Independent House	Jaipur Colony	Jaipur / Rajasthan	Independent House / 2 BHK	1068	₹48.74 L	Semi-Furnished	2	Family	Sale
+137	Rajasthan Properties (Rajasthan.txt)	1 BHK Apartment	Udaipur Extension	Udaipur / Rajasthan	Apartment / 1 BHK	440	₹8,000/month	Fully-Furnished	2	Bachelors	Rent
+138	Rajasthan Properties (Rajasthan.txt)	2 BHK Builder Floor	Jodhpur West	Jodhpur / Rajasthan	Builder Floor / 2 BHK	893	₹52.67 L	Semi-Furnished	3	Family	Sale
+139	Rajasthan Properties (Rajasthan.txt)	4 BHK Apartment	Kota North	Kota / Rajasthan	Apartment / 4 BHK	1949	₹1.01 Cr	Semi-Furnished	4	Family	Sale
+140	Rajasthan Properties (Rajasthan.txt)	2 BHK Builder Floor	Jaipur Sector 2	Jaipur / Rajasthan	Builder Floor / 2 BHK	719	₹50.55 L	Semi-Furnished	1	Any	Sale
+141	Rajasthan Properties (Rajasthan.txt)	3 BHK Apartment	Jaipur Extension	Jaipur / Rajasthan	Apartment / 3 BHK	1174	₹77.38 L	Unfurnished	4	Any	Sale
+142	Rajasthan Properties (Rajasthan.txt)	1 BHK Studio	Udaipur Extension	Udaipur / Rajasthan	Studio / 1 BHK	404	₹9,600/month	Unfurnished	1	Family	Rent
+143	Rajasthan Properties (Rajasthan.txt)	2 BHK Apartment	Jodhpur Sector 1	Jodhpur / Rajasthan	Apartment / 2 BHK	974	₹42.43 L	Semi-Furnished	2	Family	Sale
+144	Rajasthan Properties (Rajasthan.txt)	3 BHK Independent House	Jodhpur Sector 2	Jodhpur / Rajasthan	Independent House / 3 BHK	1713	₹79.48 L	Fully-Furnished	2	Any	Sale
+145	Rajasthan Properties (Rajasthan.txt)	1 BHK Apartment	Jaipur Town Centre	Jaipur / Rajasthan	Apartment / 1 BHK	547	₹9,200/month	Unfurnished	1	Family	Rent
+146	Rajasthan Properties (Rajasthan.txt)	3 BHK Apartment	Udaipur South	Udaipur / Rajasthan	Apartment / 3 BHK	1046	₹14,900/month	Fully-Furnished	3	Family	Rent
+147	Rajasthan Properties (Rajasthan.txt)	2 BHK Independent House	Jodhpur Sector 3	Jodhpur / Rajasthan	Independent House / 2 BHK	892	₹13,800/month	Unfurnished	3	Bachelors	Rent
+148	Rajasthan Properties (Rajasthan.txt)	2 BHK Apartment	Kota Extension	Kota / Rajasthan	Apartment / 2 BHK	861	₹13,000/month	Unfurnished	2	Bachelors	Rent
+149	Rajasthan Properties (Rajasthan.txt)	4 BHK Apartment	Kota Residential Area	Kota / Rajasthan	Apartment / 4 BHK	1922	₹1.05 Cr	Fully-Furnished	4	Family	Sale
+150	Rajasthan Properties (Rajasthan.txt)	4 BHK Villa	Jodhpur Sector 2	Jodhpur / Rajasthan	Villa / 4 BHK	2626	₹32,900/month	Fully-Furnished	4	Family	Rent
+151	Rajasthan Properties (Rajasthan.txt)	2 BHK Apartment	Kota West	Kota / Rajasthan	Apartment / 2 BHK	843	₹54.99 L	Unfurnished	2	Bachelors	Sale
+152	Rajasthan Properties (Rajasthan.txt)	2 BHK Apartment	Kota Sector 3	Kota / Rajasthan	Apartment / 2 BHK	884	₹16,600/month	Semi-Furnished	3	Bachelors	Rent
+153	Rajasthan Properties (Rajasthan.txt)	5 BHK Apartment	Kota Nagar	Kota / Rajasthan	Apartment / 5 BHK	1773	₹91.43 L	Fully-Furnished	4	Family	Sale
+154	Rajasthan Properties (Rajasthan.txt)	3 BHK Apartment	Jodhpur Extension	Jodhpur / Rajasthan	Apartment / 3 BHK	1342	₹74.80 L	Fully-Furnished	3	Any	Sale
+155	Rajasthan Properties (Rajasthan.txt)	2 BHK Villa	Kota Extension	Kota / Rajasthan	Villa / 2 BHK	776	₹48.91 L	Fully-Furnished	3	Bachelors	Sale
+156	Rajasthan Properties (Rajasthan.txt)	3 BHK Apartment	Kota South	Kota / Rajasthan	Apartment / 3 BHK	1443	₹22,000/month	Semi-Furnished	3	Family	Rent
+157	Rajasthan Properties (Rajasthan.txt)	2 BHK Apartment	Jaipur North	Jaipur / Rajasthan	Apartment / 2 BHK	891	₹16,800/month	Unfurnished	1	Bachelors	Rent
+158	Rajasthan Properties (Rajasthan.txt)	2 BHK Independent House	Kota Heights	Kota / Rajasthan	Independent House / 2 BHK	1026	₹48.78 L	Semi-Furnished	3	Any	Sale
+159	Rajasthan Properties (Rajasthan.txt)	3 BHK Apartment	Jaipur Sector 3	Jaipur / Rajasthan	Apartment / 3 BHK	1451	₹23,300/month	Semi-Furnished	3	Bachelors	Rent
+160	Rajasthan Properties (Rajasthan.txt)	2 BHK Apartment	Kota South	Kota / Rajasthan	Apartment / 2 BHK	890	₹13,800/month	Semi-Furnished	3	Bachelors	Rent
+161	Rajasthan Properties (Rajasthan.txt)	2 BHK Apartment	Jodhpur Sector 2	Jodhpur / Rajasthan	Apartment / 2 BHK	790	₹52.25 L	Semi-Furnished	1	Any	Sale
+162	Rajasthan Properties (Rajasthan.txt)	3 BHK Apartment	Kota Town Centre	Kota / Rajasthan	Apartment / 3 BHK	1196	₹71.72 L	Fully-Furnished	2	Family	Sale
+163	Rajasthan Properties (Rajasthan.txt)	2 BHK Independent House	Kota South	Kota / Rajasthan	Independent House / 2 BHK	1184	₹66.36 L	Semi-Furnished	2	Bachelors	Sale
+164	Rajasthan Properties (Rajasthan.txt)	1 BHK Builder Floor	Kota Sector 3	Kota / Rajasthan	Builder Floor / 1 BHK	644	₹34.99 L	Unfurnished	1	Bachelors	Sale
+165	Rajasthan Properties (Rajasthan.txt)	4 BHK Apartment	Jaipur Sector 3	Jaipur / Rajasthan	Apartment / 4 BHK	1980	₹76.62 L	Semi-Furnished	4	Any	Sale
+166	Rajasthan Properties (Rajasthan.txt)	3 BHK Apartment	Jodhpur Sector 3	Jodhpur / Rajasthan	Apartment / 3 BHK	942	₹77.87 L	Unfurnished	3	Family	Sale
+167	Rajasthan Properties (Rajasthan.txt)	4 BHK Apartment	Jodhpur Town Centre	Jodhpur / Rajasthan	Apartment / 4 BHK	1963	₹26,000/month	Semi-Furnished	3	Bachelors	Rent
+168	Rajasthan Properties (Rajasthan.txt)	2 BHK Apartment	Jaipur Nagar	Jaipur / Rajasthan	Apartment / 2 BHK	969	₹56.67 L	Fully-Furnished	2	Bachelors	Sale
+169	Rajasthan Properties (Rajasthan.txt)	1 BHK Studio	Udaipur Heights	Udaipur / Rajasthan	Studio / 1 BHK	312	₹26.99 L	Unfurnished	2	Family	Sale
+170	Rajasthan Properties (Rajasthan.txt)	2 BHK Independent House	Jodhpur Sector 3	Jodhpur / Rajasthan	Independent House / 2 BHK	1234	₹52.43 L	Semi-Furnished	2	Bachelors	Sale
+171	Rajasthan Properties (Rajasthan.txt)	2 BHK Apartment	Jodhpur Sector 1	Jodhpur / Rajasthan	Apartment / 2 BHK	1094	₹14,600/month	Fully-Furnished	2	Any	Rent
+172	Rajasthan Properties (Rajasthan.txt)	3 BHK Apartment	Jaipur Sector 3	Jaipur / Rajasthan	Apartment / 3 BHK	1267	₹64.57 L	Semi-Furnished	3	Bachelors	Sale
+173	Rajasthan Properties (Rajasthan.txt)	1 BHK Apartment	Jodhpur Heights	Jodhpur / Rajasthan	Apartment / 1 BHK	554	₹8,000/month	Unfurnished	1	Family	Rent
+174	Rajasthan Properties (Rajasthan.txt)	3 BHK Apartment	Kota Heights	Kota / Rajasthan	Apartment / 3 BHK	1261	₹65.70 L	Unfurnished	4	Bachelors	Sale
+175	Rajasthan Properties (Rajasthan.txt)	3 BHK Apartment	Jaipur West	Jaipur / Rajasthan	Apartment / 3 BHK	938	₹17,900/month	Fully-Furnished	4	Family	Rent
+176	Rajasthan Properties (Rajasthan.txt)	4 BHK Apartment	Jaipur South	Jaipur / Rajasthan	Apartment / 4 BHK	1643	₹1.04 Cr	Semi-Furnished	4	Family	Sale
+177	Rajasthan Properties (Rajasthan.txt)	3 BHK Villa	Jaipur Heights	Jaipur / Rajasthan	Villa / 3 BHK	1560	₹83.28 L	Semi-Furnished	4	Bachelors	Sale
+178	Rajasthan Properties (Rajasthan.txt)	2 BHK Independent House	Jaipur Central	Jaipur / Rajasthan	Independent House / 2 BHK	922	₹55.87 L	Unfurnished	2	Any	Sale
+179	Rajasthan Properties (Rajasthan.txt)	2 BHK Apartment	Jodhpur Central	Jodhpur / Rajasthan	Apartment / 2 BHK	640	₹13,800/month	Semi-Furnished	2	Any	Rent
+180	Rajasthan Properties (Rajasthan.txt)	4 BHK Apartment	Jodhpur East	Jodhpur / Rajasthan	Apartment / 4 BHK	1366	₹99.38 L	Semi-Furnished	5	Any	Sale
+181	Rajasthan Properties (Rajasthan.txt)	4 BHK Builder Floor	Udaipur East	Udaipur / Rajasthan	Builder Floor / 4 BHK	1380	₹84.76 L	Semi-Furnished	4	Family	Sale
+182	Rajasthan Properties (Rajasthan.txt)	3 BHK Builder Floor	Jodhpur Central	Jodhpur / Rajasthan	Builder Floor / 3 BHK	1047	₹58.09 L	Unfurnished	3	Bachelors	Sale
+183	Rajasthan Properties (Rajasthan.txt)	4 BHK Apartment	Jodhpur Heights	Jodhpur / Rajasthan	Apartment / 4 BHK	1954	₹85.48 L	Unfurnished	4	Family	Sale
+184	Rajasthan Properties (Rajasthan.txt)	3 BHK Builder Floor	Udaipur Central	Udaipur / Rajasthan	Builder Floor / 3 BHK	1088	₹68.91 L	Semi-Furnished	3	Any	Sale
+185	Rajasthan Properties (Rajasthan.txt)	3 BHK Apartment	Jodhpur North	Jodhpur / Rajasthan	Apartment / 3 BHK	983	₹58.59 L	Semi-Furnished	3	Any	Sale
+186	Rajasthan Properties (Rajasthan.txt)	2 BHK Apartment	Jodhpur Heights	Jodhpur / Rajasthan	Apartment / 2 BHK	971	₹13,100/month	Semi-Furnished	2	Family	Rent
+187	Rajasthan Properties (Rajasthan.txt)	4 BHK Independent House	Jaipur Central	Jaipur / Rajasthan	Independent House / 4 BHK	1945	₹29,500/month	Semi-Furnished	3	Bachelors	Rent
+188	Rajasthan Properties (Rajasthan.txt)	1 BHK Apartment	Jaipur South	Jaipur / Rajasthan	Apartment / 1 BHK	310	₹27.29 L	Unfurnished	1	Bachelors	Sale
+189	Rajasthan Properties (Rajasthan.txt)	2 BHK Apartment	Udaipur Sector 1	Udaipur / Rajasthan	Apartment / 2 BHK	1046	₹13,800/month	Fully-Furnished	2	Family	Rent
+190	Rajasthan Properties (Rajasthan.txt)	2 BHK Apartment	Udaipur Sector 3	Udaipur / Rajasthan	Apartment / 2 BHK	773	₹13,800/month	Semi-Furnished	2	Any	Rent
+191	Rajasthan Properties (Rajasthan.txt)	5 BHK Apartment	Jaipur East	Jaipur / Rajasthan	Apartment / 5 BHK	2822	₹26,200/month	Unfurnished	5	Bachelors	Rent
+192	Rajasthan Properties (Rajasthan.txt)	3 BHK Apartment	Kota Nagar	Kota / Rajasthan	Apartment / 3 BHK	1407	₹23,100/month	Semi-Furnished	3	Any	Rent
+193	Rajasthan Properties (Rajasthan.txt)	3 BHK Builder Floor	Jaipur Residential Area	Jaipur / Rajasthan	Builder Floor / 3 BHK	1398	₹22,900/month	Fully-Furnished	3	Bachelors	Rent
+194	Rajasthan Properties (Rajasthan.txt)	2 BHK Apartment	Udaipur South	Udaipur / Rajasthan	Apartment / 2 BHK	849	₹55.02 L	Semi-Furnished	2	Family	Sale
+195	Rajasthan Properties (Rajasthan.txt)	1 BHK Builder Floor	Udaipur West	Udaipur / Rajasthan	Builder Floor / 1 BHK	485	₹8,400/month	Semi-Furnished	1	Bachelors	Rent
+196	Rajasthan Properties (Rajasthan.txt)	1 BHK Builder Floor	Jaipur Nagar	Jaipur / Rajasthan	Builder Floor / 1 BHK	460	₹8,800/month	Semi-Furnished	1	Any	Rent
+197	Rajasthan Properties (Rajasthan.txt)	3 BHK Apartment	Udaipur Sector 1	Udaipur / Rajasthan	Apartment / 3 BHK	1371	₹85.21 L	Semi-Furnished	2	Any	Sale
+198	Rajasthan Properties (Rajasthan.txt)	2 BHK Apartment	Udaipur Central	Udaipur / Rajasthan	Apartment / 2 BHK	798	₹57.39 L	Semi-Furnished	2	Family	Sale
+199	Rajasthan Properties (Rajasthan.txt)	2 BHK Apartment	Kota Town Centre	Kota / Rajasthan	Apartment / 2 BHK	961	₹12,700/month	Semi-Furnished	3	Any	Rent
+200	Rajasthan Properties (Rajasthan.txt)	3 BHK Independent House	Jaipur East	Jaipur / Rajasthan	Independent House / 3 BHK	1574	₹85.23 L	Semi-Furnished	3	Family	Sale
+201	Rajasthan Properties (Rajasthan.txt)	4 BHK Builder Floor	Jodhpur West	Jodhpur / Rajasthan	Builder Floor / 4 BHK	1558	₹75.90 L	Semi-Furnished	4	Family	Sale
+202	Rajasthan Properties (Rajasthan.txt)	3 BHK Apartment	Jodhpur Town Centre	Jodhpur / Rajasthan	Apartment / 3 BHK	1118	₹21,700/month	Semi-Furnished	4	Any	Rent
+203	Rajasthan Properties (Rajasthan.txt)	3 BHK Independent House	Jodhpur Sector 2	Jodhpur / Rajasthan	Independent House / 3 BHK	1692	₹79.71 L	Fully-Furnished	3	Any	Sale
+204	Rajasthan Properties (Rajasthan.txt)	3 BHK Builder Floor	Jaipur Town Centre	Jaipur / Rajasthan	Builder Floor / 3 BHK	1140	₹76.15 L	Semi-Furnished	4	Family	Sale
+205	Rajasthan Properties (Rajasthan.txt)	1 BHK Apartment	Udaipur Extension	Udaipur / Rajasthan	Apartment / 1 BHK	390	₹7,200/month	Fully-Furnished	1	Any	Rent
+206	Rajasthan Properties (Rajasthan.txt)	3 BHK Apartment	Kota West	Kota / Rajasthan	Apartment / 3 BHK	1250	₹79.04 L	Semi-Furnished	3	Any	Sale
+207	Rajasthan Properties (Rajasthan.txt)	4 BHK Apartment	Jaipur Sector 2	Jaipur / Rajasthan	Apartment / 4 BHK	1685	₹85.18 L	Semi-Furnished	3	Bachelors	Sale
+208	Rajasthan Properties (Rajasthan.txt)	3 BHK Apartment	Kota Heights	Kota / Rajasthan	Apartment / 3 BHK	1289	₹83.01 L	Semi-Furnished	3	Family	Sale
+209	Rajasthan Properties (Rajasthan.txt)	2 BHK Apartment	Kota West	Kota / Rajasthan	Apartment / 2 BHK	783	₹49.18 L	Unfurnished	1	Any	Sale
+210	Rajasthan Properties (Rajasthan.txt)	1 BHK Independent House	Jaipur Town Centre	Jaipur / Rajasthan	Independent House / 1 BHK	569	₹27.71 L	Semi-Furnished	1	Family	Sale
+211	Rajasthan Properties (Rajasthan.txt)	3 BHK Independent House	Kota Heights	Kota / Rajasthan	Independent House / 3 BHK	1565	₹76.41 L	Semi-Furnished	3	Family	Sale
+212	Rajasthan Properties (Rajasthan.txt)	2 BHK Apartment	Kota South	Kota / Rajasthan	Apartment / 2 BHK	841	₹14,800/month	Semi-Furnished	2	Family	Rent
+213	Rajasthan Properties (Rajasthan.txt)	3 BHK Villa	Jaipur Sector 1	Jaipur / Rajasthan	Villa / 3 BHK	1608	₹69.57 L	Unfurnished	3	Family	Sale
+214	Rajasthan Properties (Rajasthan.txt)	2 BHK Independent House	Jaipur Town Centre	Jaipur / Rajasthan	Independent House / 2 BHK	1093	₹58.94 L	Unfurnished	2	Any	Sale
+215	Rajasthan Properties (Rajasthan.txt)	2 BHK Villa	Udaipur Colony	Udaipur / Rajasthan	Villa / 2 BHK	787	₹53.45 L	Semi-Furnished	2	Any	Sale
+216	Rajasthan Properties (Rajasthan.txt)	4 BHK Builder Floor	Udaipur Sector 3	Udaipur / Rajasthan	Builder Floor / 4 BHK	1556	₹19,500/month	Semi-Furnished	4	Bachelors	Rent
+217	Rajasthan Properties (Rajasthan.txt)	3 BHK Apartment	Kota Main Road	Kota / Rajasthan	Apartment / 3 BHK	1118	₹78.48 L	Semi-Furnished	3	Family	Sale
+218	Rajasthan Properties (Rajasthan.txt)	2 BHK Builder Floor	Jaipur Residential Area	Jaipur / Rajasthan	Builder Floor / 2 BHK	854	₹49.38 L	Semi-Furnished	3	Bachelors	Sale
+219	Rajasthan Properties (Rajasthan.txt)	2 BHK Apartment	Udaipur Sector 3	Udaipur / Rajasthan	Apartment / 2 BHK	1065	₹61.48 L	Semi-Furnished	2	Any	Sale
+220	Rajasthan Properties (Rajasthan.txt)	2 BHK Villa	Udaipur North	Udaipur / Rajasthan	Villa / 2 BHK	1083	₹14,000/month	Unfurnished	2	Family	Rent
+221	Rajasthan Properties (Rajasthan.txt)	3 BHK Apartment	Jodhpur East	Jodhpur / Rajasthan	Apartment / 3 BHK	1142	₹16,200/month	Fully-Furnished	2	Family	Rent
+222	Rajasthan Properties (Rajasthan.txt)	3 BHK Independent House	Jaipur Town Centre	Jaipur / Rajasthan	Independent House / 3 BHK	1124	₹70.67 L	Unfurnished	3	Family	Sale
+223	Rajasthan Properties (Rajasthan.txt)	3 BHK Villa	Jodhpur Residential Area	Jodhpur / Rajasthan	Villa / 3 BHK	1869	₹74.88 L	Semi-Furnished	3	Any	Sale
+224	Rajasthan Properties (Rajasthan.txt)	5 BHK Villa	Udaipur East	Udaipur / Rajasthan	Villa / 5 BHK	3250	₹38,900/month	Unfurnished	6	Bachelors	Rent
+225	Rajasthan Properties (Rajasthan.txt)	3 BHK Builder Floor	Kota West	Kota / Rajasthan	Builder Floor / 3 BHK	1295	₹81.28 L	Unfurnished	3	Bachelors	Sale
+226	Rajasthan Properties (Rajasthan.txt)	1 BHK Apartment	Jodhpur Residential Area	Jodhpur / Rajasthan	Apartment / 1 BHK	565	₹10,200/month	Semi-Furnished	1	Bachelors	Rent
+227	Rajasthan Properties (Rajasthan.txt)	3 BHK Builder Floor	Jaipur Main Road	Jaipur / Rajasthan	Builder Floor / 3 BHK	672	₹67.37 L	Fully-Furnished	3	Bachelors	Sale
+228	Rajasthan Properties (Rajasthan.txt)	2 BHK Apartment	Kota North	Kota / Rajasthan	Apartment / 2 BHK	952	₹55.44 L	Semi-Furnished	2	Family	Sale
+229	Rajasthan Properties (Rajasthan.txt)	2 BHK Builder Floor	Kota North	Kota / Rajasthan	Builder Floor / 2 BHK	876	₹14,800/month	Fully-Furnished	1	Bachelors	Rent
+230	Rajasthan Properties (Rajasthan.txt)	2 BHK Builder Floor	Jaipur Nagar	Jaipur / Rajasthan	Builder Floor / 2 BHK	714	₹47.47 L	Semi-Furnished	3	Any	Sale
+231	Rajasthan Properties (Rajasthan.txt)	1 BHK Apartment	Udaipur East	Udaipur / Rajasthan	Apartment / 1 BHK	551	₹37.32 L	Unfurnished	2	Family	Sale
+232	Rajasthan Properties (Rajasthan.txt)	4 BHK Independent House	Jodhpur Main Road	Jodhpur / Rajasthan	Independent House / 4 BHK	2379	₹1.13 Cr	Semi-Furnished	4	Family	Sale
+233	Rajasthan Properties (Rajasthan.txt)	5 BHK Villa	Jaipur Residential Area	Jaipur / Rajasthan	Villa / 5 BHK	4184	₹33,600/month	Semi-Furnished	5	Family	Rent
+234	Rajasthan Properties (Rajasthan.txt)	3 BHK Apartment	Udaipur Extension	Udaipur / Rajasthan	Apartment / 3 BHK	1292	₹65.22 L	Fully-Furnished	4	Any	Sale
+235	Rajasthan Properties (Rajasthan.txt)	4 BHK Builder Floor	Udaipur North	Udaipur / Rajasthan	Builder Floor / 4 BHK	2100	₹96.11 L	Semi-Furnished	4	Family	Sale
+236	Rajasthan Properties (Rajasthan.txt)	5 BHK Apartment	Jodhpur Colony	Jodhpur / Rajasthan	Apartment / 5 BHK	1794	₹86.85 L	Unfurnished	4	Any	Sale
+237	Rajasthan Properties (Rajasthan.txt)	3 BHK Apartment	Kota West	Kota / Rajasthan	Apartment / 3 BHK	1296	₹17,700/month	Unfurnished	2	Family	Rent
+238	Rajasthan Properties (Rajasthan.txt)	2 BHK Independent House	Jaipur Main Road	Jaipur / Rajasthan	Independent House / 2 BHK	1021	₹62.78 L	Fully-Furnished	2	Family	Sale
+239	Rajasthan Properties (Rajasthan.txt)	2 BHK Apartment	Jodhpur Residential Area	Jodhpur / Rajasthan	Apartment / 2 BHK	699	₹57.83 L	Fully-Furnished	2	Any	Sale
+240	Rajasthan Properties (Rajasthan.txt)	2 BHK Apartment	Jodhpur Town Centre	Jodhpur / Rajasthan	Apartment / 2 BHK	1016	₹58.27 L	Semi-Furnished	2	Family	Sale
+241	Rajasthan Properties (Rajasthan.txt)	1 BHK Studio	Jaipur Colony	Jaipur / Rajasthan	Studio / 1 BHK	447	₹34.59 L	Semi-Furnished	1	Bachelors	Sale
+242	Rajasthan Properties (Rajasthan.txt)	2 BHK Independent House	Udaipur Colony	Udaipur / Rajasthan	Independent House / 2 BHK	1204	₹13,500/month	Fully-Furnished	2	Family	Rent
+243	Rajasthan Properties (Rajasthan.txt)	2 BHK Apartment	Jodhpur North	Jodhpur / Rajasthan	Apartment / 2 BHK	929	₹13,200/month	Semi-Furnished	2	Bachelors	Rent
+244	Rajasthan Properties (Rajasthan.txt)	3 BHK Independent House	Jaipur Sector 2	Jaipur / Rajasthan	Independent House / 3 BHK	1565	₹21,000/month	Fully-Furnished	2	Family	Rent
+245	Rajasthan Properties (Rajasthan.txt)	5 BHK Apartment	Jaipur Residential Area	Jaipur / Rajasthan	Apartment / 5 BHK	2562	₹1.31 Cr	Semi-Furnished	5	Family	Sale
+246	Rajasthan Properties (Rajasthan.txt)	3 BHK Independent House	Jodhpur Sector 3	Jodhpur / Rajasthan	Independent House / 3 BHK	1259	₹20,500/month	Fully-Furnished	3	Bachelors	Rent
+247	Rajasthan Properties (Rajasthan.txt)	2 BHK Apartment	Jodhpur Sector 3	Jodhpur / Rajasthan	Apartment / 2 BHK	739	₹47.80 L	Unfurnished	2	Any	Sale
+248	Rajasthan Properties (Rajasthan.txt)	2 BHK Villa	Jaipur Sector 1	Jaipur / Rajasthan	Villa / 2 BHK	990	₹53.39 L	Fully-Furnished	2	Bachelors	Sale
+249	Rajasthan Properties (Rajasthan.txt)	2 BHK Builder Floor	Udaipur Colony	Udaipur / Rajasthan	Builder Floor / 2 BHK	961	₹54.33 L	Semi-Furnished	1	Bachelors	Sale
+250	Rajasthan Properties (Rajasthan.txt)	2 BHK Apartment	Jodhpur Sector 1	Jodhpur / Rajasthan	Apartment / 2 BHK	826	₹59.07 L	Semi-Furnished	1	Family	Sale
+251	Rajasthan Properties (Rajasthan.txt)	1 BHK Apartment	Jodhpur Sector 2	Jodhpur / Rajasthan	Apartment / 1 BHK	494	₹29.83 L	Unfurnished	1	Family	Sale
+252	Rajasthan Properties (Rajasthan.txt)	1 BHK Apartment	Kota Extension	Kota / Rajasthan	Apartment / 1 BHK	457	₹10,400/month	Semi-Furnished	1	Family	Rent
+253	Rajasthan Properties (Rajasthan.txt)	2 BHK Apartment	Kota Central	Kota / Rajasthan	Apartment / 2 BHK	707	₹52.68 L	Fully-Furnished	2	Bachelors	Sale
+254	Rajasthan Properties (Rajasthan.txt)	2 BHK Villa	Kota Heights	Kota / Rajasthan	Villa / 2 BHK	1318	₹15,700/month	Unfurnished	3	Family	Rent
+255	Rajasthan Properties (Rajasthan.txt)	2 BHK Apartment	Jodhpur Sector 3	Jodhpur / Rajasthan	Apartment / 2 BHK	899	₹11,900/month	Fully-Furnished	2	Family	Rent
+256	Rajasthan Properties (Rajasthan.txt)	2 BHK Apartment	Jaipur Nagar	Jaipur / Rajasthan	Apartment / 2 BHK	988	₹13,200/month	Unfurnished	2	Family	Rent
+257	Rajasthan Properties (Rajasthan.txt)	3 BHK Independent House	Jaipur Colony	Jaipur / Rajasthan	Independent House / 3 BHK	1435	₹17,500/month	Semi-Furnished	4	Family	Rent
+258	Rajasthan Properties (Rajasthan.txt)	1 BHK Studio	Jaipur Sector 1	Jaipur / Rajasthan	Studio / 1 BHK	401	₹25.16 L	Unfurnished	2	Family	Sale
+259	Rajasthan Properties (Rajasthan.txt)	2 BHK Builder Floor	Kota Sector 1	Kota / Rajasthan	Builder Floor / 2 BHK	1033	₹12,000/month	Fully-Furnished	2	Bachelors	Rent
+260	Rajasthan Properties (Rajasthan.txt)	3 BHK Builder Floor	Udaipur West	Udaipur / Rajasthan	Builder Floor / 3 BHK	1332	₹70.83 L	Fully-Furnished	2	Family	Sale
+261	Rajasthan Properties (Rajasthan.txt)	4 BHK Independent House	Jaipur Sector 3	Jaipur / Rajasthan	Independent House / 4 BHK	2499	₹27,600/month	Unfurnished	5	Family	Rent
+262	Rajasthan Properties (Rajasthan.txt)	3 BHK Apartment	Jodhpur North	Jodhpur / Rajasthan	Apartment / 3 BHK	1128	₹60.08 L	Semi-Furnished	4	Family	Sale
+263	Rajasthan Properties (Rajasthan.txt)	3 BHK Independent House	Kota Nagar	Kota / Rajasthan	Independent House / 3 BHK	1478	₹67.59 L	Semi-Furnished	3	Family	Sale
+264	Rajasthan Properties (Rajasthan.txt)	4 BHK Builder Floor	Kota Heights	Kota / Rajasthan	Builder Floor / 4 BHK	1543	₹78.01 L	Semi-Furnished	3	Family	Sale
+265	Rajasthan Properties (Rajasthan.txt)	1 BHK Studio	Jaipur North	Jaipur / Rajasthan	Studio / 1 BHK	344	₹26.36 L	Unfurnished	2	Family	Sale
+266	Rajasthan Properties (Rajasthan.txt)	2 BHK Builder Floor	Kota Colony	Kota / Rajasthan	Builder Floor / 2 BHK	727	₹16,000/month	Fully-Furnished	1	Any	Rent
+267	Rajasthan Properties (Rajasthan.txt)	3 BHK Apartment	Udaipur Sector 3	Udaipur / Rajasthan	Apartment / 3 BHK	1218	₹21,200/month	Fully-Furnished	3	Any	Rent
+268	Rajasthan Properties (Rajasthan.txt)	3 BHK Independent House	Jodhpur Town Centre	Jodhpur / Rajasthan	Independent House / 3 BHK	1633	₹70.04 L	Unfurnished	3	Family	Sale
+269	Rajasthan Properties (Rajasthan.txt)	2 BHK Independent House	Jaipur Extension	Jaipur / Rajasthan	Independent House / 2 BHK	1061	₹14,600/month	Semi-Furnished	2	Bachelors	Rent
+270	Rajasthan Properties (Rajasthan.txt)	2 BHK Apartment	Kota Colony	Kota / Rajasthan	Apartment / 2 BHK	744	₹58.76 L	Unfurnished	2	Family	Sale
+271	Rajasthan Properties (Rajasthan.txt)	2 BHK Villa	Udaipur Sector 2	Udaipur / Rajasthan	Villa / 2 BHK	1288	₹17,700/month	Unfurnished	2	Family	Rent
+272	Rajasthan Properties (Rajasthan.txt)	1 BHK Independent House	Jaipur West	Jaipur / Rajasthan	Independent House / 1 BHK	681	₹9,600/month	Semi-Furnished	1	Family	Rent
+273	Rajasthan Properties (Rajasthan.txt)	1 BHK Studio	Jaipur South	Jaipur / Rajasthan	Studio / 1 BHK	357	₹9,400/month	Semi-Furnished	1	Bachelors	Rent
+274	Rajasthan Properties (Rajasthan.txt)	1 BHK Apartment	Udaipur Colony	Udaipur / Rajasthan	Apartment / 1 BHK	464	₹8,800/month	Semi-Furnished	2	Bachelors	Rent
+275	Rajasthan Properties (Rajasthan.txt)	5 BHK Apartment	Udaipur South	Udaipur / Rajasthan	Apartment / 5 BHK	2571	₹1.34 Cr	Fully-Furnished	6	Family	Sale
+276	Rajasthan Properties (Rajasthan.txt)	2 BHK Villa	Udaipur Central	Udaipur / Rajasthan	Villa / 2 BHK	1112	₹14,800/month	Fully-Furnished	2	Bachelors	Rent
+277	Rajasthan Properties (Rajasthan.txt)	3 BHK Builder Floor	Udaipur Sector 3	Udaipur / Rajasthan	Builder Floor / 3 BHK	1296	₹83.92 L	Semi-Furnished	2	Family	Sale
+278	Rajasthan Properties (Rajasthan.txt)	1 BHK Independent House	Jodhpur West	Jodhpur / Rajasthan	Independent House / 1 BHK	703	₹10,100/month	Unfurnished	1	Any	Rent
+279	Rajasthan Properties (Rajasthan.txt)	2 BHK Builder Floor	Udaipur Central	Udaipur / Rajasthan	Builder Floor / 2 BHK	772	₹51.93 L	Semi-Furnished	2	Any	Sale
+280	Rajasthan Properties (Rajasthan.txt)	1 BHK Villa	Jodhpur Sector 1	Jodhpur / Rajasthan	Villa / 1 BHK	635	₹10,800/month	Fully-Furnished	1	Family	Rent
+281	Rajasthan Properties (Rajasthan.txt)	1 BHK Independent House	Udaipur Colony	Udaipur / Rajasthan	Independent House / 1 BHK	656	₹11,200/month	Fully-Furnished	1	Any	Rent
+282	Rajasthan Properties (Rajasthan.txt)	1 BHK Apartment	Jaipur Sector 2	Jaipur / Rajasthan	Apartment / 1 BHK	526	₹29.69 L	Unfurnished	1	Family	Sale
+283	Rajasthan Properties (Rajasthan.txt)	4 BHK Builder Floor	Udaipur Central	Udaipur / Rajasthan	Builder Floor / 4 BHK	1519	₹25,400/month	Unfurnished	5	Bachelors	Rent
+284	Rajasthan Properties (Rajasthan.txt)	4 BHK Villa	Udaipur Residential Area	Udaipur / Rajasthan	Villa / 4 BHK	2008	₹1.04 Cr	Semi-Furnished	5	Any	Sale
+285	Rajasthan Properties (Rajasthan.txt)	1 BHK Apartment	Udaipur Heights	Udaipur / Rajasthan	Apartment / 1 BHK	536	₹36.67 L	Fully-Furnished	1	Any	Sale
+286	Rajasthan Properties (Rajasthan.txt)	4 BHK Independent House	Jaipur Central	Jaipur / Rajasthan	Independent House / 4 BHK	1909	₹27,500/month	Fully-Furnished	4	Family	Rent
+287	Rajasthan Properties (Rajasthan.txt)	2 BHK Builder Floor	Kota Colony	Kota / Rajasthan	Builder Floor / 2 BHK	964	₹48.46 L	Semi-Furnished	3	Family	Sale
+288	Rajasthan Properties (Rajasthan.txt)	1 BHK Builder Floor	Udaipur West	Udaipur / Rajasthan	Builder Floor / 1 BHK	527	₹37.94 L	Semi-Furnished	1	Bachelors	Sale
+289	Rajasthan Properties (Rajasthan.txt)	2 BHK Apartment	Udaipur North	Udaipur / Rajasthan	Apartment / 2 BHK	658	₹13,500/month	Unfurnished	3	Family	Rent
+290	Rajasthan Properties (Rajasthan.txt)	2 BHK Apartment	Jodhpur Main Road	Jodhpur / Rajasthan	Apartment / 2 BHK	763	₹43.43 L	Semi-Furnished	3	Family	Sale
+291	Rajasthan Properties (Rajasthan.txt)	3 BHK Builder Floor	Jaipur Central	Jaipur / Rajasthan	Builder Floor / 3 BHK	973	₹75.51 L	Semi-Furnished	4	Family	Sale
+292	Rajasthan Properties (Rajasthan.txt)	3 BHK Apartment	Udaipur Main Road	Udaipur / Rajasthan	Apartment / 3 BHK	1430	₹61.71 L	Semi-Furnished	3	Family	Sale
+293	Rajasthan Properties (Rajasthan.txt)	1 BHK Builder Floor	Jodhpur South	Jodhpur / Rajasthan	Builder Floor / 1 BHK	479	₹30.55 L	Fully-Furnished	1	Any	Sale
+294	Rajasthan Properties (Rajasthan.txt)	3 BHK Apartment	Jaipur Sector 2	Jaipur / Rajasthan	Apartment / 3 BHK	1012	₹61.68 L	Unfurnished	3	Bachelors	Sale
+295	Rajasthan Properties (Rajasthan.txt)	3 BHK Independent House	Jodhpur Sector 1	Jodhpur / Rajasthan	Independent House / 3 BHK	1401	₹18,500/month	Fully-Furnished	3	Any	Rent
+296	Rajasthan Properties (Rajasthan.txt)	1 BHK Villa	Jodhpur Extension	Jodhpur / Rajasthan	Villa / 1 BHK	558	₹8,000/month	Semi-Furnished	1	Any	Rent
+297	Rajasthan Properties (Rajasthan.txt)	4 BHK Apartment	Udaipur Sector 1	Udaipur / Rajasthan	Apartment / 4 BHK	1801	₹86.04 L	Unfurnished	4	Family	Sale
+298	Rajasthan Properties (Rajasthan.txt)	1 BHK Apartment	Jodhpur Central	Jodhpur / Rajasthan	Apartment / 1 BHK	500	₹36.47 L	Fully-Furnished	2	Family	Sale
+299	Rajasthan Properties (Rajasthan.txt)	3 BHK Apartment	Udaipur Sector 3	Udaipur / Rajasthan	Apartment / 3 BHK	1490	₹81.13 L	Semi-Furnished	2	Any	Sale
+300	Rajasthan Properties (Rajasthan.txt)	3 BHK Independent House	Udaipur North	Udaipur / Rajasthan	Independent House / 3 BHK	1434	₹23,300/month	Semi-Furnished	4	Bachelors	Rent
+301	Rajasthan Properties (Rajasthan.txt)	2 BHK Apartment	Jaipur West	Jaipur / Rajasthan	Apartment / 2 BHK	710	₹48.62 L	Unfurnished	2	Family	Sale
+302	Rajasthan Properties (Rajasthan.txt)	2 BHK Apartment	Jodhpur Sector 1	Jodhpur / Rajasthan	Apartment / 2 BHK	941	₹47.70 L	Semi-Furnished	2	Any	Sale
+303	Rajasthan Properties (Rajasthan.txt)	2 BHK Villa	Jodhpur Nagar	Jodhpur / Rajasthan	Villa / 2 BHK	1145	₹57.65 L	Fully-Furnished	3	Family	Sale
+304	Rajasthan Properties (Rajasthan.txt)	1 BHK Apartment	Jodhpur Sector 3	Jodhpur / Rajasthan	Apartment / 1 BHK	454	₹32.47 L	Semi-Furnished	1	Family	Sale
+305	Rajasthan Properties (Rajasthan.txt)	4 BHK Independent House	Kota Sector 3	Kota / Rajasthan	Independent House / 4 BHK	2433	₹1.08 Cr	Unfurnished	4	Family	Sale
+306	Rajasthan Properties (Rajasthan.txt)	3 BHK Apartment	Jaipur Central	Jaipur / Rajasthan	Apartment / 3 BHK	1436	₹74.35 L	Unfurnished	2	Any	Sale
+307	Rajasthan Properties (Rajasthan.txt)	1 BHK Studio	Jodhpur East	Jodhpur / Rajasthan	Studio / 1 BHK	325	₹9,900/month	Semi-Furnished	2	Family	Rent
+308	Rajasthan Properties (Rajasthan.txt)	2 BHK Apartment	Jodhpur Main Road	Jodhpur / Rajasthan	Apartment / 2 BHK	826	₹50.73 L	Unfurnished	2	Family	Sale
+309	Rajasthan Properties (Rajasthan.txt)	1 BHK Apartment	Jaipur Central	Jaipur / Rajasthan	Apartment / 1 BHK	400	₹8,300/month	Semi-Furnished	1	Family	Rent
+310	Rajasthan Properties (Rajasthan.txt)	2 BHK Independent House	Jaipur Heights	Jaipur / Rajasthan	Independent House / 2 BHK	1215	₹14,700/month	Unfurnished	2	Bachelors	Rent
+311	Rajasthan Properties (Rajasthan.txt)	2 BHK Builder Floor	Jodhpur Sector 3	Jodhpur / Rajasthan	Builder Floor / 2 BHK	752	₹11,300/month	Semi-Furnished	2	Any	Rent
+312	Rajasthan Properties (Rajasthan.txt)	3 BHK Apartment	Jaipur West	Jaipur / Rajasthan	Apartment / 3 BHK	1476	₹81.97 L	Semi-Furnished	3	Family	Sale
+313	Rajasthan Properties (Rajasthan.txt)	4 BHK Apartment	Jaipur Sector 1	Jaipur / Rajasthan	Apartment / 4 BHK	1572	₹21,200/month	Unfurnished	4	Family	Rent
+314	Rajasthan Properties (Rajasthan.txt)	2 BHK Apartment	Jodhpur Colony	Jodhpur / Rajasthan	Apartment / 2 BHK	1008	₹56.46 L	Fully-Furnished	2	Bachelors	Sale
+315	Rajasthan Properties (Rajasthan.txt)	1 BHK Apartment	Udaipur West	Udaipur / Rajasthan	Apartment / 1 BHK	605	₹33.86 L	Semi-Furnished	1	Bachelors	Sale
+316	Rajasthan Properties (Rajasthan.txt)	5 BHK Independent House	Udaipur Main Road	Udaipur / Rajasthan	Independent House / 5 BHK	1953	₹1.28 Cr	Semi-Furnished	5	Family	Sale
+317	Rajasthan Properties (Rajasthan.txt)	1 BHK Builder Floor	Kota West	Kota / Rajasthan	Builder Floor / 1 BHK	509	₹10,600/month	Fully-Furnished	1	Family	Rent
+318	Rajasthan Properties (Rajasthan.txt)	3 BHK Builder Floor	Kota Sector 3	Kota / Rajasthan	Builder Floor / 3 BHK	1326	₹21,400/month	Unfurnished	4	Any	Rent
+319	Rajasthan Properties (Rajasthan.txt)	4 BHK Builder Floor	Kota Main Road	Kota / Rajasthan	Builder Floor / 4 BHK	1947	₹86.96 L	Semi-Furnished	4	Family	Sale
+320	Rajasthan Properties (Rajasthan.txt)	3 BHK Apartment	Jodhpur Town Centre	Jodhpur / Rajasthan	Apartment / 3 BHK	909	₹20,000/month	Semi-Furnished	3	Bachelors	Rent
+321	Rajasthan Properties (Rajasthan.txt)	3 BHK Apartment	Kota Nagar	Kota / Rajasthan	Apartment / 3 BHK	1110	₹62.17 L	Unfurnished	3	Bachelors	Sale
+322	Rajasthan Properties (Rajasthan.txt)	1 BHK Apartment	Jaipur Sector 3	Jaipur / Rajasthan	Apartment / 1 BHK	449	₹32.97 L	Semi-Furnished	1	Family	Sale
+323	Rajasthan Properties (Rajasthan.txt)	1 BHK Builder Floor	Jaipur Colony	Jaipur / Rajasthan	Builder Floor / 1 BHK	482	₹7,500/month	Unfurnished	1	Family	Rent
+324	Rajasthan Properties (Rajasthan.txt)	4 BHK Apartment	Jaipur Main Road	Jaipur / Rajasthan	Apartment / 4 BHK	1536	₹73.47 L	Semi-Furnished	4	Family	Sale
+325	Rajasthan Properties (Rajasthan.txt)	3 BHK Apartment	Kota Residential Area	Kota / Rajasthan	Apartment / 3 BHK	1459	₹72.48 L	Unfurnished	3	Bachelors	Sale
+326	Rajasthan Properties (Rajasthan.txt)	4 BHK Apartment	Jodhpur North	Jodhpur / Rajasthan	Apartment / 4 BHK	1748	₹83.09 L	Semi-Furnished	4	Family	Sale
+327	Rajasthan Properties (Rajasthan.txt)	2 BHK Builder Floor	Kota Central	Kota / Rajasthan	Builder Floor / 2 BHK	829	₹41.91 L	Semi-Furnished	2	Bachelors	Sale
+328	Rajasthan Properties (Rajasthan.txt)	3 BHK Apartment	Jaipur Sector 1	Jaipur / Rajasthan	Apartment / 3 BHK	1186	₹61.73 L	Semi-Furnished	4	Family	Sale
+329	Rajasthan Properties (Rajasthan.txt)	4 BHK Apartment	Jaipur Heights	Jaipur / Rajasthan	Apartment / 4 BHK	1339	₹93.12 L	Fully-Furnished	5	Family	Sale
+330	Rajasthan Properties (Rajasthan.txt)	2 BHK Apartment	Udaipur Nagar	Udaipur / Rajasthan	Apartment / 2 BHK	810	₹56.02 L	Unfurnished	2	Bachelors	Sale
+331	Rajasthan Properties (Rajasthan.txt)	1 BHK Apartment	Jaipur East	Jaipur / Rajasthan	Apartment / 1 BHK	533	₹34.87 L	Semi-Furnished	1	Bachelors	Sale
+332	Rajasthan Properties (Rajasthan.txt)	3 BHK Builder Floor	Udaipur South	Udaipur / Rajasthan	Builder Floor / 3 BHK	1434	₹23,600/month	Semi-Furnished	2	Any	Rent
+333	Rajasthan Properties (Rajasthan.txt)	1 BHK Independent House	Jodhpur Extension	Jodhpur / Rajasthan	Independent House / 1 BHK	632	₹11,000/month	Unfurnished	2	Any	Rent
+334	Rajasthan Properties (Rajasthan.txt)	1 BHK Studio	Udaipur Residential Area	Udaipur / Rajasthan	Studio / 1 BHK	387	₹29.18 L	Fully-Furnished	2	Bachelors	Sale
+335	Rajasthan Properties (Rajasthan.txt)	3 BHK Apartment	Jaipur South	Jaipur / Rajasthan	Apartment / 3 BHK	1454	₹22,200/month	Semi-Furnished	3	Any	Rent
+336	Rajasthan Properties (Rajasthan.txt)	2 BHK Builder Floor	Udaipur East	Udaipur / Rajasthan	Builder Floor / 2 BHK	741	₹53.04 L	Semi-Furnished	3	Any	Sale
+337	Rajasthan Properties (Rajasthan.txt)	3 BHK Apartment	Kota Town Centre	Kota / Rajasthan	Apartment / 3 BHK	1134	₹61.23 L	Semi-Furnished	3	Any	Sale
+338	Rajasthan Properties (Rajasthan.txt)	3 BHK Builder Floor	Kota Sector 2	Kota / Rajasthan	Builder Floor / 3 BHK	1310	₹78.59 L	Semi-Furnished	2	Bachelors	Sale
+339	Rajasthan Properties (Rajasthan.txt)	3 BHK Apartment	Udaipur East	Udaipur / Rajasthan	Apartment / 3 BHK	907	₹68.81 L	Semi-Furnished	3	Bachelors	Sale
+340	Rajasthan Properties (Rajasthan.txt)	4 BHK Builder Floor	Jodhpur West	Jodhpur / Rajasthan	Builder Floor / 4 BHK	2004	₹77.23 L	Unfurnished	3	Any	Sale
+341	Rajasthan Properties (Rajasthan.txt)	1 BHK Studio	Jodhpur Sector 3	Jodhpur / Rajasthan	Studio / 1 BHK	336	₹9,300/month	Semi-Furnished	1	Family	Rent
+342	Rajasthan Properties (Rajasthan.txt)	2 BHK Apartment	Jodhpur South	Jodhpur / Rajasthan	Apartment / 2 BHK	694	₹53.80 L	Semi-Furnished	3	Family	Sale
+343	Rajasthan Properties (Rajasthan.txt)	3 BHK Builder Floor	Udaipur Heights	Udaipur / Rajasthan	Builder Floor / 3 BHK	1248	₹70.44 L	Unfurnished	2	Bachelors	Sale
+344	Rajasthan Properties (Rajasthan.txt)	1 BHK Studio	Udaipur Sector 1	Udaipur / Rajasthan	Studio / 1 BHK	375	₹8,000/month	Fully-Furnished	2	Family	Rent
+345	Rajasthan Properties (Rajasthan.txt)	1 BHK Independent House	Jodhpur Colony	Jodhpur / Rajasthan	Independent House / 1 BHK	633	₹11,500/month	Semi-Furnished	1	Family	Rent
+346	Rajasthan Properties (Rajasthan.txt)	3 BHK Apartment	Jaipur Extension	Jaipur / Rajasthan	Apartment / 3 BHK	1242	₹18,100/month	Fully-Furnished	3	Family	Rent
+347	Rajasthan Properties (Rajasthan.txt)	1 BHK Apartment	Udaipur North	Udaipur / Rajasthan	Apartment / 1 BHK	509	₹37.29 L	Unfurnished	2	Bachelors	Sale
+348	Rajasthan Properties (Rajasthan.txt)	3 BHK Apartment	Jodhpur Colony	Jodhpur / Rajasthan	Apartment / 3 BHK	1117	₹80.51 L	Semi-Furnished	3	Any	Sale
+349	Rajasthan Properties (Rajasthan.txt)	1 BHK Apartment	Jodhpur Sector 3	Jodhpur / Rajasthan	Apartment / 1 BHK	519	₹27.63 L	Fully-Furnished	1	Any	Sale
+350	Rajasthan Properties (Rajasthan.txt)	5 BHK Apartment	Kota Nagar	Kota / Rajasthan	Apartment / 5 BHK	2281	₹1.11 Cr	Fully-Furnished	5	Bachelors	Sale
+351	Rajasthan Properties (Rajasthan.txt)	2 BHK Villa	Jodhpur Town Centre	Jodhpur / Rajasthan	Villa / 2 BHK	1064	₹45.21 L	Unfurnished	2	Bachelors	Sale
+352	Rajasthan Properties (Rajasthan.txt)	3 BHK Villa	Kota South	Kota / Rajasthan	Villa / 3 BHK	1731	₹83.57 L	Semi-Furnished	3	Any	Sale
+353	Rajasthan Properties (Rajasthan.txt)	3 BHK Apartment	Jaipur Sector 1	Jaipur / Rajasthan	Apartment / 3 BHK	1371	₹69.45 L	Semi-Furnished	4	Any	Sale
+354	Rajasthan Properties (Rajasthan.txt)	4 BHK Apartment	Udaipur Sector 1	Udaipur / Rajasthan	Apartment / 4 BHK	1285	₹22,500/month	Unfurnished	5	Any	Rent
+355	Rajasthan Properties (Rajasthan.txt)	2 BHK Apartment	Udaipur South	Udaipur / Rajasthan	Apartment / 2 BHK	745	₹50.85 L	Fully-Furnished	1	Family	Sale
+356	Rajasthan Properties (Rajasthan.txt)	2 BHK Builder Floor	Jodhpur Central	Jodhpur / Rajasthan	Builder Floor / 2 BHK	815	₹14,100/month	Unfurnished	2	Any	Rent
+357	Rajasthan Properties (Rajasthan.txt)	3 BHK Apartment	Jaipur Heights	Jaipur / Rajasthan	Apartment / 3 BHK	1554	₹22,200/month	Fully-Furnished	3	Any	Rent
+358	Rajasthan Properties (Rajasthan.txt)	2 BHK Apartment	Jaipur Main Road	Jaipur / Rajasthan	Apartment / 2 BHK	797	₹11,700/month	Fully-Furnished	3	Family	Rent
+359	Rajasthan Properties (Rajasthan.txt)	2 BHK Apartment	Udaipur Central	Udaipur / Rajasthan	Apartment / 2 BHK	938	₹62.40 L	Unfurnished	1	Bachelors	Sale
+360	Rajasthan Properties (Rajasthan.txt)	1 BHK Builder Floor	Jodhpur Residential Area	Jodhpur / Rajasthan	Builder Floor / 1 BHK	534	₹32.09 L	Fully-Furnished	2	Family	Sale
+361	Rajasthan Properties (Rajasthan.txt)	1 BHK Villa	Jaipur Central	Jaipur / Rajasthan	Villa / 1 BHK	761	₹29.62 L	Unfurnished	1	Family	Sale
+362	Rajasthan Properties (Rajasthan.txt)	3 BHK Builder Floor	Jaipur East	Jaipur / Rajasthan	Builder Floor / 3 BHK	952	₹58.72 L	Semi-Furnished	4	Family	Sale
+363	Rajasthan Properties (Rajasthan.txt)	3 BHK Apartment	Udaipur Nagar	Udaipur / Rajasthan	Apartment / 3 BHK	1532	₹86.03 L	Fully-Furnished	2	Any	Sale
+364	Rajasthan Properties (Rajasthan.txt)	4 BHK Apartment	Jaipur Colony	Jaipur / Rajasthan	Apartment / 4 BHK	1897	₹28,600/month	Fully-Furnished	5	Bachelors	Rent
+365	Rajasthan Properties (Rajasthan.txt)	2 BHK Villa	Jodhpur Town Centre	Jodhpur / Rajasthan	Villa / 2 BHK	1075	₹17,000/month	Semi-Furnished	3	Family	Rent
+366	Rajasthan Properties (Rajasthan.txt)	4 BHK Apartment	Jodhpur North	Jodhpur / Rajasthan	Apartment / 4 BHK	1804	₹24,600/month	Fully-Furnished	5	Any	Rent
+367	Rajasthan Properties (Rajasthan.txt)	1 BHK Studio	Udaipur Sector 2	Udaipur / Rajasthan	Studio / 1 BHK	412	₹29.74 L	Semi-Furnished	1	Family	Sale
+368	Rajasthan Properties (Rajasthan.txt)	3 BHK Villa	Kota Sector 2	Kota / Rajasthan	Villa / 3 BHK	1605	₹24,200/month	Unfurnished	2	Bachelors	Rent
+369	Rajasthan Properties (Rajasthan.txt)	4 BHK Apartment	Jaipur Residential Area	Jaipur / Rajasthan	Apartment / 4 BHK	1726	₹74.95 L	Fully-Furnished	3	Family	Sale
+370	Rajasthan Properties (Rajasthan.txt)	3 BHK Independent House	Kota Main Road	Kota / Rajasthan	Independent House / 3 BHK	1775	₹23,300/month	Unfurnished	2	Any	Rent
+371	Rajasthan Properties (Rajasthan.txt)	2 BHK Builder Floor	Jaipur West	Jaipur / Rajasthan	Builder Floor / 2 BHK	868	₹42.60 L	Semi-Furnished	3	Family	Sale
+372	Rajasthan Properties (Rajasthan.txt)	3 BHK Independent House	Udaipur East	Udaipur / Rajasthan	Independent House / 3 BHK	1106	₹17,900/month	Semi-Furnished	4	Bachelors	Rent
+373	Rajasthan Properties (Rajasthan.txt)	2 BHK Independent House	Udaipur Sector 3	Udaipur / Rajasthan	Independent House / 2 BHK	1121	₹51.33 L	Unfurnished	2	Any	Sale
+374	Rajasthan Properties (Rajasthan.txt)	2 BHK Builder Floor	Jodhpur South	Jodhpur / Rajasthan	Builder Floor / 2 BHK	1130	₹59.04 L	Fully-Furnished	2	Family	Sale
+375	Rajasthan Properties (Rajasthan.txt)	3 BHK Apartment	Kota Town Centre	Kota / Rajasthan	Apartment / 3 BHK	1321	₹69.23 L	Semi-Furnished	3	Family	Sale
+376	Rajasthan Properties (Rajasthan.txt)	2 BHK Builder Floor	Jodhpur Colony	Jodhpur / Rajasthan	Builder Floor / 2 BHK	846	₹44.64 L	Semi-Furnished	2	Family	Sale
+377	Rajasthan Properties (Rajasthan.txt)	2 BHK Apartment	Kota Nagar	Kota / Rajasthan	Apartment / 2 BHK	803	₹12,600/month	Unfurnished	3	Any	Rent
+378	Rajasthan Properties (Rajasthan.txt)	2 BHK Independent House	Jaipur Nagar	Jaipur / Rajasthan	Independent House / 2 BHK	1068	₹53.24 L	Fully-Furnished	3	Family	Sale
+379	Rajasthan Properties (Rajasthan.txt)	2 BHK Apartment	Jaipur Town Centre	Jaipur / Rajasthan	Apartment / 2 BHK	954	₹42.52 L	Unfurnished	2	Any	Sale
+380	Rajasthan Properties (Rajasthan.txt)	4 BHK Independent House	Kota East	Kota / Rajasthan	Independent House / 4 BHK	1883	₹99.60 L	Semi-Furnished	3	Family	Sale
+381	Rajasthan Properties (Rajasthan.txt)	2 BHK Apartment	Kota Main Road	Kota / Rajasthan	Apartment / 2 BHK	974	₹46.79 L	Unfurnished	1	Bachelors	Sale
+382	Rajasthan Properties (Rajasthan.txt)	3 BHK Apartment	Udaipur North	Udaipur / Rajasthan	Apartment / 3 BHK	1191	₹22,300/month	Semi-Furnished	3	Any	Rent
+383	Rajasthan Properties (Rajasthan.txt)	3 BHK Apartment	Kota Central	Kota / Rajasthan	Apartment / 3 BHK	1263	₹20,400/month	Fully-Furnished	4	Family	Rent
+384	Rajasthan Properties (Rajasthan.txt)	1 BHK Independent House	Udaipur Town Centre	Udaipur / Rajasthan	Independent House / 1 BHK	628	₹35.22 L	Fully-Furnished	1	Bachelors	Sale
+385	Rajasthan Properties (Rajasthan.txt)	2 BHK Apartment	Kota North	Kota / Rajasthan	Apartment / 2 BHK	845	₹41.56 L	Unfurnished	2	Bachelors	Sale
+386	Rajasthan Properties (Rajasthan.txt)	1 BHK Apartment	Jaipur Sector 2	Jaipur / Rajasthan	Apartment / 1 BHK	497	₹38.24 L	Semi-Furnished	1	Bachelors	Sale
+387	Rajasthan Properties (Rajasthan.txt)	3 BHK Apartment	Jaipur West	Jaipur / Rajasthan	Apartment / 3 BHK	1152	₹16,500/month	Semi-Furnished	2	Any	Rent
+388	Rajasthan Properties (Rajasthan.txt)	3 BHK Apartment	Jaipur Sector 1	Jaipur / Rajasthan	Apartment / 3 BHK	1168	₹65.27 L	Fully-Furnished	3	Bachelors	Sale
+389	Rajasthan Properties (Rajasthan.txt)	2 BHK Builder Floor	Kota South	Kota / Rajasthan	Builder Floor / 2 BHK	731	₹16,000/month	Fully-Furnished	2	Family	Rent
+390	Rajasthan Properties (Rajasthan.txt)	3 BHK Independent House	Jaipur Sector 2	Jaipur / Rajasthan	Independent House / 3 BHK	1379	₹59.02 L	Unfurnished	3	Bachelors	Sale
+391	Rajasthan Properties (Rajasthan.txt)	5 BHK Builder Floor	Jodhpur Heights	Jodhpur / Rajasthan	Builder Floor / 5 BHK	2960	₹1.43 Cr	Unfurnished	5	Family	Sale
+392	Rajasthan Properties (Rajasthan.txt)	4 BHK Apartment	Jodhpur Central	Jodhpur / Rajasthan	Apartment / 4 BHK	1856	₹99.75 L	Semi-Furnished	3	Bachelors	Sale
+393	Rajasthan Properties (Rajasthan.txt)	1 BHK Builder Floor	Kota Main Road	Kota / Rajasthan	Builder Floor / 1 BHK	548	₹7,600/month	Semi-Furnished	1	Family	Rent
+394	Rajasthan Properties (Rajasthan.txt)	1 BHK Apartment	Jaipur Colony	Jaipur / Rajasthan	Apartment / 1 BHK	616	₹35.31 L	Semi-Furnished	1	Family	Sale
+395	Rajasthan Properties (Rajasthan.txt)	4 BHK Apartment	Udaipur Nagar	Udaipur / Rajasthan	Apartment / 4 BHK	1593	₹91.58 L	Semi-Furnished	4	Bachelors	Sale
+396	Rajasthan Properties (Rajasthan.txt)	4 BHK Independent House	Udaipur North	Udaipur / Rajasthan	Independent House / 4 BHK	1947	₹1.03 Cr	Semi-Furnished	5	Any	Sale
+397	Rajasthan Properties (Rajasthan.txt)	2 BHK Apartment	Kota North	Kota / Rajasthan	Apartment / 2 BHK	968	₹57.90 L	Unfurnished	2	Any	Sale
+398	Rajasthan Properties (Rajasthan.txt)	4 BHK Apartment	Udaipur Sector 2	Udaipur / Rajasthan	Apartment / 4 BHK	1500	₹86.47 L	Semi-Furnished	5	Bachelors	Sale
+399	Rajasthan Properties (Rajasthan.txt)	3 BHK Apartment	Jodhpur South	Jodhpur / Rajasthan	Apartment / 3 BHK	1168	₹21,300/month	Fully-Furnished	3	Any	Rent
+400	Rajasthan Properties (Rajasthan.txt)	4 BHK Apartment	Jodhpur South	Jodhpur / Rajasthan	Apartment / 4 BHK	1832	₹27,700/month	Semi-Furnished	3	Any	Rent
+401	Rajasthan Properties (Rajasthan.txt)	1 BHK Independent House	Jaipur Town Centre	Jaipur / Rajasthan	Independent House / 1 BHK	545	₹30.01 L	Semi-Furnished	2	Bachelors	Sale
+402	Rajasthan Properties (Rajasthan.txt)	1 BHK Villa	Kota Extension	Kota / Rajasthan	Villa / 1 BHK	676	₹37.21 L	Fully-Furnished	1	Bachelors	Sale
+403	Rajasthan Properties (Rajasthan.txt)	5 BHK Builder Floor	Jodhpur Central	Jodhpur / Rajasthan	Builder Floor / 5 BHK	1888	₹24,900/month	Unfurnished	5	Bachelors	Rent
+404	Rajasthan Properties (Rajasthan.txt)	3 BHK Apartment	Udaipur Main Road	Udaipur / Rajasthan	Apartment / 3 BHK	1139	₹80.87 L	Fully-Furnished	4	Bachelors	Sale
+405	Rajasthan Properties (Rajasthan.txt)	2 BHK Builder Floor	Udaipur Sector 2	Udaipur / Rajasthan	Builder Floor / 2 BHK	827	₹50.26 L	Unfurnished	2	Any	Sale
+406	Rajasthan Properties (Rajasthan.txt)	3 BHK Builder Floor	Kota Sector 2	Kota / Rajasthan	Builder Floor / 3 BHK	1250	₹15,500/month	Fully-Furnished	3	Any	Rent
+407	Rajasthan Properties (Rajasthan.txt)	3 BHK Apartment	Jaipur Extension	Jaipur / Rajasthan	Apartment / 3 BHK	1162	₹19,700/month	Semi-Furnished	2	Any	Rent
+408	Rajasthan Properties (Rajasthan.txt)	4 BHK Apartment	Jaipur Extension	Jaipur / Rajasthan	Apartment / 4 BHK	2009	₹93.08 L	Unfurnished	3	Family	Sale
+409	Rajasthan Properties (Rajasthan.txt)	1 BHK Apartment	Jaipur Heights	Jaipur / Rajasthan	Apartment / 1 BHK	633	₹29.90 L	Semi-Furnished	1	Family	Sale
+410	Rajasthan Properties (Rajasthan.txt)	2 BHK Independent House	Kota Heights	Kota / Rajasthan	Independent House / 2 BHK	739	₹12,700/month	Unfurnished	2	Family	Rent
+411	Rajasthan Properties (Rajasthan.txt)	2 BHK Apartment	Jaipur Heights	Jaipur / Rajasthan	Apartment / 2 BHK	758	₹54.70 L	Semi-Furnished	2	Bachelors	Sale
+412	Rajasthan Properties (Rajasthan.txt)	1 BHK Apartment	Udaipur Colony	Udaipur / Rajasthan	Apartment / 1 BHK	300	₹8,300/month	Unfurnished	1	Family	Rent
+413	Rajasthan Properties (Rajasthan.txt)	4 BHK Independent House	Udaipur Town Centre	Udaipur / Rajasthan	Independent House / 4 BHK	1810	₹92.14 L	Fully-Furnished	4	Family	Sale
+414	Rajasthan Properties (Rajasthan.txt)	2 BHK Apartment	Jaipur Sector 3	Jaipur / Rajasthan	Apartment / 2 BHK	844	₹11,500/month	Semi-Furnished	2	Any	Rent
+415	Rajasthan Properties (Rajasthan.txt)	1 BHK Studio	Kota Central	Kota / Rajasthan	Studio / 1 BHK	410	₹10,200/month	Semi-Furnished	1	Family	Rent
+416	Rajasthan Properties (Rajasthan.txt)	4 BHK Independent House	Jaipur Residential Area	Jaipur / Rajasthan	Independent House / 4 BHK	1995	₹95.73 L	Fully-Furnished	5	Family	Sale
+417	Rajasthan Properties (Rajasthan.txt)	1 BHK Independent House	Kota Sector 2	Kota / Rajasthan	Independent House / 1 BHK	581	₹31.26 L	Fully-Furnished	2	Bachelors	Sale
+418	Rajasthan Properties (Rajasthan.txt)	3 BHK Apartment	Jaipur Colony	Jaipur / Rajasthan	Apartment / 3 BHK	1517	₹82.22 L	Fully-Furnished	4	Family	Sale
+419	Rajasthan Properties (Rajasthan.txt)	3 BHK Independent House	Udaipur Sector 3	Udaipur / Rajasthan	Independent House / 3 BHK	1504	₹84.09 L	Fully-Furnished	3	Bachelors	Sale
+420	Rajasthan Properties (Rajasthan.txt)	4 BHK Apartment	Jaipur West	Jaipur / Rajasthan	Apartment / 4 BHK	1710	₹24,700/month	Unfurnished	4	Bachelors	Rent
+421	Rajasthan Properties (Rajasthan.txt)	2 BHK Apartment	Jaipur Main Road	Jaipur / Rajasthan	Apartment / 2 BHK	901	₹49.31 L	Fully-Furnished	2	Any	Sale
+422	Rajasthan Properties (Rajasthan.txt)	3 BHK Independent House	Jodhpur North	Jodhpur / Rajasthan	Independent House / 3 BHK	1173	₹18,300/month	Semi-Furnished	3	Any	Rent
+423	Rajasthan Properties (Rajasthan.txt)	1 BHK Builder Floor	Kota Extension	Kota / Rajasthan	Builder Floor / 1 BHK	587	₹29.94 L	Semi-Furnished	2	Any	Sale
+424	Rajasthan Properties (Rajasthan.txt)	2 BHK Apartment	Jodhpur Sector 2	Jodhpur / Rajasthan	Apartment / 2 BHK	847	₹12,900/month	Semi-Furnished	1	Family	Rent
+425	Rajasthan Properties (Rajasthan.txt)	4 BHK Independent House	Jaipur Residential Area	Jaipur / Rajasthan	Independent House / 4 BHK	1934	₹30,000/month	Semi-Furnished	4	Family	Rent
+426	Rajasthan Properties (Rajasthan.txt)	2 BHK Builder Floor	Jodhpur East	Jodhpur / Rajasthan	Builder Floor / 2 BHK	760	₹44.10 L	Unfurnished	2	Family	Sale
+427	Rajasthan Properties (Rajasthan.txt)	3 BHK Apartment	Jaipur Nagar	Jaipur / Rajasthan	Apartment / 3 BHK	1167	₹57.95 L	Unfurnished	3	Any	Sale
+428	Rajasthan Properties (Rajasthan.txt)	5 BHK Apartment	Jaipur Sector 1	Jaipur / Rajasthan	Apartment / 5 BHK	2395	₹29,300/month	Fully-Furnished	5	Family	Rent
+429	Rajasthan Properties (Rajasthan.txt)	1 BHK Builder Floor	Udaipur Sector 2	Udaipur / Rajasthan	Builder Floor / 1 BHK	392	₹35.01 L	Unfurnished	1	Family	Sale
+430	Rajasthan Properties (Rajasthan.txt)	2 BHK Independent House	Jodhpur Main Road	Jodhpur / Rajasthan	Independent House / 2 BHK	1124	₹64.49 L	Semi-Furnished	2	Family	Sale
+431	Rajasthan Properties (Rajasthan.txt)	2 BHK Apartment	Jodhpur South	Jodhpur / Rajasthan	Apartment / 2 BHK	825	₹55.28 L	Unfurnished	3	Any	Sale
+432	Rajasthan Properties (Rajasthan.txt)	3 BHK Builder Floor	Jodhpur Sector 3	Jodhpur / Rajasthan	Builder Floor / 3 BHK	1059	₹76.42 L	Fully-Furnished	2	Bachelors	Sale
+433	Rajasthan Properties (Rajasthan.txt)	4 BHK Builder Floor	Jaipur West	Jaipur / Rajasthan	Builder Floor / 4 BHK	1529	₹78.95 L	Semi-Furnished	4	Any	Sale
+434	Rajasthan Properties (Rajasthan.txt)	2 BHK Apartment	Kota Sector 2	Kota / Rajasthan	Apartment / 2 BHK	960	₹13,600/month	Semi-Furnished	2	Family	Rent
+435	Rajasthan Properties (Rajasthan.txt)	2 BHK Builder Floor	Jaipur Residential Area	Jaipur / Rajasthan	Builder Floor / 2 BHK	904	₹46.10 L	Semi-Furnished	3	Bachelors	Sale
+436	Rajasthan Properties (Rajasthan.txt)	3 BHK Builder Floor	Jodhpur Town Centre	Jodhpur / Rajasthan	Builder Floor / 3 BHK	1355	₹18,500/month	Unfurnished	2	Any	Rent
+437	Rajasthan Properties (Rajasthan.txt)	3 BHK Apartment	Kota Sector 1	Kota / Rajasthan	Apartment / 3 BHK	1113	₹57.14 L	Fully-Furnished	2	Family	Sale
+438	Rajasthan Properties (Rajasthan.txt)	1 BHK Studio	Jaipur South	Jaipur / Rajasthan	Studio / 1 BHK	335	₹30.21 L	Semi-Furnished	1	Bachelors	Sale
+439	Rajasthan Properties (Rajasthan.txt)	3 BHK Independent House	Udaipur Main Road	Udaipur / Rajasthan	Independent House / 3 BHK	1509	₹87.94 L	Semi-Furnished	3	Family	Sale
+440	Rajasthan Properties (Rajasthan.txt)	5 BHK Builder Floor	Jaipur Central	Jaipur / Rajasthan	Builder Floor / 5 BHK	2543	₹1.38 Cr	Semi-Furnished	5	Family	Sale
+441	Rajasthan Properties (Rajasthan.txt)	2 BHK Builder Floor	Kota Central	Kota / Rajasthan	Builder Floor / 2 BHK	954	₹49.94 L	Semi-Furnished	2	Bachelors	Sale
+442	Rajasthan Properties (Rajasthan.txt)	3 BHK Apartment	Jodhpur Sector 3	Jodhpur / Rajasthan	Apartment / 3 BHK	1337	₹66.39 L	Semi-Furnished	3	Family	Sale
+443	Rajasthan Properties (Rajasthan.txt)	3 BHK Independent House	Jodhpur Heights	Jodhpur / Rajasthan	Independent House / 3 BHK	1463	₹66.48 L	Semi-Furnished	3	Any	Sale
+444	Rajasthan Properties (Rajasthan.txt)	4 BHK Independent House	Jodhpur Central	Jodhpur / Rajasthan	Independent House / 4 BHK	2168	₹1.02 Cr	Semi-Furnished	3	Any	Sale
+445	Rajasthan Properties (Rajasthan.txt)	2 BHK Apartment	Udaipur Extension	Udaipur / Rajasthan	Apartment / 2 BHK	1068	₹63.31 L	Unfurnished	3	Any	Sale
+446	Rajasthan Properties (Rajasthan.txt)	2 BHK Apartment	Udaipur Extension	Udaipur / Rajasthan	Apartment / 2 BHK	1220	₹59.65 L	Fully-Furnished	1	Family	Sale
+447	Rajasthan Properties (Rajasthan.txt)	4 BHK Builder Floor	Jaipur East	Jaipur / Rajasthan	Builder Floor / 4 BHK	1886	₹23,000/month	Fully-Furnished	4	Family	Rent
+448	Rajasthan Properties (Rajasthan.txt)	2 BHK Apartment	Kota Town Centre	Kota / Rajasthan	Apartment / 2 BHK	727	₹12,400/month	Unfurnished	2	Family	Rent
+449	Rajasthan Properties (Rajasthan.txt)	1 BHK Builder Floor	Jaipur Extension	Jaipur / Rajasthan	Builder Floor / 1 BHK	504	₹37 L	Unfurnished	1	Family	Sale
+450	Rajasthan Properties (Rajasthan.txt)	2 BHK Apartment	Udaipur Town Centre	Udaipur / Rajasthan	Apartment / 2 BHK	797	₹12,700/month	Semi-Furnished	2	Any	Rent
+451	Rajasthan Properties (Rajasthan.txt)	3 BHK Apartment	Kota East	Kota / Rajasthan	Apartment / 3 BHK	1452	₹18,400/month	Unfurnished	4	Family	Rent
+452	Rajasthan Properties (Rajasthan.txt)	2 BHK Builder Floor	Kota Town Centre	Kota / Rajasthan	Builder Floor / 2 BHK	646	₹56.54 L	Unfurnished	2	Family	Sale
+453	Rajasthan Properties (Rajasthan.txt)	3 BHK Apartment	Udaipur Main Road	Udaipur / Rajasthan	Apartment / 3 BHK	1201	₹81.61 L	Fully-Furnished	4	Any	Sale
+454	Rajasthan Properties (Rajasthan.txt)	2 BHK Apartment	Udaipur Town Centre	Udaipur / Rajasthan	Apartment / 2 BHK	896	₹16,200/month	Fully-Furnished	2	Bachelors	Rent
+455	Rajasthan Properties (Rajasthan.txt)	2 BHK Independent House	Udaipur Main Road	Udaipur / Rajasthan	Independent House / 2 BHK	1023	₹61.80 L	Semi-Furnished	1	Bachelors	Sale
+456	Rajasthan Properties (Rajasthan.txt)	3 BHK Apartment	Jaipur Central	Jaipur / Rajasthan	Apartment / 3 BHK	1517	₹81.49 L	Fully-Furnished	3	Bachelors	Sale
+457	Rajasthan Properties (Rajasthan.txt)	2 BHK Apartment	Udaipur Heights	Udaipur / Rajasthan	Apartment / 2 BHK	736	₹50.50 L	Unfurnished	1	Bachelors	Sale
+458	Rajasthan Properties (Rajasthan.txt)	2 BHK Apartment	Kota Extension	Kota / Rajasthan	Apartment / 2 BHK	1069	₹52.25 L	Semi-Furnished	2	Family	Sale
+459	Rajasthan Properties (Rajasthan.txt)	2 BHK Builder Floor	Kota South	Kota / Rajasthan	Builder Floor / 2 BHK	809	₹14,800/month	Semi-Furnished	3	Family	Rent
+460	Rajasthan Properties (Rajasthan.txt)	4 BHK Apartment	Udaipur North	Udaipur / Rajasthan	Apartment / 4 BHK	2030	₹26,600/month	Semi-Furnished	4	Any	Rent
+461	Rajasthan Properties (Rajasthan.txt)	4 BHK Apartment	Jaipur Town Centre	Jaipur / Rajasthan	Apartment / 4 BHK	2096	₹92.17 L	Semi-Furnished	5	Family	Sale
+462	Rajasthan Properties (Rajasthan.txt)	1 BHK Apartment	Jodhpur West	Jodhpur / Rajasthan	Apartment / 1 BHK	577	₹27.35 L	Fully-Furnished	1	Bachelors	Sale
+463	Rajasthan Properties (Rajasthan.txt)	5 BHK Builder Floor	Kota Sector 2	Kota / Rajasthan	Builder Floor / 5 BHK	2624	₹34,500/month	Semi-Furnished	6	Family	Rent
+464	Rajasthan Properties (Rajasthan.txt)	2 BHK Villa	Jodhpur South	Jodhpur / Rajasthan	Villa / 2 BHK	919	₹55.42 L	Semi-Furnished	3	Family	Sale
+465	Rajasthan Properties (Rajasthan.txt)	2 BHK Apartment	Kota Sector 3	Kota / Rajasthan	Apartment / 2 BHK	858	₹16,500/month	Semi-Furnished	2	Bachelors	Rent
+466	Rajasthan Properties (Rajasthan.txt)	4 BHK Apartment	Jodhpur Extension	Jodhpur / Rajasthan	Apartment / 4 BHK	1664	₹24,400/month	Semi-Furnished	4	Bachelors	Rent
+467	Rajasthan Properties (Rajasthan.txt)	4 BHK Apartment	Jaipur Heights	Jaipur / Rajasthan	Apartment / 4 BHK	1906	₹77.50 L	Fully-Furnished	4	Any	Sale
+468	Rajasthan Properties (Rajasthan.txt)	4 BHK Apartment	Kota Extension	Kota / Rajasthan	Apartment / 4 BHK	1183	₹80.54 L	Semi-Furnished	4	Family	Sale
+469	Rajasthan Properties (Rajasthan.txt)	4 BHK Builder Floor	Jodhpur Residential Area	Jodhpur / Rajasthan	Builder Floor / 4 BHK	1900	₹22,500/month	Semi-Furnished	5	Bachelors	Rent
+470	Rajasthan Properties (Rajasthan.txt)	4 BHK Apartment	Jodhpur Town Centre	Jodhpur / Rajasthan	Apartment / 4 BHK	1919	₹26,000/month	Semi-Furnished	4	Family	Rent
+471	Rajasthan Properties (Rajasthan.txt)	4 BHK Apartment	Kota Sector 3	Kota / Rajasthan	Apartment / 4 BHK	1407	₹81.53 L	Semi-Furnished	4	Any	Sale
+472	Rajasthan Properties (Rajasthan.txt)	4 BHK Independent House	Jodhpur Nagar	Jodhpur / Rajasthan	Independent House / 4 BHK	1911	₹85.32 L	Fully-Furnished	5	Any	Sale
+473	Rajasthan Properties (Rajasthan.txt)	2 BHK Apartment	Udaipur Town Centre	Udaipur / Rajasthan	Apartment / 2 BHK	728	₹44.12 L	Semi-Furnished	2	Family	Sale
+474	Rajasthan Properties (Rajasthan.txt)	2 BHK Apartment	Jaipur Heights	Jaipur / Rajasthan	Apartment / 2 BHK	844	₹52.39 L	Fully-Furnished	2	Family	Sale
+475	Rajasthan Properties (Rajasthan.txt)	3 BHK Apartment	Jaipur Extension	Jaipur / Rajasthan	Apartment / 3 BHK	1347	₹19,900/month	Fully-Furnished	2	Any	Rent
+476	Rajasthan Properties (Rajasthan.txt)	2 BHK Apartment	Jaipur West	Jaipur / Rajasthan	Apartment / 2 BHK	784	₹14,500/month	Fully-Furnished	2	Family	Rent
+477	Rajasthan Properties (Rajasthan.txt)	3 BHK Apartment	Kota Nagar	Kota / Rajasthan	Apartment / 3 BHK	1053	₹78.57 L	Unfurnished	3	Bachelors	Sale
+478	Rajasthan Properties (Rajasthan.txt)	4 BHK Apartment	Udaipur West	Udaipur / Rajasthan	Apartment / 4 BHK	1822	₹89.75 L	Unfurnished	5	Family	Sale
+479	Rajasthan Properties (Rajasthan.txt)	1 BHK Apartment	Jaipur Town Centre	Jaipur / Rajasthan	Apartment / 1 BHK	439	₹34.65 L	Fully-Furnished	1	Any	Sale
+480	Rajasthan Properties (Rajasthan.txt)	3 BHK Apartment	Udaipur Residential Area	Udaipur / Rajasthan	Apartment / 3 BHK	978	₹16,000/month	Semi-Furnished	3	Family	Rent
+481	Rajasthan Properties (Rajasthan.txt)	1 BHK Apartment	Jaipur East	Jaipur / Rajasthan	Apartment / 1 BHK	459	₹29.15 L	Semi-Furnished	1	Any	Sale
+482	Rajasthan Properties (Rajasthan.txt)	2 BHK Apartment	Udaipur Sector 1	Udaipur / Rajasthan	Apartment / 2 BHK	959	₹16,700/month	Semi-Furnished	2	Any	Rent
+483	Rajasthan Properties (Rajasthan.txt)	1 BHK Villa	Kota Central	Kota / Rajasthan	Villa / 1 BHK	805	₹8,800/month	Semi-Furnished	1	Any	Rent
+484	Rajasthan Properties (Rajasthan.txt)	3 BHK Apartment	Jodhpur East	Jodhpur / Rajasthan	Apartment / 3 BHK	1552	₹77.43 L	Semi-Furnished	3	Bachelors	Sale
+485	Rajasthan Properties (Rajasthan.txt)	2 BHK Apartment	Jodhpur North	Jodhpur / Rajasthan	Apartment / 2 BHK	778	₹52.04 L	Semi-Furnished	1	Any	Sale
+486	Rajasthan Properties (Rajasthan.txt)	2 BHK Independent House	Kota Main Road	Kota / Rajasthan	Independent House / 2 BHK	1342	₹49.49 L	Fully-Furnished	2	Bachelors	Sale
+487	Rajasthan Properties (Rajasthan.txt)	2 BHK Apartment	Jodhpur East	Jodhpur / Rajasthan	Apartment / 2 BHK	957	₹14,900/month	Semi-Furnished	2	Family	Rent
+488	Rajasthan Properties (Rajasthan.txt)	3 BHK Apartment	Udaipur East	Udaipur / Rajasthan	Apartment / 3 BHK	1369	₹82.91 L	Fully-Furnished	3	Bachelors	Sale
+489	Rajasthan Properties (Rajasthan.txt)	3 BHK Independent House	Udaipur East	Udaipur / Rajasthan	Independent House / 3 BHK	1429	₹22,100/month	Fully-Furnished	3	Bachelors	Rent
+490	Rajasthan Properties (Rajasthan.txt)	2 BHK Apartment	Kota Sector 3	Kota / Rajasthan	Apartment / 2 BHK	786	₹41.53 L	Fully-Furnished	2	Bachelors	Sale
+491	Rajasthan Properties (Rajasthan.txt)	5 BHK Independent House	Kota Main Road	Kota / Rajasthan	Independent House / 5 BHK	2776	₹1.41 Cr	Unfurnished	4	Family	Sale
+492	Rajasthan Properties (Rajasthan.txt)	4 BHK Apartment	Udaipur Sector 3	Udaipur / Rajasthan	Apartment / 4 BHK	1604	₹97.58 L	Unfurnished	4	Bachelors	Sale
+493	Rajasthan Properties (Rajasthan.txt)	2 BHK Independent House	Udaipur Central	Udaipur / Rajasthan	Independent House / 2 BHK	1135	₹55.30 L	Semi-Furnished	2	Family	Sale
+494	Rajasthan Properties (Rajasthan.txt)	2 BHK Independent House	Udaipur Extension	Udaipur / Rajasthan	Independent House / 2 BHK	967	₹60.62 L	Unfurnished	2	Family	Sale
+495	Rajasthan Properties (Rajasthan.txt)	2 BHK Apartment	Jodhpur West	Jodhpur / Rajasthan	Apartment / 2 BHK	1046	₹16,600/month	Fully-Furnished	2	Bachelors	Rent
+496	Rajasthan Properties (Rajasthan.txt)	2 BHK Villa	Jaipur North	Jaipur / Rajasthan	Villa / 2 BHK	1124	₹14,000/month	Unfurnished	2	Bachelors	Rent
+497	Rajasthan Properties (Rajasthan.txt)	4 BHK Apartment	Jodhpur Town Centre	Jodhpur / Rajasthan	Apartment / 4 BHK	1699	₹97.73 L	Semi-Furnished	3	Family	Sale
+498	Rajasthan Properties (Rajasthan.txt)	2 BHK Builder Floor	Jodhpur Extension	Jodhpur / Rajasthan	Builder Floor / 2 BHK	965	₹46.54 L	Unfurnished	2	Bachelors	Sale
+499	Rajasthan Properties (Rajasthan.txt)	2 BHK Independent House	Kota Sector 1	Kota / Rajasthan	Independent House / 2 BHK	1300	₹14,800/month	Fully-Furnished	1	Any	Rent
+500	Rajasthan Properties (Rajasthan.txt)	1 BHK Apartment	Udaipur Sector 1	Udaipur / Rajasthan	Apartment / 1 BHK	494	₹28.95 L	Fully-Furnished	1	Family	Sale
+501	Rajasthan Properties (Rajasthan.txt)	2 BHK Villa	Udaipur East	Udaipur / Rajasthan	Villa / 2 BHK	985	₹43.45 L	Semi-Furnished	2	Any	Sale
+502	Rajasthan Properties (Rajasthan.txt)	3 BHK Apartment	Jodhpur East	Jodhpur / Rajasthan	Apartment / 3 BHK	1065	₹19,600/month	Unfurnished	3	Any	Rent
+503	Rajasthan Properties (Rajasthan.txt)	3 BHK Apartment	Kota East	Kota / Rajasthan	Apartment / 3 BHK	1233	₹22,000/month	Unfurnished	3	Family	Rent
+504	Rajasthan Properties (Rajasthan.txt)	1 BHK Apartment	Jodhpur Central	Jodhpur / Rajasthan	Apartment / 1 BHK	568	₹29.32 L	Unfurnished	1	Any	Sale
+505	Rajasthan Properties (Rajasthan.txt)	3 BHK Villa	Udaipur North	Udaipur / Rajasthan	Villa / 3 BHK	1816	₹21,500/month	Semi-Furnished	3	Any	Rent
+506	Rajasthan Properties (Rajasthan.txt)	2 BHK Apartment	Kota West	Kota / Rajasthan	Apartment / 2 BHK	1026	₹14,500/month	Semi-Furnished	2	Any	Rent
+507	Rajasthan Properties (Rajasthan.txt)	3 BHK Builder Floor	Udaipur Nagar	Udaipur / Rajasthan	Builder Floor / 3 BHK	1443	₹72.27 L	Fully-Furnished	4	Bachelors	Sale
+508	Rajasthan Properties (Rajasthan.txt)	5 BHK Independent House	Jodhpur North	Jodhpur / Rajasthan	Independent House / 5 BHK	3354	₹34,500/month	Semi-Furnished	5	Bachelors	Rent
+509	Rajasthan Properties (Rajasthan.txt)	3 BHK Apartment	Udaipur Heights	Udaipur / Rajasthan	Apartment / 3 BHK	1312	₹66.65 L	Unfurnished	3	Family	Sale
+510	Rajasthan Properties (Rajasthan.txt)	1 BHK Apartment	Udaipur South	Udaipur / Rajasthan	Apartment / 1 BHK	525	₹37.79 L	Semi-Furnished	1	Any	Sale
+511	Rajasthan Properties (Rajasthan.txt)	2 BHK Independent House	Udaipur Sector 1	Udaipur / Rajasthan	Independent House / 2 BHK	903	₹11,900/month	Fully-Furnished	1	Bachelors	Rent
+512	Rajasthan Properties (Rajasthan.txt)	3 BHK Builder Floor	Jodhpur Central	Jodhpur / Rajasthan	Builder Floor / 3 BHK	1199	₹17,900/month	Unfurnished	3	Any	Rent
+513	Rajasthan Properties (Rajasthan.txt)	3 BHK Apartment	Kota Town Centre	Kota / Rajasthan	Apartment / 3 BHK	1402	₹72.64 L	Unfurnished	2	Family	Sale
+514	Rajasthan Properties (Rajasthan.txt)	5 BHK Independent House	Jaipur Sector 2	Jaipur / Rajasthan	Independent House / 5 BHK	2832	₹98.12 L	Semi-Furnished	5	Bachelors	Sale
+515	Rajasthan Properties (Rajasthan.txt)	2 BHK Apartment	Kota Sector 2	Kota / Rajasthan	Apartment / 2 BHK	1047	₹15,400/month	Unfurnished	2	Family	Rent
+516	Rajasthan Properties (Rajasthan.txt)	2 BHK Apartment	Jaipur Central	Jaipur / Rajasthan	Apartment / 2 BHK	874	₹11,800/month	Fully-Furnished	2	Family	Rent
+517	Rajasthan Properties (Rajasthan.txt)	1 BHK Independent House	Kota East	Kota / Rajasthan	Independent House / 1 BHK	633	₹32.40 L	Semi-Furnished	1	Any	Sale
+518	Rajasthan Properties (Rajasthan.txt)	2 BHK Apartment	Jodhpur Heights	Jodhpur / Rajasthan	Apartment / 2 BHK	813	₹41.59 L	Unfurnished	1	Family	Sale
+519	Rajasthan Properties (Rajasthan.txt)	3 BHK Builder Floor	Kota Sector 3	Kota / Rajasthan	Builder Floor / 3 BHK	1371	₹73.07 L	Semi-Furnished	2	Bachelors	Sale
+520	Rajasthan Properties (Rajasthan.txt)	3 BHK Builder Floor	Jodhpur East	Jodhpur / Rajasthan	Builder Floor / 3 BHK	1105	₹65.20 L	Fully-Furnished	3	Any	Sale
+521	Rajasthan Properties (Rajasthan.txt)	3 BHK Apartment	Udaipur West	Udaipur / Rajasthan	Apartment / 3 BHK	1297	₹77.97 L	Unfurnished	3	Any	Sale
+522	Rajasthan Properties (Rajasthan.txt)	3 BHK Apartment	Kota North	Kota / Rajasthan	Apartment / 3 BHK	997	₹77.42 L	Semi-Furnished	3	Bachelors	Sale
+523	Rajasthan Properties (Rajasthan.txt)	1 BHK Studio	Jaipur North	Jaipur / Rajasthan	Studio / 1 BHK	435	₹10,100/month	Semi-Furnished	1	Family	Rent
+524	Rajasthan Properties (Rajasthan.txt)	1 BHK Builder Floor	Kota North	Kota / Rajasthan	Builder Floor / 1 BHK	569	₹28.85 L	Unfurnished	1	Family	Sale
+525	Rajasthan Properties (Rajasthan.txt)	2 BHK Apartment	Kota Colony	Kota / Rajasthan	Apartment / 2 BHK	790	₹56.68 L	Semi-Furnished	2	Bachelors	Sale
+526	Rajasthan Properties (Rajasthan.txt)	1 BHK Villa	Jaipur South	Jaipur / Rajasthan	Villa / 1 BHK	745	₹33.17 L	Fully-Furnished	1	Family	Sale
+527	Rajasthan Properties (Rajasthan.txt)	2 BHK Independent House	Kota Extension	Kota / Rajasthan	Independent House / 2 BHK	824	₹52.47 L	Semi-Furnished	2	Any	Sale
+528	Rajasthan Properties (Rajasthan.txt)	5 BHK Apartment	Kota North	Kota / Rajasthan	Apartment / 5 BHK	2805	₹33,800/month	Semi-Furnished	5	Bachelors	Rent
+529	Rajasthan Properties (Rajasthan.txt)	2 BHK Apartment	Udaipur Central	Udaipur / Rajasthan	Apartment / 2 BHK	783	₹52.84 L	Fully-Furnished	2	Family	Sale
+530	Rajasthan Properties (Rajasthan.txt)	2 BHK Apartment	Jodhpur Main Road	Jodhpur / Rajasthan	Apartment / 2 BHK	693	₹15,800/month	Semi-Furnished	2	Bachelors	Rent
+531	Rajasthan Properties (Rajasthan.txt)	4 BHK Builder Floor	Kota Colony	Kota / Rajasthan	Builder Floor / 4 BHK	1687	₹93.21 L	Unfurnished	4	Family	Sale
+532	Rajasthan Properties (Rajasthan.txt)	1 BHK Apartment	Jodhpur Heights	Jodhpur / Rajasthan	Apartment / 1 BHK	507	₹37.74 L	Unfurnished	1	Family	Sale
+533	Rajasthan Properties (Rajasthan.txt)	2 BHK Builder Floor	Udaipur Heights	Udaipur / Rajasthan	Builder Floor / 2 BHK	984	₹13,000/month	Semi-Furnished	2	Family	Rent
+534	Rajasthan Properties (Rajasthan.txt)	4 BHK Apartment	Kota Extension	Kota / Rajasthan	Apartment / 4 BHK	2116	₹1.10 Cr	Fully-Furnished	4	Any	Sale
+535	Rajasthan Properties (Rajasthan.txt)	1 BHK Studio	Jaipur East	Jaipur / Rajasthan	Studio / 1 BHK	359	₹9,700/month	Semi-Furnished	2	Bachelors	Rent
+536	Rajasthan Properties (Rajasthan.txt)	1 BHK Builder Floor	Jodhpur Nagar	Jodhpur / Rajasthan	Builder Floor / 1 BHK	617	₹38.38 L	Fully-Furnished	1	Family	Sale
+537	Rajasthan Properties (Rajasthan.txt)	2 BHK Villa	Jaipur West	Jaipur / Rajasthan	Villa / 2 BHK	1045	₹13,100/month	Semi-Furnished	1	Any	Rent
+538	Rajasthan Properties (Rajasthan.txt)	2 BHK Apartment	Jodhpur East	Jodhpur / Rajasthan	Apartment / 2 BHK	899	₹42.40 L	Semi-Furnished	2	Bachelors	Sale
+539	Rajasthan Properties (Rajasthan.txt)	1 BHK Apartment	Kota West	Kota / Rajasthan	Apartment / 1 BHK	466	₹30.37 L	Semi-Furnished	1	Family	Sale
+540	Rajasthan Properties (Rajasthan.txt)	3 BHK Apartment	Kota South	Kota / Rajasthan	Apartment / 3 BHK	849	₹17,200/month	Unfurnished	2	Family	Rent
+541	Rajasthan Properties (Rajasthan.txt)	3 BHK Apartment	Kota Central	Kota / Rajasthan	Apartment / 3 BHK	1110	₹59.75 L	Semi-Furnished	3	Any	Sale
+542	Rajasthan Properties (Rajasthan.txt)	2 BHK Apartment	Jodhpur Heights	Jodhpur / Rajasthan	Apartment / 2 BHK	863	₹52.74 L	Semi-Furnished	2	Family	Sale
+543	Rajasthan Properties (Rajasthan.txt)	4 BHK Builder Floor	Udaipur North	Udaipur / Rajasthan	Builder Floor / 4 BHK	1770	₹90.93 L	Fully-Furnished	4	Bachelors	Sale
+544	Rajasthan Properties (Rajasthan.txt)	2 BHK Apartment	Jodhpur Residential Area	Jodhpur / Rajasthan	Apartment / 2 BHK	898	₹15,800/month	Semi-Furnished	2	Family	Rent
+545	Rajasthan Properties (Rajasthan.txt)	3 BHK Apartment	Jaipur Main Road	Jaipur / Rajasthan	Apartment / 3 BHK	1397	₹21,500/month	Fully-Furnished	3	Family	Rent
+546	Rajasthan Properties (Rajasthan.txt)	2 BHK Apartment	Udaipur South	Udaipur / Rajasthan	Apartment / 2 BHK	1003	₹55.75 L	Semi-Furnished	2	Any	Sale
+547	Rajasthan Properties (Rajasthan.txt)	3 BHK Apartment	Jaipur Town Centre	Jaipur / Rajasthan	Apartment / 3 BHK	1160	₹57.23 L	Semi-Furnished	4	Family	Sale
+548	Rajasthan Properties (Rajasthan.txt)	2 BHK Builder Floor	Kota Sector 1	Kota / Rajasthan	Builder Floor / 2 BHK	922	₹49.53 L	Semi-Furnished	2	Bachelors	Sale
+549	Rajasthan Properties (Rajasthan.txt)	1 BHK Apartment	Kota Nagar	Kota / Rajasthan	Apartment / 1 BHK	569	₹28.31 L	Unfurnished	2	Bachelors	Sale
+550	Rajasthan Properties (Rajasthan.txt)	2 BHK Villa	Kota Main Road	Kota / Rajasthan	Villa / 2 BHK	1278	₹45.92 L	Unfurnished	2	Family	Sale
+551	Rajasthan Properties (Rajasthan.txt)	3 BHK Apartment	Kota Sector 3	Kota / Rajasthan	Apartment / 3 BHK	1365	₹17,900/month	Unfurnished	4	Bachelors	Rent
+552	Rajasthan Properties (Rajasthan.txt)	1 BHK Independent House	Kota Extension	Kota / Rajasthan	Independent House / 1 BHK	701	₹35.37 L	Unfurnished	2	Family	Sale
+553	Rajasthan Properties (Rajasthan.txt)	4 BHK Apartment	Jaipur West	Jaipur / Rajasthan	Apartment / 4 BHK	1551	₹24,600/month	Unfurnished	4	Family	Rent
+554	Rajasthan Properties (Rajasthan.txt)	3 BHK Apartment	Jodhpur West	Jodhpur / Rajasthan	Apartment / 3 BHK	1565	₹20,600/month	Fully-Furnished	3	Any	Rent
+555	Rajasthan Properties (Rajasthan.txt)	3 BHK Builder Floor	Jaipur Nagar	Jaipur / Rajasthan	Builder Floor / 3 BHK	1238	₹19,000/month	Semi-Furnished	3	Family	Rent
+556	Rajasthan Properties (Rajasthan.txt)	3 BHK Builder Floor	Jaipur Sector 1	Jaipur / Rajasthan	Builder Floor / 3 BHK	635	₹18,000/month	Fully-Furnished	4	Any	Rent
+557	Rajasthan Properties (Rajasthan.txt)	2 BHK Apartment	Jaipur Colony	Jaipur / Rajasthan	Apartment / 2 BHK	794	₹14,000/month	Semi-Furnished	2	Family	Rent
+558	Rajasthan Properties (Rajasthan.txt)	2 BHK Builder Floor	Kota North	Kota / Rajasthan	Builder Floor / 2 BHK	924	₹15,200/month	Unfurnished	2	Bachelors	Rent
+559	Rajasthan Properties (Rajasthan.txt)	1 BHK Apartment	Jaipur West	Jaipur / Rajasthan	Apartment / 1 BHK	546	₹8,400/month	Semi-Furnished	1	Bachelors	Rent
+560	Rajasthan Properties (Rajasthan.txt)	4 BHK Apartment	Jodhpur Residential Area	Jodhpur / Rajasthan	Apartment / 4 BHK	1544	₹72.36 L	Unfurnished	4	Bachelors	Sale
+561	Rajasthan Properties (Rajasthan.txt)	3 BHK Builder Floor	Jodhpur Colony	Jodhpur / Rajasthan	Builder Floor / 3 BHK	1259	₹58.67 L	Unfurnished	4	Any	Sale
+562	Rajasthan Properties (Rajasthan.txt)	2 BHK Apartment	Kota Colony	Kota / Rajasthan	Apartment / 2 BHK	715	₹57.74 L	Unfurnished	2	Any	Sale
+563	Rajasthan Properties (Rajasthan.txt)	4 BHK Apartment	Udaipur Sector 2	Udaipur / Rajasthan	Apartment / 4 BHK	1829	₹79.31 L	Semi-Furnished	5	Any	Sale
+564	Rajasthan Properties (Rajasthan.txt)	2 BHK Independent House	Udaipur East	Udaipur / Rajasthan	Independent House / 2 BHK	1027	₹13,000/month	Semi-Furnished	2	Any	Rent
+565	Rajasthan Properties (Rajasthan.txt)	3 BHK Builder Floor	Jaipur Central	Jaipur / Rajasthan	Builder Floor / 3 BHK	1254	₹69.74 L	Semi-Furnished	3	Family	Sale
+566	Rajasthan Properties (Rajasthan.txt)	1 BHK Builder Floor	Jodhpur Colony	Jodhpur / Rajasthan	Builder Floor / 1 BHK	482	₹7,600/month	Unfurnished	1	Bachelors	Rent
+567	Rajasthan Properties (Rajasthan.txt)	4 BHK Builder Floor	Jaipur Sector 2	Jaipur / Rajasthan	Builder Floor / 4 BHK	1627	₹25,900/month	Unfurnished	4	Family	Rent
+568	Rajasthan Properties (Rajasthan.txt)	3 BHK Apartment	Kota West	Kota / Rajasthan	Apartment / 3 BHK	1098	₹61.82 L	Fully-Furnished	3	Family	Sale
+569	Rajasthan Properties (Rajasthan.txt)	4 BHK Villa	Jodhpur Residential Area	Jodhpur / Rajasthan	Villa / 4 BHK	2296	₹27,300/month	Semi-Furnished	4	Family	Rent
+570	Rajasthan Properties (Rajasthan.txt)	5 BHK Builder Floor	Kota Colony	Kota / Rajasthan	Builder Floor / 5 BHK	2208	₹93.33 L	Semi-Furnished	4	Any	Sale
+571	Rajasthan Properties (Rajasthan.txt)	2 BHK Villa	Jodhpur Sector 2	Jodhpur / Rajasthan	Villa / 2 BHK	993	₹55.96 L	Semi-Furnished	1	Family	Sale
+572	Rajasthan Properties (Rajasthan.txt)	3 BHK Independent House	Udaipur Main Road	Udaipur / Rajasthan	Independent House / 3 BHK	1552	₹19,900/month	Fully-Furnished	4	Bachelors	Rent
+573	Rajasthan Properties (Rajasthan.txt)	3 BHK Apartment	Udaipur Central	Udaipur / Rajasthan	Apartment / 3 BHK	1443	₹78.45 L	Unfurnished	3	Family	Sale
+574	Rajasthan Properties (Rajasthan.txt)	2 BHK Apartment	Jaipur Sector 3	Jaipur / Rajasthan	Apartment / 2 BHK	793	₹57.99 L	Semi-Furnished	2	Bachelors	Sale
+575	Rajasthan Properties (Rajasthan.txt)	3 BHK Independent House	Kota Central	Kota / Rajasthan	Independent House / 3 BHK	1347	₹64.49 L	Fully-Furnished	3	Family	Sale
+576	Rajasthan Properties (Rajasthan.txt)	1 BHK Apartment	Jodhpur North	Jodhpur / Rajasthan	Apartment / 1 BHK	527	₹32.50 L	Semi-Furnished	1	Family	Sale
+577	Rajasthan Properties (Rajasthan.txt)	3 BHK Builder Floor	Kota Central	Kota / Rajasthan	Builder Floor / 3 BHK	1426	₹81.23 L	Unfurnished	2	Bachelors	Sale
+578	Rajasthan Properties (Rajasthan.txt)	3 BHK Apartment	Udaipur West	Udaipur / Rajasthan	Apartment / 3 BHK	1154	₹55.86 L	Semi-Furnished	2	Any	Sale
+579	Rajasthan Properties (Rajasthan.txt)	1 BHK Independent House	Kota Residential Area	Kota / Rajasthan	Independent House / 1 BHK	471	₹37.16 L	Semi-Furnished	1	Family	Sale
+580	Rajasthan Properties (Rajasthan.txt)	2 BHK Builder Floor	Jaipur North	Jaipur / Rajasthan	Builder Floor / 2 BHK	654	₹51.18 L	Fully-Furnished	3	Family	Sale
+581	Rajasthan Properties (Rajasthan.txt)	4 BHK Independent House	Kota North	Kota / Rajasthan	Independent House / 4 BHK	1855	₹86.78 L	Semi-Furnished	5	Bachelors	Sale
+582	Rajasthan Properties (Rajasthan.txt)	3 BHK Builder Floor	Jodhpur North	Jodhpur / Rajasthan	Builder Floor / 3 BHK	1057	₹60.30 L	Fully-Furnished	3	Any	Sale
+583	Rajasthan Properties (Rajasthan.txt)	2 BHK Apartment	Jodhpur Nagar	Jodhpur / Rajasthan	Apartment / 2 BHK	747	₹51.77 L	Semi-Furnished	2	Bachelors	Sale
+584	Rajasthan Properties (Rajasthan.txt)	4 BHK Apartment	Jodhpur Colony	Jodhpur / Rajasthan	Apartment / 4 BHK	2268	₹1.06 Cr	Semi-Furnished	4	Any	Sale
+585	Rajasthan Properties (Rajasthan.txt)	4 BHK Apartment	Jodhpur East	Jodhpur / Rajasthan	Apartment / 4 BHK	2288	₹28,200/month	Fully-Furnished	5	Bachelors	Rent
+586	Rajasthan Properties (Rajasthan.txt)	1 BHK Independent House	Kota North	Kota / Rajasthan	Independent House / 1 BHK	628	₹8,400/month	Unfurnished	1	Any	Rent
+587	Rajasthan Properties (Rajasthan.txt)	3 BHK Apartment	Jaipur Town Centre	Jaipur / Rajasthan	Apartment / 3 BHK	978	₹75.62 L	Semi-Furnished	3	Bachelors	Sale
+588	Rajasthan Properties (Rajasthan.txt)	1 BHK Apartment	Udaipur Main Road	Udaipur / Rajasthan	Apartment / 1 BHK	487	₹28.11 L	Semi-Furnished	1	Family	Sale
+589	Rajasthan Properties (Rajasthan.txt)	2 BHK Apartment	Jaipur Main Road	Jaipur / Rajasthan	Apartment / 2 BHK	741	₹11,200/month	Semi-Furnished	2	Family	Rent
+590	Rajasthan Properties (Rajasthan.txt)	1 BHK Apartment	Jaipur Extension	Jaipur / Rajasthan	Apartment / 1 BHK	695	₹8,300/month	Semi-Furnished	1	Any	Rent
+591	Rajasthan Properties (Rajasthan.txt)	3 BHK Apartment	Jodhpur East	Jodhpur / Rajasthan	Apartment / 3 BHK	1227	₹75.66 L	Unfurnished	3	Bachelors	Sale
+592	Rajasthan Properties (Rajasthan.txt)	2 BHK Apartment	Kota Heights	Kota / Rajasthan	Apartment / 2 BHK	918	₹51.93 L	Unfurnished	3	Family	Sale
+593	Rajasthan Properties (Rajasthan.txt)	3 BHK Apartment	Kota Extension	Kota / Rajasthan	Apartment / 3 BHK	1248	₹63.29 L	Semi-Furnished	3	Any	Sale
+594	Rajasthan Properties (Rajasthan.txt)	2 BHK Apartment	Jaipur Town Centre	Jaipur / Rajasthan	Apartment / 2 BHK	884	₹52.89 L	Semi-Furnished	1	Family	Sale
+595	Rajasthan Properties (Rajasthan.txt)	3 BHK Apartment	Jaipur Central	Jaipur / Rajasthan	Apartment / 3 BHK	1510	₹73.68 L	Semi-Furnished	3	Any	Sale
+596	Rajasthan Properties (Rajasthan.txt)	3 BHK Apartment	Udaipur Nagar	Udaipur / Rajasthan	Apartment / 3 BHK	1568	₹61.73 L	Fully-Furnished	2	Bachelors	Sale
+597	Rajasthan Properties (Rajasthan.txt)	2 BHK Apartment	Jaipur Colony	Jaipur / Rajasthan	Apartment / 2 BHK	878	₹49.66 L	Unfurnished	1	Bachelors	Sale
+598	Rajasthan Properties (Rajasthan.txt)	1 BHK Studio	Jaipur Sector 3	Jaipur / Rajasthan	Studio / 1 BHK	300	₹26.03 L	Semi-Furnished	1	Family	Sale
+599	Rajasthan Properties (Rajasthan.txt)	5 BHK Apartment	Udaipur Heights	Udaipur / Rajasthan	Apartment / 5 BHK	2779	₹1.34 Cr	Unfurnished	5	Any	Sale
+600	Rajasthan Properties (Rajasthan.txt)	2 BHK Apartment	Jaipur Sector 2	Jaipur / Rajasthan	Apartment / 2 BHK	729	₹55.94 L	Semi-Furnished	2	Any	Sale
+601	Rajasthan Properties (Rajasthan.txt)	5 BHK Apartment	Jodhpur Extension	Jodhpur / Rajasthan	Apartment / 5 BHK	2407	₹29,500/month	Unfurnished	4	Any	Rent
+602	Rajasthan Properties (Rajasthan.txt)	2 BHK Apartment	Udaipur Central	Udaipur / Rajasthan	Apartment / 2 BHK	861	₹42.57 L	Fully-Furnished	2	Any	Sale
+603	Rajasthan Properties (Rajasthan.txt)	2 BHK Apartment	Udaipur South	Udaipur / Rajasthan	Apartment / 2 BHK	727	₹46.83 L	Fully-Furnished	2	Family	Sale
+604	Rajasthan Properties (Rajasthan.txt)	4 BHK Apartment	Jaipur Sector 3	Jaipur / Rajasthan	Apartment / 4 BHK	1194	₹70.75 L	Unfurnished	4	Bachelors	Sale
+605	Rajasthan Properties (Rajasthan.txt)	2 BHK Independent House	Kota Extension	Kota / Rajasthan	Independent House / 2 BHK	902	₹15,600/month	Semi-Furnished	2	Family	Rent
+606	Rajasthan Properties (Rajasthan.txt)	2 BHK Apartment	Udaipur East	Udaipur / Rajasthan	Apartment / 2 BHK	720	₹48.25 L	Fully-Furnished	2	Family	Sale
+607	Rajasthan Properties (Rajasthan.txt)	2 BHK Villa	Kota Residential Area	Kota / Rajasthan	Villa / 2 BHK	1271	₹14,500/month	Fully-Furnished	2	Family	Rent
+608	Rajasthan Properties (Rajasthan.txt)	3 BHK Villa	Jaipur Sector 2	Jaipur / Rajasthan	Villa / 3 BHK	1593	₹22,300/month	Unfurnished	3	Any	Rent
+609	Rajasthan Properties (Rajasthan.txt)	2 BHK Apartment	Udaipur Sector 1	Udaipur / Rajasthan	Apartment / 2 BHK	729	₹40.73 L	Semi-Furnished	2	Any	Sale
+610	Rajasthan Properties (Rajasthan.txt)	2 BHK Builder Floor	Kota North	Kota / Rajasthan	Builder Floor / 2 BHK	946	₹46.35 L	Fully-Furnished	2	Any	Sale
+611	Rajasthan Properties (Rajasthan.txt)	2 BHK Apartment	Kota North	Kota / Rajasthan	Apartment / 2 BHK	968	₹14,800/month	Semi-Furnished	1	Family	Rent
+612	Rajasthan Properties (Rajasthan.txt)	2 BHK Builder Floor	Jaipur East	Jaipur / Rajasthan	Builder Floor / 2 BHK	758	₹55.23 L	Semi-Furnished	3	Any	Sale
+613	Rajasthan Properties (Rajasthan.txt)	2 BHK Apartment	Kota Residential Area	Kota / Rajasthan	Apartment / 2 BHK	959	₹46.57 L	Semi-Furnished	2	Any	Sale
+614	Rajasthan Properties (Rajasthan.txt)	2 BHK Apartment	Jodhpur Sector 1	Jodhpur / Rajasthan	Apartment / 2 BHK	844	₹46.52 L	Fully-Furnished	1	Bachelors	Sale
+615	Rajasthan Properties (Rajasthan.txt)	1 BHK Builder Floor	Kota Sector 2	Kota / Rajasthan	Builder Floor / 1 BHK	497	₹32.12 L	Fully-Furnished	1	Family	Sale
+616	Rajasthan Properties (Rajasthan.txt)	4 BHK Independent House	Jodhpur Nagar	Jodhpur / Rajasthan	Independent House / 4 BHK	2030	₹1.10 Cr	Fully-Furnished	4	Bachelors	Sale
+617	Rajasthan Properties (Rajasthan.txt)	2 BHK Independent House	Jodhpur Heights	Jodhpur / Rajasthan	Independent House / 2 BHK	1105	₹12,600/month	Fully-Furnished	1	Bachelors	Rent
+618	Rajasthan Properties (Rajasthan.txt)	2 BHK Apartment	Kota Colony	Kota / Rajasthan	Apartment / 2 BHK	875	₹12,400/month	Fully-Furnished	2	Family	Rent
+619	Rajasthan Properties (Rajasthan.txt)	1 BHK Independent House	Jodhpur Nagar	Jodhpur / Rajasthan	Independent House / 1 BHK	601	₹10,700/month	Unfurnished	1	Family	Rent
+620	Rajasthan Properties (Rajasthan.txt)	3 BHK Builder Floor	Jodhpur Sector 1	Jodhpur / Rajasthan	Builder Floor / 3 BHK	1029	₹16,300/month	Fully-Furnished	4	Any	Rent
+621	Rajasthan Properties (Rajasthan.txt)	3 BHK Apartment	Jodhpur North	Jodhpur / Rajasthan	Apartment / 3 BHK	1080	₹59.69 L	Semi-Furnished	3	Family	Sale
+622	Rajasthan Properties (Rajasthan.txt)	3 BHK Apartment	Kota Sector 3	Kota / Rajasthan	Apartment / 3 BHK	1412	₹23,200/month	Semi-Furnished	3	Family	Rent
+623	Rajasthan Properties (Rajasthan.txt)	3 BHK Independent House	Jodhpur East	Jodhpur / Rajasthan	Independent House / 3 BHK	1422	₹16,600/month	Semi-Furnished	4	Family	Rent
+624	Rajasthan Properties (Rajasthan.txt)	1 BHK Apartment	Jaipur Colony	Jaipur / Rajasthan	Apartment / 1 BHK	448	₹34.52 L	Unfurnished	1	Any	Sale
+625	Rajasthan Properties (Rajasthan.txt)	2 BHK Apartment	Kota Main Road	Kota / Rajasthan	Apartment / 2 BHK	752	₹44.80 L	Semi-Furnished	2	Family	Sale
+626	Rajasthan Properties (Rajasthan.txt)	3 BHK Apartment	Udaipur South	Udaipur / Rajasthan	Apartment / 3 BHK	1069	₹66.68 L	Fully-Furnished	2	Bachelors	Sale
+627	Rajasthan Properties (Rajasthan.txt)	2 BHK Villa	Jodhpur Sector 3	Jodhpur / Rajasthan	Villa / 2 BHK	959	₹43.11 L	Semi-Furnished	2	Any	Sale
+628	Rajasthan Properties (Rajasthan.txt)	2 BHK Independent House	Jodhpur Sector 1	Jodhpur / Rajasthan	Independent House / 2 BHK	1098	₹17,300/month	Fully-Furnished	2	Bachelors	Rent
+629	Rajasthan Properties (Rajasthan.txt)	4 BHK Apartment	Udaipur Central	Udaipur / Rajasthan	Apartment / 4 BHK	1806	₹88.97 L	Fully-Furnished	5	Bachelors	Sale
+630	Rajasthan Properties (Rajasthan.txt)	4 BHK Villa	Kota East	Kota / Rajasthan	Villa / 4 BHK	2324	₹22,600/month	Fully-Furnished	4	Bachelors	Rent
+631	Rajasthan Properties (Rajasthan.txt)	2 BHK Apartment	Kota South	Kota / Rajasthan	Apartment / 2 BHK	1005	₹12,800/month	Fully-Furnished	2	Any	Rent
+632	Rajasthan Properties (Rajasthan.txt)	5 BHK Apartment	Kota Heights	Kota / Rajasthan	Apartment / 5 BHK	2524	₹29,800/month	Unfurnished	5	Family	Rent
+633	Rajasthan Properties (Rajasthan.txt)	2 BHK Builder Floor	Jaipur East	Jaipur / Rajasthan	Builder Floor / 2 BHK	823	₹48.61 L	Unfurnished	1	Any	Sale
+634	Rajasthan Properties (Rajasthan.txt)	4 BHK Builder Floor	Jaipur Residential Area	Jaipur / Rajasthan	Builder Floor / 4 BHK	1673	₹87.47 L	Semi-Furnished	4	Family	Sale
+635	Rajasthan Properties (Rajasthan.txt)	3 BHK Apartment	Kota West	Kota / Rajasthan	Apartment / 3 BHK	1239	₹18,200/month	Fully-Furnished	4	Any	Rent
+636	Rajasthan Properties (Rajasthan.txt)	5 BHK Apartment	Jodhpur Residential Area	Jodhpur / Rajasthan	Apartment / 5 BHK	2717	₹32,800/month	Fully-Furnished	6	Family	Rent
+637	Rajasthan Properties (Rajasthan.txt)	1 BHK Builder Floor	Jaipur Colony	Jaipur / Rajasthan	Builder Floor / 1 BHK	488	₹10,300/month	Semi-Furnished	1	Bachelors	Rent
+638	Rajasthan Properties (Rajasthan.txt)	3 BHK Villa	Jodhpur Sector 2	Jodhpur / Rajasthan	Villa / 3 BHK	1342	₹70.18 L	Fully-Furnished	3	Family	Sale
+639	Rajasthan Properties (Rajasthan.txt)	5 BHK Independent House	Jaipur Sector 2	Jaipur / Rajasthan	Independent House / 5 BHK	3293	₹30,500/month	Unfurnished	5	Family	Rent
+640	Rajasthan Properties (Rajasthan.txt)	2 BHK Apartment	Jodhpur Heights	Jodhpur / Rajasthan	Apartment / 2 BHK	1010	₹43.47 L	Fully-Furnished	2	Family	Sale
+641	Rajasthan Properties (Rajasthan.txt)	2 BHK Apartment	Udaipur Town Centre	Udaipur / Rajasthan	Apartment / 2 BHK	706	₹56.90 L	Fully-Furnished	3	Any	Sale
+642	Rajasthan Properties (Rajasthan.txt)	4 BHK Independent House	Jodhpur Sector 3	Jodhpur / Rajasthan	Independent House / 4 BHK	1960	₹1.08 Cr	Semi-Furnished	4	Bachelors	Sale
+643	Rajasthan Properties (Rajasthan.txt)	4 BHK Apartment	Udaipur Colony	Udaipur / Rajasthan	Apartment / 4 BHK	1821	₹96.23 L	Semi-Furnished	3	Family	Sale
+644	Rajasthan Properties (Rajasthan.txt)	1 BHK Apartment	Udaipur Town Centre	Udaipur / Rajasthan	Apartment / 1 BHK	508	₹26.32 L	Fully-Furnished	2	Family	Sale
+645	Rajasthan Properties (Rajasthan.txt)	3 BHK Apartment	Kota Town Centre	Kota / Rajasthan	Apartment / 3 BHK	1336	₹68.60 L	Fully-Furnished	4	Any	Sale
+646	Rajasthan Properties (Rajasthan.txt)	5 BHK Apartment	Jaipur South	Jaipur / Rajasthan	Apartment / 5 BHK	3212	₹1.18 Cr	Semi-Furnished	4	Family	Sale
+647	Rajasthan Properties (Rajasthan.txt)	3 BHK Independent House	Udaipur West	Udaipur / Rajasthan	Independent House / 3 BHK	1086	₹14,900/month	Fully-Furnished	3	Bachelors	Rent
+648	Rajasthan Properties (Rajasthan.txt)	2 BHK Apartment	Kota East	Kota / Rajasthan	Apartment / 2 BHK	983	₹45.44 L	Semi-Furnished	2	Bachelors	Sale
+649	Rajasthan Properties (Rajasthan.txt)	2 BHK Apartment	Kota Sector 2	Kota / Rajasthan	Apartment / 2 BHK	705	₹54.76 L	Fully-Furnished	2	Bachelors	Sale
+650	Rajasthan Properties (Rajasthan.txt)	4 BHK Apartment	Jaipur North	Jaipur / Rajasthan	Apartment / 4 BHK	2127	₹26,400/month	Semi-Furnished	4	Family	Rent
+651	Rajasthan Properties (Rajasthan.txt)	3 BHK Apartment	Udaipur Nagar	Udaipur / Rajasthan	Apartment / 3 BHK	1036	₹71.92 L	Unfurnished	2	Family	Sale
+652	Rajasthan Properties (Rajasthan.txt)	2 BHK Apartment	Jaipur Main Road	Jaipur / Rajasthan	Apartment / 2 BHK	751	₹44.38 L	Unfurnished	2	Family	Sale
+653	Rajasthan Properties (Rajasthan.txt)	4 BHK Apartment	Jaipur Extension	Jaipur / Rajasthan	Apartment / 4 BHK	2135	₹1.09 Cr	Semi-Furnished	4	Family	Sale
+654	Rajasthan Properties (Rajasthan.txt)	2 BHK Apartment	Udaipur West	Udaipur / Rajasthan	Apartment / 2 BHK	788	₹56.73 L	Unfurnished	3	Family	Sale
+655	Rajasthan Properties (Rajasthan.txt)	2 BHK Apartment	Jaipur Central	Jaipur / Rajasthan	Apartment / 2 BHK	823	₹15,900/month	Unfurnished	2	Family	Rent
+656	Rajasthan Properties (Rajasthan.txt)	3 BHK Apartment	Udaipur South	Udaipur / Rajasthan	Apartment / 3 BHK	1409	₹18,200/month	Semi-Furnished	3	Family	Rent
+657	Rajasthan Properties (Rajasthan.txt)	1 BHK Studio	Jodhpur West	Jodhpur / Rajasthan	Studio / 1 BHK	412	₹25.54 L	Semi-Furnished	1	Family	Sale
+658	Rajasthan Properties (Rajasthan.txt)	1 BHK Apartment	Jaipur Sector 1	Jaipur / Rajasthan	Apartment / 1 BHK	533	₹9,300/month	Semi-Furnished	1	Bachelors	Rent
+659	Rajasthan Properties (Rajasthan.txt)	3 BHK Apartment	Kota Sector 1	Kota / Rajasthan	Apartment / 3 BHK	901	₹78.09 L	Fully-Furnished	4	Family	Sale
+660	Rajasthan Properties (Rajasthan.txt)	3 BHK Independent House	Udaipur Sector 2	Udaipur / Rajasthan	Independent House / 3 BHK	1647	₹23,900/month	Semi-Furnished	4	Family	Rent
+661	Rajasthan Properties (Rajasthan.txt)	2 BHK Independent House	Udaipur Sector 1	Udaipur / Rajasthan	Independent House / 2 BHK	823	₹15,100/month	Unfurnished	1	Family	Rent
+662	Rajasthan Properties (Rajasthan.txt)	2 BHK Apartment	Kota West	Kota / Rajasthan	Apartment / 2 BHK	839	₹52.51 L	Unfurnished	2	Any	Sale
+663	Rajasthan Properties (Rajasthan.txt)	1 BHK Apartment	Jaipur Colony	Jaipur / Rajasthan	Apartment / 1 BHK	572	₹8,700/month	Fully-Furnished	1	Any	Rent
+664	Rajasthan Properties (Rajasthan.txt)	1 BHK Independent House	Jaipur Extension	Jaipur / Rajasthan	Independent House / 1 BHK	640	₹34.85 L	Semi-Furnished	1	Family	Sale
+665	Rajasthan Properties (Rajasthan.txt)	2 BHK Apartment	Udaipur Heights	Udaipur / Rajasthan	Apartment / 2 BHK	782	₹43.79 L	Unfurnished	3	Family	Sale
+666	Rajasthan Properties (Rajasthan.txt)	3 BHK Apartment	Udaipur Main Road	Udaipur / Rajasthan	Apartment / 3 BHK	1135	₹63.38 L	Semi-Furnished	4	Family	Sale
+667	Rajasthan Properties (Rajasthan.txt)	2 BHK Independent House	Udaipur Heights	Udaipur / Rajasthan	Independent House / 2 BHK	1022	₹13,100/month	Fully-Furnished	3	Family	Rent
+668	Rajasthan Properties (Rajasthan.txt)	1 BHK Studio	Kota South	Kota / Rajasthan	Studio / 1 BHK	362	₹27.33 L	Fully-Furnished	2	Any	Sale
+669	Rajasthan Properties (Rajasthan.txt)	3 BHK Independent House	Jaipur Sector 2	Jaipur / Rajasthan	Independent House / 3 BHK	1364	₹73.73 L	Semi-Furnished	4	Bachelors	Sale
+670	Rajasthan Properties (Rajasthan.txt)	3 BHK Builder Floor	Kota Sector 3	Kota / Rajasthan	Builder Floor / 3 BHK	1335	₹61.65 L	Unfurnished	4	Family	Sale
+671	Rajasthan Properties (Rajasthan.txt)	2 BHK Apartment	Kota Residential Area	Kota / Rajasthan	Apartment / 2 BHK	934	₹51.35 L	Semi-Furnished	2	Bachelors	Sale
+672	Rajasthan Properties (Rajasthan.txt)	3 BHK Independent House	Jaipur Sector 2	Jaipur / Rajasthan	Independent House / 3 BHK	1792	₹67.56 L	Fully-Furnished	3	Family	Sale
+673	Rajasthan Properties (Rajasthan.txt)	1 BHK Apartment	Udaipur Sector 1	Udaipur / Rajasthan	Apartment / 1 BHK	448	₹8,200/month	Semi-Furnished	1	Family	Rent
+674	Rajasthan Properties (Rajasthan.txt)	3 BHK Builder Floor	Kota Sector 2	Kota / Rajasthan	Builder Floor / 3 BHK	1072	₹60.11 L	Fully-Furnished	2	Family	Sale
+675	Rajasthan Properties (Rajasthan.txt)	3 BHK Independent House	Jodhpur Town Centre	Jodhpur / Rajasthan	Independent House / 3 BHK	1397	₹67.03 L	Semi-Furnished	2	Family	Sale
+676	Rajasthan Properties (Rajasthan.txt)	2 BHK Apartment	Kota Residential Area	Kota / Rajasthan	Apartment / 2 BHK	939	₹48.06 L	Unfurnished	2	Bachelors	Sale
+677	Rajasthan Properties (Rajasthan.txt)	2 BHK Independent House	Jaipur Sector 3	Jaipur / Rajasthan	Independent House / 2 BHK	1030	₹45.15 L	Unfurnished	2	Family	Sale
+678	Rajasthan Properties (Rajasthan.txt)	4 BHK Builder Floor	Udaipur Central	Udaipur / Rajasthan	Builder Floor / 4 BHK	1777	₹82.16 L	Fully-Furnished	3	Family	Sale
+679	Rajasthan Properties (Rajasthan.txt)	2 BHK Villa	Jodhpur South	Jodhpur / Rajasthan	Villa / 2 BHK	1373	₹48.53 L	Unfurnished	3	Family	Sale
+680	Rajasthan Properties (Rajasthan.txt)	2 BHK Builder Floor	Jaipur Sector 3	Jaipur / Rajasthan	Builder Floor / 2 BHK	766	₹12,500/month	Semi-Furnished	2	Bachelors	Rent
+681	Rajasthan Properties (Rajasthan.txt)	3 BHK Independent House	Jodhpur Sector 3	Jodhpur / Rajasthan	Independent House / 3 BHK	1838	₹17,600/month	Semi-Furnished	3	Bachelors	Rent
+682	Rajasthan Properties (Rajasthan.txt)	2 BHK Independent House	Jodhpur Sector 3	Jodhpur / Rajasthan	Independent House / 2 BHK	715	₹53.82 L	Unfurnished	2	Bachelors	Sale
+683	Rajasthan Properties (Rajasthan.txt)	4 BHK Apartment	Jodhpur Nagar	Jodhpur / Rajasthan	Apartment / 4 BHK	1978	₹28,400/month	Semi-Furnished	5	Family	Rent
+684	Rajasthan Properties (Rajasthan.txt)	3 BHK Builder Floor	Jaipur Residential Area	Jaipur / Rajasthan	Builder Floor / 3 BHK	1054	₹16,200/month	Fully-Furnished	3	Family	Rent
+685	Rajasthan Properties (Rajasthan.txt)	3 BHK Apartment	Kota Heights	Kota / Rajasthan	Apartment / 3 BHK	1149	₹15,900/month	Semi-Furnished	4	Bachelors	Rent
+686	Rajasthan Properties (Rajasthan.txt)	3 BHK Apartment	Jaipur Central	Jaipur / Rajasthan	Apartment / 3 BHK	1237	₹60.64 L	Semi-Furnished	3	Any	Sale
+687	Rajasthan Properties (Rajasthan.txt)	1 BHK Apartment	Jaipur Central	Jaipur / Rajasthan	Apartment / 1 BHK	715	₹11,300/month	Unfurnished	1	Bachelors	Rent
+688	Rajasthan Properties (Rajasthan.txt)	4 BHK Builder Floor	Kota South	Kota / Rajasthan	Builder Floor / 4 BHK	1941	₹1.08 Cr	Unfurnished	5	Family	Sale
+689	Rajasthan Properties (Rajasthan.txt)	2 BHK Apartment	Udaipur South	Udaipur / Rajasthan	Apartment / 2 BHK	951	₹54.55 L	Fully-Furnished	2	Family	Sale
+690	Rajasthan Properties (Rajasthan.txt)	5 BHK Villa	Jaipur South	Jaipur / Rajasthan	Villa / 5 BHK	4531	₹1.49 Cr	Fully-Furnished	5	Family	Sale
+691	Rajasthan Properties (Rajasthan.txt)	1 BHK Apartment	Jaipur South	Jaipur / Rajasthan	Apartment / 1 BHK	488	₹9,600/month	Semi-Furnished	1	Any	Rent
+692	Rajasthan Properties (Rajasthan.txt)	3 BHK Apartment	Jaipur East	Jaipur / Rajasthan	Apartment / 3 BHK	1633	₹82.33 L	Semi-Furnished	3	Family	Sale
+693	Rajasthan Properties (Rajasthan.txt)	2 BHK Apartment	Jaipur East	Jaipur / Rajasthan	Apartment / 2 BHK	847	₹12,700/month	Semi-Furnished	1	Bachelors	Rent
+694	Rajasthan Properties (Rajasthan.txt)	1 BHK Studio	Udaipur South	Udaipur / Rajasthan	Studio / 1 BHK	396	₹35.92 L	Unfurnished	1	Family	Sale
+695	Rajasthan Properties (Rajasthan.txt)	2 BHK Apartment	Jaipur Residential Area	Jaipur / Rajasthan	Apartment / 2 BHK	937	₹57.81 L	Unfurnished	1	Family	Sale
+696	Rajasthan Properties (Rajasthan.txt)	3 BHK Apartment	Jaipur Residential Area	Jaipur / Rajasthan	Apartment / 3 BHK	1155	₹76.39 L	Unfurnished	4	Family	Sale
+697	Rajasthan Properties (Rajasthan.txt)	1 BHK Studio	Udaipur Colony	Udaipur / Rajasthan	Studio / 1 BHK	359	₹25.82 L	Unfurnished	1	Family	Sale
+698	Rajasthan Properties (Rajasthan.txt)	2 BHK Apartment	Udaipur South	Udaipur / Rajasthan	Apartment / 2 BHK	999	₹52.11 L	Unfurnished	2	Bachelors	Sale
+699	Rajasthan Properties (Rajasthan.txt)	1 BHK Apartment	Jaipur Residential Area	Jaipur / Rajasthan	Apartment / 1 BHK	582	₹29.43 L	Fully-Furnished	1	Family	Sale
+700	Rajasthan Properties (Rajasthan.txt)	2 BHK Apartment	Jodhpur Sector 3	Jodhpur / Rajasthan	Apartment / 2 BHK	723	₹48.45 L	Semi-Furnished	2	Bachelors	Sale
+701	Rajasthan Properties (Rajasthan.txt)	3 BHK Builder Floor	Jodhpur Sector 2	Jodhpur / Rajasthan	Builder Floor / 3 BHK	1409	₹62.54 L	Fully-Furnished	2	Any	Sale
+702	Rajasthan Properties (Rajasthan.txt)	3 BHK Apartment	Jaipur Sector 2	Jaipur / Rajasthan	Apartment / 3 BHK	1445	₹78.44 L	Unfurnished	4	Family	Sale
+703	Rajasthan Properties (Rajasthan.txt)	4 BHK Apartment	Udaipur Heights	Udaipur / Rajasthan	Apartment / 4 BHK	1316	₹18,800/month	Semi-Furnished	5	Bachelors	Rent
+704	Rajasthan Properties (Rajasthan.txt)	3 BHK Apartment	Jaipur South	Jaipur / Rajasthan	Apartment / 3 BHK	1440	₹69.90 L	Fully-Furnished	3	Family	Sale
+705	Rajasthan Properties (Rajasthan.txt)	3 BHK Builder Floor	Kota South	Kota / Rajasthan	Builder Floor / 3 BHK	1165	₹55.93 L	Semi-Furnished	4	Family	Sale
+706	Rajasthan Properties (Rajasthan.txt)	1 BHK Villa	Udaipur Central	Udaipur / Rajasthan	Villa / 1 BHK	734	₹37.52 L	Semi-Furnished	2	Any	Sale
+707	Rajasthan Properties (Rajasthan.txt)	4 BHK Apartment	Jaipur Heights	Jaipur / Rajasthan	Apartment / 4 BHK	1860	₹96.24 L	Semi-Furnished	5	Any	Sale
+708	Rajasthan Properties (Rajasthan.txt)	2 BHK Apartment	Jodhpur South	Jodhpur / Rajasthan	Apartment / 2 BHK	1073	₹17,100/month	Fully-Furnished	1	Family	Rent
+709	Rajasthan Properties (Rajasthan.txt)	3 BHK Independent House	Udaipur Main Road	Udaipur / Rajasthan	Independent House / 3 BHK	1238	₹79.92 L	Unfurnished	3	Any	Sale
+710	Rajasthan Properties (Rajasthan.txt)	1 BHK Apartment	Jaipur Sector 1	Jaipur / Rajasthan	Apartment / 1 BHK	455	₹28.61 L	Unfurnished	1	Any	Sale
+711	Rajasthan Properties (Rajasthan.txt)	2 BHK Builder Floor	Udaipur Sector 1	Udaipur / Rajasthan	Builder Floor / 2 BHK	830	₹13,600/month	Semi-Furnished	1	Bachelors	Rent
+712	Rajasthan Properties (Rajasthan.txt)	4 BHK Villa	Jodhpur Main Road	Jodhpur / Rajasthan	Villa / 4 BHK	2123	₹99.17 L	Fully-Furnished	4	Bachelors	Sale
+713	Rajasthan Properties (Rajasthan.txt)	1 BHK Apartment	Jodhpur East	Jodhpur / Rajasthan	Apartment / 1 BHK	581	₹39.41 L	Unfurnished	1	Family	Sale
+714	Rajasthan Properties (Rajasthan.txt)	3 BHK Builder Floor	Jaipur Extension	Jaipur / Rajasthan	Builder Floor / 3 BHK	1020	₹15,600/month	Semi-Furnished	4	Bachelors	Rent
+715	Rajasthan Properties (Rajasthan.txt)	2 BHK Apartment	Jodhpur Sector 3	Jodhpur / Rajasthan	Apartment / 2 BHK	702	₹53.12 L	Fully-Furnished	2	Any	Sale
+716	Rajasthan Properties (Rajasthan.txt)	1 BHK Builder Floor	Jodhpur Sector 2	Jodhpur / Rajasthan	Builder Floor / 1 BHK	571	₹36.05 L	Semi-Furnished	1	Bachelors	Sale
+717	Rajasthan Properties (Rajasthan.txt)	3 BHK Apartment	Kota Central	Kota / Rajasthan	Apartment / 3 BHK	1634	₹60.94 L	Semi-Furnished	3	Family	Sale
+718	Rajasthan Properties (Rajasthan.txt)	2 BHK Apartment	Kota Sector 2	Kota / Rajasthan	Apartment / 2 BHK	854	₹58.45 L	Fully-Furnished	2	Any	Sale
+719	Rajasthan Properties (Rajasthan.txt)	2 BHK Apartment	Udaipur Sector 2	Udaipur / Rajasthan	Apartment / 2 BHK	755	₹44.24 L	Fully-Furnished	2	Bachelors	Sale
+720	Rajasthan Properties (Rajasthan.txt)	2 BHK Builder Floor	Kota Central	Kota / Rajasthan	Builder Floor / 2 BHK	858	₹16,100/month	Semi-Furnished	2	Family	Rent
+721	Rajasthan Properties (Rajasthan.txt)	4 BHK Builder Floor	Kota Sector 3	Kota / Rajasthan	Builder Floor / 4 BHK	2046	₹21,300/month	Fully-Furnished	4	Any	Rent
+722	Rajasthan Properties (Rajasthan.txt)	2 BHK Independent House	Udaipur Sector 1	Udaipur / Rajasthan	Independent House / 2 BHK	852	₹14,100/month	Fully-Furnished	2	Family	Rent
+723	Rajasthan Properties (Rajasthan.txt)	4 BHK Apartment	Jaipur Colony	Jaipur / Rajasthan	Apartment / 4 BHK	1800	₹20,200/month	Semi-Furnished	4	Bachelors	Rent
+724	Rajasthan Properties (Rajasthan.txt)	3 BHK Apartment	Jodhpur Sector 3	Jodhpur / Rajasthan	Apartment / 3 BHK	1163	₹19,300/month	Semi-Furnished	3	Bachelors	Rent
+725	Rajasthan Properties (Rajasthan.txt)	2 BHK Villa	Kota Extension	Kota / Rajasthan	Villa / 2 BHK	948	₹55.89 L	Fully-Furnished	1	Family	Sale
+726	Rajasthan Properties (Rajasthan.txt)	5 BHK Apartment	Udaipur North	Udaipur / Rajasthan	Apartment / 5 BHK	2105	₹27,200/month	Semi-Furnished	5	Family	Rent
+727	Rajasthan Properties (Rajasthan.txt)	3 BHK Apartment	Kota Sector 2	Kota / Rajasthan	Apartment / 3 BHK	1090	₹63.08 L	Fully-Furnished	3	Family	Sale
+728	Rajasthan Properties (Rajasthan.txt)	2 BHK Apartment	Kota Residential Area	Kota / Rajasthan	Apartment / 2 BHK	866	₹12,300/month	Semi-Furnished	2	Family	Rent
+729	Rajasthan Properties (Rajasthan.txt)	2 BHK Villa	Jodhpur West	Jodhpur / Rajasthan	Villa / 2 BHK	1082	₹17,200/month	Semi-Furnished	3	Family	Rent
+730	Rajasthan Properties (Rajasthan.txt)	3 BHK Independent House	Jaipur Central	Jaipur / Rajasthan	Independent House / 3 BHK	1334	₹60.21 L	Fully-Furnished	2	Any	Sale
+731	Rajasthan Properties (Rajasthan.txt)	3 BHK Apartment	Udaipur Heights	Udaipur / Rajasthan	Apartment / 3 BHK	1286	₹21,200/month	Semi-Furnished	3	Family	Rent
+732	Rajasthan Properties (Rajasthan.txt)	3 BHK Independent House	Jodhpur Extension	Jodhpur / Rajasthan	Independent House / 3 BHK	1440	₹63.55 L	Fully-Furnished	4	Any	Sale
+733	Rajasthan Properties (Rajasthan.txt)	2 BHK Builder Floor	Jodhpur Sector 3	Jodhpur / Rajasthan	Builder Floor / 2 BHK	916	₹13,900/month	Unfurnished	2	Any	Rent
+734	Rajasthan Properties (Rajasthan.txt)	4 BHK Builder Floor	Kota Central	Kota / Rajasthan	Builder Floor / 4 BHK	1839	₹29,500/month	Fully-Furnished	4	Family	Rent
+735	Rajasthan Properties (Rajasthan.txt)	3 BHK Builder Floor	Jodhpur Nagar	Jodhpur / Rajasthan	Builder Floor / 3 BHK	1553	₹24,000/month	Fully-Furnished	3	Any	Rent
+736	Rajasthan Properties (Rajasthan.txt)	3 BHK Apartment	Jodhpur Town Centre	Jodhpur / Rajasthan	Apartment / 3 BHK	1245	₹81.05 L	Unfurnished	2	Family	Sale
+737	Rajasthan Properties (Rajasthan.txt)	1 BHK Studio	Udaipur Colony	Udaipur / Rajasthan	Studio / 1 BHK	357	₹35.40 L	Unfurnished	2	Family	Sale
+738	Rajasthan Properties (Rajasthan.txt)	3 BHK Independent House	Udaipur Central	Udaipur / Rajasthan	Independent House / 3 BHK	1531	₹84.52 L	Semi-Furnished	4	Family	Sale
+739	Rajasthan Properties (Rajasthan.txt)	2 BHK Builder Floor	Jodhpur Extension	Jodhpur / Rajasthan	Builder Floor / 2 BHK	700	₹55.81 L	Semi-Furnished	2	Family	Sale
+740	Rajasthan Properties (Rajasthan.txt)	1 BHK Studio	Udaipur South	Udaipur / Rajasthan	Studio / 1 BHK	458	₹10,300/month	Semi-Furnished	1	Bachelors	Rent
+741	Rajasthan Properties (Rajasthan.txt)	3 BHK Apartment	Kota Nagar	Kota / Rajasthan	Apartment / 3 BHK	1638	₹68.89 L	Fully-Furnished	3	Any	Sale
+742	Rajasthan Properties (Rajasthan.txt)	1 BHK Apartment	Jaipur Extension	Jaipur / Rajasthan	Apartment / 1 BHK	309	₹31.06 L	Fully-Furnished	2	Any	Sale
+743	Rajasthan Properties (Rajasthan.txt)	2 BHK Apartment	Udaipur Extension	Udaipur / Rajasthan	Apartment / 2 BHK	767	₹12,500/month	Semi-Furnished	2	Bachelors	Rent
+744	Rajasthan Properties (Rajasthan.txt)	2 BHK Apartment	Kota North	Kota / Rajasthan	Apartment / 2 BHK	686	₹52.54 L	Fully-Furnished	2	Any	Sale
+745	Rajasthan Properties (Rajasthan.txt)	1 BHK Apartment	Jodhpur Residential Area	Jodhpur / Rajasthan	Apartment / 1 BHK	584	₹29.13 L	Fully-Furnished	1	Family	Sale
+746	Rajasthan Properties (Rajasthan.txt)	3 BHK Villa	Jaipur Sector 2	Jaipur / Rajasthan	Villa / 3 BHK	1957	₹18,900/month	Semi-Furnished	2	Bachelors	Rent
+747	Rajasthan Properties (Rajasthan.txt)	2 BHK Apartment	Udaipur East	Udaipur / Rajasthan	Apartment / 2 BHK	809	₹46.63 L	Unfurnished	1	Bachelors	Sale
+748	Rajasthan Properties (Rajasthan.txt)	3 BHK Builder Floor	Kota Nagar	Kota / Rajasthan	Builder Floor / 3 BHK	1264	₹18,200/month	Fully-Furnished	3	Family	Rent
+749	Rajasthan Properties (Rajasthan.txt)	2 BHK Apartment	Jodhpur Heights	Jodhpur / Rajasthan	Apartment / 2 BHK	881	₹56.75 L	Semi-Furnished	2	Family	Sale
+750	Rajasthan Properties (Rajasthan.txt)	4 BHK Villa	Kota Colony	Kota / Rajasthan	Villa / 4 BHK	1961	₹98.81 L	Fully-Furnished	5	Any	Sale
+751	Rajasthan Properties (Rajasthan.txt)	2 BHK Apartment	Jaipur Sector 3	Jaipur / Rajasthan	Apartment / 2 BHK	750	₹49.21 L	Fully-Furnished	2	Family	Sale
+752	Rajasthan Properties (Rajasthan.txt)	1 BHK Independent House	Kota Sector 3	Kota / Rajasthan	Independent House / 1 BHK	533	₹8,000/month	Fully-Furnished	1	Family	Rent
+753	Rajasthan Properties (Rajasthan.txt)	2 BHK Apartment	Jodhpur Central	Jodhpur / Rajasthan	Apartment / 2 BHK	715	₹49.23 L	Unfurnished	2	Bachelors	Sale
+754	Rajasthan Properties (Rajasthan.txt)	3 BHK Apartment	Jodhpur Central	Jodhpur / Rajasthan	Apartment / 3 BHK	1368	₹71.36 L	Semi-Furnished	4	Family	Sale
+755	Rajasthan Properties (Rajasthan.txt)	5 BHK Builder Floor	Jodhpur Heights	Jodhpur / Rajasthan	Builder Floor / 5 BHK	2455	₹1.30 Cr	Semi-Furnished	5	Any	Sale
+756	Rajasthan Properties (Rajasthan.txt)	1 BHK Studio	Jaipur Main Road	Jaipur / Rajasthan	Studio / 1 BHK	432	₹37.11 L	Semi-Furnished	1	Any	Sale
+757	Rajasthan Properties (Rajasthan.txt)	2 BHK Apartment	Jodhpur Main Road	Jodhpur / Rajasthan	Apartment / 2 BHK	889	₹49.95 L	Semi-Furnished	2	Family	Sale
+758	Rajasthan Properties (Rajasthan.txt)	1 BHK Apartment	Jodhpur South	Jodhpur / Rajasthan	Apartment / 1 BHK	476	₹36.65 L	Semi-Furnished	1	Family	Sale
+759	Rajasthan Properties (Rajasthan.txt)	3 BHK Independent House	Jodhpur South	Jodhpur / Rajasthan	Independent House / 3 BHK	1417	₹61.44 L	Fully-Furnished	2	Bachelors	Sale
+760	Rajasthan Properties (Rajasthan.txt)	4 BHK Villa	Kota Sector 1	Kota / Rajasthan	Villa / 4 BHK	2046	₹97.76 L	Semi-Furnished	4	Family	Sale
+761	Rajasthan Properties (Rajasthan.txt)	2 BHK Builder Floor	Jodhpur Heights	Jodhpur / Rajasthan	Builder Floor / 2 BHK	804	₹14,100/month	Fully-Furnished	2	Bachelors	Rent
+762	Rajasthan Properties (Rajasthan.txt)	3 BHK Apartment	Udaipur Residential Area	Udaipur / Rajasthan	Apartment / 3 BHK	1313	₹68.93 L	Semi-Furnished	3	Bachelors	Sale
+763	Rajasthan Properties (Rajasthan.txt)	3 BHK Apartment	Kota South	Kota / Rajasthan	Apartment / 3 BHK	1140	₹17,000/month	Semi-Furnished	3	Any	Rent
+764	Rajasthan Properties (Rajasthan.txt)	2 BHK Independent House	Jodhpur North	Jodhpur / Rajasthan	Independent House / 2 BHK	1064	₹64.34 L	Fully-Furnished	2	Bachelors	Sale
+765	Rajasthan Properties (Rajasthan.txt)	5 BHK Apartment	Jodhpur Sector 1	Jodhpur / Rajasthan	Apartment / 5 BHK	2467	₹33,400/month	Semi-Furnished	6	Family	Rent
+766	Rajasthan Properties (Rajasthan.txt)	2 BHK Apartment	Udaipur Extension	Udaipur / Rajasthan	Apartment / 2 BHK	805	₹51.99 L	Unfurnished	3	Bachelors	Sale
+767	Rajasthan Properties (Rajasthan.txt)	3 BHK Apartment	Kota Nagar	Kota / Rajasthan	Apartment / 3 BHK	1440	₹16,300/month	Semi-Furnished	3	Bachelors	Rent
+768	Rajasthan Properties (Rajasthan.txt)	2 BHK Apartment	Kota Sector 2	Kota / Rajasthan	Apartment / 2 BHK	764	₹53.54 L	Semi-Furnished	2	Family	Sale
+769	Rajasthan Properties (Rajasthan.txt)	3 BHK Builder Floor	Jaipur Colony	Jaipur / Rajasthan	Builder Floor / 3 BHK	1064	₹58.63 L	Fully-Furnished	3	Bachelors	Sale
+770	Rajasthan Properties (Rajasthan.txt)	2 BHK Builder Floor	Kota Colony	Kota / Rajasthan	Builder Floor / 2 BHK	856	₹12,300/month	Fully-Furnished	2	Bachelors	Rent
+771	Rajasthan Properties (Rajasthan.txt)	3 BHK Apartment	Udaipur Extension	Udaipur / Rajasthan	Apartment / 3 BHK	1040	₹19,400/month	Semi-Furnished	2	Bachelors	Rent
+772	Rajasthan Properties (Rajasthan.txt)	2 BHK Independent House	Kota Sector 1	Kota / Rajasthan	Independent House / 2 BHK	956	₹16,000/month	Unfurnished	1	Any	Rent
+773	Rajasthan Properties (Rajasthan.txt)	2 BHK Apartment	Udaipur Sector 2	Udaipur / Rajasthan	Apartment / 2 BHK	822	₹51.94 L	Semi-Furnished	2	Bachelors	Sale
+774	Rajasthan Properties (Rajasthan.txt)	3 BHK Independent House	Jaipur Sector 1	Jaipur / Rajasthan	Independent House / 3 BHK	1302	₹83.91 L	Fully-Furnished	3	Family	Sale
+775	Rajasthan Properties (Rajasthan.txt)	2 BHK Apartment	Kota Sector 1	Kota / Rajasthan	Apartment / 2 BHK	821	₹12,200/month	Semi-Furnished	1	Family	Rent
+776	Rajasthan Properties (Rajasthan.txt)	1 BHK Apartment	Udaipur Residential Area	Udaipur / Rajasthan	Apartment / 1 BHK	549	₹29.79 L	Semi-Furnished	2	Any	Sale
+777	Rajasthan Properties (Rajasthan.txt)	3 BHK Apartment	Kota Sector 2	Kota / Rajasthan	Apartment / 3 BHK	1406	₹65.39 L	Fully-Furnished	3	Any	Sale
+778	Rajasthan Properties (Rajasthan.txt)	1 BHK Apartment	Jaipur Colony	Jaipur / Rajasthan	Apartment / 1 BHK	495	₹9,500/month	Fully-Furnished	2	Family	Rent
+779	Rajasthan Properties (Rajasthan.txt)	3 BHK Apartment	Jaipur Central	Jaipur / Rajasthan	Apartment / 3 BHK	1102	₹15,000/month	Fully-Furnished	3	Any	Rent
+780	Rajasthan Properties (Rajasthan.txt)	2 BHK Apartment	Kota West	Kota / Rajasthan	Apartment / 2 BHK	932	₹48.12 L	Fully-Furnished	2	Any	Sale
+781	Rajasthan Properties (Rajasthan.txt)	3 BHK Apartment	Kota West	Kota / Rajasthan	Apartment / 3 BHK	1163	₹63.51 L	Unfurnished	3	Any	Sale
+782	Rajasthan Properties (Rajasthan.txt)	3 BHK Villa	Udaipur Sector 1	Udaipur / Rajasthan	Villa / 3 BHK	2115	₹24,300/month	Unfurnished	3	Bachelors	Rent
+783	Rajasthan Properties (Rajasthan.txt)	4 BHK Independent House	Udaipur Colony	Udaipur / Rajasthan	Independent House / 4 BHK	2257	₹81.66 L	Semi-Furnished	3	Family	Sale
+784	Rajasthan Properties (Rajasthan.txt)	2 BHK Apartment	Kota Main Road	Kota / Rajasthan	Apartment / 2 BHK	958	₹14,100/month	Semi-Furnished	2	Any	Rent
+785	Rajasthan Properties (Rajasthan.txt)	4 BHK Apartment	Udaipur Sector 1	Udaipur / Rajasthan	Apartment / 4 BHK	1777	₹28,900/month	Semi-Furnished	4	Family	Rent
+786	Rajasthan Properties (Rajasthan.txt)	3 BHK Apartment	Udaipur Sector 3	Udaipur / Rajasthan	Apartment / 3 BHK	1283	₹18,900/month	Semi-Furnished	4	Family	Rent
+787	Rajasthan Properties (Rajasthan.txt)	3 BHK Independent House	Jaipur Sector 3	Jaipur / Rajasthan	Independent House / 3 BHK	1604	₹21,200/month	Semi-Furnished	2	Family	Rent
+788	Rajasthan Properties (Rajasthan.txt)	1 BHK Apartment	Jodhpur Sector 2	Jodhpur / Rajasthan	Apartment / 1 BHK	453	₹8,800/month	Fully-Furnished	1	Bachelors	Rent
+789	Rajasthan Properties (Rajasthan.txt)	1 BHK Independent House	Jodhpur North	Jodhpur / Rajasthan	Independent House / 1 BHK	562	₹30.97 L	Semi-Furnished	1	Family	Sale
+790	Rajasthan Properties (Rajasthan.txt)	2 BHK Villa	Jodhpur Sector 3	Jodhpur / Rajasthan	Villa / 2 BHK	1338	₹46.53 L	Semi-Furnished	2	Family	Sale
+791	Rajasthan Properties (Rajasthan.txt)	2 BHK Apartment	Udaipur Nagar	Udaipur / Rajasthan	Apartment / 2 BHK	923	₹57.18 L	Fully-Furnished	2	Family	Sale
+792	Rajasthan Properties (Rajasthan.txt)	2 BHK Villa	Jodhpur Sector 2	Jodhpur / Rajasthan	Villa / 2 BHK	1038	₹43.80 L	Unfurnished	2	Bachelors	Sale
+793	Rajasthan Properties (Rajasthan.txt)	2 BHK Apartment	Jaipur Town Centre	Jaipur / Rajasthan	Apartment / 2 BHK	760	₹41.15 L	Unfurnished	2	Bachelors	Sale
+794	Rajasthan Properties (Rajasthan.txt)	4 BHK Builder Floor	Udaipur Colony	Udaipur / Rajasthan	Builder Floor / 4 BHK	2459	₹1.01 Cr	Semi-Furnished	4	Bachelors	Sale
+795	Rajasthan Properties (Rajasthan.txt)	2 BHK Apartment	Kota Extension	Kota / Rajasthan	Apartment / 2 BHK	820	₹16,000/month	Fully-Furnished	1	Any	Rent
+796	Rajasthan Properties (Rajasthan.txt)	1 BHK Studio	Udaipur Town Centre	Udaipur / Rajasthan	Studio / 1 BHK	473	₹33.86 L	Unfurnished	1	Bachelors	Sale
+797	Rajasthan Properties (Rajasthan.txt)	2 BHK Builder Floor	Udaipur East	Udaipur / Rajasthan	Builder Floor / 2 BHK	745	₹40.64 L	Semi-Furnished	3	Any	Sale
+798	Rajasthan Properties (Rajasthan.txt)	3 BHK Independent House	Jaipur North	Jaipur / Rajasthan	Independent House / 3 BHK	1363	₹64.09 L	Semi-Furnished	3	Family	Sale
+799	Rajasthan Properties (Rajasthan.txt)	1 BHK Villa	Udaipur Residential Area	Udaipur / Rajasthan	Villa / 1 BHK	793	₹34.86 L	Semi-Furnished	1	Family	Sale
+800	Rajasthan Properties (Rajasthan.txt)	2 BHK Apartment	Udaipur Sector 1	Udaipur / Rajasthan	Apartment / 2 BHK	790	₹59.44 L	Semi-Furnished	3	Family	Sale
+801	Rajasthan Properties (Rajasthan.txt)	2 BHK Apartment	Kota Colony	Kota / Rajasthan	Apartment / 2 BHK	806	₹54.89 L	Semi-Furnished	2	Bachelors	Sale
+802	Rajasthan Properties (Rajasthan.txt)	3 BHK Builder Floor	Jodhpur South	Jodhpur / Rajasthan	Builder Floor / 3 BHK	1623	₹83.18 L	Semi-Furnished	3	Family	Sale
+803	Rajasthan Properties (Rajasthan.txt)	3 BHK Apartment	Udaipur Extension	Udaipur / Rajasthan	Apartment / 3 BHK	1031	₹20,500/month	Semi-Furnished	2	Family	Rent
+804	Rajasthan Properties (Rajasthan.txt)	3 BHK Apartment	Jaipur Central	Jaipur / Rajasthan	Apartment / 3 BHK	1405	₹86.25 L	Fully-Furnished	2	Family	Sale
+805	Rajasthan Properties (Rajasthan.txt)	1 BHK Apartment	Udaipur Town Centre	Udaipur / Rajasthan	Apartment / 1 BHK	533	₹8,300/month	Fully-Furnished	1	Any	Rent
+806	Rajasthan Properties (Rajasthan.txt)	2 BHK Independent House	Jodhpur Main Road	Jodhpur / Rajasthan	Independent House / 2 BHK	953	₹16,400/month	Semi-Furnished	2	Family	Rent
+807	Rajasthan Properties (Rajasthan.txt)	2 BHK Apartment	Jodhpur Sector 2	Jodhpur / Rajasthan	Apartment / 2 BHK	924	₹47.81 L	Semi-Furnished	1	Family	Sale
+808	Rajasthan Properties (Rajasthan.txt)	2 BHK Apartment	Udaipur Nagar	Udaipur / Rajasthan	Apartment / 2 BHK	783	₹55.85 L	Fully-Furnished	1	Family	Sale
+809	Rajasthan Properties (Rajasthan.txt)	4 BHK Apartment	Jaipur Extension	Jaipur / Rajasthan	Apartment / 4 BHK	1787	₹28,100/month	Fully-Furnished	4	Family	Rent
+810	Rajasthan Properties (Rajasthan.txt)	3 BHK Builder Floor	Udaipur Heights	Udaipur / Rajasthan	Builder Floor / 3 BHK	1286	₹16,100/month	Semi-Furnished	3	Bachelors	Rent
+811	Rajasthan Properties (Rajasthan.txt)	1 BHK Apartment	Jodhpur East	Jodhpur / Rajasthan	Apartment / 1 BHK	537	₹37.39 L	Semi-Furnished	1	Family	Sale
+812	Rajasthan Properties (Rajasthan.txt)	2 BHK Villa	Udaipur Sector 1	Udaipur / Rajasthan	Villa / 2 BHK	1203	₹45.29 L	Fully-Furnished	2	Bachelors	Sale
+813	Rajasthan Properties (Rajasthan.txt)	3 BHK Apartment	Kota Colony	Kota / Rajasthan	Apartment / 3 BHK	1308	₹73.30 L	Fully-Furnished	4	Family	Sale
+814	Rajasthan Properties (Rajasthan.txt)	3 BHK Independent House	Kota West	Kota / Rajasthan	Independent House / 3 BHK	1551	₹18,200/month	Unfurnished	2	Family	Rent
+815	Rajasthan Properties (Rajasthan.txt)	1 BHK Apartment	Jodhpur North	Jodhpur / Rajasthan	Apartment / 1 BHK	550	₹29.20 L	Semi-Furnished	1	Bachelors	Sale
+816	Rajasthan Properties (Rajasthan.txt)	3 BHK Independent House	Jodhpur Sector 3	Jodhpur / Rajasthan	Independent House / 3 BHK	1480	₹69 L	Semi-Furnished	2	Bachelors	Sale
+817	Rajasthan Properties (Rajasthan.txt)	4 BHK Apartment	Kota Sector 2	Kota / Rajasthan	Apartment / 4 BHK	1501	₹20,300/month	Semi-Furnished	4	Family	Rent
+818	Rajasthan Properties (Rajasthan.txt)	2 BHK Villa	Jodhpur Residential Area	Jodhpur / Rajasthan	Villa / 2 BHK	1152	₹51.84 L	Semi-Furnished	2	Family	Sale
+819	Rajasthan Properties (Rajasthan.txt)	2 BHK Apartment	Kota South	Kota / Rajasthan	Apartment / 2 BHK	950	₹55.42 L	Semi-Furnished	1	Bachelors	Sale
+820	Rajasthan Properties (Rajasthan.txt)	2 BHK Apartment	Kota Extension	Kota / Rajasthan	Apartment / 2 BHK	739	₹51.64 L	Fully-Furnished	2	Family	Sale
+821	Rajasthan Properties (Rajasthan.txt)	3 BHK Apartment	Jodhpur Sector 1	Jodhpur / Rajasthan	Apartment / 3 BHK	1158	₹16,400/month	Semi-Furnished	2	Bachelors	Rent
+822	Rajasthan Properties (Rajasthan.txt)	4 BHK Apartment	Jodhpur Heights	Jodhpur / Rajasthan	Apartment / 4 BHK	1918	₹76.99 L	Fully-Furnished	5	Family	Sale
+823	Rajasthan Properties (Rajasthan.txt)	3 BHK Builder Floor	Jaipur Sector 1	Jaipur / Rajasthan	Builder Floor / 3 BHK	968	₹78.70 L	Fully-Furnished	2	Any	Sale
+824	Rajasthan Properties (Rajasthan.txt)	3 BHK Independent House	Kota South	Kota / Rajasthan	Independent House / 3 BHK	1526	₹20,300/month	Fully-Furnished	3	Bachelors	Rent
+825	Rajasthan Properties (Rajasthan.txt)	4 BHK Apartment	Jodhpur Sector 1	Jodhpur / Rajasthan	Apartment / 4 BHK	1641	₹76.61 L	Fully-Furnished	3	Bachelors	Sale
+826	Rajasthan Properties (Rajasthan.txt)	2 BHK Apartment	Kota West	Kota / Rajasthan	Apartment / 2 BHK	973	₹45.07 L	Semi-Furnished	2	Any	Sale
+827	Rajasthan Properties (Rajasthan.txt)	3 BHK Apartment	Kota West	Kota / Rajasthan	Apartment / 3 BHK	1431	₹16,800/month	Unfurnished	3	Any	Rent
+828	Rajasthan Properties (Rajasthan.txt)	1 BHK Apartment	Udaipur Residential Area	Udaipur / Rajasthan	Apartment / 1 BHK	505	₹28.94 L	Fully-Furnished	1	Family	Sale
+829	Rajasthan Properties (Rajasthan.txt)	3 BHK Builder Floor	Jodhpur Sector 2	Jodhpur / Rajasthan	Builder Floor / 3 BHK	1288	₹64.96 L	Semi-Furnished	2	Family	Sale
+830	Rajasthan Properties (Rajasthan.txt)	3 BHK Builder Floor	Udaipur Sector 3	Udaipur / Rajasthan	Builder Floor / 3 BHK	1137	₹74.91 L	Semi-Furnished	3	Bachelors	Sale
+831	Rajasthan Properties (Rajasthan.txt)	1 BHK Apartment	Kota Central	Kota / Rajasthan	Apartment / 1 BHK	497	₹10,500/month	Unfurnished	1	Bachelors	Rent
+832	Rajasthan Properties (Rajasthan.txt)	1 BHK Apartment	Jodhpur Colony	Jodhpur / Rajasthan	Apartment / 1 BHK	387	₹8,300/month	Semi-Furnished	1	Family	Rent
+833	Rajasthan Properties (Rajasthan.txt)	2 BHK Builder Floor	Udaipur Sector 3	Udaipur / Rajasthan	Builder Floor / 2 BHK	1071	₹61.90 L	Unfurnished	2	Family	Sale
+834	Rajasthan Properties (Rajasthan.txt)	4 BHK Apartment	Udaipur Colony	Udaipur / Rajasthan	Apartment / 4 BHK	1690	₹82.72 L	Unfurnished	4	Family	Sale
+835	Rajasthan Properties (Rajasthan.txt)	4 BHK Apartment	Kota Central	Kota / Rajasthan	Apartment / 4 BHK	1989	₹88.82 L	Fully-Furnished	5	Any	Sale
+836	Rajasthan Properties (Rajasthan.txt)	1 BHK Builder Floor	Jaipur Town Centre	Jaipur / Rajasthan	Builder Floor / 1 BHK	610	₹28.75 L	Fully-Furnished	1	Bachelors	Sale
+837	Rajasthan Properties (Rajasthan.txt)	2 BHK Villa	Jaipur Extension	Jaipur / Rajasthan	Villa / 2 BHK	1030	₹16,600/month	Fully-Furnished	1	Any	Rent
+838	Rajasthan Properties (Rajasthan.txt)	2 BHK Villa	Udaipur Nagar	Udaipur / Rajasthan	Villa / 2 BHK	1125	₹62.86 L	Semi-Furnished	3	Family	Sale
+839	Rajasthan Properties (Rajasthan.txt)	1 BHK Studio	Jodhpur Colony	Jodhpur / Rajasthan	Studio / 1 BHK	300	₹31.54 L	Fully-Furnished	1	Any	Sale
+840	Rajasthan Properties (Rajasthan.txt)	2 BHK Apartment	Udaipur East	Udaipur / Rajasthan	Apartment / 2 BHK	1011	₹53.50 L	Fully-Furnished	1	Bachelors	Sale
+841	Rajasthan Properties (Rajasthan.txt)	3 BHK Apartment	Jodhpur Central	Jodhpur / Rajasthan	Apartment / 3 BHK	1131	₹64 L	Fully-Furnished	2	Bachelors	Sale
+842	Rajasthan Properties (Rajasthan.txt)	3 BHK Apartment	Kota Residential Area	Kota / Rajasthan	Apartment / 3 BHK	1705	₹84.35 L	Semi-Furnished	3	Family	Sale
+843	Rajasthan Properties (Rajasthan.txt)	2 BHK Villa	Jodhpur Sector 1	Jodhpur / Rajasthan	Villa / 2 BHK	1193	₹46.51 L	Semi-Furnished	2	Family	Sale
+844	Rajasthan Properties (Rajasthan.txt)	4 BHK Builder Floor	Jodhpur Town Centre	Jodhpur / Rajasthan	Builder Floor / 4 BHK	1825	₹25,700/month	Fully-Furnished	3	Family	Rent
+845	Rajasthan Properties (Rajasthan.txt)	1 BHK Apartment	Jaipur East	Jaipur / Rajasthan	Apartment / 1 BHK	555	₹33.78 L	Fully-Furnished	1	Bachelors	Sale
+846	Rajasthan Properties (Rajasthan.txt)	2 BHK Apartment	Kota Sector 1	Kota / Rajasthan	Apartment / 2 BHK	966	₹49.71 L	Fully-Furnished	1	Any	Sale
+847	Rajasthan Properties (Rajasthan.txt)	4 BHK Apartment	Jodhpur Extension	Jodhpur / Rajasthan	Apartment / 4 BHK	1899	₹79.34 L	Fully-Furnished	3	Any	Sale
+848	Rajasthan Properties (Rajasthan.txt)	2 BHK Apartment	Udaipur Heights	Udaipur / Rajasthan	Apartment / 2 BHK	893	₹55.58 L	Fully-Furnished	2	Any	Sale
+849	Rajasthan Properties (Rajasthan.txt)	4 BHK Independent House	Jodhpur Extension	Jodhpur / Rajasthan	Independent House / 4 BHK	2049	₹27,900/month	Semi-Furnished	3	Family	Rent
+850	Rajasthan Properties (Rajasthan.txt)	3 BHK Apartment	Udaipur Sector 2	Udaipur / Rajasthan	Apartment / 3 BHK	1100	₹60.53 L	Semi-Furnished	4	Family	Sale
+851	Rajasthan Properties (Rajasthan.txt)	3 BHK Apartment	Kota Main Road	Kota / Rajasthan	Apartment / 3 BHK	1117	₹59.58 L	Semi-Furnished	3	Any	Sale
+852	Rajasthan Properties (Rajasthan.txt)	4 BHK Apartment	Kota Main Road	Kota / Rajasthan	Apartment / 4 BHK	2005	₹24,400/month	Fully-Furnished	4	Family	Rent
+853	Rajasthan Properties (Rajasthan.txt)	2 BHK Builder Floor	Jaipur Residential Area	Jaipur / Rajasthan	Builder Floor / 2 BHK	825	₹12,100/month	Semi-Furnished	2	Family	Rent
+854	Rajasthan Properties (Rajasthan.txt)	1 BHK Apartment	Kota Extension	Kota / Rajasthan	Apartment / 1 BHK	445	₹30.33 L	Semi-Furnished	1	Family	Sale
+855	Rajasthan Properties (Rajasthan.txt)	1 BHK Studio	Kota Nagar	Kota / Rajasthan	Studio / 1 BHK	342	₹8,900/month	Semi-Furnished	1	Family	Rent
+856	Rajasthan Properties (Rajasthan.txt)	4 BHK Apartment	Kota Main Road	Kota / Rajasthan	Apartment / 4 BHK	1655	₹27,500/month	Semi-Furnished	4	Family	Rent
+857	Rajasthan Properties (Rajasthan.txt)	3 BHK Apartment	Jodhpur Sector 3	Jodhpur / Rajasthan	Apartment / 3 BHK	1311	₹16,100/month	Unfurnished	3	Family	Rent
+858	Rajasthan Properties (Rajasthan.txt)	3 BHK Apartment	Kota Sector 3	Kota / Rajasthan	Apartment / 3 BHK	1020	₹17,400/month	Semi-Furnished	3	Family	Rent
+859	Rajasthan Properties (Rajasthan.txt)	4 BHK Apartment	Jodhpur Sector 3	Jodhpur / Rajasthan	Apartment / 4 BHK	1832	₹23,200/month	Fully-Furnished	4	Family	Rent
+860	Rajasthan Properties (Rajasthan.txt)	4 BHK Apartment	Udaipur Sector 3	Udaipur / Rajasthan	Apartment / 4 BHK	2100	₹27,200/month	Unfurnished	4	Bachelors	Rent
+861	Rajasthan Properties (Rajasthan.txt)	2 BHK Builder Floor	Udaipur Town Centre	Udaipur / Rajasthan	Builder Floor / 2 BHK	734	₹15,300/month	Unfurnished	2	Family	Rent
+862	Rajasthan Properties (Rajasthan.txt)	3 BHK Independent House	Jaipur Town Centre	Jaipur / Rajasthan	Independent House / 3 BHK	1748	₹82.17 L	Semi-Furnished	3	Family	Sale
+863	Rajasthan Properties (Rajasthan.txt)	3 BHK Apartment	Udaipur North	Udaipur / Rajasthan	Apartment / 3 BHK	1301	₹58.80 L	Semi-Furnished	2	Bachelors	Sale
+864	Rajasthan Properties (Rajasthan.txt)	4 BHK Apartment	Kota Heights	Kota / Rajasthan	Apartment / 4 BHK	1274	₹83.38 L	Fully-Furnished	4	Any	Sale
+865	Rajasthan Properties (Rajasthan.txt)	1 BHK Studio	Jodhpur Central	Jodhpur / Rajasthan	Studio / 1 BHK	412	₹8,300/month	Semi-Furnished	1	Family	Rent
+866	Rajasthan Properties (Rajasthan.txt)	4 BHK Independent House	Kota Sector 3	Kota / Rajasthan	Independent House / 4 BHK	2034	₹24,300/month	Fully-Furnished	5	Family	Rent
+867	Rajasthan Properties (Rajasthan.txt)	5 BHK Villa	Kota Sector 2	Kota / Rajasthan	Villa / 5 BHK	3911	₹31,500/month	Fully-Furnished	4	Family	Rent
+868	Rajasthan Properties (Rajasthan.txt)	5 BHK Builder Floor	Jaipur Heights	Jaipur / Rajasthan	Builder Floor / 5 BHK	2136	₹27,900/month	Semi-Furnished	4	Any	Rent
+869	Rajasthan Properties (Rajasthan.txt)	3 BHK Villa	Jaipur North	Jaipur / Rajasthan	Villa / 3 BHK	1876	₹78.28 L	Semi-Furnished	3	Bachelors	Sale
+870	Rajasthan Properties (Rajasthan.txt)	5 BHK Builder Floor	Jodhpur Main Road	Jodhpur / Rajasthan	Builder Floor / 5 BHK	2068	₹90.93 L	Unfurnished	4	Family	Sale
+871	Rajasthan Properties (Rajasthan.txt)	3 BHK Independent House	Kota Heights	Kota / Rajasthan	Independent House / 3 BHK	1315	₹63.78 L	Unfurnished	3	Family	Sale
+872	Rajasthan Properties (Rajasthan.txt)	2 BHK Builder Floor	Jodhpur Heights	Jodhpur / Rajasthan	Builder Floor / 2 BHK	838	₹14,500/month	Semi-Furnished	3	Any	Rent
+873	Rajasthan Properties (Rajasthan.txt)	3 BHK Apartment	Jaipur Main Road	Jaipur / Rajasthan	Apartment / 3 BHK	1184	₹62.34 L	Fully-Furnished	3	Any	Sale
+874	Rajasthan Properties (Rajasthan.txt)	3 BHK Independent House	Udaipur Main Road	Udaipur / Rajasthan	Independent House / 3 BHK	1828	₹24,100/month	Semi-Furnished	4	Any	Rent
+875	Rajasthan Properties (Rajasthan.txt)	2 BHK Apartment	Jodhpur Main Road	Jodhpur / Rajasthan	Apartment / 2 BHK	600	₹40.68 L	Semi-Furnished	2	Bachelors	Sale
+876	Rajasthan Properties (Rajasthan.txt)	2 BHK Apartment	Kota Nagar	Kota / Rajasthan	Apartment / 2 BHK	1038	₹52.40 L	Fully-Furnished	1	Bachelors	Sale
+877	Rajasthan Properties (Rajasthan.txt)	1 BHK Villa	Jodhpur Sector 2	Jodhpur / Rajasthan	Villa / 1 BHK	667	₹10,600/month	Fully-Furnished	1	Family	Rent
+878	Rajasthan Properties (Rajasthan.txt)	2 BHK Apartment	Udaipur West	Udaipur / Rajasthan	Apartment / 2 BHK	855	₹51.15 L	Semi-Furnished	2	Family	Sale
+879	Rajasthan Properties (Rajasthan.txt)	2 BHK Villa	Jaipur Sector 3	Jaipur / Rajasthan	Villa / 2 BHK	1107	₹13,400/month	Semi-Furnished	2	Family	Rent
+880	Rajasthan Properties (Rajasthan.txt)	2 BHK Independent House	Jaipur Extension	Jaipur / Rajasthan	Independent House / 2 BHK	1011	₹16,600/month	Semi-Furnished	3	Bachelors	Rent
+881	Rajasthan Properties (Rajasthan.txt)	3 BHK Apartment	Jodhpur Nagar	Jodhpur / Rajasthan	Apartment / 3 BHK	1315	₹18,400/month	Semi-Furnished	4	Bachelors	Rent
+882	Rajasthan Properties (Rajasthan.txt)	3 BHK Apartment	Kota West	Kota / Rajasthan	Apartment / 3 BHK	1376	₹20,200/month	Semi-Furnished	3	Bachelors	Rent
+883	Rajasthan Properties (Rajasthan.txt)	2 BHK Apartment	Udaipur North	Udaipur / Rajasthan	Apartment / 2 BHK	763	₹49.01 L	Unfurnished	1	Family	Sale
+884	Rajasthan Properties (Rajasthan.txt)	3 BHK Independent House	Kota West	Kota / Rajasthan	Independent House / 3 BHK	1176	₹71.40 L	Unfurnished	3	Family	Sale
+885	Rajasthan Properties (Rajasthan.txt)	3 BHK Independent House	Jodhpur Central	Jodhpur / Rajasthan	Independent House / 3 BHK	1237	₹64.18 L	Semi-Furnished	3	Any	Sale
+886	Rajasthan Properties (Rajasthan.txt)	2 BHK Independent House	Jaipur Town Centre	Jaipur / Rajasthan	Independent House / 2 BHK	1187	₹54.77 L	Fully-Furnished	3	Any	Sale
+887	Rajasthan Properties (Rajasthan.txt)	3 BHK Independent House	Jodhpur Sector 3	Jodhpur / Rajasthan	Independent House / 3 BHK	1358	₹67.36 L	Semi-Furnished	2	Family	Sale
+888	Rajasthan Properties (Rajasthan.txt)	2 BHK Apartment	Jaipur Town Centre	Jaipur / Rajasthan	Apartment / 2 BHK	718	₹56.37 L	Semi-Furnished	2	Any	Sale
+889	Rajasthan Properties (Rajasthan.txt)	2 BHK Apartment	Jaipur West	Jaipur / Rajasthan	Apartment / 2 BHK	725	₹41.25 L	Fully-Furnished	1	Family	Sale
+890	Rajasthan Properties (Rajasthan.txt)	1 BHK Apartment	Udaipur Main Road	Udaipur / Rajasthan	Apartment / 1 BHK	555	₹27.30 L	Semi-Furnished	1	Family	Sale
+891	Rajasthan Properties (Rajasthan.txt)	3 BHK Apartment	Kota Nagar	Kota / Rajasthan	Apartment / 3 BHK	1251	₹75.23 L	Fully-Furnished	2	Bachelors	Sale
+892	Rajasthan Properties (Rajasthan.txt)	2 BHK Builder Floor	Udaipur Sector 1	Udaipur / Rajasthan	Builder Floor / 2 BHK	963	₹49.69 L	Unfurnished	2	Family	Sale
+893	Rajasthan Properties (Rajasthan.txt)	4 BHK Apartment	Jodhpur East	Jodhpur / Rajasthan	Apartment / 4 BHK	1464	₹70.35 L	Fully-Furnished	4	Family	Sale
+894	Rajasthan Properties (Rajasthan.txt)	3 BHK Builder Floor	Jaipur Nagar	Jaipur / Rajasthan	Builder Floor / 3 BHK	1294	₹16,900/month	Semi-Furnished	3	Bachelors	Rent
+895	Rajasthan Properties (Rajasthan.txt)	2 BHK Villa	Jaipur Sector 1	Jaipur / Rajasthan	Villa / 2 BHK	1054	₹15,800/month	Semi-Furnished	2	Any	Rent
+896	Rajasthan Properties (Rajasthan.txt)	2 BHK Builder Floor	Udaipur Town Centre	Udaipur / Rajasthan	Builder Floor / 2 BHK	824	₹43.31 L	Fully-Furnished	3	Any	Sale
+897	Rajasthan Properties (Rajasthan.txt)	1 BHK Apartment	Udaipur Heights	Udaipur / Rajasthan	Apartment / 1 BHK	400	₹32.40 L	Unfurnished	1	Family	Sale
+898	Rajasthan Properties (Rajasthan.txt)	3 BHK Apartment	Kota Residential Area	Kota / Rajasthan	Apartment / 3 BHK	889	₹75.59 L	Semi-Furnished	4	Bachelors	Sale
+899	Rajasthan Properties (Rajasthan.txt)	1 BHK Builder Floor	Udaipur Central	Udaipur / Rajasthan	Builder Floor / 1 BHK	499	₹9,100/month	Semi-Furnished	1	Family	Rent
+900	Rajasthan Properties (Rajasthan.txt)	2 BHK Apartment	Udaipur Sector 2	Udaipur / Rajasthan	Apartment / 2 BHK	709	₹12,100/month	Semi-Furnished	1	Family	Rent
+901	Rajasthan Properties (Rajasthan.txt)	1 BHK Studio	Udaipur Extension	Udaipur / Rajasthan	Studio / 1 BHK	339	₹30.13 L	Fully-Furnished	1	Any	Sale
+902	Rajasthan Properties (Rajasthan.txt)	4 BHK Independent House	Jodhpur Sector 3	Jodhpur / Rajasthan	Independent House / 4 BHK	2065	₹84.06 L	Unfurnished	3	Family	Sale
+903	Rajasthan Properties (Rajasthan.txt)	4 BHK Apartment	Jodhpur Central	Jodhpur / Rajasthan	Apartment / 4 BHK	1603	₹1.03 Cr	Semi-Furnished	3	Any	Sale
+904	Rajasthan Properties (Rajasthan.txt)	3 BHK Apartment	Udaipur Central	Udaipur / Rajasthan	Apartment / 3 BHK	1179	₹15,500/month	Semi-Furnished	3	Any	Rent
+905	Rajasthan Properties (Rajasthan.txt)	1 BHK Studio	Jodhpur Colony	Jodhpur / Rajasthan	Studio / 1 BHK	444	₹27.43 L	Fully-Furnished	1	Any	Sale
+906	Rajasthan Properties (Rajasthan.txt)	1 BHK Apartment	Jodhpur Extension	Jodhpur / Rajasthan	Apartment / 1 BHK	529	₹10,300/month	Unfurnished	2	Family	Rent
+907	Rajasthan Properties (Rajasthan.txt)	1 BHK Independent House	Jodhpur Nagar	Jodhpur / Rajasthan	Independent House / 1 BHK	615	₹9,200/month	Fully-Furnished	2	Family	Rent
+908	Rajasthan Properties (Rajasthan.txt)	1 BHK Independent House	Jaipur East	Jaipur / Rajasthan	Independent House / 1 BHK	593	₹7,800/month	Unfurnished	2	Bachelors	Rent
+909	Rajasthan Properties (Rajasthan.txt)	1 BHK Studio	Jaipur West	Jaipur / Rajasthan	Studio / 1 BHK	355	₹7,300/month	Unfurnished	1	Family	Rent
+910	Rajasthan Properties (Rajasthan.txt)	3 BHK Apartment	Jaipur East	Jaipur / Rajasthan	Apartment / 3 BHK	1033	₹68.73 L	Semi-Furnished	3	Bachelors	Sale
+911	Rajasthan Properties (Rajasthan.txt)	2 BHK Apartment	Udaipur Nagar	Udaipur / Rajasthan	Apartment / 2 BHK	929	₹16,700/month	Semi-Furnished	2	Any	Rent
+912	Rajasthan Properties (Rajasthan.txt)	1 BHK Apartment	Jodhpur South	Jodhpur / Rajasthan	Apartment / 1 BHK	555	₹32.54 L	Fully-Furnished	2	Family	Sale
+913	Rajasthan Properties (Rajasthan.txt)	1 BHK Apartment	Udaipur Extension	Udaipur / Rajasthan	Apartment / 1 BHK	541	₹30.42 L	Semi-Furnished	1	Bachelors	Sale
+914	Rajasthan Properties (Rajasthan.txt)	1 BHK Studio	Jodhpur Colony	Jodhpur / Rajasthan	Studio / 1 BHK	300	₹25.60 L	Fully-Furnished	2	Family	Sale
+915	Rajasthan Properties (Rajasthan.txt)	3 BHK Apartment	Jaipur South	Jaipur / Rajasthan	Apartment / 3 BHK	1402	₹21,500/month	Semi-Furnished	2	Family	Rent
+916	Rajasthan Properties (Rajasthan.txt)	1 BHK Studio	Jodhpur Nagar	Jodhpur / Rajasthan	Studio / 1 BHK	397	₹9,400/month	Semi-Furnished	1	Bachelors	Rent
+917	Rajasthan Properties (Rajasthan.txt)	2 BHK Apartment	Jaipur South	Jaipur / Rajasthan	Apartment / 2 BHK	565	₹38.55 L	Semi-Furnished	1	Bachelors	Sale
+918	Rajasthan Properties (Rajasthan.txt)	2 BHK Apartment	Jaipur Colony	Jaipur / Rajasthan	Apartment / 2 BHK	836	₹59.11 L	Semi-Furnished	2	Any	Sale
+919	Rajasthan Properties (Rajasthan.txt)	2 BHK Apartment	Kota Sector 3	Kota / Rajasthan	Apartment / 2 BHK	971	₹60.65 L	Unfurnished	2	Any	Sale
+920	Rajasthan Properties (Rajasthan.txt)	2 BHK Apartment	Udaipur Central	Udaipur / Rajasthan	Apartment / 2 BHK	1202	₹18,400/month	Semi-Furnished	3	Family	Rent
+921	Rajasthan Properties (Rajasthan.txt)	1 BHK Apartment	Jodhpur East	Jodhpur / Rajasthan	Apartment / 1 BHK	597	₹33.73 L	Semi-Furnished	1	Family	Sale
+922	Rajasthan Properties (Rajasthan.txt)	3 BHK Villa	Kota Town Centre	Kota / Rajasthan	Villa / 3 BHK	1455	₹64.11 L	Fully-Furnished	3	Family	Sale
+923	Rajasthan Properties (Rajasthan.txt)	2 BHK Apartment	Udaipur Main Road	Udaipur / Rajasthan	Apartment / 2 BHK	948	₹47.23 L	Semi-Furnished	2	Bachelors	Sale
+924	Rajasthan Properties (Rajasthan.txt)	2 BHK Apartment	Jodhpur East	Jodhpur / Rajasthan	Apartment / 2 BHK	716	₹45.52 L	Fully-Furnished	2	Bachelors	Sale
+925	Rajasthan Properties (Rajasthan.txt)	2 BHK Apartment	Jaipur Sector 1	Jaipur / Rajasthan	Apartment / 2 BHK	742	₹13,300/month	Unfurnished	1	Any	Rent
+926	Rajasthan Properties (Rajasthan.txt)	2 BHK Apartment	Jodhpur Sector 2	Jodhpur / Rajasthan	Apartment / 2 BHK	759	₹56.62 L	Semi-Furnished	2	Bachelors	Sale
+927	Rajasthan Properties (Rajasthan.txt)	2 BHK Apartment	Kota South	Kota / Rajasthan	Apartment / 2 BHK	1031	₹54.09 L	Semi-Furnished	2	Any	Sale
+928	Rajasthan Properties (Rajasthan.txt)	1 BHK Studio	Jodhpur Sector 3	Jodhpur / Rajasthan	Studio / 1 BHK	436	₹9,900/month	Semi-Furnished	1	Family	Rent
+929	Rajasthan Properties (Rajasthan.txt)	2 BHK Independent House	Jaipur Heights	Jaipur / Rajasthan	Independent House / 2 BHK	684	₹45.53 L	Unfurnished	3	Any	Sale
+930	Rajasthan Properties (Rajasthan.txt)	1 BHK Studio	Jodhpur Residential Area	Jodhpur / Rajasthan	Studio / 1 BHK	416	₹25.46 L	Semi-Furnished	1	Family	Sale
+931	Rajasthan Properties (Rajasthan.txt)	1 BHK Studio	Kota East	Kota / Rajasthan	Studio / 1 BHK	459	₹33.66 L	Semi-Furnished	1	Bachelors	Sale
+932	Rajasthan Properties (Rajasthan.txt)	3 BHK Apartment	Udaipur Nagar	Udaipur / Rajasthan	Apartment / 3 BHK	1424	₹78.03 L	Unfurnished	3	Family	Sale
+933	Rajasthan Properties (Rajasthan.txt)	3 BHK Apartment	Udaipur Sector 2	Udaipur / Rajasthan	Apartment / 3 BHK	1060	₹69.28 L	Semi-Furnished	4	Family	Sale
+934	Rajasthan Properties (Rajasthan.txt)	3 BHK Apartment	Udaipur Central	Udaipur / Rajasthan	Apartment / 3 BHK	1197	₹20,300/month	Unfurnished	3	Bachelors	Rent
+935	Rajasthan Properties (Rajasthan.txt)	2 BHK Builder Floor	Udaipur Sector 2	Udaipur / Rajasthan	Builder Floor / 2 BHK	1008	₹13,400/month	Semi-Furnished	2	Family	Rent
+936	Rajasthan Properties (Rajasthan.txt)	3 BHK Independent House	Jaipur East	Jaipur / Rajasthan	Independent House / 3 BHK	1518	₹17,300/month	Fully-Furnished	2	Family	Rent
+937	Rajasthan Properties (Rajasthan.txt)	2 BHK Builder Floor	Kota Main Road	Kota / Rajasthan	Builder Floor / 2 BHK	811	₹45.06 L	Semi-Furnished	1	Family	Sale
+938	Rajasthan Properties (Rajasthan.txt)	3 BHK Apartment	Udaipur West	Udaipur / Rajasthan	Apartment / 3 BHK	1299	₹77.31 L	Fully-Furnished	3	Any	Sale
+939	Rajasthan Properties (Rajasthan.txt)	1 BHK Apartment	Udaipur Extension	Udaipur / Rajasthan	Apartment / 1 BHK	476	₹8,200/month	Semi-Furnished	1	Family	Rent
+940	Rajasthan Properties (Rajasthan.txt)	5 BHK Builder Floor	Jodhpur Extension	Jodhpur / Rajasthan	Builder Floor / 5 BHK	2393	₹34,100/month	Semi-Furnished	6	Any	Rent
+941	Rajasthan Properties (Rajasthan.txt)	1 BHK Studio	Jaipur South	Jaipur / Rajasthan	Studio / 1 BHK	400	₹35.49 L	Unfurnished	1	Family	Sale
+942	Rajasthan Properties (Rajasthan.txt)	4 BHK Apartment	Jaipur Extension	Jaipur / Rajasthan	Apartment / 4 BHK	2013	₹27,700/month	Fully-Furnished	5	Bachelors	Rent
+943	Rajasthan Properties (Rajasthan.txt)	2 BHK Builder Floor	Udaipur Central	Udaipur / Rajasthan	Builder Floor / 2 BHK	824	₹46.95 L	Unfurnished	2	Bachelors	Sale
+944	Rajasthan Properties (Rajasthan.txt)	3 BHK Apartment	Jodhpur Residential Area	Jodhpur / Rajasthan	Apartment / 3 BHK	1437	₹59.89 L	Fully-Furnished	4	Family	Sale
+945	Rajasthan Properties (Rajasthan.txt)	3 BHK Apartment	Kota Town Centre	Kota / Rajasthan	Apartment / 3 BHK	920	₹19,600/month	Semi-Furnished	2	Family	Rent
+946	Rajasthan Properties (Rajasthan.txt)	2 BHK Apartment	Jaipur Sector 1	Jaipur / Rajasthan	Apartment / 2 BHK	841	₹48.59 L	Semi-Furnished	3	Any	Sale
+947	Rajasthan Properties (Rajasthan.txt)	3 BHK Apartment	Jaipur South	Jaipur / Rajasthan	Apartment / 3 BHK	1287	₹17,500/month	Semi-Furnished	3	Any	Rent
+948	Rajasthan Properties (Rajasthan.txt)	1 BHK Independent House	Jaipur Sector 2	Jaipur / Rajasthan	Independent House / 1 BHK	607	₹29.04 L	Unfurnished	1	Bachelors	Sale
+949	Rajasthan Properties (Rajasthan.txt)	3 BHK Apartment	Udaipur East	Udaipur / Rajasthan	Apartment / 3 BHK	1104	₹61.75 L	Semi-Furnished	3	Any	Sale
+950	Rajasthan Properties (Rajasthan.txt)	4 BHK Apartment	Kota East	Kota / Rajasthan	Apartment / 4 BHK	1427	₹72.52 L	Unfurnished	4	Any	Sale
+951	Rajasthan Properties (Rajasthan.txt)	2 BHK Independent House	Kota West	Kota / Rajasthan	Independent House / 2 BHK	962	₹42.50 L	Semi-Furnished	2	Family	Sale
+952	Rajasthan Properties (Rajasthan.txt)	3 BHK Apartment	Kota Sector 2	Kota / Rajasthan	Apartment / 3 BHK	1236	₹20,000/month	Semi-Furnished	3	Any	Rent
+953	Rajasthan Properties (Rajasthan.txt)	2 BHK Apartment	Jodhpur Sector 3	Jodhpur / Rajasthan	Apartment / 2 BHK	723	₹53.41 L	Semi-Furnished	1	Any	Sale
+954	Rajasthan Properties (Rajasthan.txt)	1 BHK Apartment	Jaipur Nagar	Jaipur / Rajasthan	Apartment / 1 BHK	392	₹30.18 L	Unfurnished	1	Family	Sale
+955	Rajasthan Properties (Rajasthan.txt)	3 BHK Apartment	Jodhpur Sector 1	Jodhpur / Rajasthan	Apartment / 3 BHK	1525	₹23,300/month	Fully-Furnished	2	Bachelors	Rent
+956	Rajasthan Properties (Rajasthan.txt)	4 BHK Apartment	Jaipur Nagar	Jaipur / Rajasthan	Apartment / 4 BHK	1621	₹85.92 L	Semi-Furnished	4	Family	Sale
+957	Rajasthan Properties (Rajasthan.txt)	1 BHK Studio	Kota Town Centre	Kota / Rajasthan	Studio / 1 BHK	405	₹8,300/month	Semi-Furnished	1	Family	Rent
+958	Rajasthan Properties (Rajasthan.txt)	3 BHK Apartment	Jodhpur West	Jodhpur / Rajasthan	Apartment / 3 BHK	1432	₹70.40 L	Semi-Furnished	3	Bachelors	Sale
+959	Rajasthan Properties (Rajasthan.txt)	4 BHK Independent House	Jodhpur Sector 1	Jodhpur / Rajasthan	Independent House / 4 BHK	1917	₹86.64 L	Semi-Furnished	4	Bachelors	Sale
+960	Rajasthan Properties (Rajasthan.txt)	2 BHK Apartment	Udaipur Town Centre	Udaipur / Rajasthan	Apartment / 2 BHK	836	₹14,500/month	Semi-Furnished	2	Any	Rent
+961	Rajasthan Properties (Rajasthan.txt)	3 BHK Apartment	Kota Main Road	Kota / Rajasthan	Apartment / 3 BHK	1345	₹80.87 L	Semi-Furnished	3	Family	Sale
+962	Rajasthan Properties (Rajasthan.txt)	3 BHK Independent House	Jodhpur Sector 2	Jodhpur / Rajasthan	Independent House / 3 BHK	1206	₹74.92 L	Fully-Furnished	4	Family	Sale
+963	Rajasthan Properties (Rajasthan.txt)	3 BHK Apartment	Kota Residential Area	Kota / Rajasthan	Apartment / 3 BHK	1299	₹22,600/month	Unfurnished	4	Family	Rent
+964	Rajasthan Properties (Rajasthan.txt)	3 BHK Apartment	Kota Main Road	Kota / Rajasthan	Apartment / 3 BHK	1168	₹66.74 L	Semi-Furnished	3	Bachelors	Sale
+965	Rajasthan Properties (Rajasthan.txt)	2 BHK Apartment	Jodhpur North	Jodhpur / Rajasthan	Apartment / 2 BHK	700	₹12,600/month	Fully-Furnished	1	Bachelors	Rent
+966	Rajasthan Properties (Rajasthan.txt)	2 BHK Villa	Jodhpur Colony	Jodhpur / Rajasthan	Villa / 2 BHK	1052	₹17,200/month	Unfurnished	1	Any	Rent
+967	Rajasthan Properties (Rajasthan.txt)	1 BHK Builder Floor	Jaipur Town Centre	Jaipur / Rajasthan	Builder Floor / 1 BHK	535	₹9,600/month	Unfurnished	2	Any	Rent
+968	Rajasthan Properties (Rajasthan.txt)	3 BHK Apartment	Kota East	Kota / Rajasthan	Apartment / 3 BHK	1130	₹72.39 L	Semi-Furnished	4	Any	Sale
+969	Rajasthan Properties (Rajasthan.txt)	2 BHK Apartment	Jaipur West	Jaipur / Rajasthan	Apartment / 2 BHK	1111	₹17,700/month	Fully-Furnished	2	Family	Rent
+970	Rajasthan Properties (Rajasthan.txt)	2 BHK Apartment	Jodhpur West	Jodhpur / Rajasthan	Apartment / 2 BHK	988	₹53.99 L	Fully-Furnished	2	Family	Sale
+971	Rajasthan Properties (Rajasthan.txt)	1 BHK Studio	Jodhpur Sector 2	Jodhpur / Rajasthan	Studio / 1 BHK	386	₹30.59 L	Semi-Furnished	1	Any	Sale
+972	Rajasthan Properties (Rajasthan.txt)	3 BHK Independent House	Jaipur Residential Area	Jaipur / Rajasthan	Independent House / 3 BHK	1720	₹70.52 L	Unfurnished	3	Any	Sale
+973	Rajasthan Properties (Rajasthan.txt)	1 BHK Villa	Kota North	Kota / Rajasthan	Villa / 1 BHK	766	₹35.44 L	Fully-Furnished	1	Bachelors	Sale
+974	Rajasthan Properties (Rajasthan.txt)	2 BHK Apartment	Udaipur South	Udaipur / Rajasthan	Apartment / 2 BHK	786	₹14,300/month	Semi-Furnished	2	Family	Rent
+975	Rajasthan Properties (Rajasthan.txt)	1 BHK Studio	Jodhpur Sector 1	Jodhpur / Rajasthan	Studio / 1 BHK	375	₹30.02 L	Fully-Furnished	2	Any	Sale
+976	Rajasthan Properties (Rajasthan.txt)	4 BHK Apartment	Jaipur Colony	Jaipur / Rajasthan	Apartment / 4 BHK	2050	₹22,500/month	Fully-Furnished	5	Any	Rent
+977	Rajasthan Properties (Rajasthan.txt)	3 BHK Villa	Udaipur West	Udaipur / Rajasthan	Villa / 3 BHK	1732	₹72.05 L	Semi-Furnished	2	Bachelors	Sale
+978	Rajasthan Properties (Rajasthan.txt)	2 BHK Independent House	Kota South	Kota / Rajasthan	Independent House / 2 BHK	987	₹62.07 L	Semi-Furnished	2	Family	Sale
+979	Rajasthan Properties (Rajasthan.txt)	3 BHK Builder Floor	Jaipur Town Centre	Jaipur / Rajasthan	Builder Floor / 3 BHK	1439	₹75.75 L	Semi-Furnished	4	Bachelors	Sale
+980	Rajasthan Properties (Rajasthan.txt)	2 BHK Apartment	Jaipur Main Road	Jaipur / Rajasthan	Apartment / 2 BHK	780	₹11,600/month	Semi-Furnished	2	Family	Rent
+981	Rajasthan Properties (Rajasthan.txt)	5 BHK Apartment	Jaipur Main Road	Jaipur / Rajasthan	Apartment / 5 BHK	2315	₹1.18 Cr	Fully-Furnished	5	Family	Sale
+982	Rajasthan Properties (Rajasthan.txt)	3 BHK Independent House	Udaipur North	Udaipur / Rajasthan	Independent House / 3 BHK	1083	₹21,800/month	Unfurnished	2	Bachelors	Rent
+983	Rajasthan Properties (Rajasthan.txt)	1 BHK Apartment	Jaipur Sector 3	Jaipur / Rajasthan	Apartment / 1 BHK	594	₹10,100/month	Semi-Furnished	1	Any	Rent
+984	Rajasthan Properties (Rajasthan.txt)	4 BHK Independent House	Kota East	Kota / Rajasthan	Independent House / 4 BHK	2158	₹96.36 L	Fully-Furnished	5	Family	Sale
+985	Rajasthan Properties (Rajasthan.txt)	3 BHK Apartment	Kota Colony	Kota / Rajasthan	Apartment / 3 BHK	1247	₹63.52 L	Semi-Furnished	3	Family	Sale
+986	Rajasthan Properties (Rajasthan.txt)	2 BHK Independent House	Jaipur Sector 2	Jaipur / Rajasthan	Independent House / 2 BHK	849	₹44.47 L	Semi-Furnished	3	Bachelors	Sale
+987	Rajasthan Properties (Rajasthan.txt)	1 BHK Independent House	Kota Heights	Kota / Rajasthan	Independent House / 1 BHK	581	₹28 L	Fully-Furnished	1	Bachelors	Sale
+988	Rajasthan Properties (Rajasthan.txt)	2 BHK Independent House	Kota Sector 1	Kota / Rajasthan	Independent House / 2 BHK	1217	₹46.57 L	Semi-Furnished	2	Family	Sale
+989	Rajasthan Properties (Rajasthan.txt)	2 BHK Builder Floor	Jodhpur Heights	Jodhpur / Rajasthan	Builder Floor / 2 BHK	940	₹14,000/month	Unfurnished	2	Family	Rent
+990	Rajasthan Properties (Rajasthan.txt)	2 BHK Apartment	Jaipur East	Jaipur / Rajasthan	Apartment / 2 BHK	893	₹14,200/month	Unfurnished	2	Family	Rent
+991	Rajasthan Properties (Rajasthan.txt)	2 BHK Builder Floor	Jodhpur Nagar	Jodhpur / Rajasthan	Builder Floor / 2 BHK	881	₹16,900/month	Fully-Furnished	2	Any	Rent
+992	Rajasthan Properties (Rajasthan.txt)	3 BHK Builder Floor	Kota Nagar	Kota / Rajasthan	Builder Floor / 3 BHK	1428	₹83.16 L	Semi-Furnished	3	Bachelors	Sale
+993	Rajasthan Properties (Rajasthan.txt)	2 BHK Apartment	Jodhpur Extension	Jodhpur / Rajasthan	Apartment / 2 BHK	956	₹54.40 L	Semi-Furnished	1	Family	Sale
+994	Rajasthan Properties (Rajasthan.txt)	3 BHK Apartment	Jodhpur Sector 2	Jodhpur / Rajasthan	Apartment / 3 BHK	1003	₹21,200/month	Semi-Furnished	4	Any	Rent
+995	Rajasthan Properties (Rajasthan.txt)	1 BHK Studio	Udaipur Sector 3	Udaipur / Rajasthan	Studio / 1 BHK	390	₹10,400/month	Unfurnished	1	Family	Rent
+996	Rajasthan Properties (Rajasthan.txt)	4 BHK Apartment	Udaipur Main Road	Udaipur / Rajasthan	Apartment / 4 BHK	1638	₹90.98 L	Semi-Furnished	4	Any	Sale
+997	Rajasthan Properties (Rajasthan.txt)	2 BHK Apartment	Udaipur Town Centre	Udaipur / Rajasthan	Apartment / 2 BHK	754	₹53.20 L	Semi-Furnished	1	Any	Sale
+998	Rajasthan Properties (Rajasthan.txt)	2 BHK Villa	Kota West	Kota / Rajasthan	Villa / 2 BHK	1201	₹63.38 L	Semi-Furnished	2	Bachelors	Sale
+999	Rajasthan Properties (Rajasthan.txt)	3 BHK Builder Floor	Udaipur North	Udaipur / Rajasthan	Builder Floor / 3 BHK	1151	₹66.09 L	Semi-Furnished	2	Any	Sale
+1000	Rajasthan Properties (Rajasthan.txt)	3 BHK Independent House	Udaipur Sector 3	Udaipur / Rajasthan	Independent House / 3 BHK	1226	₹17,100/month	Unfurnished	3	Family	Rent
+1001	Rajasthan Properties (Rajasthan.txt)	2 BHK Builder Floor	Jodhpur West	Jodhpur / Rajasthan	Builder Floor / 2 BHK	761	₹47.70 L	Unfurnished	2	Family	Sale
+1002	Rajasthan Properties (Rajasthan.txt)	3 BHK Apartment	Kota Sector 2	Kota / Rajasthan	Apartment / 3 BHK	1120	₹80.72 L	Unfurnished	2	Any	Sale
+1003	Rajasthan Properties (Rajasthan.txt)	2 BHK Apartment	Kota Extension	Kota / Rajasthan	Apartment / 2 BHK	838	₹42.06 L	Unfurnished	2	Family	Sale
+1004	Rajasthan Properties (Rajasthan.txt)	3 BHK Builder Floor	Udaipur North	Udaipur / Rajasthan	Builder Floor / 3 BHK	1294	₹79.05 L	Unfurnished	4	Bachelors	Sale
+1005	Rajasthan Properties (Rajasthan.txt)	3 BHK Builder Floor	Jaipur South	Jaipur / Rajasthan	Builder Floor / 3 BHK	1223	₹79.34 L	Semi-Furnished	2	Family	Sale
+1006	Rajasthan Properties (Rajasthan.txt)	1 BHK Independent House	Jaipur Extension	Jaipur / Rajasthan	Independent House / 1 BHK	652	₹11,200/month	Semi-Furnished	1	Any	Rent
+1007	Rajasthan Properties (Rajasthan.txt)	1 BHK Independent House	Jaipur West	Jaipur / Rajasthan	Independent House / 1 BHK	636	₹34.42 L	Unfurnished	1	Family	Sale
+1008	Rajasthan Properties (Rajasthan.txt)	3 BHK Builder Floor	Udaipur Residential Area	Udaipur / Rajasthan	Builder Floor / 3 BHK	973	₹20,700/month	Fully-Furnished	2	Bachelors	Rent
+1009	Rajasthan Properties (Rajasthan.txt)	2 BHK Apartment	Jodhpur Heights	Jodhpur / Rajasthan	Apartment / 2 BHK	886	₹14,500/month	Fully-Furnished	3	Family	Rent
+1010	Rajasthan Properties (Rajasthan.txt)	1 BHK Studio	Kota West	Kota / Rajasthan	Studio / 1 BHK	300	₹8,000/month	Fully-Furnished	1	Bachelors	Rent
+1011	Rajasthan Properties (Rajasthan.txt)	3 BHK Apartment	Kota Colony	Kota / Rajasthan	Apartment / 3 BHK	1301	₹19,600/month	Fully-Furnished	2	Bachelors	Rent
+1012	Rajasthan Properties (Rajasthan.txt)	3 BHK Builder Floor	Kota North	Kota / Rajasthan	Builder Floor / 3 BHK	1122	₹68.09 L	Unfurnished	3	Any	Sale
+1013	Rajasthan Properties (Rajasthan.txt)	2 BHK Independent House	Jodhpur Colony	Jodhpur / Rajasthan	Independent House / 2 BHK	1131	₹65.24 L	Fully-Furnished	2	Family	Sale
+1014	Rajasthan Properties (Rajasthan.txt)	5 BHK Apartment	Jodhpur Sector 2	Jodhpur / Rajasthan	Apartment / 5 BHK	1723	₹1.25 Cr	Unfurnished	5	Family	Sale
+1015	Rajasthan Properties (Rajasthan.txt)	4 BHK Apartment	Jaipur Main Road	Jaipur / Rajasthan	Apartment / 4 BHK	1578	₹23,700/month	Semi-Furnished	4	Any	Rent
+1016	Rajasthan Properties (Rajasthan.txt)	1 BHK Apartment	Kota Sector 2	Kota / Rajasthan	Apartment / 1 BHK	450	₹9,800/month	Fully-Furnished	1	Family	Rent
+1017	Rajasthan Properties (Rajasthan.txt)	3 BHK Apartment	Jodhpur Main Road	Jodhpur / Rajasthan	Apartment / 3 BHK	1144	₹76.95 L	Semi-Furnished	3	Bachelors	Sale
+1018	Rajasthan Properties (Rajasthan.txt)	3 BHK Apartment	Udaipur Central	Udaipur / Rajasthan	Apartment / 3 BHK	1408	₹77.94 L	Semi-Furnished	4	Family	Sale
+1019	Rajasthan Properties (Rajasthan.txt)	1 BHK Apartment	Jodhpur Town Centre	Jodhpur / Rajasthan	Apartment / 1 BHK	467	₹32.37 L	Fully-Furnished	1	Family	Sale
+1020	Rajasthan Properties (Rajasthan.txt)	2 BHK Apartment	Udaipur Colony	Udaipur / Rajasthan	Apartment / 2 BHK	1174	₹12,800/month	Semi-Furnished	1	Any	Rent
+1021	Rajasthan Properties (Rajasthan.txt)	5 BHK Apartment	Jaipur West	Jaipur / Rajasthan	Apartment / 5 BHK	2920	₹1.32 Cr	Semi-Furnished	4	Any	Sale
+1022	Rajasthan Properties (Rajasthan.txt)	3 BHK Independent House	Kota East	Kota / Rajasthan	Independent House / 3 BHK	1366	₹16,100/month	Semi-Furnished	2	Family	Rent
+1023	Rajasthan Properties (Rajasthan.txt)	3 BHK Apartment	Udaipur Main Road	Udaipur / Rajasthan	Apartment / 3 BHK	1203	₹17,000/month	Semi-Furnished	2	Family	Rent
+1024	Rajasthan Properties (Rajasthan.txt)	1 BHK Apartment	Jodhpur Sector 2	Jodhpur / Rajasthan	Apartment / 1 BHK	576	₹9,600/month	Unfurnished	1	Family	Rent
+1025	Rajasthan Properties (Rajasthan.txt)	2 BHK Independent House	Udaipur Colony	Udaipur / Rajasthan	Independent House / 2 BHK	919	₹51.64 L	Semi-Furnished	2	Any	Sale
+1026	Rajasthan Properties (Rajasthan.txt)	2 BHK Apartment	Jodhpur Sector 1	Jodhpur / Rajasthan	Apartment / 2 BHK	746	₹16,000/month	Unfurnished	2	Bachelors	Rent
+1027	Rajasthan Properties (Rajasthan.txt)	1 BHK Studio	Udaipur West	Udaipur / Rajasthan	Studio / 1 BHK	352	₹25.01 L	Semi-Furnished	1	Any	Sale
+1028	Rajasthan Properties (Rajasthan.txt)	3 BHK Builder Floor	Jodhpur South	Jodhpur / Rajasthan	Builder Floor / 3 BHK	1172	₹57.48 L	Semi-Furnished	3	Family	Sale
+1029	Rajasthan Properties (Rajasthan.txt)	2 BHK Villa	Udaipur Sector 3	Udaipur / Rajasthan	Villa / 2 BHK	1189	₹14,700/month	Fully-Furnished	1	Family	Rent
+1030	Rajasthan Properties (Rajasthan.txt)	1 BHK Apartment	Udaipur Heights	Udaipur / Rajasthan	Apartment / 1 BHK	610	₹39.99 L	Fully-Furnished	1	Any	Sale
+1031	Rajasthan Properties (Rajasthan.txt)	2 BHK Villa	Jodhpur North	Jodhpur / Rajasthan	Villa / 2 BHK	1196	₹50.83 L	Semi-Furnished	2	Any	Sale
+1032	Rajasthan Properties (Rajasthan.txt)	3 BHK Independent House	Jodhpur Main Road	Jodhpur / Rajasthan	Independent House / 3 BHK	1560	₹86.70 L	Semi-Furnished	2	Family	Sale
+1033	Rajasthan Properties (Rajasthan.txt)	4 BHK Apartment	Kota Heights	Kota / Rajasthan	Apartment / 4 BHK	2062	₹1.11 Cr	Semi-Furnished	3	Bachelors	Sale
+1034	Rajasthan Properties (Rajasthan.txt)	4 BHK Independent House	Jodhpur Nagar	Jodhpur / Rajasthan	Independent House / 4 BHK	1947	₹83.77 L	Semi-Furnished	3	Family	Sale
+1035	Rajasthan Properties (Rajasthan.txt)	2 BHK Apartment	Jaipur South	Jaipur / Rajasthan	Apartment / 2 BHK	781	₹53.39 L	Semi-Furnished	2	Bachelors	Sale
+1036	Rajasthan Properties (Rajasthan.txt)	1 BHK Builder Floor	Jaipur Residential Area	Jaipur / Rajasthan	Builder Floor / 1 BHK	352	₹9,700/month	Fully-Furnished	1	Any	Rent
+1037	Rajasthan Properties (Rajasthan.txt)	1 BHK Apartment	Kota Heights	Kota / Rajasthan	Apartment / 1 BHK	458	₹9,000/month	Unfurnished	2	Any	Rent
+1038	Rajasthan Properties (Rajasthan.txt)	3 BHK Apartment	Kota South	Kota / Rajasthan	Apartment / 3 BHK	1371	₹17,000/month	Semi-Furnished	3	Any	Rent
+1039	Rajasthan Properties (Rajasthan.txt)	2 BHK Independent House	Kota Heights	Kota / Rajasthan	Independent House / 2 BHK	804	₹41.18 L	Fully-Furnished	2	Any	Sale
+1040	Rajasthan Properties (Rajasthan.txt)	2 BHK Builder Floor	Jodhpur East	Jodhpur / Rajasthan	Builder Floor / 2 BHK	831	₹12,700/month	Unfurnished	2	Bachelors	Rent
+1041	Rajasthan Properties (Rajasthan.txt)	1 BHK Apartment	Kota Heights	Kota / Rajasthan	Apartment / 1 BHK	520	₹30.38 L	Fully-Furnished	2	Family	Sale
+1042	Rajasthan Properties (Rajasthan.txt)	1 BHK Studio	Jodhpur Main Road	Jodhpur / Rajasthan	Studio / 1 BHK	339	₹9,200/month	Semi-Furnished	1	Family	Rent
+1043	Rajasthan Properties (Rajasthan.txt)	2 BHK Apartment	Jaipur East	Jaipur / Rajasthan	Apartment / 2 BHK	1034	₹52.16 L	Unfurnished	2	Any	Sale
+1044	Rajasthan Properties (Rajasthan.txt)	2 BHK Apartment	Kota Residential Area	Kota / Rajasthan	Apartment / 2 BHK	757	₹15,800/month	Semi-Furnished	3	Any	Rent
+1045	Rajasthan Properties (Rajasthan.txt)	2 BHK Independent House	Jodhpur West	Jodhpur / Rajasthan	Independent House / 2 BHK	912	₹14,200/month	Fully-Furnished	2	Any	Rent
+1046	Rajasthan Properties (Rajasthan.txt)	4 BHK Builder Floor	Jaipur Extension	Jaipur / Rajasthan	Builder Floor / 4 BHK	2037	₹25,900/month	Semi-Furnished	4	Family	Rent
+1047	Rajasthan Properties (Rajasthan.txt)	4 BHK Villa	Udaipur Sector 3	Udaipur / Rajasthan	Villa / 4 BHK	2208	₹86 L	Semi-Furnished	3	Family	Sale
+1048	Rajasthan Properties (Rajasthan.txt)	3 BHK Apartment	Udaipur Main Road	Udaipur / Rajasthan	Apartment / 3 BHK	1340	₹77.57 L	Fully-Furnished	2	Bachelors	Sale
+1049	Rajasthan Properties (Rajasthan.txt)	2 BHK Apartment	Jaipur Heights	Jaipur / Rajasthan	Apartment / 2 BHK	734	₹14,500/month	Semi-Furnished	1	Family	Rent
+1050	Rajasthan Properties (Rajasthan.txt)	1 BHK Builder Floor	Udaipur Sector 2	Udaipur / Rajasthan	Builder Floor / 1 BHK	578	₹9,300/month	Semi-Furnished	1	Family	Rent
+1051	Rajasthan Properties (Rajasthan.txt)	3 BHK Builder Floor	Kota Nagar	Kota / Rajasthan	Builder Floor / 3 BHK	1270	₹22,200/month	Fully-Furnished	3	Bachelors	Rent
+1052	Rajasthan Properties (Rajasthan.txt)	2 BHK Independent House	Kota South	Kota / Rajasthan	Independent House / 2 BHK	981	₹59.40 L	Unfurnished	2	Any	Sale
+1053	Rajasthan Properties (Rajasthan.txt)	4 BHK Independent House	Udaipur East	Udaipur / Rajasthan	Independent House / 4 BHK	2109	₹1.02 Cr	Fully-Furnished	5	Family	Sale
+1054	Rajasthan Properties (Rajasthan.txt)	4 BHK Apartment	Kota East	Kota / Rajasthan	Apartment / 4 BHK	1594	₹99.35 L	Semi-Furnished	4	Bachelors	Sale
+1055	Rajasthan Properties (Rajasthan.txt)	2 BHK Villa	Jaipur Residential Area	Jaipur / Rajasthan	Villa / 2 BHK	1325	₹18,900/month	Semi-Furnished	2	Any	Rent
+1056	Rajasthan Properties (Rajasthan.txt)	3 BHK Apartment	Kota North	Kota / Rajasthan	Apartment / 3 BHK	1235	₹60.68 L	Unfurnished	3	Family	Sale
+1057	Rajasthan Properties (Rajasthan.txt)	3 BHK Independent House	Jaipur East	Jaipur / Rajasthan	Independent House / 3 BHK	1400	₹22,900/month	Fully-Furnished	3	Family	Rent
+1058	Rajasthan Properties (Rajasthan.txt)	2 BHK Independent House	Udaipur Main Road	Udaipur / Rajasthan	Independent House / 2 BHK	1248	₹59.98 L	Unfurnished	3	Family	Sale
+1059	Rajasthan Properties (Rajasthan.txt)	2 BHK Independent House	Kota West	Kota / Rajasthan	Independent House / 2 BHK	1157	₹53.21 L	Fully-Furnished	2	Bachelors	Sale
+1060	Rajasthan Properties (Rajasthan.txt)	3 BHK Independent House	Udaipur West	Udaipur / Rajasthan	Independent House / 3 BHK	1593	₹21,400/month	Semi-Furnished	3	Family	Rent
+1061	Rajasthan Properties (Rajasthan.txt)	3 BHK Independent House	Jodhpur Residential Area	Jodhpur / Rajasthan	Independent House / 3 BHK	1356	₹65.84 L	Semi-Furnished	4	Family	Sale
+1062	Rajasthan Properties (Rajasthan.txt)	2 BHK Builder Floor	Kota Sector 2	Kota / Rajasthan	Builder Floor / 2 BHK	849	₹46.51 L	Semi-Furnished	3	Any	Sale
+1063	Rajasthan Properties (Rajasthan.txt)	2 BHK Apartment	Jaipur East	Jaipur / Rajasthan	Apartment / 2 BHK	882	₹52.98 L	Semi-Furnished	3	Family	Sale
+1064	Rajasthan Properties (Rajasthan.txt)	2 BHK Builder Floor	Kota North	Kota / Rajasthan	Builder Floor / 2 BHK	844	₹45.50 L	Unfurnished	3	Any	Sale
+1065	Rajasthan Properties (Rajasthan.txt)	3 BHK Apartment	Udaipur West	Udaipur / Rajasthan	Apartment / 3 BHK	1218	₹73.51 L	Fully-Furnished	4	Family	Sale
+1066	Rajasthan Properties (Rajasthan.txt)	1 BHK Independent House	Jodhpur South	Jodhpur / Rajasthan	Independent House / 1 BHK	555	₹30.85 L	Fully-Furnished	1	Family	Sale
+1067	Rajasthan Properties (Rajasthan.txt)	1 BHK Independent House	Kota Residential Area	Kota / Rajasthan	Independent House / 1 BHK	649	₹38.57 L	Unfurnished	1	Any	Sale
+1068	Rajasthan Properties (Rajasthan.txt)	4 BHK Independent House	Kota Extension	Kota / Rajasthan	Independent House / 4 BHK	1493	₹91.23 L	Semi-Furnished	5	Family	Sale
+1069	Rajasthan Properties (Rajasthan.txt)	1 BHK Apartment	Jodhpur Main Road	Jodhpur / Rajasthan	Apartment / 1 BHK	558	₹10,700/month	Fully-Furnished	1	Bachelors	Rent
+1070	Rajasthan Properties (Rajasthan.txt)	2 BHK Apartment	Jodhpur Sector 3	Jodhpur / Rajasthan	Apartment / 2 BHK	1126	₹14,800/month	Fully-Furnished	1	Family	Rent
+1071	Rajasthan Properties (Rajasthan.txt)	1 BHK Studio	Jaipur Main Road	Jaipur / Rajasthan	Studio / 1 BHK	393	₹10,000/month	Semi-Furnished	2	Any	Rent
+1072	Rajasthan Properties (Rajasthan.txt)	2 BHK Apartment	Jaipur East	Jaipur / Rajasthan	Apartment / 2 BHK	777	₹56.97 L	Unfurnished	1	Any	Sale
+1073	Rajasthan Properties (Rajasthan.txt)	4 BHK Builder Floor	Jaipur South	Jaipur / Rajasthan	Builder Floor / 4 BHK	1449	₹22,600/month	Fully-Furnished	5	Bachelors	Rent
+1074	Rajasthan Properties (Rajasthan.txt)	3 BHK Independent House	Jodhpur Heights	Jodhpur / Rajasthan	Independent House / 3 BHK	1234	₹67.80 L	Semi-Furnished	3	Bachelors	Sale
+1075	Rajasthan Properties (Rajasthan.txt)	3 BHK Apartment	Kota Colony	Kota / Rajasthan	Apartment / 3 BHK	1297	₹76.21 L	Unfurnished	3	Family	Sale
+1076	Rajasthan Properties (Rajasthan.txt)	2 BHK Independent House	Jaipur Sector 1	Jaipur / Rajasthan	Independent House / 2 BHK	990	₹13,400/month	Unfurnished	1	Family	Rent
+1077	Rajasthan Properties (Rajasthan.txt)	4 BHK Apartment	Jodhpur Sector 2	Jodhpur / Rajasthan	Apartment / 4 BHK	2064	₹82.68 L	Semi-Furnished	4	Any	Sale
+1078	Rajasthan Properties (Rajasthan.txt)	1 BHK Independent House	Udaipur Nagar	Udaipur / Rajasthan	Independent House / 1 BHK	653	₹29.04 L	Fully-Furnished	1	Family	Sale
+1079	Rajasthan Properties (Rajasthan.txt)	2 BHK Apartment	Kota Colony	Kota / Rajasthan	Apartment / 2 BHK	1028	₹15,000/month	Fully-Furnished	2	Family	Rent
+1080	Rajasthan Properties (Rajasthan.txt)	3 BHK Apartment	Jodhpur Main Road	Jodhpur / Rajasthan	Apartment / 3 BHK	1386	₹58.87 L	Fully-Furnished	4	Any	Sale
+1081	Rajasthan Properties (Rajasthan.txt)	2 BHK Independent House	Kota Residential Area	Kota / Rajasthan	Independent House / 2 BHK	1176	₹16,200/month	Fully-Furnished	2	Bachelors	Rent
+1082	Rajasthan Properties (Rajasthan.txt)	3 BHK Builder Floor	Jaipur Town Centre	Jaipur / Rajasthan	Builder Floor / 3 BHK	1253	₹61.34 L	Unfurnished	3	Any	Sale
+1083	Rajasthan Properties (Rajasthan.txt)	2 BHK Apartment	Udaipur Residential Area	Udaipur / Rajasthan	Apartment / 2 BHK	957	₹45.13 L	Semi-Furnished	3	Family	Sale
+1084	Rajasthan Properties (Rajasthan.txt)	3 BHK Apartment	Jodhpur Extension	Jodhpur / Rajasthan	Apartment / 3 BHK	1163	₹21,400/month	Semi-Furnished	3	Family	Rent
+1085	Rajasthan Properties (Rajasthan.txt)	4 BHK Independent House	Kota Nagar	Kota / Rajasthan	Independent House / 4 BHK	2342	₹1.16 Cr	Fully-Furnished	5	Family	Sale
+1086	Rajasthan Properties (Rajasthan.txt)	2 BHK Builder Floor	Jodhpur Extension	Jodhpur / Rajasthan	Builder Floor / 2 BHK	781	₹50.21 L	Semi-Furnished	2	Family	Sale
+1087	Rajasthan Properties (Rajasthan.txt)	2 BHK Independent House	Jodhpur Main Road	Jodhpur / Rajasthan	Independent House / 2 BHK	972	₹12,400/month	Unfurnished	2	Bachelors	Rent
+1088	Rajasthan Properties (Rajasthan.txt)	4 BHK Apartment	Kota North	Kota / Rajasthan	Apartment / 4 BHK	1836	₹1.05 Cr	Fully-Furnished	5	Any	Sale
+1089	Rajasthan Properties (Rajasthan.txt)	2 BHK Apartment	Jaipur North	Jaipur / Rajasthan	Apartment / 2 BHK	892	₹48.17 L	Semi-Furnished	2	Bachelors	Sale
+1090	Rajasthan Properties (Rajasthan.txt)	1 BHK Studio	Udaipur Central	Udaipur / Rajasthan	Studio / 1 BHK	374	₹29.36 L	Unfurnished	1	Bachelors	Sale
+1091	Rajasthan Properties (Rajasthan.txt)	2 BHK Apartment	Udaipur Central	Udaipur / Rajasthan	Apartment / 2 BHK	1020	₹17,200/month	Semi-Furnished	2	Bachelors	Rent
+1092	Rajasthan Properties (Rajasthan.txt)	4 BHK Apartment	Udaipur Sector 3	Udaipur / Rajasthan	Apartment / 4 BHK	1821	₹86.30 L	Fully-Furnished	3	Any	Sale
+1093	Rajasthan Properties (Rajasthan.txt)	2 BHK Apartment	Kota Nagar	Kota / Rajasthan	Apartment / 2 BHK	1003	₹53.94 L	Fully-Furnished	2	Bachelors	Sale
+1094	Rajasthan Properties (Rajasthan.txt)	2 BHK Apartment	Udaipur Extension	Udaipur / Rajasthan	Apartment / 2 BHK	943	₹52.85 L	Unfurnished	2	Family	Sale
+1095	Rajasthan Properties (Rajasthan.txt)	2 BHK Apartment	Kota Nagar	Kota / Rajasthan	Apartment / 2 BHK	515	₹11,000/month	Unfurnished	2	Family	Rent
+1096	Rajasthan Properties (Rajasthan.txt)	1 BHK Studio	Kota Extension	Kota / Rajasthan	Studio / 1 BHK	445	₹8,100/month	Fully-Furnished	1	Bachelors	Rent
+1097	Rajasthan Properties (Rajasthan.txt)	2 BHK Apartment	Jaipur Sector 3	Jaipur / Rajasthan	Apartment / 2 BHK	1045	₹13,500/month	Fully-Furnished	2	Bachelors	Rent
+1098	Rajasthan Properties (Rajasthan.txt)	2 BHK Builder Floor	Kota Heights	Kota / Rajasthan	Builder Floor / 2 BHK	948	₹49.02 L	Semi-Furnished	2	Any	Sale
+1099	Rajasthan Properties (Rajasthan.txt)	1 BHK Apartment	Jaipur Sector 1	Jaipur / Rajasthan	Apartment / 1 BHK	526	₹28.85 L	Unfurnished	1	Any	Sale
+1100	Rajasthan Properties (Rajasthan.txt)	3 BHK Independent House	Kota Sector 2	Kota / Rajasthan	Independent House / 3 BHK	1362	₹64.53 L	Semi-Furnished	3	Family	Sale
+1101	Rajasthan Properties (Rajasthan.txt)	4 BHK Apartment	Jaipur Sector 1	Jaipur / Rajasthan	Apartment / 4 BHK	1593	₹84.80 L	Fully-Furnished	5	Any	Sale
+1102	Rajasthan Properties (Rajasthan.txt)	2 BHK Builder Floor	Jaipur Extension	Jaipur / Rajasthan	Builder Floor / 2 BHK	906	₹57.92 L	Semi-Furnished	2	Family	Sale
+1103	Rajasthan Properties (Rajasthan.txt)	5 BHK Villa	Kota Main Road	Kota / Rajasthan	Villa / 5 BHK	4057	₹1.48 Cr	Unfurnished	5	Any	Sale
+1104	Rajasthan Properties (Rajasthan.txt)	1 BHK Apartment	Kota Sector 3	Kota / Rajasthan	Apartment / 1 BHK	570	₹29.66 L	Fully-Furnished	1	Family	Sale
+1105	Rajasthan Properties (Rajasthan.txt)	3 BHK Villa	Jaipur Sector 1	Jaipur / Rajasthan	Villa / 3 BHK	1690	₹86.18 L	Unfurnished	3	Bachelors	Sale
+1106	Rajasthan Properties (Rajasthan.txt)	3 BHK Apartment	Jodhpur Nagar	Jodhpur / Rajasthan	Apartment / 3 BHK	1420	₹84.95 L	Semi-Furnished	4	Family	Sale
+1107	Rajasthan Properties (Rajasthan.txt)	1 BHK Apartment	Udaipur Sector 2	Udaipur / Rajasthan	Apartment / 1 BHK	519	₹34.42 L	Fully-Furnished	1	Family	Sale
+1108	Rajasthan Properties (Rajasthan.txt)	5 BHK Apartment	Jodhpur Extension	Jodhpur / Rajasthan	Apartment / 5 BHK	2617	₹1.37 Cr	Semi-Furnished	6	Family	Sale
+1109	Rajasthan Properties (Rajasthan.txt)	2 BHK Apartment	Kota West	Kota / Rajasthan	Apartment / 2 BHK	950	₹52.11 L	Semi-Furnished	3	Any	Sale
+1110	Rajasthan Properties (Rajasthan.txt)	1 BHK Studio	Kota Extension	Kota / Rajasthan	Studio / 1 BHK	386	₹10,100/month	Semi-Furnished	1	Any	Rent
+1111	Rajasthan Properties (Rajasthan.txt)	3 BHK Apartment	Jodhpur Sector 3	Jodhpur / Rajasthan	Apartment / 3 BHK	1305	₹82.46 L	Fully-Furnished	2	Family	Sale
+1112	Rajasthan Properties (Rajasthan.txt)	3 BHK Villa	Kota Central	Kota / Rajasthan	Villa / 3 BHK	2013	₹24,300/month	Unfurnished	3	Bachelors	Rent
+1113	Rajasthan Properties (Rajasthan.txt)	2 BHK Villa	Kota Main Road	Kota / Rajasthan	Villa / 2 BHK	959	₹45.70 L	Unfurnished	1	Family	Sale
+1114	Rajasthan Properties (Rajasthan.txt)	2 BHK Villa	Kota Main Road	Kota / Rajasthan	Villa / 2 BHK	1230	₹47.72 L	Fully-Furnished	3	Any	Sale
+1115	Rajasthan Properties (Rajasthan.txt)	5 BHK Apartment	Jaipur West	Jaipur / Rajasthan	Apartment / 5 BHK	2544	₹1.31 Cr	Unfurnished	6	Family	Sale
+1116	Rajasthan Properties (Rajasthan.txt)	4 BHK Builder Floor	Jaipur Sector 2	Jaipur / Rajasthan	Builder Floor / 4 BHK	1355	₹96.32 L	Semi-Furnished	3	Family	Sale
+1117	Rajasthan Properties (Rajasthan.txt)	1 BHK Builder Floor	Udaipur Nagar	Udaipur / Rajasthan	Builder Floor / 1 BHK	462	₹29.85 L	Semi-Furnished	1	Bachelors	Sale
+1118	Rajasthan Properties (Rajasthan.txt)	2 BHK Apartment	Jodhpur Extension	Jodhpur / Rajasthan	Apartment / 2 BHK	840	₹46.97 L	Semi-Furnished	2	Any	Sale
+1119	Rajasthan Properties (Rajasthan.txt)	2 BHK Apartment	Jodhpur Sector 2	Jodhpur / Rajasthan	Apartment / 2 BHK	694	₹39.63 L	Fully-Furnished	2	Bachelors	Sale
+1120	Rajasthan Properties (Rajasthan.txt)	4 BHK Apartment	Udaipur Heights	Udaipur / Rajasthan	Apartment / 4 BHK	1712	₹23,700/month	Fully-Furnished	4	Any	Rent
+1121	Rajasthan Properties (Rajasthan.txt)	3 BHK Apartment	Jodhpur Colony	Jodhpur / Rajasthan	Apartment / 3 BHK	907	₹18,600/month	Fully-Furnished	4	Bachelors	Rent
+1122	Rajasthan Properties (Rajasthan.txt)	2 BHK Villa	Jodhpur Main Road	Jodhpur / Rajasthan	Villa / 2 BHK	1149	₹18,100/month	Semi-Furnished	1	Any	Rent
+1123	Rajasthan Properties (Rajasthan.txt)	1 BHK Apartment	Kota East	Kota / Rajasthan	Apartment / 1 BHK	467	₹30.61 L	Unfurnished	1	Family	Sale
+1124	Rajasthan Properties (Rajasthan.txt)	3 BHK Villa	Jaipur Main Road	Jaipur / Rajasthan	Villa / 3 BHK	1478	₹60.65 L	Semi-Furnished	2	Bachelors	Sale
+1125	Rajasthan Properties (Rajasthan.txt)	2 BHK Builder Floor	Udaipur South	Udaipur / Rajasthan	Builder Floor / 2 BHK	688	₹52.06 L	Semi-Furnished	2	Any	Sale
+1126	Rajasthan Properties (Rajasthan.txt)	2 BHK Apartment	Udaipur West	Udaipur / Rajasthan	Apartment / 2 BHK	685	₹54.96 L	Fully-Furnished	2	Bachelors	Sale
+1127	Rajasthan Properties (Rajasthan.txt)	3 BHK Apartment	Jaipur West	Jaipur / Rajasthan	Apartment / 3 BHK	1329	₹17,700/month	Semi-Furnished	4	Family	Rent
+1128	Rajasthan Properties (Rajasthan.txt)	4 BHK Apartment	Udaipur East	Udaipur / Rajasthan	Apartment / 4 BHK	1737	₹90.77 L	Unfurnished	4	Any	Sale
+1129	Rajasthan Properties (Rajasthan.txt)	3 BHK Apartment	Kota East	Kota / Rajasthan	Apartment / 3 BHK	1384	₹22,800/month	Unfurnished	3	Family	Rent
+1130	Rajasthan Properties (Rajasthan.txt)	3 BHK Villa	Udaipur Nagar	Udaipur / Rajasthan	Villa / 3 BHK	1838	₹18,000/month	Semi-Furnished	4	Family	Rent
+1131	Rajasthan Properties (Rajasthan.txt)	3 BHK Apartment	Kota Central	Kota / Rajasthan	Apartment / 3 BHK	1054	₹61.66 L	Semi-Furnished	3	Family	Sale
+1132	Rajasthan Properties (Rajasthan.txt)	3 BHK Villa	Udaipur West	Udaipur / Rajasthan	Villa / 3 BHK	1638	₹81.40 L	Unfurnished	2	Family	Sale
+1133	Rajasthan Properties (Rajasthan.txt)	2 BHK Apartment	Kota Colony	Kota / Rajasthan	Apartment / 2 BHK	627	₹48.83 L	Fully-Furnished	2	Any	Sale
+1134	Rajasthan Properties (Rajasthan.txt)	4 BHK Independent House	Kota North	Kota / Rajasthan	Independent House / 4 BHK	1608	₹89.87 L	Fully-Furnished	4	Bachelors	Sale
+1135	Rajasthan Properties (Rajasthan.txt)	2 BHK Apartment	Kota Colony	Kota / Rajasthan	Apartment / 2 BHK	1046	₹48.76 L	Semi-Furnished	1	Family	Sale
+1136	Rajasthan Properties (Rajasthan.txt)	2 BHK Builder Floor	Jodhpur East	Jodhpur / Rajasthan	Builder Floor / 2 BHK	1102	₹15,500/month	Semi-Furnished	2	Family	Rent
+1137	Rajasthan Properties (Rajasthan.txt)	2 BHK Independent House	Jaipur Heights	Jaipur / Rajasthan	Independent House / 2 BHK	1094	₹63.93 L	Semi-Furnished	2	Family	Sale
+1138	Rajasthan Properties (Rajasthan.txt)	3 BHK Villa	Jaipur Town Centre	Jaipur / Rajasthan	Villa / 3 BHK	1702	₹84.61 L	Semi-Furnished	3	Any	Sale
+1139	Rajasthan Properties (Rajasthan.txt)	2 BHK Apartment	Kota Extension	Kota / Rajasthan	Apartment / 2 BHK	856	₹55.96 L	Unfurnished	2	Any	Sale
+1140	Rajasthan Properties (Rajasthan.txt)	2 BHK Independent House	Jodhpur Nagar	Jodhpur / Rajasthan	Independent House / 2 BHK	1209	₹18,400/month	Semi-Furnished	2	Any	Rent
+1141	Rajasthan Properties (Rajasthan.txt)	1 BHK Independent House	Jodhpur South	Jodhpur / Rajasthan	Independent House / 1 BHK	524	₹37.39 L	Semi-Furnished	1	Family	Sale
+1142	Rajasthan Properties (Rajasthan.txt)	4 BHK Apartment	Jodhpur Residential Area	Jodhpur / Rajasthan	Apartment / 4 BHK	1229	₹20,200/month	Fully-Furnished	4	Any	Rent
+1143	Rajasthan Properties (Rajasthan.txt)	2 BHK Apartment	Jaipur Central	Jaipur / Rajasthan	Apartment / 2 BHK	808	₹57.08 L	Semi-Furnished	2	Bachelors	Sale
+1144	Rajasthan Properties (Rajasthan.txt)	3 BHK Apartment	Kota Residential Area	Kota / Rajasthan	Apartment / 3 BHK	1355	₹70.40 L	Semi-Furnished	3	Any	Sale
+1145	Rajasthan Properties (Rajasthan.txt)	5 BHK Builder Floor	Jaipur East	Jaipur / Rajasthan	Builder Floor / 5 BHK	3115	₹31,300/month	Fully-Furnished	5	Family	Rent
+1146	Rajasthan Properties (Rajasthan.txt)	2 BHK Apartment	Jaipur Nagar	Jaipur / Rajasthan	Apartment / 2 BHK	794	₹59.92 L	Unfurnished	2	Bachelors	Sale
+1147	Rajasthan Properties (Rajasthan.txt)	4 BHK Apartment	Udaipur North	Udaipur / Rajasthan	Apartment / 4 BHK	1652	₹90.49 L	Semi-Furnished	3	Bachelors	Sale
+1148	Rajasthan Properties (Rajasthan.txt)	2 BHK Apartment	Kota Heights	Kota / Rajasthan	Apartment / 2 BHK	935	₹13,500/month	Fully-Furnished	3	Family	Rent
+1149	Rajasthan Properties (Rajasthan.txt)	2 BHK Villa	Kota North	Kota / Rajasthan	Villa / 2 BHK	1301	₹49.61 L	Fully-Furnished	3	Bachelors	Sale
+1150	Rajasthan Properties (Rajasthan.txt)	1 BHK Studio	Udaipur Main Road	Udaipur / Rajasthan	Studio / 1 BHK	373	₹24.65 L	Unfurnished	1	Family	Sale
+1151	Rajasthan Properties (Rajasthan.txt)	5 BHK Villa	Jodhpur Nagar	Jodhpur / Rajasthan	Villa / 5 BHK	2446	₹95.04 L	Fully-Furnished	4	Family	Sale
+1152	Rajasthan Properties (Rajasthan.txt)	2 BHK Builder Floor	Kota Sector 3	Kota / Rajasthan	Builder Floor / 2 BHK	742	₹11,500/month	Fully-Furnished	3	Family	Rent
+1153	Rajasthan Properties (Rajasthan.txt)	3 BHK Apartment	Udaipur West	Udaipur / Rajasthan	Apartment / 3 BHK	1222	₹77.53 L	Semi-Furnished	2	Family	Sale
+1154	Rajasthan Properties (Rajasthan.txt)	2 BHK Builder Floor	Jaipur North	Jaipur / Rajasthan	Builder Floor / 2 BHK	908	₹59.82 L	Unfurnished	2	Family	Sale
+1155	Rajasthan Properties (Rajasthan.txt)	5 BHK Independent House	Jodhpur North	Jodhpur / Rajasthan	Independent House / 5 BHK	3028	₹1.02 Cr	Semi-Furnished	5	Bachelors	Sale
+1156	Rajasthan Properties (Rajasthan.txt)	2 BHK Apartment	Jaipur Extension	Jaipur / Rajasthan	Apartment / 2 BHK	956	₹15,600/month	Fully-Furnished	1	Any	Rent
+1157	Rajasthan Properties (Rajasthan.txt)	2 BHK Apartment	Udaipur East	Udaipur / Rajasthan	Apartment / 2 BHK	759	₹14,500/month	Semi-Furnished	3	Any	Rent
+1158	Rajasthan Properties (Rajasthan.txt)	4 BHK Independent House	Udaipur West	Udaipur / Rajasthan	Independent House / 4 BHK	1670	₹72.82 L	Fully-Furnished	5	Any	Sale
+1159	Rajasthan Properties (Rajasthan.txt)	3 BHK Apartment	Kota North	Kota / Rajasthan	Apartment / 3 BHK	1411	₹19,300/month	Fully-Furnished	4	Any	Rent
+1160	Rajasthan Properties (Rajasthan.txt)	3 BHK Apartment	Kota Sector 1	Kota / Rajasthan	Apartment / 3 BHK	1424	₹22,400/month	Fully-Furnished	3	Bachelors	Rent
+1161	Rajasthan Properties (Rajasthan.txt)	4 BHK Apartment	Udaipur East	Udaipur / Rajasthan	Apartment / 4 BHK	1419	₹23,600/month	Semi-Furnished	5	Family	Rent
+1162	Rajasthan Properties (Rajasthan.txt)	2 BHK Builder Floor	Kota Central	Kota / Rajasthan	Builder Floor / 2 BHK	989	₹43.77 L	Semi-Furnished	2	Bachelors	Sale
+1163	Rajasthan Properties (Rajasthan.txt)	1 BHK Builder Floor	Jaipur East	Jaipur / Rajasthan	Builder Floor / 1 BHK	498	₹9,800/month	Semi-Furnished	1	Family	Rent
+1164	Rajasthan Properties (Rajasthan.txt)	3 BHK Builder Floor	Kota Town Centre	Kota / Rajasthan	Builder Floor / 3 BHK	1232	₹20,100/month	Fully-Furnished	2	Family	Rent
+1165	Rajasthan Properties (Rajasthan.txt)	2 BHK Apartment	Jodhpur Sector 1	Jodhpur / Rajasthan	Apartment / 2 BHK	700	₹55.48 L	Semi-Furnished	2	Family	Sale
+1166	Rajasthan Properties (Rajasthan.txt)	3 BHK Apartment	Jaipur Sector 2	Jaipur / Rajasthan	Apartment / 3 BHK	975	₹53.99 L	Semi-Furnished	3	Bachelors	Sale
+1167	Rajasthan Properties (Rajasthan.txt)	4 BHK Apartment	Kota Town Centre	Kota / Rajasthan	Apartment / 4 BHK	2179	₹22,400/month	Unfurnished	4	Family	Rent
+1168	Rajasthan Properties (Rajasthan.txt)	1 BHK Studio	Jaipur West	Jaipur / Rajasthan	Studio / 1 BHK	364	₹7,900/month	Unfurnished	1	Any	Rent
+1169	Rajasthan Properties (Rajasthan.txt)	1 BHK Apartment	Jodhpur Residential Area	Jodhpur / Rajasthan	Apartment / 1 BHK	529	₹7,900/month	Semi-Furnished	1	Bachelors	Rent
+1170	Rajasthan Properties (Rajasthan.txt)	2 BHK Villa	Udaipur Main Road	Udaipur / Rajasthan	Villa / 2 BHK	1151	₹13,600/month	Unfurnished	3	Family	Rent
+1171	Rajasthan Properties (Rajasthan.txt)	2 BHK Builder Floor	Kota Sector 3	Kota / Rajasthan	Builder Floor / 2 BHK	702	₹56.79 L	Fully-Furnished	2	Bachelors	Sale
