@@ -1,0 +1,1172 @@
+No.	Source	Property	Location	City / State	Type / Config	Area	Price / Rent	Furnishing	Bathrooms	Tennants	Listing Type
+1	Odisha Properties (Odisha.txt)	2 BHK Builder Floor	Rourkela Colony	Rourkela / Odisha	Builder Floor / 2 BHK	893	₹12,600/month	Semi-Furnished	2	Family	Rent
+2	Odisha Properties (Odisha.txt)	4 BHK Apartment	Bhubaneswar Sector 2	Bhubaneswar / Odisha	Apartment / 4 BHK	1396	₹92.60 L	Semi-Furnished	3	Family	Sale
+3	Odisha Properties (Odisha.txt)	2 BHK Builder Floor	Bhubaneswar Nagar	Bhubaneswar / Odisha	Builder Floor / 2 BHK	1065	₹56 L	Semi-Furnished	1	Bachelors	Sale
+4	Odisha Properties (Odisha.txt)	2 BHK Apartment	Bhubaneswar Town Centre	Bhubaneswar / Odisha	Apartment / 2 BHK	782	₹47.93 L	Unfurnished	2	Family	Sale
+5	Odisha Properties (Odisha.txt)	3 BHK Apartment	Cuttack Residential Area	Cuttack / Odisha	Apartment / 3 BHK	1255	₹56.07 L	Semi-Furnished	3	Bachelors	Sale
+6	Odisha Properties (Odisha.txt)	3 BHK Apartment	Cuttack North	Cuttack / Odisha	Apartment / 3 BHK	1063	₹51.03 L	Fully-Furnished	3	Bachelors	Sale
+7	Odisha Properties (Odisha.txt)	3 BHK Apartment	Cuttack Sector 3	Cuttack / Odisha	Apartment / 3 BHK	1469	₹62.07 L	Semi-Furnished	2	Family	Sale
+8	Odisha Properties (Odisha.txt)	2 BHK Apartment	Bhubaneswar Sector 1	Bhubaneswar / Odisha	Apartment / 2 BHK	790	₹53.16 L	Fully-Furnished	1	Family	Sale
+9	Odisha Properties (Odisha.txt)	1 BHK Apartment	Cuttack Nagar	Cuttack / Odisha	Apartment / 1 BHK	496	₹9,300/month	Semi-Furnished	1	Family	Rent
+10	Odisha Properties (Odisha.txt)	1 BHK Apartment	Rourkela East	Rourkela / Odisha	Apartment / 1 BHK	550	₹29.18 L	Semi-Furnished	1	Any	Sale
+11	Odisha Properties (Odisha.txt)	2 BHK Builder Floor	Cuttack Sector 2	Cuttack / Odisha	Builder Floor / 2 BHK	995	₹42.84 L	Unfurnished	2	Bachelors	Sale
+12	Odisha Properties (Odisha.txt)	2 BHK Builder Floor	Bhubaneswar North	Bhubaneswar / Odisha	Builder Floor / 2 BHK	974	₹10,600/month	Semi-Furnished	2	Family	Rent
+13	Odisha Properties (Odisha.txt)	3 BHK Apartment	Puri Town Centre	Puri / Odisha	Apartment / 3 BHK	1455	₹62.65 L	Unfurnished	2	Any	Sale
+14	Odisha Properties (Odisha.txt)	2 BHK Apartment	Rourkela Sector 1	Rourkela / Odisha	Apartment / 2 BHK	1003	₹11,000/month	Semi-Furnished	2	Any	Rent
+15	Odisha Properties (Odisha.txt)	1 BHK Studio	Puri East	Puri / Odisha	Studio / 1 BHK	497	₹32.91 L	Fully-Furnished	1	Any	Sale
+16	Odisha Properties (Odisha.txt)	3 BHK Independent House	Puri West	Puri / Odisha	Independent House / 3 BHK	1902	₹18,200/month	Fully-Furnished	2	Family	Rent
+17	Odisha Properties (Odisha.txt)	2 BHK Apartment	Bhubaneswar North	Bhubaneswar / Odisha	Apartment / 2 BHK	605	₹48.14 L	Fully-Furnished	3	Bachelors	Sale
+18	Odisha Properties (Odisha.txt)	5 BHK Apartment	Bhubaneswar Sector 2	Bhubaneswar / Odisha	Apartment / 5 BHK	2248	₹92.50 L	Fully-Furnished	4	Bachelors	Sale
+19	Odisha Properties (Odisha.txt)	1 BHK Independent House	Puri Sector 2	Puri / Odisha	Independent House / 1 BHK	534	₹32.48 L	Unfurnished	1	Family	Sale
+20	Odisha Properties (Odisha.txt)	5 BHK Independent House	Bhubaneswar Nagar	Bhubaneswar / Odisha	Independent House / 5 BHK	2746	₹1.18 Cr	Fully-Furnished	4	Bachelors	Sale
+21	Odisha Properties (Odisha.txt)	3 BHK Independent House	Rourkela Main Road	Rourkela / Odisha	Independent House / 3 BHK	1339	₹20,800/month	Unfurnished	3	Bachelors	Rent
+22	Odisha Properties (Odisha.txt)	2 BHK Builder Floor	Rourkela East	Rourkela / Odisha	Builder Floor / 2 BHK	892	₹13,700/month	Unfurnished	2	Bachelors	Rent
+23	Odisha Properties (Odisha.txt)	1 BHK Studio	Puri Nagar	Puri / Odisha	Studio / 1 BHK	357	₹7,300/month	Fully-Furnished	1	Bachelors	Rent
+24	Odisha Properties (Odisha.txt)	3 BHK Villa	Rourkela Colony	Rourkela / Odisha	Villa / 3 BHK	1578	₹72.11 L	Unfurnished	3	Family	Sale
+25	Odisha Properties (Odisha.txt)	4 BHK Apartment	Puri Colony	Puri / Odisha	Apartment / 4 BHK	1397	₹22,700/month	Unfurnished	5	Any	Rent
+26	Odisha Properties (Odisha.txt)	4 BHK Villa	Cuttack Town Centre	Cuttack / Odisha	Villa / 4 BHK	2887	₹22,900/month	Semi-Furnished	4	Family	Rent
+27	Odisha Properties (Odisha.txt)	2 BHK Apartment	Rourkela South	Rourkela / Odisha	Apartment / 2 BHK	943	₹39.15 L	Semi-Furnished	1	Any	Sale
+28	Odisha Properties (Odisha.txt)	4 BHK Independent House	Cuttack West	Cuttack / Odisha	Independent House / 4 BHK	1894	₹25,300/month	Semi-Furnished	4	Any	Rent
+29	Odisha Properties (Odisha.txt)	3 BHK Apartment	Puri Sector 1	Puri / Odisha	Apartment / 3 BHK	1333	₹17,800/month	Unfurnished	2	Family	Rent
+30	Odisha Properties (Odisha.txt)	2 BHK Apartment	Cuttack East	Cuttack / Odisha	Apartment / 2 BHK	916	₹48.98 L	Unfurnished	2	Family	Sale
+31	Odisha Properties (Odisha.txt)	1 BHK Studio	Rourkela Central	Rourkela / Odisha	Studio / 1 BHK	393	₹23.57 L	Unfurnished	1	Family	Sale
+32	Odisha Properties (Odisha.txt)	1 BHK Independent House	Cuttack Main Road	Cuttack / Odisha	Independent House / 1 BHK	577	₹8,700/month	Unfurnished	1	Family	Rent
+33	Odisha Properties (Odisha.txt)	3 BHK Villa	Rourkela East	Rourkela / Odisha	Villa / 3 BHK	1863	₹16,700/month	Semi-Furnished	3	Any	Rent
+34	Odisha Properties (Odisha.txt)	3 BHK Apartment	Rourkela Nagar	Rourkela / Odisha	Apartment / 3 BHK	1107	₹17,500/month	Semi-Furnished	2	Any	Rent
+35	Odisha Properties (Odisha.txt)	3 BHK Apartment	Cuttack Heights	Cuttack / Odisha	Apartment / 3 BHK	1218	₹15,200/month	Fully-Furnished	3	Family	Rent
+36	Odisha Properties (Odisha.txt)	2 BHK Builder Floor	Rourkela East	Rourkela / Odisha	Builder Floor / 2 BHK	885	₹10,300/month	Unfurnished	2	Family	Rent
+37	Odisha Properties (Odisha.txt)	2 BHK Apartment	Puri Heights	Puri / Odisha	Apartment / 2 BHK	864	₹37.14 L	Fully-Furnished	2	Any	Sale
+38	Odisha Properties (Odisha.txt)	3 BHK Apartment	Bhubaneswar North	Bhubaneswar / Odisha	Apartment / 3 BHK	1090	₹13,500/month	Semi-Furnished	2	Family	Rent
+39	Odisha Properties (Odisha.txt)	1 BHK Apartment	Puri East	Puri / Odisha	Apartment / 1 BHK	455	₹8,800/month	Fully-Furnished	1	Family	Rent
+40	Odisha Properties (Odisha.txt)	2 BHK Apartment	Cuttack Sector 1	Cuttack / Odisha	Apartment / 2 BHK	818	₹11,100/month	Fully-Furnished	2	Any	Rent
+41	Odisha Properties (Odisha.txt)	4 BHK Apartment	Rourkela Main Road	Rourkela / Odisha	Apartment / 4 BHK	1623	₹70.67 L	Semi-Furnished	3	Any	Sale
+42	Odisha Properties (Odisha.txt)	3 BHK Apartment	Puri Heights	Puri / Odisha	Apartment / 3 BHK	1191	₹19,300/month	Semi-Furnished	3	Any	Rent
+43	Odisha Properties (Odisha.txt)	2 BHK Villa	Rourkela Sector 1	Rourkela / Odisha	Villa / 2 BHK	1405	₹43.94 L	Semi-Furnished	2	Family	Sale
+44	Odisha Properties (Odisha.txt)	3 BHK Apartment	Cuttack Sector 3	Cuttack / Odisha	Apartment / 3 BHK	1150	₹68.46 L	Semi-Furnished	3	Bachelors	Sale
+45	Odisha Properties (Odisha.txt)	1 BHK Apartment	Rourkela Sector 1	Rourkela / Odisha	Apartment / 1 BHK	446	₹33.35 L	Fully-Furnished	1	Any	Sale
+46	Odisha Properties (Odisha.txt)	4 BHK Apartment	Puri Sector 3	Puri / Odisha	Apartment / 4 BHK	1895	₹88.22 L	Unfurnished	3	Any	Sale
+47	Odisha Properties (Odisha.txt)	3 BHK Independent House	Cuttack Residential Area	Cuttack / Odisha	Independent House / 3 BHK	1277	₹69.77 L	Semi-Furnished	3	Any	Sale
+48	Odisha Properties (Odisha.txt)	2 BHK Apartment	Rourkela Sector 2	Rourkela / Odisha	Apartment / 2 BHK	779	₹12,500/month	Semi-Furnished	3	Bachelors	Rent
+49	Odisha Properties (Odisha.txt)	2 BHK Apartment	Rourkela Central	Rourkela / Odisha	Apartment / 2 BHK	769	₹14,100/month	Semi-Furnished	3	Family	Rent
+50	Odisha Properties (Odisha.txt)	2 BHK Builder Floor	Rourkela Sector 1	Rourkela / Odisha	Builder Floor / 2 BHK	748	₹10,300/month	Semi-Furnished	2	Bachelors	Rent
+51	Odisha Properties (Odisha.txt)	2 BHK Apartment	Rourkela Main Road	Rourkela / Odisha	Apartment / 2 BHK	1006	₹11,300/month	Semi-Furnished	2	Bachelors	Rent
+52	Odisha Properties (Odisha.txt)	2 BHK Apartment	Bhubaneswar Sector 2	Bhubaneswar / Odisha	Apartment / 2 BHK	943	₹14,900/month	Fully-Furnished	2	Family	Rent
+53	Odisha Properties (Odisha.txt)	1 BHK Apartment	Rourkela East	Rourkela / Odisha	Apartment / 1 BHK	563	₹29.30 L	Semi-Furnished	2	Bachelors	Sale
+54	Odisha Properties (Odisha.txt)	5 BHK Apartment	Rourkela Sector 1	Rourkela / Odisha	Apartment / 5 BHK	2057	₹86.73 L	Fully-Furnished	5	Bachelors	Sale
+55	Odisha Properties (Odisha.txt)	3 BHK Apartment	Cuttack Residential Area	Cuttack / Odisha	Apartment / 3 BHK	991	₹66.56 L	Fully-Furnished	3	Bachelors	Sale
+56	Odisha Properties (Odisha.txt)	4 BHK Apartment	Bhubaneswar West	Bhubaneswar / Odisha	Apartment / 4 BHK	1904	₹87.36 L	Semi-Furnished	5	Family	Sale
+57	Odisha Properties (Odisha.txt)	3 BHK Apartment	Bhubaneswar Heights	Bhubaneswar / Odisha	Apartment / 3 BHK	1438	₹77.75 L	Fully-Furnished	2	Family	Sale
+58	Odisha Properties (Odisha.txt)	3 BHK Apartment	Rourkela East	Rourkela / Odisha	Apartment / 3 BHK	1309	₹75.33 L	Unfurnished	4	Bachelors	Sale
+59	Odisha Properties (Odisha.txt)	4 BHK Apartment	Bhubaneswar Colony	Bhubaneswar / Odisha	Apartment / 4 BHK	1973	₹21,000/month	Semi-Furnished	5	Bachelors	Rent
+60	Odisha Properties (Odisha.txt)	2 BHK Apartment	Rourkela Nagar	Rourkela / Odisha	Apartment / 2 BHK	819	₹46.53 L	Unfurnished	2	Family	Sale
+61	Odisha Properties (Odisha.txt)	3 BHK Apartment	Rourkela Sector 1	Rourkela / Odisha	Apartment / 3 BHK	1442	₹54.11 L	Unfurnished	3	Any	Sale
+62	Odisha Properties (Odisha.txt)	2 BHK Apartment	Rourkela Colony	Rourkela / Odisha	Apartment / 2 BHK	902	₹52.67 L	Semi-Furnished	2	Family	Sale
+63	Odisha Properties (Odisha.txt)	4 BHK Apartment	Rourkela North	Rourkela / Odisha	Apartment / 4 BHK	2003	₹91.39 L	Fully-Furnished	4	Family	Sale
+64	Odisha Properties (Odisha.txt)	3 BHK Builder Floor	Puri South	Puri / Odisha	Builder Floor / 3 BHK	947	₹15,100/month	Semi-Furnished	3	Bachelors	Rent
+65	Odisha Properties (Odisha.txt)	2 BHK Independent House	Puri Extension	Puri / Odisha	Independent House / 2 BHK	1029	₹50.75 L	Semi-Furnished	3	Any	Sale
+66	Odisha Properties (Odisha.txt)	4 BHK Apartment	Puri Town Centre	Puri / Odisha	Apartment / 4 BHK	1700	₹19,500/month	Fully-Furnished	4	Any	Rent
+67	Odisha Properties (Odisha.txt)	3 BHK Apartment	Rourkela West	Rourkela / Odisha	Apartment / 3 BHK	914	₹13,300/month	Fully-Furnished	3	Family	Rent
+68	Odisha Properties (Odisha.txt)	4 BHK Apartment	Cuttack Central	Cuttack / Odisha	Apartment / 4 BHK	1602	₹90.53 L	Unfurnished	4	Bachelors	Sale
+69	Odisha Properties (Odisha.txt)	2 BHK Apartment	Rourkela Sector 2	Rourkela / Odisha	Apartment / 2 BHK	890	₹47.81 L	Semi-Furnished	2	Family	Sale
+70	Odisha Properties (Odisha.txt)	2 BHK Independent House	Cuttack Nagar	Cuttack / Odisha	Independent House / 2 BHK	866	₹13,900/month	Semi-Furnished	2	Bachelors	Rent
+71	Odisha Properties (Odisha.txt)	2 BHK Apartment	Bhubaneswar Residential Area	Bhubaneswar / Odisha	Apartment / 2 BHK	726	₹49.27 L	Semi-Furnished	2	Any	Sale
+72	Odisha Properties (Odisha.txt)	1 BHK Apartment	Puri Colony	Puri / Odisha	Apartment / 1 BHK	606	₹35.16 L	Fully-Furnished	1	Family	Sale
+73	Odisha Properties (Odisha.txt)	1 BHK Apartment	Bhubaneswar Extension	Bhubaneswar / Odisha	Apartment / 1 BHK	361	₹23.59 L	Semi-Furnished	1	Family	Sale
+74	Odisha Properties (Odisha.txt)	3 BHK Apartment	Rourkela Residential Area	Rourkela / Odisha	Apartment / 3 BHK	1627	₹62.62 L	Unfurnished	3	Bachelors	Sale
+75	Odisha Properties (Odisha.txt)	4 BHK Villa	Rourkela Residential Area	Rourkela / Odisha	Villa / 4 BHK	2552	₹77.01 L	Fully-Furnished	4	Bachelors	Sale
+76	Odisha Properties (Odisha.txt)	4 BHK Independent House	Cuttack Extension	Cuttack / Odisha	Independent House / 4 BHK	1915	₹21,000/month	Semi-Furnished	4	Bachelors	Rent
+77	Odisha Properties (Odisha.txt)	2 BHK Apartment	Rourkela Colony	Rourkela / Odisha	Apartment / 2 BHK	836	₹37.50 L	Unfurnished	2	Family	Sale
+78	Odisha Properties (Odisha.txt)	2 BHK Builder Floor	Cuttack Sector 2	Cuttack / Odisha	Builder Floor / 2 BHK	937	₹48.74 L	Semi-Furnished	2	Family	Sale
+79	Odisha Properties (Odisha.txt)	3 BHK Apartment	Cuttack Extension	Cuttack / Odisha	Apartment / 3 BHK	1123	₹14,000/month	Fully-Furnished	2	Bachelors	Rent
+80	Odisha Properties (Odisha.txt)	3 BHK Apartment	Bhubaneswar Nagar	Bhubaneswar / Odisha	Apartment / 3 BHK	1215	₹14,400/month	Semi-Furnished	2	Family	Rent
+81	Odisha Properties (Odisha.txt)	2 BHK Apartment	Bhubaneswar Nagar	Bhubaneswar / Odisha	Apartment / 2 BHK	980	₹11,500/month	Semi-Furnished	3	Any	Rent
+82	Odisha Properties (Odisha.txt)	3 BHK Apartment	Cuttack Heights	Cuttack / Odisha	Apartment / 3 BHK	1165	₹72.01 L	Semi-Furnished	2	Bachelors	Sale
+83	Odisha Properties (Odisha.txt)	3 BHK Apartment	Cuttack Town Centre	Cuttack / Odisha	Apartment / 3 BHK	1147	₹14,900/month	Fully-Furnished	3	Family	Rent
+84	Odisha Properties (Odisha.txt)	2 BHK Apartment	Rourkela Colony	Rourkela / Odisha	Apartment / 2 BHK	877	₹52.96 L	Fully-Furnished	1	Bachelors	Sale
+85	Odisha Properties (Odisha.txt)	2 BHK Villa	Rourkela Sector 2	Rourkela / Odisha	Villa / 2 BHK	1088	₹44.20 L	Fully-Furnished	2	Any	Sale
+86	Odisha Properties (Odisha.txt)	1 BHK Apartment	Cuttack Central	Cuttack / Odisha	Apartment / 1 BHK	480	₹24.66 L	Fully-Furnished	1	Bachelors	Sale
+87	Odisha Properties (Odisha.txt)	3 BHK Apartment	Cuttack Heights	Cuttack / Odisha	Apartment / 3 BHK	1253	₹15,600/month	Semi-Furnished	2	Family	Rent
+88	Odisha Properties (Odisha.txt)	4 BHK Apartment	Bhubaneswar Extension	Bhubaneswar / Odisha	Apartment / 4 BHK	1684	₹20,400/month	Semi-Furnished	3	Family	Rent
+89	Odisha Properties (Odisha.txt)	2 BHK Builder Floor	Cuttack Central	Cuttack / Odisha	Builder Floor / 2 BHK	962	₹46.13 L	Semi-Furnished	1	Any	Sale
+90	Odisha Properties (Odisha.txt)	1 BHK Apartment	Rourkela North	Rourkela / Odisha	Apartment / 1 BHK	416	₹30.77 L	Semi-Furnished	1	Family	Sale
+91	Odisha Properties (Odisha.txt)	2 BHK Independent House	Cuttack Sector 1	Cuttack / Odisha	Independent House / 2 BHK	922	₹12,800/month	Fully-Furnished	3	Bachelors	Rent
+92	Odisha Properties (Odisha.txt)	4 BHK Apartment	Puri Colony	Puri / Odisha	Apartment / 4 BHK	1505	₹25,400/month	Semi-Furnished	4	Any	Rent
+93	Odisha Properties (Odisha.txt)	3 BHK Apartment	Cuttack Sector 3	Cuttack / Odisha	Apartment / 3 BHK	1206	₹69.41 L	Fully-Furnished	3	Family	Sale
+94	Odisha Properties (Odisha.txt)	2 BHK Apartment	Rourkela Main Road	Rourkela / Odisha	Apartment / 2 BHK	868	₹52.67 L	Unfurnished	1	Bachelors	Sale
+95	Odisha Properties (Odisha.txt)	4 BHK Apartment	Puri Heights	Puri / Odisha	Apartment / 4 BHK	1657	₹79.23 L	Semi-Furnished	5	Family	Sale
+96	Odisha Properties (Odisha.txt)	2 BHK Independent House	Bhubaneswar West	Bhubaneswar / Odisha	Independent House / 2 BHK	995	₹15,500/month	Unfurnished	2	Any	Rent
+97	Odisha Properties (Odisha.txt)	4 BHK Apartment	Puri Central	Puri / Odisha	Apartment / 4 BHK	1656	₹95.52 L	Fully-Furnished	4	Bachelors	Sale
+98	Odisha Properties (Odisha.txt)	2 BHK Apartment	Cuttack Sector 3	Cuttack / Odisha	Apartment / 2 BHK	890	₹49.65 L	Unfurnished	2	Family	Sale
+99	Odisha Properties (Odisha.txt)	2 BHK Builder Floor	Cuttack Residential Area	Cuttack / Odisha	Builder Floor / 2 BHK	1136	₹13,500/month	Fully-Furnished	1	Family	Rent
+100	Odisha Properties (Odisha.txt)	1 BHK Builder Floor	Cuttack East	Cuttack / Odisha	Builder Floor / 1 BHK	488	₹6,900/month	Semi-Furnished	1	Any	Rent
+101	Odisha Properties (Odisha.txt)	2 BHK Apartment	Puri Extension	Puri / Odisha	Apartment / 2 BHK	951	₹51.87 L	Fully-Furnished	2	Family	Sale
+102	Odisha Properties (Odisha.txt)	5 BHK Villa	Bhubaneswar Central	Bhubaneswar / Odisha	Villa / 5 BHK	2826	₹26,600/month	Unfurnished	5	Bachelors	Rent
+103	Odisha Properties (Odisha.txt)	1 BHK Apartment	Rourkela Main Road	Rourkela / Odisha	Apartment / 1 BHK	339	₹23.93 L	Semi-Furnished	1	Bachelors	Sale
+104	Odisha Properties (Odisha.txt)	1 BHK Studio	Puri Sector 3	Puri / Odisha	Studio / 1 BHK	372	₹31.39 L	Semi-Furnished	1	Family	Sale
+105	Odisha Properties (Odisha.txt)	2 BHK Independent House	Bhubaneswar Sector 1	Bhubaneswar / Odisha	Independent House / 2 BHK	1101	₹11,800/month	Unfurnished	3	Family	Rent
+106	Odisha Properties (Odisha.txt)	1 BHK Independent House	Puri West	Puri / Odisha	Independent House / 1 BHK	650	₹28.39 L	Semi-Furnished	1	Family	Sale
+107	Odisha Properties (Odisha.txt)	4 BHK Independent House	Bhubaneswar Extension	Bhubaneswar / Odisha	Independent House / 4 BHK	2447	₹88.06 L	Semi-Furnished	4	Bachelors	Sale
+108	Odisha Properties (Odisha.txt)	2 BHK Builder Floor	Rourkela North	Rourkela / Odisha	Builder Floor / 2 BHK	563	₹48.79 L	Semi-Furnished	2	Family	Sale
+109	Odisha Properties (Odisha.txt)	3 BHK Apartment	Bhubaneswar South	Bhubaneswar / Odisha	Apartment / 3 BHK	1338	₹67.65 L	Semi-Furnished	3	Bachelors	Sale
+110	Odisha Properties (Odisha.txt)	2 BHK Apartment	Bhubaneswar Heights	Bhubaneswar / Odisha	Apartment / 2 BHK	727	₹14,000/month	Fully-Furnished	3	Family	Rent
+111	Odisha Properties (Odisha.txt)	3 BHK Apartment	Cuttack Extension	Cuttack / Odisha	Apartment / 3 BHK	1057	₹14,500/month	Unfurnished	4	Family	Rent
+112	Odisha Properties (Odisha.txt)	2 BHK Independent House	Rourkela West	Rourkela / Odisha	Independent House / 2 BHK	873	₹53.39 L	Semi-Furnished	2	Bachelors	Sale
+113	Odisha Properties (Odisha.txt)	2 BHK Apartment	Puri West	Puri / Odisha	Apartment / 2 BHK	919	₹14,800/month	Semi-Furnished	2	Bachelors	Rent
+114	Odisha Properties (Odisha.txt)	1 BHK Builder Floor	Rourkela Colony	Rourkela / Odisha	Builder Floor / 1 BHK	527	₹25.20 L	Fully-Furnished	1	Family	Sale
+115	Odisha Properties (Odisha.txt)	4 BHK Builder Floor	Puri Colony	Puri / Odisha	Builder Floor / 4 BHK	1470	₹72.58 L	Semi-Furnished	4	Family	Sale
+116	Odisha Properties (Odisha.txt)	2 BHK Apartment	Cuttack Sector 1	Cuttack / Odisha	Apartment / 2 BHK	885	₹54.64 L	Semi-Furnished	1	Family	Sale
+117	Odisha Properties (Odisha.txt)	2 BHK Builder Floor	Rourkela West	Rourkela / Odisha	Builder Floor / 2 BHK	825	₹11,300/month	Semi-Furnished	1	Family	Rent
+118	Odisha Properties (Odisha.txt)	2 BHK Villa	Puri Central	Puri / Odisha	Villa / 2 BHK	1299	₹55.77 L	Unfurnished	2	Family	Sale
+119	Odisha Properties (Odisha.txt)	2 BHK Apartment	Puri Residential Area	Puri / Odisha	Apartment / 2 BHK	782	₹44.42 L	Unfurnished	2	Family	Sale
+120	Odisha Properties (Odisha.txt)	3 BHK Apartment	Puri Extension	Puri / Odisha	Apartment / 3 BHK	1547	₹68 L	Semi-Furnished	4	Bachelors	Sale
+121	Odisha Properties (Odisha.txt)	2 BHK Builder Floor	Puri North	Puri / Odisha	Builder Floor / 2 BHK	806	₹10,300/month	Semi-Furnished	2	Any	Rent
+122	Odisha Properties (Odisha.txt)	4 BHK Apartment	Cuttack Sector 2	Cuttack / Odisha	Apartment / 4 BHK	1591	₹22,800/month	Fully-Furnished	4	Any	Rent
+123	Odisha Properties (Odisha.txt)	3 BHK Apartment	Bhubaneswar Main Road	Bhubaneswar / Odisha	Apartment / 3 BHK	1079	₹58.27 L	Semi-Furnished	3	Any	Sale
+124	Odisha Properties (Odisha.txt)	4 BHK Apartment	Puri North	Puri / Odisha	Apartment / 4 BHK	1623	₹74.35 L	Fully-Furnished	3	Family	Sale
+125	Odisha Properties (Odisha.txt)	1 BHK Apartment	Cuttack Sector 1	Cuttack / Odisha	Apartment / 1 BHK	559	₹35.45 L	Fully-Furnished	1	Bachelors	Sale
+126	Odisha Properties (Odisha.txt)	2 BHK Apartment	Puri West	Puri / Odisha	Apartment / 2 BHK	1069	₹56.43 L	Fully-Furnished	2	Bachelors	Sale
+127	Odisha Properties (Odisha.txt)	3 BHK Apartment	Bhubaneswar North	Bhubaneswar / Odisha	Apartment / 3 BHK	1434	₹62.23 L	Semi-Furnished	4	Any	Sale
+128	Odisha Properties (Odisha.txt)	5 BHK Apartment	Bhubaneswar Colony	Bhubaneswar / Odisha	Apartment / 5 BHK	3280	₹1.21 Cr	Fully-Furnished	5	Bachelors	Sale
+129	Odisha Properties (Odisha.txt)	2 BHK Apartment	Rourkela Central	Rourkela / Odisha	Apartment / 2 BHK	1135	₹45.22 L	Semi-Furnished	2	Family	Sale
+130	Odisha Properties (Odisha.txt)	3 BHK Apartment	Cuttack Sector 3	Cuttack / Odisha	Apartment / 3 BHK	1051	₹15,800/month	Unfurnished	4	Bachelors	Rent
+131	Odisha Properties (Odisha.txt)	3 BHK Apartment	Bhubaneswar Main Road	Bhubaneswar / Odisha	Apartment / 3 BHK	1333	₹19,700/month	Semi-Furnished	2	Any	Rent
+132	Odisha Properties (Odisha.txt)	3 BHK Villa	Cuttack East	Cuttack / Odisha	Villa / 3 BHK	1618	₹61.84 L	Semi-Furnished	4	Any	Sale
+133	Odisha Properties (Odisha.txt)	3 BHK Builder Floor	Puri East	Puri / Odisha	Builder Floor / 3 BHK	1260	₹18,300/month	Semi-Furnished	4	Bachelors	Rent
+134	Odisha Properties (Odisha.txt)	3 BHK Apartment	Rourkela Extension	Rourkela / Odisha	Apartment / 3 BHK	1462	₹20,600/month	Unfurnished	2	Bachelors	Rent
+135	Odisha Properties (Odisha.txt)	3 BHK Apartment	Cuttack Town Centre	Cuttack / Odisha	Apartment / 3 BHK	1236	₹61.56 L	Semi-Furnished	3	Family	Sale
+136	Odisha Properties (Odisha.txt)	3 BHK Independent House	Cuttack Sector 1	Cuttack / Odisha	Independent House / 3 BHK	1245	₹63.68 L	Semi-Furnished	4	Bachelors	Sale
+137	Odisha Properties (Odisha.txt)	2 BHK Apartment	Cuttack Sector 3	Cuttack / Odisha	Apartment / 2 BHK	985	₹14,000/month	Semi-Furnished	2	Bachelors	Rent
+138	Odisha Properties (Odisha.txt)	2 BHK Independent House	Bhubaneswar Sector 2	Bhubaneswar / Odisha	Independent House / 2 BHK	1180	₹56.52 L	Fully-Furnished	1	Family	Sale
+139	Odisha Properties (Odisha.txt)	3 BHK Villa	Puri Nagar	Puri / Odisha	Villa / 3 BHK	1726	₹72.43 L	Fully-Furnished	3	Bachelors	Sale
+140	Odisha Properties (Odisha.txt)	1 BHK Independent House	Rourkela West	Rourkela / Odisha	Independent House / 1 BHK	618	₹8,200/month	Fully-Furnished	1	Family	Rent
+141	Odisha Properties (Odisha.txt)	3 BHK Independent House	Rourkela Nagar	Rourkela / Odisha	Independent House / 3 BHK	1500	₹21,300/month	Unfurnished	4	Any	Rent
+142	Odisha Properties (Odisha.txt)	3 BHK Builder Floor	Rourkela East	Rourkela / Odisha	Builder Floor / 3 BHK	1071	₹56.73 L	Semi-Furnished	4	Family	Sale
+143	Odisha Properties (Odisha.txt)	4 BHK Apartment	Puri North	Puri / Odisha	Apartment / 4 BHK	1639	₹66.92 L	Fully-Furnished	3	Family	Sale
+144	Odisha Properties (Odisha.txt)	2 BHK Villa	Rourkela Central	Rourkela / Odisha	Villa / 2 BHK	1210	₹43.17 L	Semi-Furnished	2	Family	Sale
+145	Odisha Properties (Odisha.txt)	2 BHK Apartment	Bhubaneswar East	Bhubaneswar / Odisha	Apartment / 2 BHK	928	₹47.17 L	Unfurnished	2	Family	Sale
+146	Odisha Properties (Odisha.txt)	3 BHK Independent House	Puri North	Puri / Odisha	Independent House / 3 BHK	1805	₹81.95 L	Unfurnished	4	Bachelors	Sale
+147	Odisha Properties (Odisha.txt)	3 BHK Apartment	Bhubaneswar Central	Bhubaneswar / Odisha	Apartment / 3 BHK	1198	₹16,000/month	Fully-Furnished	4	Any	Rent
+148	Odisha Properties (Odisha.txt)	2 BHK Builder Floor	Cuttack East	Cuttack / Odisha	Builder Floor / 2 BHK	759	₹37.54 L	Unfurnished	2	Family	Sale
+149	Odisha Properties (Odisha.txt)	4 BHK Apartment	Rourkela Central	Rourkela / Odisha	Apartment / 4 BHK	2051	₹21,200/month	Unfurnished	5	Any	Rent
+150	Odisha Properties (Odisha.txt)	3 BHK Apartment	Rourkela Nagar	Rourkela / Odisha	Apartment / 3 BHK	988	₹51.91 L	Semi-Furnished	3	Bachelors	Sale
+151	Odisha Properties (Odisha.txt)	1 BHK Independent House	Cuttack Extension	Cuttack / Odisha	Independent House / 1 BHK	522	₹8,300/month	Semi-Furnished	1	Family	Rent
+152	Odisha Properties (Odisha.txt)	3 BHK Builder Floor	Puri West	Puri / Odisha	Builder Floor / 3 BHK	1549	₹15,600/month	Unfurnished	4	Family	Rent
+153	Odisha Properties (Odisha.txt)	3 BHK Independent House	Cuttack Heights	Cuttack / Odisha	Independent House / 3 BHK	1470	₹16,800/month	Fully-Furnished	2	Any	Rent
+154	Odisha Properties (Odisha.txt)	1 BHK Villa	Puri North	Puri / Odisha	Villa / 1 BHK	737	₹8,300/month	Semi-Furnished	1	Any	Rent
+155	Odisha Properties (Odisha.txt)	5 BHK Apartment	Puri Sector 1	Puri / Odisha	Apartment / 5 BHK	1989	₹1.16 Cr	Fully-Furnished	6	Bachelors	Sale
+156	Odisha Properties (Odisha.txt)	3 BHK Apartment	Puri West	Puri / Odisha	Apartment / 3 BHK	1427	₹65.29 L	Semi-Furnished	3	Family	Sale
+157	Odisha Properties (Odisha.txt)	3 BHK Builder Floor	Cuttack Colony	Cuttack / Odisha	Builder Floor / 3 BHK	1422	₹19,900/month	Semi-Furnished	2	Bachelors	Rent
+158	Odisha Properties (Odisha.txt)	3 BHK Apartment	Puri Town Centre	Puri / Odisha	Apartment / 3 BHK	1433	₹60.64 L	Fully-Furnished	3	Family	Sale
+159	Odisha Properties (Odisha.txt)	2 BHK Apartment	Rourkela Sector 1	Rourkela / Odisha	Apartment / 2 BHK	872	₹52.66 L	Unfurnished	2	Any	Sale
+160	Odisha Properties (Odisha.txt)	2 BHK Apartment	Cuttack North	Cuttack / Odisha	Apartment / 2 BHK	707	₹36.56 L	Fully-Furnished	2	Family	Sale
+161	Odisha Properties (Odisha.txt)	2 BHK Apartment	Puri Town Centre	Puri / Odisha	Apartment / 2 BHK	808	₹10,100/month	Fully-Furnished	2	Bachelors	Rent
+162	Odisha Properties (Odisha.txt)	4 BHK Builder Floor	Bhubaneswar Sector 3	Bhubaneswar / Odisha	Builder Floor / 4 BHK	2115	₹93.34 L	Fully-Furnished	5	Any	Sale
+163	Odisha Properties (Odisha.txt)	2 BHK Apartment	Cuttack East	Cuttack / Odisha	Apartment / 2 BHK	889	₹45.56 L	Unfurnished	2	Bachelors	Sale
+164	Odisha Properties (Odisha.txt)	4 BHK Villa	Cuttack Extension	Cuttack / Odisha	Villa / 4 BHK	2934	₹86.88 L	Fully-Furnished	4	Bachelors	Sale
+165	Odisha Properties (Odisha.txt)	3 BHK Independent House	Puri Residential Area	Puri / Odisha	Independent House / 3 BHK	1741	₹70.85 L	Fully-Furnished	3	Bachelors	Sale
+166	Odisha Properties (Odisha.txt)	2 BHK Independent House	Bhubaneswar Extension	Bhubaneswar / Odisha	Independent House / 2 BHK	1059	₹13,000/month	Semi-Furnished	3	Family	Rent
+167	Odisha Properties (Odisha.txt)	1 BHK Apartment	Cuttack Main Road	Cuttack / Odisha	Apartment / 1 BHK	492	₹7,600/month	Unfurnished	1	Bachelors	Rent
+168	Odisha Properties (Odisha.txt)	4 BHK Apartment	Puri Heights	Puri / Odisha	Apartment / 4 BHK	1103	₹79.76 L	Semi-Furnished	4	Bachelors	Sale
+169	Odisha Properties (Odisha.txt)	3 BHK Apartment	Rourkela East	Rourkela / Odisha	Apartment / 3 BHK	1337	₹15,500/month	Fully-Furnished	3	Family	Rent
+170	Odisha Properties (Odisha.txt)	4 BHK Builder Floor	Rourkela Main Road	Rourkela / Odisha	Builder Floor / 4 BHK	1885	₹90.37 L	Semi-Furnished	4	Family	Sale
+171	Odisha Properties (Odisha.txt)	3 BHK Apartment	Bhubaneswar Sector 2	Bhubaneswar / Odisha	Apartment / 3 BHK	1268	₹72.83 L	Unfurnished	3	Bachelors	Sale
+172	Odisha Properties (Odisha.txt)	2 BHK Apartment	Rourkela North	Rourkela / Odisha	Apartment / 2 BHK	813	₹13,400/month	Fully-Furnished	3	Bachelors	Rent
+173	Odisha Properties (Odisha.txt)	4 BHK Builder Floor	Rourkela South	Rourkela / Odisha	Builder Floor / 4 BHK	1800	₹22,000/month	Unfurnished	4	Family	Rent
+174	Odisha Properties (Odisha.txt)	1 BHK Apartment	Cuttack Town Centre	Cuttack / Odisha	Apartment / 1 BHK	434	₹25.79 L	Semi-Furnished	2	Family	Sale
+175	Odisha Properties (Odisha.txt)	1 BHK Studio	Puri Residential Area	Puri / Odisha	Studio / 1 BHK	420	₹6,700/month	Semi-Furnished	1	Family	Rent
+176	Odisha Properties (Odisha.txt)	3 BHK Independent House	Rourkela Residential Area	Rourkela / Odisha	Independent House / 3 BHK	1634	₹18,900/month	Fully-Furnished	3	Family	Rent
+177	Odisha Properties (Odisha.txt)	2 BHK Villa	Puri Nagar	Puri / Odisha	Villa / 2 BHK	1330	₹11,800/month	Semi-Furnished	2	Bachelors	Rent
+178	Odisha Properties (Odisha.txt)	1 BHK Studio	Puri West	Puri / Odisha	Studio / 1 BHK	337	₹8,200/month	Unfurnished	1	Family	Rent
+179	Odisha Properties (Odisha.txt)	3 BHK Apartment	Bhubaneswar Central	Bhubaneswar / Odisha	Apartment / 3 BHK	1376	₹63.54 L	Semi-Furnished	4	Family	Sale
+180	Odisha Properties (Odisha.txt)	3 BHK Villa	Bhubaneswar Colony	Bhubaneswar / Odisha	Villa / 3 BHK	1647	₹17,600/month	Fully-Furnished	4	Any	Rent
+181	Odisha Properties (Odisha.txt)	4 BHK Apartment	Puri Sector 1	Puri / Odisha	Apartment / 4 BHK	1986	₹21,200/month	Unfurnished	4	Family	Rent
+182	Odisha Properties (Odisha.txt)	1 BHK Apartment	Cuttack Colony	Cuttack / Odisha	Apartment / 1 BHK	381	₹23.28 L	Semi-Furnished	2	Bachelors	Sale
+183	Odisha Properties (Odisha.txt)	3 BHK Builder Floor	Rourkela Central	Rourkela / Odisha	Builder Floor / 3 BHK	1057	₹52.34 L	Semi-Furnished	4	Any	Sale
+184	Odisha Properties (Odisha.txt)	3 BHK Villa	Bhubaneswar South	Bhubaneswar / Odisha	Villa / 3 BHK	1749	₹71.92 L	Unfurnished	2	Any	Sale
+185	Odisha Properties (Odisha.txt)	3 BHK Builder Floor	Cuttack Central	Cuttack / Odisha	Builder Floor / 3 BHK	1336	₹70.07 L	Semi-Furnished	3	Any	Sale
+186	Odisha Properties (Odisha.txt)	2 BHK Independent House	Bhubaneswar South	Bhubaneswar / Odisha	Independent House / 2 BHK	1164	₹13,900/month	Unfurnished	2	Family	Rent
+187	Odisha Properties (Odisha.txt)	1 BHK Studio	Puri South	Puri / Odisha	Studio / 1 BHK	346	₹8,200/month	Unfurnished	2	Family	Rent
+188	Odisha Properties (Odisha.txt)	3 BHK Apartment	Puri Extension	Puri / Odisha	Apartment / 3 BHK	1348	₹56.01 L	Fully-Furnished	3	Any	Sale
+189	Odisha Properties (Odisha.txt)	4 BHK Apartment	Puri Central	Puri / Odisha	Apartment / 4 BHK	1928	₹90.57 L	Semi-Furnished	4	Any	Sale
+190	Odisha Properties (Odisha.txt)	3 BHK Apartment	Cuttack Town Centre	Cuttack / Odisha	Apartment / 3 BHK	1566	₹73.07 L	Fully-Furnished	4	Family	Sale
+191	Odisha Properties (Odisha.txt)	2 BHK Apartment	Puri Sector 3	Puri / Odisha	Apartment / 2 BHK	810	₹10,600/month	Fully-Furnished	3	Bachelors	Rent
+192	Odisha Properties (Odisha.txt)	5 BHK Independent House	Bhubaneswar Town Centre	Bhubaneswar / Odisha	Independent House / 5 BHK	2907	₹1 Cr	Semi-Furnished	6	Bachelors	Sale
+193	Odisha Properties (Odisha.txt)	2 BHK Villa	Cuttack Sector 1	Cuttack / Odisha	Villa / 2 BHK	1498	₹47.61 L	Fully-Furnished	2	Family	Sale
+194	Odisha Properties (Odisha.txt)	2 BHK Independent House	Rourkela Nagar	Rourkela / Odisha	Independent House / 2 BHK	952	₹55.08 L	Fully-Furnished	3	Family	Sale
+195	Odisha Properties (Odisha.txt)	2 BHK Apartment	Bhubaneswar Colony	Bhubaneswar / Odisha	Apartment / 2 BHK	828	₹48.29 L	Semi-Furnished	1	Any	Sale
+196	Odisha Properties (Odisha.txt)	2 BHK Independent House	Rourkela Extension	Rourkela / Odisha	Independent House / 2 BHK	683	₹40.28 L	Semi-Furnished	3	Bachelors	Sale
+197	Odisha Properties (Odisha.txt)	2 BHK Apartment	Puri North	Puri / Odisha	Apartment / 2 BHK	904	₹50.58 L	Semi-Furnished	3	Bachelors	Sale
+198	Odisha Properties (Odisha.txt)	2 BHK Apartment	Cuttack Heights	Cuttack / Odisha	Apartment / 2 BHK	934	₹11,800/month	Unfurnished	1	Family	Rent
+199	Odisha Properties (Odisha.txt)	1 BHK Apartment	Puri South	Puri / Odisha	Apartment / 1 BHK	650	₹28.09 L	Semi-Furnished	1	Family	Sale
+200	Odisha Properties (Odisha.txt)	1 BHK Apartment	Cuttack Heights	Cuttack / Odisha	Apartment / 1 BHK	470	₹32.41 L	Unfurnished	1	Any	Sale
+201	Odisha Properties (Odisha.txt)	3 BHK Apartment	Bhubaneswar East	Bhubaneswar / Odisha	Apartment / 3 BHK	831	₹67.89 L	Fully-Furnished	3	Family	Sale
+202	Odisha Properties (Odisha.txt)	3 BHK Independent House	Cuttack South	Cuttack / Odisha	Independent House / 3 BHK	1734	₹16,000/month	Unfurnished	3	Family	Rent
+203	Odisha Properties (Odisha.txt)	1 BHK Apartment	Rourkela Town Centre	Rourkela / Odisha	Apartment / 1 BHK	528	₹7,200/month	Unfurnished	2	Bachelors	Rent
+204	Odisha Properties (Odisha.txt)	3 BHK Villa	Bhubaneswar Sector 1	Bhubaneswar / Odisha	Villa / 3 BHK	1804	₹61.57 L	Fully-Furnished	3	Family	Sale
+205	Odisha Properties (Odisha.txt)	2 BHK Villa	Bhubaneswar Main Road	Bhubaneswar / Odisha	Villa / 2 BHK	1377	₹15,700/month	Unfurnished	1	Any	Rent
+206	Odisha Properties (Odisha.txt)	2 BHK Apartment	Rourkela Residential Area	Rourkela / Odisha	Apartment / 2 BHK	841	₹43.99 L	Semi-Furnished	3	Family	Sale
+207	Odisha Properties (Odisha.txt)	1 BHK Apartment	Bhubaneswar Extension	Bhubaneswar / Odisha	Apartment / 1 BHK	439	₹8,700/month	Fully-Furnished	1	Any	Rent
+208	Odisha Properties (Odisha.txt)	1 BHK Studio	Rourkela East	Rourkela / Odisha	Studio / 1 BHK	348	₹29.37 L	Semi-Furnished	1	Bachelors	Sale
+209	Odisha Properties (Odisha.txt)	2 BHK Independent House	Puri Sector 1	Puri / Odisha	Independent House / 2 BHK	1140	₹48.56 L	Semi-Furnished	1	Family	Sale
+210	Odisha Properties (Odisha.txt)	3 BHK Builder Floor	Rourkela Sector 1	Rourkela / Odisha	Builder Floor / 3 BHK	1482	₹18,800/month	Fully-Furnished	4	Bachelors	Rent
+211	Odisha Properties (Odisha.txt)	4 BHK Apartment	Rourkela Heights	Rourkela / Odisha	Apartment / 4 BHK	1807	₹73.89 L	Semi-Furnished	3	Family	Sale
+212	Odisha Properties (Odisha.txt)	4 BHK Apartment	Rourkela Sector 3	Rourkela / Odisha	Apartment / 4 BHK	1655	₹18,400/month	Semi-Furnished	4	Family	Rent
+213	Odisha Properties (Odisha.txt)	4 BHK Builder Floor	Puri Nagar	Puri / Odisha	Builder Floor / 4 BHK	1732	₹79.60 L	Semi-Furnished	4	Family	Sale
+214	Odisha Properties (Odisha.txt)	2 BHK Apartment	Bhubaneswar Main Road	Bhubaneswar / Odisha	Apartment / 2 BHK	673	₹12,800/month	Fully-Furnished	2	Family	Rent
+215	Odisha Properties (Odisha.txt)	3 BHK Apartment	Cuttack Colony	Cuttack / Odisha	Apartment / 3 BHK	1186	₹16,900/month	Semi-Furnished	3	Family	Rent
+216	Odisha Properties (Odisha.txt)	2 BHK Villa	Cuttack West	Cuttack / Odisha	Villa / 2 BHK	1144	₹16,000/month	Fully-Furnished	3	Family	Rent
+217	Odisha Properties (Odisha.txt)	3 BHK Independent House	Rourkela Sector 1	Rourkela / Odisha	Independent House / 3 BHK	1709	₹16,800/month	Fully-Furnished	3	Family	Rent
+218	Odisha Properties (Odisha.txt)	2 BHK Builder Floor	Puri Sector 1	Puri / Odisha	Builder Floor / 2 BHK	967	₹41.03 L	Unfurnished	2	Family	Sale
+219	Odisha Properties (Odisha.txt)	1 BHK Apartment	Puri Town Centre	Puri / Odisha	Apartment / 1 BHK	401	₹6,900/month	Fully-Furnished	2	Family	Rent
+220	Odisha Properties (Odisha.txt)	1 BHK Apartment	Bhubaneswar Sector 3	Bhubaneswar / Odisha	Apartment / 1 BHK	501	₹32.48 L	Semi-Furnished	1	Bachelors	Sale
+221	Odisha Properties (Odisha.txt)	3 BHK Apartment	Rourkela West	Rourkela / Odisha	Apartment / 3 BHK	1316	₹14,500/month	Semi-Furnished	3	Any	Rent
+222	Odisha Properties (Odisha.txt)	3 BHK Apartment	Bhubaneswar Town Centre	Bhubaneswar / Odisha	Apartment / 3 BHK	1297	₹14,500/month	Fully-Furnished	2	Family	Rent
+223	Odisha Properties (Odisha.txt)	2 BHK Apartment	Bhubaneswar Sector 3	Bhubaneswar / Odisha	Apartment / 2 BHK	838	₹44.28 L	Semi-Furnished	2	Family	Sale
+224	Odisha Properties (Odisha.txt)	1 BHK Apartment	Cuttack Heights	Cuttack / Odisha	Apartment / 1 BHK	572	₹9,600/month	Semi-Furnished	1	Any	Rent
+225	Odisha Properties (Odisha.txt)	3 BHK Independent House	Rourkela Nagar	Rourkela / Odisha	Independent House / 3 BHK	1342	₹72.54 L	Unfurnished	3	Family	Sale
+226	Odisha Properties (Odisha.txt)	4 BHK Apartment	Cuttack Main Road	Cuttack / Odisha	Apartment / 4 BHK	1821	₹86.38 L	Semi-Furnished	4	Family	Sale
+227	Odisha Properties (Odisha.txt)	2 BHK Apartment	Rourkela South	Rourkela / Odisha	Apartment / 2 BHK	767	₹10,900/month	Fully-Furnished	2	Bachelors	Rent
+228	Odisha Properties (Odisha.txt)	1 BHK Builder Floor	Rourkela Central	Rourkela / Odisha	Builder Floor / 1 BHK	484	₹33.48 L	Fully-Furnished	1	Family	Sale
+229	Odisha Properties (Odisha.txt)	3 BHK Apartment	Rourkela Extension	Rourkela / Odisha	Apartment / 3 BHK	1261	₹51.17 L	Fully-Furnished	3	Family	Sale
+230	Odisha Properties (Odisha.txt)	4 BHK Apartment	Puri Central	Puri / Odisha	Apartment / 4 BHK	2055	₹22,400/month	Semi-Furnished	3	Family	Rent
+231	Odisha Properties (Odisha.txt)	3 BHK Builder Floor	Puri Central	Puri / Odisha	Builder Floor / 3 BHK	949	₹54.67 L	Fully-Furnished	4	Family	Sale
+232	Odisha Properties (Odisha.txt)	2 BHK Apartment	Cuttack Main Road	Cuttack / Odisha	Apartment / 2 BHK	832	₹40.66 L	Fully-Furnished	2	Bachelors	Sale
+233	Odisha Properties (Odisha.txt)	3 BHK Apartment	Rourkela North	Rourkela / Odisha	Apartment / 3 BHK	1223	₹51.52 L	Unfurnished	3	Family	Sale
+234	Odisha Properties (Odisha.txt)	2 BHK Apartment	Cuttack West	Cuttack / Odisha	Apartment / 2 BHK	657	₹12,700/month	Fully-Furnished	1	Any	Rent
+235	Odisha Properties (Odisha.txt)	3 BHK Apartment	Cuttack Sector 1	Cuttack / Odisha	Apartment / 3 BHK	1331	₹68.60 L	Unfurnished	2	Family	Sale
+236	Odisha Properties (Odisha.txt)	1 BHK Builder Floor	Puri Extension	Puri / Odisha	Builder Floor / 1 BHK	550	₹34.02 L	Semi-Furnished	2	Any	Sale
+237	Odisha Properties (Odisha.txt)	3 BHK Apartment	Bhubaneswar Central	Bhubaneswar / Odisha	Apartment / 3 BHK	1329	₹62.53 L	Fully-Furnished	3	Family	Sale
+238	Odisha Properties (Odisha.txt)	3 BHK Apartment	Cuttack Sector 1	Cuttack / Odisha	Apartment / 3 BHK	979	₹57.21 L	Fully-Furnished	4	Bachelors	Sale
+239	Odisha Properties (Odisha.txt)	4 BHK Villa	Bhubaneswar Extension	Bhubaneswar / Odisha	Villa / 4 BHK	2685	₹23,800/month	Fully-Furnished	3	Bachelors	Rent
+240	Odisha Properties (Odisha.txt)	2 BHK Apartment	Puri Extension	Puri / Odisha	Apartment / 2 BHK	868	₹10,600/month	Fully-Furnished	2	Family	Rent
+241	Odisha Properties (Odisha.txt)	1 BHK Builder Floor	Puri East	Puri / Odisha	Builder Floor / 1 BHK	584	₹27.57 L	Fully-Furnished	1	Bachelors	Sale
+242	Odisha Properties (Odisha.txt)	2 BHK Independent House	Rourkela Residential Area	Rourkela / Odisha	Independent House / 2 BHK	1147	₹55.84 L	Unfurnished	2	Bachelors	Sale
+243	Odisha Properties (Odisha.txt)	2 BHK Apartment	Cuttack South	Cuttack / Odisha	Apartment / 2 BHK	935	₹43.14 L	Fully-Furnished	2	Any	Sale
+244	Odisha Properties (Odisha.txt)	2 BHK Builder Floor	Cuttack Central	Cuttack / Odisha	Builder Floor / 2 BHK	1016	₹55.37 L	Unfurnished	1	Any	Sale
+245	Odisha Properties (Odisha.txt)	2 BHK Apartment	Puri Sector 3	Puri / Odisha	Apartment / 2 BHK	860	₹53.58 L	Semi-Furnished	3	Bachelors	Sale
+246	Odisha Properties (Odisha.txt)	2 BHK Villa	Puri Colony	Puri / Odisha	Villa / 2 BHK	1021	₹51.17 L	Unfurnished	3	Bachelors	Sale
+247	Odisha Properties (Odisha.txt)	2 BHK Apartment	Cuttack Nagar	Cuttack / Odisha	Apartment / 2 BHK	1007	₹13,900/month	Unfurnished	2	Family	Rent
+248	Odisha Properties (Odisha.txt)	4 BHK Apartment	Rourkela Heights	Rourkela / Odisha	Apartment / 4 BHK	2038	₹22,200/month	Fully-Furnished	4	Bachelors	Rent
+249	Odisha Properties (Odisha.txt)	3 BHK Apartment	Puri Sector 1	Puri / Odisha	Apartment / 3 BHK	1192	₹50.61 L	Unfurnished	3	Family	Sale
+250	Odisha Properties (Odisha.txt)	2 BHK Apartment	Cuttack Extension	Cuttack / Odisha	Apartment / 2 BHK	847	₹11,900/month	Unfurnished	2	Any	Rent
+251	Odisha Properties (Odisha.txt)	3 BHK Independent House	Cuttack Extension	Cuttack / Odisha	Independent House / 3 BHK	1712	₹78.17 L	Semi-Furnished	4	Bachelors	Sale
+252	Odisha Properties (Odisha.txt)	3 BHK Apartment	Bhubaneswar West	Bhubaneswar / Odisha	Apartment / 3 BHK	1329	₹65.37 L	Unfurnished	3	Family	Sale
+253	Odisha Properties (Odisha.txt)	3 BHK Apartment	Cuttack West	Cuttack / Odisha	Apartment / 3 BHK	1424	₹66.17 L	Semi-Furnished	2	Family	Sale
+254	Odisha Properties (Odisha.txt)	2 BHK Independent House	Puri Residential Area	Puri / Odisha	Independent House / 2 BHK	1068	₹13,000/month	Semi-Furnished	2	Family	Rent
+255	Odisha Properties (Odisha.txt)	1 BHK Builder Floor	Bhubaneswar West	Bhubaneswar / Odisha	Builder Floor / 1 BHK	443	₹33.47 L	Semi-Furnished	2	Any	Sale
+256	Odisha Properties (Odisha.txt)	1 BHK Apartment	Cuttack East	Cuttack / Odisha	Apartment / 1 BHK	477	₹8,800/month	Semi-Furnished	1	Family	Rent
+257	Odisha Properties (Odisha.txt)	4 BHK Apartment	Bhubaneswar North	Bhubaneswar / Odisha	Apartment / 4 BHK	1794	₹66.44 L	Fully-Furnished	3	Bachelors	Sale
+258	Odisha Properties (Odisha.txt)	1 BHK Apartment	Cuttack East	Cuttack / Odisha	Apartment / 1 BHK	496	₹9,300/month	Unfurnished	2	Bachelors	Rent
+259	Odisha Properties (Odisha.txt)	5 BHK Apartment	Puri Residential Area	Puri / Odisha	Apartment / 5 BHK	2127	₹1.14 Cr	Semi-Furnished	5	Family	Sale
+260	Odisha Properties (Odisha.txt)	2 BHK Apartment	Bhubaneswar Sector 3	Bhubaneswar / Odisha	Apartment / 2 BHK	725	₹38.73 L	Semi-Furnished	3	Family	Sale
+261	Odisha Properties (Odisha.txt)	2 BHK Builder Floor	Rourkela Heights	Rourkela / Odisha	Builder Floor / 2 BHK	886	₹13,600/month	Semi-Furnished	2	Family	Rent
+262	Odisha Properties (Odisha.txt)	1 BHK Independent House	Bhubaneswar Extension	Bhubaneswar / Odisha	Independent House / 1 BHK	564	₹28.65 L	Semi-Furnished	2	Family	Sale
+263	Odisha Properties (Odisha.txt)	3 BHK Apartment	Puri Extension	Puri / Odisha	Apartment / 3 BHK	1147	₹52.72 L	Semi-Furnished	4	Bachelors	Sale
+264	Odisha Properties (Odisha.txt)	1 BHK Apartment	Rourkela North	Rourkela / Odisha	Apartment / 1 BHK	503	₹30.81 L	Semi-Furnished	1	Family	Sale
+265	Odisha Properties (Odisha.txt)	1 BHK Studio	Puri Main Road	Puri / Odisha	Studio / 1 BHK	332	₹25.31 L	Fully-Furnished	2	Bachelors	Sale
+266	Odisha Properties (Odisha.txt)	4 BHK Independent House	Rourkela West	Rourkela / Odisha	Independent House / 4 BHK	2075	₹77.06 L	Fully-Furnished	4	Family	Sale
+267	Odisha Properties (Odisha.txt)	2 BHK Apartment	Puri South	Puri / Odisha	Apartment / 2 BHK	802	₹14,100/month	Fully-Furnished	2	Family	Rent
+268	Odisha Properties (Odisha.txt)	4 BHK Apartment	Rourkela Sector 3	Rourkela / Odisha	Apartment / 4 BHK	1778	₹96.55 L	Fully-Furnished	3	Family	Sale
+269	Odisha Properties (Odisha.txt)	2 BHK Villa	Bhubaneswar Heights	Bhubaneswar / Odisha	Villa / 2 BHK	962	₹12,800/month	Unfurnished	3	Bachelors	Rent
+270	Odisha Properties (Odisha.txt)	2 BHK Apartment	Rourkela Sector 3	Rourkela / Odisha	Apartment / 2 BHK	947	₹12,100/month	Semi-Furnished	3	Bachelors	Rent
+271	Odisha Properties (Odisha.txt)	3 BHK Apartment	Cuttack Heights	Cuttack / Odisha	Apartment / 3 BHK	1392	₹16,900/month	Unfurnished	3	Family	Rent
+272	Odisha Properties (Odisha.txt)	2 BHK Apartment	Bhubaneswar South	Bhubaneswar / Odisha	Apartment / 2 BHK	779	₹52.69 L	Semi-Furnished	2	Family	Sale
+273	Odisha Properties (Odisha.txt)	3 BHK Apartment	Bhubaneswar Main Road	Bhubaneswar / Odisha	Apartment / 3 BHK	1309	₹54 L	Unfurnished	3	Bachelors	Sale
+274	Odisha Properties (Odisha.txt)	2 BHK Villa	Puri Main Road	Puri / Odisha	Villa / 2 BHK	781	₹13,700/month	Semi-Furnished	1	Family	Rent
+275	Odisha Properties (Odisha.txt)	3 BHK Builder Floor	Puri Sector 2	Puri / Odisha	Builder Floor / 3 BHK	1138	₹17,300/month	Semi-Furnished	2	Family	Rent
+276	Odisha Properties (Odisha.txt)	1 BHK Apartment	Rourkela Extension	Rourkela / Odisha	Apartment / 1 BHK	519	₹25.64 L	Semi-Furnished	1	Any	Sale
+277	Odisha Properties (Odisha.txt)	2 BHK Independent House	Rourkela Town Centre	Rourkela / Odisha	Independent House / 2 BHK	1020	₹56.32 L	Semi-Furnished	1	Any	Sale
+278	Odisha Properties (Odisha.txt)	2 BHK Apartment	Bhubaneswar Sector 2	Bhubaneswar / Odisha	Apartment / 2 BHK	791	₹10,600/month	Semi-Furnished	1	Family	Rent
+279	Odisha Properties (Odisha.txt)	3 BHK Apartment	Rourkela Nagar	Rourkela / Odisha	Apartment / 3 BHK	1169	₹73.12 L	Semi-Furnished	4	Family	Sale
+280	Odisha Properties (Odisha.txt)	3 BHK Independent House	Cuttack Main Road	Cuttack / Odisha	Independent House / 3 BHK	1442	₹16,400/month	Semi-Furnished	3	Family	Rent
+281	Odisha Properties (Odisha.txt)	2 BHK Apartment	Cuttack Extension	Cuttack / Odisha	Apartment / 2 BHK	832	₹38.87 L	Fully-Furnished	1	Any	Sale
+282	Odisha Properties (Odisha.txt)	2 BHK Independent House	Bhubaneswar Colony	Bhubaneswar / Odisha	Independent House / 2 BHK	1004	₹49.88 L	Unfurnished	3	Any	Sale
+283	Odisha Properties (Odisha.txt)	2 BHK Villa	Bhubaneswar Town Centre	Bhubaneswar / Odisha	Villa / 2 BHK	1198	₹48.41 L	Fully-Furnished	2	Any	Sale
+284	Odisha Properties (Odisha.txt)	2 BHK Apartment	Puri North	Puri / Odisha	Apartment / 2 BHK	698	₹13,500/month	Unfurnished	2	Any	Rent
+285	Odisha Properties (Odisha.txt)	1 BHK Independent House	Rourkela South	Rourkela / Odisha	Independent House / 1 BHK	846	₹27.67 L	Semi-Furnished	1	Bachelors	Sale
+286	Odisha Properties (Odisha.txt)	2 BHK Independent House	Rourkela North	Rourkela / Odisha	Independent House / 2 BHK	1079	₹15,300/month	Unfurnished	2	Any	Rent
+287	Odisha Properties (Odisha.txt)	1 BHK Apartment	Cuttack Sector 1	Cuttack / Odisha	Apartment / 1 BHK	454	₹28.99 L	Semi-Furnished	2	Family	Sale
+288	Odisha Properties (Odisha.txt)	3 BHK Apartment	Cuttack North	Cuttack / Odisha	Apartment / 3 BHK	1086	₹66.08 L	Semi-Furnished	2	Family	Sale
+289	Odisha Properties (Odisha.txt)	3 BHK Apartment	Puri East	Puri / Odisha	Apartment / 3 BHK	922	₹69.79 L	Fully-Furnished	3	Family	Sale
+290	Odisha Properties (Odisha.txt)	1 BHK Villa	Cuttack Sector 1	Cuttack / Odisha	Villa / 1 BHK	838	₹8,900/month	Unfurnished	2	Family	Rent
+291	Odisha Properties (Odisha.txt)	3 BHK Independent House	Rourkela North	Rourkela / Odisha	Independent House / 3 BHK	1270	₹14,500/month	Semi-Furnished	3	Any	Rent
+292	Odisha Properties (Odisha.txt)	1 BHK Apartment	Puri Colony	Puri / Odisha	Apartment / 1 BHK	442	₹23.38 L	Semi-Furnished	1	Any	Sale
+293	Odisha Properties (Odisha.txt)	2 BHK Apartment	Rourkela North	Rourkela / Odisha	Apartment / 2 BHK	810	₹47.17 L	Semi-Furnished	2	Bachelors	Sale
+294	Odisha Properties (Odisha.txt)	4 BHK Apartment	Cuttack Central	Cuttack / Odisha	Apartment / 4 BHK	2013	₹86.16 L	Unfurnished	4	Family	Sale
+295	Odisha Properties (Odisha.txt)	3 BHK Apartment	Puri Sector 3	Puri / Odisha	Apartment / 3 BHK	1329	₹74.89 L	Unfurnished	2	Family	Sale
+296	Odisha Properties (Odisha.txt)	3 BHK Builder Floor	Cuttack South	Cuttack / Odisha	Builder Floor / 3 BHK	1359	₹69.30 L	Unfurnished	3	Bachelors	Sale
+297	Odisha Properties (Odisha.txt)	4 BHK Apartment	Cuttack North	Cuttack / Odisha	Apartment / 4 BHK	1857	₹18,700/month	Unfurnished	5	Family	Rent
+298	Odisha Properties (Odisha.txt)	2 BHK Builder Floor	Puri Sector 1	Puri / Odisha	Builder Floor / 2 BHK	975	₹14,200/month	Fully-Furnished	2	Family	Rent
+299	Odisha Properties (Odisha.txt)	2 BHK Independent House	Rourkela West	Rourkela / Odisha	Independent House / 2 BHK	829	₹42.55 L	Semi-Furnished	2	Family	Sale
+300	Odisha Properties (Odisha.txt)	3 BHK Villa	Puri Sector 3	Puri / Odisha	Villa / 3 BHK	1753	₹73.91 L	Fully-Furnished	3	Any	Sale
+301	Odisha Properties (Odisha.txt)	5 BHK Apartment	Puri Nagar	Puri / Odisha	Apartment / 5 BHK	2663	₹98.17 L	Semi-Furnished	5	Any	Sale
+302	Odisha Properties (Odisha.txt)	4 BHK Apartment	Rourkela Central	Rourkela / Odisha	Apartment / 4 BHK	1951	₹18,900/month	Semi-Furnished	4	Bachelors	Rent
+303	Odisha Properties (Odisha.txt)	2 BHK Builder Floor	Puri Central	Puri / Odisha	Builder Floor / 2 BHK	964	₹55.53 L	Unfurnished	1	Family	Sale
+304	Odisha Properties (Odisha.txt)	3 BHK Independent House	Puri Central	Puri / Odisha	Independent House / 3 BHK	1442	₹61.78 L	Semi-Furnished	3	Any	Sale
+305	Odisha Properties (Odisha.txt)	4 BHK Independent House	Bhubaneswar Sector 3	Bhubaneswar / Odisha	Independent House / 4 BHK	2050	₹26,100/month	Semi-Furnished	4	Bachelors	Rent
+306	Odisha Properties (Odisha.txt)	2 BHK Builder Floor	Rourkela Sector 2	Rourkela / Odisha	Builder Floor / 2 BHK	916	₹52.73 L	Semi-Furnished	2	Any	Sale
+307	Odisha Properties (Odisha.txt)	1 BHK Studio	Rourkela Town Centre	Rourkela / Odisha	Studio / 1 BHK	307	₹8,300/month	Semi-Furnished	1	Family	Rent
+308	Odisha Properties (Odisha.txt)	3 BHK Apartment	Puri Residential Area	Puri / Odisha	Apartment / 3 BHK	1492	₹19,400/month	Semi-Furnished	3	Family	Rent
+309	Odisha Properties (Odisha.txt)	4 BHK Apartment	Puri Heights	Puri / Odisha	Apartment / 4 BHK	1818	₹95.46 L	Unfurnished	4	Family	Sale
+310	Odisha Properties (Odisha.txt)	3 BHK Apartment	Bhubaneswar Central	Bhubaneswar / Odisha	Apartment / 3 BHK	1429	₹61.46 L	Semi-Furnished	3	Any	Sale
+311	Odisha Properties (Odisha.txt)	1 BHK Villa	Rourkela Sector 3	Rourkela / Odisha	Villa / 1 BHK	755	₹29.59 L	Fully-Furnished	2	Family	Sale
+312	Odisha Properties (Odisha.txt)	2 BHK Independent House	Rourkela West	Rourkela / Odisha	Independent House / 2 BHK	1219	₹57.19 L	Unfurnished	1	Bachelors	Sale
+313	Odisha Properties (Odisha.txt)	3 BHK Builder Floor	Rourkela Nagar	Rourkela / Odisha	Builder Floor / 3 BHK	1174	₹65.58 L	Fully-Furnished	2	Bachelors	Sale
+314	Odisha Properties (Odisha.txt)	3 BHK Apartment	Cuttack East	Cuttack / Odisha	Apartment / 3 BHK	1366	₹76.94 L	Semi-Furnished	3	Family	Sale
+315	Odisha Properties (Odisha.txt)	1 BHK Apartment	Rourkela North	Rourkela / Odisha	Apartment / 1 BHK	588	₹27.60 L	Semi-Furnished	1	Any	Sale
+316	Odisha Properties (Odisha.txt)	2 BHK Apartment	Bhubaneswar Heights	Bhubaneswar / Odisha	Apartment / 2 BHK	933	₹13,700/month	Semi-Furnished	2	Bachelors	Rent
+317	Odisha Properties (Odisha.txt)	3 BHK Apartment	Puri Town Centre	Puri / Odisha	Apartment / 3 BHK	1555	₹55.95 L	Fully-Furnished	3	Family	Sale
+318	Odisha Properties (Odisha.txt)	3 BHK Builder Floor	Bhubaneswar South	Bhubaneswar / Odisha	Builder Floor / 3 BHK	1240	₹19,300/month	Fully-Furnished	4	Bachelors	Rent
+319	Odisha Properties (Odisha.txt)	1 BHK Studio	Puri Sector 2	Puri / Odisha	Studio / 1 BHK	384	₹24.41 L	Semi-Furnished	2	Family	Sale
+320	Odisha Properties (Odisha.txt)	3 BHK Villa	Cuttack Town Centre	Cuttack / Odisha	Villa / 3 BHK	1780	₹65.17 L	Unfurnished	2	Any	Sale
+321	Odisha Properties (Odisha.txt)	5 BHK Apartment	Bhubaneswar Heights	Bhubaneswar / Odisha	Apartment / 5 BHK	2364	₹82.33 L	Fully-Furnished	4	Family	Sale
+322	Odisha Properties (Odisha.txt)	4 BHK Apartment	Rourkela West	Rourkela / Odisha	Apartment / 4 BHK	1896	₹74.98 L	Unfurnished	5	Any	Sale
+323	Odisha Properties (Odisha.txt)	3 BHK Apartment	Rourkela West	Rourkela / Odisha	Apartment / 3 BHK	1090	₹62.78 L	Semi-Furnished	3	Any	Sale
+324	Odisha Properties (Odisha.txt)	4 BHK Villa	Puri Central	Puri / Odisha	Villa / 4 BHK	2662	₹26,800/month	Semi-Furnished	5	Family	Rent
+325	Odisha Properties (Odisha.txt)	1 BHK Apartment	Puri East	Puri / Odisha	Apartment / 1 BHK	552	₹32.71 L	Fully-Furnished	2	Any	Sale
+326	Odisha Properties (Odisha.txt)	3 BHK Apartment	Rourkela East	Rourkela / Odisha	Apartment / 3 BHK	1261	₹17,000/month	Semi-Furnished	3	Family	Rent
+327	Odisha Properties (Odisha.txt)	3 BHK Builder Floor	Rourkela Sector 1	Rourkela / Odisha	Builder Floor / 3 BHK	1268	₹72.47 L	Unfurnished	3	Family	Sale
+328	Odisha Properties (Odisha.txt)	3 BHK Apartment	Puri East	Puri / Odisha	Apartment / 3 BHK	1384	₹18,200/month	Unfurnished	3	Family	Rent
+329	Odisha Properties (Odisha.txt)	3 BHK Independent House	Cuttack Sector 1	Cuttack / Odisha	Independent House / 3 BHK	1689	₹81.32 L	Unfurnished	3	Bachelors	Sale
+330	Odisha Properties (Odisha.txt)	3 BHK Apartment	Rourkela Sector 2	Rourkela / Odisha	Apartment / 3 BHK	1206	₹68.69 L	Fully-Furnished	3	Bachelors	Sale
+331	Odisha Properties (Odisha.txt)	4 BHK Apartment	Puri Heights	Puri / Odisha	Apartment / 4 BHK	1702	₹18,400/month	Semi-Furnished	4	Family	Rent
+332	Odisha Properties (Odisha.txt)	5 BHK Apartment	Rourkela Extension	Rourkela / Odisha	Apartment / 5 BHK	2393	₹1.06 Cr	Unfurnished	5	Family	Sale
+333	Odisha Properties (Odisha.txt)	3 BHK Apartment	Puri South	Puri / Odisha	Apartment / 3 BHK	1361	₹55.96 L	Fully-Furnished	3	Bachelors	Sale
+334	Odisha Properties (Odisha.txt)	3 BHK Apartment	Puri Sector 3	Puri / Odisha	Apartment / 3 BHK	1181	₹19,900/month	Semi-Furnished	3	Family	Rent
+335	Odisha Properties (Odisha.txt)	4 BHK Independent House	Puri South	Puri / Odisha	Independent House / 4 BHK	2380	₹89.55 L	Semi-Furnished	4	Bachelors	Sale
+336	Odisha Properties (Odisha.txt)	3 BHK Apartment	Cuttack South	Cuttack / Odisha	Apartment / 3 BHK	1506	₹20,700/month	Fully-Furnished	4	Family	Rent
+337	Odisha Properties (Odisha.txt)	1 BHK Independent House	Bhubaneswar Colony	Bhubaneswar / Odisha	Independent House / 1 BHK	588	₹6,900/month	Fully-Furnished	1	Family	Rent
+338	Odisha Properties (Odisha.txt)	3 BHK Apartment	Rourkela Colony	Rourkela / Odisha	Apartment / 3 BHK	1228	₹53.26 L	Unfurnished	2	Family	Sale
+339	Odisha Properties (Odisha.txt)	3 BHK Apartment	Bhubaneswar Heights	Bhubaneswar / Odisha	Apartment / 3 BHK	1417	₹19,900/month	Unfurnished	4	Family	Rent
+340	Odisha Properties (Odisha.txt)	3 BHK Villa	Puri Residential Area	Puri / Odisha	Villa / 3 BHK	1743	₹19,700/month	Unfurnished	4	Family	Rent
+341	Odisha Properties (Odisha.txt)	4 BHK Apartment	Bhubaneswar Nagar	Bhubaneswar / Odisha	Apartment / 4 BHK	1592	₹71.39 L	Semi-Furnished	5	Any	Sale
+342	Odisha Properties (Odisha.txt)	1 BHK Apartment	Puri Central	Puri / Odisha	Apartment / 1 BHK	522	₹32.24 L	Semi-Furnished	1	Bachelors	Sale
+343	Odisha Properties (Odisha.txt)	3 BHK Apartment	Puri East	Puri / Odisha	Apartment / 3 BHK	1174	₹50.62 L	Semi-Furnished	3	Family	Sale
+344	Odisha Properties (Odisha.txt)	3 BHK Apartment	Puri Extension	Puri / Odisha	Apartment / 3 BHK	1265	₹16,400/month	Unfurnished	3	Bachelors	Rent
+345	Odisha Properties (Odisha.txt)	3 BHK Apartment	Cuttack Residential Area	Cuttack / Odisha	Apartment / 3 BHK	1169	₹59.22 L	Semi-Furnished	2	Family	Sale
+346	Odisha Properties (Odisha.txt)	1 BHK Apartment	Bhubaneswar Nagar	Bhubaneswar / Odisha	Apartment / 1 BHK	571	₹8,700/month	Unfurnished	1	Bachelors	Rent
+347	Odisha Properties (Odisha.txt)	3 BHK Apartment	Bhubaneswar South	Bhubaneswar / Odisha	Apartment / 3 BHK	1098	₹19,100/month	Semi-Furnished	3	Family	Rent
+348	Odisha Properties (Odisha.txt)	2 BHK Builder Floor	Cuttack West	Cuttack / Odisha	Builder Floor / 2 BHK	800	₹36.62 L	Fully-Furnished	3	Family	Sale
+349	Odisha Properties (Odisha.txt)	4 BHK Apartment	Bhubaneswar Town Centre	Bhubaneswar / Odisha	Apartment / 4 BHK	1657	₹78.99 L	Semi-Furnished	4	Family	Sale
+350	Odisha Properties (Odisha.txt)	5 BHK Apartment	Cuttack North	Cuttack / Odisha	Apartment / 5 BHK	2636	₹30,600/month	Fully-Furnished	6	Family	Rent
+351	Odisha Properties (Odisha.txt)	3 BHK Apartment	Puri North	Puri / Odisha	Apartment / 3 BHK	1305	₹16,300/month	Unfurnished	4	Family	Rent
+352	Odisha Properties (Odisha.txt)	3 BHK Builder Floor	Puri North	Puri / Odisha	Builder Floor / 3 BHK	1281	₹59.33 L	Unfurnished	3	Family	Sale
+353	Odisha Properties (Odisha.txt)	4 BHK Apartment	Puri West	Puri / Odisha	Apartment / 4 BHK	1662	₹77.93 L	Semi-Furnished	4	Family	Sale
+354	Odisha Properties (Odisha.txt)	3 BHK Apartment	Bhubaneswar Colony	Bhubaneswar / Odisha	Apartment / 3 BHK	1491	₹56 L	Semi-Furnished	3	Family	Sale
+355	Odisha Properties (Odisha.txt)	3 BHK Builder Floor	Bhubaneswar North	Bhubaneswar / Odisha	Builder Floor / 3 BHK	1365	₹60.25 L	Semi-Furnished	3	Family	Sale
+356	Odisha Properties (Odisha.txt)	1 BHK Studio	Bhubaneswar South	Bhubaneswar / Odisha	Studio / 1 BHK	352	₹7,100/month	Semi-Furnished	2	Family	Rent
+357	Odisha Properties (Odisha.txt)	3 BHK Apartment	Cuttack Nagar	Cuttack / Odisha	Apartment / 3 BHK	1275	₹17,700/month	Semi-Furnished	3	Family	Rent
+358	Odisha Properties (Odisha.txt)	3 BHK Apartment	Bhubaneswar West	Bhubaneswar / Odisha	Apartment / 3 BHK	1086	₹54.98 L	Semi-Furnished	3	Family	Sale
+359	Odisha Properties (Odisha.txt)	3 BHK Villa	Cuttack North	Cuttack / Odisha	Villa / 3 BHK	1518	₹65.17 L	Semi-Furnished	3	Family	Sale
+360	Odisha Properties (Odisha.txt)	2 BHK Apartment	Rourkela Sector 3	Rourkela / Odisha	Apartment / 2 BHK	931	₹15,400/month	Unfurnished	2	Family	Rent
+361	Odisha Properties (Odisha.txt)	3 BHK Apartment	Rourkela Residential Area	Rourkela / Odisha	Apartment / 3 BHK	1472	₹67.29 L	Unfurnished	2	Bachelors	Sale
+362	Odisha Properties (Odisha.txt)	3 BHK Independent House	Puri West	Puri / Odisha	Independent House / 3 BHK	1776	₹65.70 L	Unfurnished	2	Bachelors	Sale
+363	Odisha Properties (Odisha.txt)	1 BHK Apartment	Bhubaneswar South	Bhubaneswar / Odisha	Apartment / 1 BHK	477	₹27.42 L	Unfurnished	1	Any	Sale
+364	Odisha Properties (Odisha.txt)	4 BHK Villa	Cuttack North	Cuttack / Odisha	Villa / 4 BHK	2277	₹28,000/month	Fully-Furnished	4	Any	Rent
+365	Odisha Properties (Odisha.txt)	5 BHK Apartment	Bhubaneswar Sector 3	Bhubaneswar / Odisha	Apartment / 5 BHK	2889	₹34,500/month	Unfurnished	5	Family	Rent
+366	Odisha Properties (Odisha.txt)	2 BHK Apartment	Rourkela Nagar	Rourkela / Odisha	Apartment / 2 BHK	809	₹41.51 L	Unfurnished	2	Bachelors	Sale
+367	Odisha Properties (Odisha.txt)	2 BHK Apartment	Puri South	Puri / Odisha	Apartment / 2 BHK	920	₹10,900/month	Fully-Furnished	2	Family	Rent
+368	Odisha Properties (Odisha.txt)	2 BHK Apartment	Puri Sector 2	Puri / Odisha	Apartment / 2 BHK	939	₹15,000/month	Fully-Furnished	3	Bachelors	Rent
+369	Odisha Properties (Odisha.txt)	3 BHK Apartment	Cuttack North	Cuttack / Odisha	Apartment / 3 BHK	1510	₹75.21 L	Semi-Furnished	3	Any	Sale
+370	Odisha Properties (Odisha.txt)	4 BHK Builder Floor	Puri South	Puri / Odisha	Builder Floor / 4 BHK	2084	₹1.01 Cr	Unfurnished	4	Family	Sale
+371	Odisha Properties (Odisha.txt)	1 BHK Builder Floor	Bhubaneswar North	Bhubaneswar / Odisha	Builder Floor / 1 BHK	557	₹10,000/month	Fully-Furnished	1	Family	Rent
+372	Odisha Properties (Odisha.txt)	2 BHK Independent House	Cuttack Sector 1	Cuttack / Odisha	Independent House / 2 BHK	1023	₹54.05 L	Unfurnished	3	Bachelors	Sale
+373	Odisha Properties (Odisha.txt)	3 BHK Apartment	Cuttack Nagar	Cuttack / Odisha	Apartment / 3 BHK	1016	₹52.76 L	Semi-Furnished	2	Any	Sale
+374	Odisha Properties (Odisha.txt)	4 BHK Independent House	Bhubaneswar Sector 1	Bhubaneswar / Odisha	Independent House / 4 BHK	2065	₹23,100/month	Semi-Furnished	4	Family	Rent
+375	Odisha Properties (Odisha.txt)	2 BHK Apartment	Rourkela Sector 1	Rourkela / Odisha	Apartment / 2 BHK	752	₹12,400/month	Unfurnished	3	Bachelors	Rent
+376	Odisha Properties (Odisha.txt)	1 BHK Studio	Puri East	Puri / Odisha	Studio / 1 BHK	300	₹26.09 L	Unfurnished	1	Family	Sale
+377	Odisha Properties (Odisha.txt)	3 BHK Builder Floor	Cuttack North	Cuttack / Odisha	Builder Floor / 3 BHK	1252	₹73.83 L	Unfurnished	3	Family	Sale
+378	Odisha Properties (Odisha.txt)	2 BHK Apartment	Puri Sector 2	Puri / Odisha	Apartment / 2 BHK	870	₹40.77 L	Fully-Furnished	3	Family	Sale
+379	Odisha Properties (Odisha.txt)	2 BHK Apartment	Bhubaneswar Town Centre	Bhubaneswar / Odisha	Apartment / 2 BHK	669	₹41.01 L	Fully-Furnished	2	Family	Sale
+380	Odisha Properties (Odisha.txt)	2 BHK Builder Floor	Puri West	Puri / Odisha	Builder Floor / 2 BHK	914	₹41.67 L	Fully-Furnished	1	Family	Sale
+381	Odisha Properties (Odisha.txt)	5 BHK Apartment	Bhubaneswar North	Bhubaneswar / Odisha	Apartment / 5 BHK	2353	₹1.08 Cr	Fully-Furnished	5	Family	Sale
+382	Odisha Properties (Odisha.txt)	1 BHK Builder Floor	Bhubaneswar Residential Area	Bhubaneswar / Odisha	Builder Floor / 1 BHK	579	₹9,000/month	Unfurnished	1	Bachelors	Rent
+383	Odisha Properties (Odisha.txt)	3 BHK Apartment	Puri Residential Area	Puri / Odisha	Apartment / 3 BHK	1138	₹55.20 L	Fully-Furnished	3	Family	Sale
+384	Odisha Properties (Odisha.txt)	4 BHK Apartment	Rourkela Central	Rourkela / Odisha	Apartment / 4 BHK	1775	₹19,900/month	Semi-Furnished	3	Family	Rent
+385	Odisha Properties (Odisha.txt)	2 BHK Apartment	Cuttack Sector 1	Cuttack / Odisha	Apartment / 2 BHK	670	₹37.27 L	Semi-Furnished	2	Family	Sale
+386	Odisha Properties (Odisha.txt)	2 BHK Apartment	Rourkela Sector 1	Rourkela / Odisha	Apartment / 2 BHK	802	₹12,300/month	Semi-Furnished	2	Bachelors	Rent
+387	Odisha Properties (Odisha.txt)	2 BHK Villa	Cuttack Colony	Cuttack / Odisha	Villa / 2 BHK	1419	₹60.41 L	Fully-Furnished	3	Any	Sale
+388	Odisha Properties (Odisha.txt)	1 BHK Apartment	Puri Nagar	Puri / Odisha	Apartment / 1 BHK	531	₹27.89 L	Unfurnished	1	Family	Sale
+389	Odisha Properties (Odisha.txt)	3 BHK Apartment	Puri Heights	Puri / Odisha	Apartment / 3 BHK	1224	₹20,200/month	Semi-Furnished	3	Any	Rent
+390	Odisha Properties (Odisha.txt)	2 BHK Apartment	Puri Main Road	Puri / Odisha	Apartment / 2 BHK	898	₹40.89 L	Unfurnished	2	Bachelors	Sale
+391	Odisha Properties (Odisha.txt)	4 BHK Apartment	Rourkela West	Rourkela / Odisha	Apartment / 4 BHK	1259	₹69.17 L	Semi-Furnished	4	Any	Sale
+392	Odisha Properties (Odisha.txt)	1 BHK Studio	Puri Sector 2	Puri / Odisha	Studio / 1 BHK	352	₹6,700/month	Semi-Furnished	1	Any	Rent
+393	Odisha Properties (Odisha.txt)	3 BHK Independent House	Puri Extension	Puri / Odisha	Independent House / 3 BHK	1122	₹17,000/month	Fully-Furnished	4	Any	Rent
+394	Odisha Properties (Odisha.txt)	2 BHK Apartment	Puri North	Puri / Odisha	Apartment / 2 BHK	862	₹52.81 L	Semi-Furnished	2	Bachelors	Sale
+395	Odisha Properties (Odisha.txt)	1 BHK Apartment	Rourkela Heights	Rourkela / Odisha	Apartment / 1 BHK	590	₹35.61 L	Unfurnished	1	Bachelors	Sale
+396	Odisha Properties (Odisha.txt)	2 BHK Apartment	Bhubaneswar Town Centre	Bhubaneswar / Odisha	Apartment / 2 BHK	748	₹46.86 L	Unfurnished	2	Family	Sale
+397	Odisha Properties (Odisha.txt)	2 BHK Independent House	Rourkela Sector 1	Rourkela / Odisha	Independent House / 2 BHK	1147	₹14,800/month	Semi-Furnished	1	Bachelors	Rent
+398	Odisha Properties (Odisha.txt)	2 BHK Builder Floor	Bhubaneswar Main Road	Bhubaneswar / Odisha	Builder Floor / 2 BHK	1008	₹41.81 L	Fully-Furnished	2	Family	Sale
+399	Odisha Properties (Odisha.txt)	2 BHK Apartment	Bhubaneswar Sector 3	Bhubaneswar / Odisha	Apartment / 2 BHK	829	₹37.76 L	Fully-Furnished	2	Family	Sale
+400	Odisha Properties (Odisha.txt)	4 BHK Apartment	Rourkela North	Rourkela / Odisha	Apartment / 4 BHK	1493	₹68.99 L	Semi-Furnished	5	Family	Sale
+401	Odisha Properties (Odisha.txt)	3 BHK Apartment	Puri Residential Area	Puri / Odisha	Apartment / 3 BHK	1212	₹18,100/month	Semi-Furnished	4	Family	Rent
+402	Odisha Properties (Odisha.txt)	3 BHK Apartment	Bhubaneswar Town Centre	Bhubaneswar / Odisha	Apartment / 3 BHK	894	₹60.07 L	Semi-Furnished	3	Any	Sale
+403	Odisha Properties (Odisha.txt)	2 BHK Apartment	Rourkela Sector 1	Rourkela / Odisha	Apartment / 2 BHK	846	₹38.69 L	Unfurnished	1	Bachelors	Sale
+404	Odisha Properties (Odisha.txt)	2 BHK Apartment	Puri West	Puri / Odisha	Apartment / 2 BHK	756	₹51.79 L	Semi-Furnished	2	Family	Sale
+405	Odisha Properties (Odisha.txt)	2 BHK Apartment	Cuttack Heights	Cuttack / Odisha	Apartment / 2 BHK	785	₹41.24 L	Fully-Furnished	1	Family	Sale
+406	Odisha Properties (Odisha.txt)	1 BHK Builder Floor	Rourkela Nagar	Rourkela / Odisha	Builder Floor / 1 BHK	450	₹9,300/month	Semi-Furnished	1	Family	Rent
+407	Odisha Properties (Odisha.txt)	2 BHK Apartment	Puri East	Puri / Odisha	Apartment / 2 BHK	950	₹47.67 L	Semi-Furnished	2	Any	Sale
+408	Odisha Properties (Odisha.txt)	1 BHK Apartment	Rourkela Residential Area	Rourkela / Odisha	Apartment / 1 BHK	521	₹31.41 L	Semi-Furnished	1	Bachelors	Sale
+409	Odisha Properties (Odisha.txt)	4 BHK Apartment	Cuttack South	Cuttack / Odisha	Apartment / 4 BHK	2237	₹19,700/month	Semi-Furnished	3	Bachelors	Rent
+410	Odisha Properties (Odisha.txt)	2 BHK Independent House	Bhubaneswar Main Road	Bhubaneswar / Odisha	Independent House / 2 BHK	822	₹49.72 L	Unfurnished	3	Family	Sale
+411	Odisha Properties (Odisha.txt)	1 BHK Builder Floor	Bhubaneswar Central	Bhubaneswar / Odisha	Builder Floor / 1 BHK	457	₹33.98 L	Fully-Furnished	1	Family	Sale
+412	Odisha Properties (Odisha.txt)	3 BHK Villa	Puri Residential Area	Puri / Odisha	Villa / 3 BHK	2081	₹71.18 L	Fully-Furnished	4	Any	Sale
+413	Odisha Properties (Odisha.txt)	4 BHK Apartment	Puri Nagar	Puri / Odisha	Apartment / 4 BHK	1507	₹24,600/month	Fully-Furnished	5	Bachelors	Rent
+414	Odisha Properties (Odisha.txt)	3 BHK Villa	Rourkela Main Road	Rourkela / Odisha	Villa / 3 BHK	1797	₹60.24 L	Unfurnished	3	Family	Sale
+415	Odisha Properties (Odisha.txt)	4 BHK Apartment	Puri Heights	Puri / Odisha	Apartment / 4 BHK	1649	₹76.36 L	Semi-Furnished	5	Family	Sale
+416	Odisha Properties (Odisha.txt)	1 BHK Builder Floor	Cuttack South	Cuttack / Odisha	Builder Floor / 1 BHK	407	₹6,400/month	Fully-Furnished	1	Any	Rent
+417	Odisha Properties (Odisha.txt)	4 BHK Apartment	Rourkela Central	Rourkela / Odisha	Apartment / 4 BHK	1848	₹77.52 L	Semi-Furnished	4	Family	Sale
+418	Odisha Properties (Odisha.txt)	2 BHK Apartment	Rourkela Town Centre	Rourkela / Odisha	Apartment / 2 BHK	745	₹51.98 L	Fully-Furnished	2	Family	Sale
+419	Odisha Properties (Odisha.txt)	2 BHK Apartment	Cuttack South	Cuttack / Odisha	Apartment / 2 BHK	830	₹36.79 L	Fully-Furnished	3	Family	Sale
+420	Odisha Properties (Odisha.txt)	2 BHK Apartment	Cuttack Nagar	Cuttack / Odisha	Apartment / 2 BHK	862	₹48.85 L	Semi-Furnished	2	Any	Sale
+421	Odisha Properties (Odisha.txt)	2 BHK Apartment	Puri Central	Puri / Odisha	Apartment / 2 BHK	1085	₹55.22 L	Semi-Furnished	2	Family	Sale
+422	Odisha Properties (Odisha.txt)	3 BHK Apartment	Puri Sector 1	Puri / Odisha	Apartment / 3 BHK	1124	₹18,000/month	Semi-Furnished	3	Family	Rent
+423	Odisha Properties (Odisha.txt)	4 BHK Apartment	Puri South	Puri / Odisha	Apartment / 4 BHK	1554	₹68.71 L	Semi-Furnished	4	Family	Sale
+424	Odisha Properties (Odisha.txt)	4 BHK Apartment	Puri Town Centre	Puri / Odisha	Apartment / 4 BHK	1666	₹68.75 L	Fully-Furnished	4	Any	Sale
+425	Odisha Properties (Odisha.txt)	3 BHK Apartment	Cuttack Residential Area	Cuttack / Odisha	Apartment / 3 BHK	1246	₹61.92 L	Semi-Furnished	3	Any	Sale
+426	Odisha Properties (Odisha.txt)	2 BHK Apartment	Cuttack East	Cuttack / Odisha	Apartment / 2 BHK	770	₹43.63 L	Semi-Furnished	1	Bachelors	Sale
+427	Odisha Properties (Odisha.txt)	4 BHK Apartment	Cuttack Nagar	Cuttack / Odisha	Apartment / 4 BHK	1592	₹17,900/month	Semi-Furnished	4	Bachelors	Rent
+428	Odisha Properties (Odisha.txt)	1 BHK Studio	Cuttack East	Cuttack / Odisha	Studio / 1 BHK	350	₹23.59 L	Semi-Furnished	1	Family	Sale
+429	Odisha Properties (Odisha.txt)	2 BHK Independent House	Bhubaneswar Heights	Bhubaneswar / Odisha	Independent House / 2 BHK	1294	₹42.69 L	Semi-Furnished	3	Family	Sale
+430	Odisha Properties (Odisha.txt)	2 BHK Apartment	Puri South	Puri / Odisha	Apartment / 2 BHK	890	₹51.42 L	Semi-Furnished	3	Any	Sale
+431	Odisha Properties (Odisha.txt)	3 BHK Independent House	Bhubaneswar Colony	Bhubaneswar / Odisha	Independent House / 3 BHK	1493	₹54.87 L	Unfurnished	3	Any	Sale
+432	Odisha Properties (Odisha.txt)	2 BHK Villa	Rourkela Sector 1	Rourkela / Odisha	Villa / 2 BHK	1013	₹14,400/month	Semi-Furnished	1	Family	Rent
+433	Odisha Properties (Odisha.txt)	2 BHK Independent House	Rourkela South	Rourkela / Odisha	Independent House / 2 BHK	756	₹49.70 L	Unfurnished	2	Any	Sale
+434	Odisha Properties (Odisha.txt)	4 BHK Apartment	Cuttack Nagar	Cuttack / Odisha	Apartment / 4 BHK	1702	₹23,400/month	Fully-Furnished	4	Family	Rent
+435	Odisha Properties (Odisha.txt)	3 BHK Apartment	Bhubaneswar Sector 1	Bhubaneswar / Odisha	Apartment / 3 BHK	1096	₹53.26 L	Fully-Furnished	3	Any	Sale
+436	Odisha Properties (Odisha.txt)	3 BHK Apartment	Cuttack North	Cuttack / Odisha	Apartment / 3 BHK	1370	₹60.55 L	Semi-Furnished	2	Bachelors	Sale
+437	Odisha Properties (Odisha.txt)	2 BHK Independent House	Cuttack West	Cuttack / Odisha	Independent House / 2 BHK	923	₹11,900/month	Fully-Furnished	1	Bachelors	Rent
+438	Odisha Properties (Odisha.txt)	3 BHK Independent House	Rourkela Town Centre	Rourkela / Odisha	Independent House / 3 BHK	1609	₹72.78 L	Fully-Furnished	3	Bachelors	Sale
+439	Odisha Properties (Odisha.txt)	3 BHK Apartment	Cuttack Heights	Cuttack / Odisha	Apartment / 3 BHK	1270	₹15,900/month	Semi-Furnished	3	Bachelors	Rent
+440	Odisha Properties (Odisha.txt)	2 BHK Apartment	Puri East	Puri / Odisha	Apartment / 2 BHK	722	₹49.75 L	Semi-Furnished	1	Bachelors	Sale
+441	Odisha Properties (Odisha.txt)	5 BHK Apartment	Rourkela Town Centre	Rourkela / Odisha	Apartment / 5 BHK	2231	₹85.99 L	Semi-Furnished	5	Any	Sale
+442	Odisha Properties (Odisha.txt)	1 BHK Apartment	Bhubaneswar Sector 2	Bhubaneswar / Odisha	Apartment / 1 BHK	433	₹9,500/month	Semi-Furnished	1	Family	Rent
+443	Odisha Properties (Odisha.txt)	2 BHK Builder Floor	Cuttack North	Cuttack / Odisha	Builder Floor / 2 BHK	886	₹12,300/month	Unfurnished	3	Bachelors	Rent
+444	Odisha Properties (Odisha.txt)	2 BHK Independent House	Puri South	Puri / Odisha	Independent House / 2 BHK	889	₹47.76 L	Semi-Furnished	2	Family	Sale
+445	Odisha Properties (Odisha.txt)	3 BHK Apartment	Puri Extension	Puri / Odisha	Apartment / 3 BHK	1317	₹67.91 L	Unfurnished	3	Family	Sale
+446	Odisha Properties (Odisha.txt)	3 BHK Apartment	Rourkela East	Rourkela / Odisha	Apartment / 3 BHK	1188	₹68.50 L	Unfurnished	3	Family	Sale
+447	Odisha Properties (Odisha.txt)	2 BHK Apartment	Cuttack East	Cuttack / Odisha	Apartment / 2 BHK	772	₹47.10 L	Unfurnished	3	Bachelors	Sale
+448	Odisha Properties (Odisha.txt)	3 BHK Independent House	Cuttack Extension	Cuttack / Odisha	Independent House / 3 BHK	1468	₹53.16 L	Semi-Furnished	3	Any	Sale
+449	Odisha Properties (Odisha.txt)	4 BHK Builder Floor	Puri Sector 2	Puri / Odisha	Builder Floor / 4 BHK	1848	₹86.76 L	Semi-Furnished	3	Family	Sale
+450	Odisha Properties (Odisha.txt)	2 BHK Apartment	Rourkela Central	Rourkela / Odisha	Apartment / 2 BHK	742	₹13,800/month	Fully-Furnished	2	Bachelors	Rent
+451	Odisha Properties (Odisha.txt)	3 BHK Apartment	Rourkela Extension	Rourkela / Odisha	Apartment / 3 BHK	1549	₹19,400/month	Semi-Furnished	3	Bachelors	Rent
+452	Odisha Properties (Odisha.txt)	3 BHK Builder Floor	Rourkela Main Road	Rourkela / Odisha	Builder Floor / 3 BHK	1096	₹54.84 L	Unfurnished	3	Family	Sale
+453	Odisha Properties (Odisha.txt)	1 BHK Apartment	Cuttack Extension	Cuttack / Odisha	Apartment / 1 BHK	594	₹7,700/month	Unfurnished	1	Family	Rent
+454	Odisha Properties (Odisha.txt)	3 BHK Villa	Cuttack Residential Area	Cuttack / Odisha	Villa / 3 BHK	1662	₹55.74 L	Semi-Furnished	4	Bachelors	Sale
+455	Odisha Properties (Odisha.txt)	2 BHK Apartment	Bhubaneswar North	Bhubaneswar / Odisha	Apartment / 2 BHK	796	₹50.64 L	Fully-Furnished	2	Family	Sale
+456	Odisha Properties (Odisha.txt)	2 BHK Apartment	Puri Extension	Puri / Odisha	Apartment / 2 BHK	778	₹42.53 L	Unfurnished	2	Family	Sale
+457	Odisha Properties (Odisha.txt)	5 BHK Apartment	Cuttack Town Centre	Cuttack / Odisha	Apartment / 5 BHK	2822	₹1.15 Cr	Semi-Furnished	5	Bachelors	Sale
+458	Odisha Properties (Odisha.txt)	4 BHK Apartment	Cuttack Extension	Cuttack / Odisha	Apartment / 4 BHK	1565	₹65.86 L	Semi-Furnished	3	Family	Sale
+459	Odisha Properties (Odisha.txt)	3 BHK Apartment	Puri South	Puri / Odisha	Apartment / 3 BHK	1223	₹19,700/month	Semi-Furnished	2	Bachelors	Rent
+460	Odisha Properties (Odisha.txt)	3 BHK Apartment	Puri Heights	Puri / Odisha	Apartment / 3 BHK	1326	₹68.41 L	Semi-Furnished	3	Bachelors	Sale
+461	Odisha Properties (Odisha.txt)	2 BHK Apartment	Bhubaneswar Sector 2	Bhubaneswar / Odisha	Apartment / 2 BHK	913	₹49.53 L	Unfurnished	2	Family	Sale
+462	Odisha Properties (Odisha.txt)	2 BHK Independent House	Rourkela Sector 2	Rourkela / Odisha	Independent House / 2 BHK	874	₹14,600/month	Semi-Furnished	2	Bachelors	Rent
+463	Odisha Properties (Odisha.txt)	1 BHK Apartment	Cuttack South	Cuttack / Odisha	Apartment / 1 BHK	493	₹28.54 L	Semi-Furnished	1	Family	Sale
+464	Odisha Properties (Odisha.txt)	4 BHK Villa	Cuttack Sector 3	Cuttack / Odisha	Villa / 4 BHK	2846	₹92.52 L	Unfurnished	4	Bachelors	Sale
+465	Odisha Properties (Odisha.txt)	2 BHK Apartment	Bhubaneswar Main Road	Bhubaneswar / Odisha	Apartment / 2 BHK	929	₹49.65 L	Semi-Furnished	2	Bachelors	Sale
+466	Odisha Properties (Odisha.txt)	4 BHK Apartment	Cuttack Nagar	Cuttack / Odisha	Apartment / 4 BHK	1389	₹19,300/month	Semi-Furnished	4	Family	Rent
+467	Odisha Properties (Odisha.txt)	1 BHK Apartment	Bhubaneswar Town Centre	Bhubaneswar / Odisha	Apartment / 1 BHK	529	₹6,900/month	Semi-Furnished	2	Any	Rent
+468	Odisha Properties (Odisha.txt)	2 BHK Apartment	Rourkela Residential Area	Rourkela / Odisha	Apartment / 2 BHK	925	₹14,300/month	Unfurnished	2	Bachelors	Rent
+469	Odisha Properties (Odisha.txt)	4 BHK Independent House	Bhubaneswar Colony	Bhubaneswar / Odisha	Independent House / 4 BHK	2036	₹91.52 L	Semi-Furnished	4	Bachelors	Sale
+470	Odisha Properties (Odisha.txt)	1 BHK Studio	Bhubaneswar Town Centre	Bhubaneswar / Odisha	Studio / 1 BHK	382	₹7,400/month	Unfurnished	1	Family	Rent
+471	Odisha Properties (Odisha.txt)	3 BHK Apartment	Puri Town Centre	Puri / Odisha	Apartment / 3 BHK	1437	₹68.99 L	Fully-Furnished	2	Bachelors	Sale
+472	Odisha Properties (Odisha.txt)	1 BHK Apartment	Puri Colony	Puri / Odisha	Apartment / 1 BHK	617	₹7,400/month	Semi-Furnished	1	Bachelors	Rent
+473	Odisha Properties (Odisha.txt)	1 BHK Apartment	Cuttack Nagar	Cuttack / Odisha	Apartment / 1 BHK	548	₹8,700/month	Semi-Furnished	1	Bachelors	Rent
+474	Odisha Properties (Odisha.txt)	3 BHK Builder Floor	Puri East	Puri / Odisha	Builder Floor / 3 BHK	1200	₹70.58 L	Fully-Furnished	3	Family	Sale
+475	Odisha Properties (Odisha.txt)	3 BHK Apartment	Rourkela Sector 1	Rourkela / Odisha	Apartment / 3 BHK	1334	₹69.76 L	Fully-Furnished	2	Any	Sale
+476	Odisha Properties (Odisha.txt)	3 BHK Apartment	Bhubaneswar Colony	Bhubaneswar / Odisha	Apartment / 3 BHK	1280	₹64.39 L	Semi-Furnished	3	Any	Sale
+477	Odisha Properties (Odisha.txt)	2 BHK Apartment	Cuttack West	Cuttack / Odisha	Apartment / 2 BHK	754	₹39.62 L	Semi-Furnished	3	Any	Sale
+478	Odisha Properties (Odisha.txt)	3 BHK Apartment	Puri Sector 1	Puri / Odisha	Apartment / 3 BHK	1441	₹19,100/month	Semi-Furnished	3	Family	Rent
+479	Odisha Properties (Odisha.txt)	1 BHK Independent House	Cuttack Sector 1	Cuttack / Odisha	Independent House / 1 BHK	703	₹31.19 L	Fully-Furnished	1	Family	Sale
+480	Odisha Properties (Odisha.txt)	1 BHK Villa	Puri Main Road	Puri / Odisha	Villa / 1 BHK	679	₹10,400/month	Semi-Furnished	2	Any	Rent
+481	Odisha Properties (Odisha.txt)	2 BHK Villa	Rourkela Residential Area	Rourkela / Odisha	Villa / 2 BHK	1078	₹48.92 L	Fully-Furnished	3	Family	Sale
+482	Odisha Properties (Odisha.txt)	1 BHK Apartment	Rourkela Central	Rourkela / Odisha	Apartment / 1 BHK	448	₹30.41 L	Semi-Furnished	1	Bachelors	Sale
+483	Odisha Properties (Odisha.txt)	1 BHK Studio	Cuttack Town Centre	Cuttack / Odisha	Studio / 1 BHK	310	₹7,700/month	Semi-Furnished	2	Any	Rent
+484	Odisha Properties (Odisha.txt)	2 BHK Builder Floor	Cuttack Town Centre	Cuttack / Odisha	Builder Floor / 2 BHK	813	₹12,700/month	Fully-Furnished	2	Family	Rent
+485	Odisha Properties (Odisha.txt)	2 BHK Apartment	Bhubaneswar Main Road	Bhubaneswar / Odisha	Apartment / 2 BHK	1067	₹51.84 L	Fully-Furnished	2	Family	Sale
+486	Odisha Properties (Odisha.txt)	1 BHK Apartment	Puri Sector 2	Puri / Odisha	Apartment / 1 BHK	420	₹8,600/month	Fully-Furnished	1	Bachelors	Rent
+487	Odisha Properties (Odisha.txt)	1 BHK Builder Floor	Cuttack Town Centre	Cuttack / Odisha	Builder Floor / 1 BHK	502	₹26.60 L	Unfurnished	1	Any	Sale
+488	Odisha Properties (Odisha.txt)	1 BHK Independent House	Rourkela Colony	Rourkela / Odisha	Independent House / 1 BHK	627	₹29.70 L	Fully-Furnished	1	Bachelors	Sale
+489	Odisha Properties (Odisha.txt)	3 BHK Villa	Rourkela South	Rourkela / Odisha	Villa / 3 BHK	1885	₹68.35 L	Semi-Furnished	4	Family	Sale
+490	Odisha Properties (Odisha.txt)	3 BHK Villa	Rourkela Main Road	Rourkela / Odisha	Villa / 3 BHK	1914	₹21,900/month	Unfurnished	4	Bachelors	Rent
+491	Odisha Properties (Odisha.txt)	2 BHK Builder Floor	Rourkela Extension	Rourkela / Odisha	Builder Floor / 2 BHK	733	₹12,700/month	Unfurnished	2	Family	Rent
+492	Odisha Properties (Odisha.txt)	3 BHK Apartment	Rourkela Sector 1	Rourkela / Odisha	Apartment / 3 BHK	1258	₹57.17 L	Semi-Furnished	2	Bachelors	Sale
+493	Odisha Properties (Odisha.txt)	1 BHK Studio	Rourkela Heights	Rourkela / Odisha	Studio / 1 BHK	473	₹29.54 L	Semi-Furnished	1	Family	Sale
+494	Odisha Properties (Odisha.txt)	5 BHK Builder Floor	Bhubaneswar Sector 1	Bhubaneswar / Odisha	Builder Floor / 5 BHK	2704	₹91.05 L	Fully-Furnished	4	Any	Sale
+495	Odisha Properties (Odisha.txt)	4 BHK Apartment	Bhubaneswar South	Bhubaneswar / Odisha	Apartment / 4 BHK	2071	₹24,600/month	Fully-Furnished	5	Family	Rent
+496	Odisha Properties (Odisha.txt)	3 BHK Builder Floor	Cuttack Sector 1	Cuttack / Odisha	Builder Floor / 3 BHK	1185	₹13,700/month	Semi-Furnished	3	Any	Rent
+497	Odisha Properties (Odisha.txt)	2 BHK Apartment	Rourkela Heights	Rourkela / Odisha	Apartment / 2 BHK	692	₹37.86 L	Semi-Furnished	2	Family	Sale
+498	Odisha Properties (Odisha.txt)	3 BHK Apartment	Cuttack Sector 2	Cuttack / Odisha	Apartment / 3 BHK	1138	₹59.55 L	Fully-Furnished	3	Family	Sale
+499	Odisha Properties (Odisha.txt)	4 BHK Apartment	Rourkela Town Centre	Rourkela / Odisha	Apartment / 4 BHK	1522	₹65.86 L	Fully-Furnished	4	Bachelors	Sale
+500	Odisha Properties (Odisha.txt)	5 BHK Independent House	Rourkela Sector 2	Rourkela / Odisha	Independent House / 5 BHK	2255	₹1.06 Cr	Unfurnished	5	Any	Sale
+501	Odisha Properties (Odisha.txt)	3 BHK Independent House	Cuttack West	Cuttack / Odisha	Independent House / 3 BHK	1499	₹57 L	Fully-Furnished	2	Family	Sale
+502	Odisha Properties (Odisha.txt)	2 BHK Apartment	Puri Residential Area	Puri / Odisha	Apartment / 2 BHK	1157	₹45.64 L	Unfurnished	2	Bachelors	Sale
+503	Odisha Properties (Odisha.txt)	1 BHK Studio	Cuttack Colony	Cuttack / Odisha	Studio / 1 BHK	307	₹8,200/month	Fully-Furnished	1	Bachelors	Rent
+504	Odisha Properties (Odisha.txt)	3 BHK Villa	Cuttack Sector 2	Cuttack / Odisha	Villa / 3 BHK	1805	₹20,900/month	Fully-Furnished	3	Bachelors	Rent
+505	Odisha Properties (Odisha.txt)	2 BHK Independent House	Cuttack Colony	Cuttack / Odisha	Independent House / 2 BHK	1133	₹56.08 L	Unfurnished	2	Family	Sale
+506	Odisha Properties (Odisha.txt)	2 BHK Independent House	Cuttack Sector 2	Cuttack / Odisha	Independent House / 2 BHK	1000	₹44.14 L	Unfurnished	2	Family	Sale
+507	Odisha Properties (Odisha.txt)	2 BHK Apartment	Bhubaneswar North	Bhubaneswar / Odisha	Apartment / 2 BHK	796	₹54.01 L	Fully-Furnished	2	Bachelors	Sale
+508	Odisha Properties (Odisha.txt)	3 BHK Apartment	Puri Nagar	Puri / Odisha	Apartment / 3 BHK	1106	₹50.12 L	Semi-Furnished	2	Family	Sale
+509	Odisha Properties (Odisha.txt)	3 BHK Independent House	Rourkela North	Rourkela / Odisha	Independent House / 3 BHK	1789	₹16,500/month	Fully-Furnished	3	Any	Rent
+510	Odisha Properties (Odisha.txt)	3 BHK Villa	Rourkela Colony	Rourkela / Odisha	Villa / 3 BHK	1493	₹59.04 L	Semi-Furnished	4	Bachelors	Sale
+511	Odisha Properties (Odisha.txt)	2 BHK Builder Floor	Bhubaneswar Sector 3	Bhubaneswar / Odisha	Builder Floor / 2 BHK	860	₹46.76 L	Semi-Furnished	2	Any	Sale
+512	Odisha Properties (Odisha.txt)	5 BHK Independent House	Bhubaneswar Heights	Bhubaneswar / Odisha	Independent House / 5 BHK	3167	₹33,800/month	Unfurnished	5	Bachelors	Rent
+513	Odisha Properties (Odisha.txt)	4 BHK Villa	Rourkela Colony	Rourkela / Odisha	Villa / 4 BHK	2308	₹1.05 Cr	Fully-Furnished	4	Family	Sale
+514	Odisha Properties (Odisha.txt)	3 BHK Independent House	Bhubaneswar Town Centre	Bhubaneswar / Odisha	Independent House / 3 BHK	1862	₹16,000/month	Unfurnished	3	Family	Rent
+515	Odisha Properties (Odisha.txt)	1 BHK Apartment	Bhubaneswar North	Bhubaneswar / Odisha	Apartment / 1 BHK	407	₹8,800/month	Semi-Furnished	1	Bachelors	Rent
+516	Odisha Properties (Odisha.txt)	3 BHK Apartment	Cuttack East	Cuttack / Odisha	Apartment / 3 BHK	1294	₹73.85 L	Semi-Furnished	3	Bachelors	Sale
+517	Odisha Properties (Odisha.txt)	3 BHK Apartment	Rourkela Nagar	Rourkela / Odisha	Apartment / 3 BHK	1118	₹19,200/month	Semi-Furnished	4	Family	Rent
+518	Odisha Properties (Odisha.txt)	4 BHK Independent House	Cuttack Nagar	Cuttack / Odisha	Independent House / 4 BHK	2724	₹1.05 Cr	Semi-Furnished	3	Any	Sale
+519	Odisha Properties (Odisha.txt)	3 BHK Apartment	Bhubaneswar Main Road	Bhubaneswar / Odisha	Apartment / 3 BHK	1680	₹18,500/month	Semi-Furnished	3	Bachelors	Rent
+520	Odisha Properties (Odisha.txt)	1 BHK Apartment	Rourkela Heights	Rourkela / Odisha	Apartment / 1 BHK	467	₹25.91 L	Unfurnished	1	Family	Sale
+521	Odisha Properties (Odisha.txt)	1 BHK Builder Floor	Cuttack Main Road	Cuttack / Odisha	Builder Floor / 1 BHK	516	₹7,500/month	Semi-Furnished	1	Family	Rent
+522	Odisha Properties (Odisha.txt)	3 BHK Builder Floor	Bhubaneswar Extension	Bhubaneswar / Odisha	Builder Floor / 3 BHK	1257	₹14,500/month	Fully-Furnished	3	Family	Rent
+523	Odisha Properties (Odisha.txt)	2 BHK Apartment	Puri Heights	Puri / Odisha	Apartment / 2 BHK	641	₹13,100/month	Semi-Furnished	2	Bachelors	Rent
+524	Odisha Properties (Odisha.txt)	2 BHK Apartment	Rourkela West	Rourkela / Odisha	Apartment / 2 BHK	777	₹42.27 L	Semi-Furnished	1	Family	Sale
+525	Odisha Properties (Odisha.txt)	3 BHK Villa	Bhubaneswar Sector 1	Bhubaneswar / Odisha	Villa / 3 BHK	1524	₹58.60 L	Semi-Furnished	3	Any	Sale
+526	Odisha Properties (Odisha.txt)	3 BHK Apartment	Bhubaneswar Sector 2	Bhubaneswar / Odisha	Apartment / 3 BHK	1247	₹70.13 L	Unfurnished	3	Family	Sale
+527	Odisha Properties (Odisha.txt)	3 BHK Builder Floor	Puri Nagar	Puri / Odisha	Builder Floor / 3 BHK	1514	₹63.23 L	Semi-Furnished	3	Family	Sale
+528	Odisha Properties (Odisha.txt)	3 BHK Builder Floor	Bhubaneswar West	Bhubaneswar / Odisha	Builder Floor / 3 BHK	1466	₹19,900/month	Unfurnished	3	Any	Rent
+529	Odisha Properties (Odisha.txt)	2 BHK Independent House	Rourkela Colony	Rourkela / Odisha	Independent House / 2 BHK	720	₹48.80 L	Unfurnished	2	Bachelors	Sale
+530	Odisha Properties (Odisha.txt)	3 BHK Apartment	Rourkela Town Centre	Rourkela / Odisha	Apartment / 3 BHK	1368	₹54.48 L	Semi-Furnished	3	Family	Sale
+531	Odisha Properties (Odisha.txt)	1 BHK Independent House	Rourkela Central	Rourkela / Odisha	Independent House / 1 BHK	492	₹7,600/month	Unfurnished	1	Family	Rent
+532	Odisha Properties (Odisha.txt)	2 BHK Builder Floor	Rourkela Central	Rourkela / Odisha	Builder Floor / 2 BHK	787	₹42.88 L	Fully-Furnished	1	Family	Sale
+533	Odisha Properties (Odisha.txt)	1 BHK Apartment	Puri Residential Area	Puri / Odisha	Apartment / 1 BHK	553	₹9,500/month	Fully-Furnished	2	Bachelors	Rent
+534	Odisha Properties (Odisha.txt)	2 BHK Apartment	Bhubaneswar Sector 3	Bhubaneswar / Odisha	Apartment / 2 BHK	916	₹13,200/month	Unfurnished	3	Family	Rent
+535	Odisha Properties (Odisha.txt)	3 BHK Apartment	Rourkela Sector 1	Rourkela / Odisha	Apartment / 3 BHK	1204	₹50.83 L	Unfurnished	4	Any	Sale
+536	Odisha Properties (Odisha.txt)	2 BHK Builder Floor	Cuttack North	Cuttack / Odisha	Builder Floor / 2 BHK	807	₹37.27 L	Unfurnished	2	Family	Sale
+537	Odisha Properties (Odisha.txt)	3 BHK Apartment	Bhubaneswar South	Bhubaneswar / Odisha	Apartment / 3 BHK	1238	₹58.32 L	Unfurnished	3	Any	Sale
+538	Odisha Properties (Odisha.txt)	1 BHK Studio	Rourkela North	Rourkela / Odisha	Studio / 1 BHK	415	₹32.34 L	Unfurnished	1	Family	Sale
+539	Odisha Properties (Odisha.txt)	3 BHK Apartment	Bhubaneswar North	Bhubaneswar / Odisha	Apartment / 3 BHK	1233	₹18,100/month	Fully-Furnished	3	Any	Rent
+540	Odisha Properties (Odisha.txt)	3 BHK Villa	Rourkela North	Rourkela / Odisha	Villa / 3 BHK	1712	₹17,200/month	Fully-Furnished	3	Family	Rent
+541	Odisha Properties (Odisha.txt)	2 BHK Apartment	Cuttack Heights	Cuttack / Odisha	Apartment / 2 BHK	778	₹38.99 L	Semi-Furnished	3	Family	Sale
+542	Odisha Properties (Odisha.txt)	3 BHK Apartment	Cuttack West	Cuttack / Odisha	Apartment / 3 BHK	1356	₹20,300/month	Fully-Furnished	4	Family	Rent
+543	Odisha Properties (Odisha.txt)	1 BHK Apartment	Bhubaneswar Nagar	Bhubaneswar / Odisha	Apartment / 1 BHK	575	₹28.16 L	Fully-Furnished	2	Family	Sale
+544	Odisha Properties (Odisha.txt)	2 BHK Apartment	Puri North	Puri / Odisha	Apartment / 2 BHK	782	₹36.64 L	Fully-Furnished	3	Family	Sale
+545	Odisha Properties (Odisha.txt)	3 BHK Independent House	Puri Sector 3	Puri / Odisha	Independent House / 3 BHK	1610	₹78.44 L	Semi-Furnished	3	Family	Sale
+546	Odisha Properties (Odisha.txt)	2 BHK Apartment	Puri Residential Area	Puri / Odisha	Apartment / 2 BHK	776	₹14,000/month	Fully-Furnished	1	Bachelors	Rent
+547	Odisha Properties (Odisha.txt)	3 BHK Apartment	Puri North	Puri / Odisha	Apartment / 3 BHK	1220	₹73.57 L	Semi-Furnished	2	Any	Sale
+548	Odisha Properties (Odisha.txt)	3 BHK Independent House	Rourkela Colony	Rourkela / Odisha	Independent House / 3 BHK	1736	₹58.35 L	Semi-Furnished	3	Any	Sale
+549	Odisha Properties (Odisha.txt)	1 BHK Apartment	Cuttack Main Road	Cuttack / Odisha	Apartment / 1 BHK	564	₹24.25 L	Fully-Furnished	1	Any	Sale
+550	Odisha Properties (Odisha.txt)	3 BHK Apartment	Cuttack Colony	Cuttack / Odisha	Apartment / 3 BHK	1329	₹53.71 L	Semi-Furnished	3	Family	Sale
+551	Odisha Properties (Odisha.txt)	3 BHK Builder Floor	Puri Main Road	Puri / Odisha	Builder Floor / 3 BHK	1057	₹70.42 L	Semi-Furnished	3	Any	Sale
+552	Odisha Properties (Odisha.txt)	2 BHK Builder Floor	Rourkela Residential Area	Rourkela / Odisha	Builder Floor / 2 BHK	535	₹42.31 L	Unfurnished	1	Family	Sale
+553	Odisha Properties (Odisha.txt)	2 BHK Apartment	Bhubaneswar Sector 1	Bhubaneswar / Odisha	Apartment / 2 BHK	873	₹49.57 L	Semi-Furnished	2	Family	Sale
+554	Odisha Properties (Odisha.txt)	3 BHK Apartment	Puri Heights	Puri / Odisha	Apartment / 3 BHK	1086	₹13,900/month	Semi-Furnished	3	Any	Rent
+555	Odisha Properties (Odisha.txt)	5 BHK Apartment	Bhubaneswar South	Bhubaneswar / Odisha	Apartment / 5 BHK	1872	₹83.12 L	Semi-Furnished	6	Family	Sale
+556	Odisha Properties (Odisha.txt)	2 BHK Apartment	Puri Main Road	Puri / Odisha	Apartment / 2 BHK	1016	₹12,300/month	Semi-Furnished	2	Bachelors	Rent
+557	Odisha Properties (Odisha.txt)	3 BHK Apartment	Bhubaneswar Central	Bhubaneswar / Odisha	Apartment / 3 BHK	1207	₹17,000/month	Semi-Furnished	3	Family	Rent
+558	Odisha Properties (Odisha.txt)	1 BHK Apartment	Cuttack Main Road	Cuttack / Odisha	Apartment / 1 BHK	577	₹27.01 L	Semi-Furnished	1	Family	Sale
+559	Odisha Properties (Odisha.txt)	3 BHK Apartment	Rourkela Extension	Rourkela / Odisha	Apartment / 3 BHK	1678	₹69.83 L	Unfurnished	3	Bachelors	Sale
+560	Odisha Properties (Odisha.txt)	3 BHK Builder Floor	Cuttack East	Cuttack / Odisha	Builder Floor / 3 BHK	1139	₹18,600/month	Semi-Furnished	3	Any	Rent
+561	Odisha Properties (Odisha.txt)	3 BHK Apartment	Puri Main Road	Puri / Odisha	Apartment / 3 BHK	1125	₹64.49 L	Semi-Furnished	2	Family	Sale
+562	Odisha Properties (Odisha.txt)	2 BHK Apartment	Cuttack North	Cuttack / Odisha	Apartment / 2 BHK	870	₹42.22 L	Fully-Furnished	2	Family	Sale
+563	Odisha Properties (Odisha.txt)	3 BHK Independent House	Puri West	Puri / Odisha	Independent House / 3 BHK	1665	₹70.13 L	Semi-Furnished	2	Family	Sale
+564	Odisha Properties (Odisha.txt)	1 BHK Studio	Bhubaneswar Colony	Bhubaneswar / Odisha	Studio / 1 BHK	351	₹22.10 L	Semi-Furnished	1	Family	Sale
+565	Odisha Properties (Odisha.txt)	1 BHK Independent House	Puri Extension	Puri / Odisha	Independent House / 1 BHK	605	₹31.03 L	Unfurnished	1	Any	Sale
+566	Odisha Properties (Odisha.txt)	1 BHK Apartment	Bhubaneswar East	Bhubaneswar / Odisha	Apartment / 1 BHK	629	₹27.03 L	Semi-Furnished	1	Any	Sale
+567	Odisha Properties (Odisha.txt)	3 BHK Independent House	Cuttack Sector 2	Cuttack / Odisha	Independent House / 3 BHK	1613	₹62.45 L	Semi-Furnished	3	Family	Sale
+568	Odisha Properties (Odisha.txt)	1 BHK Apartment	Cuttack Sector 3	Cuttack / Odisha	Apartment / 1 BHK	494	₹34.13 L	Semi-Furnished	2	Any	Sale
+569	Odisha Properties (Odisha.txt)	1 BHK Apartment	Rourkela Sector 3	Rourkela / Odisha	Apartment / 1 BHK	467	₹31.71 L	Unfurnished	1	Family	Sale
+570	Odisha Properties (Odisha.txt)	1 BHK Apartment	Puri South	Puri / Odisha	Apartment / 1 BHK	501	₹8,800/month	Fully-Furnished	1	Any	Rent
+571	Odisha Properties (Odisha.txt)	4 BHK Apartment	Puri Residential Area	Puri / Odisha	Apartment / 4 BHK	2036	₹93.97 L	Fully-Furnished	4	Bachelors	Sale
+572	Odisha Properties (Odisha.txt)	3 BHK Independent House	Puri Colony	Puri / Odisha	Independent House / 3 BHK	1516	₹19,900/month	Semi-Furnished	4	Family	Rent
+573	Odisha Properties (Odisha.txt)	2 BHK Apartment	Cuttack Town Centre	Cuttack / Odisha	Apartment / 2 BHK	906	₹12,200/month	Semi-Furnished	2	Bachelors	Rent
+574	Odisha Properties (Odisha.txt)	3 BHK Independent House	Bhubaneswar Sector 3	Bhubaneswar / Odisha	Independent House / 3 BHK	1310	₹18,100/month	Semi-Furnished	4	Family	Rent
+575	Odisha Properties (Odisha.txt)	3 BHK Independent House	Bhubaneswar Sector 2	Bhubaneswar / Odisha	Independent House / 3 BHK	1176	₹16,400/month	Semi-Furnished	3	Bachelors	Rent
+576	Odisha Properties (Odisha.txt)	3 BHK Apartment	Cuttack Nagar	Cuttack / Odisha	Apartment / 3 BHK	1366	₹69.38 L	Semi-Furnished	3	Any	Sale
+577	Odisha Properties (Odisha.txt)	1 BHK Builder Floor	Cuttack Sector 3	Cuttack / Odisha	Builder Floor / 1 BHK	543	₹7,400/month	Fully-Furnished	1	Any	Rent
+578	Odisha Properties (Odisha.txt)	4 BHK Apartment	Rourkela South	Rourkela / Odisha	Apartment / 4 BHK	2124	₹96.99 L	Semi-Furnished	4	Family	Sale
+579	Odisha Properties (Odisha.txt)	2 BHK Apartment	Bhubaneswar South	Bhubaneswar / Odisha	Apartment / 2 BHK	744	₹51.14 L	Semi-Furnished	2	Family	Sale
+580	Odisha Properties (Odisha.txt)	1 BHK Independent House	Puri Residential Area	Puri / Odisha	Independent House / 1 BHK	673	₹7,500/month	Semi-Furnished	1	Any	Rent
+581	Odisha Properties (Odisha.txt)	3 BHK Builder Floor	Cuttack Residential Area	Cuttack / Odisha	Builder Floor / 3 BHK	1398	₹20,400/month	Semi-Furnished	3	Bachelors	Rent
+582	Odisha Properties (Odisha.txt)	2 BHK Villa	Bhubaneswar Residential Area	Bhubaneswar / Odisha	Villa / 2 BHK	950	₹41.41 L	Semi-Furnished	1	Family	Sale
+583	Odisha Properties (Odisha.txt)	3 BHK Independent House	Rourkela Residential Area	Rourkela / Odisha	Independent House / 3 BHK	1563	₹55.06 L	Semi-Furnished	2	Family	Sale
+584	Odisha Properties (Odisha.txt)	3 BHK Apartment	Bhubaneswar Central	Bhubaneswar / Odisha	Apartment / 3 BHK	957	₹52.14 L	Unfurnished	3	Bachelors	Sale
+585	Odisha Properties (Odisha.txt)	3 BHK Independent House	Bhubaneswar East	Bhubaneswar / Odisha	Independent House / 3 BHK	1791	₹79.29 L	Semi-Furnished	4	Family	Sale
+586	Odisha Properties (Odisha.txt)	4 BHK Independent House	Puri Central	Puri / Odisha	Independent House / 4 BHK	2210	₹86.90 L	Unfurnished	4	Bachelors	Sale
+587	Odisha Properties (Odisha.txt)	1 BHK Apartment	Puri West	Puri / Odisha	Apartment / 1 BHK	531	₹33.06 L	Fully-Furnished	1	Bachelors	Sale
+588	Odisha Properties (Odisha.txt)	2 BHK Builder Floor	Puri Nagar	Puri / Odisha	Builder Floor / 2 BHK	903	₹40.25 L	Semi-Furnished	3	Family	Sale
+589	Odisha Properties (Odisha.txt)	3 BHK Builder Floor	Bhubaneswar Sector 3	Bhubaneswar / Odisha	Builder Floor / 3 BHK	1157	₹72.75 L	Semi-Furnished	2	Any	Sale
+590	Odisha Properties (Odisha.txt)	2 BHK Builder Floor	Bhubaneswar Central	Bhubaneswar / Odisha	Builder Floor / 2 BHK	922	₹55.29 L	Unfurnished	2	Family	Sale
+591	Odisha Properties (Odisha.txt)	1 BHK Apartment	Puri Sector 2	Puri / Odisha	Apartment / 1 BHK	503	₹7,000/month	Fully-Furnished	1	Any	Rent
+592	Odisha Properties (Odisha.txt)	2 BHK Apartment	Rourkela South	Rourkela / Odisha	Apartment / 2 BHK	691	₹52.21 L	Unfurnished	1	Family	Sale
+593	Odisha Properties (Odisha.txt)	1 BHK Independent House	Bhubaneswar Sector 1	Bhubaneswar / Odisha	Independent House / 1 BHK	686	₹8,000/month	Fully-Furnished	1	Bachelors	Rent
+594	Odisha Properties (Odisha.txt)	2 BHK Apartment	Puri Nagar	Puri / Odisha	Apartment / 2 BHK	710	₹10,900/month	Unfurnished	1	Family	Rent
+595	Odisha Properties (Odisha.txt)	2 BHK Builder Floor	Puri Central	Puri / Odisha	Builder Floor / 2 BHK	698	₹45.98 L	Semi-Furnished	3	Bachelors	Sale
+596	Odisha Properties (Odisha.txt)	4 BHK Independent House	Bhubaneswar Sector 1	Bhubaneswar / Odisha	Independent House / 4 BHK	2236	₹1.03 Cr	Fully-Furnished	4	Family	Sale
+597	Odisha Properties (Odisha.txt)	2 BHK Independent House	Puri Town Centre	Puri / Odisha	Independent House / 2 BHK	938	₹51.95 L	Unfurnished	1	Bachelors	Sale
+598	Odisha Properties (Odisha.txt)	4 BHK Apartment	Cuttack South	Cuttack / Odisha	Apartment / 4 BHK	2050	₹87.08 L	Semi-Furnished	3	Any	Sale
+599	Odisha Properties (Odisha.txt)	1 BHK Studio	Cuttack South	Cuttack / Odisha	Studio / 1 BHK	436	₹8,400/month	Unfurnished	2	Family	Rent
+600	Odisha Properties (Odisha.txt)	2 BHK Apartment	Cuttack South	Cuttack / Odisha	Apartment / 2 BHK	790	₹10,900/month	Unfurnished	2	Bachelors	Rent
+601	Odisha Properties (Odisha.txt)	3 BHK Apartment	Puri Extension	Puri / Odisha	Apartment / 3 BHK	800	₹17,500/month	Unfurnished	2	Bachelors	Rent
+602	Odisha Properties (Odisha.txt)	3 BHK Apartment	Cuttack South	Cuttack / Odisha	Apartment / 3 BHK	1253	₹71.46 L	Semi-Furnished	3	Family	Sale
+603	Odisha Properties (Odisha.txt)	3 BHK Independent House	Rourkela North	Rourkela / Odisha	Independent House / 3 BHK	1605	₹16,800/month	Semi-Furnished	2	Bachelors	Rent
+604	Odisha Properties (Odisha.txt)	3 BHK Apartment	Rourkela Residential Area	Rourkela / Odisha	Apartment / 3 BHK	1353	₹77.01 L	Unfurnished	4	Family	Sale
+605	Odisha Properties (Odisha.txt)	2 BHK Apartment	Cuttack Colony	Cuttack / Odisha	Apartment / 2 BHK	689	₹41.07 L	Fully-Furnished	1	Family	Sale
+606	Odisha Properties (Odisha.txt)	1 BHK Builder Floor	Cuttack West	Cuttack / Odisha	Builder Floor / 1 BHK	463	₹23.52 L	Fully-Furnished	2	Bachelors	Sale
+607	Odisha Properties (Odisha.txt)	4 BHK Apartment	Rourkela Sector 1	Rourkela / Odisha	Apartment / 4 BHK	1455	₹19,000/month	Semi-Furnished	4	Any	Rent
+608	Odisha Properties (Odisha.txt)	1 BHK Studio	Puri Nagar	Puri / Odisha	Studio / 1 BHK	337	₹8,200/month	Fully-Furnished	2	Any	Rent
+609	Odisha Properties (Odisha.txt)	2 BHK Independent House	Puri Heights	Puri / Odisha	Independent House / 2 BHK	1267	₹43.58 L	Semi-Furnished	2	Bachelors	Sale
+610	Odisha Properties (Odisha.txt)	3 BHK Apartment	Rourkela Main Road	Rourkela / Odisha	Apartment / 3 BHK	1316	₹66.75 L	Unfurnished	4	Family	Sale
+611	Odisha Properties (Odisha.txt)	1 BHK Apartment	Rourkela Sector 3	Rourkela / Odisha	Apartment / 1 BHK	539	₹34.77 L	Fully-Furnished	1	Family	Sale
+612	Odisha Properties (Odisha.txt)	3 BHK Apartment	Rourkela Sector 1	Rourkela / Odisha	Apartment / 3 BHK	1243	₹63.83 L	Semi-Furnished	3	Any	Sale
+613	Odisha Properties (Odisha.txt)	4 BHK Independent House	Puri Sector 3	Puri / Odisha	Independent House / 4 BHK	2497	₹21,100/month	Semi-Furnished	3	Bachelors	Rent
+614	Odisha Properties (Odisha.txt)	3 BHK Apartment	Rourkela Sector 2	Rourkela / Odisha	Apartment / 3 BHK	1306	₹66.96 L	Semi-Furnished	3	Family	Sale
+615	Odisha Properties (Odisha.txt)	4 BHK Apartment	Rourkela East	Rourkela / Odisha	Apartment / 4 BHK	1708	₹20,600/month	Unfurnished	4	Family	Rent
+616	Odisha Properties (Odisha.txt)	3 BHK Apartment	Bhubaneswar Nagar	Bhubaneswar / Odisha	Apartment / 3 BHK	1204	₹74.74 L	Unfurnished	3	Family	Sale
+617	Odisha Properties (Odisha.txt)	2 BHK Apartment	Puri North	Puri / Odisha	Apartment / 2 BHK	903	₹45.48 L	Fully-Furnished	2	Family	Sale
+618	Odisha Properties (Odisha.txt)	3 BHK Apartment	Bhubaneswar Colony	Bhubaneswar / Odisha	Apartment / 3 BHK	1234	₹51.26 L	Unfurnished	2	Family	Sale
+619	Odisha Properties (Odisha.txt)	2 BHK Apartment	Bhubaneswar Colony	Bhubaneswar / Odisha	Apartment / 2 BHK	727	₹37.15 L	Fully-Furnished	2	Any	Sale
+620	Odisha Properties (Odisha.txt)	2 BHK Apartment	Cuttack Town Centre	Cuttack / Odisha	Apartment / 2 BHK	738	₹40.69 L	Unfurnished	2	Family	Sale
+621	Odisha Properties (Odisha.txt)	5 BHK Independent House	Puri Nagar	Puri / Odisha	Independent House / 5 BHK	3651	₹30,100/month	Semi-Furnished	5	Family	Rent
+622	Odisha Properties (Odisha.txt)	1 BHK Builder Floor	Rourkela Sector 1	Rourkela / Odisha	Builder Floor / 1 BHK	528	₹7,300/month	Semi-Furnished	1	Family	Rent
+623	Odisha Properties (Odisha.txt)	4 BHK Builder Floor	Rourkela Sector 3	Rourkela / Odisha	Builder Floor / 4 BHK	2028	₹22,600/month	Unfurnished	4	Family	Rent
+624	Odisha Properties (Odisha.txt)	2 BHK Builder Floor	Cuttack Central	Cuttack / Odisha	Builder Floor / 2 BHK	832	₹54.19 L	Unfurnished	3	Bachelors	Sale
+625	Odisha Properties (Odisha.txt)	5 BHK Apartment	Puri Nagar	Puri / Odisha	Apartment / 5 BHK	2808	₹1.23 Cr	Semi-Furnished	5	Family	Sale
+626	Odisha Properties (Odisha.txt)	1 BHK Apartment	Puri Residential Area	Puri / Odisha	Apartment / 1 BHK	449	₹8,900/month	Unfurnished	1	Family	Rent
+627	Odisha Properties (Odisha.txt)	2 BHK Apartment	Puri Colony	Puri / Odisha	Apartment / 2 BHK	856	₹13,300/month	Semi-Furnished	2	Bachelors	Rent
+628	Odisha Properties (Odisha.txt)	3 BHK Independent House	Cuttack Main Road	Cuttack / Odisha	Independent House / 3 BHK	1433	₹67.56 L	Unfurnished	3	Family	Sale
+629	Odisha Properties (Odisha.txt)	2 BHK Builder Floor	Puri East	Puri / Odisha	Builder Floor / 2 BHK	842	₹13,300/month	Fully-Furnished	2	Bachelors	Rent
+630	Odisha Properties (Odisha.txt)	2 BHK Independent House	Cuttack Residential Area	Cuttack / Odisha	Independent House / 2 BHK	1100	₹51.62 L	Fully-Furnished	3	Bachelors	Sale
+631	Odisha Properties (Odisha.txt)	2 BHK Apartment	Cuttack Extension	Cuttack / Odisha	Apartment / 2 BHK	851	₹11,600/month	Unfurnished	2	Bachelors	Rent
+632	Odisha Properties (Odisha.txt)	3 BHK Independent House	Rourkela Town Centre	Rourkela / Odisha	Independent House / 3 BHK	1770	₹69.70 L	Semi-Furnished	3	Family	Sale
+633	Odisha Properties (Odisha.txt)	1 BHK Studio	Cuttack Town Centre	Cuttack / Odisha	Studio / 1 BHK	342	₹28.29 L	Fully-Furnished	1	Family	Sale
+634	Odisha Properties (Odisha.txt)	3 BHK Apartment	Rourkela Extension	Rourkela / Odisha	Apartment / 3 BHK	1399	₹59.63 L	Semi-Furnished	3	Family	Sale
+635	Odisha Properties (Odisha.txt)	2 BHK Apartment	Puri West	Puri / Odisha	Apartment / 2 BHK	1061	₹12,500/month	Fully-Furnished	1	Family	Rent
+636	Odisha Properties (Odisha.txt)	1 BHK Apartment	Bhubaneswar West	Bhubaneswar / Odisha	Apartment / 1 BHK	422	₹31.96 L	Unfurnished	1	Family	Sale
+637	Odisha Properties (Odisha.txt)	2 BHK Builder Floor	Puri South	Puri / Odisha	Builder Floor / 2 BHK	832	₹11,700/month	Semi-Furnished	2	Family	Rent
+638	Odisha Properties (Odisha.txt)	3 BHK Apartment	Bhubaneswar Colony	Bhubaneswar / Odisha	Apartment / 3 BHK	1035	₹52.97 L	Unfurnished	3	Family	Sale
+639	Odisha Properties (Odisha.txt)	4 BHK Apartment	Puri East	Puri / Odisha	Apartment / 4 BHK	1616	₹24,600/month	Semi-Furnished	4	Family	Rent
+640	Odisha Properties (Odisha.txt)	2 BHK Apartment	Rourkela Nagar	Rourkela / Odisha	Apartment / 2 BHK	862	₹37.15 L	Semi-Furnished	1	Family	Sale
+641	Odisha Properties (Odisha.txt)	1 BHK Builder Floor	Cuttack Sector 2	Cuttack / Odisha	Builder Floor / 1 BHK	662	₹27.65 L	Semi-Furnished	1	Family	Sale
+642	Odisha Properties (Odisha.txt)	1 BHK Studio	Cuttack Central	Cuttack / Odisha	Studio / 1 BHK	332	₹8,800/month	Fully-Furnished	1	Family	Rent
+643	Odisha Properties (Odisha.txt)	3 BHK Builder Floor	Bhubaneswar Heights	Bhubaneswar / Odisha	Builder Floor / 3 BHK	1040	₹70.61 L	Semi-Furnished	2	Family	Sale
+644	Odisha Properties (Odisha.txt)	3 BHK Apartment	Cuttack Sector 3	Cuttack / Odisha	Apartment / 3 BHK	1138	₹51.48 L	Fully-Furnished	3	Bachelors	Sale
+645	Odisha Properties (Odisha.txt)	5 BHK Apartment	Cuttack Colony	Cuttack / Odisha	Apartment / 5 BHK	2514	₹1.01 Cr	Semi-Furnished	5	Any	Sale
+646	Odisha Properties (Odisha.txt)	2 BHK Apartment	Puri North	Puri / Odisha	Apartment / 2 BHK	815	₹10,800/month	Fully-Furnished	3	Any	Rent
+647	Odisha Properties (Odisha.txt)	3 BHK Villa	Cuttack East	Cuttack / Odisha	Villa / 3 BHK	1519	₹19,400/month	Semi-Furnished	3	Family	Rent
+648	Odisha Properties (Odisha.txt)	4 BHK Independent House	Puri Colony	Puri / Odisha	Independent House / 4 BHK	1730	₹88.72 L	Unfurnished	4	Family	Sale
+649	Odisha Properties (Odisha.txt)	4 BHK Independent House	Rourkela Residential Area	Rourkela / Odisha	Independent House / 4 BHK	1149	₹21,200/month	Semi-Furnished	3	Family	Rent
+650	Odisha Properties (Odisha.txt)	3 BHK Apartment	Cuttack North	Cuttack / Odisha	Apartment / 3 BHK	1381	₹15,600/month	Semi-Furnished	2	Bachelors	Rent
+651	Odisha Properties (Odisha.txt)	3 BHK Apartment	Cuttack Extension	Cuttack / Odisha	Apartment / 3 BHK	1504	₹54.84 L	Semi-Furnished	3	Bachelors	Sale
+652	Odisha Properties (Odisha.txt)	2 BHK Builder Floor	Bhubaneswar North	Bhubaneswar / Odisha	Builder Floor / 2 BHK	862	₹54.76 L	Fully-Furnished	2	Bachelors	Sale
+653	Odisha Properties (Odisha.txt)	2 BHK Apartment	Cuttack Central	Cuttack / Odisha	Apartment / 2 BHK	831	₹49.21 L	Semi-Furnished	3	Family	Sale
+654	Odisha Properties (Odisha.txt)	2 BHK Apartment	Cuttack East	Cuttack / Odisha	Apartment / 2 BHK	731	₹42.71 L	Fully-Furnished	1	Family	Sale
+655	Odisha Properties (Odisha.txt)	4 BHK Apartment	Rourkela Sector 2	Rourkela / Odisha	Apartment / 4 BHK	2024	₹20,900/month	Semi-Furnished	4	Any	Rent
+656	Odisha Properties (Odisha.txt)	2 BHK Builder Floor	Rourkela West	Rourkela / Odisha	Builder Floor / 2 BHK	754	₹36.29 L	Unfurnished	2	Family	Sale
+657	Odisha Properties (Odisha.txt)	3 BHK Apartment	Rourkela Residential Area	Rourkela / Odisha	Apartment / 3 BHK	1278	₹75.69 L	Semi-Furnished	3	Bachelors	Sale
+658	Odisha Properties (Odisha.txt)	2 BHK Independent House	Cuttack Nagar	Cuttack / Odisha	Independent House / 2 BHK	875	₹10,200/month	Semi-Furnished	1	Family	Rent
+659	Odisha Properties (Odisha.txt)	4 BHK Apartment	Rourkela Sector 2	Rourkela / Odisha	Apartment / 4 BHK	1804	₹88.21 L	Semi-Furnished	3	Family	Sale
+660	Odisha Properties (Odisha.txt)	2 BHK Builder Floor	Puri Extension	Puri / Odisha	Builder Floor / 2 BHK	944	₹12,900/month	Semi-Furnished	2	Bachelors	Rent
+661	Odisha Properties (Odisha.txt)	3 BHK Apartment	Rourkela Main Road	Rourkela / Odisha	Apartment / 3 BHK	1066	₹17,400/month	Fully-Furnished	4	Any	Rent
+662	Odisha Properties (Odisha.txt)	3 BHK Builder Floor	Puri Residential Area	Puri / Odisha	Builder Floor / 3 BHK	1087	₹58.02 L	Semi-Furnished	3	Family	Sale
+663	Odisha Properties (Odisha.txt)	1 BHK Builder Floor	Rourkela Residential Area	Rourkela / Odisha	Builder Floor / 1 BHK	414	₹32.12 L	Semi-Furnished	1	Any	Sale
+664	Odisha Properties (Odisha.txt)	1 BHK Apartment	Puri Sector 3	Puri / Odisha	Apartment / 1 BHK	442	₹26.46 L	Unfurnished	1	Bachelors	Sale
+665	Odisha Properties (Odisha.txt)	1 BHK Apartment	Bhubaneswar Heights	Bhubaneswar / Odisha	Apartment / 1 BHK	491	₹28.76 L	Semi-Furnished	1	Family	Sale
+666	Odisha Properties (Odisha.txt)	1 BHK Studio	Rourkela Town Centre	Rourkela / Odisha	Studio / 1 BHK	300	₹30.33 L	Unfurnished	1	Family	Sale
+667	Odisha Properties (Odisha.txt)	4 BHK Independent House	Cuttack West	Cuttack / Odisha	Independent House / 4 BHK	2109	₹86.97 L	Fully-Furnished	5	Bachelors	Sale
+668	Odisha Properties (Odisha.txt)	4 BHK Independent House	Bhubaneswar East	Bhubaneswar / Odisha	Independent House / 4 BHK	2822	₹25,500/month	Fully-Furnished	3	Family	Rent
+669	Odisha Properties (Odisha.txt)	3 BHK Apartment	Bhubaneswar North	Bhubaneswar / Odisha	Apartment / 3 BHK	1009	₹15,400/month	Semi-Furnished	2	Any	Rent
+670	Odisha Properties (Odisha.txt)	3 BHK Apartment	Cuttack Sector 3	Cuttack / Odisha	Apartment / 3 BHK	1121	₹17,900/month	Unfurnished	3	Any	Rent
+671	Odisha Properties (Odisha.txt)	2 BHK Apartment	Cuttack Heights	Cuttack / Odisha	Apartment / 2 BHK	651	₹10,600/month	Unfurnished	1	Family	Rent
+672	Odisha Properties (Odisha.txt)	2 BHK Independent House	Bhubaneswar Heights	Bhubaneswar / Odisha	Independent House / 2 BHK	1096	₹10,900/month	Semi-Furnished	2	Family	Rent
+673	Odisha Properties (Odisha.txt)	2 BHK Apartment	Bhubaneswar Main Road	Bhubaneswar / Odisha	Apartment / 2 BHK	681	₹40.26 L	Semi-Furnished	3	Bachelors	Sale
+674	Odisha Properties (Odisha.txt)	1 BHK Villa	Rourkela Extension	Rourkela / Odisha	Villa / 1 BHK	646	₹9,700/month	Unfurnished	1	Bachelors	Rent
+675	Odisha Properties (Odisha.txt)	2 BHK Apartment	Puri Town Centre	Puri / Odisha	Apartment / 2 BHK	739	₹37.82 L	Semi-Furnished	2	Any	Sale
+676	Odisha Properties (Odisha.txt)	4 BHK Independent House	Cuttack Sector 2	Cuttack / Odisha	Independent House / 4 BHK	2296	₹72.54 L	Semi-Furnished	4	Bachelors	Sale
+677	Odisha Properties (Odisha.txt)	3 BHK Apartment	Puri Main Road	Puri / Odisha	Apartment / 3 BHK	1140	₹73.96 L	Unfurnished	3	Family	Sale
+678	Odisha Properties (Odisha.txt)	1 BHK Apartment	Rourkela South	Rourkela / Odisha	Apartment / 1 BHK	476	₹32.54 L	Fully-Furnished	1	Family	Sale
+679	Odisha Properties (Odisha.txt)	4 BHK Apartment	Cuttack Central	Cuttack / Odisha	Apartment / 4 BHK	1539	₹77.31 L	Semi-Furnished	4	Any	Sale
+680	Odisha Properties (Odisha.txt)	3 BHK Villa	Bhubaneswar Residential Area	Bhubaneswar / Odisha	Villa / 3 BHK	1789	₹19,600/month	Fully-Furnished	4	Any	Rent
+681	Odisha Properties (Odisha.txt)	3 BHK Independent House	Bhubaneswar Central	Bhubaneswar / Odisha	Independent House / 3 BHK	1486	₹21,400/month	Unfurnished	3	Family	Rent
+682	Odisha Properties (Odisha.txt)	1 BHK Apartment	Puri Sector 3	Puri / Odisha	Apartment / 1 BHK	496	₹26.78 L	Unfurnished	1	Family	Sale
+683	Odisha Properties (Odisha.txt)	3 BHK Builder Floor	Rourkela Nagar	Rourkela / Odisha	Builder Floor / 3 BHK	1175	₹67.34 L	Unfurnished	3	Any	Sale
+684	Odisha Properties (Odisha.txt)	1 BHK Studio	Cuttack Nagar	Cuttack / Odisha	Studio / 1 BHK	377	₹27.17 L	Semi-Furnished	1	Bachelors	Sale
+685	Odisha Properties (Odisha.txt)	2 BHK Builder Floor	Puri Sector 2	Puri / Odisha	Builder Floor / 2 BHK	793	₹36.30 L	Semi-Furnished	1	Bachelors	Sale
+686	Odisha Properties (Odisha.txt)	3 BHK Builder Floor	Cuttack North	Cuttack / Odisha	Builder Floor / 3 BHK	1221	₹15,100/month	Semi-Furnished	3	Family	Rent
+687	Odisha Properties (Odisha.txt)	2 BHK Independent House	Rourkela Sector 3	Rourkela / Odisha	Independent House / 2 BHK	1017	₹45.14 L	Unfurnished	2	Any	Sale
+688	Odisha Properties (Odisha.txt)	4 BHK Apartment	Rourkela Heights	Rourkela / Odisha	Apartment / 4 BHK	1904	₹25,900/month	Unfurnished	5	Bachelors	Rent
+689	Odisha Properties (Odisha.txt)	4 BHK Apartment	Rourkela Town Centre	Rourkela / Odisha	Apartment / 4 BHK	2001	₹25,000/month	Semi-Furnished	3	Any	Rent
+690	Odisha Properties (Odisha.txt)	1 BHK Apartment	Cuttack West	Cuttack / Odisha	Apartment / 1 BHK	497	₹7,900/month	Semi-Furnished	1	Family	Rent
+691	Odisha Properties (Odisha.txt)	5 BHK Independent House	Cuttack Residential Area	Cuttack / Odisha	Independent House / 5 BHK	3256	₹24,900/month	Semi-Furnished	5	Any	Rent
+692	Odisha Properties (Odisha.txt)	3 BHK Apartment	Bhubaneswar Main Road	Bhubaneswar / Odisha	Apartment / 3 BHK	1049	₹15,300/month	Semi-Furnished	2	Family	Rent
+693	Odisha Properties (Odisha.txt)	2 BHK Villa	Rourkela Nagar	Rourkela / Odisha	Villa / 2 BHK	1156	₹53.41 L	Unfurnished	2	Family	Sale
+694	Odisha Properties (Odisha.txt)	4 BHK Villa	Bhubaneswar Town Centre	Bhubaneswar / Odisha	Villa / 4 BHK	2597	₹20,700/month	Semi-Furnished	5	Bachelors	Rent
+695	Odisha Properties (Odisha.txt)	5 BHK Apartment	Rourkela Heights	Rourkela / Odisha	Apartment / 5 BHK	2188	₹24,100/month	Semi-Furnished	4	Bachelors	Rent
+696	Odisha Properties (Odisha.txt)	3 BHK Apartment	Puri Colony	Puri / Odisha	Apartment / 3 BHK	1199	₹68.78 L	Semi-Furnished	3	Family	Sale
+697	Odisha Properties (Odisha.txt)	2 BHK Apartment	Cuttack Sector 2	Cuttack / Odisha	Apartment / 2 BHK	1078	₹11,700/month	Fully-Furnished	3	Bachelors	Rent
+698	Odisha Properties (Odisha.txt)	2 BHK Apartment	Cuttack Main Road	Cuttack / Odisha	Apartment / 2 BHK	816	₹10,300/month	Fully-Furnished	3	Any	Rent
+699	Odisha Properties (Odisha.txt)	3 BHK Apartment	Puri South	Puri / Odisha	Apartment / 3 BHK	907	₹15,100/month	Unfurnished	3	Family	Rent
+700	Odisha Properties (Odisha.txt)	4 BHK Apartment	Rourkela Residential Area	Rourkela / Odisha	Apartment / 4 BHK	1507	₹70.11 L	Fully-Furnished	4	Bachelors	Sale
+701	Odisha Properties (Odisha.txt)	2 BHK Apartment	Rourkela Town Centre	Rourkela / Odisha	Apartment / 2 BHK	793	₹41.58 L	Semi-Furnished	2	Family	Sale
+702	Odisha Properties (Odisha.txt)	4 BHK Apartment	Bhubaneswar Extension	Bhubaneswar / Odisha	Apartment / 4 BHK	1693	₹72.26 L	Fully-Furnished	4	Family	Sale
+703	Odisha Properties (Odisha.txt)	2 BHK Independent House	Rourkela North	Rourkela / Odisha	Independent House / 2 BHK	1183	₹49.69 L	Fully-Furnished	3	Any	Sale
+704	Odisha Properties (Odisha.txt)	3 BHK Apartment	Cuttack South	Cuttack / Odisha	Apartment / 3 BHK	1674	₹17,600/month	Semi-Furnished	2	Bachelors	Rent
+705	Odisha Properties (Odisha.txt)	4 BHK Independent House	Rourkela Residential Area	Rourkela / Odisha	Independent House / 4 BHK	2084	₹77.73 L	Fully-Furnished	5	Family	Sale
+706	Odisha Properties (Odisha.txt)	1 BHK Apartment	Bhubaneswar Residential Area	Bhubaneswar / Odisha	Apartment / 1 BHK	494	₹7,100/month	Semi-Furnished	1	Family	Rent
+707	Odisha Properties (Odisha.txt)	1 BHK Villa	Bhubaneswar Sector 1	Bhubaneswar / Odisha	Villa / 1 BHK	586	₹30.83 L	Unfurnished	1	Any	Sale
+708	Odisha Properties (Odisha.txt)	2 BHK Builder Floor	Rourkela Extension	Rourkela / Odisha	Builder Floor / 2 BHK	668	₹41.41 L	Unfurnished	3	Any	Sale
+709	Odisha Properties (Odisha.txt)	2 BHK Apartment	Bhubaneswar Extension	Bhubaneswar / Odisha	Apartment / 2 BHK	928	₹52.25 L	Fully-Furnished	2	Family	Sale
+710	Odisha Properties (Odisha.txt)	2 BHK Apartment	Cuttack North	Cuttack / Odisha	Apartment / 2 BHK	707	₹41.11 L	Fully-Furnished	1	Family	Sale
+711	Odisha Properties (Odisha.txt)	4 BHK Apartment	Rourkela South	Rourkela / Odisha	Apartment / 4 BHK	1809	₹24,700/month	Unfurnished	4	Family	Rent
+712	Odisha Properties (Odisha.txt)	2 BHK Apartment	Cuttack Sector 1	Cuttack / Odisha	Apartment / 2 BHK	741	₹12,500/month	Unfurnished	2	Family	Rent
+713	Odisha Properties (Odisha.txt)	3 BHK Apartment	Bhubaneswar Central	Bhubaneswar / Odisha	Apartment / 3 BHK	1147	₹68.23 L	Semi-Furnished	3	Family	Sale
+714	Odisha Properties (Odisha.txt)	2 BHK Apartment	Bhubaneswar Sector 1	Bhubaneswar / Odisha	Apartment / 2 BHK	734	₹52.54 L	Fully-Furnished	2	Family	Sale
+715	Odisha Properties (Odisha.txt)	3 BHK Apartment	Rourkela Town Centre	Rourkela / Odisha	Apartment / 3 BHK	1402	₹18,900/month	Fully-Furnished	3	Family	Rent
+716	Odisha Properties (Odisha.txt)	3 BHK Builder Floor	Puri Sector 2	Puri / Odisha	Builder Floor / 3 BHK	1187	₹73.24 L	Semi-Furnished	2	Family	Sale
+717	Odisha Properties (Odisha.txt)	1 BHK Apartment	Bhubaneswar North	Bhubaneswar / Odisha	Apartment / 1 BHK	482	₹29.15 L	Unfurnished	1	Family	Sale
+718	Odisha Properties (Odisha.txt)	3 BHK Apartment	Cuttack Town Centre	Cuttack / Odisha	Apartment / 3 BHK	1222	₹70.88 L	Semi-Furnished	3	Any	Sale
+719	Odisha Properties (Odisha.txt)	2 BHK Apartment	Rourkela North	Rourkela / Odisha	Apartment / 2 BHK	698	₹13,900/month	Fully-Furnished	2	Bachelors	Rent
+720	Odisha Properties (Odisha.txt)	4 BHK Apartment	Rourkela Central	Rourkela / Odisha	Apartment / 4 BHK	1649	₹66.57 L	Semi-Furnished	4	Bachelors	Sale
+721	Odisha Properties (Odisha.txt)	1 BHK Builder Floor	Cuttack Central	Cuttack / Odisha	Builder Floor / 1 BHK	517	₹34.94 L	Semi-Furnished	1	Bachelors	Sale
+722	Odisha Properties (Odisha.txt)	1 BHK Studio	Puri North	Puri / Odisha	Studio / 1 BHK	392	₹22.85 L	Semi-Furnished	2	Bachelors	Sale
+723	Odisha Properties (Odisha.txt)	1 BHK Builder Floor	Cuttack South	Cuttack / Odisha	Builder Floor / 1 BHK	534	₹26.18 L	Semi-Furnished	1	Bachelors	Sale
+724	Odisha Properties (Odisha.txt)	2 BHK Apartment	Puri Nagar	Puri / Odisha	Apartment / 2 BHK	1002	₹53.58 L	Semi-Furnished	2	Any	Sale
+725	Odisha Properties (Odisha.txt)	1 BHK Villa	Puri Colony	Puri / Odisha	Villa / 1 BHK	701	₹25.50 L	Fully-Furnished	1	Any	Sale
+726	Odisha Properties (Odisha.txt)	2 BHK Builder Floor	Bhubaneswar North	Bhubaneswar / Odisha	Builder Floor / 2 BHK	820	₹11,500/month	Semi-Furnished	2	Any	Rent
+727	Odisha Properties (Odisha.txt)	2 BHK Independent House	Puri North	Puri / Odisha	Independent House / 2 BHK	1194	₹51 L	Semi-Furnished	2	Family	Sale
+728	Odisha Properties (Odisha.txt)	3 BHK Apartment	Cuttack Residential Area	Cuttack / Odisha	Apartment / 3 BHK	1209	₹18,300/month	Semi-Furnished	4	Family	Rent
+729	Odisha Properties (Odisha.txt)	1 BHK Independent House	Cuttack Town Centre	Cuttack / Odisha	Independent House / 1 BHK	547	₹34.43 L	Fully-Furnished	1	Bachelors	Sale
+730	Odisha Properties (Odisha.txt)	2 BHK Builder Floor	Rourkela Main Road	Rourkela / Odisha	Builder Floor / 2 BHK	853	₹42.15 L	Unfurnished	2	Family	Sale
+731	Odisha Properties (Odisha.txt)	1 BHK Studio	Puri Sector 2	Puri / Odisha	Studio / 1 BHK	348	₹9,000/month	Semi-Furnished	1	Bachelors	Rent
+732	Odisha Properties (Odisha.txt)	4 BHK Apartment	Cuttack Town Centre	Cuttack / Odisha	Apartment / 4 BHK	1996	₹90.44 L	Unfurnished	4	Family	Sale
+733	Odisha Properties (Odisha.txt)	1 BHK Apartment	Cuttack Central	Cuttack / Odisha	Apartment / 1 BHK	395	₹7,500/month	Unfurnished	1	Bachelors	Rent
+734	Odisha Properties (Odisha.txt)	3 BHK Apartment	Cuttack Central	Cuttack / Odisha	Apartment / 3 BHK	874	₹18,700/month	Semi-Furnished	4	Bachelors	Rent
+735	Odisha Properties (Odisha.txt)	3 BHK Apartment	Puri West	Puri / Odisha	Apartment / 3 BHK	1504	₹77.23 L	Fully-Furnished	3	Bachelors	Sale
+736	Odisha Properties (Odisha.txt)	3 BHK Builder Floor	Puri Sector 2	Puri / Odisha	Builder Floor / 3 BHK	1351	₹18,900/month	Fully-Furnished	2	Family	Rent
+737	Odisha Properties (Odisha.txt)	4 BHK Apartment	Rourkela South	Rourkela / Odisha	Apartment / 4 BHK	1866	₹23,700/month	Semi-Furnished	4	Family	Rent
+738	Odisha Properties (Odisha.txt)	3 BHK Independent House	Puri Heights	Puri / Odisha	Independent House / 3 BHK	1094	₹63.85 L	Unfurnished	3	Bachelors	Sale
+739	Odisha Properties (Odisha.txt)	2 BHK Apartment	Puri South	Puri / Odisha	Apartment / 2 BHK	840	₹53.33 L	Semi-Furnished	2	Any	Sale
+740	Odisha Properties (Odisha.txt)	2 BHK Apartment	Rourkela Extension	Rourkela / Odisha	Apartment / 2 BHK	794	₹45.53 L	Semi-Furnished	2	Any	Sale
+741	Odisha Properties (Odisha.txt)	2 BHK Builder Floor	Rourkela Nagar	Rourkela / Odisha	Builder Floor / 2 BHK	904	₹11,000/month	Semi-Furnished	3	Bachelors	Rent
+742	Odisha Properties (Odisha.txt)	5 BHK Builder Floor	Rourkela South	Rourkela / Odisha	Builder Floor / 5 BHK	2607	₹1.05 Cr	Semi-Furnished	5	Family	Sale
+743	Odisha Properties (Odisha.txt)	1 BHK Independent House	Puri Sector 3	Puri / Odisha	Independent House / 1 BHK	710	₹7,700/month	Unfurnished	2	Bachelors	Rent
+744	Odisha Properties (Odisha.txt)	4 BHK Apartment	Puri South	Puri / Odisha	Apartment / 4 BHK	1558	₹89.23 L	Unfurnished	5	Any	Sale
+745	Odisha Properties (Odisha.txt)	3 BHK Apartment	Puri South	Puri / Odisha	Apartment / 3 BHK	1166	₹58.70 L	Unfurnished	2	Family	Sale
+746	Odisha Properties (Odisha.txt)	2 BHK Apartment	Bhubaneswar Heights	Bhubaneswar / Odisha	Apartment / 2 BHK	715	₹44.87 L	Fully-Furnished	3	Bachelors	Sale
+747	Odisha Properties (Odisha.txt)	3 BHK Apartment	Rourkela Sector 2	Rourkela / Odisha	Apartment / 3 BHK	1286	₹17,300/month	Unfurnished	3	Family	Rent
+748	Odisha Properties (Odisha.txt)	4 BHK Builder Floor	Cuttack Town Centre	Cuttack / Odisha	Builder Floor / 4 BHK	1815	₹93.99 L	Semi-Furnished	4	Family	Sale
+749	Odisha Properties (Odisha.txt)	3 BHK Apartment	Bhubaneswar Sector 3	Bhubaneswar / Odisha	Apartment / 3 BHK	1153	₹15,800/month	Fully-Furnished	4	Any	Rent
+750	Odisha Properties (Odisha.txt)	3 BHK Apartment	Bhubaneswar Heights	Bhubaneswar / Odisha	Apartment / 3 BHK	1090	₹56.81 L	Semi-Furnished	4	Bachelors	Sale
+751	Odisha Properties (Odisha.txt)	3 BHK Apartment	Rourkela North	Rourkela / Odisha	Apartment / 3 BHK	1211	₹50.56 L	Unfurnished	3	Family	Sale
+752	Odisha Properties (Odisha.txt)	1 BHK Builder Floor	Rourkela Town Centre	Rourkela / Odisha	Builder Floor / 1 BHK	483	₹24.29 L	Fully-Furnished	1	Family	Sale
+753	Odisha Properties (Odisha.txt)	2 BHK Independent House	Bhubaneswar Nagar	Bhubaneswar / Odisha	Independent House / 2 BHK	1150	₹40.67 L	Semi-Furnished	2	Family	Sale
+754	Odisha Properties (Odisha.txt)	3 BHK Apartment	Puri Nagar	Puri / Odisha	Apartment / 3 BHK	1237	₹63.67 L	Semi-Furnished	4	Family	Sale
+755	Odisha Properties (Odisha.txt)	5 BHK Builder Floor	Bhubaneswar Town Centre	Bhubaneswar / Odisha	Builder Floor / 5 BHK	2699	₹27,600/month	Semi-Furnished	4	Family	Rent
+756	Odisha Properties (Odisha.txt)	5 BHK Independent House	Rourkela Central	Rourkela / Odisha	Independent House / 5 BHK	3098	₹1.05 Cr	Fully-Furnished	6	Family	Sale
+757	Odisha Properties (Odisha.txt)	3 BHK Independent House	Cuttack Sector 3	Cuttack / Odisha	Independent House / 3 BHK	1662	₹76.07 L	Semi-Furnished	2	Family	Sale
+758	Odisha Properties (Odisha.txt)	3 BHK Builder Floor	Cuttack Residential Area	Cuttack / Odisha	Builder Floor / 3 BHK	1358	₹19,900/month	Fully-Furnished	2	Family	Rent
+759	Odisha Properties (Odisha.txt)	5 BHK Independent House	Puri West	Puri / Odisha	Independent House / 5 BHK	2027	₹25,400/month	Fully-Furnished	5	Family	Rent
+760	Odisha Properties (Odisha.txt)	3 BHK Builder Floor	Rourkela Town Centre	Rourkela / Odisha	Builder Floor / 3 BHK	1194	₹19,400/month	Fully-Furnished	3	Any	Rent
+761	Odisha Properties (Odisha.txt)	1 BHK Apartment	Puri Town Centre	Puri / Odisha	Apartment / 1 BHK	475	₹27.63 L	Fully-Furnished	1	Family	Sale
+762	Odisha Properties (Odisha.txt)	4 BHK Builder Floor	Cuttack Main Road	Cuttack / Odisha	Builder Floor / 4 BHK	1723	₹87.67 L	Semi-Furnished	3	Bachelors	Sale
+763	Odisha Properties (Odisha.txt)	4 BHK Villa	Cuttack Central	Cuttack / Odisha	Villa / 4 BHK	2517	₹97.16 L	Semi-Furnished	4	Family	Sale
+764	Odisha Properties (Odisha.txt)	3 BHK Independent House	Cuttack Sector 2	Cuttack / Odisha	Independent House / 3 BHK	1363	₹62.10 L	Semi-Furnished	2	Bachelors	Sale
+765	Odisha Properties (Odisha.txt)	3 BHK Apartment	Rourkela Extension	Rourkela / Odisha	Apartment / 3 BHK	1251	₹73.84 L	Fully-Furnished	3	Bachelors	Sale
+766	Odisha Properties (Odisha.txt)	3 BHK Apartment	Cuttack Main Road	Cuttack / Odisha	Apartment / 3 BHK	1355	₹55.28 L	Semi-Furnished	3	Family	Sale
+767	Odisha Properties (Odisha.txt)	3 BHK Builder Floor	Puri Extension	Puri / Odisha	Builder Floor / 3 BHK	1260	₹60.50 L	Fully-Furnished	2	Bachelors	Sale
+768	Odisha Properties (Odisha.txt)	2 BHK Apartment	Rourkela Heights	Rourkela / Odisha	Apartment / 2 BHK	960	₹14,400/month	Semi-Furnished	1	Any	Rent
+769	Odisha Properties (Odisha.txt)	3 BHK Independent House	Puri Residential Area	Puri / Odisha	Independent House / 3 BHK	1608	₹71.03 L	Semi-Furnished	3	Bachelors	Sale
+770	Odisha Properties (Odisha.txt)	3 BHK Builder Floor	Rourkela Heights	Rourkela / Odisha	Builder Floor / 3 BHK	1141	₹73.29 L	Semi-Furnished	3	Family	Sale
+771	Odisha Properties (Odisha.txt)	4 BHK Apartment	Puri West	Puri / Odisha	Apartment / 4 BHK	1675	₹19,000/month	Unfurnished	4	Any	Rent
+772	Odisha Properties (Odisha.txt)	1 BHK Apartment	Bhubaneswar West	Bhubaneswar / Odisha	Apartment / 1 BHK	569	₹7,200/month	Semi-Furnished	1	Bachelors	Rent
+773	Odisha Properties (Odisha.txt)	2 BHK Builder Floor	Rourkela Central	Rourkela / Odisha	Builder Floor / 2 BHK	808	₹13,500/month	Semi-Furnished	3	Bachelors	Rent
+774	Odisha Properties (Odisha.txt)	2 BHK Apartment	Rourkela Main Road	Rourkela / Odisha	Apartment / 2 BHK	905	₹44.30 L	Fully-Furnished	3	Family	Sale
+775	Odisha Properties (Odisha.txt)	2 BHK Apartment	Cuttack Colony	Cuttack / Odisha	Apartment / 2 BHK	977	₹41.57 L	Semi-Furnished	2	Bachelors	Sale
+776	Odisha Properties (Odisha.txt)	4 BHK Apartment	Cuttack Main Road	Cuttack / Odisha	Apartment / 4 BHK	1769	₹18,700/month	Fully-Furnished	5	Bachelors	Rent
+777	Odisha Properties (Odisha.txt)	3 BHK Apartment	Rourkela Town Centre	Rourkela / Odisha	Apartment / 3 BHK	1380	₹71.49 L	Fully-Furnished	4	Bachelors	Sale
+778	Odisha Properties (Odisha.txt)	1 BHK Apartment	Bhubaneswar East	Bhubaneswar / Odisha	Apartment / 1 BHK	407	₹7,600/month	Fully-Furnished	1	Family	Rent
+779	Odisha Properties (Odisha.txt)	4 BHK Apartment	Bhubaneswar Main Road	Bhubaneswar / Odisha	Apartment / 4 BHK	1772	₹24,500/month	Semi-Furnished	3	Any	Rent
+780	Odisha Properties (Odisha.txt)	2 BHK Apartment	Rourkela Sector 3	Rourkela / Odisha	Apartment / 2 BHK	1040	₹49.45 L	Fully-Furnished	2	Any	Sale
+781	Odisha Properties (Odisha.txt)	5 BHK Independent House	Puri Town Centre	Puri / Odisha	Independent House / 5 BHK	2443	₹26,800/month	Semi-Furnished	4	Any	Rent
+782	Odisha Properties (Odisha.txt)	3 BHK Apartment	Puri Colony	Puri / Odisha	Apartment / 3 BHK	1416	₹67.08 L	Fully-Furnished	4	Family	Sale
+783	Odisha Properties (Odisha.txt)	4 BHK Apartment	Puri Sector 2	Puri / Odisha	Apartment / 4 BHK	1526	₹17,700/month	Fully-Furnished	4	Any	Rent
+784	Odisha Properties (Odisha.txt)	1 BHK Apartment	Puri Heights	Puri / Odisha	Apartment / 1 BHK	428	₹26.78 L	Semi-Furnished	2	Family	Sale
+785	Odisha Properties (Odisha.txt)	2 BHK Builder Floor	Bhubaneswar Heights	Bhubaneswar / Odisha	Builder Floor / 2 BHK	576	₹43.05 L	Fully-Furnished	2	Family	Sale
+786	Odisha Properties (Odisha.txt)	3 BHK Apartment	Bhubaneswar Nagar	Bhubaneswar / Odisha	Apartment / 3 BHK	1635	₹19,500/month	Fully-Furnished	3	Any	Rent
+787	Odisha Properties (Odisha.txt)	2 BHK Apartment	Puri Colony	Puri / Odisha	Apartment / 2 BHK	836	₹14,900/month	Semi-Furnished	2	Family	Rent
+788	Odisha Properties (Odisha.txt)	3 BHK Villa	Rourkela East	Rourkela / Odisha	Villa / 3 BHK	1825	₹63.33 L	Semi-Furnished	3	Family	Sale
+789	Odisha Properties (Odisha.txt)	2 BHK Apartment	Puri Sector 2	Puri / Odisha	Apartment / 2 BHK	930	₹42.32 L	Semi-Furnished	2	Bachelors	Sale
+790	Odisha Properties (Odisha.txt)	2 BHK Apartment	Cuttack Extension	Cuttack / Odisha	Apartment / 2 BHK	1045	₹47.43 L	Semi-Furnished	3	Family	Sale
+791	Odisha Properties (Odisha.txt)	3 BHK Apartment	Bhubaneswar Sector 1	Bhubaneswar / Odisha	Apartment / 3 BHK	1158	₹50.62 L	Semi-Furnished	3	Family	Sale
+792	Odisha Properties (Odisha.txt)	4 BHK Apartment	Rourkela Nagar	Rourkela / Odisha	Apartment / 4 BHK	1673	₹95.72 L	Unfurnished	4	Family	Sale
+793	Odisha Properties (Odisha.txt)	4 BHK Apartment	Puri Central	Puri / Odisha	Apartment / 4 BHK	1420	₹23,000/month	Semi-Furnished	4	Family	Rent
+794	Odisha Properties (Odisha.txt)	3 BHK Builder Floor	Puri Sector 1	Puri / Odisha	Builder Floor / 3 BHK	1324	₹76.20 L	Fully-Furnished	3	Bachelors	Sale
+795	Odisha Properties (Odisha.txt)	1 BHK Studio	Cuttack Sector 1	Cuttack / Odisha	Studio / 1 BHK	329	₹7,500/month	Semi-Furnished	2	Family	Rent
+796	Odisha Properties (Odisha.txt)	1 BHK Studio	Rourkela South	Rourkela / Odisha	Studio / 1 BHK	377	₹8,600/month	Fully-Furnished	2	Family	Rent
+797	Odisha Properties (Odisha.txt)	4 BHK Apartment	Rourkela Nagar	Rourkela / Odisha	Apartment / 4 BHK	1730	₹89.73 L	Unfurnished	4	Bachelors	Sale
+798	Odisha Properties (Odisha.txt)	2 BHK Apartment	Puri Heights	Puri / Odisha	Apartment / 2 BHK	929	₹50.58 L	Semi-Furnished	2	Bachelors	Sale
+799	Odisha Properties (Odisha.txt)	2 BHK Apartment	Bhubaneswar West	Bhubaneswar / Odisha	Apartment / 2 BHK	932	₹11,600/month	Semi-Furnished	2	Any	Rent
+800	Odisha Properties (Odisha.txt)	2 BHK Apartment	Puri Nagar	Puri / Odisha	Apartment / 2 BHK	940	₹50.06 L	Unfurnished	2	Family	Sale
+801	Odisha Properties (Odisha.txt)	3 BHK Apartment	Cuttack Town Centre	Cuttack / Odisha	Apartment / 3 BHK	1356	₹17,400/month	Semi-Furnished	2	Family	Rent
+802	Odisha Properties (Odisha.txt)	5 BHK Apartment	Puri North	Puri / Odisha	Apartment / 5 BHK	2280	₹85.31 L	Semi-Furnished	6	Any	Sale
+803	Odisha Properties (Odisha.txt)	3 BHK Builder Floor	Cuttack Main Road	Cuttack / Odisha	Builder Floor / 3 BHK	1442	₹57.12 L	Semi-Furnished	2	Bachelors	Sale
+804	Odisha Properties (Odisha.txt)	4 BHK Apartment	Bhubaneswar Sector 3	Bhubaneswar / Odisha	Apartment / 4 BHK	1675	₹93.57 L	Semi-Furnished	3	Family	Sale
+805	Odisha Properties (Odisha.txt)	2 BHK Builder Floor	Puri Town Centre	Puri / Odisha	Builder Floor / 2 BHK	898	₹55.24 L	Semi-Furnished	2	Any	Sale
+806	Odisha Properties (Odisha.txt)	1 BHK Studio	Rourkela Nagar	Rourkela / Odisha	Studio / 1 BHK	356	₹6,900/month	Semi-Furnished	2	Family	Rent
+807	Odisha Properties (Odisha.txt)	5 BHK Apartment	Puri Main Road	Puri / Odisha	Apartment / 5 BHK	2203	₹28,700/month	Unfurnished	4	Bachelors	Rent
+808	Odisha Properties (Odisha.txt)	3 BHK Apartment	Bhubaneswar Main Road	Bhubaneswar / Odisha	Apartment / 3 BHK	1404	₹16,100/month	Semi-Furnished	4	Family	Rent
+809	Odisha Properties (Odisha.txt)	3 BHK Independent House	Puri West	Puri / Odisha	Independent House / 3 BHK	1204	₹51.53 L	Unfurnished	4	Family	Sale
+810	Odisha Properties (Odisha.txt)	3 BHK Independent House	Cuttack East	Cuttack / Odisha	Independent House / 3 BHK	1872	₹21,500/month	Unfurnished	2	Family	Rent
+811	Odisha Properties (Odisha.txt)	4 BHK Apartment	Cuttack Main Road	Cuttack / Odisha	Apartment / 4 BHK	1957	₹84.56 L	Semi-Furnished	4	Any	Sale
+812	Odisha Properties (Odisha.txt)	3 BHK Apartment	Cuttack West	Cuttack / Odisha	Apartment / 3 BHK	1027	₹14,900/month	Unfurnished	4	Family	Rent
+813	Odisha Properties (Odisha.txt)	2 BHK Builder Floor	Rourkela Central	Rourkela / Odisha	Builder Floor / 2 BHK	826	₹51.03 L	Semi-Furnished	1	Family	Sale
+814	Odisha Properties (Odisha.txt)	3 BHK Independent House	Cuttack Main Road	Cuttack / Odisha	Independent House / 3 BHK	1427	₹19,200/month	Unfurnished	3	Family	Rent
+815	Odisha Properties (Odisha.txt)	3 BHK Independent House	Cuttack Sector 2	Cuttack / Odisha	Independent House / 3 BHK	1381	₹54.05 L	Unfurnished	3	Family	Sale
+816	Odisha Properties (Odisha.txt)	2 BHK Independent House	Bhubaneswar Heights	Bhubaneswar / Odisha	Independent House / 2 BHK	962	₹43.77 L	Unfurnished	2	Family	Sale
+817	Odisha Properties (Odisha.txt)	4 BHK Builder Floor	Bhubaneswar Nagar	Bhubaneswar / Odisha	Builder Floor / 4 BHK	1699	₹23,900/month	Unfurnished	5	Any	Rent
+818	Odisha Properties (Odisha.txt)	2 BHK Apartment	Cuttack Extension	Cuttack / Odisha	Apartment / 2 BHK	968	₹10,700/month	Fully-Furnished	3	Bachelors	Rent
+819	Odisha Properties (Odisha.txt)	2 BHK Apartment	Cuttack West	Cuttack / Odisha	Apartment / 2 BHK	889	₹42.15 L	Semi-Furnished	2	Any	Sale
+820	Odisha Properties (Odisha.txt)	4 BHK Builder Floor	Puri West	Puri / Odisha	Builder Floor / 4 BHK	1618	₹23,700/month	Semi-Furnished	4	Bachelors	Rent
+821	Odisha Properties (Odisha.txt)	2 BHK Apartment	Bhubaneswar Heights	Bhubaneswar / Odisha	Apartment / 2 BHK	805	₹46.82 L	Semi-Furnished	2	Bachelors	Sale
+822	Odisha Properties (Odisha.txt)	2 BHK Independent House	Puri Extension	Puri / Odisha	Independent House / 2 BHK	1030	₹43.37 L	Semi-Furnished	2	Family	Sale
+823	Odisha Properties (Odisha.txt)	4 BHK Apartment	Bhubaneswar Nagar	Bhubaneswar / Odisha	Apartment / 4 BHK	1838	₹20,100/month	Unfurnished	5	Bachelors	Rent
+824	Odisha Properties (Odisha.txt)	3 BHK Apartment	Rourkela Colony	Rourkela / Odisha	Apartment / 3 BHK	1248	₹17,600/month	Semi-Furnished	4	Family	Rent
+825	Odisha Properties (Odisha.txt)	1 BHK Independent House	Puri Nagar	Puri / Odisha	Independent House / 1 BHK	657	₹35.93 L	Semi-Furnished	2	Any	Sale
+826	Odisha Properties (Odisha.txt)	2 BHK Apartment	Cuttack Town Centre	Cuttack / Odisha	Apartment / 2 BHK	1010	₹40.09 L	Unfurnished	2	Bachelors	Sale
+827	Odisha Properties (Odisha.txt)	2 BHK Independent House	Bhubaneswar West	Bhubaneswar / Odisha	Independent House / 2 BHK	926	₹48.92 L	Semi-Furnished	1	Any	Sale
+828	Odisha Properties (Odisha.txt)	2 BHK Independent House	Bhubaneswar Central	Bhubaneswar / Odisha	Independent House / 2 BHK	1013	₹52.81 L	Semi-Furnished	2	Family	Sale
+829	Odisha Properties (Odisha.txt)	1 BHK Studio	Bhubaneswar South	Bhubaneswar / Odisha	Studio / 1 BHK	497	₹26.51 L	Semi-Furnished	2	Family	Sale
+830	Odisha Properties (Odisha.txt)	3 BHK Independent House	Rourkela Main Road	Rourkela / Odisha	Independent House / 3 BHK	1717	₹17,800/month	Semi-Furnished	3	Bachelors	Rent
+831	Odisha Properties (Odisha.txt)	1 BHK Studio	Puri South	Puri / Odisha	Studio / 1 BHK	300	₹26.32 L	Semi-Furnished	2	Bachelors	Sale
+832	Odisha Properties (Odisha.txt)	1 BHK Apartment	Puri Main Road	Puri / Odisha	Apartment / 1 BHK	595	₹10,200/month	Unfurnished	2	Family	Rent
+833	Odisha Properties (Odisha.txt)	4 BHK Builder Floor	Puri West	Puri / Odisha	Builder Floor / 4 BHK	1402	₹65.39 L	Semi-Furnished	4	Family	Sale
+834	Odisha Properties (Odisha.txt)	1 BHK Apartment	Puri Sector 2	Puri / Odisha	Apartment / 1 BHK	429	₹31.81 L	Unfurnished	1	Family	Sale
+835	Odisha Properties (Odisha.txt)	1 BHK Studio	Rourkela West	Rourkela / Odisha	Studio / 1 BHK	374	₹9,000/month	Semi-Furnished	1	Family	Rent
+836	Odisha Properties (Odisha.txt)	2 BHK Apartment	Bhubaneswar Colony	Bhubaneswar / Odisha	Apartment / 2 BHK	1010	₹46.26 L	Fully-Furnished	2	Bachelors	Sale
+837	Odisha Properties (Odisha.txt)	3 BHK Independent House	Rourkela Sector 3	Rourkela / Odisha	Independent House / 3 BHK	1368	₹19,200/month	Fully-Furnished	3	Any	Rent
+838	Odisha Properties (Odisha.txt)	4 BHK Independent House	Rourkela Town Centre	Rourkela / Odisha	Independent House / 4 BHK	2330	₹20,900/month	Semi-Furnished	5	Any	Rent
+839	Odisha Properties (Odisha.txt)	5 BHK Apartment	Cuttack Residential Area	Cuttack / Odisha	Apartment / 5 BHK	2326	₹25,100/month	Semi-Furnished	4	Family	Rent
+840	Odisha Properties (Odisha.txt)	4 BHK Apartment	Puri Sector 3	Puri / Odisha	Apartment / 4 BHK	1904	₹81.47 L	Unfurnished	4	Any	Sale
+841	Odisha Properties (Odisha.txt)	1 BHK Apartment	Cuttack South	Cuttack / Odisha	Apartment / 1 BHK	530	₹28.87 L	Fully-Furnished	1	Family	Sale
+842	Odisha Properties (Odisha.txt)	2 BHK Builder Floor	Cuttack Colony	Cuttack / Odisha	Builder Floor / 2 BHK	846	₹39.14 L	Semi-Furnished	3	Any	Sale
+843	Odisha Properties (Odisha.txt)	1 BHK Studio	Puri Sector 2	Puri / Odisha	Studio / 1 BHK	338	₹25.88 L	Fully-Furnished	1	Family	Sale
+844	Odisha Properties (Odisha.txt)	3 BHK Apartment	Bhubaneswar West	Bhubaneswar / Odisha	Apartment / 3 BHK	1420	₹72.44 L	Unfurnished	3	Any	Sale
+845	Odisha Properties (Odisha.txt)	2 BHK Builder Floor	Cuttack Nagar	Cuttack / Odisha	Builder Floor / 2 BHK	936	₹53.29 L	Unfurnished	3	Any	Sale
+846	Odisha Properties (Odisha.txt)	3 BHK Builder Floor	Rourkela Nagar	Rourkela / Odisha	Builder Floor / 3 BHK	1314	₹53.01 L	Unfurnished	3	Family	Sale
+847	Odisha Properties (Odisha.txt)	3 BHK Apartment	Cuttack Central	Cuttack / Odisha	Apartment / 3 BHK	1182	₹19,200/month	Semi-Furnished	3	Bachelors	Rent
+848	Odisha Properties (Odisha.txt)	1 BHK Builder Floor	Cuttack Town Centre	Cuttack / Odisha	Builder Floor / 1 BHK	445	₹32.96 L	Fully-Furnished	2	Any	Sale
+849	Odisha Properties (Odisha.txt)	2 BHK Builder Floor	Puri Nagar	Puri / Odisha	Builder Floor / 2 BHK	901	₹42.63 L	Semi-Furnished	2	Bachelors	Sale
+850	Odisha Properties (Odisha.txt)	1 BHK Villa	Cuttack Heights	Cuttack / Odisha	Villa / 1 BHK	686	₹10,100/month	Fully-Furnished	1	Family	Rent
+851	Odisha Properties (Odisha.txt)	2 BHK Independent House	Puri Nagar	Puri / Odisha	Independent House / 2 BHK	1003	₹53.53 L	Fully-Furnished	3	Bachelors	Sale
+852	Odisha Properties (Odisha.txt)	4 BHK Independent House	Puri Central	Puri / Odisha	Independent House / 4 BHK	2310	₹1.05 Cr	Unfurnished	3	Family	Sale
+853	Odisha Properties (Odisha.txt)	2 BHK Apartment	Bhubaneswar Heights	Bhubaneswar / Odisha	Apartment / 2 BHK	788	₹37.90 L	Fully-Furnished	2	Family	Sale
+854	Odisha Properties (Odisha.txt)	3 BHK Independent House	Cuttack Town Centre	Cuttack / Odisha	Independent House / 3 BHK	1121	₹19,700/month	Unfurnished	3	Any	Rent
+855	Odisha Properties (Odisha.txt)	1 BHK Apartment	Rourkela East	Rourkela / Odisha	Apartment / 1 BHK	538	₹34.12 L	Unfurnished	1	Bachelors	Sale
+856	Odisha Properties (Odisha.txt)	2 BHK Apartment	Rourkela South	Rourkela / Odisha	Apartment / 2 BHK	756	₹41.54 L	Fully-Furnished	3	Family	Sale
+857	Odisha Properties (Odisha.txt)	3 BHK Apartment	Puri Town Centre	Puri / Odisha	Apartment / 3 BHK	971	₹16,600/month	Semi-Furnished	4	Family	Rent
+858	Odisha Properties (Odisha.txt)	4 BHK Apartment	Bhubaneswar South	Bhubaneswar / Odisha	Apartment / 4 BHK	1735	₹92.72 L	Fully-Furnished	5	Family	Sale
+859	Odisha Properties (Odisha.txt)	3 BHK Builder Floor	Puri Residential Area	Puri / Odisha	Builder Floor / 3 BHK	1167	₹51.53 L	Semi-Furnished	2	Any	Sale
+860	Odisha Properties (Odisha.txt)	1 BHK Studio	Cuttack Sector 3	Cuttack / Odisha	Studio / 1 BHK	336	₹9,000/month	Semi-Furnished	1	Family	Rent
+861	Odisha Properties (Odisha.txt)	3 BHK Apartment	Rourkela Residential Area	Rourkela / Odisha	Apartment / 3 BHK	1196	₹59.28 L	Semi-Furnished	4	Any	Sale
+862	Odisha Properties (Odisha.txt)	3 BHK Apartment	Bhubaneswar Extension	Bhubaneswar / Odisha	Apartment / 3 BHK	1452	₹58.27 L	Fully-Furnished	3	Family	Sale
+863	Odisha Properties (Odisha.txt)	2 BHK Independent House	Puri Town Centre	Puri / Odisha	Independent House / 2 BHK	1310	₹49.29 L	Semi-Furnished	2	Family	Sale
+864	Odisha Properties (Odisha.txt)	1 BHK Apartment	Rourkela Nagar	Rourkela / Odisha	Apartment / 1 BHK	600	₹7,000/month	Fully-Furnished	1	Family	Rent
+865	Odisha Properties (Odisha.txt)	1 BHK Apartment	Rourkela Sector 2	Rourkela / Odisha	Apartment / 1 BHK	561	₹35.24 L	Fully-Furnished	1	Any	Sale
+866	Odisha Properties (Odisha.txt)	4 BHK Apartment	Rourkela North	Rourkela / Odisha	Apartment / 4 BHK	1798	₹22,600/month	Semi-Furnished	4	Family	Rent
+867	Odisha Properties (Odisha.txt)	3 BHK Apartment	Puri West	Puri / Odisha	Apartment / 3 BHK	939	₹13,800/month	Semi-Furnished	3	Family	Rent
+868	Odisha Properties (Odisha.txt)	3 BHK Apartment	Puri Central	Puri / Odisha	Apartment / 3 BHK	918	₹50.20 L	Fully-Furnished	3	Family	Sale
+869	Odisha Properties (Odisha.txt)	3 BHK Builder Floor	Puri Town Centre	Puri / Odisha	Builder Floor / 3 BHK	976	₹16,200/month	Semi-Furnished	4	Family	Rent
+870	Odisha Properties (Odisha.txt)	4 BHK Apartment	Rourkela Extension	Rourkela / Odisha	Apartment / 4 BHK	1685	₹24,000/month	Unfurnished	4	Any	Rent
+871	Odisha Properties (Odisha.txt)	2 BHK Apartment	Cuttack East	Cuttack / Odisha	Apartment / 2 BHK	542	₹10,200/month	Fully-Furnished	2	Bachelors	Rent
+872	Odisha Properties (Odisha.txt)	1 BHK Independent House	Cuttack Main Road	Cuttack / Odisha	Independent House / 1 BHK	535	₹32.90 L	Unfurnished	1	Family	Sale
+873	Odisha Properties (Odisha.txt)	1 BHK Independent House	Cuttack Sector 2	Cuttack / Odisha	Independent House / 1 BHK	712	₹34.70 L	Unfurnished	1	Bachelors	Sale
+874	Odisha Properties (Odisha.txt)	2 BHK Independent House	Rourkela Nagar	Rourkela / Odisha	Independent House / 2 BHK	1041	₹39.61 L	Unfurnished	1	Family	Sale
+875	Odisha Properties (Odisha.txt)	3 BHK Builder Floor	Bhubaneswar West	Bhubaneswar / Odisha	Builder Floor / 3 BHK	1215	₹72.99 L	Semi-Furnished	2	Any	Sale
+876	Odisha Properties (Odisha.txt)	1 BHK Villa	Rourkela Sector 3	Rourkela / Odisha	Villa / 1 BHK	547	₹29.52 L	Unfurnished	1	Bachelors	Sale
+877	Odisha Properties (Odisha.txt)	3 BHK Builder Floor	Bhubaneswar Sector 3	Bhubaneswar / Odisha	Builder Floor / 3 BHK	1018	₹14,500/month	Fully-Furnished	3	Bachelors	Rent
+878	Odisha Properties (Odisha.txt)	2 BHK Apartment	Bhubaneswar South	Bhubaneswar / Odisha	Apartment / 2 BHK	619	₹38.97 L	Semi-Furnished	2	Family	Sale
+879	Odisha Properties (Odisha.txt)	1 BHK Apartment	Rourkela Sector 2	Rourkela / Odisha	Apartment / 1 BHK	472	₹9,700/month	Fully-Furnished	1	Family	Rent
+880	Odisha Properties (Odisha.txt)	1 BHK Apartment	Bhubaneswar Heights	Bhubaneswar / Odisha	Apartment / 1 BHK	504	₹25.09 L	Semi-Furnished	1	Family	Sale
+881	Odisha Properties (Odisha.txt)	1 BHK Studio	Puri Town Centre	Puri / Odisha	Studio / 1 BHK	366	₹23.06 L	Semi-Furnished	1	Family	Sale
+882	Odisha Properties (Odisha.txt)	1 BHK Apartment	Rourkela Extension	Rourkela / Odisha	Apartment / 1 BHK	670	₹9,800/month	Fully-Furnished	1	Family	Rent
+883	Odisha Properties (Odisha.txt)	5 BHK Independent House	Rourkela Town Centre	Rourkela / Odisha	Independent House / 5 BHK	3603	₹32,600/month	Unfurnished	5	Bachelors	Rent
+884	Odisha Properties (Odisha.txt)	4 BHK Builder Floor	Puri East	Puri / Odisha	Builder Floor / 4 BHK	2015	₹75.95 L	Fully-Furnished	3	Bachelors	Sale
+885	Odisha Properties (Odisha.txt)	4 BHK Apartment	Cuttack Colony	Cuttack / Odisha	Apartment / 4 BHK	1875	₹99.24 L	Fully-Furnished	5	Bachelors	Sale
+886	Odisha Properties (Odisha.txt)	3 BHK Apartment	Bhubaneswar Main Road	Bhubaneswar / Odisha	Apartment / 3 BHK	1322	₹58.62 L	Unfurnished	3	Family	Sale
+887	Odisha Properties (Odisha.txt)	1 BHK Apartment	Rourkela Main Road	Rourkela / Odisha	Apartment / 1 BHK	595	₹9,800/month	Semi-Furnished	1	Family	Rent
+888	Odisha Properties (Odisha.txt)	4 BHK Apartment	Puri Sector 3	Puri / Odisha	Apartment / 4 BHK	1386	₹71.12 L	Semi-Furnished	4	Family	Sale
+889	Odisha Properties (Odisha.txt)	1 BHK Independent House	Bhubaneswar West	Bhubaneswar / Odisha	Independent House / 1 BHK	576	₹25.14 L	Fully-Furnished	1	Any	Sale
+890	Odisha Properties (Odisha.txt)	3 BHK Builder Floor	Bhubaneswar North	Bhubaneswar / Odisha	Builder Floor / 3 BHK	953	₹68.51 L	Fully-Furnished	2	Any	Sale
+891	Odisha Properties (Odisha.txt)	3 BHK Builder Floor	Rourkela Extension	Rourkela / Odisha	Builder Floor / 3 BHK	1248	₹51.03 L	Fully-Furnished	3	Any	Sale
+892	Odisha Properties (Odisha.txt)	4 BHK Apartment	Bhubaneswar Town Centre	Bhubaneswar / Odisha	Apartment / 4 BHK	1846	₹84.72 L	Semi-Furnished	3	Family	Sale
+893	Odisha Properties (Odisha.txt)	1 BHK Apartment	Cuttack Sector 2	Cuttack / Odisha	Apartment / 1 BHK	645	₹36.77 L	Semi-Furnished	1	Family	Sale
+894	Odisha Properties (Odisha.txt)	4 BHK Apartment	Cuttack Sector 3	Cuttack / Odisha	Apartment / 4 BHK	1588	₹71.30 L	Fully-Furnished	3	Any	Sale
+895	Odisha Properties (Odisha.txt)	3 BHK Apartment	Puri Residential Area	Puri / Odisha	Apartment / 3 BHK	962	₹14,300/month	Unfurnished	3	Family	Rent
+896	Odisha Properties (Odisha.txt)	2 BHK Apartment	Puri Main Road	Puri / Odisha	Apartment / 2 BHK	980	₹14,600/month	Semi-Furnished	2	Bachelors	Rent
+897	Odisha Properties (Odisha.txt)	1 BHK Builder Floor	Cuttack West	Cuttack / Odisha	Builder Floor / 1 BHK	390	₹8,900/month	Semi-Furnished	2	Any	Rent
+898	Odisha Properties (Odisha.txt)	2 BHK Villa	Bhubaneswar Sector 3	Bhubaneswar / Odisha	Villa / 2 BHK	1061	₹13,100/month	Unfurnished	3	Bachelors	Rent
+899	Odisha Properties (Odisha.txt)	3 BHK Apartment	Bhubaneswar Sector 1	Bhubaneswar / Odisha	Apartment / 3 BHK	1220	₹67.25 L	Semi-Furnished	3	Any	Sale
+900	Odisha Properties (Odisha.txt)	3 BHK Villa	Puri North	Puri / Odisha	Villa / 3 BHK	2042	₹76.42 L	Fully-Furnished	4	Family	Sale
+901	Odisha Properties (Odisha.txt)	5 BHK Builder Floor	Rourkela Central	Rourkela / Odisha	Builder Floor / 5 BHK	2062	₹1.04 Cr	Unfurnished	4	Family	Sale
+902	Odisha Properties (Odisha.txt)	2 BHK Independent House	Rourkela Sector 3	Rourkela / Odisha	Independent House / 2 BHK	958	₹12,900/month	Semi-Furnished	3	Family	Rent
+903	Odisha Properties (Odisha.txt)	4 BHK Apartment	Rourkela Sector 1	Rourkela / Odisha	Apartment / 4 BHK	1433	₹20,300/month	Fully-Furnished	4	Any	Rent
+904	Odisha Properties (Odisha.txt)	1 BHK Studio	Bhubaneswar Town Centre	Bhubaneswar / Odisha	Studio / 1 BHK	301	₹24.96 L	Semi-Furnished	1	Any	Sale
+905	Odisha Properties (Odisha.txt)	3 BHK Apartment	Rourkela Central	Rourkela / Odisha	Apartment / 3 BHK	1139	₹68.22 L	Fully-Furnished	3	Any	Sale
+906	Odisha Properties (Odisha.txt)	2 BHK Apartment	Puri Residential Area	Puri / Odisha	Apartment / 2 BHK	755	₹14,000/month	Semi-Furnished	3	Family	Rent
+907	Odisha Properties (Odisha.txt)	2 BHK Independent House	Cuttack Extension	Cuttack / Odisha	Independent House / 2 BHK	786	₹45.65 L	Fully-Furnished	2	Family	Sale
+908	Odisha Properties (Odisha.txt)	2 BHK Villa	Puri North	Puri / Odisha	Villa / 2 BHK	1105	₹54.65 L	Semi-Furnished	3	Family	Sale
+909	Odisha Properties (Odisha.txt)	3 BHK Apartment	Rourkela Main Road	Rourkela / Odisha	Apartment / 3 BHK	1486	₹59.18 L	Semi-Furnished	2	Bachelors	Sale
+910	Odisha Properties (Odisha.txt)	1 BHK Independent House	Rourkela Nagar	Rourkela / Odisha	Independent House / 1 BHK	736	₹27.67 L	Unfurnished	2	Bachelors	Sale
+911	Odisha Properties (Odisha.txt)	2 BHK Independent House	Rourkela South	Rourkela / Odisha	Independent House / 2 BHK	1100	₹58.56 L	Semi-Furnished	2	Bachelors	Sale
+912	Odisha Properties (Odisha.txt)	4 BHK Independent House	Rourkela Sector 2	Rourkela / Odisha	Independent House / 4 BHK	2329	₹1.04 Cr	Semi-Furnished	4	Bachelors	Sale
+913	Odisha Properties (Odisha.txt)	4 BHK Builder Floor	Cuttack Residential Area	Cuttack / Odisha	Builder Floor / 4 BHK	1467	₹23,900/month	Semi-Furnished	5	Family	Rent
+914	Odisha Properties (Odisha.txt)	3 BHK Builder Floor	Rourkela East	Rourkela / Odisha	Builder Floor / 3 BHK	1469	₹16,300/month	Semi-Furnished	3	Bachelors	Rent
+915	Odisha Properties (Odisha.txt)	1 BHK Apartment	Puri Residential Area	Puri / Odisha	Apartment / 1 BHK	427	₹33.05 L	Semi-Furnished	1	Bachelors	Sale
+916	Odisha Properties (Odisha.txt)	2 BHK Apartment	Puri Sector 2	Puri / Odisha	Apartment / 2 BHK	994	₹50.89 L	Semi-Furnished	3	Family	Sale
+917	Odisha Properties (Odisha.txt)	1 BHK Apartment	Bhubaneswar Central	Bhubaneswar / Odisha	Apartment / 1 BHK	499	₹30.17 L	Fully-Furnished	1	Bachelors	Sale
+918	Odisha Properties (Odisha.txt)	4 BHK Apartment	Bhubaneswar North	Bhubaneswar / Odisha	Apartment / 4 BHK	1765	₹70.61 L	Fully-Furnished	4	Any	Sale
+919	Odisha Properties (Odisha.txt)	3 BHK Apartment	Puri Central	Puri / Odisha	Apartment / 3 BHK	1480	₹73.09 L	Semi-Furnished	2	Bachelors	Sale
+920	Odisha Properties (Odisha.txt)	3 BHK Villa	Cuttack Sector 1	Cuttack / Odisha	Villa / 3 BHK	1395	₹67.68 L	Fully-Furnished	2	Any	Sale
+921	Odisha Properties (Odisha.txt)	2 BHK Villa	Rourkela Sector 1	Rourkela / Odisha	Villa / 2 BHK	1500	₹51.14 L	Semi-Furnished	1	Any	Sale
+922	Odisha Properties (Odisha.txt)	4 BHK Apartment	Cuttack Main Road	Cuttack / Odisha	Apartment / 4 BHK	2014	₹24,300/month	Semi-Furnished	5	Family	Rent
+923	Odisha Properties (Odisha.txt)	2 BHK Builder Floor	Puri Sector 2	Puri / Odisha	Builder Floor / 2 BHK	1065	₹39.58 L	Semi-Furnished	2	Any	Sale
+924	Odisha Properties (Odisha.txt)	2 BHK Independent House	Puri Extension	Puri / Odisha	Independent House / 2 BHK	1039	₹15,200/month	Semi-Furnished	2	Family	Rent
+925	Odisha Properties (Odisha.txt)	3 BHK Apartment	Rourkela East	Rourkela / Odisha	Apartment / 3 BHK	1267	₹67 L	Semi-Furnished	4	Bachelors	Sale
+926	Odisha Properties (Odisha.txt)	3 BHK Villa	Cuttack East	Cuttack / Odisha	Villa / 3 BHK	2374	₹87.29 L	Unfurnished	4	Any	Sale
+927	Odisha Properties (Odisha.txt)	3 BHK Builder Floor	Bhubaneswar West	Bhubaneswar / Odisha	Builder Floor / 3 BHK	1312	₹58.17 L	Fully-Furnished	2	Family	Sale
+928	Odisha Properties (Odisha.txt)	2 BHK Apartment	Cuttack Sector 2	Cuttack / Odisha	Apartment / 2 BHK	1047	₹48.67 L	Fully-Furnished	1	Any	Sale
+929	Odisha Properties (Odisha.txt)	2 BHK Builder Floor	Bhubaneswar East	Bhubaneswar / Odisha	Builder Floor / 2 BHK	739	₹49.16 L	Semi-Furnished	2	Bachelors	Sale
+930	Odisha Properties (Odisha.txt)	1 BHK Apartment	Cuttack Sector 1	Cuttack / Odisha	Apartment / 1 BHK	400	₹6,400/month	Unfurnished	1	Bachelors	Rent
+931	Odisha Properties (Odisha.txt)	5 BHK Independent House	Puri Central	Puri / Odisha	Independent House / 5 BHK	2899	₹34,800/month	Fully-Furnished	5	Family	Rent
+932	Odisha Properties (Odisha.txt)	2 BHK Apartment	Rourkela East	Rourkela / Odisha	Apartment / 2 BHK	814	₹13,500/month	Semi-Furnished	2	Family	Rent
+933	Odisha Properties (Odisha.txt)	3 BHK Independent House	Puri East	Puri / Odisha	Independent House / 3 BHK	1245	₹15,300/month	Semi-Furnished	3	Family	Rent
+934	Odisha Properties (Odisha.txt)	3 BHK Builder Floor	Bhubaneswar West	Bhubaneswar / Odisha	Builder Floor / 3 BHK	890	₹18,400/month	Semi-Furnished	4	Any	Rent
+935	Odisha Properties (Odisha.txt)	1 BHK Independent House	Cuttack West	Cuttack / Odisha	Independent House / 1 BHK	657	₹32.83 L	Semi-Furnished	1	Family	Sale
+936	Odisha Properties (Odisha.txt)	2 BHK Apartment	Cuttack South	Cuttack / Odisha	Apartment / 2 BHK	1074	₹14,200/month	Semi-Furnished	3	Family	Rent
+937	Odisha Properties (Odisha.txt)	3 BHK Apartment	Bhubaneswar North	Bhubaneswar / Odisha	Apartment / 3 BHK	1133	₹53.30 L	Semi-Furnished	4	Bachelors	Sale
+938	Odisha Properties (Odisha.txt)	2 BHK Independent House	Puri Sector 3	Puri / Odisha	Independent House / 2 BHK	1048	₹40.94 L	Semi-Furnished	2	Bachelors	Sale
+939	Odisha Properties (Odisha.txt)	2 BHK Independent House	Bhubaneswar Extension	Bhubaneswar / Odisha	Independent House / 2 BHK	734	₹51.48 L	Semi-Furnished	1	Bachelors	Sale
+940	Odisha Properties (Odisha.txt)	3 BHK Builder Floor	Cuttack Main Road	Cuttack / Odisha	Builder Floor / 3 BHK	1164	₹51.05 L	Fully-Furnished	2	Family	Sale
+941	Odisha Properties (Odisha.txt)	1 BHK Apartment	Rourkela Town Centre	Rourkela / Odisha	Apartment / 1 BHK	563	₹32.77 L	Semi-Furnished	1	Bachelors	Sale
+942	Odisha Properties (Odisha.txt)	2 BHK Apartment	Cuttack Residential Area	Cuttack / Odisha	Apartment / 2 BHK	1011	₹45.39 L	Fully-Furnished	3	Any	Sale
+943	Odisha Properties (Odisha.txt)	2 BHK Builder Floor	Cuttack Residential Area	Cuttack / Odisha	Builder Floor / 2 BHK	1081	₹15,800/month	Unfurnished	2	Bachelors	Rent
+944	Odisha Properties (Odisha.txt)	3 BHK Independent House	Rourkela East	Rourkela / Odisha	Independent House / 3 BHK	1230	₹17,800/month	Unfurnished	3	Family	Rent
+945	Odisha Properties (Odisha.txt)	3 BHK Apartment	Bhubaneswar Colony	Bhubaneswar / Odisha	Apartment / 3 BHK	1156	₹19,600/month	Unfurnished	3	Family	Rent
+946	Odisha Properties (Odisha.txt)	1 BHK Villa	Rourkela South	Rourkela / Odisha	Villa / 1 BHK	620	₹30.50 L	Semi-Furnished	1	Family	Sale
+947	Odisha Properties (Odisha.txt)	5 BHK Apartment	Rourkela West	Rourkela / Odisha	Apartment / 5 BHK	3025	₹93.09 L	Semi-Furnished	4	Any	Sale
+948	Odisha Properties (Odisha.txt)	4 BHK Independent House	Cuttack Heights	Cuttack / Odisha	Independent House / 4 BHK	2135	₹26,600/month	Unfurnished	5	Family	Rent
+949	Odisha Properties (Odisha.txt)	3 BHK Apartment	Puri Sector 3	Puri / Odisha	Apartment / 3 BHK	1306	₹76.22 L	Fully-Furnished	4	Any	Sale
+950	Odisha Properties (Odisha.txt)	2 BHK Apartment	Bhubaneswar South	Bhubaneswar / Odisha	Apartment / 2 BHK	901	₹51.20 L	Semi-Furnished	2	Family	Sale
+951	Odisha Properties (Odisha.txt)	3 BHK Apartment	Cuttack Central	Cuttack / Odisha	Apartment / 3 BHK	1241	₹19,800/month	Fully-Furnished	4	Bachelors	Rent
+952	Odisha Properties (Odisha.txt)	2 BHK Apartment	Bhubaneswar Heights	Bhubaneswar / Odisha	Apartment / 2 BHK	775	₹41.40 L	Semi-Furnished	3	Family	Sale
+953	Odisha Properties (Odisha.txt)	3 BHK Apartment	Rourkela Extension	Rourkela / Odisha	Apartment / 3 BHK	1082	₹60.95 L	Semi-Furnished	2	Family	Sale
+954	Odisha Properties (Odisha.txt)	3 BHK Apartment	Bhubaneswar Central	Bhubaneswar / Odisha	Apartment / 3 BHK	811	₹17,400/month	Unfurnished	4	Family	Rent
+955	Odisha Properties (Odisha.txt)	1 BHK Independent House	Bhubaneswar Sector 3	Bhubaneswar / Odisha	Independent House / 1 BHK	566	₹35.60 L	Fully-Furnished	1	Any	Sale
+956	Odisha Properties (Odisha.txt)	1 BHK Apartment	Puri Sector 2	Puri / Odisha	Apartment / 1 BHK	463	₹24.43 L	Fully-Furnished	2	Family	Sale
+957	Odisha Properties (Odisha.txt)	2 BHK Builder Floor	Cuttack East	Cuttack / Odisha	Builder Floor / 2 BHK	869	₹11,600/month	Semi-Furnished	2	Family	Rent
+958	Odisha Properties (Odisha.txt)	2 BHK Apartment	Rourkela Town Centre	Rourkela / Odisha	Apartment / 2 BHK	623	₹11,500/month	Semi-Furnished	2	Any	Rent
+959	Odisha Properties (Odisha.txt)	2 BHK Independent House	Bhubaneswar Sector 3	Bhubaneswar / Odisha	Independent House / 2 BHK	1011	₹14,300/month	Unfurnished	2	Any	Rent
+960	Odisha Properties (Odisha.txt)	1 BHK Studio	Puri West	Puri / Odisha	Studio / 1 BHK	300	₹8,600/month	Unfurnished	1	Any	Rent
+961	Odisha Properties (Odisha.txt)	2 BHK Apartment	Cuttack Central	Cuttack / Odisha	Apartment / 2 BHK	848	₹51.56 L	Fully-Furnished	3	Bachelors	Sale
+962	Odisha Properties (Odisha.txt)	1 BHK Studio	Cuttack East	Cuttack / Odisha	Studio / 1 BHK	335	₹26.85 L	Unfurnished	2	Bachelors	Sale
+963	Odisha Properties (Odisha.txt)	3 BHK Independent House	Bhubaneswar Colony	Bhubaneswar / Odisha	Independent House / 3 BHK	1641	₹77.20 L	Fully-Furnished	2	Bachelors	Sale
+964	Odisha Properties (Odisha.txt)	4 BHK Apartment	Puri Sector 1	Puri / Odisha	Apartment / 4 BHK	2388	₹27,100/month	Fully-Furnished	5	Bachelors	Rent
+965	Odisha Properties (Odisha.txt)	5 BHK Builder Floor	Cuttack West	Cuttack / Odisha	Builder Floor / 5 BHK	2787	₹1.05 Cr	Semi-Furnished	5	Family	Sale
+966	Odisha Properties (Odisha.txt)	2 BHK Builder Floor	Rourkela Extension	Rourkela / Odisha	Builder Floor / 2 BHK	893	₹52.06 L	Semi-Furnished	1	Family	Sale
+967	Odisha Properties (Odisha.txt)	2 BHK Apartment	Puri Sector 1	Puri / Odisha	Apartment / 2 BHK	860	₹39.46 L	Unfurnished	1	Family	Sale
+968	Odisha Properties (Odisha.txt)	4 BHK Apartment	Bhubaneswar Residential Area	Bhubaneswar / Odisha	Apartment / 4 BHK	1734	₹84.13 L	Semi-Furnished	4	Any	Sale
+969	Odisha Properties (Odisha.txt)	2 BHK Apartment	Bhubaneswar Extension	Bhubaneswar / Odisha	Apartment / 2 BHK	942	₹49.44 L	Semi-Furnished	2	Family	Sale
+970	Odisha Properties (Odisha.txt)	1 BHK Apartment	Cuttack Town Centre	Cuttack / Odisha	Apartment / 1 BHK	467	₹34.18 L	Unfurnished	1	Family	Sale
+971	Odisha Properties (Odisha.txt)	1 BHK Apartment	Rourkela Sector 1	Rourkela / Odisha	Apartment / 1 BHK	396	₹8,200/month	Unfurnished	1	Family	Rent
+972	Odisha Properties (Odisha.txt)	4 BHK Apartment	Rourkela Sector 3	Rourkela / Odisha	Apartment / 4 BHK	2026	₹73.44 L	Semi-Furnished	5	Any	Sale
+973	Odisha Properties (Odisha.txt)	2 BHK Builder Floor	Rourkela Nagar	Rourkela / Odisha	Builder Floor / 2 BHK	1044	₹12,800/month	Fully-Furnished	2	Any	Rent
+974	Odisha Properties (Odisha.txt)	3 BHK Independent House	Puri Residential Area	Puri / Odisha	Independent House / 3 BHK	1384	₹18,000/month	Semi-Furnished	3	Bachelors	Rent
+975	Odisha Properties (Odisha.txt)	3 BHK Builder Floor	Cuttack Sector 1	Cuttack / Odisha	Builder Floor / 3 BHK	1101	₹15,800/month	Semi-Furnished	3	Family	Rent
+976	Odisha Properties (Odisha.txt)	5 BHK Apartment	Bhubaneswar Central	Bhubaneswar / Odisha	Apartment / 5 BHK	2747	₹23,600/month	Semi-Furnished	5	Family	Rent
+977	Odisha Properties (Odisha.txt)	2 BHK Apartment	Cuttack Heights	Cuttack / Odisha	Apartment / 2 BHK	866	₹14,900/month	Semi-Furnished	3	Family	Rent
+978	Odisha Properties (Odisha.txt)	4 BHK Apartment	Rourkela Heights	Rourkela / Odisha	Apartment / 4 BHK	1892	₹87.14 L	Fully-Furnished	4	Bachelors	Sale
+979	Odisha Properties (Odisha.txt)	2 BHK Apartment	Cuttack North	Cuttack / Odisha	Apartment / 2 BHK	913	₹39.67 L	Unfurnished	2	Any	Sale
+980	Odisha Properties (Odisha.txt)	1 BHK Studio	Puri Residential Area	Puri / Odisha	Studio / 1 BHK	457	₹32.28 L	Semi-Furnished	1	Any	Sale
+981	Odisha Properties (Odisha.txt)	4 BHK Villa	Puri Sector 1	Puri / Odisha	Villa / 4 BHK	3026	₹25,600/month	Semi-Furnished	3	Bachelors	Rent
+982	Odisha Properties (Odisha.txt)	2 BHK Apartment	Cuttack West	Cuttack / Odisha	Apartment / 2 BHK	729	₹37.44 L	Fully-Furnished	2	Family	Sale
+983	Odisha Properties (Odisha.txt)	3 BHK Apartment	Rourkela Heights	Rourkela / Odisha	Apartment / 3 BHK	1212	₹19,700/month	Semi-Furnished	3	Bachelors	Rent
+984	Odisha Properties (Odisha.txt)	2 BHK Apartment	Bhubaneswar Extension	Bhubaneswar / Odisha	Apartment / 2 BHK	743	₹13,900/month	Semi-Furnished	2	Any	Rent
+985	Odisha Properties (Odisha.txt)	1 BHK Apartment	Puri North	Puri / Odisha	Apartment / 1 BHK	504	₹33.45 L	Semi-Furnished	1	Family	Sale
+986	Odisha Properties (Odisha.txt)	2 BHK Apartment	Cuttack Central	Cuttack / Odisha	Apartment / 2 BHK	933	₹11,400/month	Semi-Furnished	3	Family	Rent
+987	Odisha Properties (Odisha.txt)	1 BHK Apartment	Cuttack Sector 3	Cuttack / Odisha	Apartment / 1 BHK	544	₹33.95 L	Semi-Furnished	1	Bachelors	Sale
+988	Odisha Properties (Odisha.txt)	3 BHK Apartment	Bhubaneswar West	Bhubaneswar / Odisha	Apartment / 3 BHK	1472	₹63.38 L	Semi-Furnished	3	Family	Sale
+989	Odisha Properties (Odisha.txt)	5 BHK Apartment	Rourkela Central	Rourkela / Odisha	Apartment / 5 BHK	2583	₹31,900/month	Unfurnished	6	Family	Rent
+990	Odisha Properties (Odisha.txt)	1 BHK Apartment	Bhubaneswar Main Road	Bhubaneswar / Odisha	Apartment / 1 BHK	497	₹8,200/month	Fully-Furnished	1	Family	Rent
+991	Odisha Properties (Odisha.txt)	1 BHK Builder Floor	Cuttack South	Cuttack / Odisha	Builder Floor / 1 BHK	558	₹35.04 L	Semi-Furnished	1	Family	Sale
+992	Odisha Properties (Odisha.txt)	2 BHK Villa	Bhubaneswar Sector 1	Bhubaneswar / Odisha	Villa / 2 BHK	1024	₹15,700/month	Unfurnished	3	Family	Rent
+993	Odisha Properties (Odisha.txt)	4 BHK Builder Floor	Rourkela Central	Rourkela / Odisha	Builder Floor / 4 BHK	2055	₹19,200/month	Fully-Furnished	4	Bachelors	Rent
+994	Odisha Properties (Odisha.txt)	2 BHK Apartment	Bhubaneswar Residential Area	Bhubaneswar / Odisha	Apartment / 2 BHK	823	₹14,000/month	Fully-Furnished	3	Family	Rent
+995	Odisha Properties (Odisha.txt)	2 BHK Apartment	Cuttack Extension	Cuttack / Odisha	Apartment / 2 BHK	688	₹12,800/month	Unfurnished	3	Any	Rent
+996	Odisha Properties (Odisha.txt)	1 BHK Apartment	Bhubaneswar Main Road	Bhubaneswar / Odisha	Apartment / 1 BHK	665	₹7,500/month	Fully-Furnished	1	Family	Rent
+997	Odisha Properties (Odisha.txt)	3 BHK Apartment	Bhubaneswar Nagar	Bhubaneswar / Odisha	Apartment / 3 BHK	1142	₹13,900/month	Semi-Furnished	4	Family	Rent
+998	Odisha Properties (Odisha.txt)	3 BHK Independent House	Cuttack North	Cuttack / Odisha	Independent House / 3 BHK	1552	₹21,100/month	Fully-Furnished	2	Family	Rent
+999	Odisha Properties (Odisha.txt)	1 BHK Apartment	Bhubaneswar Sector 2	Bhubaneswar / Odisha	Apartment / 1 BHK	594	₹35.36 L	Fully-Furnished	2	Any	Sale
+1000	Odisha Properties (Odisha.txt)	3 BHK Apartment	Rourkela Town Centre	Rourkela / Odisha	Apartment / 3 BHK	1183	₹17,200/month	Semi-Furnished	3	Family	Rent
+1001	Odisha Properties (Odisha.txt)	2 BHK Apartment	Bhubaneswar Colony	Bhubaneswar / Odisha	Apartment / 2 BHK	1010	₹14,200/month	Fully-Furnished	2	Bachelors	Rent
+1002	Odisha Properties (Odisha.txt)	1 BHK Apartment	Cuttack Central	Cuttack / Odisha	Apartment / 1 BHK	483	₹6,800/month	Semi-Furnished	1	Any	Rent
+1003	Odisha Properties (Odisha.txt)	3 BHK Apartment	Rourkela North	Rourkela / Odisha	Apartment / 3 BHK	1320	₹17,700/month	Semi-Furnished	2	Bachelors	Rent
+1004	Odisha Properties (Odisha.txt)	2 BHK Apartment	Bhubaneswar Residential Area	Bhubaneswar / Odisha	Apartment / 2 BHK	1034	₹53.73 L	Fully-Furnished	2	Bachelors	Sale
+1005	Odisha Properties (Odisha.txt)	1 BHK Villa	Puri South	Puri / Odisha	Villa / 1 BHK	668	₹8,400/month	Unfurnished	2	Any	Rent
+1006	Odisha Properties (Odisha.txt)	2 BHK Apartment	Rourkela North	Rourkela / Odisha	Apartment / 2 BHK	945	₹50.46 L	Unfurnished	2	Family	Sale
+1007	Odisha Properties (Odisha.txt)	3 BHK Apartment	Rourkela Central	Rourkela / Odisha	Apartment / 3 BHK	1403	₹18,900/month	Semi-Furnished	3	Bachelors	Rent
+1008	Odisha Properties (Odisha.txt)	3 BHK Builder Floor	Bhubaneswar Central	Bhubaneswar / Odisha	Builder Floor / 3 BHK	1398	₹14,700/month	Semi-Furnished	4	Family	Rent
+1009	Odisha Properties (Odisha.txt)	5 BHK Independent House	Rourkela Nagar	Rourkela / Odisha	Independent House / 5 BHK	2789	₹1.10 Cr	Semi-Furnished	5	Family	Sale
+1010	Odisha Properties (Odisha.txt)	1 BHK Studio	Bhubaneswar Nagar	Bhubaneswar / Odisha	Studio / 1 BHK	405	₹7,200/month	Fully-Furnished	2	Bachelors	Rent
+1011	Odisha Properties (Odisha.txt)	3 BHK Apartment	Bhubaneswar Heights	Bhubaneswar / Odisha	Apartment / 3 BHK	1334	₹16,300/month	Fully-Furnished	3	Family	Rent
+1012	Odisha Properties (Odisha.txt)	5 BHK Villa	Rourkela West	Rourkela / Odisha	Villa / 5 BHK	4378	₹1.51 Cr	Unfurnished	6	Any	Sale
+1013	Odisha Properties (Odisha.txt)	2 BHK Apartment	Rourkela East	Rourkela / Odisha	Apartment / 2 BHK	704	₹47.79 L	Semi-Furnished	3	Any	Sale
+1014	Odisha Properties (Odisha.txt)	4 BHK Builder Floor	Cuttack West	Cuttack / Odisha	Builder Floor / 4 BHK	1512	₹90.91 L	Semi-Furnished	5	Family	Sale
+1015	Odisha Properties (Odisha.txt)	3 BHK Apartment	Puri North	Puri / Odisha	Apartment / 3 BHK	1269	₹59.75 L	Unfurnished	4	Any	Sale
+1016	Odisha Properties (Odisha.txt)	3 BHK Villa	Puri West	Puri / Odisha	Villa / 3 BHK	1728	₹15,400/month	Semi-Furnished	3	Family	Rent
+1017	Odisha Properties (Odisha.txt)	3 BHK Apartment	Bhubaneswar West	Bhubaneswar / Odisha	Apartment / 3 BHK	1062	₹49.72 L	Semi-Furnished	3	Family	Sale
+1018	Odisha Properties (Odisha.txt)	2 BHK Apartment	Puri Extension	Puri / Odisha	Apartment / 2 BHK	840	₹38.92 L	Semi-Furnished	2	Bachelors	Sale
+1019	Odisha Properties (Odisha.txt)	2 BHK Apartment	Cuttack West	Cuttack / Odisha	Apartment / 2 BHK	1038	₹13,600/month	Unfurnished	2	Bachelors	Rent
+1020	Odisha Properties (Odisha.txt)	1 BHK Studio	Cuttack East	Cuttack / Odisha	Studio / 1 BHK	342	₹24.99 L	Unfurnished	1	Family	Sale
+1021	Odisha Properties (Odisha.txt)	1 BHK Studio	Rourkela Main Road	Rourkela / Odisha	Studio / 1 BHK	410	₹25.12 L	Unfurnished	2	Bachelors	Sale
+1022	Odisha Properties (Odisha.txt)	1 BHK Builder Floor	Puri Main Road	Puri / Odisha	Builder Floor / 1 BHK	488	₹6,800/month	Semi-Furnished	1	Family	Rent
+1023	Odisha Properties (Odisha.txt)	3 BHK Independent House	Puri Heights	Puri / Odisha	Independent House / 3 BHK	1472	₹64.49 L	Semi-Furnished	3	Any	Sale
+1024	Odisha Properties (Odisha.txt)	3 BHK Independent House	Bhubaneswar Heights	Bhubaneswar / Odisha	Independent House / 3 BHK	1369	₹68.67 L	Semi-Furnished	3	Any	Sale
+1025	Odisha Properties (Odisha.txt)	3 BHK Apartment	Rourkela Colony	Rourkela / Odisha	Apartment / 3 BHK	1038	₹54.60 L	Fully-Furnished	3	Family	Sale
+1026	Odisha Properties (Odisha.txt)	3 BHK Apartment	Rourkela West	Rourkela / Odisha	Apartment / 3 BHK	1220	₹69.81 L	Semi-Furnished	4	Bachelors	Sale
+1027	Odisha Properties (Odisha.txt)	2 BHK Apartment	Puri Sector 3	Puri / Odisha	Apartment / 2 BHK	727	₹41 L	Unfurnished	2	Family	Sale
+1028	Odisha Properties (Odisha.txt)	2 BHK Apartment	Puri North	Puri / Odisha	Apartment / 2 BHK	728	₹12,200/month	Fully-Furnished	3	Bachelors	Rent
+1029	Odisha Properties (Odisha.txt)	4 BHK Villa	Puri Sector 3	Puri / Odisha	Villa / 4 BHK	2746	₹25,000/month	Semi-Furnished	3	Family	Rent
+1030	Odisha Properties (Odisha.txt)	4 BHK Apartment	Cuttack South	Cuttack / Odisha	Apartment / 4 BHK	1492	₹25,300/month	Fully-Furnished	4	Bachelors	Rent
+1031	Odisha Properties (Odisha.txt)	2 BHK Apartment	Bhubaneswar Nagar	Bhubaneswar / Odisha	Apartment / 2 BHK	782	₹14,700/month	Fully-Furnished	1	Family	Rent
+1032	Odisha Properties (Odisha.txt)	3 BHK Apartment	Rourkela South	Rourkela / Odisha	Apartment / 3 BHK	1247	₹54.16 L	Unfurnished	3	Any	Sale
+1033	Odisha Properties (Odisha.txt)	4 BHK Apartment	Cuttack West	Cuttack / Odisha	Apartment / 4 BHK	1931	₹19,000/month	Semi-Furnished	4	Family	Rent
+1034	Odisha Properties (Odisha.txt)	1 BHK Apartment	Cuttack Residential Area	Cuttack / Odisha	Apartment / 1 BHK	510	₹34.48 L	Unfurnished	2	Any	Sale
+1035	Odisha Properties (Odisha.txt)	4 BHK Apartment	Bhubaneswar South	Bhubaneswar / Odisha	Apartment / 4 BHK	1696	₹89.56 L	Semi-Furnished	4	Bachelors	Sale
+1036	Odisha Properties (Odisha.txt)	1 BHK Apartment	Bhubaneswar Colony	Bhubaneswar / Odisha	Apartment / 1 BHK	482	₹9,300/month	Fully-Furnished	2	Family	Rent
+1037	Odisha Properties (Odisha.txt)	1 BHK Villa	Rourkela Sector 3	Rourkela / Odisha	Villa / 1 BHK	675	₹9,000/month	Unfurnished	2	Family	Rent
+1038	Odisha Properties (Odisha.txt)	2 BHK Villa	Rourkela Residential Area	Rourkela / Odisha	Villa / 2 BHK	1225	₹16,400/month	Unfurnished	2	Family	Rent
+1039	Odisha Properties (Odisha.txt)	3 BHK Apartment	Cuttack Extension	Cuttack / Odisha	Apartment / 3 BHK	1432	₹53.30 L	Unfurnished	3	Family	Sale
+1040	Odisha Properties (Odisha.txt)	3 BHK Apartment	Puri Colony	Puri / Odisha	Apartment / 3 BHK	1671	₹73.54 L	Semi-Furnished	2	Bachelors	Sale
+1041	Odisha Properties (Odisha.txt)	1 BHK Apartment	Puri Sector 2	Puri / Odisha	Apartment / 1 BHK	654	₹10,100/month	Unfurnished	1	Family	Rent
+1042	Odisha Properties (Odisha.txt)	3 BHK Apartment	Rourkela Nagar	Rourkela / Odisha	Apartment / 3 BHK	1206	₹70.41 L	Semi-Furnished	3	Family	Sale
+1043	Odisha Properties (Odisha.txt)	2 BHK Independent House	Bhubaneswar Town Centre	Bhubaneswar / Odisha	Independent House / 2 BHK	886	₹13,700/month	Unfurnished	2	Family	Rent
+1044	Odisha Properties (Odisha.txt)	3 BHK Apartment	Puri Sector 3	Puri / Odisha	Apartment / 3 BHK	1048	₹17,500/month	Semi-Furnished	3	Family	Rent
+1045	Odisha Properties (Odisha.txt)	2 BHK Villa	Cuttack Main Road	Cuttack / Odisha	Villa / 2 BHK	1375	₹14,300/month	Semi-Furnished	2	Family	Rent
+1046	Odisha Properties (Odisha.txt)	2 BHK Builder Floor	Bhubaneswar West	Bhubaneswar / Odisha	Builder Floor / 2 BHK	716	₹13,400/month	Unfurnished	2	Family	Rent
+1047	Odisha Properties (Odisha.txt)	3 BHK Builder Floor	Cuttack Sector 1	Cuttack / Odisha	Builder Floor / 3 BHK	1167	₹17,900/month	Semi-Furnished	3	Any	Rent
+1048	Odisha Properties (Odisha.txt)	1 BHK Apartment	Cuttack Town Centre	Cuttack / Odisha	Apartment / 1 BHK	426	₹7,800/month	Fully-Furnished	1	Any	Rent
+1049	Odisha Properties (Odisha.txt)	2 BHK Independent House	Puri Town Centre	Puri / Odisha	Independent House / 2 BHK	939	₹45.36 L	Semi-Furnished	2	Family	Sale
+1050	Odisha Properties (Odisha.txt)	1 BHK Studio	Rourkela Colony	Rourkela / Odisha	Studio / 1 BHK	380	₹7,800/month	Semi-Furnished	1	Family	Rent
+1051	Odisha Properties (Odisha.txt)	2 BHK Independent House	Rourkela Main Road	Rourkela / Odisha	Independent House / 2 BHK	1051	₹46.89 L	Unfurnished	1	Family	Sale
+1052	Odisha Properties (Odisha.txt)	3 BHK Independent House	Cuttack North	Cuttack / Odisha	Independent House / 3 BHK	1630	₹79.13 L	Semi-Furnished	3	Family	Sale
+1053	Odisha Properties (Odisha.txt)	2 BHK Apartment	Cuttack South	Cuttack / Odisha	Apartment / 2 BHK	807	₹14,200/month	Fully-Furnished	1	Any	Rent
+1054	Odisha Properties (Odisha.txt)	4 BHK Independent House	Cuttack Sector 3	Cuttack / Odisha	Independent House / 4 BHK	2022	₹83.76 L	Semi-Furnished	4	Any	Sale
+1055	Odisha Properties (Odisha.txt)	2 BHK Villa	Rourkela South	Rourkela / Odisha	Villa / 2 BHK	1121	₹14,200/month	Fully-Furnished	2	Family	Rent
+1056	Odisha Properties (Odisha.txt)	2 BHK Builder Floor	Rourkela Sector 2	Rourkela / Odisha	Builder Floor / 2 BHK	922	₹11,200/month	Unfurnished	2	Bachelors	Rent
+1057	Odisha Properties (Odisha.txt)	3 BHK Builder Floor	Cuttack Sector 3	Cuttack / Odisha	Builder Floor / 3 BHK	1114	₹18,600/month	Unfurnished	3	Family	Rent
+1058	Odisha Properties (Odisha.txt)	2 BHK Villa	Puri Nagar	Puri / Odisha	Villa / 2 BHK	1094	₹14,000/month	Fully-Furnished	2	Family	Rent
+1059	Odisha Properties (Odisha.txt)	1 BHK Apartment	Bhubaneswar Central	Bhubaneswar / Odisha	Apartment / 1 BHK	574	₹7,200/month	Unfurnished	1	Family	Rent
+1060	Odisha Properties (Odisha.txt)	1 BHK Independent House	Bhubaneswar Nagar	Bhubaneswar / Odisha	Independent House / 1 BHK	711	₹8,900/month	Unfurnished	1	Any	Rent
+1061	Odisha Properties (Odisha.txt)	2 BHK Apartment	Bhubaneswar Sector 1	Bhubaneswar / Odisha	Apartment / 2 BHK	606	₹49.70 L	Fully-Furnished	2	Family	Sale
+1062	Odisha Properties (Odisha.txt)	2 BHK Apartment	Rourkela Residential Area	Rourkela / Odisha	Apartment / 2 BHK	987	₹46.43 L	Fully-Furnished	2	Family	Sale
+1063	Odisha Properties (Odisha.txt)	2 BHK Builder Floor	Bhubaneswar Colony	Bhubaneswar / Odisha	Builder Floor / 2 BHK	816	₹49.96 L	Fully-Furnished	2	Family	Sale
+1064	Odisha Properties (Odisha.txt)	3 BHK Apartment	Rourkela Sector 1	Rourkela / Odisha	Apartment / 3 BHK	1374	₹20,900/month	Semi-Furnished	3	Any	Rent
+1065	Odisha Properties (Odisha.txt)	3 BHK Apartment	Rourkela West	Rourkela / Odisha	Apartment / 3 BHK	1259	₹63.75 L	Unfurnished	3	Family	Sale
+1066	Odisha Properties (Odisha.txt)	2 BHK Villa	Rourkela Sector 3	Rourkela / Odisha	Villa / 2 BHK	930	₹14,600/month	Unfurnished	2	Family	Rent
+1067	Odisha Properties (Odisha.txt)	2 BHK Builder Floor	Bhubaneswar Extension	Bhubaneswar / Odisha	Builder Floor / 2 BHK	622	₹38.51 L	Semi-Furnished	2	Bachelors	Sale
+1068	Odisha Properties (Odisha.txt)	2 BHK Independent House	Cuttack North	Cuttack / Odisha	Independent House / 2 BHK	1089	₹14,400/month	Fully-Furnished	2	Family	Rent
+1069	Odisha Properties (Odisha.txt)	2 BHK Builder Floor	Bhubaneswar West	Bhubaneswar / Odisha	Builder Floor / 2 BHK	829	₹44.06 L	Unfurnished	2	Family	Sale
+1070	Odisha Properties (Odisha.txt)	4 BHK Apartment	Cuttack Residential Area	Cuttack / Odisha	Apartment / 4 BHK	1802	₹18,200/month	Unfurnished	5	Bachelors	Rent
+1071	Odisha Properties (Odisha.txt)	2 BHK Apartment	Rourkela Sector 3	Rourkela / Odisha	Apartment / 2 BHK	891	₹43.71 L	Fully-Furnished	1	Bachelors	Sale
+1072	Odisha Properties (Odisha.txt)	2 BHK Apartment	Cuttack West	Cuttack / Odisha	Apartment / 2 BHK	731	₹44.30 L	Fully-Furnished	2	Family	Sale
+1073	Odisha Properties (Odisha.txt)	1 BHK Apartment	Cuttack West	Cuttack / Odisha	Apartment / 1 BHK	568	₹27.46 L	Fully-Furnished	1	Family	Sale
+1074	Odisha Properties (Odisha.txt)	3 BHK Apartment	Rourkela Extension	Rourkela / Odisha	Apartment / 3 BHK	1179	₹71.97 L	Semi-Furnished	2	Bachelors	Sale
+1075	Odisha Properties (Odisha.txt)	1 BHK Apartment	Cuttack Nagar	Cuttack / Odisha	Apartment / 1 BHK	513	₹29.04 L	Semi-Furnished	1	Family	Sale
+1076	Odisha Properties (Odisha.txt)	3 BHK Apartment	Rourkela Sector 3	Rourkela / Odisha	Apartment / 3 BHK	1138	₹63.85 L	Semi-Furnished	2	Family	Sale
+1077	Odisha Properties (Odisha.txt)	1 BHK Apartment	Bhubaneswar East	Bhubaneswar / Odisha	Apartment / 1 BHK	487	₹8,500/month	Unfurnished	1	Bachelors	Rent
+1078	Odisha Properties (Odisha.txt)	3 BHK Apartment	Bhubaneswar Sector 1	Bhubaneswar / Odisha	Apartment / 3 BHK	1425	₹18,600/month	Semi-Furnished	3	Any	Rent
+1079	Odisha Properties (Odisha.txt)	1 BHK Independent House	Cuttack West	Cuttack / Odisha	Independent House / 1 BHK	578	₹24.50 L	Semi-Furnished	1	Any	Sale
+1080	Odisha Properties (Odisha.txt)	3 BHK Independent House	Puri North	Puri / Odisha	Independent House / 3 BHK	1764	₹19,100/month	Unfurnished	3	Family	Rent
+1081	Odisha Properties (Odisha.txt)	3 BHK Builder Floor	Bhubaneswar Central	Bhubaneswar / Odisha	Builder Floor / 3 BHK	894	₹13,400/month	Fully-Furnished	4	Bachelors	Rent
+1082	Odisha Properties (Odisha.txt)	1 BHK Apartment	Cuttack South	Cuttack / Odisha	Apartment / 1 BHK	472	₹23.75 L	Semi-Furnished	1	Bachelors	Sale
+1083	Odisha Properties (Odisha.txt)	3 BHK Villa	Rourkela Town Centre	Rourkela / Odisha	Villa / 3 BHK	1466	₹57 L	Fully-Furnished	4	Family	Sale
+1084	Odisha Properties (Odisha.txt)	4 BHK Apartment	Puri Heights	Puri / Odisha	Apartment / 4 BHK	1477	₹78.30 L	Fully-Furnished	4	Any	Sale
+1085	Odisha Properties (Odisha.txt)	4 BHK Apartment	Rourkela West	Rourkela / Odisha	Apartment / 4 BHK	1317	₹23,800/month	Unfurnished	4	Family	Rent
+1086	Odisha Properties (Odisha.txt)	4 BHK Apartment	Cuttack East	Cuttack / Odisha	Apartment / 4 BHK	1450	₹19,900/month	Fully-Furnished	4	Family	Rent
+1087	Odisha Properties (Odisha.txt)	4 BHK Apartment	Rourkela Heights	Rourkela / Odisha	Apartment / 4 BHK	1176	₹19,800/month	Fully-Furnished	4	Any	Rent
+1088	Odisha Properties (Odisha.txt)	4 BHK Apartment	Bhubaneswar Nagar	Bhubaneswar / Odisha	Apartment / 4 BHK	1811	₹93.45 L	Fully-Furnished	4	Family	Sale
+1089	Odisha Properties (Odisha.txt)	2 BHK Apartment	Puri South	Puri / Odisha	Apartment / 2 BHK	630	₹13,300/month	Fully-Furnished	3	Family	Rent
+1090	Odisha Properties (Odisha.txt)	3 BHK Apartment	Bhubaneswar Main Road	Bhubaneswar / Odisha	Apartment / 3 BHK	1513	₹17,200/month	Fully-Furnished	4	Family	Rent
+1091	Odisha Properties (Odisha.txt)	2 BHK Builder Floor	Cuttack Main Road	Cuttack / Odisha	Builder Floor / 2 BHK	1002	₹12,600/month	Semi-Furnished	2	Family	Rent
+1092	Odisha Properties (Odisha.txt)	3 BHK Apartment	Cuttack Town Centre	Cuttack / Odisha	Apartment / 3 BHK	1037	₹62.78 L	Semi-Furnished	3	Any	Sale
+1093	Odisha Properties (Odisha.txt)	1 BHK Independent House	Cuttack East	Cuttack / Odisha	Independent House / 1 BHK	644	₹31.11 L	Unfurnished	1	Any	Sale
+1094	Odisha Properties (Odisha.txt)	2 BHK Independent House	Rourkela Sector 2	Rourkela / Odisha	Independent House / 2 BHK	828	₹44.31 L	Semi-Furnished	3	Any	Sale
+1095	Odisha Properties (Odisha.txt)	2 BHK Apartment	Cuttack Heights	Cuttack / Odisha	Apartment / 2 BHK	816	₹53.70 L	Fully-Furnished	2	Family	Sale
+1096	Odisha Properties (Odisha.txt)	3 BHK Apartment	Bhubaneswar Main Road	Bhubaneswar / Odisha	Apartment / 3 BHK	1079	₹62.54 L	Fully-Furnished	2	Family	Sale
+1097	Odisha Properties (Odisha.txt)	2 BHK Apartment	Bhubaneswar East	Bhubaneswar / Odisha	Apartment / 2 BHK	929	₹12,900/month	Fully-Furnished	2	Bachelors	Rent
+1098	Odisha Properties (Odisha.txt)	1 BHK Villa	Puri Sector 3	Puri / Odisha	Villa / 1 BHK	541	₹26.87 L	Unfurnished	1	Bachelors	Sale
+1099	Odisha Properties (Odisha.txt)	3 BHK Independent House	Bhubaneswar North	Bhubaneswar / Odisha	Independent House / 3 BHK	1423	₹71.74 L	Semi-Furnished	3	Family	Sale
+1100	Odisha Properties (Odisha.txt)	3 BHK Apartment	Puri West	Puri / Odisha	Apartment / 3 BHK	1475	₹53.87 L	Semi-Furnished	3	Family	Sale
+1101	Odisha Properties (Odisha.txt)	3 BHK Apartment	Bhubaneswar Town Centre	Bhubaneswar / Odisha	Apartment / 3 BHK	1149	₹60.20 L	Fully-Furnished	2	Family	Sale
+1102	Odisha Properties (Odisha.txt)	2 BHK Apartment	Rourkela Sector 3	Rourkela / Odisha	Apartment / 2 BHK	794	₹10,000/month	Semi-Furnished	2	Family	Rent
+1103	Odisha Properties (Odisha.txt)	1 BHK Studio	Bhubaneswar Sector 2	Bhubaneswar / Odisha	Studio / 1 BHK	448	₹27.80 L	Fully-Furnished	1	Family	Sale
+1104	Odisha Properties (Odisha.txt)	1 BHK Builder Floor	Rourkela Main Road	Rourkela / Odisha	Builder Floor / 1 BHK	543	₹8,200/month	Fully-Furnished	2	Family	Rent
+1105	Odisha Properties (Odisha.txt)	5 BHK Apartment	Bhubaneswar Residential Area	Bhubaneswar / Odisha	Apartment / 5 BHK	2381	₹22,400/month	Semi-Furnished	5	Family	Rent
+1106	Odisha Properties (Odisha.txt)	3 BHK Independent House	Rourkela Extension	Rourkela / Odisha	Independent House / 3 BHK	1406	₹64.41 L	Unfurnished	2	Family	Sale
+1107	Odisha Properties (Odisha.txt)	2 BHK Apartment	Rourkela West	Rourkela / Odisha	Apartment / 2 BHK	764	₹48.86 L	Unfurnished	1	Family	Sale
+1108	Odisha Properties (Odisha.txt)	1 BHK Apartment	Cuttack West	Cuttack / Odisha	Apartment / 1 BHK	448	₹29.44 L	Unfurnished	1	Bachelors	Sale
+1109	Odisha Properties (Odisha.txt)	1 BHK Apartment	Rourkela Heights	Rourkela / Odisha	Apartment / 1 BHK	694	₹26.32 L	Unfurnished	1	Bachelors	Sale
+1110	Odisha Properties (Odisha.txt)	2 BHK Villa	Bhubaneswar North	Bhubaneswar / Odisha	Villa / 2 BHK	1202	₹54.21 L	Semi-Furnished	2	Any	Sale
+1111	Odisha Properties (Odisha.txt)	2 BHK Apartment	Rourkela Central	Rourkela / Odisha	Apartment / 2 BHK	899	₹52.55 L	Semi-Furnished	2	Family	Sale
+1112	Odisha Properties (Odisha.txt)	3 BHK Independent House	Bhubaneswar Extension	Bhubaneswar / Odisha	Independent House / 3 BHK	1232	₹73.38 L	Semi-Furnished	4	Any	Sale
+1113	Odisha Properties (Odisha.txt)	1 BHK Builder Floor	Rourkela Main Road	Rourkela / Odisha	Builder Floor / 1 BHK	494	₹8,400/month	Semi-Furnished	1	Family	Rent
+1114	Odisha Properties (Odisha.txt)	5 BHK Independent House	Cuttack Sector 1	Cuttack / Odisha	Independent House / 5 BHK	3355	₹96.88 L	Unfurnished	5	Family	Sale
+1115	Odisha Properties (Odisha.txt)	3 BHK Villa	Bhubaneswar Heights	Bhubaneswar / Odisha	Villa / 3 BHK	1868	₹68.24 L	Semi-Furnished	3	Bachelors	Sale
+1116	Odisha Properties (Odisha.txt)	3 BHK Builder Floor	Bhubaneswar Sector 2	Bhubaneswar / Odisha	Builder Floor / 3 BHK	1330	₹19,300/month	Fully-Furnished	2	Bachelors	Rent
+1117	Odisha Properties (Odisha.txt)	2 BHK Apartment	Cuttack Heights	Cuttack / Odisha	Apartment / 2 BHK	746	₹49.50 L	Semi-Furnished	1	Family	Sale
+1118	Odisha Properties (Odisha.txt)	3 BHK Apartment	Rourkela North	Rourkela / Odisha	Apartment / 3 BHK	1112	₹70.38 L	Semi-Furnished	2	Family	Sale
+1119	Odisha Properties (Odisha.txt)	3 BHK Builder Floor	Bhubaneswar Nagar	Bhubaneswar / Odisha	Builder Floor / 3 BHK	1190	₹62.05 L	Semi-Furnished	3	Family	Sale
+1120	Odisha Properties (Odisha.txt)	4 BHK Apartment	Rourkela West	Rourkela / Odisha	Apartment / 4 BHK	1363	₹68.39 L	Semi-Furnished	3	Bachelors	Sale
+1121	Odisha Properties (Odisha.txt)	2 BHK Apartment	Rourkela Main Road	Rourkela / Odisha	Apartment / 2 BHK	835	₹53.13 L	Unfurnished	2	Family	Sale
+1122	Odisha Properties (Odisha.txt)	1 BHK Studio	Bhubaneswar Nagar	Bhubaneswar / Odisha	Studio / 1 BHK	402	₹7,500/month	Semi-Furnished	1	Bachelors	Rent
+1123	Odisha Properties (Odisha.txt)	3 BHK Apartment	Rourkela South	Rourkela / Odisha	Apartment / 3 BHK	1523	₹70.17 L	Fully-Furnished	4	Any	Sale
+1124	Odisha Properties (Odisha.txt)	3 BHK Apartment	Bhubaneswar Colony	Bhubaneswar / Odisha	Apartment / 3 BHK	1330	₹64.88 L	Unfurnished	2	Any	Sale
+1125	Odisha Properties (Odisha.txt)	1 BHK Apartment	Cuttack Colony	Cuttack / Odisha	Apartment / 1 BHK	493	₹34.42 L	Fully-Furnished	2	Bachelors	Sale
+1126	Odisha Properties (Odisha.txt)	2 BHK Villa	Puri West	Puri / Odisha	Villa / 2 BHK	1254	₹49.19 L	Semi-Furnished	2	Bachelors	Sale
+1127	Odisha Properties (Odisha.txt)	1 BHK Studio	Rourkela Colony	Rourkela / Odisha	Studio / 1 BHK	443	₹26.70 L	Unfurnished	1	Family	Sale
+1128	Odisha Properties (Odisha.txt)	1 BHK Apartment	Cuttack East	Cuttack / Odisha	Apartment / 1 BHK	412	₹9,400/month	Semi-Furnished	2	Any	Rent
+1129	Odisha Properties (Odisha.txt)	2 BHK Builder Floor	Rourkela Sector 2	Rourkela / Odisha	Builder Floor / 2 BHK	649	₹11,600/month	Unfurnished	3	Bachelors	Rent
+1130	Odisha Properties (Odisha.txt)	2 BHK Builder Floor	Rourkela Town Centre	Rourkela / Odisha	Builder Floor / 2 BHK	1064	₹54.29 L	Semi-Furnished	2	Bachelors	Sale
+1131	Odisha Properties (Odisha.txt)	3 BHK Apartment	Puri Extension	Puri / Odisha	Apartment / 3 BHK	859	₹63.77 L	Semi-Furnished	3	Bachelors	Sale
+1132	Odisha Properties (Odisha.txt)	2 BHK Apartment	Bhubaneswar West	Bhubaneswar / Odisha	Apartment / 2 BHK	783	₹11,300/month	Fully-Furnished	2	Family	Rent
+1133	Odisha Properties (Odisha.txt)	3 BHK Independent House	Rourkela Sector 3	Rourkela / Odisha	Independent House / 3 BHK	1323	₹15,900/month	Fully-Furnished	4	Any	Rent
+1134	Odisha Properties (Odisha.txt)	2 BHK Apartment	Rourkela Town Centre	Rourkela / Odisha	Apartment / 2 BHK	1046	₹13,000/month	Semi-Furnished	1	Bachelors	Rent
+1135	Odisha Properties (Odisha.txt)	2 BHK Builder Floor	Puri Residential Area	Puri / Odisha	Builder Floor / 2 BHK	714	₹39.25 L	Semi-Furnished	3	Family	Sale
+1136	Odisha Properties (Odisha.txt)	3 BHK Apartment	Puri West	Puri / Odisha	Apartment / 3 BHK	1126	₹65.18 L	Unfurnished	2	Family	Sale
+1137	Odisha Properties (Odisha.txt)	1 BHK Independent House	Rourkela Town Centre	Rourkela / Odisha	Independent House / 1 BHK	741	₹35.90 L	Fully-Furnished	1	Any	Sale
+1138	Odisha Properties (Odisha.txt)	2 BHK Builder Floor	Cuttack Sector 1	Cuttack / Odisha	Builder Floor / 2 BHK	1032	₹50.99 L	Semi-Furnished	2	Family	Sale
+1139	Odisha Properties (Odisha.txt)	2 BHK Independent House	Cuttack Sector 3	Cuttack / Odisha	Independent House / 2 BHK	1375	₹48.92 L	Semi-Furnished	3	Any	Sale
+1140	Odisha Properties (Odisha.txt)	3 BHK Apartment	Puri Nagar	Puri / Odisha	Apartment / 3 BHK	903	₹14,700/month	Semi-Furnished	3	Any	Rent
+1141	Odisha Properties (Odisha.txt)	4 BHK Apartment	Puri Sector 2	Puri / Odisha	Apartment / 4 BHK	1618	₹18,600/month	Semi-Furnished	4	Bachelors	Rent
+1142	Odisha Properties (Odisha.txt)	3 BHK Villa	Rourkela North	Rourkela / Odisha	Villa / 3 BHK	1822	₹19,200/month	Unfurnished	3	Any	Rent
+1143	Odisha Properties (Odisha.txt)	2 BHK Apartment	Cuttack Sector 3	Cuttack / Odisha	Apartment / 2 BHK	818	₹49.16 L	Semi-Furnished	2	Bachelors	Sale
+1144	Odisha Properties (Odisha.txt)	2 BHK Apartment	Puri Colony	Puri / Odisha	Apartment / 2 BHK	861	₹12,200/month	Semi-Furnished	2	Bachelors	Rent
+1145	Odisha Properties (Odisha.txt)	3 BHK Apartment	Puri Central	Puri / Odisha	Apartment / 3 BHK	1173	₹61.22 L	Fully-Furnished	3	Family	Sale
+1146	Odisha Properties (Odisha.txt)	2 BHK Apartment	Puri East	Puri / Odisha	Apartment / 2 BHK	695	₹47.65 L	Fully-Furnished	2	Bachelors	Sale
+1147	Odisha Properties (Odisha.txt)	2 BHK Apartment	Rourkela West	Rourkela / Odisha	Apartment / 2 BHK	823	₹47.06 L	Unfurnished	3	Family	Sale
+1148	Odisha Properties (Odisha.txt)	2 BHK Builder Floor	Cuttack West	Cuttack / Odisha	Builder Floor / 2 BHK	850	₹49.94 L	Unfurnished	3	Family	Sale
+1149	Odisha Properties (Odisha.txt)	2 BHK Apartment	Puri Heights	Puri / Odisha	Apartment / 2 BHK	771	₹39.75 L	Fully-Furnished	2	Family	Sale
+1150	Odisha Properties (Odisha.txt)	2 BHK Apartment	Puri Colony	Puri / Odisha	Apartment / 2 BHK	901	₹54.47 L	Unfurnished	1	Family	Sale
+1151	Odisha Properties (Odisha.txt)	3 BHK Apartment	Cuttack Nagar	Cuttack / Odisha	Apartment / 3 BHK	1319	₹59.71 L	Semi-Furnished	4	Family	Sale
+1152	Odisha Properties (Odisha.txt)	1 BHK Apartment	Bhubaneswar Heights	Bhubaneswar / Odisha	Apartment / 1 BHK	545	₹34.74 L	Semi-Furnished	1	Bachelors	Sale
+1153	Odisha Properties (Odisha.txt)	2 BHK Builder Floor	Puri Central	Puri / Odisha	Builder Floor / 2 BHK	970	₹41.61 L	Fully-Furnished	2	Family	Sale
+1154	Odisha Properties (Odisha.txt)	2 BHK Independent House	Puri Heights	Puri / Odisha	Independent House / 2 BHK	1065	₹41.36 L	Semi-Furnished	3	Bachelors	Sale
+1155	Odisha Properties (Odisha.txt)	2 BHK Independent House	Puri West	Puri / Odisha	Independent House / 2 BHK	1125	₹54.78 L	Semi-Furnished	2	Family	Sale
+1156	Odisha Properties (Odisha.txt)	5 BHK Apartment	Cuttack Main Road	Cuttack / Odisha	Apartment / 5 BHK	2738	₹1.03 Cr	Semi-Furnished	5	Family	Sale
+1157	Odisha Properties (Odisha.txt)	2 BHK Apartment	Puri South	Puri / Odisha	Apartment / 2 BHK	800	₹45.62 L	Fully-Furnished	1	Family	Sale
+1158	Odisha Properties (Odisha.txt)	2 BHK Apartment	Bhubaneswar Sector 2	Bhubaneswar / Odisha	Apartment / 2 BHK	698	₹38.36 L	Unfurnished	2	Bachelors	Sale
+1159	Odisha Properties (Odisha.txt)	2 BHK Apartment	Rourkela Sector 1	Rourkela / Odisha	Apartment / 2 BHK	843	₹50.26 L	Semi-Furnished	2	Any	Sale
+1160	Odisha Properties (Odisha.txt)	2 BHK Builder Floor	Puri East	Puri / Odisha	Builder Floor / 2 BHK	764	₹13,600/month	Unfurnished	2	Family	Rent
+1161	Odisha Properties (Odisha.txt)	3 BHK Apartment	Bhubaneswar Main Road	Bhubaneswar / Odisha	Apartment / 3 BHK	1229	₹14,300/month	Semi-Furnished	3	Family	Rent
+1162	Odisha Properties (Odisha.txt)	1 BHK Apartment	Puri Nagar	Puri / Odisha	Apartment / 1 BHK	562	₹8,300/month	Semi-Furnished	1	Family	Rent
+1163	Odisha Properties (Odisha.txt)	2 BHK Independent House	Bhubaneswar Residential Area	Bhubaneswar / Odisha	Independent House / 2 BHK	1134	₹45.46 L	Unfurnished	2	Any	Sale
+1164	Odisha Properties (Odisha.txt)	3 BHK Apartment	Rourkela Nagar	Rourkela / Odisha	Apartment / 3 BHK	1202	₹60.52 L	Semi-Furnished	3	Bachelors	Sale
+1165	Odisha Properties (Odisha.txt)	1 BHK Apartment	Cuttack Sector 2	Cuttack / Odisha	Apartment / 1 BHK	584	₹32.63 L	Semi-Furnished	2	Bachelors	Sale
+1166	Odisha Properties (Odisha.txt)	3 BHK Apartment	Bhubaneswar Colony	Bhubaneswar / Odisha	Apartment / 3 BHK	1178	₹17,500/month	Fully-Furnished	3	Family	Rent
+1167	Odisha Properties (Odisha.txt)	1 BHK Apartment	Cuttack Heights	Cuttack / Odisha	Apartment / 1 BHK	407	₹9,100/month	Fully-Furnished	1	Bachelors	Rent
+1168	Odisha Properties (Odisha.txt)	1 BHK Apartment	Puri Nagar	Puri / Odisha	Apartment / 1 BHK	535	₹24.35 L	Semi-Furnished	2	Any	Sale
+1169	Odisha Properties (Odisha.txt)	2 BHK Apartment	Cuttack Central	Cuttack / Odisha	Apartment / 2 BHK	840	₹14,300/month	Semi-Furnished	2	Family	Rent
+1170	Odisha Properties (Odisha.txt)	1 BHK Studio	Cuttack West	Cuttack / Odisha	Studio / 1 BHK	333	₹26.09 L	Fully-Furnished	1	Bachelors	Sale
+1171	Odisha Properties (Odisha.txt)	3 BHK Apartment	Bhubaneswar Town Centre	Bhubaneswar / Odisha	Apartment / 3 BHK	1064	₹63.87 L	Semi-Furnished	3	Family	Sale
