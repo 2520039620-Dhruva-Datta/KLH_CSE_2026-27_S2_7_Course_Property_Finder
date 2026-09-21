@@ -1,0 +1,1172 @@
+No.	Source	Property	Location	City / State	Type / Config	Area	Price / Rent	Furnishing	Bathrooms	Tennants	Listing Type
+1	West Bengal Properties (West_Bengal.txt)	1 BHK Independent House	Howrah South	Howrah / West Bengal	Independent House / 1 BHK	507	₹9,000/month	Semi-Furnished	1	Family	Rent
+2	West Bengal Properties (West_Bengal.txt)	2 BHK Apartment	Kolkata North	Kolkata / West Bengal	Apartment / 2 BHK	787	₹17,300/month	Fully-Furnished	3	Family	Rent
+3	West Bengal Properties (West_Bengal.txt)	1 BHK Apartment	Durgapur North	Durgapur / West Bengal	Apartment / 1 BHK	544	₹35.35 L	Unfurnished	1	Bachelors	Sale
+4	West Bengal Properties (West_Bengal.txt)	3 BHK Independent House	Howrah South	Howrah / West Bengal	Independent House / 3 BHK	1359	₹20,200/month	Fully-Furnished	2	Family	Rent
+5	West Bengal Properties (West_Bengal.txt)	1 BHK Apartment	Siliguri Main Road	Siliguri / West Bengal	Apartment / 1 BHK	456	₹35.81 L	Unfurnished	1	Any	Sale
+6	West Bengal Properties (West_Bengal.txt)	2 BHK Apartment	Siliguri Sector 1	Siliguri / West Bengal	Apartment / 2 BHK	1054	₹13,800/month	Unfurnished	2	Bachelors	Rent
+7	West Bengal Properties (West_Bengal.txt)	3 BHK Apartment	Kolkata Sector 1	Kolkata / West Bengal	Apartment / 3 BHK	1389	₹85.52 L	Fully-Furnished	3	Family	Sale
+8	West Bengal Properties (West_Bengal.txt)	2 BHK Apartment	Howrah Sector 3	Howrah / West Bengal	Apartment / 2 BHK	935	₹50.60 L	Semi-Furnished	2	Family	Sale
+9	West Bengal Properties (West_Bengal.txt)	2 BHK Independent House	Durgapur Sector 3	Durgapur / West Bengal	Independent House / 2 BHK	1049	₹13,100/month	Unfurnished	1	Family	Rent
+10	West Bengal Properties (West_Bengal.txt)	2 BHK Villa	Howrah Main Road	Howrah / West Bengal	Villa / 2 BHK	1017	₹15,600/month	Fully-Furnished	1	Any	Rent
+11	West Bengal Properties (West_Bengal.txt)	1 BHK Studio	Howrah Town Centre	Howrah / West Bengal	Studio / 1 BHK	506	₹10,400/month	Fully-Furnished	2	Family	Rent
+12	West Bengal Properties (West_Bengal.txt)	3 BHK Apartment	Kolkata Extension	Kolkata / West Bengal	Apartment / 3 BHK	1308	₹88.11 L	Unfurnished	3	Any	Sale
+13	West Bengal Properties (West_Bengal.txt)	2 BHK Independent House	Howrah Nagar	Howrah / West Bengal	Independent House / 2 BHK	738	₹12,400/month	Semi-Furnished	2	Bachelors	Rent
+14	West Bengal Properties (West_Bengal.txt)	2 BHK Independent House	Kolkata West	Kolkata / West Bengal	Independent House / 2 BHK	1082	₹48.45 L	Semi-Furnished	2	Family	Sale
+15	West Bengal Properties (West_Bengal.txt)	2 BHK Apartment	Howrah East	Howrah / West Bengal	Apartment / 2 BHK	774	₹45.16 L	Semi-Furnished	2	Family	Sale
+16	West Bengal Properties (West_Bengal.txt)	2 BHK Builder Floor	Siliguri East	Siliguri / West Bengal	Builder Floor / 2 BHK	853	₹52.09 L	Unfurnished	2	Bachelors	Sale
+17	West Bengal Properties (West_Bengal.txt)	4 BHK Builder Floor	Durgapur Residential Area	Durgapur / West Bengal	Builder Floor / 4 BHK	1289	₹25,600/month	Semi-Furnished	4	Bachelors	Rent
+18	West Bengal Properties (West_Bengal.txt)	2 BHK Apartment	Siliguri South	Siliguri / West Bengal	Apartment / 2 BHK	798	₹13,500/month	Unfurnished	2	Family	Rent
+19	West Bengal Properties (West_Bengal.txt)	2 BHK Independent House	Kolkata Extension	Kolkata / West Bengal	Independent House / 2 BHK	920	₹13,500/month	Fully-Furnished	2	Any	Rent
+20	West Bengal Properties (West_Bengal.txt)	3 BHK Apartment	Howrah Main Road	Howrah / West Bengal	Apartment / 3 BHK	1073	₹20,100/month	Fully-Furnished	4	Family	Rent
+21	West Bengal Properties (West_Bengal.txt)	1 BHK Studio	Howrah East	Howrah / West Bengal	Studio / 1 BHK	334	₹30.24 L	Semi-Furnished	1	Any	Sale
+22	West Bengal Properties (West_Bengal.txt)	2 BHK Independent House	Kolkata North	Kolkata / West Bengal	Independent House / 2 BHK	764	₹14,100/month	Semi-Furnished	2	Bachelors	Rent
+23	West Bengal Properties (West_Bengal.txt)	2 BHK Apartment	Kolkata South	Kolkata / West Bengal	Apartment / 2 BHK	700	₹57.68 L	Semi-Furnished	1	Bachelors	Sale
+24	West Bengal Properties (West_Bengal.txt)	3 BHK Apartment	Durgapur Main Road	Durgapur / West Bengal	Apartment / 3 BHK	729	₹19,400/month	Unfurnished	2	Family	Rent
+25	West Bengal Properties (West_Bengal.txt)	1 BHK Studio	Howrah West	Howrah / West Bengal	Studio / 1 BHK	356	₹10,600/month	Fully-Furnished	1	Family	Rent
+26	West Bengal Properties (West_Bengal.txt)	3 BHK Builder Floor	Kolkata East	Kolkata / West Bengal	Builder Floor / 3 BHK	1292	₹86.35 L	Semi-Furnished	3	Family	Sale
+27	West Bengal Properties (West_Bengal.txt)	3 BHK Apartment	Kolkata Sector 3	Kolkata / West Bengal	Apartment / 3 BHK	1195	₹75.22 L	Unfurnished	3	Any	Sale
+28	West Bengal Properties (West_Bengal.txt)	2 BHK Apartment	Siliguri East	Siliguri / West Bengal	Apartment / 2 BHK	856	₹15,100/month	Fully-Furnished	1	Any	Rent
+29	West Bengal Properties (West_Bengal.txt)	5 BHK Apartment	Durgapur South	Durgapur / West Bengal	Apartment / 5 BHK	2416	₹1.49 Cr	Unfurnished	5	Bachelors	Sale
+30	West Bengal Properties (West_Bengal.txt)	1 BHK Builder Floor	Kolkata Residential Area	Kolkata / West Bengal	Builder Floor / 1 BHK	404	₹38.35 L	Fully-Furnished	2	Bachelors	Sale
+31	West Bengal Properties (West_Bengal.txt)	3 BHK Independent House	Howrah Nagar	Howrah / West Bengal	Independent House / 3 BHK	1526	₹20,300/month	Unfurnished	3	Family	Rent
+32	West Bengal Properties (West_Bengal.txt)	2 BHK Independent House	Siliguri Residential Area	Siliguri / West Bengal	Independent House / 2 BHK	918	₹16,100/month	Unfurnished	1	Bachelors	Rent
+33	West Bengal Properties (West_Bengal.txt)	4 BHK Villa	Durgapur South	Durgapur / West Bengal	Villa / 4 BHK	2741	₹29,200/month	Semi-Furnished	4	Family	Rent
+34	West Bengal Properties (West_Bengal.txt)	1 BHK Apartment	Howrah Sector 1	Howrah / West Bengal	Apartment / 1 BHK	403	₹33.56 L	Semi-Furnished	1	Any	Sale
+35	West Bengal Properties (West_Bengal.txt)	3 BHK Villa	Howrah Extension	Howrah / West Bengal	Villa / 3 BHK	1401	₹81.05 L	Fully-Furnished	3	Family	Sale
+36	West Bengal Properties (West_Bengal.txt)	2 BHK Apartment	Howrah Residential Area	Howrah / West Bengal	Apartment / 2 BHK	827	₹61.02 L	Semi-Furnished	2	Any	Sale
+37	West Bengal Properties (West_Bengal.txt)	3 BHK Builder Floor	Kolkata Town Centre	Kolkata / West Bengal	Builder Floor / 3 BHK	1500	₹23,000/month	Semi-Furnished	4	Family	Rent
+38	West Bengal Properties (West_Bengal.txt)	1 BHK Apartment	Howrah Main Road	Howrah / West Bengal	Apartment / 1 BHK	704	₹34.52 L	Unfurnished	2	Any	Sale
+39	West Bengal Properties (West_Bengal.txt)	3 BHK Apartment	Durgapur Extension	Durgapur / West Bengal	Apartment / 3 BHK	1509	₹76.93 L	Unfurnished	4	Family	Sale
+40	West Bengal Properties (West_Bengal.txt)	4 BHK Builder Floor	Howrah Sector 3	Howrah / West Bengal	Builder Floor / 4 BHK	2391	₹91.22 L	Semi-Furnished	3	Bachelors	Sale
+41	West Bengal Properties (West_Bengal.txt)	1 BHK Builder Floor	Durgapur Nagar	Durgapur / West Bengal	Builder Floor / 1 BHK	539	₹38.92 L	Fully-Furnished	2	Bachelors	Sale
+42	West Bengal Properties (West_Bengal.txt)	4 BHK Apartment	Siliguri Sector 1	Siliguri / West Bengal	Apartment / 4 BHK	2113	₹98.76 L	Semi-Furnished	4	Any	Sale
+43	West Bengal Properties (West_Bengal.txt)	3 BHK Builder Floor	Durgapur Main Road	Durgapur / West Bengal	Builder Floor / 3 BHK	1312	₹84.66 L	Semi-Furnished	2	Bachelors	Sale
+44	West Bengal Properties (West_Bengal.txt)	3 BHK Builder Floor	Durgapur Sector 2	Durgapur / West Bengal	Builder Floor / 3 BHK	1303	₹22,200/month	Unfurnished	3	Any	Rent
+45	West Bengal Properties (West_Bengal.txt)	4 BHK Independent House	Durgapur Nagar	Durgapur / West Bengal	Independent House / 4 BHK	2487	₹1.31 Cr	Unfurnished	4	Any	Sale
+46	West Bengal Properties (West_Bengal.txt)	2 BHK Apartment	Kolkata Sector 1	Kolkata / West Bengal	Apartment / 2 BHK	908	₹18,000/month	Fully-Furnished	2	Bachelors	Rent
+47	West Bengal Properties (West_Bengal.txt)	2 BHK Apartment	Howrah Heights	Howrah / West Bengal	Apartment / 2 BHK	970	₹50.17 L	Fully-Furnished	3	Family	Sale
+48	West Bengal Properties (West_Bengal.txt)	1 BHK Independent House	Siliguri North	Siliguri / West Bengal	Independent House / 1 BHK	521	₹11,000/month	Semi-Furnished	1	Bachelors	Rent
+49	West Bengal Properties (West_Bengal.txt)	2 BHK Independent House	Howrah Sector 1	Howrah / West Bengal	Independent House / 2 BHK	791	₹15,400/month	Semi-Furnished	3	Any	Rent
+50	West Bengal Properties (West_Bengal.txt)	2 BHK Apartment	Durgapur Residential Area	Durgapur / West Bengal	Apartment / 2 BHK	651	₹11,700/month	Fully-Furnished	3	Family	Rent
+51	West Bengal Properties (West_Bengal.txt)	3 BHK Independent House	Howrah North	Howrah / West Bengal	Independent House / 3 BHK	1390	₹18,200/month	Unfurnished	3	Any	Rent
+52	West Bengal Properties (West_Bengal.txt)	2 BHK Apartment	Kolkata Main Road	Kolkata / West Bengal	Apartment / 2 BHK	1109	₹65.78 L	Fully-Furnished	2	Bachelors	Sale
+53	West Bengal Properties (West_Bengal.txt)	2 BHK Apartment	Durgapur East	Durgapur / West Bengal	Apartment / 2 BHK	708	₹47.75 L	Fully-Furnished	2	Any	Sale
+54	West Bengal Properties (West_Bengal.txt)	2 BHK Apartment	Durgapur Nagar	Durgapur / West Bengal	Apartment / 2 BHK	936	₹50.76 L	Unfurnished	1	Any	Sale
+55	West Bengal Properties (West_Bengal.txt)	2 BHK Builder Floor	Howrah Sector 1	Howrah / West Bengal	Builder Floor / 2 BHK	835	₹15,600/month	Semi-Furnished	2	Family	Rent
+56	West Bengal Properties (West_Bengal.txt)	2 BHK Independent House	Durgapur North	Durgapur / West Bengal	Independent House / 2 BHK	1442	₹70.65 L	Semi-Furnished	2	Any	Sale
+57	West Bengal Properties (West_Bengal.txt)	2 BHK Apartment	Kolkata Main Road	Kolkata / West Bengal	Apartment / 2 BHK	947	₹60.01 L	Fully-Furnished	2	Family	Sale
+58	West Bengal Properties (West_Bengal.txt)	1 BHK Apartment	Siliguri Colony	Siliguri / West Bengal	Apartment / 1 BHK	519	₹30.12 L	Unfurnished	1	Family	Sale
+59	West Bengal Properties (West_Bengal.txt)	5 BHK Apartment	Durgapur East	Durgapur / West Bengal	Apartment / 5 BHK	2703	₹40,200/month	Semi-Furnished	5	Family	Rent
+60	West Bengal Properties (West_Bengal.txt)	2 BHK Villa	Howrah West	Howrah / West Bengal	Villa / 2 BHK	1032	₹49.50 L	Semi-Furnished	3	Any	Sale
+61	West Bengal Properties (West_Bengal.txt)	1 BHK Apartment	Kolkata North	Kolkata / West Bengal	Apartment / 1 BHK	416	₹10,600/month	Fully-Furnished	1	Family	Rent
+62	West Bengal Properties (West_Bengal.txt)	4 BHK Apartment	Siliguri Sector 2	Siliguri / West Bengal	Apartment / 4 BHK	1730	₹22,400/month	Semi-Furnished	4	Any	Rent
+63	West Bengal Properties (West_Bengal.txt)	2 BHK Apartment	Siliguri West	Siliguri / West Bengal	Apartment / 2 BHK	992	₹54.43 L	Fully-Furnished	3	Family	Sale
+64	West Bengal Properties (West_Bengal.txt)	3 BHK Villa	Siliguri Heights	Siliguri / West Bengal	Villa / 3 BHK	1738	₹68.48 L	Semi-Furnished	3	Family	Sale
+65	West Bengal Properties (West_Bengal.txt)	2 BHK Apartment	Kolkata North	Kolkata / West Bengal	Apartment / 2 BHK	989	₹66.94 L	Fully-Furnished	3	Family	Sale
+66	West Bengal Properties (West_Bengal.txt)	4 BHK Apartment	Siliguri Nagar	Siliguri / West Bengal	Apartment / 4 BHK	1673	₹94.32 L	Fully-Furnished	4	Any	Sale
+67	West Bengal Properties (West_Bengal.txt)	2 BHK Apartment	Siliguri South	Siliguri / West Bengal	Apartment / 2 BHK	874	₹16,800/month	Semi-Furnished	3	Any	Rent
+68	West Bengal Properties (West_Bengal.txt)	2 BHK Apartment	Kolkata Sector 2	Kolkata / West Bengal	Apartment / 2 BHK	638	₹11,700/month	Semi-Furnished	2	Bachelors	Rent
+69	West Bengal Properties (West_Bengal.txt)	3 BHK Independent House	Durgapur North	Durgapur / West Bengal	Independent House / 3 BHK	1568	₹67.42 L	Semi-Furnished	3	Family	Sale
+70	West Bengal Properties (West_Bengal.txt)	2 BHK Apartment	Siliguri South	Siliguri / West Bengal	Apartment / 2 BHK	708	₹12,400/month	Semi-Furnished	2	Bachelors	Rent
+71	West Bengal Properties (West_Bengal.txt)	5 BHK Apartment	Durgapur Extension	Durgapur / West Bengal	Apartment / 5 BHK	2405	₹38,400/month	Unfurnished	5	Family	Rent
+72	West Bengal Properties (West_Bengal.txt)	1 BHK Studio	Kolkata East	Kolkata / West Bengal	Studio / 1 BHK	356	₹39.06 L	Unfurnished	1	Family	Sale
+73	West Bengal Properties (West_Bengal.txt)	2 BHK Apartment	Howrah Central	Howrah / West Bengal	Apartment / 2 BHK	986	₹48.76 L	Unfurnished	3	Family	Sale
+74	West Bengal Properties (West_Bengal.txt)	1 BHK Independent House	Howrah Sector 2	Howrah / West Bengal	Independent House / 1 BHK	887	₹43.26 L	Semi-Furnished	1	Family	Sale
+75	West Bengal Properties (West_Bengal.txt)	3 BHK Apartment	Siliguri Central	Siliguri / West Bengal	Apartment / 3 BHK	1213	₹70.48 L	Semi-Furnished	4	Family	Sale
+76	West Bengal Properties (West_Bengal.txt)	3 BHK Apartment	Kolkata Town Centre	Kolkata / West Bengal	Apartment / 3 BHK	1269	₹71.18 L	Semi-Furnished	3	Any	Sale
+77	West Bengal Properties (West_Bengal.txt)	3 BHK Apartment	Durgapur Colony	Durgapur / West Bengal	Apartment / 3 BHK	1226	₹22,900/month	Semi-Furnished	4	Family	Rent
+78	West Bengal Properties (West_Bengal.txt)	3 BHK Apartment	Howrah Nagar	Howrah / West Bengal	Apartment / 3 BHK	1279	₹19,200/month	Semi-Furnished	3	Any	Rent
+79	West Bengal Properties (West_Bengal.txt)	2 BHK Builder Floor	Durgapur South	Durgapur / West Bengal	Builder Floor / 2 BHK	952	₹48.81 L	Semi-Furnished	1	Family	Sale
+80	West Bengal Properties (West_Bengal.txt)	4 BHK Apartment	Durgapur Heights	Durgapur / West Bengal	Apartment / 4 BHK	1854	₹1.10 Cr	Semi-Furnished	5	Bachelors	Sale
+81	West Bengal Properties (West_Bengal.txt)	3 BHK Apartment	Siliguri West	Siliguri / West Bengal	Apartment / 3 BHK	1199	₹63.13 L	Semi-Furnished	3	Bachelors	Sale
+82	West Bengal Properties (West_Bengal.txt)	3 BHK Builder Floor	Kolkata Sector 1	Kolkata / West Bengal	Builder Floor / 3 BHK	1200	₹70.29 L	Fully-Furnished	3	Any	Sale
+83	West Bengal Properties (West_Bengal.txt)	4 BHK Apartment	Siliguri South	Siliguri / West Bengal	Apartment / 4 BHK	1469	₹30,300/month	Semi-Furnished	4	Any	Rent
+84	West Bengal Properties (West_Bengal.txt)	2 BHK Villa	Durgapur Colony	Durgapur / West Bengal	Villa / 2 BHK	1376	₹65.44 L	Semi-Furnished	3	Bachelors	Sale
+85	West Bengal Properties (West_Bengal.txt)	2 BHK Apartment	Howrah Nagar	Howrah / West Bengal	Apartment / 2 BHK	783	₹54.08 L	Fully-Furnished	1	Any	Sale
+86	West Bengal Properties (West_Bengal.txt)	4 BHK Apartment	Kolkata South	Kolkata / West Bengal	Apartment / 4 BHK	1637	₹28,500/month	Unfurnished	4	Bachelors	Rent
+87	West Bengal Properties (West_Bengal.txt)	3 BHK Independent House	Durgapur Heights	Durgapur / West Bengal	Independent House / 3 BHK	1430	₹24,100/month	Semi-Furnished	3	Family	Rent
+88	West Bengal Properties (West_Bengal.txt)	1 BHK Apartment	Kolkata North	Kolkata / West Bengal	Apartment / 1 BHK	431	₹9,300/month	Semi-Furnished	1	Bachelors	Rent
+89	West Bengal Properties (West_Bengal.txt)	3 BHK Apartment	Siliguri North	Siliguri / West Bengal	Apartment / 3 BHK	1310	₹79.61 L	Fully-Furnished	3	Family	Sale
+90	West Bengal Properties (West_Bengal.txt)	2 BHK Apartment	Durgapur South	Durgapur / West Bengal	Apartment / 2 BHK	955	₹13,200/month	Unfurnished	3	Bachelors	Rent
+91	West Bengal Properties (West_Bengal.txt)	2 BHK Apartment	Durgapur North	Durgapur / West Bengal	Apartment / 2 BHK	1076	₹54.20 L	Semi-Furnished	2	Family	Sale
+92	West Bengal Properties (West_Bengal.txt)	1 BHK Apartment	Siliguri North	Siliguri / West Bengal	Apartment / 1 BHK	473	₹38.55 L	Fully-Furnished	1	Family	Sale
+93	West Bengal Properties (West_Bengal.txt)	4 BHK Apartment	Siliguri Residential Area	Siliguri / West Bengal	Apartment / 4 BHK	1677	₹1.16 Cr	Fully-Furnished	5	Bachelors	Sale
+94	West Bengal Properties (West_Bengal.txt)	1 BHK Studio	Siliguri Sector 2	Siliguri / West Bengal	Studio / 1 BHK	397	₹37.58 L	Fully-Furnished	1	Bachelors	Sale
+95	West Bengal Properties (West_Bengal.txt)	2 BHK Apartment	Durgapur Residential Area	Durgapur / West Bengal	Apartment / 2 BHK	969	₹53.12 L	Semi-Furnished	3	Bachelors	Sale
+96	West Bengal Properties (West_Bengal.txt)	3 BHK Apartment	Durgapur Sector 3	Durgapur / West Bengal	Apartment / 3 BHK	1232	₹79.64 L	Unfurnished	3	Bachelors	Sale
+97	West Bengal Properties (West_Bengal.txt)	5 BHK Apartment	Siliguri Sector 2	Siliguri / West Bengal	Apartment / 5 BHK	2792	₹31,100/month	Semi-Furnished	5	Bachelors	Rent
+98	West Bengal Properties (West_Bengal.txt)	3 BHK Villa	Siliguri Town Centre	Siliguri / West Bengal	Villa / 3 BHK	1997	₹95.84 L	Fully-Furnished	3	Bachelors	Sale
+99	West Bengal Properties (West_Bengal.txt)	3 BHK Apartment	Siliguri Heights	Siliguri / West Bengal	Apartment / 3 BHK	1081	₹23,700/month	Fully-Furnished	3	Bachelors	Rent
+100	West Bengal Properties (West_Bengal.txt)	2 BHK Apartment	Siliguri Extension	Siliguri / West Bengal	Apartment / 2 BHK	1049	₹62.34 L	Fully-Furnished	2	Bachelors	Sale
+101	West Bengal Properties (West_Bengal.txt)	3 BHK Apartment	Howrah Main Road	Howrah / West Bengal	Apartment / 3 BHK	1234	₹22,500/month	Fully-Furnished	3	Family	Rent
+102	West Bengal Properties (West_Bengal.txt)	2 BHK Apartment	Howrah Main Road	Howrah / West Bengal	Apartment / 2 BHK	825	₹47.33 L	Semi-Furnished	3	Any	Sale
+103	West Bengal Properties (West_Bengal.txt)	5 BHK Independent House	Siliguri Residential Area	Siliguri / West Bengal	Independent House / 5 BHK	2700	₹39,700/month	Fully-Furnished	5	Family	Rent
+104	West Bengal Properties (West_Bengal.txt)	2 BHK Independent House	Siliguri South	Siliguri / West Bengal	Independent House / 2 BHK	971	₹46.88 L	Unfurnished	2	Family	Sale
+105	West Bengal Properties (West_Bengal.txt)	4 BHK Villa	Howrah South	Howrah / West Bengal	Villa / 4 BHK	1682	₹1 Cr	Unfurnished	4	Any	Sale
+106	West Bengal Properties (West_Bengal.txt)	1 BHK Villa	Siliguri Heights	Siliguri / West Bengal	Villa / 1 BHK	812	₹42.49 L	Semi-Furnished	1	Family	Sale
+107	West Bengal Properties (West_Bengal.txt)	3 BHK Apartment	Kolkata East	Kolkata / West Bengal	Apartment / 3 BHK	1363	₹19,400/month	Fully-Furnished	4	Bachelors	Rent
+108	West Bengal Properties (West_Bengal.txt)	3 BHK Villa	Kolkata Sector 3	Kolkata / West Bengal	Villa / 3 BHK	2013	₹86.83 L	Unfurnished	2	Any	Sale
+109	West Bengal Properties (West_Bengal.txt)	2 BHK Apartment	Siliguri Sector 2	Siliguri / West Bengal	Apartment / 2 BHK	1077	₹16,100/month	Fully-Furnished	2	Family	Rent
+110	West Bengal Properties (West_Bengal.txt)	4 BHK Apartment	Siliguri South	Siliguri / West Bengal	Apartment / 4 BHK	2009	₹1.12 Cr	Semi-Furnished	4	Family	Sale
+111	West Bengal Properties (West_Bengal.txt)	2 BHK Builder Floor	Durgapur Town Centre	Durgapur / West Bengal	Builder Floor / 2 BHK	932	₹54.14 L	Semi-Furnished	1	Any	Sale
+112	West Bengal Properties (West_Bengal.txt)	3 BHK Independent House	Howrah Central	Howrah / West Bengal	Independent House / 3 BHK	1359	₹63.59 L	Semi-Furnished	4	Any	Sale
+113	West Bengal Properties (West_Bengal.txt)	4 BHK Apartment	Kolkata Sector 3	Kolkata / West Bengal	Apartment / 4 BHK	1181	₹84.49 L	Semi-Furnished	4	Any	Sale
+114	West Bengal Properties (West_Bengal.txt)	3 BHK Apartment	Howrah Sector 1	Howrah / West Bengal	Apartment / 3 BHK	1337	₹18,100/month	Semi-Furnished	3	Bachelors	Rent
+115	West Bengal Properties (West_Bengal.txt)	3 BHK Apartment	Kolkata Residential Area	Kolkata / West Bengal	Apartment / 3 BHK	1323	₹85.92 L	Fully-Furnished	2	Any	Sale
+116	West Bengal Properties (West_Bengal.txt)	3 BHK Builder Floor	Kolkata Extension	Kolkata / West Bengal	Builder Floor / 3 BHK	1589	₹92.64 L	Unfurnished	2	Bachelors	Sale
+117	West Bengal Properties (West_Bengal.txt)	3 BHK Apartment	Howrah Residential Area	Howrah / West Bengal	Apartment / 3 BHK	1253	₹21,700/month	Fully-Furnished	3	Family	Rent
+118	West Bengal Properties (West_Bengal.txt)	3 BHK Apartment	Siliguri Central	Siliguri / West Bengal	Apartment / 3 BHK	1234	₹64.02 L	Unfurnished	3	Family	Sale
+119	West Bengal Properties (West_Bengal.txt)	3 BHK Independent House	Howrah Nagar	Howrah / West Bengal	Independent House / 3 BHK	1496	₹84.95 L	Semi-Furnished	4	Family	Sale
+120	West Bengal Properties (West_Bengal.txt)	4 BHK Apartment	Durgapur Extension	Durgapur / West Bengal	Apartment / 4 BHK	1799	₹1.02 Cr	Semi-Furnished	3	Any	Sale
+121	West Bengal Properties (West_Bengal.txt)	3 BHK Apartment	Kolkata Town Centre	Kolkata / West Bengal	Apartment / 3 BHK	1165	₹80.15 L	Semi-Furnished	4	Family	Sale
+122	West Bengal Properties (West_Bengal.txt)	2 BHK Independent House	Howrah Heights	Howrah / West Bengal	Independent House / 2 BHK	906	₹67.95 L	Fully-Furnished	2	Family	Sale
+123	West Bengal Properties (West_Bengal.txt)	2 BHK Villa	Siliguri Sector 3	Siliguri / West Bengal	Villa / 2 BHK	1347	₹19,100/month	Fully-Furnished	3	Any	Rent
+124	West Bengal Properties (West_Bengal.txt)	2 BHK Apartment	Howrah South	Howrah / West Bengal	Apartment / 2 BHK	742	₹59.87 L	Semi-Furnished	2	Any	Sale
+125	West Bengal Properties (West_Bengal.txt)	5 BHK Apartment	Kolkata Sector 3	Kolkata / West Bengal	Apartment / 5 BHK	2838	₹1.47 Cr	Semi-Furnished	5	Bachelors	Sale
+126	West Bengal Properties (West_Bengal.txt)	2 BHK Apartment	Durgapur Sector 1	Durgapur / West Bengal	Apartment / 2 BHK	897	₹16,200/month	Semi-Furnished	2	Any	Rent
+127	West Bengal Properties (West_Bengal.txt)	2 BHK Builder Floor	Durgapur Residential Area	Durgapur / West Bengal	Builder Floor / 2 BHK	832	₹62.75 L	Semi-Furnished	2	Family	Sale
+128	West Bengal Properties (West_Bengal.txt)	1 BHK Builder Floor	Durgapur North	Durgapur / West Bengal	Builder Floor / 1 BHK	512	₹11,700/month	Unfurnished	1	Bachelors	Rent
+129	West Bengal Properties (West_Bengal.txt)	3 BHK Apartment	Siliguri Sector 3	Siliguri / West Bengal	Apartment / 3 BHK	1501	₹21,800/month	Semi-Furnished	3	Family	Rent
+130	West Bengal Properties (West_Bengal.txt)	3 BHK Apartment	Siliguri North	Siliguri / West Bengal	Apartment / 3 BHK	1256	₹19,200/month	Semi-Furnished	4	Family	Rent
+131	West Bengal Properties (West_Bengal.txt)	1 BHK Apartment	Kolkata Residential Area	Kolkata / West Bengal	Apartment / 1 BHK	565	₹30.37 L	Fully-Furnished	2	Bachelors	Sale
+132	West Bengal Properties (West_Bengal.txt)	3 BHK Apartment	Kolkata Sector 2	Kolkata / West Bengal	Apartment / 3 BHK	1381	₹23,100/month	Semi-Furnished	4	Family	Rent
+133	West Bengal Properties (West_Bengal.txt)	2 BHK Independent House	Siliguri Heights	Siliguri / West Bengal	Independent House / 2 BHK	1279	₹71.95 L	Unfurnished	2	Any	Sale
+134	West Bengal Properties (West_Bengal.txt)	1 BHK Apartment	Siliguri West	Siliguri / West Bengal	Apartment / 1 BHK	640	₹9,900/month	Semi-Furnished	1	Family	Rent
+135	West Bengal Properties (West_Bengal.txt)	4 BHK Apartment	Durgapur Extension	Durgapur / West Bengal	Apartment / 4 BHK	1961	₹28,300/month	Unfurnished	5	Any	Rent
+136	West Bengal Properties (West_Bengal.txt)	2 BHK Apartment	Howrah Colony	Howrah / West Bengal	Apartment / 2 BHK	954	₹60.78 L	Semi-Furnished	1	Bachelors	Sale
+137	West Bengal Properties (West_Bengal.txt)	3 BHK Independent House	Siliguri North	Siliguri / West Bengal	Independent House / 3 BHK	1411	₹87.26 L	Fully-Furnished	4	Family	Sale
+138	West Bengal Properties (West_Bengal.txt)	2 BHK Apartment	Kolkata North	Kolkata / West Bengal	Apartment / 2 BHK	773	₹48.66 L	Fully-Furnished	1	Any	Sale
+139	West Bengal Properties (West_Bengal.txt)	1 BHK Apartment	Kolkata East	Kolkata / West Bengal	Apartment / 1 BHK	639	₹38.61 L	Semi-Furnished	1	Bachelors	Sale
+140	West Bengal Properties (West_Bengal.txt)	2 BHK Villa	Siliguri West	Siliguri / West Bengal	Villa / 2 BHK	1130	₹64.06 L	Semi-Furnished	2	Family	Sale
+141	West Bengal Properties (West_Bengal.txt)	3 BHK Builder Floor	Howrah Nagar	Howrah / West Bengal	Builder Floor / 3 BHK	1217	₹82.14 L	Semi-Furnished	4	Bachelors	Sale
+142	West Bengal Properties (West_Bengal.txt)	1 BHK Apartment	Durgapur Nagar	Durgapur / West Bengal	Apartment / 1 BHK	546	₹32.90 L	Semi-Furnished	1	Family	Sale
+143	West Bengal Properties (West_Bengal.txt)	2 BHK Apartment	Durgapur Extension	Durgapur / West Bengal	Apartment / 2 BHK	623	₹11,800/month	Unfurnished	2	Family	Rent
+144	West Bengal Properties (West_Bengal.txt)	1 BHK Studio	Kolkata Extension	Kolkata / West Bengal	Studio / 1 BHK	308	₹10,400/month	Semi-Furnished	1	Family	Rent
+145	West Bengal Properties (West_Bengal.txt)	1 BHK Apartment	Howrah Sector 2	Howrah / West Bengal	Apartment / 1 BHK	569	₹9,900/month	Fully-Furnished	1	Any	Rent
+146	West Bengal Properties (West_Bengal.txt)	3 BHK Builder Floor	Siliguri Colony	Siliguri / West Bengal	Builder Floor / 3 BHK	1179	₹20,400/month	Semi-Furnished	4	Family	Rent
+147	West Bengal Properties (West_Bengal.txt)	2 BHK Apartment	Durgapur Central	Durgapur / West Bengal	Apartment / 2 BHK	701	₹13,500/month	Fully-Furnished	2	Family	Rent
+148	West Bengal Properties (West_Bengal.txt)	2 BHK Apartment	Siliguri Residential Area	Siliguri / West Bengal	Apartment / 2 BHK	829	₹15,900/month	Semi-Furnished	3	Bachelors	Rent
+149	West Bengal Properties (West_Bengal.txt)	2 BHK Apartment	Durgapur East	Durgapur / West Bengal	Apartment / 2 BHK	984	₹62.70 L	Unfurnished	2	Bachelors	Sale
+150	West Bengal Properties (West_Bengal.txt)	4 BHK Builder Floor	Howrah Sector 2	Howrah / West Bengal	Builder Floor / 4 BHK	1387	₹1.07 Cr	Semi-Furnished	4	Bachelors	Sale
+151	West Bengal Properties (West_Bengal.txt)	2 BHK Apartment	Durgapur Sector 3	Durgapur / West Bengal	Apartment / 2 BHK	778	₹47.36 L	Fully-Furnished	1	Bachelors	Sale
+152	West Bengal Properties (West_Bengal.txt)	1 BHK Apartment	Siliguri Sector 3	Siliguri / West Bengal	Apartment / 1 BHK	532	₹41.20 L	Semi-Furnished	1	Any	Sale
+153	West Bengal Properties (West_Bengal.txt)	2 BHK Villa	Durgapur Extension	Durgapur / West Bengal	Villa / 2 BHK	959	₹55.08 L	Semi-Furnished	2	Family	Sale
+154	West Bengal Properties (West_Bengal.txt)	2 BHK Apartment	Durgapur Sector 3	Durgapur / West Bengal	Apartment / 2 BHK	709	₹15,300/month	Unfurnished	2	Bachelors	Rent
+155	West Bengal Properties (West_Bengal.txt)	3 BHK Independent House	Kolkata Sector 1	Kolkata / West Bengal	Independent House / 3 BHK	1704	₹93.17 L	Semi-Furnished	2	Family	Sale
+156	West Bengal Properties (West_Bengal.txt)	4 BHK Independent House	Durgapur Heights	Durgapur / West Bengal	Independent House / 4 BHK	2312	₹1.08 Cr	Semi-Furnished	4	Family	Sale
+157	West Bengal Properties (West_Bengal.txt)	3 BHK Apartment	Kolkata Sector 1	Kolkata / West Bengal	Apartment / 3 BHK	1412	₹18,100/month	Semi-Furnished	3	Family	Rent
+158	West Bengal Properties (West_Bengal.txt)	2 BHK Apartment	Kolkata Heights	Kolkata / West Bengal	Apartment / 2 BHK	781	₹49.79 L	Unfurnished	2	Any	Sale
+159	West Bengal Properties (West_Bengal.txt)	3 BHK Apartment	Durgapur Sector 2	Durgapur / West Bengal	Apartment / 3 BHK	1178	₹81.98 L	Semi-Furnished	2	Family	Sale
+160	West Bengal Properties (West_Bengal.txt)	1 BHK Apartment	Kolkata Sector 1	Kolkata / West Bengal	Apartment / 1 BHK	509	₹36.01 L	Unfurnished	2	Bachelors	Sale
+161	West Bengal Properties (West_Bengal.txt)	2 BHK Apartment	Howrah Central	Howrah / West Bengal	Apartment / 2 BHK	816	₹48.86 L	Semi-Furnished	1	Any	Sale
+162	West Bengal Properties (West_Bengal.txt)	1 BHK Independent House	Howrah West	Howrah / West Bengal	Independent House / 1 BHK	591	₹9,700/month	Fully-Furnished	1	Any	Rent
+163	West Bengal Properties (West_Bengal.txt)	3 BHK Apartment	Siliguri East	Siliguri / West Bengal	Apartment / 3 BHK	1530	₹81.34 L	Fully-Furnished	3	Bachelors	Sale
+164	West Bengal Properties (West_Bengal.txt)	1 BHK Builder Floor	Durgapur Town Centre	Durgapur / West Bengal	Builder Floor / 1 BHK	660	₹37.89 L	Semi-Furnished	1	Bachelors	Sale
+165	West Bengal Properties (West_Bengal.txt)	1 BHK Apartment	Kolkata Main Road	Kolkata / West Bengal	Apartment / 1 BHK	445	₹31.99 L	Semi-Furnished	1	Bachelors	Sale
+166	West Bengal Properties (West_Bengal.txt)	1 BHK Studio	Kolkata Heights	Kolkata / West Bengal	Studio / 1 BHK	324	₹28.15 L	Semi-Furnished	1	Family	Sale
+167	West Bengal Properties (West_Bengal.txt)	4 BHK Apartment	Howrah West	Howrah / West Bengal	Apartment / 4 BHK	1984	₹1.15 Cr	Fully-Furnished	3	Family	Sale
+168	West Bengal Properties (West_Bengal.txt)	3 BHK Independent House	Kolkata South	Kolkata / West Bengal	Independent House / 3 BHK	1467	₹66.06 L	Semi-Furnished	2	Family	Sale
+169	West Bengal Properties (West_Bengal.txt)	3 BHK Independent House	Kolkata Central	Kolkata / West Bengal	Independent House / 3 BHK	1678	₹20,600/month	Unfurnished	3	Any	Rent
+170	West Bengal Properties (West_Bengal.txt)	4 BHK Builder Floor	Siliguri Town Centre	Siliguri / West Bengal	Builder Floor / 4 BHK	1633	₹92.90 L	Unfurnished	4	Family	Sale
+171	West Bengal Properties (West_Bengal.txt)	1 BHK Studio	Howrah Heights	Howrah / West Bengal	Studio / 1 BHK	303	₹28.49 L	Semi-Furnished	2	Any	Sale
+172	West Bengal Properties (West_Bengal.txt)	3 BHK Builder Floor	Siliguri Town Centre	Siliguri / West Bengal	Builder Floor / 3 BHK	1045	₹83.03 L	Unfurnished	3	Family	Sale
+173	West Bengal Properties (West_Bengal.txt)	3 BHK Apartment	Durgapur East	Durgapur / West Bengal	Apartment / 3 BHK	1214	₹89.38 L	Fully-Furnished	3	Bachelors	Sale
+174	West Bengal Properties (West_Bengal.txt)	1 BHK Studio	Howrah Sector 2	Howrah / West Bengal	Studio / 1 BHK	406	₹11,300/month	Semi-Furnished	1	Bachelors	Rent
+175	West Bengal Properties (West_Bengal.txt)	3 BHK Builder Floor	Siliguri Sector 1	Siliguri / West Bengal	Builder Floor / 3 BHK	1094	₹18,700/month	Unfurnished	2	Any	Rent
+176	West Bengal Properties (West_Bengal.txt)	1 BHK Independent House	Kolkata Colony	Kolkata / West Bengal	Independent House / 1 BHK	528	₹37.44 L	Semi-Furnished	1	Any	Sale
+177	West Bengal Properties (West_Bengal.txt)	5 BHK Apartment	Durgapur West	Durgapur / West Bengal	Apartment / 5 BHK	2379	₹34,100/month	Semi-Furnished	4	Family	Rent
+178	West Bengal Properties (West_Bengal.txt)	2 BHK Apartment	Kolkata Heights	Kolkata / West Bengal	Apartment / 2 BHK	675	₹61.31 L	Semi-Furnished	2	Family	Sale
+179	West Bengal Properties (West_Bengal.txt)	2 BHK Apartment	Durgapur Colony	Durgapur / West Bengal	Apartment / 2 BHK	687	₹61.46 L	Unfurnished	2	Family	Sale
+180	West Bengal Properties (West_Bengal.txt)	2 BHK Apartment	Howrah South	Howrah / West Bengal	Apartment / 2 BHK	1121	₹49.13 L	Unfurnished	2	Bachelors	Sale
+181	West Bengal Properties (West_Bengal.txt)	3 BHK Villa	Siliguri Extension	Siliguri / West Bengal	Villa / 3 BHK	1944	₹24,600/month	Semi-Furnished	4	Bachelors	Rent
+182	West Bengal Properties (West_Bengal.txt)	2 BHK Apartment	Durgapur Sector 1	Durgapur / West Bengal	Apartment / 2 BHK	761	₹54.22 L	Fully-Furnished	3	Bachelors	Sale
+183	West Bengal Properties (West_Bengal.txt)	2 BHK Apartment	Siliguri Extension	Siliguri / West Bengal	Apartment / 2 BHK	1045	₹49.81 L	Unfurnished	2	Any	Sale
+184	West Bengal Properties (West_Bengal.txt)	5 BHK Independent House	Kolkata Nagar	Kolkata / West Bengal	Independent House / 5 BHK	2674	₹1.09 Cr	Semi-Furnished	5	Any	Sale
+185	West Bengal Properties (West_Bengal.txt)	2 BHK Apartment	Durgapur West	Durgapur / West Bengal	Apartment / 2 BHK	954	₹46.51 L	Fully-Furnished	2	Family	Sale
+186	West Bengal Properties (West_Bengal.txt)	4 BHK Apartment	Durgapur West	Durgapur / West Bengal	Apartment / 4 BHK	1727	₹28,000/month	Semi-Furnished	5	Family	Rent
+187	West Bengal Properties (West_Bengal.txt)	1 BHK Villa	Siliguri North	Siliguri / West Bengal	Villa / 1 BHK	604	₹12,100/month	Fully-Furnished	1	Family	Rent
+188	West Bengal Properties (West_Bengal.txt)	3 BHK Apartment	Siliguri Nagar	Siliguri / West Bengal	Apartment / 3 BHK	1377	₹18,500/month	Fully-Furnished	3	Family	Rent
+189	West Bengal Properties (West_Bengal.txt)	2 BHK Apartment	Durgapur Nagar	Durgapur / West Bengal	Apartment / 2 BHK	1022	₹62.80 L	Unfurnished	1	Family	Sale
+190	West Bengal Properties (West_Bengal.txt)	3 BHK Apartment	Siliguri North	Siliguri / West Bengal	Apartment / 3 BHK	1207	₹77.40 L	Semi-Furnished	4	Bachelors	Sale
+191	West Bengal Properties (West_Bengal.txt)	1 BHK Studio	Howrah South	Howrah / West Bengal	Studio / 1 BHK	386	₹10,900/month	Semi-Furnished	1	Any	Rent
+192	West Bengal Properties (West_Bengal.txt)	2 BHK Apartment	Durgapur Sector 2	Durgapur / West Bengal	Apartment / 2 BHK	783	₹65.30 L	Semi-Furnished	3	Bachelors	Sale
+193	West Bengal Properties (West_Bengal.txt)	2 BHK Apartment	Howrah Extension	Howrah / West Bengal	Apartment / 2 BHK	857	₹55.67 L	Fully-Furnished	2	Any	Sale
+194	West Bengal Properties (West_Bengal.txt)	1 BHK Apartment	Durgapur North	Durgapur / West Bengal	Apartment / 1 BHK	532	₹36.08 L	Unfurnished	1	Any	Sale
+195	West Bengal Properties (West_Bengal.txt)	2 BHK Builder Floor	Durgapur East	Durgapur / West Bengal	Builder Floor / 2 BHK	936	₹56.71 L	Semi-Furnished	3	Family	Sale
+196	West Bengal Properties (West_Bengal.txt)	2 BHK Apartment	Kolkata Main Road	Kolkata / West Bengal	Apartment / 2 BHK	1048	₹70.33 L	Semi-Furnished	1	Family	Sale
+197	West Bengal Properties (West_Bengal.txt)	2 BHK Independent House	Kolkata Extension	Kolkata / West Bengal	Independent House / 2 BHK	1108	₹56.37 L	Unfurnished	2	Bachelors	Sale
+198	West Bengal Properties (West_Bengal.txt)	2 BHK Builder Floor	Howrah Sector 2	Howrah / West Bengal	Builder Floor / 2 BHK	898	₹49.71 L	Semi-Furnished	2	Any	Sale
+199	West Bengal Properties (West_Bengal.txt)	5 BHK Builder Floor	Durgapur East	Durgapur / West Bengal	Builder Floor / 5 BHK	1748	₹1.02 Cr	Unfurnished	4	Family	Sale
+200	West Bengal Properties (West_Bengal.txt)	2 BHK Independent House	Howrah Heights	Howrah / West Bengal	Independent House / 2 BHK	1073	₹17,700/month	Unfurnished	3	Family	Rent
+201	West Bengal Properties (West_Bengal.txt)	3 BHK Villa	Howrah East	Howrah / West Bengal	Villa / 3 BHK	1588	₹84.25 L	Fully-Furnished	4	Family	Sale
+202	West Bengal Properties (West_Bengal.txt)	1 BHK Apartment	Howrah Main Road	Howrah / West Bengal	Apartment / 1 BHK	558	₹39.29 L	Semi-Furnished	2	Family	Sale
+203	West Bengal Properties (West_Bengal.txt)	2 BHK Independent House	Durgapur Heights	Durgapur / West Bengal	Independent House / 2 BHK	1159	₹15,200/month	Semi-Furnished	2	Any	Rent
+204	West Bengal Properties (West_Bengal.txt)	1 BHK Apartment	Siliguri East	Siliguri / West Bengal	Apartment / 1 BHK	434	₹10,600/month	Semi-Furnished	1	Family	Rent
+205	West Bengal Properties (West_Bengal.txt)	2 BHK Apartment	Siliguri Main Road	Siliguri / West Bengal	Apartment / 2 BHK	888	₹49.55 L	Fully-Furnished	2	Bachelors	Sale
+206	West Bengal Properties (West_Bengal.txt)	5 BHK Apartment	Kolkata Sector 2	Kolkata / West Bengal	Apartment / 5 BHK	2206	₹33,800/month	Unfurnished	5	Family	Rent
+207	West Bengal Properties (West_Bengal.txt)	2 BHK Apartment	Siliguri East	Siliguri / West Bengal	Apartment / 2 BHK	708	₹54.02 L	Unfurnished	3	Family	Sale
+208	West Bengal Properties (West_Bengal.txt)	2 BHK Apartment	Siliguri Sector 3	Siliguri / West Bengal	Apartment / 2 BHK	920	₹46.80 L	Unfurnished	3	Any	Sale
+209	West Bengal Properties (West_Bengal.txt)	3 BHK Apartment	Siliguri Colony	Siliguri / West Bengal	Apartment / 3 BHK	1102	₹80.12 L	Semi-Furnished	3	Family	Sale
+210	West Bengal Properties (West_Bengal.txt)	2 BHK Apartment	Howrah Extension	Howrah / West Bengal	Apartment / 2 BHK	835	₹16,300/month	Unfurnished	3	Bachelors	Rent
+211	West Bengal Properties (West_Bengal.txt)	3 BHK Independent House	Howrah Sector 2	Howrah / West Bengal	Independent House / 3 BHK	1410	₹22,200/month	Semi-Furnished	4	Family	Rent
+212	West Bengal Properties (West_Bengal.txt)	2 BHK Builder Floor	Siliguri South	Siliguri / West Bengal	Builder Floor / 2 BHK	863	₹15,600/month	Semi-Furnished	2	Any	Rent
+213	West Bengal Properties (West_Bengal.txt)	2 BHK Apartment	Howrah South	Howrah / West Bengal	Apartment / 2 BHK	829	₹62.35 L	Semi-Furnished	1	Family	Sale
+214	West Bengal Properties (West_Bengal.txt)	4 BHK Builder Floor	Siliguri Extension	Siliguri / West Bengal	Builder Floor / 4 BHK	1949	₹1.12 Cr	Unfurnished	4	Family	Sale
+215	West Bengal Properties (West_Bengal.txt)	1 BHK Apartment	Howrah Residential Area	Howrah / West Bengal	Apartment / 1 BHK	578	₹11,300/month	Fully-Furnished	1	Family	Rent
+216	West Bengal Properties (West_Bengal.txt)	3 BHK Independent House	Kolkata West	Kolkata / West Bengal	Independent House / 3 BHK	1176	₹64.67 L	Fully-Furnished	3	Family	Sale
+217	West Bengal Properties (West_Bengal.txt)	3 BHK Apartment	Siliguri Town Centre	Siliguri / West Bengal	Apartment / 3 BHK	865	₹62.83 L	Unfurnished	3	Any	Sale
+218	West Bengal Properties (West_Bengal.txt)	3 BHK Apartment	Durgapur Main Road	Durgapur / West Bengal	Apartment / 3 BHK	1205	₹67.79 L	Semi-Furnished	2	Any	Sale
+219	West Bengal Properties (West_Bengal.txt)	4 BHK Apartment	Durgapur Heights	Durgapur / West Bengal	Apartment / 4 BHK	1415	₹1.08 Cr	Semi-Furnished	4	Any	Sale
+220	West Bengal Properties (West_Bengal.txt)	1 BHK Apartment	Siliguri Town Centre	Siliguri / West Bengal	Apartment / 1 BHK	483	₹9,000/month	Semi-Furnished	1	Bachelors	Rent
+221	West Bengal Properties (West_Bengal.txt)	1 BHK Apartment	Kolkata Residential Area	Kolkata / West Bengal	Apartment / 1 BHK	472	₹37.57 L	Semi-Furnished	1	Any	Sale
+222	West Bengal Properties (West_Bengal.txt)	3 BHK Builder Floor	Kolkata Residential Area	Kolkata / West Bengal	Builder Floor / 3 BHK	1020	₹16,800/month	Unfurnished	4	Family	Rent
+223	West Bengal Properties (West_Bengal.txt)	1 BHK Studio	Howrah North	Howrah / West Bengal	Studio / 1 BHK	370	₹10,500/month	Fully-Furnished	1	Any	Rent
+224	West Bengal Properties (West_Bengal.txt)	2 BHK Apartment	Howrah Extension	Howrah / West Bengal	Apartment / 2 BHK	817	₹62.74 L	Unfurnished	1	Any	Sale
+225	West Bengal Properties (West_Bengal.txt)	3 BHK Apartment	Siliguri Residential Area	Siliguri / West Bengal	Apartment / 3 BHK	1337	₹80.36 L	Semi-Furnished	3	Family	Sale
+226	West Bengal Properties (West_Bengal.txt)	1 BHK Villa	Siliguri Colony	Siliguri / West Bengal	Villa / 1 BHK	559	₹42.52 L	Semi-Furnished	2	Family	Sale
+227	West Bengal Properties (West_Bengal.txt)	2 BHK Apartment	Siliguri Sector 1	Siliguri / West Bengal	Apartment / 2 BHK	677	₹54.66 L	Semi-Furnished	2	Bachelors	Sale
+228	West Bengal Properties (West_Bengal.txt)	4 BHK Villa	Howrah Nagar	Howrah / West Bengal	Villa / 4 BHK	2153	₹29,300/month	Semi-Furnished	5	Any	Rent
+229	West Bengal Properties (West_Bengal.txt)	2 BHK Apartment	Howrah North	Howrah / West Bengal	Apartment / 2 BHK	770	₹15,000/month	Semi-Furnished	2	Family	Rent
+230	West Bengal Properties (West_Bengal.txt)	4 BHK Apartment	Durgapur Sector 3	Durgapur / West Bengal	Apartment / 4 BHK	1945	₹1.03 Cr	Unfurnished	4	Any	Sale
+231	West Bengal Properties (West_Bengal.txt)	2 BHK Builder Floor	Durgapur Town Centre	Durgapur / West Bengal	Builder Floor / 2 BHK	647	₹47.97 L	Semi-Furnished	2	Any	Sale
+232	West Bengal Properties (West_Bengal.txt)	3 BHK Apartment	Durgapur Sector 1	Durgapur / West Bengal	Apartment / 3 BHK	1071	₹21,000/month	Semi-Furnished	2	Bachelors	Rent
+233	West Bengal Properties (West_Bengal.txt)	4 BHK Builder Floor	Howrah Sector 3	Howrah / West Bengal	Builder Floor / 4 BHK	1894	₹98.86 L	Semi-Furnished	4	Bachelors	Sale
+234	West Bengal Properties (West_Bengal.txt)	2 BHK Apartment	Howrah Sector 2	Howrah / West Bengal	Apartment / 2 BHK	707	₹52.32 L	Unfurnished	1	Any	Sale
+235	West Bengal Properties (West_Bengal.txt)	3 BHK Apartment	Durgapur West	Durgapur / West Bengal	Apartment / 3 BHK	1528	₹84.12 L	Unfurnished	3	Family	Sale
+236	West Bengal Properties (West_Bengal.txt)	1 BHK Apartment	Siliguri Heights	Siliguri / West Bengal	Apartment / 1 BHK	522	₹8,900/month	Semi-Furnished	1	Family	Rent
+237	West Bengal Properties (West_Bengal.txt)	2 BHK Builder Floor	Kolkata East	Kolkata / West Bengal	Builder Floor / 2 BHK	851	₹51.85 L	Unfurnished	2	Family	Sale
+238	West Bengal Properties (West_Bengal.txt)	3 BHK Builder Floor	Kolkata East	Kolkata / West Bengal	Builder Floor / 3 BHK	1459	₹90 L	Semi-Furnished	2	Bachelors	Sale
+239	West Bengal Properties (West_Bengal.txt)	3 BHK Apartment	Siliguri Colony	Siliguri / West Bengal	Apartment / 3 BHK	978	₹65.42 L	Unfurnished	4	Bachelors	Sale
+240	West Bengal Properties (West_Bengal.txt)	1 BHK Apartment	Kolkata Town Centre	Kolkata / West Bengal	Apartment / 1 BHK	502	₹41.66 L	Fully-Furnished	1	Any	Sale
+241	West Bengal Properties (West_Bengal.txt)	3 BHK Apartment	Howrah Extension	Howrah / West Bengal	Apartment / 3 BHK	1319	₹81.16 L	Unfurnished	3	Any	Sale
+242	West Bengal Properties (West_Bengal.txt)	3 BHK Apartment	Durgapur Extension	Durgapur / West Bengal	Apartment / 3 BHK	1357	₹70.28 L	Fully-Furnished	3	Any	Sale
+243	West Bengal Properties (West_Bengal.txt)	2 BHK Apartment	Kolkata Colony	Kolkata / West Bengal	Apartment / 2 BHK	650	₹11,900/month	Unfurnished	1	Bachelors	Rent
+244	West Bengal Properties (West_Bengal.txt)	2 BHK Apartment	Siliguri Nagar	Siliguri / West Bengal	Apartment / 2 BHK	868	₹17,300/month	Semi-Furnished	2	Family	Rent
+245	West Bengal Properties (West_Bengal.txt)	3 BHK Independent House	Durgapur Central	Durgapur / West Bengal	Independent House / 3 BHK	1474	₹22,200/month	Unfurnished	3	Bachelors	Rent
+246	West Bengal Properties (West_Bengal.txt)	5 BHK Villa	Siliguri Extension	Siliguri / West Bengal	Villa / 5 BHK	3632	₹1.37 Cr	Semi-Furnished	4	Family	Sale
+247	West Bengal Properties (West_Bengal.txt)	1 BHK Apartment	Kolkata Sector 1	Kolkata / West Bengal	Apartment / 1 BHK	400	₹9,300/month	Semi-Furnished	2	Family	Rent
+248	West Bengal Properties (West_Bengal.txt)	3 BHK Apartment	Siliguri Nagar	Siliguri / West Bengal	Apartment / 3 BHK	949	₹62.07 L	Unfurnished	3	Family	Sale
+249	West Bengal Properties (West_Bengal.txt)	2 BHK Apartment	Howrah Town Centre	Howrah / West Bengal	Apartment / 2 BHK	1069	₹18,000/month	Fully-Furnished	2	Family	Rent
+250	West Bengal Properties (West_Bengal.txt)	1 BHK Villa	Siliguri Central	Siliguri / West Bengal	Villa / 1 BHK	844	₹9,700/month	Fully-Furnished	1	Any	Rent
+251	West Bengal Properties (West_Bengal.txt)	2 BHK Builder Floor	Howrah Main Road	Howrah / West Bengal	Builder Floor / 2 BHK	827	₹59.83 L	Unfurnished	2	Family	Sale
+252	West Bengal Properties (West_Bengal.txt)	1 BHK Villa	Siliguri Sector 3	Siliguri / West Bengal	Villa / 1 BHK	620	₹9,200/month	Fully-Furnished	1	Family	Rent
+253	West Bengal Properties (West_Bengal.txt)	2 BHK Apartment	Siliguri Main Road	Siliguri / West Bengal	Apartment / 2 BHK	845	₹51.80 L	Unfurnished	1	Family	Sale
+254	West Bengal Properties (West_Bengal.txt)	2 BHK Villa	Siliguri Central	Siliguri / West Bengal	Villa / 2 BHK	965	₹14,400/month	Fully-Furnished	2	Bachelors	Rent
+255	West Bengal Properties (West_Bengal.txt)	3 BHK Villa	Howrah Sector 1	Howrah / West Bengal	Villa / 3 BHK	1714	₹99.20 L	Semi-Furnished	3	Family	Sale
+256	West Bengal Properties (West_Bengal.txt)	3 BHK Villa	Howrah Residential Area	Howrah / West Bengal	Villa / 3 BHK	1748	₹90.21 L	Fully-Furnished	4	Family	Sale
+257	West Bengal Properties (West_Bengal.txt)	3 BHK Apartment	Howrah East	Howrah / West Bengal	Apartment / 3 BHK	1285	₹83.84 L	Fully-Furnished	2	Bachelors	Sale
+258	West Bengal Properties (West_Bengal.txt)	2 BHK Independent House	Howrah Sector 1	Howrah / West Bengal	Independent House / 2 BHK	928	₹13,400/month	Semi-Furnished	2	Bachelors	Rent
+259	West Bengal Properties (West_Bengal.txt)	2 BHK Apartment	Durgapur East	Durgapur / West Bengal	Apartment / 2 BHK	846	₹45.27 L	Semi-Furnished	2	Family	Sale
+260	West Bengal Properties (West_Bengal.txt)	2 BHK Independent House	Howrah Colony	Howrah / West Bengal	Independent House / 2 BHK	1163	₹59.70 L	Semi-Furnished	1	Bachelors	Sale
+261	West Bengal Properties (West_Bengal.txt)	4 BHK Apartment	Howrah West	Howrah / West Bengal	Apartment / 4 BHK	1487	₹1.08 Cr	Fully-Furnished	5	Family	Sale
+262	West Bengal Properties (West_Bengal.txt)	1 BHK Independent House	Siliguri Sector 3	Siliguri / West Bengal	Independent House / 1 BHK	525	₹29.48 L	Unfurnished	2	Family	Sale
+263	West Bengal Properties (West_Bengal.txt)	1 BHK Independent House	Durgapur Extension	Durgapur / West Bengal	Independent House / 1 BHK	590	₹43.31 L	Fully-Furnished	1	Bachelors	Sale
+264	West Bengal Properties (West_Bengal.txt)	3 BHK Builder Floor	Kolkata Extension	Kolkata / West Bengal	Builder Floor / 3 BHK	1308	₹23,100/month	Semi-Furnished	3	Bachelors	Rent
+265	West Bengal Properties (West_Bengal.txt)	5 BHK Apartment	Kolkata Heights	Kolkata / West Bengal	Apartment / 5 BHK	2613	₹1.34 Cr	Unfurnished	5	Family	Sale
+266	West Bengal Properties (West_Bengal.txt)	2 BHK Apartment	Durgapur Extension	Durgapur / West Bengal	Apartment / 2 BHK	701	₹12,100/month	Fully-Furnished	1	Family	Rent
+267	West Bengal Properties (West_Bengal.txt)	2 BHK Independent House	Kolkata Heights	Kolkata / West Bengal	Independent House / 2 BHK	1229	₹14,300/month	Unfurnished	2	Any	Rent
+268	West Bengal Properties (West_Bengal.txt)	2 BHK Apartment	Durgapur Sector 1	Durgapur / West Bengal	Apartment / 2 BHK	554	₹57.80 L	Unfurnished	1	Any	Sale
+269	West Bengal Properties (West_Bengal.txt)	3 BHK Builder Floor	Howrah East	Howrah / West Bengal	Builder Floor / 3 BHK	1228	₹17,400/month	Fully-Furnished	3	Bachelors	Rent
+270	West Bengal Properties (West_Bengal.txt)	3 BHK Apartment	Durgapur Town Centre	Durgapur / West Bengal	Apartment / 3 BHK	1284	₹71.15 L	Fully-Furnished	4	Family	Sale
+271	West Bengal Properties (West_Bengal.txt)	4 BHK Apartment	Siliguri Sector 2	Siliguri / West Bengal	Apartment / 4 BHK	2115	₹1.01 Cr	Semi-Furnished	3	Family	Sale
+272	West Bengal Properties (West_Bengal.txt)	2 BHK Builder Floor	Howrah East	Howrah / West Bengal	Builder Floor / 2 BHK	647	₹15,300/month	Fully-Furnished	3	Family	Rent
+273	West Bengal Properties (West_Bengal.txt)	3 BHK Apartment	Siliguri Extension	Siliguri / West Bengal	Apartment / 3 BHK	1155	₹22,900/month	Unfurnished	3	Family	Rent
+274	West Bengal Properties (West_Bengal.txt)	2 BHK Apartment	Durgapur Central	Durgapur / West Bengal	Apartment / 2 BHK	915	₹51.45 L	Unfurnished	1	Family	Sale
+275	West Bengal Properties (West_Bengal.txt)	1 BHK Apartment	Howrah Colony	Howrah / West Bengal	Apartment / 1 BHK	566	₹10,000/month	Semi-Furnished	1	Any	Rent
+276	West Bengal Properties (West_Bengal.txt)	4 BHK Villa	Kolkata Central	Kolkata / West Bengal	Villa / 4 BHK	2395	₹98 L	Unfurnished	4	Family	Sale
+277	West Bengal Properties (West_Bengal.txt)	3 BHK Apartment	Howrah Sector 1	Howrah / West Bengal	Apartment / 3 BHK	1211	₹83.77 L	Semi-Furnished	3	Family	Sale
+278	West Bengal Properties (West_Bengal.txt)	2 BHK Apartment	Siliguri Colony	Siliguri / West Bengal	Apartment / 2 BHK	908	₹49.80 L	Semi-Furnished	2	Bachelors	Sale
+279	West Bengal Properties (West_Bengal.txt)	2 BHK Apartment	Siliguri West	Siliguri / West Bengal	Apartment / 2 BHK	1006	₹57.72 L	Unfurnished	2	Bachelors	Sale
+280	West Bengal Properties (West_Bengal.txt)	1 BHK Villa	Kolkata Central	Kolkata / West Bengal	Villa / 1 BHK	493	₹34.67 L	Unfurnished	1	Bachelors	Sale
+281	West Bengal Properties (West_Bengal.txt)	2 BHK Apartment	Siliguri Central	Siliguri / West Bengal	Apartment / 2 BHK	872	₹17,400/month	Semi-Furnished	2	Family	Rent
+282	West Bengal Properties (West_Bengal.txt)	3 BHK Apartment	Siliguri Sector 3	Siliguri / West Bengal	Apartment / 3 BHK	1146	₹90.14 L	Semi-Furnished	3	Bachelors	Sale
+283	West Bengal Properties (West_Bengal.txt)	3 BHK Apartment	Siliguri Heights	Siliguri / West Bengal	Apartment / 3 BHK	1227	₹68.33 L	Semi-Furnished	3	Family	Sale
+284	West Bengal Properties (West_Bengal.txt)	3 BHK Apartment	Siliguri Sector 1	Siliguri / West Bengal	Apartment / 3 BHK	1283	₹19,400/month	Fully-Furnished	4	Any	Rent
+285	West Bengal Properties (West_Bengal.txt)	1 BHK Independent House	Kolkata West	Kolkata / West Bengal	Independent House / 1 BHK	467	₹11,600/month	Fully-Furnished	1	Bachelors	Rent
+286	West Bengal Properties (West_Bengal.txt)	2 BHK Independent House	Howrah North	Howrah / West Bengal	Independent House / 2 BHK	832	₹57.18 L	Semi-Furnished	2	Family	Sale
+287	West Bengal Properties (West_Bengal.txt)	4 BHK Villa	Howrah North	Howrah / West Bengal	Villa / 4 BHK	2375	₹1.21 Cr	Unfurnished	4	Bachelors	Sale
+288	West Bengal Properties (West_Bengal.txt)	3 BHK Apartment	Durgapur Sector 3	Durgapur / West Bengal	Apartment / 3 BHK	1170	₹69.23 L	Semi-Furnished	3	Family	Sale
+289	West Bengal Properties (West_Bengal.txt)	4 BHK Apartment	Howrah Colony	Howrah / West Bengal	Apartment / 4 BHK	1842	₹1.08 Cr	Unfurnished	4	Bachelors	Sale
+290	West Bengal Properties (West_Bengal.txt)	3 BHK Builder Floor	Kolkata East	Kolkata / West Bengal	Builder Floor / 3 BHK	1413	₹22,100/month	Semi-Furnished	3	Any	Rent
+291	West Bengal Properties (West_Bengal.txt)	4 BHK Apartment	Durgapur Sector 2	Durgapur / West Bengal	Apartment / 4 BHK	2115	₹24,500/month	Fully-Furnished	4	Any	Rent
+292	West Bengal Properties (West_Bengal.txt)	2 BHK Apartment	Kolkata North	Kolkata / West Bengal	Apartment / 2 BHK	1012	₹13,400/month	Semi-Furnished	1	Family	Rent
+293	West Bengal Properties (West_Bengal.txt)	2 BHK Villa	Kolkata Sector 2	Kolkata / West Bengal	Villa / 2 BHK	774	₹14,200/month	Semi-Furnished	3	Family	Rent
+294	West Bengal Properties (West_Bengal.txt)	5 BHK Builder Floor	Howrah Residential Area	Howrah / West Bengal	Builder Floor / 5 BHK	2459	₹29,200/month	Semi-Furnished	5	Any	Rent
+295	West Bengal Properties (West_Bengal.txt)	4 BHK Independent House	Kolkata West	Kolkata / West Bengal	Independent House / 4 BHK	2375	₹98.91 L	Semi-Furnished	5	Any	Sale
+296	West Bengal Properties (West_Bengal.txt)	3 BHK Independent House	Siliguri West	Siliguri / West Bengal	Independent House / 3 BHK	1202	₹22,100/month	Unfurnished	4	Family	Rent
+297	West Bengal Properties (West_Bengal.txt)	2 BHK Apartment	Durgapur South	Durgapur / West Bengal	Apartment / 2 BHK	807	₹17,800/month	Fully-Furnished	2	Any	Rent
+298	West Bengal Properties (West_Bengal.txt)	1 BHK Independent House	Siliguri Sector 1	Siliguri / West Bengal	Independent House / 1 BHK	658	₹32.97 L	Semi-Furnished	2	Bachelors	Sale
+299	West Bengal Properties (West_Bengal.txt)	2 BHK Independent House	Siliguri Colony	Siliguri / West Bengal	Independent House / 2 BHK	822	₹15,100/month	Unfurnished	3	Family	Rent
+300	West Bengal Properties (West_Bengal.txt)	4 BHK Apartment	Siliguri West	Siliguri / West Bengal	Apartment / 4 BHK	2115	₹94.54 L	Unfurnished	4	Family	Sale
+301	West Bengal Properties (West_Bengal.txt)	1 BHK Studio	Kolkata Heights	Kolkata / West Bengal	Studio / 1 BHK	425	₹8,900/month	Unfurnished	1	Family	Rent
+302	West Bengal Properties (West_Bengal.txt)	4 BHK Apartment	Howrah Extension	Howrah / West Bengal	Apartment / 4 BHK	2201	₹92.15 L	Semi-Furnished	4	Bachelors	Sale
+303	West Bengal Properties (West_Bengal.txt)	3 BHK Apartment	Durgapur Central	Durgapur / West Bengal	Apartment / 3 BHK	1454	₹77.56 L	Semi-Furnished	4	Family	Sale
+304	West Bengal Properties (West_Bengal.txt)	2 BHK Apartment	Siliguri Main Road	Siliguri / West Bengal	Apartment / 2 BHK	955	₹57.96 L	Semi-Furnished	2	Bachelors	Sale
+305	West Bengal Properties (West_Bengal.txt)	4 BHK Apartment	Siliguri South	Siliguri / West Bengal	Apartment / 4 BHK	1755	₹90.48 L	Semi-Furnished	3	Family	Sale
+306	West Bengal Properties (West_Bengal.txt)	2 BHK Villa	Howrah Nagar	Howrah / West Bengal	Villa / 2 BHK	1127	₹65.41 L	Semi-Furnished	2	Bachelors	Sale
+307	West Bengal Properties (West_Bengal.txt)	2 BHK Apartment	Howrah South	Howrah / West Bengal	Apartment / 2 BHK	631	₹61.13 L	Unfurnished	1	Family	Sale
+308	West Bengal Properties (West_Bengal.txt)	4 BHK Villa	Siliguri Town Centre	Siliguri / West Bengal	Villa / 4 BHK	2203	₹29,900/month	Semi-Furnished	4	Bachelors	Rent
+309	West Bengal Properties (West_Bengal.txt)	4 BHK Independent House	Howrah Sector 2	Howrah / West Bengal	Independent House / 4 BHK	2315	₹1.20 Cr	Fully-Furnished	4	Family	Sale
+310	West Bengal Properties (West_Bengal.txt)	1 BHK Villa	Howrah Extension	Howrah / West Bengal	Villa / 1 BHK	582	₹31.81 L	Semi-Furnished	1	Bachelors	Sale
+311	West Bengal Properties (West_Bengal.txt)	2 BHK Apartment	Kolkata North	Kolkata / West Bengal	Apartment / 2 BHK	783	₹17,200/month	Unfurnished	2	Family	Rent
+312	West Bengal Properties (West_Bengal.txt)	4 BHK Apartment	Durgapur East	Durgapur / West Bengal	Apartment / 4 BHK	2182	₹28,400/month	Fully-Furnished	3	Bachelors	Rent
+313	West Bengal Properties (West_Bengal.txt)	1 BHK Apartment	Siliguri Colony	Siliguri / West Bengal	Apartment / 1 BHK	507	₹39.99 L	Unfurnished	1	Any	Sale
+314	West Bengal Properties (West_Bengal.txt)	2 BHK Apartment	Howrah South	Howrah / West Bengal	Apartment / 2 BHK	746	₹61.83 L	Semi-Furnished	2	Family	Sale
+315	West Bengal Properties (West_Bengal.txt)	2 BHK Apartment	Howrah Central	Howrah / West Bengal	Apartment / 2 BHK	817	₹51.42 L	Unfurnished	2	Any	Sale
+316	West Bengal Properties (West_Bengal.txt)	2 BHK Apartment	Siliguri Sector 3	Siliguri / West Bengal	Apartment / 2 BHK	826	₹47.86 L	Fully-Furnished	2	Family	Sale
+317	West Bengal Properties (West_Bengal.txt)	1 BHK Apartment	Kolkata Nagar	Kolkata / West Bengal	Apartment / 1 BHK	593	₹10,500/month	Semi-Furnished	2	Family	Rent
+318	West Bengal Properties (West_Bengal.txt)	5 BHK Villa	Siliguri Nagar	Siliguri / West Bengal	Villa / 5 BHK	3512	₹1.39 Cr	Fully-Furnished	6	Any	Sale
+319	West Bengal Properties (West_Bengal.txt)	4 BHK Independent House	Durgapur Colony	Durgapur / West Bengal	Independent House / 4 BHK	2607	₹1.09 Cr	Semi-Furnished	4	Family	Sale
+320	West Bengal Properties (West_Bengal.txt)	2 BHK Apartment	Siliguri Sector 1	Siliguri / West Bengal	Apartment / 2 BHK	739	₹16,900/month	Semi-Furnished	2	Bachelors	Rent
+321	West Bengal Properties (West_Bengal.txt)	2 BHK Apartment	Siliguri Main Road	Siliguri / West Bengal	Apartment / 2 BHK	664	₹15,000/month	Unfurnished	3	Family	Rent
+322	West Bengal Properties (West_Bengal.txt)	2 BHK Apartment	Kolkata Central	Kolkata / West Bengal	Apartment / 2 BHK	895	₹49.68 L	Unfurnished	1	Family	Sale
+323	West Bengal Properties (West_Bengal.txt)	2 BHK Apartment	Kolkata Sector 1	Kolkata / West Bengal	Apartment / 2 BHK	975	₹47.32 L	Unfurnished	2	Family	Sale
+324	West Bengal Properties (West_Bengal.txt)	2 BHK Apartment	Siliguri Main Road	Siliguri / West Bengal	Apartment / 2 BHK	845	₹13,300/month	Semi-Furnished	2	Family	Rent
+325	West Bengal Properties (West_Bengal.txt)	3 BHK Apartment	Kolkata Colony	Kolkata / West Bengal	Apartment / 3 BHK	1034	₹63.23 L	Fully-Furnished	3	Family	Sale
+326	West Bengal Properties (West_Bengal.txt)	5 BHK Apartment	Siliguri Town Centre	Siliguri / West Bengal	Apartment / 5 BHK	2069	₹1.18 Cr	Semi-Furnished	5	Bachelors	Sale
+327	West Bengal Properties (West_Bengal.txt)	2 BHK Independent House	Kolkata Sector 1	Kolkata / West Bengal	Independent House / 2 BHK	998	₹55.09 L	Fully-Furnished	1	Family	Sale
+328	West Bengal Properties (West_Bengal.txt)	2 BHK Independent House	Howrah Central	Howrah / West Bengal	Independent House / 2 BHK	747	₹52 L	Semi-Furnished	2	Family	Sale
+329	West Bengal Properties (West_Bengal.txt)	2 BHK Builder Floor	Kolkata North	Kolkata / West Bengal	Builder Floor / 2 BHK	591	₹56.31 L	Fully-Furnished	3	Bachelors	Sale
+330	West Bengal Properties (West_Bengal.txt)	2 BHK Independent House	Kolkata Town Centre	Kolkata / West Bengal	Independent House / 2 BHK	1068	₹50.98 L	Semi-Furnished	3	Any	Sale
+331	West Bengal Properties (West_Bengal.txt)	2 BHK Apartment	Durgapur Sector 1	Durgapur / West Bengal	Apartment / 2 BHK	946	₹47.17 L	Fully-Furnished	2	Family	Sale
+332	West Bengal Properties (West_Bengal.txt)	2 BHK Apartment	Howrah West	Howrah / West Bengal	Apartment / 2 BHK	754	₹62.56 L	Semi-Furnished	2	Bachelors	Sale
+333	West Bengal Properties (West_Bengal.txt)	3 BHK Apartment	Kolkata Sector 3	Kolkata / West Bengal	Apartment / 3 BHK	889	₹69.68 L	Semi-Furnished	3	Family	Sale
+334	West Bengal Properties (West_Bengal.txt)	5 BHK Apartment	Howrah Heights	Howrah / West Bengal	Apartment / 5 BHK	2737	₹1.11 Cr	Unfurnished	5	Any	Sale
+335	West Bengal Properties (West_Bengal.txt)	3 BHK Independent House	Durgapur North	Durgapur / West Bengal	Independent House / 3 BHK	1872	₹95.09 L	Fully-Furnished	3	Any	Sale
+336	West Bengal Properties (West_Bengal.txt)	2 BHK Apartment	Howrah Residential Area	Howrah / West Bengal	Apartment / 2 BHK	828	₹15,900/month	Semi-Furnished	2	Family	Rent
+337	West Bengal Properties (West_Bengal.txt)	2 BHK Villa	Howrah West	Howrah / West Bengal	Villa / 2 BHK	1596	₹54.79 L	Fully-Furnished	2	Family	Sale
+338	West Bengal Properties (West_Bengal.txt)	2 BHK Apartment	Kolkata Sector 2	Kolkata / West Bengal	Apartment / 2 BHK	995	₹63.44 L	Fully-Furnished	3	Family	Sale
+339	West Bengal Properties (West_Bengal.txt)	3 BHK Villa	Kolkata Residential Area	Kolkata / West Bengal	Villa / 3 BHK	1111	₹20,800/month	Fully-Furnished	3	Bachelors	Rent
+340	West Bengal Properties (West_Bengal.txt)	4 BHK Apartment	Kolkata Town Centre	Kolkata / West Bengal	Apartment / 4 BHK	2050	₹88.41 L	Fully-Furnished	5	Bachelors	Sale
+341	West Bengal Properties (West_Bengal.txt)	3 BHK Apartment	Siliguri North	Siliguri / West Bengal	Apartment / 3 BHK	1416	₹81.54 L	Semi-Furnished	4	Family	Sale
+342	West Bengal Properties (West_Bengal.txt)	2 BHK Apartment	Durgapur Heights	Durgapur / West Bengal	Apartment / 2 BHK	757	₹58.61 L	Unfurnished	2	Any	Sale
+343	West Bengal Properties (West_Bengal.txt)	2 BHK Builder Floor	Durgapur Heights	Durgapur / West Bengal	Builder Floor / 2 BHK	1085	₹14,000/month	Fully-Furnished	3	Any	Rent
+344	West Bengal Properties (West_Bengal.txt)	2 BHK Apartment	Siliguri Main Road	Siliguri / West Bengal	Apartment / 2 BHK	567	₹11,600/month	Unfurnished	2	Family	Rent
+345	West Bengal Properties (West_Bengal.txt)	5 BHK Independent House	Kolkata Sector 1	Kolkata / West Bengal	Independent House / 5 BHK	2506	₹35,200/month	Fully-Furnished	5	Any	Rent
+346	West Bengal Properties (West_Bengal.txt)	2 BHK Apartment	Howrah West	Howrah / West Bengal	Apartment / 2 BHK	764	₹47.24 L	Unfurnished	2	Any	Sale
+347	West Bengal Properties (West_Bengal.txt)	1 BHK Studio	Siliguri Nagar	Siliguri / West Bengal	Studio / 1 BHK	379	₹11,200/month	Fully-Furnished	2	Any	Rent
+348	West Bengal Properties (West_Bengal.txt)	4 BHK Apartment	Howrah Sector 1	Howrah / West Bengal	Apartment / 4 BHK	1374	₹83.65 L	Fully-Furnished	4	Any	Sale
+349	West Bengal Properties (West_Bengal.txt)	2 BHK Apartment	Howrah Central	Howrah / West Bengal	Apartment / 2 BHK	838	₹13,200/month	Fully-Furnished	2	Family	Rent
+350	West Bengal Properties (West_Bengal.txt)	2 BHK Apartment	Durgapur Sector 2	Durgapur / West Bengal	Apartment / 2 BHK	887	₹18,500/month	Fully-Furnished	3	Any	Rent
+351	West Bengal Properties (West_Bengal.txt)	1 BHK Studio	Kolkata West	Kolkata / West Bengal	Studio / 1 BHK	438	₹36.01 L	Fully-Furnished	1	Bachelors	Sale
+352	West Bengal Properties (West_Bengal.txt)	4 BHK Apartment	Howrah Sector 1	Howrah / West Bengal	Apartment / 4 BHK	1811	₹84.16 L	Unfurnished	4	Family	Sale
+353	West Bengal Properties (West_Bengal.txt)	2 BHK Apartment	Howrah Nagar	Howrah / West Bengal	Apartment / 2 BHK	780	₹12,800/month	Semi-Furnished	2	Family	Rent
+354	West Bengal Properties (West_Bengal.txt)	3 BHK Apartment	Siliguri Sector 1	Siliguri / West Bengal	Apartment / 3 BHK	1055	₹20,400/month	Fully-Furnished	3	Bachelors	Rent
+355	West Bengal Properties (West_Bengal.txt)	2 BHK Apartment	Durgapur North	Durgapur / West Bengal	Apartment / 2 BHK	959	₹64.58 L	Semi-Furnished	2	Any	Sale
+356	West Bengal Properties (West_Bengal.txt)	1 BHK Apartment	Siliguri Nagar	Siliguri / West Bengal	Apartment / 1 BHK	510	₹8,800/month	Unfurnished	1	Bachelors	Rent
+357	West Bengal Properties (West_Bengal.txt)	2 BHK Independent House	Howrah Extension	Howrah / West Bengal	Independent House / 2 BHK	1165	₹52.19 L	Semi-Furnished	2	Bachelors	Sale
+358	West Bengal Properties (West_Bengal.txt)	1 BHK Builder Floor	Durgapur Main Road	Durgapur / West Bengal	Builder Floor / 1 BHK	480	₹9,000/month	Semi-Furnished	2	Bachelors	Rent
+359	West Bengal Properties (West_Bengal.txt)	2 BHK Independent House	Durgapur Central	Durgapur / West Bengal	Independent House / 2 BHK	1144	₹62.63 L	Unfurnished	2	Any	Sale
+360	West Bengal Properties (West_Bengal.txt)	3 BHK Apartment	Durgapur Town Centre	Durgapur / West Bengal	Apartment / 3 BHK	1305	₹75.31 L	Semi-Furnished	4	Bachelors	Sale
+361	West Bengal Properties (West_Bengal.txt)	3 BHK Builder Floor	Siliguri Sector 1	Siliguri / West Bengal	Builder Floor / 3 BHK	1201	₹17,200/month	Semi-Furnished	4	Any	Rent
+362	West Bengal Properties (West_Bengal.txt)	2 BHK Apartment	Howrah Sector 3	Howrah / West Bengal	Apartment / 2 BHK	721	₹48.53 L	Fully-Furnished	2	Family	Sale
+363	West Bengal Properties (West_Bengal.txt)	3 BHK Independent House	Howrah North	Howrah / West Bengal	Independent House / 3 BHK	1066	₹63.24 L	Semi-Furnished	2	Bachelors	Sale
+364	West Bengal Properties (West_Bengal.txt)	2 BHK Apartment	Durgapur South	Durgapur / West Bengal	Apartment / 2 BHK	687	₹14,600/month	Fully-Furnished	2	Any	Rent
+365	West Bengal Properties (West_Bengal.txt)	2 BHK Villa	Kolkata Town Centre	Kolkata / West Bengal	Villa / 2 BHK	920	₹56.79 L	Semi-Furnished	3	Family	Sale
+366	West Bengal Properties (West_Bengal.txt)	3 BHK Apartment	Siliguri Nagar	Siliguri / West Bengal	Apartment / 3 BHK	1058	₹87.75 L	Semi-Furnished	4	Bachelors	Sale
+367	West Bengal Properties (West_Bengal.txt)	4 BHK Apartment	Kolkata Sector 1	Kolkata / West Bengal	Apartment / 4 BHK	1815	₹1.04 Cr	Semi-Furnished	5	Any	Sale
+368	West Bengal Properties (West_Bengal.txt)	3 BHK Apartment	Kolkata Heights	Kolkata / West Bengal	Apartment / 3 BHK	1440	₹84.95 L	Unfurnished	2	Bachelors	Sale
+369	West Bengal Properties (West_Bengal.txt)	3 BHK Villa	Howrah Residential Area	Howrah / West Bengal	Villa / 3 BHK	1876	₹22,000/month	Unfurnished	2	Any	Rent
+370	West Bengal Properties (West_Bengal.txt)	2 BHK Apartment	Kolkata West	Kolkata / West Bengal	Apartment / 2 BHK	924	₹49.20 L	Unfurnished	2	Bachelors	Sale
+371	West Bengal Properties (West_Bengal.txt)	3 BHK Villa	Howrah Extension	Howrah / West Bengal	Villa / 3 BHK	1350	₹24,000/month	Unfurnished	3	Bachelors	Rent
+372	West Bengal Properties (West_Bengal.txt)	4 BHK Villa	Howrah Heights	Howrah / West Bengal	Villa / 4 BHK	2578	₹27,700/month	Semi-Furnished	4	Bachelors	Rent
+373	West Bengal Properties (West_Bengal.txt)	3 BHK Apartment	Durgapur Main Road	Durgapur / West Bengal	Apartment / 3 BHK	1390	₹84.42 L	Semi-Furnished	2	Bachelors	Sale
+374	West Bengal Properties (West_Bengal.txt)	1 BHK Apartment	Durgapur Sector 1	Durgapur / West Bengal	Apartment / 1 BHK	495	₹31.35 L	Semi-Furnished	1	Any	Sale
+375	West Bengal Properties (West_Bengal.txt)	2 BHK Apartment	Kolkata Central	Kolkata / West Bengal	Apartment / 2 BHK	914	₹18,500/month	Semi-Furnished	2	Any	Rent
+376	West Bengal Properties (West_Bengal.txt)	1 BHK Apartment	Durgapur East	Durgapur / West Bengal	Apartment / 1 BHK	472	₹10,200/month	Unfurnished	1	Bachelors	Rent
+377	West Bengal Properties (West_Bengal.txt)	2 BHK Builder Floor	Kolkata Central	Kolkata / West Bengal	Builder Floor / 2 BHK	933	₹60.71 L	Semi-Furnished	2	Family	Sale
+378	West Bengal Properties (West_Bengal.txt)	2 BHK Builder Floor	Howrah Town Centre	Howrah / West Bengal	Builder Floor / 2 BHK	775	₹61.93 L	Semi-Furnished	2	Family	Sale
+379	West Bengal Properties (West_Bengal.txt)	4 BHK Apartment	Siliguri Main Road	Siliguri / West Bengal	Apartment / 4 BHK	1618	₹91.71 L	Fully-Furnished	5	Any	Sale
+380	West Bengal Properties (West_Bengal.txt)	1 BHK Studio	Siliguri Town Centre	Siliguri / West Bengal	Studio / 1 BHK	348	₹7,800/month	Unfurnished	2	Any	Rent
+381	West Bengal Properties (West_Bengal.txt)	4 BHK Builder Floor	Durgapur Sector 1	Durgapur / West Bengal	Builder Floor / 4 BHK	1585	₹88.75 L	Fully-Furnished	3	Bachelors	Sale
+382	West Bengal Properties (West_Bengal.txt)	2 BHK Apartment	Siliguri Colony	Siliguri / West Bengal	Apartment / 2 BHK	807	₹14,000/month	Fully-Furnished	2	Family	Rent
+383	West Bengal Properties (West_Bengal.txt)	1 BHK Studio	Siliguri Central	Siliguri / West Bengal	Studio / 1 BHK	331	₹38.62 L	Fully-Furnished	1	Any	Sale
+384	West Bengal Properties (West_Bengal.txt)	1 BHK Apartment	Kolkata Heights	Kolkata / West Bengal	Apartment / 1 BHK	575	₹12,200/month	Fully-Furnished	1	Family	Rent
+385	West Bengal Properties (West_Bengal.txt)	1 BHK Studio	Howrah Heights	Howrah / West Bengal	Studio / 1 BHK	394	₹27.87 L	Semi-Furnished	1	Family	Sale
+386	West Bengal Properties (West_Bengal.txt)	1 BHK Apartment	Durgapur Central	Durgapur / West Bengal	Apartment / 1 BHK	517	₹38.88 L	Unfurnished	1	Any	Sale
+387	West Bengal Properties (West_Bengal.txt)	2 BHK Apartment	Siliguri Town Centre	Siliguri / West Bengal	Apartment / 2 BHK	837	₹62.20 L	Fully-Furnished	2	Family	Sale
+388	West Bengal Properties (West_Bengal.txt)	4 BHK Villa	Durgapur Sector 3	Durgapur / West Bengal	Villa / 4 BHK	2386	₹93.31 L	Unfurnished	4	Bachelors	Sale
+389	West Bengal Properties (West_Bengal.txt)	2 BHK Independent House	Kolkata West	Kolkata / West Bengal	Independent House / 2 BHK	953	₹63.97 L	Semi-Furnished	3	Bachelors	Sale
+390	West Bengal Properties (West_Bengal.txt)	3 BHK Independent House	Durgapur Sector 3	Durgapur / West Bengal	Independent House / 3 BHK	1405	₹72.11 L	Semi-Furnished	3	Bachelors	Sale
+391	West Bengal Properties (West_Bengal.txt)	2 BHK Apartment	Durgapur West	Durgapur / West Bengal	Apartment / 2 BHK	788	₹55.99 L	Unfurnished	2	Family	Sale
+392	West Bengal Properties (West_Bengal.txt)	2 BHK Apartment	Durgapur South	Durgapur / West Bengal	Apartment / 2 BHK	849	₹60.25 L	Fully-Furnished	1	Family	Sale
+393	West Bengal Properties (West_Bengal.txt)	2 BHK Apartment	Kolkata Nagar	Kolkata / West Bengal	Apartment / 2 BHK	759	₹14,200/month	Unfurnished	3	Family	Rent
+394	West Bengal Properties (West_Bengal.txt)	4 BHK Apartment	Durgapur Central	Durgapur / West Bengal	Apartment / 4 BHK	1630	₹83.30 L	Unfurnished	5	Any	Sale
+395	West Bengal Properties (West_Bengal.txt)	1 BHK Apartment	Kolkata Town Centre	Kolkata / West Bengal	Apartment / 1 BHK	633	₹33.22 L	Fully-Furnished	2	Any	Sale
+396	West Bengal Properties (West_Bengal.txt)	3 BHK Villa	Howrah West	Howrah / West Bengal	Villa / 3 BHK	1738	₹72.95 L	Unfurnished	2	Family	Sale
+397	West Bengal Properties (West_Bengal.txt)	1 BHK Studio	Siliguri South	Siliguri / West Bengal	Studio / 1 BHK	347	₹33.62 L	Fully-Furnished	1	Any	Sale
+398	West Bengal Properties (West_Bengal.txt)	3 BHK Builder Floor	Kolkata Extension	Kolkata / West Bengal	Builder Floor / 3 BHK	1219	₹85.23 L	Fully-Furnished	4	Family	Sale
+399	West Bengal Properties (West_Bengal.txt)	2 BHK Apartment	Siliguri South	Siliguri / West Bengal	Apartment / 2 BHK	852	₹48.95 L	Fully-Furnished	2	Any	Sale
+400	West Bengal Properties (West_Bengal.txt)	3 BHK Apartment	Kolkata Sector 3	Kolkata / West Bengal	Apartment / 3 BHK	1138	₹21,400/month	Semi-Furnished	4	Family	Rent
+401	West Bengal Properties (West_Bengal.txt)	2 BHK Builder Floor	Howrah South	Howrah / West Bengal	Builder Floor / 2 BHK	755	₹53.66 L	Fully-Furnished	1	Family	Sale
+402	West Bengal Properties (West_Bengal.txt)	3 BHK Apartment	Howrah Heights	Howrah / West Bengal	Apartment / 3 BHK	1471	₹74.46 L	Fully-Furnished	3	Family	Sale
+403	West Bengal Properties (West_Bengal.txt)	2 BHK Builder Floor	Howrah Heights	Howrah / West Bengal	Builder Floor / 2 BHK	769	₹47.94 L	Semi-Furnished	2	Family	Sale
+404	West Bengal Properties (West_Bengal.txt)	4 BHK Independent House	Durgapur Heights	Durgapur / West Bengal	Independent House / 4 BHK	2189	₹93.53 L	Fully-Furnished	4	Any	Sale
+405	West Bengal Properties (West_Bengal.txt)	1 BHK Builder Floor	Siliguri Residential Area	Siliguri / West Bengal	Builder Floor / 1 BHK	548	₹29.99 L	Semi-Furnished	1	Family	Sale
+406	West Bengal Properties (West_Bengal.txt)	2 BHK Independent House	Durgapur Residential Area	Durgapur / West Bengal	Independent House / 2 BHK	877	₹55.94 L	Unfurnished	2	Any	Sale
+407	West Bengal Properties (West_Bengal.txt)	3 BHK Apartment	Howrah East	Howrah / West Bengal	Apartment / 3 BHK	994	₹78.38 L	Semi-Furnished	2	Any	Sale
+408	West Bengal Properties (West_Bengal.txt)	3 BHK Apartment	Kolkata Main Road	Kolkata / West Bengal	Apartment / 3 BHK	1330	₹25,000/month	Semi-Furnished	4	Any	Rent
+409	West Bengal Properties (West_Bengal.txt)	3 BHK Builder Floor	Kolkata Colony	Kolkata / West Bengal	Builder Floor / 3 BHK	1521	₹18,900/month	Semi-Furnished	4	Family	Rent
+410	West Bengal Properties (West_Bengal.txt)	2 BHK Independent House	Durgapur Central	Durgapur / West Bengal	Independent House / 2 BHK	1213	₹14,400/month	Fully-Furnished	2	Family	Rent
+411	West Bengal Properties (West_Bengal.txt)	1 BHK Studio	Kolkata Central	Kolkata / West Bengal	Studio / 1 BHK	362	₹7,900/month	Unfurnished	1	Family	Rent
+412	West Bengal Properties (West_Bengal.txt)	4 BHK Independent House	Howrah Nagar	Howrah / West Bengal	Independent House / 4 BHK	1837	₹98.35 L	Semi-Furnished	4	Family	Sale
+413	West Bengal Properties (West_Bengal.txt)	2 BHK Builder Floor	Siliguri North	Siliguri / West Bengal	Builder Floor / 2 BHK	861	₹60.12 L	Semi-Furnished	2	Bachelors	Sale
+414	West Bengal Properties (West_Bengal.txt)	3 BHK Apartment	Durgapur Heights	Durgapur / West Bengal	Apartment / 3 BHK	1038	₹19,400/month	Semi-Furnished	3	Bachelors	Rent
+415	West Bengal Properties (West_Bengal.txt)	1 BHK Apartment	Howrah East	Howrah / West Bengal	Apartment / 1 BHK	525	₹8,300/month	Semi-Furnished	1	Family	Rent
+416	West Bengal Properties (West_Bengal.txt)	4 BHK Apartment	Durgapur Colony	Durgapur / West Bengal	Apartment / 4 BHK	1809	₹87.05 L	Semi-Furnished	3	Any	Sale
+417	West Bengal Properties (West_Bengal.txt)	1 BHK Builder Floor	Siliguri Sector 3	Siliguri / West Bengal	Builder Floor / 1 BHK	479	₹32.47 L	Semi-Furnished	1	Bachelors	Sale
+418	West Bengal Properties (West_Bengal.txt)	2 BHK Independent House	Siliguri Main Road	Siliguri / West Bengal	Independent House / 2 BHK	1219	₹57.91 L	Semi-Furnished	2	Family	Sale
+419	West Bengal Properties (West_Bengal.txt)	3 BHK Builder Floor	Kolkata Extension	Kolkata / West Bengal	Builder Floor / 3 BHK	1161	₹19,400/month	Unfurnished	2	Bachelors	Rent
+420	West Bengal Properties (West_Bengal.txt)	1 BHK Studio	Kolkata Sector 3	Kolkata / West Bengal	Studio / 1 BHK	300	₹8,800/month	Fully-Furnished	2	Family	Rent
+421	West Bengal Properties (West_Bengal.txt)	1 BHK Apartment	Kolkata Colony	Kolkata / West Bengal	Apartment / 1 BHK	715	₹11,200/month	Semi-Furnished	2	Family	Rent
+422	West Bengal Properties (West_Bengal.txt)	1 BHK Apartment	Howrah Heights	Howrah / West Bengal	Apartment / 1 BHK	456	₹10,300/month	Fully-Furnished	1	Family	Rent
+423	West Bengal Properties (West_Bengal.txt)	2 BHK Apartment	Kolkata Colony	Kolkata / West Bengal	Apartment / 2 BHK	891	₹18,200/month	Fully-Furnished	1	Bachelors	Rent
+424	West Bengal Properties (West_Bengal.txt)	3 BHK Apartment	Kolkata Colony	Kolkata / West Bengal	Apartment / 3 BHK	1361	₹23,600/month	Fully-Furnished	3	Family	Rent
+425	West Bengal Properties (West_Bengal.txt)	3 BHK Builder Floor	Siliguri South	Siliguri / West Bengal	Builder Floor / 3 BHK	1098	₹87.50 L	Semi-Furnished	3	Bachelors	Sale
+426	West Bengal Properties (West_Bengal.txt)	4 BHK Apartment	Durgapur North	Durgapur / West Bengal	Apartment / 4 BHK	1436	₹22,500/month	Fully-Furnished	3	Family	Rent
+427	West Bengal Properties (West_Bengal.txt)	5 BHK Apartment	Siliguri Colony	Siliguri / West Bengal	Apartment / 5 BHK	2043	₹34,000/month	Semi-Furnished	5	Family	Rent
+428	West Bengal Properties (West_Bengal.txt)	4 BHK Apartment	Siliguri Sector 1	Siliguri / West Bengal	Apartment / 4 BHK	1731	₹94.81 L	Fully-Furnished	3	Bachelors	Sale
+429	West Bengal Properties (West_Bengal.txt)	3 BHK Apartment	Durgapur Residential Area	Durgapur / West Bengal	Apartment / 3 BHK	1390	₹70.69 L	Fully-Furnished	3	Any	Sale
+430	West Bengal Properties (West_Bengal.txt)	1 BHK Apartment	Durgapur Extension	Durgapur / West Bengal	Apartment / 1 BHK	528	₹35.83 L	Semi-Furnished	1	Bachelors	Sale
+431	West Bengal Properties (West_Bengal.txt)	1 BHK Apartment	Howrah Main Road	Howrah / West Bengal	Apartment / 1 BHK	530	₹36.31 L	Fully-Furnished	1	Any	Sale
+432	West Bengal Properties (West_Bengal.txt)	3 BHK Builder Floor	Siliguri Town Centre	Siliguri / West Bengal	Builder Floor / 3 BHK	967	₹22,400/month	Semi-Furnished	3	Family	Rent
+433	West Bengal Properties (West_Bengal.txt)	3 BHK Apartment	Siliguri Colony	Siliguri / West Bengal	Apartment / 3 BHK	1404	₹68.39 L	Semi-Furnished	3	Family	Sale
+434	West Bengal Properties (West_Bengal.txt)	1 BHK Apartment	Durgapur Residential Area	Durgapur / West Bengal	Apartment / 1 BHK	666	₹11,100/month	Unfurnished	1	Bachelors	Rent
+435	West Bengal Properties (West_Bengal.txt)	3 BHK Independent House	Durgapur Nagar	Durgapur / West Bengal	Independent House / 3 BHK	1826	₹84.96 L	Unfurnished	3	Family	Sale
+436	West Bengal Properties (West_Bengal.txt)	1 BHK Apartment	Durgapur Extension	Durgapur / West Bengal	Apartment / 1 BHK	450	₹9,000/month	Unfurnished	1	Bachelors	Rent
+437	West Bengal Properties (West_Bengal.txt)	2 BHK Independent House	Siliguri Sector 2	Siliguri / West Bengal	Independent House / 2 BHK	1106	₹58.05 L	Fully-Furnished	2	Family	Sale
+438	West Bengal Properties (West_Bengal.txt)	2 BHK Apartment	Howrah North	Howrah / West Bengal	Apartment / 2 BHK	837	₹47.91 L	Fully-Furnished	2	Family	Sale
+439	West Bengal Properties (West_Bengal.txt)	3 BHK Independent House	Howrah East	Howrah / West Bengal	Independent House / 3 BHK	1263	₹63.81 L	Unfurnished	2	Any	Sale
+440	West Bengal Properties (West_Bengal.txt)	2 BHK Independent House	Siliguri Nagar	Siliguri / West Bengal	Independent House / 2 BHK	1073	₹54.69 L	Semi-Furnished	2	Any	Sale
+441	West Bengal Properties (West_Bengal.txt)	2 BHK Independent House	Kolkata Main Road	Kolkata / West Bengal	Independent House / 2 BHK	798	₹14,400/month	Semi-Furnished	2	Family	Rent
+442	West Bengal Properties (West_Bengal.txt)	4 BHK Apartment	Kolkata Sector 1	Kolkata / West Bengal	Apartment / 4 BHK	1529	₹86.28 L	Semi-Furnished	3	Bachelors	Sale
+443	West Bengal Properties (West_Bengal.txt)	4 BHK Apartment	Durgapur Nagar	Durgapur / West Bengal	Apartment / 4 BHK	1699	₹95.94 L	Unfurnished	3	Any	Sale
+444	West Bengal Properties (West_Bengal.txt)	4 BHK Independent House	Kolkata Residential Area	Kolkata / West Bengal	Independent House / 4 BHK	2619	₹1.03 Cr	Fully-Furnished	4	Family	Sale
+445	West Bengal Properties (West_Bengal.txt)	1 BHK Villa	Durgapur Central	Durgapur / West Bengal	Villa / 1 BHK	747	₹9,600/month	Fully-Furnished	1	Bachelors	Rent
+446	West Bengal Properties (West_Bengal.txt)	3 BHK Builder Floor	Howrah Main Road	Howrah / West Bengal	Builder Floor / 3 BHK	1364	₹72.37 L	Semi-Furnished	4	Family	Sale
+447	West Bengal Properties (West_Bengal.txt)	2 BHK Independent House	Howrah Sector 3	Howrah / West Bengal	Independent House / 2 BHK	1137	₹19,100/month	Fully-Furnished	2	Bachelors	Rent
+448	West Bengal Properties (West_Bengal.txt)	2 BHK Villa	Durgapur Main Road	Durgapur / West Bengal	Villa / 2 BHK	1153	₹19,500/month	Fully-Furnished	1	Family	Rent
+449	West Bengal Properties (West_Bengal.txt)	2 BHK Builder Floor	Siliguri Sector 2	Siliguri / West Bengal	Builder Floor / 2 BHK	1036	₹14,700/month	Fully-Furnished	2	Family	Rent
+450	West Bengal Properties (West_Bengal.txt)	3 BHK Apartment	Kolkata Colony	Kolkata / West Bengal	Apartment / 3 BHK	1213	₹24,700/month	Semi-Furnished	3	Family	Rent
+451	West Bengal Properties (West_Bengal.txt)	2 BHK Apartment	Durgapur Central	Durgapur / West Bengal	Apartment / 2 BHK	743	₹16,600/month	Fully-Furnished	3	Bachelors	Rent
+452	West Bengal Properties (West_Bengal.txt)	3 BHK Villa	Howrah Extension	Howrah / West Bengal	Villa / 3 BHK	1493	₹95.64 L	Semi-Furnished	3	Family	Sale
+453	West Bengal Properties (West_Bengal.txt)	3 BHK Apartment	Kolkata Heights	Kolkata / West Bengal	Apartment / 3 BHK	1082	₹71.47 L	Semi-Furnished	3	Family	Sale
+454	West Bengal Properties (West_Bengal.txt)	3 BHK Villa	Kolkata Colony	Kolkata / West Bengal	Villa / 3 BHK	1869	₹22,200/month	Semi-Furnished	4	Bachelors	Rent
+455	West Bengal Properties (West_Bengal.txt)	3 BHK Apartment	Kolkata Sector 3	Kolkata / West Bengal	Apartment / 3 BHK	1343	₹18,800/month	Semi-Furnished	3	Any	Rent
+456	West Bengal Properties (West_Bengal.txt)	1 BHK Apartment	Siliguri Sector 3	Siliguri / West Bengal	Apartment / 1 BHK	462	₹10,600/month	Semi-Furnished	1	Family	Rent
+457	West Bengal Properties (West_Bengal.txt)	3 BHK Apartment	Siliguri Main Road	Siliguri / West Bengal	Apartment / 3 BHK	1262	₹72.03 L	Unfurnished	3	Bachelors	Sale
+458	West Bengal Properties (West_Bengal.txt)	2 BHK Independent House	Kolkata Residential Area	Kolkata / West Bengal	Independent House / 2 BHK	1167	₹54.02 L	Fully-Furnished	3	Any	Sale
+459	West Bengal Properties (West_Bengal.txt)	3 BHK Independent House	Durgapur Nagar	Durgapur / West Bengal	Independent House / 3 BHK	1775	₹20,800/month	Unfurnished	3	Family	Rent
+460	West Bengal Properties (West_Bengal.txt)	2 BHK Apartment	Kolkata Sector 1	Kolkata / West Bengal	Apartment / 2 BHK	810	₹16,600/month	Unfurnished	2	Family	Rent
+461	West Bengal Properties (West_Bengal.txt)	3 BHK Apartment	Kolkata Sector 2	Kolkata / West Bengal	Apartment / 3 BHK	1383	₹70.48 L	Semi-Furnished	4	Family	Sale
+462	West Bengal Properties (West_Bengal.txt)	2 BHK Apartment	Kolkata Sector 3	Kolkata / West Bengal	Apartment / 2 BHK	700	₹50.02 L	Fully-Furnished	3	Bachelors	Sale
+463	West Bengal Properties (West_Bengal.txt)	1 BHK Apartment	Siliguri Sector 3	Siliguri / West Bengal	Apartment / 1 BHK	505	₹10,900/month	Fully-Furnished	1	Family	Rent
+464	West Bengal Properties (West_Bengal.txt)	3 BHK Apartment	Howrah Nagar	Howrah / West Bengal	Apartment / 3 BHK	1256	₹66.34 L	Semi-Furnished	3	Family	Sale
+465	West Bengal Properties (West_Bengal.txt)	2 BHK Independent House	Durgapur West	Durgapur / West Bengal	Independent House / 2 BHK	1100	₹54.72 L	Fully-Furnished	3	Bachelors	Sale
+466	West Bengal Properties (West_Bengal.txt)	4 BHK Independent House	Durgapur Sector 3	Durgapur / West Bengal	Independent House / 4 BHK	1862	₹96.47 L	Unfurnished	4	Bachelors	Sale
+467	West Bengal Properties (West_Bengal.txt)	3 BHK Apartment	Durgapur East	Durgapur / West Bengal	Apartment / 3 BHK	1253	₹80.20 L	Semi-Furnished	4	Any	Sale
+468	West Bengal Properties (West_Bengal.txt)	5 BHK Apartment	Kolkata North	Kolkata / West Bengal	Apartment / 5 BHK	2195	₹37,200/month	Semi-Furnished	4	Family	Rent
+469	West Bengal Properties (West_Bengal.txt)	2 BHK Apartment	Durgapur Sector 1	Durgapur / West Bengal	Apartment / 2 BHK	805	₹48.94 L	Unfurnished	1	Any	Sale
+470	West Bengal Properties (West_Bengal.txt)	4 BHK Builder Floor	Howrah Town Centre	Howrah / West Bengal	Builder Floor / 4 BHK	2228	₹1.28 Cr	Semi-Furnished	3	Any	Sale
+471	West Bengal Properties (West_Bengal.txt)	2 BHK Apartment	Durgapur Central	Durgapur / West Bengal	Apartment / 2 BHK	738	₹47.67 L	Semi-Furnished	2	Family	Sale
+472	West Bengal Properties (West_Bengal.txt)	3 BHK Independent House	Siliguri Central	Siliguri / West Bengal	Independent House / 3 BHK	1961	₹78.91 L	Semi-Furnished	3	Bachelors	Sale
+473	West Bengal Properties (West_Bengal.txt)	2 BHK Villa	Siliguri Main Road	Siliguri / West Bengal	Villa / 2 BHK	1205	₹49.51 L	Semi-Furnished	2	Any	Sale
+474	West Bengal Properties (West_Bengal.txt)	2 BHK Apartment	Howrah Central	Howrah / West Bengal	Apartment / 2 BHK	800	₹65.01 L	Unfurnished	3	Bachelors	Sale
+475	West Bengal Properties (West_Bengal.txt)	2 BHK Apartment	Durgapur Sector 1	Durgapur / West Bengal	Apartment / 2 BHK	924	₹16,100/month	Semi-Furnished	2	Family	Rent
+476	West Bengal Properties (West_Bengal.txt)	2 BHK Apartment	Howrah Sector 2	Howrah / West Bengal	Apartment / 2 BHK	968	₹18,000/month	Fully-Furnished	1	Family	Rent
+477	West Bengal Properties (West_Bengal.txt)	3 BHK Builder Floor	Durgapur Nagar	Durgapur / West Bengal	Builder Floor / 3 BHK	1086	₹19,000/month	Fully-Furnished	2	Any	Rent
+478	West Bengal Properties (West_Bengal.txt)	2 BHK Villa	Siliguri North	Siliguri / West Bengal	Villa / 2 BHK	1177	₹15,500/month	Fully-Furnished	2	Family	Rent
+479	West Bengal Properties (West_Bengal.txt)	1 BHK Studio	Kolkata South	Kolkata / West Bengal	Studio / 1 BHK	450	₹31.52 L	Unfurnished	1	Any	Sale
+480	West Bengal Properties (West_Bengal.txt)	3 BHK Apartment	Howrah Nagar	Howrah / West Bengal	Apartment / 3 BHK	1149	₹19,800/month	Fully-Furnished	3	Family	Rent
+481	West Bengal Properties (West_Bengal.txt)	2 BHK Builder Floor	Howrah South	Howrah / West Bengal	Builder Floor / 2 BHK	866	₹59.19 L	Fully-Furnished	2	Any	Sale
+482	West Bengal Properties (West_Bengal.txt)	2 BHK Apartment	Kolkata Extension	Kolkata / West Bengal	Apartment / 2 BHK	1051	₹16,100/month	Unfurnished	2	Any	Rent
+483	West Bengal Properties (West_Bengal.txt)	2 BHK Apartment	Howrah Main Road	Howrah / West Bengal	Apartment / 2 BHK	757	₹57.50 L	Unfurnished	3	Any	Sale
+484	West Bengal Properties (West_Bengal.txt)	3 BHK Apartment	Siliguri Town Centre	Siliguri / West Bengal	Apartment / 3 BHK	1447	₹18,000/month	Unfurnished	3	Any	Rent
+485	West Bengal Properties (West_Bengal.txt)	2 BHK Builder Floor	Kolkata Nagar	Kolkata / West Bengal	Builder Floor / 2 BHK	913	₹17,600/month	Fully-Furnished	2	Bachelors	Rent
+486	West Bengal Properties (West_Bengal.txt)	3 BHK Apartment	Howrah Sector 1	Howrah / West Bengal	Apartment / 3 BHK	1133	₹75.65 L	Unfurnished	3	Bachelors	Sale
+487	West Bengal Properties (West_Bengal.txt)	3 BHK Apartment	Kolkata Sector 2	Kolkata / West Bengal	Apartment / 3 BHK	1594	₹20,500/month	Fully-Furnished	3	Family	Rent
+488	West Bengal Properties (West_Bengal.txt)	2 BHK Builder Floor	Durgapur Extension	Durgapur / West Bengal	Builder Floor / 2 BHK	884	₹46.12 L	Fully-Furnished	2	Family	Sale
+489	West Bengal Properties (West_Bengal.txt)	2 BHK Builder Floor	Kolkata Main Road	Kolkata / West Bengal	Builder Floor / 2 BHK	736	₹56.83 L	Fully-Furnished	2	Bachelors	Sale
+490	West Bengal Properties (West_Bengal.txt)	3 BHK Villa	Durgapur Residential Area	Durgapur / West Bengal	Villa / 3 BHK	1410	₹73.32 L	Unfurnished	3	Bachelors	Sale
+491	West Bengal Properties (West_Bengal.txt)	4 BHK Apartment	Siliguri Heights	Siliguri / West Bengal	Apartment / 4 BHK	1555	₹22,200/month	Unfurnished	3	Family	Rent
+492	West Bengal Properties (West_Bengal.txt)	2 BHK Apartment	Kolkata Residential Area	Kolkata / West Bengal	Apartment / 2 BHK	809	₹57.97 L	Semi-Furnished	2	Any	Sale
+493	West Bengal Properties (West_Bengal.txt)	1 BHK Studio	Durgapur East	Durgapur / West Bengal	Studio / 1 BHK	365	₹39.01 L	Fully-Furnished	1	Family	Sale
+494	West Bengal Properties (West_Bengal.txt)	1 BHK Builder Floor	Kolkata Extension	Kolkata / West Bengal	Builder Floor / 1 BHK	497	₹10,900/month	Semi-Furnished	2	Bachelors	Rent
+495	West Bengal Properties (West_Bengal.txt)	2 BHK Apartment	Kolkata Sector 2	Kolkata / West Bengal	Apartment / 2 BHK	884	₹15,200/month	Fully-Furnished	2	Family	Rent
+496	West Bengal Properties (West_Bengal.txt)	2 BHK Independent House	Durgapur Nagar	Durgapur / West Bengal	Independent House / 2 BHK	1161	₹14,400/month	Fully-Furnished	3	Family	Rent
+497	West Bengal Properties (West_Bengal.txt)	1 BHK Apartment	Kolkata East	Kolkata / West Bengal	Apartment / 1 BHK	518	₹8,400/month	Fully-Furnished	1	Family	Rent
+498	West Bengal Properties (West_Bengal.txt)	3 BHK Apartment	Siliguri Colony	Siliguri / West Bengal	Apartment / 3 BHK	1310	₹87.69 L	Semi-Furnished	4	Any	Sale
+499	West Bengal Properties (West_Bengal.txt)	2 BHK Apartment	Howrah Extension	Howrah / West Bengal	Apartment / 2 BHK	882	₹46.22 L	Semi-Furnished	3	Any	Sale
+500	West Bengal Properties (West_Bengal.txt)	2 BHK Apartment	Siliguri South	Siliguri / West Bengal	Apartment / 2 BHK	849	₹12,400/month	Unfurnished	2	Family	Rent
+501	West Bengal Properties (West_Bengal.txt)	2 BHK Apartment	Howrah Colony	Howrah / West Bengal	Apartment / 2 BHK	836	₹54.39 L	Semi-Furnished	2	Bachelors	Sale
+502	West Bengal Properties (West_Bengal.txt)	4 BHK Apartment	Siliguri Sector 1	Siliguri / West Bengal	Apartment / 4 BHK	1610	₹84.54 L	Semi-Furnished	4	Family	Sale
+503	West Bengal Properties (West_Bengal.txt)	1 BHK Apartment	Durgapur Sector 1	Durgapur / West Bengal	Apartment / 1 BHK	624	₹11,000/month	Semi-Furnished	2	Family	Rent
+504	West Bengal Properties (West_Bengal.txt)	3 BHK Independent House	Siliguri Residential Area	Siliguri / West Bengal	Independent House / 3 BHK	1627	₹80.42 L	Fully-Furnished	3	Family	Sale
+505	West Bengal Properties (West_Bengal.txt)	1 BHK Studio	Kolkata Town Centre	Kolkata / West Bengal	Studio / 1 BHK	351	₹36.05 L	Unfurnished	1	Any	Sale
+506	West Bengal Properties (West_Bengal.txt)	1 BHK Apartment	Siliguri Residential Area	Siliguri / West Bengal	Apartment / 1 BHK	419	₹9,500/month	Semi-Furnished	2	Any	Rent
+507	West Bengal Properties (West_Bengal.txt)	3 BHK Apartment	Kolkata East	Kolkata / West Bengal	Apartment / 3 BHK	1424	₹66.60 L	Unfurnished	3	Bachelors	Sale
+508	West Bengal Properties (West_Bengal.txt)	4 BHK Apartment	Siliguri Town Centre	Siliguri / West Bengal	Apartment / 4 BHK	1749	₹24,800/month	Unfurnished	4	Family	Rent
+509	West Bengal Properties (West_Bengal.txt)	3 BHK Apartment	Howrah South	Howrah / West Bengal	Apartment / 3 BHK	1327	₹85.34 L	Unfurnished	3	Bachelors	Sale
+510	West Bengal Properties (West_Bengal.txt)	1 BHK Villa	Howrah Colony	Howrah / West Bengal	Villa / 1 BHK	768	₹34.16 L	Semi-Furnished	2	Family	Sale
+511	West Bengal Properties (West_Bengal.txt)	1 BHK Studio	Siliguri East	Siliguri / West Bengal	Studio / 1 BHK	439	₹28.52 L	Semi-Furnished	2	Family	Sale
+512	West Bengal Properties (West_Bengal.txt)	4 BHK Independent House	Howrah Extension	Howrah / West Bengal	Independent House / 4 BHK	2253	₹96.26 L	Fully-Furnished	4	Bachelors	Sale
+513	West Bengal Properties (West_Bengal.txt)	2 BHK Apartment	Howrah North	Howrah / West Bengal	Apartment / 2 BHK	935	₹47.38 L	Fully-Furnished	3	Family	Sale
+514	West Bengal Properties (West_Bengal.txt)	2 BHK Builder Floor	Durgapur Central	Durgapur / West Bengal	Builder Floor / 2 BHK	778	₹12,600/month	Semi-Furnished	1	Family	Rent
+515	West Bengal Properties (West_Bengal.txt)	3 BHK Apartment	Siliguri South	Siliguri / West Bengal	Apartment / 3 BHK	1037	₹17,600/month	Fully-Furnished	4	Family	Rent
+516	West Bengal Properties (West_Bengal.txt)	4 BHK Independent House	Siliguri East	Siliguri / West Bengal	Independent House / 4 BHK	2375	₹1.25 Cr	Fully-Furnished	4	Bachelors	Sale
+517	West Bengal Properties (West_Bengal.txt)	2 BHK Apartment	Kolkata Colony	Kolkata / West Bengal	Apartment / 2 BHK	1080	₹68.93 L	Semi-Furnished	2	Family	Sale
+518	West Bengal Properties (West_Bengal.txt)	3 BHK Apartment	Siliguri South	Siliguri / West Bengal	Apartment / 3 BHK	1328	₹21,800/month	Semi-Furnished	2	Any	Rent
+519	West Bengal Properties (West_Bengal.txt)	2 BHK Villa	Kolkata West	Kolkata / West Bengal	Villa / 2 BHK	1083	₹15,200/month	Unfurnished	2	Family	Rent
+520	West Bengal Properties (West_Bengal.txt)	3 BHK Apartment	Siliguri Main Road	Siliguri / West Bengal	Apartment / 3 BHK	817	₹16,500/month	Semi-Furnished	3	Bachelors	Rent
+521	West Bengal Properties (West_Bengal.txt)	2 BHK Apartment	Siliguri North	Siliguri / West Bengal	Apartment / 2 BHK	962	₹60.99 L	Semi-Furnished	2	Family	Sale
+522	West Bengal Properties (West_Bengal.txt)	4 BHK Independent House	Durgapur Colony	Durgapur / West Bengal	Independent House / 4 BHK	2243	₹33,200/month	Unfurnished	4	Bachelors	Rent
+523	West Bengal Properties (West_Bengal.txt)	2 BHK Villa	Howrah Colony	Howrah / West Bengal	Villa / 2 BHK	1149	₹58.20 L	Semi-Furnished	2	Family	Sale
+524	West Bengal Properties (West_Bengal.txt)	3 BHK Apartment	Kolkata North	Kolkata / West Bengal	Apartment / 3 BHK	1250	₹21,300/month	Semi-Furnished	2	Family	Rent
+525	West Bengal Properties (West_Bengal.txt)	1 BHK Apartment	Kolkata Residential Area	Kolkata / West Bengal	Apartment / 1 BHK	591	₹35.01 L	Semi-Furnished	1	Any	Sale
+526	West Bengal Properties (West_Bengal.txt)	2 BHK Builder Floor	Kolkata Town Centre	Kolkata / West Bengal	Builder Floor / 2 BHK	732	₹17,700/month	Semi-Furnished	3	Family	Rent
+527	West Bengal Properties (West_Bengal.txt)	2 BHK Apartment	Siliguri Sector 3	Siliguri / West Bengal	Apartment / 2 BHK	1032	₹18,700/month	Fully-Furnished	2	Bachelors	Rent
+528	West Bengal Properties (West_Bengal.txt)	2 BHK Apartment	Siliguri Sector 1	Siliguri / West Bengal	Apartment / 2 BHK	977	₹14,400/month	Semi-Furnished	3	Family	Rent
+529	West Bengal Properties (West_Bengal.txt)	2 BHK Builder Floor	Durgapur South	Durgapur / West Bengal	Builder Floor / 2 BHK	944	₹63.12 L	Semi-Furnished	2	Any	Sale
+530	West Bengal Properties (West_Bengal.txt)	1 BHK Studio	Siliguri Colony	Siliguri / West Bengal	Studio / 1 BHK	437	₹35.82 L	Unfurnished	1	Family	Sale
+531	West Bengal Properties (West_Bengal.txt)	4 BHK Apartment	Durgapur Nagar	Durgapur / West Bengal	Apartment / 4 BHK	2014	₹1.01 Cr	Unfurnished	5	Family	Sale
+532	West Bengal Properties (West_Bengal.txt)	1 BHK Independent House	Siliguri Sector 2	Siliguri / West Bengal	Independent House / 1 BHK	638	₹11,700/month	Unfurnished	1	Family	Rent
+533	West Bengal Properties (West_Bengal.txt)	1 BHK Apartment	Siliguri South	Siliguri / West Bengal	Apartment / 1 BHK	507	₹11,900/month	Fully-Furnished	1	Family	Rent
+534	West Bengal Properties (West_Bengal.txt)	1 BHK Builder Floor	Durgapur Sector 2	Durgapur / West Bengal	Builder Floor / 1 BHK	448	₹8,900/month	Semi-Furnished	2	Family	Rent
+535	West Bengal Properties (West_Bengal.txt)	2 BHK Builder Floor	Howrah Heights	Howrah / West Bengal	Builder Floor / 2 BHK	822	₹18,200/month	Unfurnished	1	Bachelors	Rent
+536	West Bengal Properties (West_Bengal.txt)	2 BHK Apartment	Howrah Central	Howrah / West Bengal	Apartment / 2 BHK	1004	₹14,000/month	Semi-Furnished	2	Any	Rent
+537	West Bengal Properties (West_Bengal.txt)	4 BHK Apartment	Siliguri Town Centre	Siliguri / West Bengal	Apartment / 4 BHK	1697	₹1.12 Cr	Semi-Furnished	3	Family	Sale
+538	West Bengal Properties (West_Bengal.txt)	2 BHK Builder Floor	Howrah West	Howrah / West Bengal	Builder Floor / 2 BHK	815	₹46.36 L	Unfurnished	2	Bachelors	Sale
+539	West Bengal Properties (West_Bengal.txt)	4 BHK Villa	Durgapur Nagar	Durgapur / West Bengal	Villa / 4 BHK	2699	₹1.31 Cr	Semi-Furnished	5	Bachelors	Sale
+540	West Bengal Properties (West_Bengal.txt)	2 BHK Apartment	Durgapur West	Durgapur / West Bengal	Apartment / 2 BHK	974	₹17,400/month	Fully-Furnished	3	Bachelors	Rent
+541	West Bengal Properties (West_Bengal.txt)	3 BHK Builder Floor	Durgapur West	Durgapur / West Bengal	Builder Floor / 3 BHK	1385	₹91.08 L	Semi-Furnished	3	Family	Sale
+542	West Bengal Properties (West_Bengal.txt)	2 BHK Apartment	Howrah Main Road	Howrah / West Bengal	Apartment / 2 BHK	769	₹12,600/month	Semi-Furnished	2	Family	Rent
+543	West Bengal Properties (West_Bengal.txt)	3 BHK Independent House	Siliguri Town Centre	Siliguri / West Bengal	Independent House / 3 BHK	1217	₹81.39 L	Semi-Furnished	4	Bachelors	Sale
+544	West Bengal Properties (West_Bengal.txt)	3 BHK Apartment	Kolkata East	Kolkata / West Bengal	Apartment / 3 BHK	1011	₹64 L	Semi-Furnished	3	Family	Sale
+545	West Bengal Properties (West_Bengal.txt)	2 BHK Apartment	Kolkata North	Kolkata / West Bengal	Apartment / 2 BHK	840	₹17,500/month	Fully-Furnished	2	Any	Rent
+546	West Bengal Properties (West_Bengal.txt)	3 BHK Villa	Howrah Main Road	Howrah / West Bengal	Villa / 3 BHK	1610	₹19,400/month	Fully-Furnished	2	Bachelors	Rent
+547	West Bengal Properties (West_Bengal.txt)	2 BHK Villa	Kolkata North	Kolkata / West Bengal	Villa / 2 BHK	529	₹56.07 L	Unfurnished	2	Bachelors	Sale
+548	West Bengal Properties (West_Bengal.txt)	3 BHK Builder Floor	Kolkata Colony	Kolkata / West Bengal	Builder Floor / 3 BHK	1232	₹62.76 L	Unfurnished	3	Any	Sale
+549	West Bengal Properties (West_Bengal.txt)	2 BHK Independent House	Kolkata Residential Area	Kolkata / West Bengal	Independent House / 2 BHK	989	₹64.97 L	Unfurnished	2	Bachelors	Sale
+550	West Bengal Properties (West_Bengal.txt)	2 BHK Apartment	Kolkata Colony	Kolkata / West Bengal	Apartment / 2 BHK	816	₹53.42 L	Semi-Furnished	2	Family	Sale
+551	West Bengal Properties (West_Bengal.txt)	3 BHK Apartment	Durgapur Nagar	Durgapur / West Bengal	Apartment / 3 BHK	1268	₹74.65 L	Unfurnished	3	Any	Sale
+552	West Bengal Properties (West_Bengal.txt)	3 BHK Apartment	Kolkata Colony	Kolkata / West Bengal	Apartment / 3 BHK	1344	₹67.33 L	Fully-Furnished	2	Bachelors	Sale
+553	West Bengal Properties (West_Bengal.txt)	1 BHK Apartment	Siliguri Extension	Siliguri / West Bengal	Apartment / 1 BHK	430	₹32.40 L	Semi-Furnished	2	Any	Sale
+554	West Bengal Properties (West_Bengal.txt)	3 BHK Apartment	Howrah Extension	Howrah / West Bengal	Apartment / 3 BHK	1009	₹71.36 L	Fully-Furnished	3	Bachelors	Sale
+555	West Bengal Properties (West_Bengal.txt)	3 BHK Independent House	Kolkata Nagar	Kolkata / West Bengal	Independent House / 3 BHK	1661	₹23,600/month	Semi-Furnished	3	Any	Rent
+556	West Bengal Properties (West_Bengal.txt)	1 BHK Villa	Kolkata Main Road	Kolkata / West Bengal	Villa / 1 BHK	749	₹11,100/month	Fully-Furnished	1	Any	Rent
+557	West Bengal Properties (West_Bengal.txt)	3 BHK Apartment	Howrah Sector 2	Howrah / West Bengal	Apartment / 3 BHK	1157	₹66.05 L	Unfurnished	3	Bachelors	Sale
+558	West Bengal Properties (West_Bengal.txt)	3 BHK Apartment	Durgapur Heights	Durgapur / West Bengal	Apartment / 3 BHK	950	₹76.76 L	Fully-Furnished	3	Bachelors	Sale
+559	West Bengal Properties (West_Bengal.txt)	4 BHK Independent House	Siliguri Colony	Siliguri / West Bengal	Independent House / 4 BHK	2235	₹91.62 L	Semi-Furnished	4	Family	Sale
+560	West Bengal Properties (West_Bengal.txt)	1 BHK Studio	Durgapur East	Durgapur / West Bengal	Studio / 1 BHK	324	₹33.70 L	Fully-Furnished	1	Bachelors	Sale
+561	West Bengal Properties (West_Bengal.txt)	2 BHK Villa	Howrah Residential Area	Howrah / West Bengal	Villa / 2 BHK	978	₹59 L	Semi-Furnished	2	Family	Sale
+562	West Bengal Properties (West_Bengal.txt)	1 BHK Villa	Siliguri Central	Siliguri / West Bengal	Villa / 1 BHK	825	₹34.01 L	Fully-Furnished	1	Bachelors	Sale
+563	West Bengal Properties (West_Bengal.txt)	2 BHK Apartment	Siliguri Extension	Siliguri / West Bengal	Apartment / 2 BHK	1042	₹57.17 L	Semi-Furnished	2	Bachelors	Sale
+564	West Bengal Properties (West_Bengal.txt)	3 BHK Apartment	Durgapur Nagar	Durgapur / West Bengal	Apartment / 3 BHK	1103	₹19,300/month	Unfurnished	2	Family	Rent
+565	West Bengal Properties (West_Bengal.txt)	3 BHK Apartment	Kolkata Central	Kolkata / West Bengal	Apartment / 3 BHK	1364	₹87.38 L	Unfurnished	3	Bachelors	Sale
+566	West Bengal Properties (West_Bengal.txt)	2 BHK Apartment	Kolkata North	Kolkata / West Bengal	Apartment / 2 BHK	919	₹15,500/month	Unfurnished	3	Any	Rent
+567	West Bengal Properties (West_Bengal.txt)	1 BHK Apartment	Siliguri Residential Area	Siliguri / West Bengal	Apartment / 1 BHK	639	₹36.56 L	Unfurnished	1	Family	Sale
+568	West Bengal Properties (West_Bengal.txt)	2 BHK Apartment	Siliguri Central	Siliguri / West Bengal	Apartment / 2 BHK	812	₹57.31 L	Unfurnished	3	Bachelors	Sale
+569	West Bengal Properties (West_Bengal.txt)	4 BHK Builder Floor	Siliguri Main Road	Siliguri / West Bengal	Builder Floor / 4 BHK	1584	₹25,300/month	Semi-Furnished	5	Any	Rent
+570	West Bengal Properties (West_Bengal.txt)	2 BHK Apartment	Howrah Sector 2	Howrah / West Bengal	Apartment / 2 BHK	737	₹47.37 L	Semi-Furnished	3	Family	Sale
+571	West Bengal Properties (West_Bengal.txt)	1 BHK Builder Floor	Kolkata West	Kolkata / West Bengal	Builder Floor / 1 BHK	397	₹10,500/month	Semi-Furnished	2	Family	Rent
+572	West Bengal Properties (West_Bengal.txt)	3 BHK Apartment	Kolkata Central	Kolkata / West Bengal	Apartment / 3 BHK	1112	₹85.50 L	Unfurnished	3	Any	Sale
+573	West Bengal Properties (West_Bengal.txt)	4 BHK Apartment	Durgapur Sector 2	Durgapur / West Bengal	Apartment / 4 BHK	1360	₹23,900/month	Unfurnished	4	Bachelors	Rent
+574	West Bengal Properties (West_Bengal.txt)	4 BHK Villa	Howrah Extension	Howrah / West Bengal	Villa / 4 BHK	1922	₹27,300/month	Semi-Furnished	4	Bachelors	Rent
+575	West Bengal Properties (West_Bengal.txt)	3 BHK Apartment	Durgapur West	Durgapur / West Bengal	Apartment / 3 BHK	1362	₹22,600/month	Fully-Furnished	2	Family	Rent
+576	West Bengal Properties (West_Bengal.txt)	2 BHK Apartment	Howrah Nagar	Howrah / West Bengal	Apartment / 2 BHK	731	₹60.40 L	Semi-Furnished	1	Family	Sale
+577	West Bengal Properties (West_Bengal.txt)	4 BHK Independent House	Howrah Town Centre	Howrah / West Bengal	Independent House / 4 BHK	1807	₹1.07 Cr	Unfurnished	4	Family	Sale
+578	West Bengal Properties (West_Bengal.txt)	2 BHK Apartment	Howrah Sector 2	Howrah / West Bengal	Apartment / 2 BHK	880	₹59.44 L	Unfurnished	1	Any	Sale
+579	West Bengal Properties (West_Bengal.txt)	1 BHK Studio	Durgapur South	Durgapur / West Bengal	Studio / 1 BHK	438	₹10,400/month	Unfurnished	2	Bachelors	Rent
+580	West Bengal Properties (West_Bengal.txt)	2 BHK Builder Floor	Siliguri North	Siliguri / West Bengal	Builder Floor / 2 BHK	777	₹16,100/month	Semi-Furnished	2	Family	Rent
+581	West Bengal Properties (West_Bengal.txt)	2 BHK Apartment	Durgapur Sector 3	Durgapur / West Bengal	Apartment / 2 BHK	874	₹48.55 L	Semi-Furnished	2	Family	Sale
+582	West Bengal Properties (West_Bengal.txt)	2 BHK Apartment	Kolkata South	Kolkata / West Bengal	Apartment / 2 BHK	607	₹54.57 L	Fully-Furnished	1	Bachelors	Sale
+583	West Bengal Properties (West_Bengal.txt)	4 BHK Villa	Siliguri Sector 3	Siliguri / West Bengal	Villa / 4 BHK	1758	₹29,900/month	Fully-Furnished	4	Any	Rent
+584	West Bengal Properties (West_Bengal.txt)	3 BHK Independent House	Siliguri Sector 2	Siliguri / West Bengal	Independent House / 3 BHK	1665	₹73.32 L	Unfurnished	3	Family	Sale
+585	West Bengal Properties (West_Bengal.txt)	4 BHK Independent House	Siliguri North	Siliguri / West Bengal	Independent House / 4 BHK	2001	₹1 Cr	Fully-Furnished	4	Bachelors	Sale
+586	West Bengal Properties (West_Bengal.txt)	2 BHK Independent House	Durgapur West	Durgapur / West Bengal	Independent House / 2 BHK	902	₹15,000/month	Semi-Furnished	2	Family	Rent
+587	West Bengal Properties (West_Bengal.txt)	3 BHK Independent House	Durgapur South	Durgapur / West Bengal	Independent House / 3 BHK	1639	₹22,000/month	Fully-Furnished	3	Any	Rent
+588	West Bengal Properties (West_Bengal.txt)	2 BHK Independent House	Kolkata Town Centre	Kolkata / West Bengal	Independent House / 2 BHK	958	₹55.44 L	Unfurnished	1	Family	Sale
+589	West Bengal Properties (West_Bengal.txt)	3 BHK Independent House	Howrah West	Howrah / West Bengal	Independent House / 3 BHK	1468	₹92.81 L	Semi-Furnished	3	Any	Sale
+590	West Bengal Properties (West_Bengal.txt)	2 BHK Apartment	Durgapur Colony	Durgapur / West Bengal	Apartment / 2 BHK	740	₹13,200/month	Semi-Furnished	2	Bachelors	Rent
+591	West Bengal Properties (West_Bengal.txt)	2 BHK Builder Floor	Siliguri Sector 2	Siliguri / West Bengal	Builder Floor / 2 BHK	1015	₹47.20 L	Semi-Furnished	2	Any	Sale
+592	West Bengal Properties (West_Bengal.txt)	3 BHK Independent House	Howrah Central	Howrah / West Bengal	Independent House / 3 BHK	1383	₹86.02 L	Unfurnished	3	Bachelors	Sale
+593	West Bengal Properties (West_Bengal.txt)	3 BHK Builder Floor	Durgapur Extension	Durgapur / West Bengal	Builder Floor / 3 BHK	1000	₹76.05 L	Unfurnished	4	Any	Sale
+594	West Bengal Properties (West_Bengal.txt)	1 BHK Apartment	Siliguri Colony	Siliguri / West Bengal	Apartment / 1 BHK	654	₹9,700/month	Unfurnished	1	Bachelors	Rent
+595	West Bengal Properties (West_Bengal.txt)	2 BHK Apartment	Kolkata Nagar	Kolkata / West Bengal	Apartment / 2 BHK	717	₹57.95 L	Semi-Furnished	1	Family	Sale
+596	West Bengal Properties (West_Bengal.txt)	3 BHK Independent House	Howrah Central	Howrah / West Bengal	Independent House / 3 BHK	1432	₹64.53 L	Semi-Furnished	2	Family	Sale
+597	West Bengal Properties (West_Bengal.txt)	3 BHK Builder Floor	Durgapur North	Durgapur / West Bengal	Builder Floor / 3 BHK	1179	₹89.74 L	Semi-Furnished	3	Bachelors	Sale
+598	West Bengal Properties (West_Bengal.txt)	2 BHK Apartment	Kolkata South	Kolkata / West Bengal	Apartment / 2 BHK	753	₹44.81 L	Semi-Furnished	3	Bachelors	Sale
+599	West Bengal Properties (West_Bengal.txt)	3 BHK Villa	Durgapur East	Durgapur / West Bengal	Villa / 3 BHK	1885	₹83.73 L	Semi-Furnished	3	Family	Sale
+600	West Bengal Properties (West_Bengal.txt)	2 BHK Independent House	Kolkata Colony	Kolkata / West Bengal	Independent House / 2 BHK	1127	₹58.70 L	Unfurnished	2	Any	Sale
+601	West Bengal Properties (West_Bengal.txt)	2 BHK Apartment	Howrah Main Road	Howrah / West Bengal	Apartment / 2 BHK	742	₹16,900/month	Semi-Furnished	2	Bachelors	Rent
+602	West Bengal Properties (West_Bengal.txt)	3 BHK Apartment	Kolkata Main Road	Kolkata / West Bengal	Apartment / 3 BHK	1095	₹18,900/month	Semi-Furnished	3	Bachelors	Rent
+603	West Bengal Properties (West_Bengal.txt)	3 BHK Apartment	Durgapur East	Durgapur / West Bengal	Apartment / 3 BHK	1107	₹21,800/month	Semi-Furnished	4	Family	Rent
+604	West Bengal Properties (West_Bengal.txt)	2 BHK Villa	Kolkata Central	Kolkata / West Bengal	Villa / 2 BHK	1419	₹75.47 L	Semi-Furnished	1	Any	Sale
+605	West Bengal Properties (West_Bengal.txt)	3 BHK Apartment	Howrah Sector 3	Howrah / West Bengal	Apartment / 3 BHK	1431	₹78.35 L	Fully-Furnished	4	Bachelors	Sale
+606	West Bengal Properties (West_Bengal.txt)	5 BHK Apartment	Howrah South	Howrah / West Bengal	Apartment / 5 BHK	1887	₹1.06 Cr	Semi-Furnished	6	Bachelors	Sale
+607	West Bengal Properties (West_Bengal.txt)	4 BHK Independent House	Durgapur South	Durgapur / West Bengal	Independent House / 4 BHK	2553	₹33,200/month	Semi-Furnished	4	Bachelors	Rent
+608	West Bengal Properties (West_Bengal.txt)	2 BHK Apartment	Durgapur Central	Durgapur / West Bengal	Apartment / 2 BHK	759	₹17,600/month	Semi-Furnished	2	Family	Rent
+609	West Bengal Properties (West_Bengal.txt)	2 BHK Apartment	Siliguri Sector 2	Siliguri / West Bengal	Apartment / 2 BHK	792	₹48.75 L	Fully-Furnished	3	Family	Sale
+610	West Bengal Properties (West_Bengal.txt)	3 BHK Apartment	Kolkata Extension	Kolkata / West Bengal	Apartment / 3 BHK	1117	₹21,600/month	Unfurnished	3	Bachelors	Rent
+611	West Bengal Properties (West_Bengal.txt)	3 BHK Apartment	Howrah Colony	Howrah / West Bengal	Apartment / 3 BHK	1024	₹18,700/month	Fully-Furnished	3	Bachelors	Rent
+612	West Bengal Properties (West_Bengal.txt)	4 BHK Apartment	Howrah Sector 2	Howrah / West Bengal	Apartment / 4 BHK	1767	₹1.10 Cr	Semi-Furnished	4	Any	Sale
+613	West Bengal Properties (West_Bengal.txt)	2 BHK Independent House	Siliguri Sector 1	Siliguri / West Bengal	Independent House / 2 BHK	910	₹61.02 L	Semi-Furnished	2	Any	Sale
+614	West Bengal Properties (West_Bengal.txt)	2 BHK Apartment	Kolkata Nagar	Kolkata / West Bengal	Apartment / 2 BHK	735	₹50.53 L	Unfurnished	2	Family	Sale
+615	West Bengal Properties (West_Bengal.txt)	4 BHK Builder Floor	Siliguri Town Centre	Siliguri / West Bengal	Builder Floor / 4 BHK	1278	₹1.08 Cr	Semi-Furnished	4	Any	Sale
+616	West Bengal Properties (West_Bengal.txt)	1 BHK Studio	Howrah South	Howrah / West Bengal	Studio / 1 BHK	328	₹9,300/month	Semi-Furnished	1	Any	Rent
+617	West Bengal Properties (West_Bengal.txt)	3 BHK Villa	Durgapur Nagar	Durgapur / West Bengal	Villa / 3 BHK	1908	₹28,500/month	Semi-Furnished	2	Any	Rent
+618	West Bengal Properties (West_Bengal.txt)	2 BHK Independent House	Siliguri Sector 3	Siliguri / West Bengal	Independent House / 2 BHK	1218	₹16,600/month	Semi-Furnished	3	Any	Rent
+619	West Bengal Properties (West_Bengal.txt)	3 BHK Apartment	Siliguri North	Siliguri / West Bengal	Apartment / 3 BHK	1361	₹73.17 L	Fully-Furnished	3	Family	Sale
+620	West Bengal Properties (West_Bengal.txt)	3 BHK Apartment	Durgapur Heights	Durgapur / West Bengal	Apartment / 3 BHK	1235	₹89.82 L	Semi-Furnished	2	Bachelors	Sale
+621	West Bengal Properties (West_Bengal.txt)	2 BHK Apartment	Siliguri Nagar	Siliguri / West Bengal	Apartment / 2 BHK	725	₹44.09 L	Semi-Furnished	1	Bachelors	Sale
+622	West Bengal Properties (West_Bengal.txt)	5 BHK Builder Floor	Durgapur East	Durgapur / West Bengal	Builder Floor / 5 BHK	2300	₹39,400/month	Semi-Furnished	5	Any	Rent
+623	West Bengal Properties (West_Bengal.txt)	2 BHK Apartment	Howrah Sector 1	Howrah / West Bengal	Apartment / 2 BHK	774	₹44.22 L	Unfurnished	1	Family	Sale
+624	West Bengal Properties (West_Bengal.txt)	3 BHK Villa	Kolkata North	Kolkata / West Bengal	Villa / 3 BHK	1488	₹72.63 L	Semi-Furnished	3	Bachelors	Sale
+625	West Bengal Properties (West_Bengal.txt)	2 BHK Independent House	Durgapur Residential Area	Durgapur / West Bengal	Independent House / 2 BHK	1055	₹56.32 L	Fully-Furnished	2	Family	Sale
+626	West Bengal Properties (West_Bengal.txt)	2 BHK Apartment	Durgapur Extension	Durgapur / West Bengal	Apartment / 2 BHK	819	₹49.34 L	Semi-Furnished	1	Any	Sale
+627	West Bengal Properties (West_Bengal.txt)	4 BHK Apartment	Howrah Sector 3	Howrah / West Bengal	Apartment / 4 BHK	1977	₹98.20 L	Semi-Furnished	4	Bachelors	Sale
+628	West Bengal Properties (West_Bengal.txt)	3 BHK Apartment	Howrah East	Howrah / West Bengal	Apartment / 3 BHK	1263	₹23,000/month	Fully-Furnished	3	Any	Rent
+629	West Bengal Properties (West_Bengal.txt)	2 BHK Apartment	Kolkata Main Road	Kolkata / West Bengal	Apartment / 2 BHK	834	₹16,600/month	Unfurnished	2	Family	Rent
+630	West Bengal Properties (West_Bengal.txt)	2 BHK Apartment	Siliguri Central	Siliguri / West Bengal	Apartment / 2 BHK	760	₹44.28 L	Unfurnished	2	Any	Sale
+631	West Bengal Properties (West_Bengal.txt)	3 BHK Independent House	Howrah Central	Howrah / West Bengal	Independent House / 3 BHK	1558	₹96.83 L	Unfurnished	2	Family	Sale
+632	West Bengal Properties (West_Bengal.txt)	2 BHK Independent House	Kolkata Main Road	Kolkata / West Bengal	Independent House / 2 BHK	919	₹17,000/month	Semi-Furnished	2	Family	Rent
+633	West Bengal Properties (West_Bengal.txt)	2 BHK Apartment	Kolkata Sector 2	Kolkata / West Bengal	Apartment / 2 BHK	704	₹17,500/month	Fully-Furnished	2	Bachelors	Rent
+634	West Bengal Properties (West_Bengal.txt)	3 BHK Apartment	Durgapur North	Durgapur / West Bengal	Apartment / 3 BHK	922	₹22,900/month	Semi-Furnished	2	Any	Rent
+635	West Bengal Properties (West_Bengal.txt)	1 BHK Studio	Kolkata Extension	Kolkata / West Bengal	Studio / 1 BHK	379	₹32.80 L	Fully-Furnished	1	Family	Sale
+636	West Bengal Properties (West_Bengal.txt)	2 BHK Apartment	Durgapur Sector 1	Durgapur / West Bengal	Apartment / 2 BHK	847	₹15,100/month	Semi-Furnished	3	Any	Rent
+637	West Bengal Properties (West_Bengal.txt)	4 BHK Builder Floor	Siliguri Heights	Siliguri / West Bengal	Builder Floor / 4 BHK	1644	₹1.07 Cr	Unfurnished	5	Family	Sale
+638	West Bengal Properties (West_Bengal.txt)	2 BHK Apartment	Siliguri Residential Area	Siliguri / West Bengal	Apartment / 2 BHK	829	₹46.40 L	Semi-Furnished	3	Bachelors	Sale
+639	West Bengal Properties (West_Bengal.txt)	2 BHK Apartment	Kolkata Extension	Kolkata / West Bengal	Apartment / 2 BHK	873	₹18,000/month	Semi-Furnished	1	Any	Rent
+640	West Bengal Properties (West_Bengal.txt)	4 BHK Apartment	Kolkata Extension	Kolkata / West Bengal	Apartment / 4 BHK	2026	₹29,800/month	Semi-Furnished	4	Any	Rent
+641	West Bengal Properties (West_Bengal.txt)	1 BHK Villa	Kolkata Nagar	Kolkata / West Bengal	Villa / 1 BHK	687	₹38.20 L	Unfurnished	1	Any	Sale
+642	West Bengal Properties (West_Bengal.txt)	4 BHK Independent House	Kolkata Extension	Kolkata / West Bengal	Independent House / 4 BHK	2012	₹1.15 Cr	Unfurnished	4	Family	Sale
+643	West Bengal Properties (West_Bengal.txt)	2 BHK Apartment	Durgapur Town Centre	Durgapur / West Bengal	Apartment / 2 BHK	950	₹60.18 L	Semi-Furnished	2	Bachelors	Sale
+644	West Bengal Properties (West_Bengal.txt)	3 BHK Apartment	Howrah Heights	Howrah / West Bengal	Apartment / 3 BHK	1304	₹76.03 L	Fully-Furnished	3	Family	Sale
+645	West Bengal Properties (West_Bengal.txt)	3 BHK Apartment	Durgapur Heights	Durgapur / West Bengal	Apartment / 3 BHK	1067	₹79.06 L	Semi-Furnished	3	Family	Sale
+646	West Bengal Properties (West_Bengal.txt)	3 BHK Apartment	Siliguri South	Siliguri / West Bengal	Apartment / 3 BHK	1454	₹92.39 L	Fully-Furnished	4	Family	Sale
+647	West Bengal Properties (West_Bengal.txt)	3 BHK Apartment	Kolkata Residential Area	Kolkata / West Bengal	Apartment / 3 BHK	1411	₹73.37 L	Semi-Furnished	3	Family	Sale
+648	West Bengal Properties (West_Bengal.txt)	1 BHK Studio	Siliguri Residential Area	Siliguri / West Bengal	Studio / 1 BHK	300	₹10,900/month	Unfurnished	1	Bachelors	Rent
+649	West Bengal Properties (West_Bengal.txt)	2 BHK Apartment	Siliguri East	Siliguri / West Bengal	Apartment / 2 BHK	772	₹51.18 L	Semi-Furnished	2	Family	Sale
+650	West Bengal Properties (West_Bengal.txt)	3 BHK Apartment	Howrah Residential Area	Howrah / West Bengal	Apartment / 3 BHK	1194	₹64.20 L	Semi-Furnished	3	Bachelors	Sale
+651	West Bengal Properties (West_Bengal.txt)	2 BHK Apartment	Kolkata Nagar	Kolkata / West Bengal	Apartment / 2 BHK	659	₹56.33 L	Unfurnished	2	Bachelors	Sale
+652	West Bengal Properties (West_Bengal.txt)	3 BHK Apartment	Siliguri Sector 2	Siliguri / West Bengal	Apartment / 3 BHK	1455	₹70.63 L	Unfurnished	2	Any	Sale
+653	West Bengal Properties (West_Bengal.txt)	2 BHK Apartment	Kolkata Nagar	Kolkata / West Bengal	Apartment / 2 BHK	662	₹48.81 L	Semi-Furnished	3	Any	Sale
+654	West Bengal Properties (West_Bengal.txt)	2 BHK Builder Floor	Kolkata Extension	Kolkata / West Bengal	Builder Floor / 2 BHK	842	₹53.67 L	Fully-Furnished	2	Family	Sale
+655	West Bengal Properties (West_Bengal.txt)	2 BHK Builder Floor	Siliguri South	Siliguri / West Bengal	Builder Floor / 2 BHK	734	₹63.04 L	Fully-Furnished	2	Family	Sale
+656	West Bengal Properties (West_Bengal.txt)	2 BHK Apartment	Siliguri Residential Area	Siliguri / West Bengal	Apartment / 2 BHK	734	₹54.60 L	Unfurnished	2	Bachelors	Sale
+657	West Bengal Properties (West_Bengal.txt)	2 BHK Villa	Siliguri Colony	Siliguri / West Bengal	Villa / 2 BHK	1250	₹15,500/month	Semi-Furnished	3	Any	Rent
+658	West Bengal Properties (West_Bengal.txt)	4 BHK Apartment	Kolkata Heights	Kolkata / West Bengal	Apartment / 4 BHK	1542	₹21,300/month	Semi-Furnished	4	Bachelors	Rent
+659	West Bengal Properties (West_Bengal.txt)	1 BHK Builder Floor	Kolkata Residential Area	Kolkata / West Bengal	Builder Floor / 1 BHK	533	₹41.05 L	Semi-Furnished	2	Family	Sale
+660	West Bengal Properties (West_Bengal.txt)	2 BHK Independent House	Kolkata Town Centre	Kolkata / West Bengal	Independent House / 2 BHK	1198	₹55.66 L	Fully-Furnished	3	Bachelors	Sale
+661	West Bengal Properties (West_Bengal.txt)	4 BHK Independent House	Siliguri Extension	Siliguri / West Bengal	Independent House / 4 BHK	2564	₹30,700/month	Unfurnished	4	Family	Rent
+662	West Bengal Properties (West_Bengal.txt)	3 BHK Apartment	Howrah West	Howrah / West Bengal	Apartment / 3 BHK	760	₹15,500/month	Unfurnished	3	Any	Rent
+663	West Bengal Properties (West_Bengal.txt)	5 BHK Builder Floor	Howrah Sector 1	Howrah / West Bengal	Builder Floor / 5 BHK	1837	₹32,600/month	Semi-Furnished	5	Bachelors	Rent
+664	West Bengal Properties (West_Bengal.txt)	3 BHK Villa	Kolkata West	Kolkata / West Bengal	Villa / 3 BHK	1658	₹21,600/month	Fully-Furnished	4	Family	Rent
+665	West Bengal Properties (West_Bengal.txt)	5 BHK Villa	Siliguri Sector 1	Siliguri / West Bengal	Villa / 5 BHK	3109	₹1.37 Cr	Unfurnished	6	Family	Sale
+666	West Bengal Properties (West_Bengal.txt)	3 BHK Apartment	Durgapur Nagar	Durgapur / West Bengal	Apartment / 3 BHK	1163	₹65.36 L	Semi-Furnished	4	Bachelors	Sale
+667	West Bengal Properties (West_Bengal.txt)	3 BHK Apartment	Kolkata Main Road	Kolkata / West Bengal	Apartment / 3 BHK	1626	₹80.54 L	Semi-Furnished	3	Bachelors	Sale
+668	West Bengal Properties (West_Bengal.txt)	3 BHK Builder Floor	Siliguri Extension	Siliguri / West Bengal	Builder Floor / 3 BHK	1480	₹91.94 L	Semi-Furnished	3	Family	Sale
+669	West Bengal Properties (West_Bengal.txt)	2 BHK Villa	Kolkata Central	Kolkata / West Bengal	Villa / 2 BHK	1185	₹54.59 L	Fully-Furnished	1	Family	Sale
+670	West Bengal Properties (West_Bengal.txt)	3 BHK Apartment	Siliguri Sector 3	Siliguri / West Bengal	Apartment / 3 BHK	1169	₹82.97 L	Semi-Furnished	3	Any	Sale
+671	West Bengal Properties (West_Bengal.txt)	2 BHK Apartment	Howrah Heights	Howrah / West Bengal	Apartment / 2 BHK	734	₹60.25 L	Semi-Furnished	2	Bachelors	Sale
+672	West Bengal Properties (West_Bengal.txt)	2 BHK Independent House	Kolkata Nagar	Kolkata / West Bengal	Independent House / 2 BHK	1028	₹55.14 L	Semi-Furnished	2	Family	Sale
+673	West Bengal Properties (West_Bengal.txt)	5 BHK Builder Floor	Kolkata Town Centre	Kolkata / West Bengal	Builder Floor / 5 BHK	2369	₹29,300/month	Semi-Furnished	4	Bachelors	Rent
+674	West Bengal Properties (West_Bengal.txt)	3 BHK Independent House	Siliguri Residential Area	Siliguri / West Bengal	Independent House / 3 BHK	1182	₹64.55 L	Semi-Furnished	3	Family	Sale
+675	West Bengal Properties (West_Bengal.txt)	1 BHK Studio	Howrah Residential Area	Howrah / West Bengal	Studio / 1 BHK	378	₹31.46 L	Unfurnished	1	Any	Sale
+676	West Bengal Properties (West_Bengal.txt)	2 BHK Apartment	Durgapur Colony	Durgapur / West Bengal	Apartment / 2 BHK	900	₹62.47 L	Semi-Furnished	2	Family	Sale
+677	West Bengal Properties (West_Bengal.txt)	1 BHK Villa	Durgapur East	Durgapur / West Bengal	Villa / 1 BHK	781	₹35.61 L	Semi-Furnished	1	Family	Sale
+678	West Bengal Properties (West_Bengal.txt)	2 BHK Apartment	Howrah Heights	Howrah / West Bengal	Apartment / 2 BHK	864	₹63.69 L	Fully-Furnished	2	Bachelors	Sale
+679	West Bengal Properties (West_Bengal.txt)	1 BHK Studio	Kolkata Central	Kolkata / West Bengal	Studio / 1 BHK	431	₹9,000/month	Semi-Furnished	1	Family	Rent
+680	West Bengal Properties (West_Bengal.txt)	4 BHK Builder Floor	Durgapur Nagar	Durgapur / West Bengal	Builder Floor / 4 BHK	2167	₹1.25 Cr	Semi-Furnished	5	Bachelors	Sale
+681	West Bengal Properties (West_Bengal.txt)	2 BHK Builder Floor	Siliguri Nagar	Siliguri / West Bengal	Builder Floor / 2 BHK	548	₹16,200/month	Semi-Furnished	2	Any	Rent
+682	West Bengal Properties (West_Bengal.txt)	3 BHK Apartment	Kolkata Town Centre	Kolkata / West Bengal	Apartment / 3 BHK	1192	₹66.21 L	Semi-Furnished	2	Family	Sale
+683	West Bengal Properties (West_Bengal.txt)	2 BHK Builder Floor	Howrah Extension	Howrah / West Bengal	Builder Floor / 2 BHK	936	₹61.29 L	Fully-Furnished	3	Family	Sale
+684	West Bengal Properties (West_Bengal.txt)	3 BHK Apartment	Howrah Nagar	Howrah / West Bengal	Apartment / 3 BHK	1042	₹16,900/month	Semi-Furnished	3	Family	Rent
+685	West Bengal Properties (West_Bengal.txt)	3 BHK Independent House	Howrah North	Howrah / West Bengal	Independent House / 3 BHK	1769	₹80.13 L	Unfurnished	3	Any	Sale
+686	West Bengal Properties (West_Bengal.txt)	4 BHK Builder Floor	Durgapur Heights	Durgapur / West Bengal	Builder Floor / 4 BHK	1803	₹1.07 Cr	Fully-Furnished	4	Family	Sale
+687	West Bengal Properties (West_Bengal.txt)	3 BHK Apartment	Siliguri Colony	Siliguri / West Bengal	Apartment / 3 BHK	1498	₹73.56 L	Fully-Furnished	2	Any	Sale
+688	West Bengal Properties (West_Bengal.txt)	2 BHK Apartment	Kolkata Residential Area	Kolkata / West Bengal	Apartment / 2 BHK	992	₹18,300/month	Fully-Furnished	2	Any	Rent
+689	West Bengal Properties (West_Bengal.txt)	1 BHK Studio	Durgapur Residential Area	Durgapur / West Bengal	Studio / 1 BHK	300	₹35 L	Fully-Furnished	1	Family	Sale
+690	West Bengal Properties (West_Bengal.txt)	3 BHK Apartment	Howrah Central	Howrah / West Bengal	Apartment / 3 BHK	1045	₹65.93 L	Semi-Furnished	3	Any	Sale
+691	West Bengal Properties (West_Bengal.txt)	2 BHK Apartment	Durgapur West	Durgapur / West Bengal	Apartment / 2 BHK	957	₹15,700/month	Semi-Furnished	2	Bachelors	Rent
+692	West Bengal Properties (West_Bengal.txt)	1 BHK Studio	Kolkata Nagar	Kolkata / West Bengal	Studio / 1 BHK	439	₹39.48 L	Semi-Furnished	1	Family	Sale
+693	West Bengal Properties (West_Bengal.txt)	2 BHK Apartment	Durgapur North	Durgapur / West Bengal	Apartment / 2 BHK	770	₹61.18 L	Unfurnished	2	Family	Sale
+694	West Bengal Properties (West_Bengal.txt)	3 BHK Apartment	Siliguri Central	Siliguri / West Bengal	Apartment / 3 BHK	1042	₹23,100/month	Fully-Furnished	2	Any	Rent
+695	West Bengal Properties (West_Bengal.txt)	4 BHK Builder Floor	Siliguri Central	Siliguri / West Bengal	Builder Floor / 4 BHK	1964	₹1.23 Cr	Semi-Furnished	5	Any	Sale
+696	West Bengal Properties (West_Bengal.txt)	3 BHK Apartment	Durgapur East	Durgapur / West Bengal	Apartment / 3 BHK	1409	₹23,900/month	Unfurnished	3	Family	Rent
+697	West Bengal Properties (West_Bengal.txt)	3 BHK Apartment	Durgapur Sector 2	Durgapur / West Bengal	Apartment / 3 BHK	1441	₹23,800/month	Fully-Furnished	3	Bachelors	Rent
+698	West Bengal Properties (West_Bengal.txt)	1 BHK Studio	Siliguri Sector 3	Siliguri / West Bengal	Studio / 1 BHK	339	₹8,500/month	Semi-Furnished	1	Any	Rent
+699	West Bengal Properties (West_Bengal.txt)	2 BHK Villa	Kolkata North	Kolkata / West Bengal	Villa / 2 BHK	1219	₹59.39 L	Fully-Furnished	1	Bachelors	Sale
+700	West Bengal Properties (West_Bengal.txt)	3 BHK Apartment	Howrah Sector 1	Howrah / West Bengal	Apartment / 3 BHK	1268	₹19,800/month	Semi-Furnished	3	Family	Rent
+701	West Bengal Properties (West_Bengal.txt)	2 BHK Apartment	Kolkata Sector 3	Kolkata / West Bengal	Apartment / 2 BHK	943	₹54.03 L	Unfurnished	2	Family	Sale
+702	West Bengal Properties (West_Bengal.txt)	1 BHK Studio	Howrah Nagar	Howrah / West Bengal	Studio / 1 BHK	300	₹7,500/month	Fully-Furnished	1	Bachelors	Rent
+703	West Bengal Properties (West_Bengal.txt)	2 BHK Apartment	Siliguri Extension	Siliguri / West Bengal	Apartment / 2 BHK	703	₹56.43 L	Semi-Furnished	2	Family	Sale
+704	West Bengal Properties (West_Bengal.txt)	1 BHK Independent House	Kolkata Main Road	Kolkata / West Bengal	Independent House / 1 BHK	650	₹32.65 L	Semi-Furnished	1	Any	Sale
+705	West Bengal Properties (West_Bengal.txt)	1 BHK Studio	Siliguri Town Centre	Siliguri / West Bengal	Studio / 1 BHK	424	₹10,900/month	Unfurnished	1	Bachelors	Rent
+706	West Bengal Properties (West_Bengal.txt)	2 BHK Apartment	Durgapur Main Road	Durgapur / West Bengal	Apartment / 2 BHK	839	₹45.41 L	Unfurnished	2	Bachelors	Sale
+707	West Bengal Properties (West_Bengal.txt)	1 BHK Studio	Durgapur Main Road	Durgapur / West Bengal	Studio / 1 BHK	423	₹9,500/month	Semi-Furnished	2	Family	Rent
+708	West Bengal Properties (West_Bengal.txt)	2 BHK Apartment	Durgapur Main Road	Durgapur / West Bengal	Apartment / 2 BHK	593	₹14,700/month	Semi-Furnished	2	Any	Rent
+709	West Bengal Properties (West_Bengal.txt)	4 BHK Apartment	Siliguri Central	Siliguri / West Bengal	Apartment / 4 BHK	1856	₹1.14 Cr	Semi-Furnished	3	Bachelors	Sale
+710	West Bengal Properties (West_Bengal.txt)	5 BHK Apartment	Kolkata South	Kolkata / West Bengal	Apartment / 5 BHK	1929	₹1.35 Cr	Semi-Furnished	6	Bachelors	Sale
+711	West Bengal Properties (West_Bengal.txt)	4 BHK Apartment	Durgapur Town Centre	Durgapur / West Bengal	Apartment / 4 BHK	1821	₹1.12 Cr	Fully-Furnished	5	Any	Sale
+712	West Bengal Properties (West_Bengal.txt)	3 BHK Independent House	Siliguri Central	Siliguri / West Bengal	Independent House / 3 BHK	1305	₹23,100/month	Fully-Furnished	3	Any	Rent
+713	West Bengal Properties (West_Bengal.txt)	3 BHK Independent House	Siliguri Colony	Siliguri / West Bengal	Independent House / 3 BHK	1319	₹24,500/month	Semi-Furnished	3	Family	Rent
+714	West Bengal Properties (West_Bengal.txt)	4 BHK Independent House	Kolkata Nagar	Kolkata / West Bengal	Independent House / 4 BHK	2296	₹33,300/month	Semi-Furnished	5	Family	Rent
+715	West Bengal Properties (West_Bengal.txt)	2 BHK Independent House	Howrah East	Howrah / West Bengal	Independent House / 2 BHK	1417	₹62.62 L	Fully-Furnished	3	Bachelors	Sale
+716	West Bengal Properties (West_Bengal.txt)	3 BHK Apartment	Kolkata Nagar	Kolkata / West Bengal	Apartment / 3 BHK	1495	₹19,500/month	Unfurnished	3	Any	Rent
+717	West Bengal Properties (West_Bengal.txt)	1 BHK Apartment	Kolkata North	Kolkata / West Bengal	Apartment / 1 BHK	620	₹12,400/month	Fully-Furnished	1	Bachelors	Rent
+718	West Bengal Properties (West_Bengal.txt)	3 BHK Apartment	Siliguri Colony	Siliguri / West Bengal	Apartment / 3 BHK	1306	₹18,500/month	Unfurnished	3	Family	Rent
+719	West Bengal Properties (West_Bengal.txt)	3 BHK Independent House	Kolkata West	Kolkata / West Bengal	Independent House / 3 BHK	1800	₹1.02 Cr	Semi-Furnished	4	Family	Sale
+720	West Bengal Properties (West_Bengal.txt)	3 BHK Independent House	Howrah Extension	Howrah / West Bengal	Independent House / 3 BHK	1465	₹92.24 L	Fully-Furnished	2	Any	Sale
+721	West Bengal Properties (West_Bengal.txt)	3 BHK Apartment	Siliguri Nagar	Siliguri / West Bengal	Apartment / 3 BHK	1155	₹18,800/month	Semi-Furnished	2	Family	Rent
+722	West Bengal Properties (West_Bengal.txt)	3 BHK Apartment	Durgapur North	Durgapur / West Bengal	Apartment / 3 BHK	1362	₹92.90 L	Semi-Furnished	3	Bachelors	Sale
+723	West Bengal Properties (West_Bengal.txt)	1 BHK Studio	Howrah Sector 1	Howrah / West Bengal	Studio / 1 BHK	464	₹34.91 L	Unfurnished	1	Family	Sale
+724	West Bengal Properties (West_Bengal.txt)	1 BHK Studio	Howrah South	Howrah / West Bengal	Studio / 1 BHK	336	₹8,600/month	Fully-Furnished	1	Bachelors	Rent
+725	West Bengal Properties (West_Bengal.txt)	3 BHK Builder Floor	Kolkata South	Kolkata / West Bengal	Builder Floor / 3 BHK	997	₹23,700/month	Fully-Furnished	3	Bachelors	Rent
+726	West Bengal Properties (West_Bengal.txt)	2 BHK Villa	Siliguri Extension	Siliguri / West Bengal	Villa / 2 BHK	1356	₹19,900/month	Fully-Furnished	2	Family	Rent
+727	West Bengal Properties (West_Bengal.txt)	1 BHK Villa	Durgapur Sector 1	Durgapur / West Bengal	Villa / 1 BHK	647	₹10,200/month	Unfurnished	2	Family	Rent
+728	West Bengal Properties (West_Bengal.txt)	4 BHK Apartment	Howrah East	Howrah / West Bengal	Apartment / 4 BHK	1667	₹1.09 Cr	Unfurnished	4	Bachelors	Sale
+729	West Bengal Properties (West_Bengal.txt)	3 BHK Independent House	Siliguri Sector 1	Siliguri / West Bengal	Independent House / 3 BHK	1690	₹69.26 L	Unfurnished	3	Bachelors	Sale
+730	West Bengal Properties (West_Bengal.txt)	2 BHK Apartment	Durgapur South	Durgapur / West Bengal	Apartment / 2 BHK	1031	₹67.87 L	Fully-Furnished	2	Family	Sale
+731	West Bengal Properties (West_Bengal.txt)	3 BHK Builder Floor	Howrah Colony	Howrah / West Bengal	Builder Floor / 3 BHK	1176	₹61.34 L	Fully-Furnished	3	Bachelors	Sale
+732	West Bengal Properties (West_Bengal.txt)	2 BHK Villa	Siliguri Residential Area	Siliguri / West Bengal	Villa / 2 BHK	996	₹59.41 L	Semi-Furnished	2	Family	Sale
+733	West Bengal Properties (West_Bengal.txt)	3 BHK Villa	Howrah Town Centre	Howrah / West Bengal	Villa / 3 BHK	1774	₹84.19 L	Unfurnished	2	Bachelors	Sale
+734	West Bengal Properties (West_Bengal.txt)	2 BHK Apartment	Howrah Sector 2	Howrah / West Bengal	Apartment / 2 BHK	724	₹60.68 L	Semi-Furnished	2	Family	Sale
+735	West Bengal Properties (West_Bengal.txt)	1 BHK Studio	Howrah Nagar	Howrah / West Bengal	Studio / 1 BHK	365	₹32.68 L	Unfurnished	1	Family	Sale
+736	West Bengal Properties (West_Bengal.txt)	2 BHK Apartment	Durgapur Heights	Durgapur / West Bengal	Apartment / 2 BHK	816	₹64.76 L	Semi-Furnished	2	Any	Sale
+737	West Bengal Properties (West_Bengal.txt)	3 BHK Independent House	Siliguri Sector 1	Siliguri / West Bengal	Independent House / 3 BHK	1806	₹1 Cr	Semi-Furnished	3	Any	Sale
+738	West Bengal Properties (West_Bengal.txt)	1 BHK Apartment	Durgapur Nagar	Durgapur / West Bengal	Apartment / 1 BHK	490	₹9,900/month	Fully-Furnished	1	Family	Rent
+739	West Bengal Properties (West_Bengal.txt)	1 BHK Apartment	Siliguri North	Siliguri / West Bengal	Apartment / 1 BHK	549	₹33.27 L	Fully-Furnished	1	Bachelors	Sale
+740	West Bengal Properties (West_Bengal.txt)	5 BHK Apartment	Kolkata North	Kolkata / West Bengal	Apartment / 5 BHK	2149	₹1.45 Cr	Unfurnished	5	Bachelors	Sale
+741	West Bengal Properties (West_Bengal.txt)	2 BHK Apartment	Howrah Colony	Howrah / West Bengal	Apartment / 2 BHK	971	₹14,200/month	Semi-Furnished	2	Family	Rent
+742	West Bengal Properties (West_Bengal.txt)	4 BHK Apartment	Howrah Town Centre	Howrah / West Bengal	Apartment / 4 BHK	1486	₹89.98 L	Unfurnished	4	Bachelors	Sale
+743	West Bengal Properties (West_Bengal.txt)	2 BHK Builder Floor	Durgapur Extension	Durgapur / West Bengal	Builder Floor / 2 BHK	734	₹56.97 L	Fully-Furnished	1	Family	Sale
+744	West Bengal Properties (West_Bengal.txt)	3 BHK Apartment	Kolkata West	Kolkata / West Bengal	Apartment / 3 BHK	1299	₹21,800/month	Semi-Furnished	3	Family	Rent
+745	West Bengal Properties (West_Bengal.txt)	1 BHK Apartment	Siliguri Town Centre	Siliguri / West Bengal	Apartment / 1 BHK	609	₹31.12 L	Unfurnished	1	Bachelors	Sale
+746	West Bengal Properties (West_Bengal.txt)	2 BHK Independent House	Howrah Sector 2	Howrah / West Bengal	Independent House / 2 BHK	1152	₹19,300/month	Fully-Furnished	1	Bachelors	Rent
+747	West Bengal Properties (West_Bengal.txt)	2 BHK Independent House	Siliguri North	Siliguri / West Bengal	Independent House / 2 BHK	1038	₹67.90 L	Unfurnished	1	Family	Sale
+748	West Bengal Properties (West_Bengal.txt)	1 BHK Independent House	Durgapur South	Durgapur / West Bengal	Independent House / 1 BHK	681	₹36.91 L	Fully-Furnished	1	Family	Sale
+749	West Bengal Properties (West_Bengal.txt)	2 BHK Apartment	Durgapur Sector 2	Durgapur / West Bengal	Apartment / 2 BHK	1005	₹16,000/month	Unfurnished	2	Family	Rent
+750	West Bengal Properties (West_Bengal.txt)	2 BHK Builder Floor	Siliguri Sector 3	Siliguri / West Bengal	Builder Floor / 2 BHK	772	₹12,600/month	Unfurnished	2	Family	Rent
+751	West Bengal Properties (West_Bengal.txt)	2 BHK Independent House	Siliguri South	Siliguri / West Bengal	Independent House / 2 BHK	806	₹63.24 L	Fully-Furnished	2	Any	Sale
+752	West Bengal Properties (West_Bengal.txt)	3 BHK Apartment	Siliguri Main Road	Siliguri / West Bengal	Apartment / 3 BHK	892	₹77.69 L	Semi-Furnished	3	Bachelors	Sale
+753	West Bengal Properties (West_Bengal.txt)	5 BHK Independent House	Kolkata Heights	Kolkata / West Bengal	Independent House / 5 BHK	3472	₹1.21 Cr	Fully-Furnished	5	Family	Sale
+754	West Bengal Properties (West_Bengal.txt)	2 BHK Independent House	Durgapur South	Durgapur / West Bengal	Independent House / 2 BHK	930	₹57.21 L	Semi-Furnished	2	Bachelors	Sale
+755	West Bengal Properties (West_Bengal.txt)	2 BHK Apartment	Durgapur East	Durgapur / West Bengal	Apartment / 2 BHK	830	₹14,800/month	Semi-Furnished	3	Any	Rent
+756	West Bengal Properties (West_Bengal.txt)	1 BHK Independent House	Kolkata Extension	Kolkata / West Bengal	Independent House / 1 BHK	595	₹10,400/month	Semi-Furnished	1	Bachelors	Rent
+757	West Bengal Properties (West_Bengal.txt)	2 BHK Apartment	Howrah Town Centre	Howrah / West Bengal	Apartment / 2 BHK	755	₹16,400/month	Unfurnished	1	Family	Rent
+758	West Bengal Properties (West_Bengal.txt)	3 BHK Villa	Howrah North	Howrah / West Bengal	Villa / 3 BHK	1441	₹23,500/month	Fully-Furnished	2	Bachelors	Rent
+759	West Bengal Properties (West_Bengal.txt)	2 BHK Apartment	Kolkata Central	Kolkata / West Bengal	Apartment / 2 BHK	897	₹15,000/month	Semi-Furnished	2	Family	Rent
+760	West Bengal Properties (West_Bengal.txt)	1 BHK Apartment	Siliguri Extension	Siliguri / West Bengal	Apartment / 1 BHK	444	₹31.29 L	Semi-Furnished	1	Any	Sale
+761	West Bengal Properties (West_Bengal.txt)	2 BHK Apartment	Durgapur Main Road	Durgapur / West Bengal	Apartment / 2 BHK	657	₹44.60 L	Fully-Furnished	1	Family	Sale
+762	West Bengal Properties (West_Bengal.txt)	1 BHK Villa	Durgapur South	Durgapur / West Bengal	Villa / 1 BHK	521	₹38.69 L	Fully-Furnished	2	Bachelors	Sale
+763	West Bengal Properties (West_Bengal.txt)	2 BHK Apartment	Siliguri Sector 3	Siliguri / West Bengal	Apartment / 2 BHK	611	₹15,800/month	Unfurnished	2	Bachelors	Rent
+764	West Bengal Properties (West_Bengal.txt)	3 BHK Independent House	Kolkata Sector 2	Kolkata / West Bengal	Independent House / 3 BHK	1103	₹19,600/month	Semi-Furnished	2	Bachelors	Rent
+765	West Bengal Properties (West_Bengal.txt)	3 BHK Villa	Siliguri Colony	Siliguri / West Bengal	Villa / 3 BHK	1070	₹61.68 L	Unfurnished	2	Bachelors	Sale
+766	West Bengal Properties (West_Bengal.txt)	1 BHK Villa	Siliguri Town Centre	Siliguri / West Bengal	Villa / 1 BHK	619	₹39.81 L	Semi-Furnished	1	Family	Sale
+767	West Bengal Properties (West_Bengal.txt)	3 BHK Apartment	Howrah Sector 1	Howrah / West Bengal	Apartment / 3 BHK	801	₹68.30 L	Fully-Furnished	3	Family	Sale
+768	West Bengal Properties (West_Bengal.txt)	2 BHK Apartment	Kolkata Town Centre	Kolkata / West Bengal	Apartment / 2 BHK	1104	₹67.48 L	Unfurnished	2	Any	Sale
+769	West Bengal Properties (West_Bengal.txt)	2 BHK Apartment	Kolkata Colony	Kolkata / West Bengal	Apartment / 2 BHK	660	₹45.05 L	Semi-Furnished	2	Family	Sale
+770	West Bengal Properties (West_Bengal.txt)	3 BHK Builder Floor	Durgapur Heights	Durgapur / West Bengal	Builder Floor / 3 BHK	1205	₹21,000/month	Semi-Furnished	3	Bachelors	Rent
+771	West Bengal Properties (West_Bengal.txt)	4 BHK Apartment	Howrah Nagar	Howrah / West Bengal	Apartment / 4 BHK	1993	₹1.09 Cr	Unfurnished	4	Family	Sale
+772	West Bengal Properties (West_Bengal.txt)	2 BHK Independent House	Howrah West	Howrah / West Bengal	Independent House / 2 BHK	1093	₹67.07 L	Unfurnished	2	Family	Sale
+773	West Bengal Properties (West_Bengal.txt)	2 BHK Builder Floor	Durgapur Central	Durgapur / West Bengal	Builder Floor / 2 BHK	735	₹55.63 L	Fully-Furnished	2	Bachelors	Sale
+774	West Bengal Properties (West_Bengal.txt)	2 BHK Apartment	Howrah Central	Howrah / West Bengal	Apartment / 2 BHK	663	₹51.52 L	Semi-Furnished	2	Any	Sale
+775	West Bengal Properties (West_Bengal.txt)	1 BHK Apartment	Siliguri Extension	Siliguri / West Bengal	Apartment / 1 BHK	509	₹35.86 L	Semi-Furnished	2	Bachelors	Sale
+776	West Bengal Properties (West_Bengal.txt)	2 BHK Apartment	Howrah North	Howrah / West Bengal	Apartment / 2 BHK	885	₹48.39 L	Semi-Furnished	2	Bachelors	Sale
+777	West Bengal Properties (West_Bengal.txt)	5 BHK Apartment	Durgapur Town Centre	Durgapur / West Bengal	Apartment / 5 BHK	2085	₹1.35 Cr	Semi-Furnished	5	Any	Sale
+778	West Bengal Properties (West_Bengal.txt)	5 BHK Apartment	Howrah Nagar	Howrah / West Bengal	Apartment / 5 BHK	2017	₹28,100/month	Fully-Furnished	5	Any	Rent
+779	West Bengal Properties (West_Bengal.txt)	2 BHK Villa	Kolkata Nagar	Kolkata / West Bengal	Villa / 2 BHK	1158	₹66.59 L	Fully-Furnished	3	Family	Sale
+780	West Bengal Properties (West_Bengal.txt)	1 BHK Studio	Kolkata Heights	Kolkata / West Bengal	Studio / 1 BHK	358	₹29.71 L	Unfurnished	1	Family	Sale
+781	West Bengal Properties (West_Bengal.txt)	1 BHK Villa	Siliguri Town Centre	Siliguri / West Bengal	Villa / 1 BHK	712	₹31.80 L	Fully-Furnished	1	Family	Sale
+782	West Bengal Properties (West_Bengal.txt)	3 BHK Apartment	Siliguri East	Siliguri / West Bengal	Apartment / 3 BHK	1210	₹69.37 L	Unfurnished	3	Family	Sale
+783	West Bengal Properties (West_Bengal.txt)	3 BHK Independent House	Kolkata South	Kolkata / West Bengal	Independent House / 3 BHK	1398	₹79.71 L	Semi-Furnished	3	Family	Sale
+784	West Bengal Properties (West_Bengal.txt)	3 BHK Villa	Kolkata Sector 3	Kolkata / West Bengal	Villa / 3 BHK	1610	₹84.75 L	Unfurnished	3	Any	Sale
+785	West Bengal Properties (West_Bengal.txt)	3 BHK Apartment	Durgapur Residential Area	Durgapur / West Bengal	Apartment / 3 BHK	1164	₹81.04 L	Semi-Furnished	3	Bachelors	Sale
+786	West Bengal Properties (West_Bengal.txt)	2 BHK Villa	Kolkata Sector 2	Kolkata / West Bengal	Villa / 2 BHK	988	₹55.53 L	Semi-Furnished	1	Any	Sale
+787	West Bengal Properties (West_Bengal.txt)	3 BHK Apartment	Durgapur East	Durgapur / West Bengal	Apartment / 3 BHK	1452	₹75.91 L	Unfurnished	3	Family	Sale
+788	West Bengal Properties (West_Bengal.txt)	2 BHK Apartment	Durgapur Town Centre	Durgapur / West Bengal	Apartment / 2 BHK	959	₹51.79 L	Semi-Furnished	3	Family	Sale
+789	West Bengal Properties (West_Bengal.txt)	1 BHK Builder Floor	Durgapur South	Durgapur / West Bengal	Builder Floor / 1 BHK	568	₹33.36 L	Unfurnished	1	Family	Sale
+790	West Bengal Properties (West_Bengal.txt)	1 BHK Studio	Kolkata Nagar	Kolkata / West Bengal	Studio / 1 BHK	384	₹9,700/month	Unfurnished	1	Bachelors	Rent
+791	West Bengal Properties (West_Bengal.txt)	1 BHK Independent House	Howrah Colony	Howrah / West Bengal	Independent House / 1 BHK	617	₹39.22 L	Semi-Furnished	1	Bachelors	Sale
+792	West Bengal Properties (West_Bengal.txt)	3 BHK Builder Floor	Durgapur Main Road	Durgapur / West Bengal	Builder Floor / 3 BHK	1322	₹19,300/month	Semi-Furnished	4	Family	Rent
+793	West Bengal Properties (West_Bengal.txt)	1 BHK Studio	Siliguri West	Siliguri / West Bengal	Studio / 1 BHK	432	₹36.73 L	Semi-Furnished	1	Any	Sale
+794	West Bengal Properties (West_Bengal.txt)	5 BHK Apartment	Kolkata Sector 3	Kolkata / West Bengal	Apartment / 5 BHK	1647	₹93.83 L	Semi-Furnished	4	Family	Sale
+795	West Bengal Properties (West_Bengal.txt)	3 BHK Builder Floor	Durgapur West	Durgapur / West Bengal	Builder Floor / 3 BHK	1034	₹74.21 L	Semi-Furnished	3	Any	Sale
+796	West Bengal Properties (West_Bengal.txt)	5 BHK Builder Floor	Durgapur Residential Area	Durgapur / West Bengal	Builder Floor / 5 BHK	2241	₹34,600/month	Fully-Furnished	4	Family	Rent
+797	West Bengal Properties (West_Bengal.txt)	2 BHK Apartment	Siliguri Extension	Siliguri / West Bengal	Apartment / 2 BHK	576	₹45.85 L	Semi-Furnished	2	Family	Sale
+798	West Bengal Properties (West_Bengal.txt)	2 BHK Builder Floor	Kolkata Sector 1	Kolkata / West Bengal	Builder Floor / 2 BHK	844	₹48.02 L	Unfurnished	3	Family	Sale
+799	West Bengal Properties (West_Bengal.txt)	1 BHK Independent House	Siliguri Sector 3	Siliguri / West Bengal	Independent House / 1 BHK	627	₹31 L	Semi-Furnished	1	Bachelors	Sale
+800	West Bengal Properties (West_Bengal.txt)	4 BHK Independent House	Howrah Sector 1	Howrah / West Bengal	Independent House / 4 BHK	1909	₹1.22 Cr	Unfurnished	4	Any	Sale
+801	West Bengal Properties (West_Bengal.txt)	3 BHK Builder Floor	Kolkata South	Kolkata / West Bengal	Builder Floor / 3 BHK	1163	₹65.92 L	Fully-Furnished	3	Family	Sale
+802	West Bengal Properties (West_Bengal.txt)	2 BHK Villa	Siliguri Sector 1	Siliguri / West Bengal	Villa / 2 BHK	1056	₹19,000/month	Fully-Furnished	2	Family	Rent
+803	West Bengal Properties (West_Bengal.txt)	3 BHK Apartment	Howrah West	Howrah / West Bengal	Apartment / 3 BHK	1254	₹84.19 L	Semi-Furnished	2	Any	Sale
+804	West Bengal Properties (West_Bengal.txt)	4 BHK Apartment	Howrah Central	Howrah / West Bengal	Apartment / 4 BHK	1916	₹23,600/month	Fully-Furnished	5	Family	Rent
+805	West Bengal Properties (West_Bengal.txt)	2 BHK Builder Floor	Howrah Colony	Howrah / West Bengal	Builder Floor / 2 BHK	879	₹13,400/month	Fully-Furnished	2	Any	Rent
+806	West Bengal Properties (West_Bengal.txt)	2 BHK Builder Floor	Siliguri Nagar	Siliguri / West Bengal	Builder Floor / 2 BHK	737	₹14,500/month	Semi-Furnished	2	Family	Rent
+807	West Bengal Properties (West_Bengal.txt)	3 BHK Independent House	Durgapur Residential Area	Durgapur / West Bengal	Independent House / 3 BHK	1767	₹23,000/month	Unfurnished	3	Family	Rent
+808	West Bengal Properties (West_Bengal.txt)	3 BHK Apartment	Kolkata Nagar	Kolkata / West Bengal	Apartment / 3 BHK	1381	₹67.21 L	Semi-Furnished	3	Family	Sale
+809	West Bengal Properties (West_Bengal.txt)	3 BHK Builder Floor	Kolkata Colony	Kolkata / West Bengal	Builder Floor / 3 BHK	1416	₹21,300/month	Semi-Furnished	3	Family	Rent
+810	West Bengal Properties (West_Bengal.txt)	4 BHK Apartment	Kolkata Extension	Kolkata / West Bengal	Apartment / 4 BHK	1533	₹86.71 L	Unfurnished	4	Family	Sale
+811	West Bengal Properties (West_Bengal.txt)	1 BHK Apartment	Kolkata Colony	Kolkata / West Bengal	Apartment / 1 BHK	570	₹37.37 L	Unfurnished	2	Family	Sale
+812	West Bengal Properties (West_Bengal.txt)	1 BHK Apartment	Kolkata Colony	Kolkata / West Bengal	Apartment / 1 BHK	448	₹33.41 L	Fully-Furnished	2	Bachelors	Sale
+813	West Bengal Properties (West_Bengal.txt)	3 BHK Independent House	Durgapur Central	Durgapur / West Bengal	Independent House / 3 BHK	1457	₹91.14 L	Semi-Furnished	3	Family	Sale
+814	West Bengal Properties (West_Bengal.txt)	2 BHK Apartment	Siliguri North	Siliguri / West Bengal	Apartment / 2 BHK	714	₹15,800/month	Unfurnished	2	Family	Rent
+815	West Bengal Properties (West_Bengal.txt)	2 BHK Independent House	Durgapur Sector 1	Durgapur / West Bengal	Independent House / 2 BHK	1103	₹64.30 L	Semi-Furnished	1	Family	Sale
+816	West Bengal Properties (West_Bengal.txt)	3 BHK Builder Floor	Howrah Sector 1	Howrah / West Bengal	Builder Floor / 3 BHK	1016	₹64.74 L	Unfurnished	3	Any	Sale
+817	West Bengal Properties (West_Bengal.txt)	5 BHK Apartment	Durgapur Sector 1	Durgapur / West Bengal	Apartment / 5 BHK	2377	₹40,000/month	Unfurnished	5	Bachelors	Rent
+818	West Bengal Properties (West_Bengal.txt)	2 BHK Apartment	Durgapur Town Centre	Durgapur / West Bengal	Apartment / 2 BHK	929	₹53.65 L	Fully-Furnished	1	Family	Sale
+819	West Bengal Properties (West_Bengal.txt)	2 BHK Apartment	Durgapur East	Durgapur / West Bengal	Apartment / 2 BHK	765	₹16,500/month	Unfurnished	3	Any	Rent
+820	West Bengal Properties (West_Bengal.txt)	5 BHK Builder Floor	Durgapur Sector 3	Durgapur / West Bengal	Builder Floor / 5 BHK	2069	₹26,600/month	Semi-Furnished	6	Any	Rent
+821	West Bengal Properties (West_Bengal.txt)	3 BHK Independent House	Howrah Sector 2	Howrah / West Bengal	Independent House / 3 BHK	1793	₹77.16 L	Unfurnished	3	Bachelors	Sale
+822	West Bengal Properties (West_Bengal.txt)	2 BHK Apartment	Howrah Colony	Howrah / West Bengal	Apartment / 2 BHK	852	₹15,600/month	Unfurnished	2	Family	Rent
+823	West Bengal Properties (West_Bengal.txt)	1 BHK Apartment	Siliguri North	Siliguri / West Bengal	Apartment / 1 BHK	511	₹32.78 L	Unfurnished	2	Bachelors	Sale
+824	West Bengal Properties (West_Bengal.txt)	2 BHK Apartment	Howrah Sector 2	Howrah / West Bengal	Apartment / 2 BHK	899	₹63.61 L	Semi-Furnished	2	Family	Sale
+825	West Bengal Properties (West_Bengal.txt)	2 BHK Apartment	Durgapur Main Road	Durgapur / West Bengal	Apartment / 2 BHK	916	₹67.87 L	Fully-Furnished	2	Family	Sale
+826	West Bengal Properties (West_Bengal.txt)	4 BHK Builder Floor	Siliguri Sector 2	Siliguri / West Bengal	Builder Floor / 4 BHK	2088	₹1.18 Cr	Semi-Furnished	3	Family	Sale
+827	West Bengal Properties (West_Bengal.txt)	3 BHK Apartment	Siliguri East	Siliguri / West Bengal	Apartment / 3 BHK	1317	₹67.65 L	Semi-Furnished	3	Bachelors	Sale
+828	West Bengal Properties (West_Bengal.txt)	3 BHK Apartment	Kolkata Central	Kolkata / West Bengal	Apartment / 3 BHK	1616	₹19,800/month	Fully-Furnished	2	Bachelors	Rent
+829	West Bengal Properties (West_Bengal.txt)	3 BHK Independent House	Durgapur North	Durgapur / West Bengal	Independent House / 3 BHK	1898	₹73.81 L	Unfurnished	2	Bachelors	Sale
+830	West Bengal Properties (West_Bengal.txt)	5 BHK Independent House	Durgapur Extension	Durgapur / West Bengal	Independent House / 5 BHK	2934	₹36,600/month	Semi-Furnished	5	Any	Rent
+831	West Bengal Properties (West_Bengal.txt)	4 BHK Apartment	Kolkata Nagar	Kolkata / West Bengal	Apartment / 4 BHK	1863	₹85.82 L	Semi-Furnished	4	Family	Sale
+832	West Bengal Properties (West_Bengal.txt)	1 BHK Apartment	Kolkata Extension	Kolkata / West Bengal	Apartment / 1 BHK	507	₹11,400/month	Fully-Furnished	1	Family	Rent
+833	West Bengal Properties (West_Bengal.txt)	2 BHK Apartment	Kolkata Colony	Kolkata / West Bengal	Apartment / 2 BHK	888	₹50.81 L	Unfurnished	2	Bachelors	Sale
+834	West Bengal Properties (West_Bengal.txt)	2 BHK Independent House	Siliguri Central	Siliguri / West Bengal	Independent House / 2 BHK	834	₹46.17 L	Fully-Furnished	3	Family	Sale
+835	West Bengal Properties (West_Bengal.txt)	3 BHK Apartment	Howrah Colony	Howrah / West Bengal	Apartment / 3 BHK	758	₹21,300/month	Semi-Furnished	3	Bachelors	Rent
+836	West Bengal Properties (West_Bengal.txt)	2 BHK Builder Floor	Siliguri East	Siliguri / West Bengal	Builder Floor / 2 BHK	738	₹49.32 L	Semi-Furnished	2	Any	Sale
+837	West Bengal Properties (West_Bengal.txt)	4 BHK Apartment	Siliguri Colony	Siliguri / West Bengal	Apartment / 4 BHK	1949	₹1.17 Cr	Fully-Furnished	4	Bachelors	Sale
+838	West Bengal Properties (West_Bengal.txt)	3 BHK Apartment	Siliguri Sector 2	Siliguri / West Bengal	Apartment / 3 BHK	1093	₹21,300/month	Semi-Furnished	3	Any	Rent
+839	West Bengal Properties (West_Bengal.txt)	4 BHK Apartment	Durgapur North	Durgapur / West Bengal	Apartment / 4 BHK	2001	₹1.06 Cr	Semi-Furnished	4	Any	Sale
+840	West Bengal Properties (West_Bengal.txt)	2 BHK Apartment	Siliguri Sector 3	Siliguri / West Bengal	Apartment / 2 BHK	724	₹46.97 L	Semi-Furnished	3	Family	Sale
+841	West Bengal Properties (West_Bengal.txt)	3 BHK Independent House	Kolkata Nagar	Kolkata / West Bengal	Independent House / 3 BHK	1395	₹81.45 L	Fully-Furnished	3	Bachelors	Sale
+842	West Bengal Properties (West_Bengal.txt)	3 BHK Apartment	Siliguri South	Siliguri / West Bengal	Apartment / 3 BHK	973	₹79.86 L	Fully-Furnished	3	Family	Sale
+843	West Bengal Properties (West_Bengal.txt)	3 BHK Independent House	Howrah Sector 2	Howrah / West Bengal	Independent House / 3 BHK	1649	₹20,900/month	Semi-Furnished	3	Any	Rent
+844	West Bengal Properties (West_Bengal.txt)	2 BHK Apartment	Durgapur East	Durgapur / West Bengal	Apartment / 2 BHK	790	₹13,900/month	Unfurnished	1	Family	Rent
+845	West Bengal Properties (West_Bengal.txt)	3 BHK Independent House	Kolkata Central	Kolkata / West Bengal	Independent House / 3 BHK	1327	₹90.61 L	Fully-Furnished	3	Any	Sale
+846	West Bengal Properties (West_Bengal.txt)	2 BHK Builder Floor	Siliguri Sector 2	Siliguri / West Bengal	Builder Floor / 2 BHK	702	₹63.35 L	Fully-Furnished	2	Family	Sale
+847	West Bengal Properties (West_Bengal.txt)	4 BHK Apartment	Durgapur North	Durgapur / West Bengal	Apartment / 4 BHK	1740	₹28,200/month	Semi-Furnished	4	Family	Rent
+848	West Bengal Properties (West_Bengal.txt)	2 BHK Apartment	Siliguri Sector 2	Siliguri / West Bengal	Apartment / 2 BHK	1014	₹67.02 L	Unfurnished	1	Family	Sale
+849	West Bengal Properties (West_Bengal.txt)	1 BHK Apartment	Siliguri Extension	Siliguri / West Bengal	Apartment / 1 BHK	562	₹40.18 L	Fully-Furnished	1	Any	Sale
+850	West Bengal Properties (West_Bengal.txt)	2 BHK Builder Floor	Durgapur Main Road	Durgapur / West Bengal	Builder Floor / 2 BHK	942	₹51.98 L	Semi-Furnished	1	Bachelors	Sale
+851	West Bengal Properties (West_Bengal.txt)	1 BHK Builder Floor	Kolkata Extension	Kolkata / West Bengal	Builder Floor / 1 BHK	554	₹33.87 L	Fully-Furnished	1	Bachelors	Sale
+852	West Bengal Properties (West_Bengal.txt)	2 BHK Apartment	Siliguri Nagar	Siliguri / West Bengal	Apartment / 2 BHK	611	₹15,200/month	Semi-Furnished	2	Family	Rent
+853	West Bengal Properties (West_Bengal.txt)	1 BHK Builder Floor	Kolkata East	Kolkata / West Bengal	Builder Floor / 1 BHK	461	₹11,000/month	Fully-Furnished	1	Family	Rent
+854	West Bengal Properties (West_Bengal.txt)	1 BHK Studio	Durgapur Heights	Durgapur / West Bengal	Studio / 1 BHK	373	₹11,000/month	Unfurnished	1	Any	Rent
+855	West Bengal Properties (West_Bengal.txt)	2 BHK Villa	Siliguri Heights	Siliguri / West Bengal	Villa / 2 BHK	1065	₹13,500/month	Unfurnished	2	Family	Rent
+856	West Bengal Properties (West_Bengal.txt)	2 BHK Apartment	Siliguri Sector 2	Siliguri / West Bengal	Apartment / 2 BHK	951	₹18,900/month	Semi-Furnished	3	Any	Rent
+857	West Bengal Properties (West_Bengal.txt)	3 BHK Apartment	Siliguri Town Centre	Siliguri / West Bengal	Apartment / 3 BHK	1498	₹76.67 L	Semi-Furnished	3	Family	Sale
+858	West Bengal Properties (West_Bengal.txt)	3 BHK Apartment	Siliguri Town Centre	Siliguri / West Bengal	Apartment / 3 BHK	1067	₹23,600/month	Semi-Furnished	3	Bachelors	Rent
+859	West Bengal Properties (West_Bengal.txt)	2 BHK Apartment	Kolkata North	Kolkata / West Bengal	Apartment / 2 BHK	816	₹62.89 L	Unfurnished	2	Family	Sale
+860	West Bengal Properties (West_Bengal.txt)	2 BHK Apartment	Howrah Sector 3	Howrah / West Bengal	Apartment / 2 BHK	680	₹50.17 L	Semi-Furnished	3	Any	Sale
+861	West Bengal Properties (West_Bengal.txt)	3 BHK Independent House	Howrah Extension	Howrah / West Bengal	Independent House / 3 BHK	1206	₹90.29 L	Fully-Furnished	3	Bachelors	Sale
+862	West Bengal Properties (West_Bengal.txt)	1 BHK Builder Floor	Kolkata Heights	Kolkata / West Bengal	Builder Floor / 1 BHK	562	₹11,100/month	Semi-Furnished	1	Family	Rent
+863	West Bengal Properties (West_Bengal.txt)	4 BHK Apartment	Siliguri Nagar	Siliguri / West Bengal	Apartment / 4 BHK	1500	₹27,800/month	Unfurnished	4	Bachelors	Rent
+864	West Bengal Properties (West_Bengal.txt)	3 BHK Apartment	Kolkata Extension	Kolkata / West Bengal	Apartment / 3 BHK	1597	₹70.17 L	Fully-Furnished	3	Any	Sale
+865	West Bengal Properties (West_Bengal.txt)	1 BHK Studio	Siliguri Nagar	Siliguri / West Bengal	Studio / 1 BHK	372	₹33.28 L	Semi-Furnished	1	Family	Sale
+866	West Bengal Properties (West_Bengal.txt)	4 BHK Apartment	Siliguri Heights	Siliguri / West Bengal	Apartment / 4 BHK	1607	₹29,900/month	Unfurnished	4	Bachelors	Rent
+867	West Bengal Properties (West_Bengal.txt)	4 BHK Independent House	Siliguri Heights	Siliguri / West Bengal	Independent House / 4 BHK	2225	₹27,000/month	Fully-Furnished	4	Family	Rent
+868	West Bengal Properties (West_Bengal.txt)	1 BHK Studio	Siliguri Central	Siliguri / West Bengal	Studio / 1 BHK	459	₹11,200/month	Unfurnished	1	Family	Rent
+869	West Bengal Properties (West_Bengal.txt)	3 BHK Villa	Durgapur Sector 1	Durgapur / West Bengal	Villa / 3 BHK	1647	₹90.40 L	Fully-Furnished	3	Family	Sale
+870	West Bengal Properties (West_Bengal.txt)	3 BHK Apartment	Siliguri Central	Siliguri / West Bengal	Apartment / 3 BHK	1234	₹18,900/month	Fully-Furnished	3	Bachelors	Rent
+871	West Bengal Properties (West_Bengal.txt)	3 BHK Apartment	Kolkata Residential Area	Kolkata / West Bengal	Apartment / 3 BHK	1467	₹20,600/month	Fully-Furnished	3	Family	Rent
+872	West Bengal Properties (West_Bengal.txt)	3 BHK Apartment	Howrah East	Howrah / West Bengal	Apartment / 3 BHK	997	₹21,200/month	Fully-Furnished	3	Bachelors	Rent
+873	West Bengal Properties (West_Bengal.txt)	2 BHK Apartment	Durgapur West	Durgapur / West Bengal	Apartment / 2 BHK	847	₹59.32 L	Fully-Furnished	2	Any	Sale
+874	West Bengal Properties (West_Bengal.txt)	2 BHK Apartment	Durgapur Main Road	Durgapur / West Bengal	Apartment / 2 BHK	1028	₹68.23 L	Fully-Furnished	2	Family	Sale
+875	West Bengal Properties (West_Bengal.txt)	2 BHK Builder Floor	Siliguri West	Siliguri / West Bengal	Builder Floor / 2 BHK	853	₹64.92 L	Unfurnished	1	Family	Sale
+876	West Bengal Properties (West_Bengal.txt)	1 BHK Apartment	Howrah Sector 3	Howrah / West Bengal	Apartment / 1 BHK	398	₹40.43 L	Semi-Furnished	2	Family	Sale
+877	West Bengal Properties (West_Bengal.txt)	1 BHK Apartment	Howrah South	Howrah / West Bengal	Apartment / 1 BHK	577	₹9,600/month	Semi-Furnished	1	Bachelors	Rent
+878	West Bengal Properties (West_Bengal.txt)	1 BHK Apartment	Siliguri Sector 3	Siliguri / West Bengal	Apartment / 1 BHK	551	₹39.17 L	Semi-Furnished	1	Bachelors	Sale
+879	West Bengal Properties (West_Bengal.txt)	3 BHK Apartment	Durgapur East	Durgapur / West Bengal	Apartment / 3 BHK	1293	₹23,500/month	Unfurnished	2	Family	Rent
+880	West Bengal Properties (West_Bengal.txt)	1 BHK Studio	Howrah Main Road	Howrah / West Bengal	Studio / 1 BHK	404	₹40.24 L	Unfurnished	1	Family	Sale
+881	West Bengal Properties (West_Bengal.txt)	1 BHK Apartment	Howrah Town Centre	Howrah / West Bengal	Apartment / 1 BHK	565	₹8,600/month	Fully-Furnished	2	Bachelors	Rent
+882	West Bengal Properties (West_Bengal.txt)	1 BHK Builder Floor	Kolkata Sector 3	Kolkata / West Bengal	Builder Floor / 1 BHK	534	₹10,800/month	Fully-Furnished	1	Bachelors	Rent
+883	West Bengal Properties (West_Bengal.txt)	5 BHK Apartment	Howrah Residential Area	Howrah / West Bengal	Apartment / 5 BHK	2168	₹1.02 Cr	Fully-Furnished	5	Family	Sale
+884	West Bengal Properties (West_Bengal.txt)	1 BHK Apartment	Siliguri West	Siliguri / West Bengal	Apartment / 1 BHK	531	₹30.25 L	Fully-Furnished	2	Bachelors	Sale
+885	West Bengal Properties (West_Bengal.txt)	2 BHK Apartment	Kolkata Sector 1	Kolkata / West Bengal	Apartment / 2 BHK	981	₹49.86 L	Unfurnished	3	Any	Sale
+886	West Bengal Properties (West_Bengal.txt)	2 BHK Apartment	Howrah Nagar	Howrah / West Bengal	Apartment / 2 BHK	921	₹56.33 L	Semi-Furnished	2	Bachelors	Sale
+887	West Bengal Properties (West_Bengal.txt)	2 BHK Apartment	Durgapur Heights	Durgapur / West Bengal	Apartment / 2 BHK	973	₹57.94 L	Unfurnished	3	Any	Sale
+888	West Bengal Properties (West_Bengal.txt)	4 BHK Villa	Siliguri Extension	Siliguri / West Bengal	Villa / 4 BHK	2150	₹97.68 L	Fully-Furnished	4	Family	Sale
+889	West Bengal Properties (West_Bengal.txt)	2 BHK Builder Floor	Siliguri Town Centre	Siliguri / West Bengal	Builder Floor / 2 BHK	714	₹15,600/month	Unfurnished	3	Bachelors	Rent
+890	West Bengal Properties (West_Bengal.txt)	3 BHK Independent House	Kolkata Central	Kolkata / West Bengal	Independent House / 3 BHK	1837	₹25,300/month	Unfurnished	3	Bachelors	Rent
+891	West Bengal Properties (West_Bengal.txt)	3 BHK Apartment	Durgapur East	Durgapur / West Bengal	Apartment / 3 BHK	1311	₹72.33 L	Semi-Furnished	3	Bachelors	Sale
+892	West Bengal Properties (West_Bengal.txt)	2 BHK Apartment	Durgapur Sector 3	Durgapur / West Bengal	Apartment / 2 BHK	874	₹58.66 L	Unfurnished	1	Family	Sale
+893	West Bengal Properties (West_Bengal.txt)	2 BHK Independent House	Kolkata Main Road	Kolkata / West Bengal	Independent House / 2 BHK	866	₹16,800/month	Semi-Furnished	2	Any	Rent
+894	West Bengal Properties (West_Bengal.txt)	3 BHK Apartment	Kolkata Heights	Kolkata / West Bengal	Apartment / 3 BHK	1242	₹20,700/month	Semi-Furnished	2	Family	Rent
+895	West Bengal Properties (West_Bengal.txt)	3 BHK Independent House	Durgapur Colony	Durgapur / West Bengal	Independent House / 3 BHK	1410	₹23,200/month	Unfurnished	4	Bachelors	Rent
+896	West Bengal Properties (West_Bengal.txt)	5 BHK Builder Floor	Howrah Residential Area	Howrah / West Bengal	Builder Floor / 5 BHK	1725	₹25,600/month	Semi-Furnished	5	Family	Rent
+897	West Bengal Properties (West_Bengal.txt)	3 BHK Builder Floor	Durgapur Town Centre	Durgapur / West Bengal	Builder Floor / 3 BHK	1089	₹70.37 L	Fully-Furnished	3	Family	Sale
+898	West Bengal Properties (West_Bengal.txt)	3 BHK Apartment	Siliguri Heights	Siliguri / West Bengal	Apartment / 3 BHK	1030	₹67.11 L	Semi-Furnished	3	Any	Sale
+899	West Bengal Properties (West_Bengal.txt)	5 BHK Builder Floor	Howrah Nagar	Howrah / West Bengal	Builder Floor / 5 BHK	2654	₹28,800/month	Fully-Furnished	5	Bachelors	Rent
+900	West Bengal Properties (West_Bengal.txt)	1 BHK Studio	Siliguri Central	Siliguri / West Bengal	Studio / 1 BHK	412	₹30.24 L	Semi-Furnished	2	Bachelors	Sale
+901	West Bengal Properties (West_Bengal.txt)	1 BHK Independent House	Howrah Sector 1	Howrah / West Bengal	Independent House / 1 BHK	643	₹9,700/month	Semi-Furnished	1	Family	Rent
+902	West Bengal Properties (West_Bengal.txt)	2 BHK Apartment	Siliguri Sector 1	Siliguri / West Bengal	Apartment / 2 BHK	637	₹54.04 L	Semi-Furnished	2	Any	Sale
+903	West Bengal Properties (West_Bengal.txt)	3 BHK Apartment	Siliguri West	Siliguri / West Bengal	Apartment / 3 BHK	1116	₹85.75 L	Semi-Furnished	3	Family	Sale
+904	West Bengal Properties (West_Bengal.txt)	5 BHK Independent House	Siliguri Colony	Siliguri / West Bengal	Independent House / 5 BHK	2756	₹1.17 Cr	Unfurnished	5	Any	Sale
+905	West Bengal Properties (West_Bengal.txt)	2 BHK Builder Floor	Siliguri East	Siliguri / West Bengal	Builder Floor / 2 BHK	844	₹64.06 L	Fully-Furnished	1	Family	Sale
+906	West Bengal Properties (West_Bengal.txt)	2 BHK Builder Floor	Durgapur North	Durgapur / West Bengal	Builder Floor / 2 BHK	781	₹17,500/month	Semi-Furnished	2	Bachelors	Rent
+907	West Bengal Properties (West_Bengal.txt)	1 BHK Builder Floor	Kolkata South	Kolkata / West Bengal	Builder Floor / 1 BHK	489	₹41.78 L	Fully-Furnished	1	Family	Sale
+908	West Bengal Properties (West_Bengal.txt)	2 BHK Apartment	Kolkata Central	Kolkata / West Bengal	Apartment / 2 BHK	1029	₹55.97 L	Semi-Furnished	2	Bachelors	Sale
+909	West Bengal Properties (West_Bengal.txt)	1 BHK Independent House	Siliguri South	Siliguri / West Bengal	Independent House / 1 BHK	743	₹10,000/month	Semi-Furnished	1	Bachelors	Rent
+910	West Bengal Properties (West_Bengal.txt)	3 BHK Villa	Siliguri Extension	Siliguri / West Bengal	Villa / 3 BHK	1639	₹88.65 L	Semi-Furnished	3	Family	Sale
+911	West Bengal Properties (West_Bengal.txt)	3 BHK Apartment	Howrah Residential Area	Howrah / West Bengal	Apartment / 3 BHK	1467	₹73.11 L	Semi-Furnished	3	Family	Sale
+912	West Bengal Properties (West_Bengal.txt)	2 BHK Builder Floor	Howrah East	Howrah / West Bengal	Builder Floor / 2 BHK	751	₹58.76 L	Semi-Furnished	2	Family	Sale
+913	West Bengal Properties (West_Bengal.txt)	2 BHK Apartment	Durgapur Colony	Durgapur / West Bengal	Apartment / 2 BHK	848	₹53.39 L	Unfurnished	1	Family	Sale
+914	West Bengal Properties (West_Bengal.txt)	2 BHK Apartment	Siliguri Sector 2	Siliguri / West Bengal	Apartment / 2 BHK	1079	₹57.25 L	Semi-Furnished	3	Family	Sale
+915	West Bengal Properties (West_Bengal.txt)	2 BHK Villa	Durgapur Nagar	Durgapur / West Bengal	Villa / 2 BHK	1096	₹49.51 L	Semi-Furnished	1	Bachelors	Sale
+916	West Bengal Properties (West_Bengal.txt)	2 BHK Villa	Howrah South	Howrah / West Bengal	Villa / 2 BHK	1106	₹63.05 L	Fully-Furnished	2	Family	Sale
+917	West Bengal Properties (West_Bengal.txt)	2 BHK Apartment	Kolkata South	Kolkata / West Bengal	Apartment / 2 BHK	1007	₹15,800/month	Fully-Furnished	2	Any	Rent
+918	West Bengal Properties (West_Bengal.txt)	5 BHK Apartment	Kolkata Sector 2	Kolkata / West Bengal	Apartment / 5 BHK	2428	₹1.08 Cr	Semi-Furnished	6	Any	Sale
+919	West Bengal Properties (West_Bengal.txt)	2 BHK Apartment	Howrah Main Road	Howrah / West Bengal	Apartment / 2 BHK	931	₹54.98 L	Semi-Furnished	2	Family	Sale
+920	West Bengal Properties (West_Bengal.txt)	3 BHK Apartment	Durgapur East	Durgapur / West Bengal	Apartment / 3 BHK	1176	₹84.22 L	Fully-Furnished	3	Bachelors	Sale
+921	West Bengal Properties (West_Bengal.txt)	3 BHK Builder Floor	Howrah South	Howrah / West Bengal	Builder Floor / 3 BHK	1241	₹20,400/month	Fully-Furnished	4	Family	Rent
+922	West Bengal Properties (West_Bengal.txt)	4 BHK Builder Floor	Howrah East	Howrah / West Bengal	Builder Floor / 4 BHK	1803	₹1.19 Cr	Semi-Furnished	4	Family	Sale
+923	West Bengal Properties (West_Bengal.txt)	3 BHK Independent House	Kolkata Nagar	Kolkata / West Bengal	Independent House / 3 BHK	1507	₹21,600/month	Semi-Furnished	3	Bachelors	Rent
+924	West Bengal Properties (West_Bengal.txt)	3 BHK Apartment	Durgapur Nagar	Durgapur / West Bengal	Apartment / 3 BHK	1303	₹24,500/month	Unfurnished	3	Any	Rent
+925	West Bengal Properties (West_Bengal.txt)	4 BHK Apartment	Howrah Extension	Howrah / West Bengal	Apartment / 4 BHK	1676	₹21,500/month	Semi-Furnished	5	Family	Rent
+926	West Bengal Properties (West_Bengal.txt)	3 BHK Apartment	Howrah Sector 1	Howrah / West Bengal	Apartment / 3 BHK	948	₹65.82 L	Semi-Furnished	4	Bachelors	Sale
+927	West Bengal Properties (West_Bengal.txt)	1 BHK Studio	Kolkata Sector 1	Kolkata / West Bengal	Studio / 1 BHK	349	₹31 L	Fully-Furnished	1	Family	Sale
+928	West Bengal Properties (West_Bengal.txt)	3 BHK Builder Floor	Howrah Colony	Howrah / West Bengal	Builder Floor / 3 BHK	1282	₹74.49 L	Semi-Furnished	3	Family	Sale
+929	West Bengal Properties (West_Bengal.txt)	2 BHK Apartment	Durgapur Sector 1	Durgapur / West Bengal	Apartment / 2 BHK	821	₹53.29 L	Fully-Furnished	2	Any	Sale
+930	West Bengal Properties (West_Bengal.txt)	2 BHK Apartment	Kolkata West	Kolkata / West Bengal	Apartment / 2 BHK	927	₹56.30 L	Unfurnished	2	Bachelors	Sale
+931	West Bengal Properties (West_Bengal.txt)	3 BHK Independent House	Howrah West	Howrah / West Bengal	Independent House / 3 BHK	1455	₹72.78 L	Unfurnished	3	Family	Sale
+932	West Bengal Properties (West_Bengal.txt)	2 BHK Apartment	Siliguri Colony	Siliguri / West Bengal	Apartment / 2 BHK	1008	₹69.57 L	Unfurnished	2	Bachelors	Sale
+933	West Bengal Properties (West_Bengal.txt)	3 BHK Apartment	Siliguri West	Siliguri / West Bengal	Apartment / 3 BHK	840	₹79.11 L	Fully-Furnished	3	Bachelors	Sale
+934	West Bengal Properties (West_Bengal.txt)	2 BHK Apartment	Kolkata Sector 3	Kolkata / West Bengal	Apartment / 2 BHK	933	₹16,100/month	Semi-Furnished	2	Bachelors	Rent
+935	West Bengal Properties (West_Bengal.txt)	2 BHK Apartment	Howrah Extension	Howrah / West Bengal	Apartment / 2 BHK	790	₹17,000/month	Unfurnished	3	Bachelors	Rent
+936	West Bengal Properties (West_Bengal.txt)	4 BHK Apartment	Kolkata East	Kolkata / West Bengal	Apartment / 4 BHK	1785	₹98.45 L	Semi-Furnished	4	Any	Sale
+937	West Bengal Properties (West_Bengal.txt)	2 BHK Independent House	Durgapur Sector 1	Durgapur / West Bengal	Independent House / 2 BHK	1043	₹16,600/month	Unfurnished	3	Any	Rent
+938	West Bengal Properties (West_Bengal.txt)	5 BHK Builder Floor	Howrah Sector 3	Howrah / West Bengal	Builder Floor / 5 BHK	2607	₹40,000/month	Semi-Furnished	5	Bachelors	Rent
+939	West Bengal Properties (West_Bengal.txt)	4 BHK Apartment	Siliguri Residential Area	Siliguri / West Bengal	Apartment / 4 BHK	1679	₹99.25 L	Semi-Furnished	5	Any	Sale
+940	West Bengal Properties (West_Bengal.txt)	2 BHK Villa	Durgapur Town Centre	Durgapur / West Bengal	Villa / 2 BHK	1343	₹54.76 L	Semi-Furnished	2	Family	Sale
+941	West Bengal Properties (West_Bengal.txt)	2 BHK Apartment	Kolkata Colony	Kolkata / West Bengal	Apartment / 2 BHK	596	₹13,000/month	Unfurnished	1	Any	Rent
+942	West Bengal Properties (West_Bengal.txt)	3 BHK Builder Floor	Kolkata Heights	Kolkata / West Bengal	Builder Floor / 3 BHK	1070	₹81.80 L	Fully-Furnished	2	Family	Sale
+943	West Bengal Properties (West_Bengal.txt)	3 BHK Builder Floor	Siliguri Residential Area	Siliguri / West Bengal	Builder Floor / 3 BHK	1441	₹95.44 L	Semi-Furnished	3	Bachelors	Sale
+944	West Bengal Properties (West_Bengal.txt)	3 BHK Apartment	Siliguri Residential Area	Siliguri / West Bengal	Apartment / 3 BHK	1077	₹60.75 L	Semi-Furnished	4	Any	Sale
+945	West Bengal Properties (West_Bengal.txt)	1 BHK Apartment	Howrah Main Road	Howrah / West Bengal	Apartment / 1 BHK	541	₹39.94 L	Semi-Furnished	2	Bachelors	Sale
+946	West Bengal Properties (West_Bengal.txt)	3 BHK Builder Floor	Howrah North	Howrah / West Bengal	Builder Floor / 3 BHK	1256	₹20,600/month	Semi-Furnished	3	Family	Rent
+947	West Bengal Properties (West_Bengal.txt)	2 BHK Builder Floor	Kolkata Sector 2	Kolkata / West Bengal	Builder Floor / 2 BHK	909	₹48.09 L	Semi-Furnished	3	Bachelors	Sale
+948	West Bengal Properties (West_Bengal.txt)	2 BHK Apartment	Howrah West	Howrah / West Bengal	Apartment / 2 BHK	783	₹57.83 L	Semi-Furnished	2	Any	Sale
+949	West Bengal Properties (West_Bengal.txt)	4 BHK Independent House	Durgapur Main Road	Durgapur / West Bengal	Independent House / 4 BHK	2536	₹1.06 Cr	Fully-Furnished	5	Family	Sale
+950	West Bengal Properties (West_Bengal.txt)	3 BHK Independent House	Howrah West	Howrah / West Bengal	Independent House / 3 BHK	1512	₹93.38 L	Semi-Furnished	2	Family	Sale
+951	West Bengal Properties (West_Bengal.txt)	3 BHK Builder Floor	Howrah South	Howrah / West Bengal	Builder Floor / 3 BHK	1174	₹64.47 L	Unfurnished	3	Family	Sale
+952	West Bengal Properties (West_Bengal.txt)	4 BHK Independent House	Durgapur Extension	Durgapur / West Bengal	Independent House / 4 BHK	2036	₹89.91 L	Semi-Furnished	3	Bachelors	Sale
+953	West Bengal Properties (West_Bengal.txt)	3 BHK Builder Floor	Kolkata Nagar	Kolkata / West Bengal	Builder Floor / 3 BHK	1218	₹71.50 L	Fully-Furnished	4	Any	Sale
+954	West Bengal Properties (West_Bengal.txt)	3 BHK Builder Floor	Siliguri South	Siliguri / West Bengal	Builder Floor / 3 BHK	1189	₹68.59 L	Fully-Furnished	3	Any	Sale
+955	West Bengal Properties (West_Bengal.txt)	2 BHK Independent House	Kolkata Residential Area	Kolkata / West Bengal	Independent House / 2 BHK	922	₹14,300/month	Semi-Furnished	3	Any	Rent
+956	West Bengal Properties (West_Bengal.txt)	3 BHK Apartment	Siliguri Nagar	Siliguri / West Bengal	Apartment / 3 BHK	1244	₹76.99 L	Semi-Furnished	2	Family	Sale
+957	West Bengal Properties (West_Bengal.txt)	3 BHK Independent House	Siliguri Heights	Siliguri / West Bengal	Independent House / 3 BHK	1625	₹18,700/month	Fully-Furnished	3	Bachelors	Rent
+958	West Bengal Properties (West_Bengal.txt)	1 BHK Studio	Howrah Sector 1	Howrah / West Bengal	Studio / 1 BHK	361	₹35.50 L	Unfurnished	2	Any	Sale
+959	West Bengal Properties (West_Bengal.txt)	4 BHK Apartment	Kolkata Nagar	Kolkata / West Bengal	Apartment / 4 BHK	1492	₹84.95 L	Semi-Furnished	4	Family	Sale
+960	West Bengal Properties (West_Bengal.txt)	1 BHK Independent House	Durgapur Extension	Durgapur / West Bengal	Independent House / 1 BHK	631	₹9,900/month	Unfurnished	1	Family	Rent
+961	West Bengal Properties (West_Bengal.txt)	1 BHK Apartment	Durgapur Sector 2	Durgapur / West Bengal	Apartment / 1 BHK	573	₹43.33 L	Semi-Furnished	1	Family	Sale
+962	West Bengal Properties (West_Bengal.txt)	3 BHK Apartment	Siliguri Extension	Siliguri / West Bengal	Apartment / 3 BHK	1176	₹72.29 L	Semi-Furnished	2	Family	Sale
+963	West Bengal Properties (West_Bengal.txt)	2 BHK Builder Floor	Howrah Sector 2	Howrah / West Bengal	Builder Floor / 2 BHK	820	₹54.57 L	Semi-Furnished	1	Bachelors	Sale
+964	West Bengal Properties (West_Bengal.txt)	3 BHK Apartment	Siliguri North	Siliguri / West Bengal	Apartment / 3 BHK	1231	₹74.21 L	Unfurnished	3	Family	Sale
+965	West Bengal Properties (West_Bengal.txt)	3 BHK Independent House	Howrah East	Howrah / West Bengal	Independent House / 3 BHK	1289	₹76.51 L	Unfurnished	3	Bachelors	Sale
+966	West Bengal Properties (West_Bengal.txt)	3 BHK Independent House	Durgapur Heights	Durgapur / West Bengal	Independent House / 3 BHK	1860	₹22,200/month	Semi-Furnished	3	Family	Rent
+967	West Bengal Properties (West_Bengal.txt)	2 BHK Apartment	Siliguri Sector 2	Siliguri / West Bengal	Apartment / 2 BHK	1217	₹20,300/month	Fully-Furnished	3	Family	Rent
+968	West Bengal Properties (West_Bengal.txt)	5 BHK Apartment	Kolkata Heights	Kolkata / West Bengal	Apartment / 5 BHK	2021	₹1.06 Cr	Unfurnished	4	Any	Sale
+969	West Bengal Properties (West_Bengal.txt)	3 BHK Apartment	Kolkata Sector 1	Kolkata / West Bengal	Apartment / 3 BHK	790	₹17,100/month	Semi-Furnished	3	Any	Rent
+970	West Bengal Properties (West_Bengal.txt)	1 BHK Villa	Howrah Extension	Howrah / West Bengal	Villa / 1 BHK	779	₹46.25 L	Fully-Furnished	1	Family	Sale
+971	West Bengal Properties (West_Bengal.txt)	3 BHK Apartment	Kolkata Sector 1	Kolkata / West Bengal	Apartment / 3 BHK	1245	₹70.91 L	Fully-Furnished	3	Any	Sale
+972	West Bengal Properties (West_Bengal.txt)	1 BHK Studio	Siliguri Main Road	Siliguri / West Bengal	Studio / 1 BHK	351	₹7,800/month	Semi-Furnished	1	Family	Rent
+973	West Bengal Properties (West_Bengal.txt)	2 BHK Builder Floor	Kolkata Colony	Kolkata / West Bengal	Builder Floor / 2 BHK	876	₹56.75 L	Fully-Furnished	3	Bachelors	Sale
+974	West Bengal Properties (West_Bengal.txt)	3 BHK Apartment	Siliguri Extension	Siliguri / West Bengal	Apartment / 3 BHK	1136	₹20,900/month	Fully-Furnished	2	Family	Rent
+975	West Bengal Properties (West_Bengal.txt)	1 BHK Builder Floor	Durgapur Colony	Durgapur / West Bengal	Builder Floor / 1 BHK	423	₹11,000/month	Semi-Furnished	1	Bachelors	Rent
+976	West Bengal Properties (West_Bengal.txt)	3 BHK Apartment	Kolkata Residential Area	Kolkata / West Bengal	Apartment / 3 BHK	1274	₹23,500/month	Semi-Furnished	4	Any	Rent
+977	West Bengal Properties (West_Bengal.txt)	4 BHK Independent House	Durgapur Residential Area	Durgapur / West Bengal	Independent House / 4 BHK	1687	₹1.12 Cr	Fully-Furnished	4	Family	Sale
+978	West Bengal Properties (West_Bengal.txt)	3 BHK Apartment	Howrah East	Howrah / West Bengal	Apartment / 3 BHK	1068	₹66.02 L	Semi-Furnished	3	Bachelors	Sale
+979	West Bengal Properties (West_Bengal.txt)	1 BHK Independent House	Durgapur Town Centre	Durgapur / West Bengal	Independent House / 1 BHK	665	₹11,400/month	Unfurnished	1	Family	Rent
+980	West Bengal Properties (West_Bengal.txt)	3 BHK Apartment	Siliguri Extension	Siliguri / West Bengal	Apartment / 3 BHK	1082	₹70 L	Semi-Furnished	4	Any	Sale
+981	West Bengal Properties (West_Bengal.txt)	3 BHK Apartment	Durgapur West	Durgapur / West Bengal	Apartment / 3 BHK	1129	₹19,700/month	Unfurnished	4	Family	Rent
+982	West Bengal Properties (West_Bengal.txt)	2 BHK Apartment	Durgapur Sector 2	Durgapur / West Bengal	Apartment / 2 BHK	778	₹13,800/month	Fully-Furnished	1	Any	Rent
+983	West Bengal Properties (West_Bengal.txt)	1 BHK Builder Floor	Durgapur North	Durgapur / West Bengal	Builder Floor / 1 BHK	470	₹36.28 L	Semi-Furnished	2	Any	Sale
+984	West Bengal Properties (West_Bengal.txt)	2 BHK Apartment	Kolkata North	Kolkata / West Bengal	Apartment / 2 BHK	806	₹59.25 L	Semi-Furnished	2	Bachelors	Sale
+985	West Bengal Properties (West_Bengal.txt)	3 BHK Apartment	Howrah Sector 2	Howrah / West Bengal	Apartment / 3 BHK	1260	₹64.96 L	Semi-Furnished	4	Bachelors	Sale
+986	West Bengal Properties (West_Bengal.txt)	2 BHK Builder Floor	Durgapur Central	Durgapur / West Bengal	Builder Floor / 2 BHK	748	₹16,300/month	Semi-Furnished	1	Bachelors	Rent
+987	West Bengal Properties (West_Bengal.txt)	1 BHK Studio	Kolkata Sector 1	Kolkata / West Bengal	Studio / 1 BHK	361	₹8,900/month	Unfurnished	1	Family	Rent
+988	West Bengal Properties (West_Bengal.txt)	1 BHK Apartment	Siliguri Colony	Siliguri / West Bengal	Apartment / 1 BHK	531	₹9,100/month	Semi-Furnished	1	Family	Rent
+989	West Bengal Properties (West_Bengal.txt)	3 BHK Apartment	Kolkata Nagar	Kolkata / West Bengal	Apartment / 3 BHK	1698	₹77.72 L	Semi-Furnished	2	Family	Sale
+990	West Bengal Properties (West_Bengal.txt)	2 BHK Apartment	Durgapur Heights	Durgapur / West Bengal	Apartment / 2 BHK	912	₹53.47 L	Semi-Furnished	3	Family	Sale
+991	West Bengal Properties (West_Bengal.txt)	3 BHK Apartment	Siliguri Sector 2	Siliguri / West Bengal	Apartment / 3 BHK	1222	₹82.29 L	Fully-Furnished	3	Any	Sale
+992	West Bengal Properties (West_Bengal.txt)	2 BHK Apartment	Durgapur Central	Durgapur / West Bengal	Apartment / 2 BHK	657	₹59.31 L	Semi-Furnished	3	Family	Sale
+993	West Bengal Properties (West_Bengal.txt)	2 BHK Apartment	Durgapur Main Road	Durgapur / West Bengal	Apartment / 2 BHK	924	₹63.82 L	Unfurnished	2	Family	Sale
+994	West Bengal Properties (West_Bengal.txt)	1 BHK Studio	Durgapur North	Durgapur / West Bengal	Studio / 1 BHK	317	₹8,300/month	Unfurnished	1	Family	Rent
+995	West Bengal Properties (West_Bengal.txt)	4 BHK Apartment	Howrah North	Howrah / West Bengal	Apartment / 4 BHK	1816	₹27,800/month	Fully-Furnished	3	Family	Rent
+996	West Bengal Properties (West_Bengal.txt)	1 BHK Apartment	Siliguri Colony	Siliguri / West Bengal	Apartment / 1 BHK	676	₹12,600/month	Semi-Furnished	1	Bachelors	Rent
+997	West Bengal Properties (West_Bengal.txt)	4 BHK Apartment	Durgapur Nagar	Durgapur / West Bengal	Apartment / 4 BHK	1602	₹28,100/month	Semi-Furnished	3	Any	Rent
+998	West Bengal Properties (West_Bengal.txt)	3 BHK Apartment	Durgapur Main Road	Durgapur / West Bengal	Apartment / 3 BHK	1056	₹65.91 L	Semi-Furnished	3	Any	Sale
+999	West Bengal Properties (West_Bengal.txt)	3 BHK Builder Floor	Siliguri Nagar	Siliguri / West Bengal	Builder Floor / 3 BHK	1096	₹20,800/month	Semi-Furnished	2	Family	Rent
+1000	West Bengal Properties (West_Bengal.txt)	1 BHK Apartment	Kolkata Main Road	Kolkata / West Bengal	Apartment / 1 BHK	528	₹34.07 L	Unfurnished	1	Family	Sale
+1001	West Bengal Properties (West_Bengal.txt)	5 BHK Independent House	Howrah Residential Area	Howrah / West Bengal	Independent House / 5 BHK	3281	₹31,400/month	Semi-Furnished	4	Any	Rent
+1002	West Bengal Properties (West_Bengal.txt)	2 BHK Apartment	Kolkata Residential Area	Kolkata / West Bengal	Apartment / 2 BHK	1037	₹58.34 L	Fully-Furnished	2	Family	Sale
+1003	West Bengal Properties (West_Bengal.txt)	2 BHK Apartment	Durgapur Nagar	Durgapur / West Bengal	Apartment / 2 BHK	773	₹17,400/month	Unfurnished	2	Any	Rent
+1004	West Bengal Properties (West_Bengal.txt)	3 BHK Apartment	Howrah Sector 2	Howrah / West Bengal	Apartment / 3 BHK	1455	₹25,400/month	Semi-Furnished	3	Bachelors	Rent
+1005	West Bengal Properties (West_Bengal.txt)	2 BHK Builder Floor	Kolkata Sector 2	Kolkata / West Bengal	Builder Floor / 2 BHK	839	₹48 L	Fully-Furnished	2	Family	Sale
+1006	West Bengal Properties (West_Bengal.txt)	1 BHK Studio	Durgapur Main Road	Durgapur / West Bengal	Studio / 1 BHK	364	₹9,400/month	Fully-Furnished	1	Family	Rent
+1007	West Bengal Properties (West_Bengal.txt)	2 BHK Builder Floor	Howrah South	Howrah / West Bengal	Builder Floor / 2 BHK	761	₹14,700/month	Unfurnished	2	Family	Rent
+1008	West Bengal Properties (West_Bengal.txt)	1 BHK Apartment	Kolkata Heights	Kolkata / West Bengal	Apartment / 1 BHK	617	₹33 L	Semi-Furnished	1	Family	Sale
+1009	West Bengal Properties (West_Bengal.txt)	1 BHK Apartment	Howrah West	Howrah / West Bengal	Apartment / 1 BHK	555	₹32.99 L	Fully-Furnished	2	Family	Sale
+1010	West Bengal Properties (West_Bengal.txt)	1 BHK Apartment	Howrah West	Howrah / West Bengal	Apartment / 1 BHK	546	₹12,100/month	Unfurnished	1	Family	Rent
+1011	West Bengal Properties (West_Bengal.txt)	5 BHK Apartment	Kolkata Nagar	Kolkata / West Bengal	Apartment / 5 BHK	1673	₹33,600/month	Unfurnished	5	Any	Rent
+1012	West Bengal Properties (West_Bengal.txt)	5 BHK Independent House	Durgapur Colony	Durgapur / West Bengal	Independent House / 5 BHK	3220	₹40,800/month	Unfurnished	5	Any	Rent
+1013	West Bengal Properties (West_Bengal.txt)	2 BHK Apartment	Kolkata Heights	Kolkata / West Bengal	Apartment / 2 BHK	885	₹57.74 L	Semi-Furnished	2	Family	Sale
+1014	West Bengal Properties (West_Bengal.txt)	4 BHK Apartment	Durgapur West	Durgapur / West Bengal	Apartment / 4 BHK	1860	₹22,300/month	Semi-Furnished	4	Bachelors	Rent
+1015	West Bengal Properties (West_Bengal.txt)	3 BHK Apartment	Siliguri Main Road	Siliguri / West Bengal	Apartment / 3 BHK	1539	₹94.47 L	Fully-Furnished	2	Family	Sale
+1016	West Bengal Properties (West_Bengal.txt)	2 BHK Builder Floor	Howrah Heights	Howrah / West Bengal	Builder Floor / 2 BHK	741	₹14,800/month	Semi-Furnished	2	Any	Rent
+1017	West Bengal Properties (West_Bengal.txt)	2 BHK Builder Floor	Kolkata Sector 1	Kolkata / West Bengal	Builder Floor / 2 BHK	822	₹51.99 L	Fully-Furnished	2	Bachelors	Sale
+1018	West Bengal Properties (West_Bengal.txt)	3 BHK Builder Floor	Howrah Residential Area	Howrah / West Bengal	Builder Floor / 3 BHK	1378	₹71.62 L	Fully-Furnished	3	Family	Sale
+1019	West Bengal Properties (West_Bengal.txt)	1 BHK Apartment	Siliguri Heights	Siliguri / West Bengal	Apartment / 1 BHK	617	₹11,900/month	Semi-Furnished	1	Family	Rent
+1020	West Bengal Properties (West_Bengal.txt)	2 BHK Builder Floor	Howrah Residential Area	Howrah / West Bengal	Builder Floor / 2 BHK	758	₹60.93 L	Semi-Furnished	2	Bachelors	Sale
+1021	West Bengal Properties (West_Bengal.txt)	2 BHK Builder Floor	Durgapur North	Durgapur / West Bengal	Builder Floor / 2 BHK	727	₹52.38 L	Semi-Furnished	1	Family	Sale
+1022	West Bengal Properties (West_Bengal.txt)	4 BHK Builder Floor	Siliguri Heights	Siliguri / West Bengal	Builder Floor / 4 BHK	1258	₹28,400/month	Unfurnished	4	Family	Rent
+1023	West Bengal Properties (West_Bengal.txt)	3 BHK Independent House	Howrah Sector 1	Howrah / West Bengal	Independent House / 3 BHK	1661	₹27,000/month	Fully-Furnished	3	Family	Rent
+1024	West Bengal Properties (West_Bengal.txt)	3 BHK Builder Floor	Howrah West	Howrah / West Bengal	Builder Floor / 3 BHK	1263	₹24,100/month	Fully-Furnished	2	Family	Rent
+1025	West Bengal Properties (West_Bengal.txt)	2 BHK Builder Floor	Durgapur Colony	Durgapur / West Bengal	Builder Floor / 2 BHK	728	₹53.71 L	Unfurnished	1	Any	Sale
+1026	West Bengal Properties (West_Bengal.txt)	1 BHK Studio	Siliguri Sector 3	Siliguri / West Bengal	Studio / 1 BHK	339	₹32.66 L	Fully-Furnished	1	Family	Sale
+1027	West Bengal Properties (West_Bengal.txt)	4 BHK Apartment	Howrah East	Howrah / West Bengal	Apartment / 4 BHK	2144	₹91.59 L	Unfurnished	3	Bachelors	Sale
+1028	West Bengal Properties (West_Bengal.txt)	2 BHK Apartment	Kolkata Main Road	Kolkata / West Bengal	Apartment / 2 BHK	675	₹15,300/month	Semi-Furnished	1	Family	Rent
+1029	West Bengal Properties (West_Bengal.txt)	2 BHK Apartment	Howrah Town Centre	Howrah / West Bengal	Apartment / 2 BHK	854	₹63.85 L	Semi-Furnished	2	Family	Sale
+1030	West Bengal Properties (West_Bengal.txt)	2 BHK Apartment	Howrah Sector 3	Howrah / West Bengal	Apartment / 2 BHK	748	₹55.76 L	Fully-Furnished	2	Family	Sale
+1031	West Bengal Properties (West_Bengal.txt)	4 BHK Apartment	Durgapur South	Durgapur / West Bengal	Apartment / 4 BHK	1579	₹1.02 Cr	Fully-Furnished	5	Family	Sale
+1032	West Bengal Properties (West_Bengal.txt)	2 BHK Builder Floor	Kolkata North	Kolkata / West Bengal	Builder Floor / 2 BHK	733	₹14,300/month	Semi-Furnished	1	Any	Rent
+1033	West Bengal Properties (West_Bengal.txt)	2 BHK Builder Floor	Siliguri West	Siliguri / West Bengal	Builder Floor / 2 BHK	551	₹12,300/month	Unfurnished	3	Family	Rent
+1034	West Bengal Properties (West_Bengal.txt)	2 BHK Builder Floor	Howrah Sector 3	Howrah / West Bengal	Builder Floor / 2 BHK	957	₹16,600/month	Fully-Furnished	3	Bachelors	Rent
+1035	West Bengal Properties (West_Bengal.txt)	3 BHK Villa	Siliguri South	Siliguri / West Bengal	Villa / 3 BHK	2007	₹80.56 L	Fully-Furnished	3	Any	Sale
+1036	West Bengal Properties (West_Bengal.txt)	3 BHK Apartment	Kolkata Main Road	Kolkata / West Bengal	Apartment / 3 BHK	1319	₹90.34 L	Unfurnished	2	Any	Sale
+1037	West Bengal Properties (West_Bengal.txt)	2 BHK Apartment	Howrah Town Centre	Howrah / West Bengal	Apartment / 2 BHK	774	₹62.11 L	Fully-Furnished	2	Family	Sale
+1038	West Bengal Properties (West_Bengal.txt)	4 BHK Apartment	Durgapur Nagar	Durgapur / West Bengal	Apartment / 4 BHK	1413	₹85.94 L	Semi-Furnished	3	Family	Sale
+1039	West Bengal Properties (West_Bengal.txt)	2 BHK Apartment	Durgapur Extension	Durgapur / West Bengal	Apartment / 2 BHK	838	₹15,200/month	Semi-Furnished	3	Bachelors	Rent
+1040	West Bengal Properties (West_Bengal.txt)	1 BHK Apartment	Durgapur North	Durgapur / West Bengal	Apartment / 1 BHK	650	₹36.12 L	Fully-Furnished	1	Any	Sale
+1041	West Bengal Properties (West_Bengal.txt)	4 BHK Apartment	Durgapur Extension	Durgapur / West Bengal	Apartment / 4 BHK	2020	₹87.47 L	Semi-Furnished	5	Bachelors	Sale
+1042	West Bengal Properties (West_Bengal.txt)	4 BHK Apartment	Durgapur Sector 2	Durgapur / West Bengal	Apartment / 4 BHK	1455	₹93.85 L	Semi-Furnished	4	Family	Sale
+1043	West Bengal Properties (West_Bengal.txt)	1 BHK Studio	Kolkata Sector 3	Kolkata / West Bengal	Studio / 1 BHK	427	₹28.39 L	Semi-Furnished	1	Family	Sale
+1044	West Bengal Properties (West_Bengal.txt)	2 BHK Apartment	Howrah Residential Area	Howrah / West Bengal	Apartment / 2 BHK	1032	₹49.15 L	Semi-Furnished	2	Bachelors	Sale
+1045	West Bengal Properties (West_Bengal.txt)	2 BHK Apartment	Durgapur Sector 2	Durgapur / West Bengal	Apartment / 2 BHK	710	₹61.67 L	Fully-Furnished	1	Bachelors	Sale
+1046	West Bengal Properties (West_Bengal.txt)	3 BHK Apartment	Kolkata East	Kolkata / West Bengal	Apartment / 3 BHK	995	₹74.20 L	Semi-Furnished	2	Bachelors	Sale
+1047	West Bengal Properties (West_Bengal.txt)	2 BHK Apartment	Siliguri West	Siliguri / West Bengal	Apartment / 2 BHK	871	₹13,300/month	Semi-Furnished	2	Any	Rent
+1048	West Bengal Properties (West_Bengal.txt)	5 BHK Builder Floor	Kolkata Nagar	Kolkata / West Bengal	Builder Floor / 5 BHK	2861	₹1.18 Cr	Unfurnished	5	Family	Sale
+1049	West Bengal Properties (West_Bengal.txt)	3 BHK Independent House	Kolkata Extension	Kolkata / West Bengal	Independent House / 3 BHK	1840	₹1.03 Cr	Semi-Furnished	3	Any	Sale
+1050	West Bengal Properties (West_Bengal.txt)	3 BHK Apartment	Siliguri South	Siliguri / West Bengal	Apartment / 3 BHK	1027	₹19,600/month	Unfurnished	3	Family	Rent
+1051	West Bengal Properties (West_Bengal.txt)	1 BHK Apartment	Durgapur West	Durgapur / West Bengal	Apartment / 1 BHK	459	₹31.73 L	Semi-Furnished	1	Any	Sale
+1052	West Bengal Properties (West_Bengal.txt)	3 BHK Builder Floor	Howrah Town Centre	Howrah / West Bengal	Builder Floor / 3 BHK	1087	₹89.26 L	Unfurnished	3	Family	Sale
+1053	West Bengal Properties (West_Bengal.txt)	3 BHK Apartment	Siliguri Extension	Siliguri / West Bengal	Apartment / 3 BHK	1303	₹24,500/month	Fully-Furnished	4	Bachelors	Rent
+1054	West Bengal Properties (West_Bengal.txt)	1 BHK Apartment	Siliguri North	Siliguri / West Bengal	Apartment / 1 BHK	534	₹9,500/month	Semi-Furnished	1	Bachelors	Rent
+1055	West Bengal Properties (West_Bengal.txt)	3 BHK Builder Floor	Howrah North	Howrah / West Bengal	Builder Floor / 3 BHK	1326	₹79.73 L	Fully-Furnished	2	Bachelors	Sale
+1056	West Bengal Properties (West_Bengal.txt)	2 BHK Apartment	Durgapur Extension	Durgapur / West Bengal	Apartment / 2 BHK	763	₹46.77 L	Fully-Furnished	2	Any	Sale
+1057	West Bengal Properties (West_Bengal.txt)	1 BHK Apartment	Howrah Heights	Howrah / West Bengal	Apartment / 1 BHK	478	₹9,800/month	Unfurnished	2	Family	Rent
+1058	West Bengal Properties (West_Bengal.txt)	2 BHK Apartment	Durgapur North	Durgapur / West Bengal	Apartment / 2 BHK	876	₹16,600/month	Fully-Furnished	2	Family	Rent
+1059	West Bengal Properties (West_Bengal.txt)	2 BHK Apartment	Howrah Sector 1	Howrah / West Bengal	Apartment / 2 BHK	908	₹15,600/month	Unfurnished	1	Any	Rent
+1060	West Bengal Properties (West_Bengal.txt)	4 BHK Apartment	Siliguri Heights	Siliguri / West Bengal	Apartment / 4 BHK	1965	₹1.14 Cr	Unfurnished	5	Bachelors	Sale
+1061	West Bengal Properties (West_Bengal.txt)	3 BHK Apartment	Howrah Central	Howrah / West Bengal	Apartment / 3 BHK	860	₹23,000/month	Semi-Furnished	4	Any	Rent
+1062	West Bengal Properties (West_Bengal.txt)	1 BHK Studio	Kolkata North	Kolkata / West Bengal	Studio / 1 BHK	436	₹34.78 L	Semi-Furnished	1	Bachelors	Sale
+1063	West Bengal Properties (West_Bengal.txt)	2 BHK Apartment	Howrah Sector 1	Howrah / West Bengal	Apartment / 2 BHK	667	₹14,300/month	Unfurnished	3	Any	Rent
+1064	West Bengal Properties (West_Bengal.txt)	3 BHK Apartment	Durgapur Town Centre	Durgapur / West Bengal	Apartment / 3 BHK	1375	₹23,200/month	Unfurnished	4	Family	Rent
+1065	West Bengal Properties (West_Bengal.txt)	3 BHK Builder Floor	Kolkata Sector 1	Kolkata / West Bengal	Builder Floor / 3 BHK	1544	₹74.45 L	Semi-Furnished	3	Any	Sale
+1066	West Bengal Properties (West_Bengal.txt)	1 BHK Apartment	Howrah Central	Howrah / West Bengal	Apartment / 1 BHK	539	₹31 L	Semi-Furnished	1	Any	Sale
+1067	West Bengal Properties (West_Bengal.txt)	3 BHK Independent House	Durgapur Residential Area	Durgapur / West Bengal	Independent House / 3 BHK	1435	₹72.14 L	Semi-Furnished	3	Family	Sale
+1068	West Bengal Properties (West_Bengal.txt)	3 BHK Apartment	Kolkata Main Road	Kolkata / West Bengal	Apartment / 3 BHK	1417	₹24,600/month	Fully-Furnished	3	Family	Rent
+1069	West Bengal Properties (West_Bengal.txt)	2 BHK Apartment	Siliguri Central	Siliguri / West Bengal	Apartment / 2 BHK	856	₹66.88 L	Unfurnished	2	Bachelors	Sale
+1070	West Bengal Properties (West_Bengal.txt)	2 BHK Apartment	Howrah Sector 1	Howrah / West Bengal	Apartment / 2 BHK	896	₹16,900/month	Semi-Furnished	1	Family	Rent
+1071	West Bengal Properties (West_Bengal.txt)	2 BHK Builder Floor	Kolkata Sector 2	Kolkata / West Bengal	Builder Floor / 2 BHK	882	₹15,200/month	Semi-Furnished	2	Bachelors	Rent
+1072	West Bengal Properties (West_Bengal.txt)	2 BHK Apartment	Durgapur Sector 2	Durgapur / West Bengal	Apartment / 2 BHK	1073	₹13,200/month	Unfurnished	1	Any	Rent
+1073	West Bengal Properties (West_Bengal.txt)	1 BHK Builder Floor	Kolkata Extension	Kolkata / West Bengal	Builder Floor / 1 BHK	575	₹40.06 L	Semi-Furnished	2	Family	Sale
+1074	West Bengal Properties (West_Bengal.txt)	1 BHK Builder Floor	Howrah Heights	Howrah / West Bengal	Builder Floor / 1 BHK	492	₹32.42 L	Unfurnished	2	Any	Sale
+1075	West Bengal Properties (West_Bengal.txt)	3 BHK Villa	Durgapur North	Durgapur / West Bengal	Villa / 3 BHK	1211	₹75.55 L	Fully-Furnished	3	Family	Sale
+1076	West Bengal Properties (West_Bengal.txt)	1 BHK Studio	Howrah Central	Howrah / West Bengal	Studio / 1 BHK	383	₹10,600/month	Unfurnished	2	Family	Rent
+1077	West Bengal Properties (West_Bengal.txt)	1 BHK Studio	Kolkata Sector 1	Kolkata / West Bengal	Studio / 1 BHK	453	₹28.10 L	Fully-Furnished	1	Bachelors	Sale
+1078	West Bengal Properties (West_Bengal.txt)	3 BHK Apartment	Siliguri Sector 3	Siliguri / West Bengal	Apartment / 3 BHK	1213	₹88.49 L	Unfurnished	3	Family	Sale
+1079	West Bengal Properties (West_Bengal.txt)	1 BHK Apartment	Durgapur Residential Area	Durgapur / West Bengal	Apartment / 1 BHK	443	₹36.60 L	Semi-Furnished	1	Family	Sale
+1080	West Bengal Properties (West_Bengal.txt)	2 BHK Apartment	Siliguri Sector 2	Siliguri / West Bengal	Apartment / 2 BHK	840	₹55.07 L	Semi-Furnished	2	Family	Sale
+1081	West Bengal Properties (West_Bengal.txt)	2 BHK Apartment	Siliguri West	Siliguri / West Bengal	Apartment / 2 BHK	853	₹49.84 L	Fully-Furnished	1	Family	Sale
+1082	West Bengal Properties (West_Bengal.txt)	2 BHK Builder Floor	Siliguri South	Siliguri / West Bengal	Builder Floor / 2 BHK	869	₹17,700/month	Semi-Furnished	2	Any	Rent
+1083	West Bengal Properties (West_Bengal.txt)	2 BHK Independent House	Kolkata Heights	Kolkata / West Bengal	Independent House / 2 BHK	1250	₹66.73 L	Fully-Furnished	3	Any	Sale
+1084	West Bengal Properties (West_Bengal.txt)	1 BHK Studio	Durgapur Central	Durgapur / West Bengal	Studio / 1 BHK	316	₹35.20 L	Fully-Furnished	1	Family	Sale
+1085	West Bengal Properties (West_Bengal.txt)	3 BHK Apartment	Howrah Main Road	Howrah / West Bengal	Apartment / 3 BHK	1233	₹81.42 L	Unfurnished	3	Family	Sale
+1086	West Bengal Properties (West_Bengal.txt)	3 BHK Apartment	Durgapur South	Durgapur / West Bengal	Apartment / 3 BHK	1311	₹23,400/month	Semi-Furnished	3	Bachelors	Rent
+1087	West Bengal Properties (West_Bengal.txt)	2 BHK Apartment	Howrah Main Road	Howrah / West Bengal	Apartment / 2 BHK	942	₹58.05 L	Semi-Furnished	2	Family	Sale
+1088	West Bengal Properties (West_Bengal.txt)	5 BHK Builder Floor	Durgapur East	Durgapur / West Bengal	Builder Floor / 5 BHK	1963	₹29,000/month	Semi-Furnished	5	Any	Rent
+1089	West Bengal Properties (West_Bengal.txt)	2 BHK Apartment	Durgapur Heights	Durgapur / West Bengal	Apartment / 2 BHK	824	₹53.35 L	Fully-Furnished	1	Any	Sale
+1090	West Bengal Properties (West_Bengal.txt)	2 BHK Builder Floor	Howrah North	Howrah / West Bengal	Builder Floor / 2 BHK	774	₹53.34 L	Fully-Furnished	2	Family	Sale
+1091	West Bengal Properties (West_Bengal.txt)	3 BHK Independent House	Howrah Heights	Howrah / West Bengal	Independent House / 3 BHK	1277	₹80 L	Semi-Furnished	3	Bachelors	Sale
+1092	West Bengal Properties (West_Bengal.txt)	4 BHK Apartment	Howrah Nagar	Howrah / West Bengal	Apartment / 4 BHK	1808	₹93.91 L	Unfurnished	4	Any	Sale
+1093	West Bengal Properties (West_Bengal.txt)	2 BHK Independent House	Kolkata Sector 2	Kolkata / West Bengal	Independent House / 2 BHK	1027	₹56.72 L	Semi-Furnished	2	Family	Sale
+1094	West Bengal Properties (West_Bengal.txt)	3 BHK Builder Floor	Siliguri Extension	Siliguri / West Bengal	Builder Floor / 3 BHK	1227	₹80.61 L	Fully-Furnished	3	Family	Sale
+1095	West Bengal Properties (West_Bengal.txt)	3 BHK Apartment	Siliguri Nagar	Siliguri / West Bengal	Apartment / 3 BHK	1156	₹19,100/month	Semi-Furnished	3	Bachelors	Rent
+1096	West Bengal Properties (West_Bengal.txt)	2 BHK Independent House	Durgapur Sector 2	Durgapur / West Bengal	Independent House / 2 BHK	1159	₹64.07 L	Fully-Furnished	2	Any	Sale
+1097	West Bengal Properties (West_Bengal.txt)	3 BHK Apartment	Siliguri Sector 2	Siliguri / West Bengal	Apartment / 3 BHK	1250	₹76.93 L	Semi-Furnished	3	Any	Sale
+1098	West Bengal Properties (West_Bengal.txt)	1 BHK Studio	Howrah Sector 3	Howrah / West Bengal	Studio / 1 BHK	386	₹10,400/month	Fully-Furnished	1	Family	Rent
+1099	West Bengal Properties (West_Bengal.txt)	1 BHK Studio	Durgapur East	Durgapur / West Bengal	Studio / 1 BHK	300	₹8,100/month	Unfurnished	1	Bachelors	Rent
+1100	West Bengal Properties (West_Bengal.txt)	2 BHK Apartment	Howrah Residential Area	Howrah / West Bengal	Apartment / 2 BHK	967	₹65.19 L	Fully-Furnished	2	Family	Sale
+1101	West Bengal Properties (West_Bengal.txt)	2 BHK Apartment	Kolkata South	Kolkata / West Bengal	Apartment / 2 BHK	809	₹15,200/month	Semi-Furnished	2	Any	Rent
+1102	West Bengal Properties (West_Bengal.txt)	2 BHK Independent House	Siliguri Main Road	Siliguri / West Bengal	Independent House / 2 BHK	1106	₹64.18 L	Fully-Furnished	2	Family	Sale
+1103	West Bengal Properties (West_Bengal.txt)	4 BHK Apartment	Kolkata Town Centre	Kolkata / West Bengal	Apartment / 4 BHK	1532	₹29,500/month	Semi-Furnished	5	Family	Rent
+1104	West Bengal Properties (West_Bengal.txt)	3 BHK Apartment	Kolkata Colony	Kolkata / West Bengal	Apartment / 3 BHK	1100	₹17,900/month	Semi-Furnished	4	Family	Rent
+1105	West Bengal Properties (West_Bengal.txt)	3 BHK Builder Floor	Durgapur Sector 3	Durgapur / West Bengal	Builder Floor / 3 BHK	1416	₹83.47 L	Unfurnished	3	Family	Sale
+1106	West Bengal Properties (West_Bengal.txt)	3 BHK Apartment	Howrah East	Howrah / West Bengal	Apartment / 3 BHK	1186	₹68.94 L	Fully-Furnished	4	Bachelors	Sale
+1107	West Bengal Properties (West_Bengal.txt)	2 BHK Apartment	Durgapur Extension	Durgapur / West Bengal	Apartment / 2 BHK	857	₹18,200/month	Fully-Furnished	2	Family	Rent
+1108	West Bengal Properties (West_Bengal.txt)	1 BHK Apartment	Howrah North	Howrah / West Bengal	Apartment / 1 BHK	552	₹12,200/month	Unfurnished	2	Any	Rent
+1109	West Bengal Properties (West_Bengal.txt)	2 BHK Apartment	Siliguri Central	Siliguri / West Bengal	Apartment / 2 BHK	731	₹12,700/month	Fully-Furnished	1	Any	Rent
+1110	West Bengal Properties (West_Bengal.txt)	3 BHK Apartment	Durgapur Central	Durgapur / West Bengal	Apartment / 3 BHK	733	₹65.04 L	Semi-Furnished	3	Family	Sale
+1111	West Bengal Properties (West_Bengal.txt)	3 BHK Independent House	Howrah Residential Area	Howrah / West Bengal	Independent House / 3 BHK	1515	₹22,600/month	Semi-Furnished	4	Family	Rent
+1112	West Bengal Properties (West_Bengal.txt)	2 BHK Apartment	Howrah West	Howrah / West Bengal	Apartment / 2 BHK	750	₹44.90 L	Fully-Furnished	2	Bachelors	Sale
+1113	West Bengal Properties (West_Bengal.txt)	4 BHK Apartment	Durgapur East	Durgapur / West Bengal	Apartment / 4 BHK	1788	₹22,400/month	Fully-Furnished	4	Family	Rent
+1114	West Bengal Properties (West_Bengal.txt)	2 BHK Independent House	Durgapur Sector 2	Durgapur / West Bengal	Independent House / 2 BHK	990	₹54.24 L	Unfurnished	2	Any	Sale
+1115	West Bengal Properties (West_Bengal.txt)	2 BHK Apartment	Kolkata Sector 3	Kolkata / West Bengal	Apartment / 2 BHK	1050	₹55.82 L	Semi-Furnished	2	Family	Sale
+1116	West Bengal Properties (West_Bengal.txt)	2 BHK Independent House	Kolkata Extension	Kolkata / West Bengal	Independent House / 2 BHK	1177	₹67.97 L	Semi-Furnished	2	Any	Sale
+1117	West Bengal Properties (West_Bengal.txt)	2 BHK Apartment	Durgapur West	Durgapur / West Bengal	Apartment / 2 BHK	763	₹14,800/month	Semi-Furnished	2	Family	Rent
+1118	West Bengal Properties (West_Bengal.txt)	2 BHK Apartment	Howrah Nagar	Howrah / West Bengal	Apartment / 2 BHK	997	₹51.51 L	Unfurnished	1	Bachelors	Sale
+1119	West Bengal Properties (West_Bengal.txt)	3 BHK Apartment	Howrah Central	Howrah / West Bengal	Apartment / 3 BHK	1209	₹19,400/month	Semi-Furnished	3	Family	Rent
+1120	West Bengal Properties (West_Bengal.txt)	1 BHK Builder Floor	Siliguri Sector 1	Siliguri / West Bengal	Builder Floor / 1 BHK	498	₹29 L	Unfurnished	1	Bachelors	Sale
+1121	West Bengal Properties (West_Bengal.txt)	5 BHK Apartment	Kolkata Nagar	Kolkata / West Bengal	Apartment / 5 BHK	2485	₹34,600/month	Unfurnished	6	Family	Rent
+1122	West Bengal Properties (West_Bengal.txt)	4 BHK Apartment	Siliguri Colony	Siliguri / West Bengal	Apartment / 4 BHK	1658	₹28,100/month	Semi-Furnished	4	Family	Rent
+1123	West Bengal Properties (West_Bengal.txt)	5 BHK Apartment	Durgapur Central	Durgapur / West Bengal	Apartment / 5 BHK	2505	₹40,700/month	Unfurnished	4	Family	Rent
+1124	West Bengal Properties (West_Bengal.txt)	3 BHK Apartment	Durgapur Central	Durgapur / West Bengal	Apartment / 3 BHK	877	₹75.20 L	Unfurnished	3	Any	Sale
+1125	West Bengal Properties (West_Bengal.txt)	5 BHK Apartment	Kolkata Nagar	Kolkata / West Bengal	Apartment / 5 BHK	1849	₹1.38 Cr	Semi-Furnished	6	Family	Sale
+1126	West Bengal Properties (West_Bengal.txt)	2 BHK Apartment	Kolkata Town Centre	Kolkata / West Bengal	Apartment / 2 BHK	974	₹59.79 L	Semi-Furnished	2	Family	Sale
+1127	West Bengal Properties (West_Bengal.txt)	4 BHK Builder Floor	Siliguri North	Siliguri / West Bengal	Builder Floor / 4 BHK	1511	₹1.03 Cr	Semi-Furnished	4	Bachelors	Sale
+1128	West Bengal Properties (West_Bengal.txt)	4 BHK Apartment	Kolkata Main Road	Kolkata / West Bengal	Apartment / 4 BHK	1804	₹28,800/month	Unfurnished	4	Any	Rent
+1129	West Bengal Properties (West_Bengal.txt)	4 BHK Apartment	Durgapur Heights	Durgapur / West Bengal	Apartment / 4 BHK	1551	₹26,700/month	Semi-Furnished	3	Family	Rent
+1130	West Bengal Properties (West_Bengal.txt)	2 BHK Apartment	Durgapur Heights	Durgapur / West Bengal	Apartment / 2 BHK	720	₹16,500/month	Fully-Furnished	2	Bachelors	Rent
+1131	West Bengal Properties (West_Bengal.txt)	3 BHK Independent House	Howrah Sector 3	Howrah / West Bengal	Independent House / 3 BHK	1548	₹97.99 L	Unfurnished	3	Bachelors	Sale
+1132	West Bengal Properties (West_Bengal.txt)	2 BHK Independent House	Siliguri Main Road	Siliguri / West Bengal	Independent House / 2 BHK	1110	₹55.49 L	Fully-Furnished	3	Family	Sale
+1133	West Bengal Properties (West_Bengal.txt)	1 BHK Builder Floor	Howrah Town Centre	Howrah / West Bengal	Builder Floor / 1 BHK	610	₹32.37 L	Semi-Furnished	1	Any	Sale
+1134	West Bengal Properties (West_Bengal.txt)	1 BHK Apartment	Kolkata West	Kolkata / West Bengal	Apartment / 1 BHK	581	₹34.35 L	Semi-Furnished	2	Bachelors	Sale
+1135	West Bengal Properties (West_Bengal.txt)	2 BHK Apartment	Kolkata Town Centre	Kolkata / West Bengal	Apartment / 2 BHK	1137	₹13,900/month	Fully-Furnished	2	Family	Rent
+1136	West Bengal Properties (West_Bengal.txt)	4 BHK Apartment	Kolkata Sector 1	Kolkata / West Bengal	Apartment / 4 BHK	1462	₹24,400/month	Fully-Furnished	3	Bachelors	Rent
+1137	West Bengal Properties (West_Bengal.txt)	3 BHK Villa	Kolkata Heights	Kolkata / West Bengal	Villa / 3 BHK	1849	₹84.53 L	Semi-Furnished	4	Any	Sale
+1138	West Bengal Properties (West_Bengal.txt)	2 BHK Apartment	Howrah Nagar	Howrah / West Bengal	Apartment / 2 BHK	848	₹49.44 L	Fully-Furnished	1	Family	Sale
+1139	West Bengal Properties (West_Bengal.txt)	2 BHK Independent House	Kolkata Nagar	Kolkata / West Bengal	Independent House / 2 BHK	1103	₹16,600/month	Semi-Furnished	1	Any	Rent
+1140	West Bengal Properties (West_Bengal.txt)	3 BHK Apartment	Siliguri East	Siliguri / West Bengal	Apartment / 3 BHK	1217	₹65.30 L	Fully-Furnished	2	Family	Sale
+1141	West Bengal Properties (West_Bengal.txt)	4 BHK Builder Floor	Howrah Extension	Howrah / West Bengal	Builder Floor / 4 BHK	1548	₹80.70 L	Semi-Furnished	4	Family	Sale
+1142	West Bengal Properties (West_Bengal.txt)	2 BHK Apartment	Howrah Extension	Howrah / West Bengal	Apartment / 2 BHK	1109	₹59.47 L	Unfurnished	3	Any	Sale
+1143	West Bengal Properties (West_Bengal.txt)	1 BHK Studio	Kolkata Nagar	Kolkata / West Bengal	Studio / 1 BHK	300	₹11,000/month	Semi-Furnished	1	Family	Rent
+1144	West Bengal Properties (West_Bengal.txt)	1 BHK Independent House	Durgapur Residential Area	Durgapur / West Bengal	Independent House / 1 BHK	687	₹39.49 L	Semi-Furnished	1	Any	Sale
+1145	West Bengal Properties (West_Bengal.txt)	4 BHK Villa	Kolkata South	Kolkata / West Bengal	Villa / 4 BHK	2764	₹1.02 Cr	Semi-Furnished	3	Bachelors	Sale
+1146	West Bengal Properties (West_Bengal.txt)	5 BHK Independent House	Durgapur Heights	Durgapur / West Bengal	Independent House / 5 BHK	2425	₹38,600/month	Fully-Furnished	5	Family	Rent
+1147	West Bengal Properties (West_Bengal.txt)	2 BHK Independent House	Howrah Extension	Howrah / West Bengal	Independent House / 2 BHK	953	₹55.62 L	Unfurnished	3	Bachelors	Sale
+1148	West Bengal Properties (West_Bengal.txt)	2 BHK Apartment	Siliguri Colony	Siliguri / West Bengal	Apartment / 2 BHK	859	₹62.88 L	Unfurnished	3	Bachelors	Sale
+1149	West Bengal Properties (West_Bengal.txt)	1 BHK Apartment	Howrah Colony	Howrah / West Bengal	Apartment / 1 BHK	473	₹39.87 L	Semi-Furnished	1	Any	Sale
+1150	West Bengal Properties (West_Bengal.txt)	3 BHK Apartment	Kolkata Town Centre	Kolkata / West Bengal	Apartment / 3 BHK	1333	₹71.10 L	Unfurnished	2	Bachelors	Sale
+1151	West Bengal Properties (West_Bengal.txt)	4 BHK Apartment	Siliguri Sector 1	Siliguri / West Bengal	Apartment / 4 BHK	1439	₹78.98 L	Fully-Furnished	4	Family	Sale
+1152	West Bengal Properties (West_Bengal.txt)	1 BHK Apartment	Durgapur Nagar	Durgapur / West Bengal	Apartment / 1 BHK	452	₹8,600/month	Semi-Furnished	1	Bachelors	Rent
+1153	West Bengal Properties (West_Bengal.txt)	1 BHK Apartment	Siliguri Residential Area	Siliguri / West Bengal	Apartment / 1 BHK	652	₹37.54 L	Semi-Furnished	1	Family	Sale
+1154	West Bengal Properties (West_Bengal.txt)	4 BHK Apartment	Durgapur North	Durgapur / West Bengal	Apartment / 4 BHK	1595	₹91.72 L	Unfurnished	4	Bachelors	Sale
+1155	West Bengal Properties (West_Bengal.txt)	1 BHK Apartment	Durgapur East	Durgapur / West Bengal	Apartment / 1 BHK	570	₹33.69 L	Semi-Furnished	2	Bachelors	Sale
+1156	West Bengal Properties (West_Bengal.txt)	4 BHK Apartment	Durgapur East	Durgapur / West Bengal	Apartment / 4 BHK	1941	₹28,100/month	Fully-Furnished	5	Bachelors	Rent
+1157	West Bengal Properties (West_Bengal.txt)	2 BHK Apartment	Durgapur Town Centre	Durgapur / West Bengal	Apartment / 2 BHK	931	₹13,900/month	Unfurnished	3	Any	Rent
+1158	West Bengal Properties (West_Bengal.txt)	3 BHK Apartment	Howrah Heights	Howrah / West Bengal	Apartment / 3 BHK	784	₹79.02 L	Fully-Furnished	3	Family	Sale
+1159	West Bengal Properties (West_Bengal.txt)	2 BHK Apartment	Kolkata Sector 3	Kolkata / West Bengal	Apartment / 2 BHK	594	₹57.95 L	Semi-Furnished	3	Any	Sale
+1160	West Bengal Properties (West_Bengal.txt)	3 BHK Villa	Siliguri Nagar	Siliguri / West Bengal	Villa / 3 BHK	1764	₹24,700/month	Semi-Furnished	2	Family	Rent
+1161	West Bengal Properties (West_Bengal.txt)	2 BHK Builder Floor	Siliguri Extension	Siliguri / West Bengal	Builder Floor / 2 BHK	775	₹45.78 L	Semi-Furnished	3	Family	Sale
+1162	West Bengal Properties (West_Bengal.txt)	5 BHK Independent House	Siliguri Extension	Siliguri / West Bengal	Independent House / 5 BHK	2975	₹1.25 Cr	Unfurnished	5	Bachelors	Sale
+1163	West Bengal Properties (West_Bengal.txt)	5 BHK Apartment	Durgapur East	Durgapur / West Bengal	Apartment / 5 BHK	1989	₹26,000/month	Fully-Furnished	5	Bachelors	Rent
+1164	West Bengal Properties (West_Bengal.txt)	2 BHK Apartment	Durgapur Town Centre	Durgapur / West Bengal	Apartment / 2 BHK	874	₹48.38 L	Semi-Furnished	3	Any	Sale
+1165	West Bengal Properties (West_Bengal.txt)	3 BHK Apartment	Howrah Colony	Howrah / West Bengal	Apartment / 3 BHK	1231	₹63.77 L	Semi-Furnished	2	Family	Sale
+1166	West Bengal Properties (West_Bengal.txt)	4 BHK Independent House	Howrah North	Howrah / West Bengal	Independent House / 4 BHK	2209	₹1.03 Cr	Unfurnished	5	Family	Sale
+1167	West Bengal Properties (West_Bengal.txt)	1 BHK Villa	Durgapur West	Durgapur / West Bengal	Villa / 1 BHK	558	₹37.60 L	Semi-Furnished	2	Any	Sale
+1168	West Bengal Properties (West_Bengal.txt)	2 BHK Apartment	Siliguri Colony	Siliguri / West Bengal	Apartment / 2 BHK	836	₹45.38 L	Semi-Furnished	2	Family	Sale
+1169	West Bengal Properties (West_Bengal.txt)	3 BHK Independent House	Howrah West	Howrah / West Bengal	Independent House / 3 BHK	1183	₹64.50 L	Semi-Furnished	2	Any	Sale
+1170	West Bengal Properties (West_Bengal.txt)	1 BHK Builder Floor	Kolkata South	Kolkata / West Bengal	Builder Floor / 1 BHK	538	₹40.57 L	Unfurnished	1	Family	Sale
+1171	West Bengal Properties (West_Bengal.txt)	1 BHK Apartment	Siliguri Extension	Siliguri / West Bengal	Apartment / 1 BHK	473	₹9,100/month	Semi-Furnished	1	Any	Rent
