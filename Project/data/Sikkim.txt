@@ -1,0 +1,1172 @@
+No.	Source	Property	Location	City / State	Type / Config	Area	Price / Rent	Furnishing	Bathrooms	Tennants	Listing Type
+1	Sikkim Properties (Sikkim.txt)	2 BHK Independent House	Gangtok West	Gangtok / Sikkim	Independent House / 2 BHK	1037	₹50.57 L	Semi-Furnished	2	Family	Sale
+2	Sikkim Properties (Sikkim.txt)	1 BHK Builder Floor	Gangtok South	Gangtok / Sikkim	Builder Floor / 1 BHK	442	₹32.08 L	Fully-Furnished	1	Any	Sale
+3	Sikkim Properties (Sikkim.txt)	3 BHK Apartment	Namchi North	Namchi / Sikkim	Apartment / 3 BHK	1337	₹15,200/month	Semi-Furnished	3	Family	Rent
+4	Sikkim Properties (Sikkim.txt)	2 BHK Apartment	Namchi North	Namchi / Sikkim	Apartment / 2 BHK	1059	₹57.70 L	Fully-Furnished	3	Bachelors	Sale
+5	Sikkim Properties (Sikkim.txt)	2 BHK Apartment	Gyalshing Heights	Gyalshing / Sikkim	Apartment / 2 BHK	822	₹44.64 L	Fully-Furnished	3	Family	Sale
+6	Sikkim Properties (Sikkim.txt)	5 BHK Villa	Gangtok West	Gangtok / Sikkim	Villa / 5 BHK	3361	₹36,700/month	Fully-Furnished	5	Bachelors	Rent
+7	Sikkim Properties (Sikkim.txt)	1 BHK Studio	Gyalshing South	Gyalshing / Sikkim	Studio / 1 BHK	330	₹30.96 L	Semi-Furnished	1	Bachelors	Sale
+8	Sikkim Properties (Sikkim.txt)	3 BHK Independent House	Gangtok South	Gangtok / Sikkim	Independent House / 3 BHK	1164	₹51.77 L	Unfurnished	3	Bachelors	Sale
+9	Sikkim Properties (Sikkim.txt)	2 BHK Apartment	Namchi Nagar	Namchi / Sikkim	Apartment / 2 BHK	691	₹48.80 L	Semi-Furnished	3	Bachelors	Sale
+10	Sikkim Properties (Sikkim.txt)	2 BHK Apartment	Gangtok Main Road	Gangtok / Sikkim	Apartment / 2 BHK	899	₹11,100/month	Fully-Furnished	1	Any	Rent
+11	Sikkim Properties (Sikkim.txt)	4 BHK Builder Floor	Namchi Extension	Namchi / Sikkim	Builder Floor / 4 BHK	1656	₹25,300/month	Semi-Furnished	3	Bachelors	Rent
+12	Sikkim Properties (Sikkim.txt)	2 BHK Apartment	Gangtok Sector 2	Gangtok / Sikkim	Apartment / 2 BHK	777	₹40.02 L	Unfurnished	3	Any	Sale
+13	Sikkim Properties (Sikkim.txt)	3 BHK Independent House	Gangtok West	Gangtok / Sikkim	Independent House / 3 BHK	1771	₹79.11 L	Semi-Furnished	3	Family	Sale
+14	Sikkim Properties (Sikkim.txt)	3 BHK Builder Floor	Gangtok Central	Gangtok / Sikkim	Builder Floor / 3 BHK	1238	₹55.57 L	Semi-Furnished	2	Family	Sale
+15	Sikkim Properties (Sikkim.txt)	2 BHK Independent House	Namchi Heights	Namchi / Sikkim	Independent House / 2 BHK	994	₹41.69 L	Semi-Furnished	2	Bachelors	Sale
+16	Sikkim Properties (Sikkim.txt)	3 BHK Builder Floor	Gangtok Sector 2	Gangtok / Sikkim	Builder Floor / 3 BHK	1036	₹14,600/month	Fully-Furnished	4	Any	Rent
+17	Sikkim Properties (Sikkim.txt)	3 BHK Independent House	Namchi East	Namchi / Sikkim	Independent House / 3 BHK	1265	₹14,000/month	Semi-Furnished	3	Any	Rent
+18	Sikkim Properties (Sikkim.txt)	2 BHK Apartment	Gangtok West	Gangtok / Sikkim	Apartment / 2 BHK	836	₹15,000/month	Fully-Furnished	3	Family	Rent
+19	Sikkim Properties (Sikkim.txt)	4 BHK Villa	Gyalshing Extension	Gyalshing / Sikkim	Villa / 4 BHK	1359	₹73.44 L	Fully-Furnished	4	Family	Sale
+20	Sikkim Properties (Sikkim.txt)	2 BHK Apartment	Namchi Nagar	Namchi / Sikkim	Apartment / 2 BHK	885	₹55.13 L	Unfurnished	1	Any	Sale
+21	Sikkim Properties (Sikkim.txt)	3 BHK Apartment	Gangtok Extension	Gangtok / Sikkim	Apartment / 3 BHK	1098	₹18,200/month	Semi-Furnished	3	Any	Rent
+22	Sikkim Properties (Sikkim.txt)	2 BHK Independent House	Gyalshing Sector 2	Gyalshing / Sikkim	Independent House / 2 BHK	1096	₹51.95 L	Semi-Furnished	1	Any	Sale
+23	Sikkim Properties (Sikkim.txt)	2 BHK Independent House	Namchi Sector 1	Namchi / Sikkim	Independent House / 2 BHK	967	₹12,200/month	Semi-Furnished	2	Family	Rent
+24	Sikkim Properties (Sikkim.txt)	3 BHK Apartment	Gangtok North	Gangtok / Sikkim	Apartment / 3 BHK	1161	₹14,200/month	Semi-Furnished	4	Family	Rent
+25	Sikkim Properties (Sikkim.txt)	2 BHK Apartment	Gangtok Sector 1	Gangtok / Sikkim	Apartment / 2 BHK	840	₹11,400/month	Semi-Furnished	1	Family	Rent
+26	Sikkim Properties (Sikkim.txt)	1 BHK Studio	Namchi Residential Area	Namchi / Sikkim	Studio / 1 BHK	430	₹29.98 L	Semi-Furnished	2	Bachelors	Sale
+27	Sikkim Properties (Sikkim.txt)	4 BHK Independent House	Gyalshing Nagar	Gyalshing / Sikkim	Independent House / 4 BHK	1725	₹21,700/month	Fully-Furnished	4	Family	Rent
+28	Sikkim Properties (Sikkim.txt)	1 BHK Apartment	Gyalshing South	Gyalshing / Sikkim	Apartment / 1 BHK	593	₹7,600/month	Semi-Furnished	1	Any	Rent
+29	Sikkim Properties (Sikkim.txt)	3 BHK Independent House	Gangtok South	Gangtok / Sikkim	Independent House / 3 BHK	1290	₹69.90 L	Unfurnished	2	Family	Sale
+30	Sikkim Properties (Sikkim.txt)	3 BHK Apartment	Namchi Sector 2	Namchi / Sikkim	Apartment / 3 BHK	1573	₹77.56 L	Semi-Furnished	3	Family	Sale
+31	Sikkim Properties (Sikkim.txt)	3 BHK Apartment	Namchi Extension	Namchi / Sikkim	Apartment / 3 BHK	1062	₹16,400/month	Semi-Furnished	3	Family	Rent
+32	Sikkim Properties (Sikkim.txt)	4 BHK Apartment	Gyalshing Central	Gyalshing / Sikkim	Apartment / 4 BHK	1468	₹85.08 L	Semi-Furnished	4	Bachelors	Sale
+33	Sikkim Properties (Sikkim.txt)	2 BHK Apartment	Namchi Colony	Namchi / Sikkim	Apartment / 2 BHK	856	₹10,300/month	Fully-Furnished	2	Family	Rent
+34	Sikkim Properties (Sikkim.txt)	1 BHK Independent House	Namchi Colony	Namchi / Sikkim	Independent House / 1 BHK	550	₹34.39 L	Semi-Furnished	2	Bachelors	Sale
+35	Sikkim Properties (Sikkim.txt)	3 BHK Independent House	Gyalshing South	Gyalshing / Sikkim	Independent House / 3 BHK	1721	₹15,600/month	Fully-Furnished	4	Any	Rent
+36	Sikkim Properties (Sikkim.txt)	1 BHK Apartment	Gangtok East	Gangtok / Sikkim	Apartment / 1 BHK	542	₹7,600/month	Semi-Furnished	1	Bachelors	Rent
+37	Sikkim Properties (Sikkim.txt)	5 BHK Independent House	Gangtok Sector 3	Gangtok / Sikkim	Independent House / 5 BHK	3837	₹1.04 Cr	Unfurnished	4	Bachelors	Sale
+38	Sikkim Properties (Sikkim.txt)	4 BHK Villa	Gyalshing Sector 2	Gyalshing / Sikkim	Villa / 4 BHK	2009	₹20,100/month	Unfurnished	4	Any	Rent
+39	Sikkim Properties (Sikkim.txt)	1 BHK Villa	Gangtok Residential Area	Gangtok / Sikkim	Villa / 1 BHK	612	₹34.31 L	Semi-Furnished	2	Bachelors	Sale
+40	Sikkim Properties (Sikkim.txt)	1 BHK Apartment	Gangtok Nagar	Gangtok / Sikkim	Apartment / 1 BHK	668	₹10,400/month	Semi-Furnished	1	Bachelors	Rent
+41	Sikkim Properties (Sikkim.txt)	1 BHK Studio	Namchi Town Centre	Namchi / Sikkim	Studio / 1 BHK	337	₹25.39 L	Semi-Furnished	1	Bachelors	Sale
+42	Sikkim Properties (Sikkim.txt)	3 BHK Apartment	Namchi Extension	Namchi / Sikkim	Apartment / 3 BHK	874	₹59.96 L	Unfurnished	4	Family	Sale
+43	Sikkim Properties (Sikkim.txt)	2 BHK Villa	Gyalshing Sector 2	Gyalshing / Sikkim	Villa / 2 BHK	1056	₹44.87 L	Semi-Furnished	1	Bachelors	Sale
+44	Sikkim Properties (Sikkim.txt)	2 BHK Apartment	Gyalshing Sector 1	Gyalshing / Sikkim	Apartment / 2 BHK	1051	₹42.03 L	Unfurnished	2	Any	Sale
+45	Sikkim Properties (Sikkim.txt)	4 BHK Apartment	Gyalshing East	Gyalshing / Sikkim	Apartment / 4 BHK	1722	₹97.10 L	Unfurnished	5	Family	Sale
+46	Sikkim Properties (Sikkim.txt)	3 BHK Independent House	Namchi West	Namchi / Sikkim	Independent House / 3 BHK	1476	₹63.19 L	Unfurnished	3	Any	Sale
+47	Sikkim Properties (Sikkim.txt)	4 BHK Apartment	Gangtok West	Gangtok / Sikkim	Apartment / 4 BHK	1766	₹91.63 L	Semi-Furnished	4	Any	Sale
+48	Sikkim Properties (Sikkim.txt)	2 BHK Apartment	Gangtok North	Gangtok / Sikkim	Apartment / 2 BHK	1047	₹47.77 L	Semi-Furnished	2	Any	Sale
+49	Sikkim Properties (Sikkim.txt)	2 BHK Apartment	Namchi Sector 2	Namchi / Sikkim	Apartment / 2 BHK	668	₹13,400/month	Semi-Furnished	1	Any	Rent
+50	Sikkim Properties (Sikkim.txt)	4 BHK Independent House	Gyalshing Extension	Gyalshing / Sikkim	Independent House / 4 BHK	1893	₹24,000/month	Unfurnished	5	Bachelors	Rent
+51	Sikkim Properties (Sikkim.txt)	2 BHK Independent House	Namchi Town Centre	Namchi / Sikkim	Independent House / 2 BHK	1001	₹46.92 L	Semi-Furnished	1	Bachelors	Sale
+52	Sikkim Properties (Sikkim.txt)	4 BHK Apartment	Gyalshing North	Gyalshing / Sikkim	Apartment / 4 BHK	1518	₹21,500/month	Semi-Furnished	4	Family	Rent
+53	Sikkim Properties (Sikkim.txt)	3 BHK Apartment	Gyalshing Residential Area	Gyalshing / Sikkim	Apartment / 3 BHK	1360	₹69.26 L	Semi-Furnished	2	Bachelors	Sale
+54	Sikkim Properties (Sikkim.txt)	2 BHK Apartment	Namchi Heights	Namchi / Sikkim	Apartment / 2 BHK	833	₹11,100/month	Unfurnished	1	Bachelors	Rent
+55	Sikkim Properties (Sikkim.txt)	4 BHK Builder Floor	Gangtok Main Road	Gangtok / Sikkim	Builder Floor / 4 BHK	1555	₹79.62 L	Unfurnished	5	Family	Sale
+56	Sikkim Properties (Sikkim.txt)	3 BHK Apartment	Gyalshing North	Gyalshing / Sikkim	Apartment / 3 BHK	1063	₹64.74 L	Fully-Furnished	3	Family	Sale
+57	Sikkim Properties (Sikkim.txt)	4 BHK Villa	Gangtok Sector 1	Gangtok / Sikkim	Villa / 4 BHK	1629	₹19,400/month	Fully-Furnished	5	Any	Rent
+58	Sikkim Properties (Sikkim.txt)	4 BHK Apartment	Gangtok Nagar	Gangtok / Sikkim	Apartment / 4 BHK	1847	₹72.76 L	Semi-Furnished	4	Family	Sale
+59	Sikkim Properties (Sikkim.txt)	3 BHK Apartment	Gyalshing East	Gyalshing / Sikkim	Apartment / 3 BHK	1416	₹16,200/month	Semi-Furnished	3	Any	Rent
+60	Sikkim Properties (Sikkim.txt)	5 BHK Apartment	Gangtok Sector 2	Gangtok / Sikkim	Apartment / 5 BHK	2593	₹84.71 L	Fully-Furnished	5	Bachelors	Sale
+61	Sikkim Properties (Sikkim.txt)	2 BHK Independent House	Gangtok Sector 2	Gangtok / Sikkim	Independent House / 2 BHK	985	₹15,500/month	Semi-Furnished	2	Any	Rent
+62	Sikkim Properties (Sikkim.txt)	1 BHK Builder Floor	Gyalshing West	Gyalshing / Sikkim	Builder Floor / 1 BHK	523	₹7,300/month	Unfurnished	1	Family	Rent
+63	Sikkim Properties (Sikkim.txt)	1 BHK Studio	Namchi Residential Area	Namchi / Sikkim	Studio / 1 BHK	457	₹26.34 L	Semi-Furnished	2	Bachelors	Sale
+64	Sikkim Properties (Sikkim.txt)	2 BHK Independent House	Gyalshing Town Centre	Gyalshing / Sikkim	Independent House / 2 BHK	1036	₹39.19 L	Fully-Furnished	2	Family	Sale
+65	Sikkim Properties (Sikkim.txt)	2 BHK Apartment	Gyalshing South	Gyalshing / Sikkim	Apartment / 2 BHK	825	₹49.48 L	Semi-Furnished	2	Family	Sale
+66	Sikkim Properties (Sikkim.txt)	1 BHK Studio	Gangtok Extension	Gangtok / Sikkim	Studio / 1 BHK	324	₹8,200/month	Unfurnished	1	Any	Rent
+67	Sikkim Properties (Sikkim.txt)	2 BHK Independent House	Namchi East	Namchi / Sikkim	Independent House / 2 BHK	975	₹54.42 L	Semi-Furnished	2	Family	Sale
+68	Sikkim Properties (Sikkim.txt)	1 BHK Apartment	Gangtok South	Gangtok / Sikkim	Apartment / 1 BHK	337	₹31.18 L	Semi-Furnished	1	Family	Sale
+69	Sikkim Properties (Sikkim.txt)	1 BHK Studio	Gangtok North	Gangtok / Sikkim	Studio / 1 BHK	351	₹26 L	Unfurnished	1	Bachelors	Sale
+70	Sikkim Properties (Sikkim.txt)	2 BHK Apartment	Gangtok Residential Area	Gangtok / Sikkim	Apartment / 2 BHK	791	₹44.60 L	Semi-Furnished	2	Family	Sale
+71	Sikkim Properties (Sikkim.txt)	2 BHK Apartment	Gyalshing Central	Gyalshing / Sikkim	Apartment / 2 BHK	897	₹11,500/month	Semi-Furnished	1	Bachelors	Rent
+72	Sikkim Properties (Sikkim.txt)	1 BHK Builder Floor	Gyalshing Sector 2	Gyalshing / Sikkim	Builder Floor / 1 BHK	464	₹9,400/month	Semi-Furnished	1	Family	Rent
+73	Sikkim Properties (Sikkim.txt)	3 BHK Builder Floor	Gyalshing Sector 1	Gyalshing / Sikkim	Builder Floor / 3 BHK	1471	₹65.43 L	Unfurnished	3	Bachelors	Sale
+74	Sikkim Properties (Sikkim.txt)	2 BHK Independent House	Gyalshing East	Gyalshing / Sikkim	Independent House / 2 BHK	1034	₹42.13 L	Fully-Furnished	1	Family	Sale
+75	Sikkim Properties (Sikkim.txt)	1 BHK Apartment	Gyalshing Sector 2	Gyalshing / Sikkim	Apartment / 1 BHK	516	₹7,500/month	Semi-Furnished	1	Family	Rent
+76	Sikkim Properties (Sikkim.txt)	3 BHK Apartment	Gyalshing Sector 3	Gyalshing / Sikkim	Apartment / 3 BHK	1321	₹20,800/month	Semi-Furnished	3	Bachelors	Rent
+77	Sikkim Properties (Sikkim.txt)	3 BHK Builder Floor	Gyalshing Heights	Gyalshing / Sikkim	Builder Floor / 3 BHK	988	₹59.51 L	Fully-Furnished	2	Bachelors	Sale
+78	Sikkim Properties (Sikkim.txt)	5 BHK Apartment	Namchi Residential Area	Namchi / Sikkim	Apartment / 5 BHK	2507	₹90.78 L	Semi-Furnished	5	Bachelors	Sale
+79	Sikkim Properties (Sikkim.txt)	2 BHK Apartment	Gangtok Central	Gangtok / Sikkim	Apartment / 2 BHK	858	₹48.42 L	Fully-Furnished	3	Any	Sale
+80	Sikkim Properties (Sikkim.txt)	3 BHK Apartment	Gangtok Central	Gangtok / Sikkim	Apartment / 3 BHK	1044	₹17,800/month	Semi-Furnished	2	Family	Rent
+81	Sikkim Properties (Sikkim.txt)	3 BHK Independent House	Gangtok Main Road	Gangtok / Sikkim	Independent House / 3 BHK	1220	₹20,200/month	Semi-Furnished	3	Bachelors	Rent
+82	Sikkim Properties (Sikkim.txt)	3 BHK Apartment	Namchi Extension	Namchi / Sikkim	Apartment / 3 BHK	1287	₹74.37 L	Semi-Furnished	4	Family	Sale
+83	Sikkim Properties (Sikkim.txt)	4 BHK Independent House	Gyalshing Sector 3	Gyalshing / Sikkim	Independent House / 4 BHK	2313	₹24,900/month	Semi-Furnished	5	Family	Rent
+84	Sikkim Properties (Sikkim.txt)	3 BHK Villa	Gangtok East	Gangtok / Sikkim	Villa / 3 BHK	1714	₹68.56 L	Semi-Furnished	3	Family	Sale
+85	Sikkim Properties (Sikkim.txt)	3 BHK Apartment	Gangtok South	Gangtok / Sikkim	Apartment / 3 BHK	1267	₹19,300/month	Semi-Furnished	2	Any	Rent
+86	Sikkim Properties (Sikkim.txt)	2 BHK Builder Floor	Namchi Sector 1	Namchi / Sikkim	Builder Floor / 2 BHK	861	₹12,400/month	Unfurnished	2	Family	Rent
+87	Sikkim Properties (Sikkim.txt)	3 BHK Apartment	Namchi North	Namchi / Sikkim	Apartment / 3 BHK	1039	₹65.57 L	Unfurnished	3	Bachelors	Sale
+88	Sikkim Properties (Sikkim.txt)	2 BHK Builder Floor	Namchi Residential Area	Namchi / Sikkim	Builder Floor / 2 BHK	928	₹52.97 L	Semi-Furnished	2	Family	Sale
+89	Sikkim Properties (Sikkim.txt)	3 BHK Villa	Namchi East	Namchi / Sikkim	Villa / 3 BHK	1720	₹62.30 L	Fully-Furnished	3	Any	Sale
+90	Sikkim Properties (Sikkim.txt)	1 BHK Builder Floor	Gangtok Colony	Gangtok / Sikkim	Builder Floor / 1 BHK	395	₹29.66 L	Fully-Furnished	1	Family	Sale
+91	Sikkim Properties (Sikkim.txt)	1 BHK Independent House	Namchi Sector 2	Namchi / Sikkim	Independent House / 1 BHK	592	₹8,300/month	Fully-Furnished	1	Family	Rent
+92	Sikkim Properties (Sikkim.txt)	3 BHK Independent House	Namchi West	Namchi / Sikkim	Independent House / 3 BHK	1282	₹65.19 L	Semi-Furnished	3	Any	Sale
+93	Sikkim Properties (Sikkim.txt)	3 BHK Builder Floor	Gangtok Sector 1	Gangtok / Sikkim	Builder Floor / 3 BHK	1110	₹59.40 L	Fully-Furnished	3	Bachelors	Sale
+94	Sikkim Properties (Sikkim.txt)	4 BHK Villa	Gangtok Colony	Gangtok / Sikkim	Villa / 4 BHK	2087	₹22,500/month	Semi-Furnished	5	Family	Rent
+95	Sikkim Properties (Sikkim.txt)	2 BHK Apartment	Gyalshing Heights	Gyalshing / Sikkim	Apartment / 2 BHK	914	₹41.16 L	Semi-Furnished	2	Family	Sale
+96	Sikkim Properties (Sikkim.txt)	1 BHK Builder Floor	Namchi Main Road	Namchi / Sikkim	Builder Floor / 1 BHK	546	₹30.36 L	Fully-Furnished	1	Bachelors	Sale
+97	Sikkim Properties (Sikkim.txt)	2 BHK Independent House	Namchi Central	Namchi / Sikkim	Independent House / 2 BHK	693	₹9,700/month	Unfurnished	1	Family	Rent
+98	Sikkim Properties (Sikkim.txt)	1 BHK Apartment	Gyalshing Central	Gyalshing / Sikkim	Apartment / 1 BHK	588	₹6,900/month	Unfurnished	1	Family	Rent
+99	Sikkim Properties (Sikkim.txt)	4 BHK Independent House	Gyalshing Town Centre	Gyalshing / Sikkim	Independent House / 4 BHK	2666	₹85.37 L	Unfurnished	4	Bachelors	Sale
+100	Sikkim Properties (Sikkim.txt)	2 BHK Apartment	Gangtok South	Gangtok / Sikkim	Apartment / 2 BHK	1012	₹15,200/month	Unfurnished	2	Bachelors	Rent
+101	Sikkim Properties (Sikkim.txt)	3 BHK Builder Floor	Gangtok North	Gangtok / Sikkim	Builder Floor / 3 BHK	1294	₹73.47 L	Fully-Furnished	3	Any	Sale
+102	Sikkim Properties (Sikkim.txt)	3 BHK Independent House	Namchi Sector 2	Namchi / Sikkim	Independent House / 3 BHK	1440	₹75.21 L	Fully-Furnished	4	Bachelors	Sale
+103	Sikkim Properties (Sikkim.txt)	4 BHK Apartment	Namchi Sector 3	Namchi / Sikkim	Apartment / 4 BHK	2288	₹25,000/month	Semi-Furnished	4	Bachelors	Rent
+104	Sikkim Properties (Sikkim.txt)	3 BHK Independent House	Gyalshing Extension	Gyalshing / Sikkim	Independent House / 3 BHK	1524	₹20,400/month	Fully-Furnished	3	Bachelors	Rent
+105	Sikkim Properties (Sikkim.txt)	5 BHK Apartment	Namchi Central	Namchi / Sikkim	Apartment / 5 BHK	2757	₹1.01 Cr	Semi-Furnished	5	Family	Sale
+106	Sikkim Properties (Sikkim.txt)	2 BHK Builder Floor	Gyalshing Colony	Gyalshing / Sikkim	Builder Floor / 2 BHK	742	₹13,100/month	Semi-Furnished	2	Family	Rent
+107	Sikkim Properties (Sikkim.txt)	1 BHK Apartment	Gangtok Heights	Gangtok / Sikkim	Apartment / 1 BHK	517	₹8,100/month	Semi-Furnished	1	Bachelors	Rent
+108	Sikkim Properties (Sikkim.txt)	3 BHK Builder Floor	Gangtok Heights	Gangtok / Sikkim	Builder Floor / 3 BHK	1116	₹66.90 L	Semi-Furnished	3	Any	Sale
+109	Sikkim Properties (Sikkim.txt)	2 BHK Apartment	Gyalshing Sector 1	Gyalshing / Sikkim	Apartment / 2 BHK	846	₹12,700/month	Semi-Furnished	2	Any	Rent
+110	Sikkim Properties (Sikkim.txt)	5 BHK Builder Floor	Gyalshing Sector 2	Gyalshing / Sikkim	Builder Floor / 5 BHK	2289	₹89.51 L	Fully-Furnished	5	Family	Sale
+111	Sikkim Properties (Sikkim.txt)	2 BHK Apartment	Gyalshing Central	Gyalshing / Sikkim	Apartment / 2 BHK	920	₹45.66 L	Unfurnished	1	Bachelors	Sale
+112	Sikkim Properties (Sikkim.txt)	1 BHK Independent House	Namchi West	Namchi / Sikkim	Independent House / 1 BHK	771	₹29.84 L	Semi-Furnished	1	Any	Sale
+113	Sikkim Properties (Sikkim.txt)	2 BHK Villa	Namchi Colony	Namchi / Sikkim	Villa / 2 BHK	1190	₹12,900/month	Semi-Furnished	2	Family	Rent
+114	Sikkim Properties (Sikkim.txt)	3 BHK Apartment	Namchi Sector 3	Namchi / Sikkim	Apartment / 3 BHK	1543	₹67.87 L	Semi-Furnished	4	Bachelors	Sale
+115	Sikkim Properties (Sikkim.txt)	3 BHK Apartment	Namchi Sector 2	Namchi / Sikkim	Apartment / 3 BHK	1406	₹61.72 L	Semi-Furnished	3	Family	Sale
+116	Sikkim Properties (Sikkim.txt)	3 BHK Apartment	Gangtok Heights	Gangtok / Sikkim	Apartment / 3 BHK	1032	₹18,000/month	Unfurnished	3	Family	Rent
+117	Sikkim Properties (Sikkim.txt)	4 BHK Apartment	Gyalshing North	Gyalshing / Sikkim	Apartment / 4 BHK	1603	₹93.75 L	Semi-Furnished	3	Family	Sale
+118	Sikkim Properties (Sikkim.txt)	1 BHK Apartment	Gyalshing Sector 1	Gyalshing / Sikkim	Apartment / 1 BHK	612	₹9,000/month	Semi-Furnished	2	Family	Rent
+119	Sikkim Properties (Sikkim.txt)	2 BHK Apartment	Namchi Central	Namchi / Sikkim	Apartment / 2 BHK	945	₹13,100/month	Fully-Furnished	2	Bachelors	Rent
+120	Sikkim Properties (Sikkim.txt)	2 BHK Apartment	Namchi North	Namchi / Sikkim	Apartment / 2 BHK	836	₹41.81 L	Semi-Furnished	2	Family	Sale
+121	Sikkim Properties (Sikkim.txt)	3 BHK Villa	Gangtok South	Gangtok / Sikkim	Villa / 3 BHK	1769	₹70.36 L	Semi-Furnished	3	Bachelors	Sale
+122	Sikkim Properties (Sikkim.txt)	3 BHK Apartment	Namchi Colony	Namchi / Sikkim	Apartment / 3 BHK	1529	₹21,200/month	Fully-Furnished	4	Family	Rent
+123	Sikkim Properties (Sikkim.txt)	2 BHK Apartment	Namchi Sector 3	Namchi / Sikkim	Apartment / 2 BHK	798	₹40.40 L	Unfurnished	2	Family	Sale
+124	Sikkim Properties (Sikkim.txt)	1 BHK Studio	Gangtok South	Gangtok / Sikkim	Studio / 1 BHK	495	₹24.56 L	Semi-Furnished	1	Family	Sale
+125	Sikkim Properties (Sikkim.txt)	3 BHK Apartment	Gyalshing Central	Gyalshing / Sikkim	Apartment / 3 BHK	929	₹18,100/month	Semi-Furnished	3	Family	Rent
+126	Sikkim Properties (Sikkim.txt)	1 BHK Builder Floor	Gangtok Main Road	Gangtok / Sikkim	Builder Floor / 1 BHK	521	₹33.24 L	Semi-Furnished	1	Family	Sale
+127	Sikkim Properties (Sikkim.txt)	5 BHK Apartment	Gyalshing South	Gyalshing / Sikkim	Apartment / 5 BHK	2489	₹1.18 Cr	Unfurnished	5	Any	Sale
+128	Sikkim Properties (Sikkim.txt)	1 BHK Independent House	Gyalshing Heights	Gyalshing / Sikkim	Independent House / 1 BHK	578	₹28.50 L	Unfurnished	1	Bachelors	Sale
+129	Sikkim Properties (Sikkim.txt)	2 BHK Apartment	Namchi Nagar	Namchi / Sikkim	Apartment / 2 BHK	555	₹11,200/month	Semi-Furnished	2	Bachelors	Rent
+130	Sikkim Properties (Sikkim.txt)	3 BHK Apartment	Gyalshing Sector 2	Gyalshing / Sikkim	Apartment / 3 BHK	1318	₹54.10 L	Fully-Furnished	3	Family	Sale
+131	Sikkim Properties (Sikkim.txt)	3 BHK Apartment	Gyalshing East	Gyalshing / Sikkim	Apartment / 3 BHK	1408	₹15,300/month	Unfurnished	3	Family	Rent
+132	Sikkim Properties (Sikkim.txt)	3 BHK Apartment	Namchi Main Road	Namchi / Sikkim	Apartment / 3 BHK	1180	₹59.85 L	Semi-Furnished	2	Bachelors	Sale
+133	Sikkim Properties (Sikkim.txt)	3 BHK Villa	Gyalshing South	Gyalshing / Sikkim	Villa / 3 BHK	1943	₹59.97 L	Fully-Furnished	3	Any	Sale
+134	Sikkim Properties (Sikkim.txt)	3 BHK Apartment	Namchi Sector 1	Namchi / Sikkim	Apartment / 3 BHK	1219	₹74.68 L	Fully-Furnished	2	Any	Sale
+135	Sikkim Properties (Sikkim.txt)	2 BHK Apartment	Gangtok Nagar	Gangtok / Sikkim	Apartment / 2 BHK	1025	₹43.60 L	Semi-Furnished	2	Bachelors	Sale
+136	Sikkim Properties (Sikkim.txt)	4 BHK Apartment	Gyalshing Colony	Gyalshing / Sikkim	Apartment / 4 BHK	1771	₹96.41 L	Semi-Furnished	4	Bachelors	Sale
+137	Sikkim Properties (Sikkim.txt)	3 BHK Apartment	Namchi Residential Area	Namchi / Sikkim	Apartment / 3 BHK	1580	₹16,800/month	Fully-Furnished	3	Any	Rent
+138	Sikkim Properties (Sikkim.txt)	3 BHK Builder Floor	Gyalshing Town Centre	Gyalshing / Sikkim	Builder Floor / 3 BHK	1345	₹16,400/month	Semi-Furnished	3	Any	Rent
+139	Sikkim Properties (Sikkim.txt)	2 BHK Apartment	Gyalshing Sector 3	Gyalshing / Sikkim	Apartment / 2 BHK	826	₹52.01 L	Fully-Furnished	3	Family	Sale
+140	Sikkim Properties (Sikkim.txt)	1 BHK Builder Floor	Namchi Extension	Namchi / Sikkim	Builder Floor / 1 BHK	694	₹8,700/month	Fully-Furnished	1	Family	Rent
+141	Sikkim Properties (Sikkim.txt)	3 BHK Villa	Gangtok Main Road	Gangtok / Sikkim	Villa / 3 BHK	1878	₹16,800/month	Unfurnished	3	Any	Rent
+142	Sikkim Properties (Sikkim.txt)	3 BHK Villa	Namchi Central	Namchi / Sikkim	Villa / 3 BHK	1592	₹58.19 L	Unfurnished	3	Family	Sale
+143	Sikkim Properties (Sikkim.txt)	1 BHK Builder Floor	Namchi South	Namchi / Sikkim	Builder Floor / 1 BHK	451	₹33.15 L	Fully-Furnished	1	Family	Sale
+144	Sikkim Properties (Sikkim.txt)	1 BHK Independent House	Gangtok Nagar	Gangtok / Sikkim	Independent House / 1 BHK	778	₹35.83 L	Semi-Furnished	1	Any	Sale
+145	Sikkim Properties (Sikkim.txt)	3 BHK Apartment	Gyalshing Sector 2	Gyalshing / Sikkim	Apartment / 3 BHK	1248	₹62.07 L	Fully-Furnished	3	Family	Sale
+146	Sikkim Properties (Sikkim.txt)	3 BHK Apartment	Gyalshing Residential Area	Gyalshing / Sikkim	Apartment / 3 BHK	1333	₹58.11 L	Semi-Furnished	3	Family	Sale
+147	Sikkim Properties (Sikkim.txt)	2 BHK Villa	Gyalshing Sector 2	Gyalshing / Sikkim	Villa / 2 BHK	1241	₹60.06 L	Unfurnished	2	Any	Sale
+148	Sikkim Properties (Sikkim.txt)	4 BHK Apartment	Gangtok Residential Area	Gangtok / Sikkim	Apartment / 4 BHK	1497	₹20,100/month	Semi-Furnished	4	Bachelors	Rent
+149	Sikkim Properties (Sikkim.txt)	2 BHK Apartment	Gangtok North	Gangtok / Sikkim	Apartment / 2 BHK	756	₹42.28 L	Semi-Furnished	2	Bachelors	Sale
+150	Sikkim Properties (Sikkim.txt)	3 BHK Independent House	Namchi Extension	Namchi / Sikkim	Independent House / 3 BHK	1163	₹14,900/month	Unfurnished	3	Bachelors	Rent
+151	Sikkim Properties (Sikkim.txt)	3 BHK Apartment	Namchi Nagar	Namchi / Sikkim	Apartment / 3 BHK	1354	₹76.72 L	Semi-Furnished	2	Any	Sale
+152	Sikkim Properties (Sikkim.txt)	3 BHK Apartment	Gyalshing Residential Area	Gyalshing / Sikkim	Apartment / 3 BHK	940	₹65.26 L	Unfurnished	4	Any	Sale
+153	Sikkim Properties (Sikkim.txt)	1 BHK Villa	Gyalshing Colony	Gyalshing / Sikkim	Villa / 1 BHK	911	₹8,300/month	Semi-Furnished	1	Family	Rent
+154	Sikkim Properties (Sikkim.txt)	4 BHK Apartment	Namchi West	Namchi / Sikkim	Apartment / 4 BHK	1415	₹23,500/month	Unfurnished	4	Family	Rent
+155	Sikkim Properties (Sikkim.txt)	3 BHK Apartment	Gangtok North	Gangtok / Sikkim	Apartment / 3 BHK	1171	₹69.33 L	Fully-Furnished	3	Bachelors	Sale
+156	Sikkim Properties (Sikkim.txt)	3 BHK Apartment	Gyalshing Heights	Gyalshing / Sikkim	Apartment / 3 BHK	1361	₹15,600/month	Fully-Furnished	2	Any	Rent
+157	Sikkim Properties (Sikkim.txt)	1 BHK Villa	Gyalshing Central	Gyalshing / Sikkim	Villa / 1 BHK	696	₹7,200/month	Semi-Furnished	1	Any	Rent
+158	Sikkim Properties (Sikkim.txt)	3 BHK Apartment	Gangtok Central	Gangtok / Sikkim	Apartment / 3 BHK	1278	₹56.17 L	Semi-Furnished	2	Bachelors	Sale
+159	Sikkim Properties (Sikkim.txt)	1 BHK Apartment	Namchi Sector 3	Namchi / Sikkim	Apartment / 1 BHK	365	₹7,700/month	Semi-Furnished	1	Bachelors	Rent
+160	Sikkim Properties (Sikkim.txt)	2 BHK Apartment	Gyalshing South	Gyalshing / Sikkim	Apartment / 2 BHK	973	₹11,000/month	Semi-Furnished	1	Family	Rent
+161	Sikkim Properties (Sikkim.txt)	3 BHK Apartment	Gangtok Sector 2	Gangtok / Sikkim	Apartment / 3 BHK	1125	₹67.49 L	Fully-Furnished	3	Bachelors	Sale
+162	Sikkim Properties (Sikkim.txt)	3 BHK Villa	Gyalshing East	Gyalshing / Sikkim	Villa / 3 BHK	1630	₹58.41 L	Unfurnished	2	Any	Sale
+163	Sikkim Properties (Sikkim.txt)	1 BHK Studio	Gangtok South	Gangtok / Sikkim	Studio / 1 BHK	415	₹8,300/month	Fully-Furnished	1	Any	Rent
+164	Sikkim Properties (Sikkim.txt)	2 BHK Apartment	Gangtok East	Gangtok / Sikkim	Apartment / 2 BHK	907	₹48.11 L	Semi-Furnished	2	Any	Sale
+165	Sikkim Properties (Sikkim.txt)	1 BHK Studio	Gyalshing West	Gyalshing / Sikkim	Studio / 1 BHK	300	₹30.22 L	Unfurnished	1	Any	Sale
+166	Sikkim Properties (Sikkim.txt)	3 BHK Apartment	Namchi Sector 2	Namchi / Sikkim	Apartment / 3 BHK	1227	₹66.47 L	Unfurnished	2	Bachelors	Sale
+167	Sikkim Properties (Sikkim.txt)	3 BHK Builder Floor	Namchi Sector 1	Namchi / Sikkim	Builder Floor / 3 BHK	1301	₹57.03 L	Fully-Furnished	3	Family	Sale
+168	Sikkim Properties (Sikkim.txt)	3 BHK Builder Floor	Gyalshing South	Gyalshing / Sikkim	Builder Floor / 3 BHK	1313	₹58.93 L	Semi-Furnished	3	Family	Sale
+169	Sikkim Properties (Sikkim.txt)	3 BHK Apartment	Gangtok Sector 3	Gangtok / Sikkim	Apartment / 3 BHK	1498	₹76.19 L	Unfurnished	4	Family	Sale
+170	Sikkim Properties (Sikkim.txt)	2 BHK Apartment	Gangtok Colony	Gangtok / Sikkim	Apartment / 2 BHK	792	₹14,100/month	Semi-Furnished	2	Bachelors	Rent
+171	Sikkim Properties (Sikkim.txt)	3 BHK Apartment	Namchi Colony	Namchi / Sikkim	Apartment / 3 BHK	1385	₹16,100/month	Unfurnished	2	Bachelors	Rent
+172	Sikkim Properties (Sikkim.txt)	2 BHK Independent House	Gangtok Colony	Gangtok / Sikkim	Independent House / 2 BHK	900	₹38.43 L	Fully-Furnished	2	Family	Sale
+173	Sikkim Properties (Sikkim.txt)	2 BHK Apartment	Gangtok Sector 1	Gangtok / Sikkim	Apartment / 2 BHK	814	₹40.99 L	Semi-Furnished	2	Any	Sale
+174	Sikkim Properties (Sikkim.txt)	3 BHK Apartment	Gyalshing Heights	Gyalshing / Sikkim	Apartment / 3 BHK	1476	₹63.39 L	Unfurnished	3	Bachelors	Sale
+175	Sikkim Properties (Sikkim.txt)	2 BHK Apartment	Gyalshing Residential Area	Gyalshing / Sikkim	Apartment / 2 BHK	765	₹41.65 L	Semi-Furnished	2	Family	Sale
+176	Sikkim Properties (Sikkim.txt)	3 BHK Apartment	Gyalshing Sector 3	Gyalshing / Sikkim	Apartment / 3 BHK	1123	₹54.62 L	Semi-Furnished	3	Family	Sale
+177	Sikkim Properties (Sikkim.txt)	1 BHK Apartment	Namchi North	Namchi / Sikkim	Apartment / 1 BHK	563	₹7,200/month	Semi-Furnished	2	Family	Rent
+178	Sikkim Properties (Sikkim.txt)	5 BHK Independent House	Gyalshing South	Gyalshing / Sikkim	Independent House / 5 BHK	3109	₹1.28 Cr	Semi-Furnished	6	Bachelors	Sale
+179	Sikkim Properties (Sikkim.txt)	4 BHK Independent House	Gyalshing Sector 3	Gyalshing / Sikkim	Independent House / 4 BHK	1846	₹67.14 L	Fully-Furnished	5	Any	Sale
+180	Sikkim Properties (Sikkim.txt)	4 BHK Apartment	Gangtok Sector 1	Gangtok / Sikkim	Apartment / 4 BHK	1856	₹26,000/month	Fully-Furnished	4	Family	Rent
+181	Sikkim Properties (Sikkim.txt)	3 BHK Apartment	Gangtok South	Gangtok / Sikkim	Apartment / 3 BHK	1153	₹16,200/month	Fully-Furnished	2	Bachelors	Rent
+182	Sikkim Properties (Sikkim.txt)	3 BHK Independent House	Gyalshing Sector 1	Gyalshing / Sikkim	Independent House / 3 BHK	1467	₹20,400/month	Semi-Furnished	3	Family	Rent
+183	Sikkim Properties (Sikkim.txt)	2 BHK Apartment	Gyalshing North	Gyalshing / Sikkim	Apartment / 2 BHK	986	₹12,500/month	Fully-Furnished	2	Family	Rent
+184	Sikkim Properties (Sikkim.txt)	4 BHK Apartment	Gangtok Sector 1	Gangtok / Sikkim	Apartment / 4 BHK	1282	₹90.09 L	Unfurnished	4	Family	Sale
+185	Sikkim Properties (Sikkim.txt)	3 BHK Independent House	Gyalshing Town Centre	Gyalshing / Sikkim	Independent House / 3 BHK	1341	₹70.56 L	Unfurnished	2	Family	Sale
+186	Sikkim Properties (Sikkim.txt)	1 BHK Apartment	Gangtok Nagar	Gangtok / Sikkim	Apartment / 1 BHK	452	₹7,800/month	Semi-Furnished	1	Any	Rent
+187	Sikkim Properties (Sikkim.txt)	1 BHK Studio	Namchi West	Namchi / Sikkim	Studio / 1 BHK	412	₹27.31 L	Semi-Furnished	1	Family	Sale
+188	Sikkim Properties (Sikkim.txt)	2 BHK Apartment	Gyalshing Nagar	Gyalshing / Sikkim	Apartment / 2 BHK	779	₹11,900/month	Semi-Furnished	1	Any	Rent
+189	Sikkim Properties (Sikkim.txt)	4 BHK Apartment	Namchi North	Namchi / Sikkim	Apartment / 4 BHK	2303	₹23,700/month	Semi-Furnished	3	Any	Rent
+190	Sikkim Properties (Sikkim.txt)	3 BHK Apartment	Gyalshing South	Gyalshing / Sikkim	Apartment / 3 BHK	959	₹13,800/month	Semi-Furnished	2	Bachelors	Rent
+191	Sikkim Properties (Sikkim.txt)	4 BHK Apartment	Namchi Sector 2	Namchi / Sikkim	Apartment / 4 BHK	1572	₹66.85 L	Semi-Furnished	4	Bachelors	Sale
+192	Sikkim Properties (Sikkim.txt)	3 BHK Apartment	Namchi Colony	Namchi / Sikkim	Apartment / 3 BHK	1206	₹18,500/month	Semi-Furnished	3	Family	Rent
+193	Sikkim Properties (Sikkim.txt)	2 BHK Builder Floor	Namchi Heights	Namchi / Sikkim	Builder Floor / 2 BHK	679	₹9,700/month	Semi-Furnished	1	Family	Rent
+194	Sikkim Properties (Sikkim.txt)	3 BHK Apartment	Namchi Sector 2	Namchi / Sikkim	Apartment / 3 BHK	983	₹15,100/month	Fully-Furnished	3	Family	Rent
+195	Sikkim Properties (Sikkim.txt)	3 BHK Apartment	Namchi South	Namchi / Sikkim	Apartment / 3 BHK	1120	₹61.48 L	Fully-Furnished	3	Bachelors	Sale
+196	Sikkim Properties (Sikkim.txt)	4 BHK Apartment	Gyalshing Heights	Gyalshing / Sikkim	Apartment / 4 BHK	1348	₹87.53 L	Fully-Furnished	3	Family	Sale
+197	Sikkim Properties (Sikkim.txt)	4 BHK Apartment	Gyalshing Main Road	Gyalshing / Sikkim	Apartment / 4 BHK	1891	₹22,200/month	Fully-Furnished	4	Bachelors	Rent
+198	Sikkim Properties (Sikkim.txt)	3 BHK Builder Floor	Gyalshing Colony	Gyalshing / Sikkim	Builder Floor / 3 BHK	1541	₹69.85 L	Unfurnished	4	Bachelors	Sale
+199	Sikkim Properties (Sikkim.txt)	2 BHK Apartment	Namchi Heights	Namchi / Sikkim	Apartment / 2 BHK	913	₹50.29 L	Unfurnished	2	Family	Sale
+200	Sikkim Properties (Sikkim.txt)	2 BHK Builder Floor	Namchi Central	Namchi / Sikkim	Builder Floor / 2 BHK	861	₹44.34 L	Semi-Furnished	3	Bachelors	Sale
+201	Sikkim Properties (Sikkim.txt)	2 BHK Apartment	Namchi Sector 2	Namchi / Sikkim	Apartment / 2 BHK	697	₹12,500/month	Semi-Furnished	2	Bachelors	Rent
+202	Sikkim Properties (Sikkim.txt)	3 BHK Apartment	Gyalshing Residential Area	Gyalshing / Sikkim	Apartment / 3 BHK	1122	₹57.30 L	Unfurnished	3	Family	Sale
+203	Sikkim Properties (Sikkim.txt)	1 BHK Independent House	Gangtok Sector 2	Gangtok / Sikkim	Independent House / 1 BHK	664	₹10,000/month	Fully-Furnished	1	Any	Rent
+204	Sikkim Properties (Sikkim.txt)	4 BHK Villa	Namchi Sector 1	Namchi / Sikkim	Villa / 4 BHK	2287	₹80.95 L	Fully-Furnished	4	Bachelors	Sale
+205	Sikkim Properties (Sikkim.txt)	3 BHK Apartment	Namchi Main Road	Namchi / Sikkim	Apartment / 3 BHK	1429	₹61.12 L	Fully-Furnished	4	Family	Sale
+206	Sikkim Properties (Sikkim.txt)	4 BHK Apartment	Gangtok Town Centre	Gangtok / Sikkim	Apartment / 4 BHK	1687	₹18,400/month	Fully-Furnished	3	Bachelors	Rent
+207	Sikkim Properties (Sikkim.txt)	2 BHK Apartment	Gangtok Main Road	Gangtok / Sikkim	Apartment / 2 BHK	850	₹46.43 L	Semi-Furnished	1	Any	Sale
+208	Sikkim Properties (Sikkim.txt)	2 BHK Apartment	Gyalshing Main Road	Gyalshing / Sikkim	Apartment / 2 BHK	506	₹40.75 L	Fully-Furnished	2	Family	Sale
+209	Sikkim Properties (Sikkim.txt)	2 BHK Independent House	Gyalshing South	Gyalshing / Sikkim	Independent House / 2 BHK	1101	₹50.73 L	Semi-Furnished	1	Bachelors	Sale
+210	Sikkim Properties (Sikkim.txt)	2 BHK Apartment	Gangtok West	Gangtok / Sikkim	Apartment / 2 BHK	823	₹12,900/month	Semi-Furnished	1	Bachelors	Rent
+211	Sikkim Properties (Sikkim.txt)	3 BHK Apartment	Gyalshing Sector 1	Gyalshing / Sikkim	Apartment / 3 BHK	1021	₹65.55 L	Semi-Furnished	3	Any	Sale
+212	Sikkim Properties (Sikkim.txt)	2 BHK Independent House	Gyalshing Colony	Gyalshing / Sikkim	Independent House / 2 BHK	1181	₹44.82 L	Semi-Furnished	2	Family	Sale
+213	Sikkim Properties (Sikkim.txt)	3 BHK Independent House	Gangtok Sector 2	Gangtok / Sikkim	Independent House / 3 BHK	1650	₹15,700/month	Semi-Furnished	2	Family	Rent
+214	Sikkim Properties (Sikkim.txt)	2 BHK Independent House	Gangtok Sector 3	Gangtok / Sikkim	Independent House / 2 BHK	1088	₹14,900/month	Semi-Furnished	3	Family	Rent
+215	Sikkim Properties (Sikkim.txt)	1 BHK Apartment	Namchi West	Namchi / Sikkim	Apartment / 1 BHK	477	₹28.25 L	Unfurnished	1	Bachelors	Sale
+216	Sikkim Properties (Sikkim.txt)	2 BHK Independent House	Gyalshing Town Centre	Gyalshing / Sikkim	Independent House / 2 BHK	1074	₹50.68 L	Unfurnished	2	Family	Sale
+217	Sikkim Properties (Sikkim.txt)	3 BHK Apartment	Namchi East	Namchi / Sikkim	Apartment / 3 BHK	1681	₹74.88 L	Semi-Furnished	4	Any	Sale
+218	Sikkim Properties (Sikkim.txt)	3 BHK Apartment	Gyalshing Sector 2	Gyalshing / Sikkim	Apartment / 3 BHK	1024	₹13,700/month	Semi-Furnished	3	Family	Rent
+219	Sikkim Properties (Sikkim.txt)	4 BHK Apartment	Gyalshing Sector 2	Gyalshing / Sikkim	Apartment / 4 BHK	1670	₹19,800/month	Fully-Furnished	4	Bachelors	Rent
+220	Sikkim Properties (Sikkim.txt)	2 BHK Apartment	Namchi Town Centre	Namchi / Sikkim	Apartment / 2 BHK	930	₹50.96 L	Fully-Furnished	2	Any	Sale
+221	Sikkim Properties (Sikkim.txt)	2 BHK Villa	Gangtok Residential Area	Gangtok / Sikkim	Villa / 2 BHK	1068	₹11,600/month	Fully-Furnished	3	Family	Rent
+222	Sikkim Properties (Sikkim.txt)	5 BHK Apartment	Namchi Sector 2	Namchi / Sikkim	Apartment / 5 BHK	2289	₹92.60 L	Fully-Furnished	5	Bachelors	Sale
+223	Sikkim Properties (Sikkim.txt)	2 BHK Independent House	Gangtok South	Gangtok / Sikkim	Independent House / 2 BHK	1026	₹14,000/month	Unfurnished	2	Family	Rent
+224	Sikkim Properties (Sikkim.txt)	4 BHK Villa	Gangtok Extension	Gangtok / Sikkim	Villa / 4 BHK	2312	₹97.89 L	Unfurnished	5	Family	Sale
+225	Sikkim Properties (Sikkim.txt)	2 BHK Apartment	Namchi Sector 1	Namchi / Sikkim	Apartment / 2 BHK	824	₹50.24 L	Unfurnished	3	Family	Sale
+226	Sikkim Properties (Sikkim.txt)	4 BHK Apartment	Gangtok East	Gangtok / Sikkim	Apartment / 4 BHK	1637	₹24,400/month	Semi-Furnished	5	Family	Rent
+227	Sikkim Properties (Sikkim.txt)	2 BHK Villa	Namchi West	Namchi / Sikkim	Villa / 2 BHK	1443	₹13,500/month	Fully-Furnished	1	Any	Rent
+228	Sikkim Properties (Sikkim.txt)	2 BHK Apartment	Namchi West	Namchi / Sikkim	Apartment / 2 BHK	753	₹13,700/month	Fully-Furnished	1	Bachelors	Rent
+229	Sikkim Properties (Sikkim.txt)	2 BHK Apartment	Namchi Central	Namchi / Sikkim	Apartment / 2 BHK	975	₹48.79 L	Fully-Furnished	2	Any	Sale
+230	Sikkim Properties (Sikkim.txt)	2 BHK Builder Floor	Gyalshing West	Gyalshing / Sikkim	Builder Floor / 2 BHK	766	₹37.70 L	Semi-Furnished	2	Any	Sale
+231	Sikkim Properties (Sikkim.txt)	1 BHK Apartment	Gyalshing North	Gyalshing / Sikkim	Apartment / 1 BHK	533	₹29.13 L	Semi-Furnished	1	Bachelors	Sale
+232	Sikkim Properties (Sikkim.txt)	2 BHK Independent House	Gyalshing Town Centre	Gyalshing / Sikkim	Independent House / 2 BHK	1025	₹44.22 L	Fully-Furnished	3	Family	Sale
+233	Sikkim Properties (Sikkim.txt)	2 BHK Apartment	Gyalshing Sector 2	Gyalshing / Sikkim	Apartment / 2 BHK	896	₹40.85 L	Unfurnished	2	Any	Sale
+234	Sikkim Properties (Sikkim.txt)	3 BHK Builder Floor	Gyalshing East	Gyalshing / Sikkim	Builder Floor / 3 BHK	1366	₹20,200/month	Semi-Furnished	3	Family	Rent
+235	Sikkim Properties (Sikkim.txt)	2 BHK Apartment	Gangtok Sector 1	Gangtok / Sikkim	Apartment / 2 BHK	806	₹10,600/month	Unfurnished	2	Family	Rent
+236	Sikkim Properties (Sikkim.txt)	2 BHK Villa	Gyalshing Colony	Gyalshing / Sikkim	Villa / 2 BHK	1037	₹52.31 L	Unfurnished	2	Family	Sale
+237	Sikkim Properties (Sikkim.txt)	4 BHK Apartment	Gyalshing Heights	Gyalshing / Sikkim	Apartment / 4 BHK	1961	₹74.34 L	Unfurnished	5	Family	Sale
+238	Sikkim Properties (Sikkim.txt)	3 BHK Apartment	Gyalshing Heights	Gyalshing / Sikkim	Apartment / 3 BHK	1491	₹68.97 L	Unfurnished	4	Bachelors	Sale
+239	Sikkim Properties (Sikkim.txt)	2 BHK Apartment	Gangtok Sector 3	Gangtok / Sikkim	Apartment / 2 BHK	927	₹14,100/month	Semi-Furnished	2	Bachelors	Rent
+240	Sikkim Properties (Sikkim.txt)	2 BHK Independent House	Namchi South	Namchi / Sikkim	Independent House / 2 BHK	974	₹53.05 L	Fully-Furnished	3	Family	Sale
+241	Sikkim Properties (Sikkim.txt)	3 BHK Apartment	Gangtok Heights	Gangtok / Sikkim	Apartment / 3 BHK	990	₹59.10 L	Semi-Furnished	2	Family	Sale
+242	Sikkim Properties (Sikkim.txt)	4 BHK Apartment	Gyalshing Main Road	Gyalshing / Sikkim	Apartment / 4 BHK	1853	₹20,200/month	Semi-Furnished	4	Family	Rent
+243	Sikkim Properties (Sikkim.txt)	3 BHK Apartment	Gyalshing West	Gyalshing / Sikkim	Apartment / 3 BHK	1059	₹59.24 L	Fully-Furnished	2	Family	Sale
+244	Sikkim Properties (Sikkim.txt)	2 BHK Apartment	Gyalshing East	Gyalshing / Sikkim	Apartment / 2 BHK	920	₹49.37 L	Semi-Furnished	2	Family	Sale
+245	Sikkim Properties (Sikkim.txt)	1 BHK Studio	Gyalshing Sector 2	Gyalshing / Sikkim	Studio / 1 BHK	391	₹24.04 L	Fully-Furnished	1	Any	Sale
+246	Sikkim Properties (Sikkim.txt)	5 BHK Apartment	Gyalshing Sector 2	Gyalshing / Sikkim	Apartment / 5 BHK	2086	₹93.51 L	Semi-Furnished	5	Family	Sale
+247	Sikkim Properties (Sikkim.txt)	2 BHK Apartment	Gyalshing Sector 1	Gyalshing / Sikkim	Apartment / 2 BHK	756	₹11,000/month	Unfurnished	2	Family	Rent
+248	Sikkim Properties (Sikkim.txt)	1 BHK Independent House	Gangtok Extension	Gangtok / Sikkim	Independent House / 1 BHK	579	₹9,600/month	Fully-Furnished	1	Family	Rent
+249	Sikkim Properties (Sikkim.txt)	4 BHK Apartment	Namchi South	Namchi / Sikkim	Apartment / 4 BHK	1928	₹26,900/month	Semi-Furnished	4	Family	Rent
+250	Sikkim Properties (Sikkim.txt)	3 BHK Apartment	Gangtok North	Gangtok / Sikkim	Apartment / 3 BHK	1206	₹55.56 L	Unfurnished	3	Any	Sale
+251	Sikkim Properties (Sikkim.txt)	3 BHK Builder Floor	Namchi Sector 2	Namchi / Sikkim	Builder Floor / 3 BHK	1024	₹56.09 L	Fully-Furnished	3	Family	Sale
+252	Sikkim Properties (Sikkim.txt)	2 BHK Apartment	Namchi Extension	Namchi / Sikkim	Apartment / 2 BHK	715	₹41.60 L	Unfurnished	2	Family	Sale
+253	Sikkim Properties (Sikkim.txt)	2 BHK Apartment	Gangtok Residential Area	Gangtok / Sikkim	Apartment / 2 BHK	931	₹13,100/month	Fully-Furnished	2	Any	Rent
+254	Sikkim Properties (Sikkim.txt)	3 BHK Apartment	Namchi North	Namchi / Sikkim	Apartment / 3 BHK	903	₹51.57 L	Fully-Furnished	3	Family	Sale
+255	Sikkim Properties (Sikkim.txt)	5 BHK Apartment	Gangtok Town Centre	Gangtok / Sikkim	Apartment / 5 BHK	2796	₹34,200/month	Semi-Furnished	4	Any	Rent
+256	Sikkim Properties (Sikkim.txt)	3 BHK Independent House	Namchi Town Centre	Namchi / Sikkim	Independent House / 3 BHK	1587	₹18,100/month	Fully-Furnished	3	Any	Rent
+257	Sikkim Properties (Sikkim.txt)	1 BHK Independent House	Gyalshing Colony	Gyalshing / Sikkim	Independent House / 1 BHK	532	₹24.38 L	Semi-Furnished	1	Bachelors	Sale
+258	Sikkim Properties (Sikkim.txt)	2 BHK Villa	Gyalshing South	Gyalshing / Sikkim	Villa / 2 BHK	1320	₹14,600/month	Semi-Furnished	1	Family	Rent
+259	Sikkim Properties (Sikkim.txt)	3 BHK Apartment	Gangtok Town Centre	Gangtok / Sikkim	Apartment / 3 BHK	1282	₹52.25 L	Unfurnished	2	Bachelors	Sale
+260	Sikkim Properties (Sikkim.txt)	4 BHK Independent House	Gangtok Sector 2	Gangtok / Sikkim	Independent House / 4 BHK	1994	₹84.68 L	Fully-Furnished	5	Family	Sale
+261	Sikkim Properties (Sikkim.txt)	4 BHK Apartment	Gyalshing Main Road	Gyalshing / Sikkim	Apartment / 4 BHK	1800	₹92.73 L	Unfurnished	3	Bachelors	Sale
+262	Sikkim Properties (Sikkim.txt)	3 BHK Apartment	Gyalshing Colony	Gyalshing / Sikkim	Apartment / 3 BHK	1040	₹63.34 L	Semi-Furnished	2	Bachelors	Sale
+263	Sikkim Properties (Sikkim.txt)	2 BHK Apartment	Gyalshing Sector 1	Gyalshing / Sikkim	Apartment / 2 BHK	880	₹49.21 L	Unfurnished	1	Any	Sale
+264	Sikkim Properties (Sikkim.txt)	2 BHK Apartment	Namchi Nagar	Namchi / Sikkim	Apartment / 2 BHK	807	₹50.19 L	Unfurnished	2	Any	Sale
+265	Sikkim Properties (Sikkim.txt)	3 BHK Independent House	Namchi Central	Namchi / Sikkim	Independent House / 3 BHK	1772	₹21,500/month	Fully-Furnished	4	Bachelors	Rent
+266	Sikkim Properties (Sikkim.txt)	1 BHK Studio	Namchi Sector 2	Namchi / Sikkim	Studio / 1 BHK	386	₹6,800/month	Fully-Furnished	1	Any	Rent
+267	Sikkim Properties (Sikkim.txt)	3 BHK Builder Floor	Gangtok West	Gangtok / Sikkim	Builder Floor / 3 BHK	1236	₹56.47 L	Semi-Furnished	3	Family	Sale
+268	Sikkim Properties (Sikkim.txt)	3 BHK Independent House	Gangtok Town Centre	Gangtok / Sikkim	Independent House / 3 BHK	1382	₹62.45 L	Semi-Furnished	3	Bachelors	Sale
+269	Sikkim Properties (Sikkim.txt)	4 BHK Apartment	Gyalshing East	Gyalshing / Sikkim	Apartment / 4 BHK	1421	₹69.56 L	Fully-Furnished	3	Any	Sale
+270	Sikkim Properties (Sikkim.txt)	2 BHK Apartment	Gyalshing Main Road	Gyalshing / Sikkim	Apartment / 2 BHK	732	₹41.40 L	Semi-Furnished	2	Family	Sale
+271	Sikkim Properties (Sikkim.txt)	3 BHK Apartment	Gyalshing West	Gyalshing / Sikkim	Apartment / 3 BHK	1039	₹13,800/month	Semi-Furnished	2	Family	Rent
+272	Sikkim Properties (Sikkim.txt)	3 BHK Apartment	Gangtok Colony	Gangtok / Sikkim	Apartment / 3 BHK	861	₹57.33 L	Fully-Furnished	2	Bachelors	Sale
+273	Sikkim Properties (Sikkim.txt)	2 BHK Apartment	Gangtok Extension	Gangtok / Sikkim	Apartment / 2 BHK	843	₹13,100/month	Fully-Furnished	1	Any	Rent
+274	Sikkim Properties (Sikkim.txt)	5 BHK Builder Floor	Gangtok West	Gangtok / Sikkim	Builder Floor / 5 BHK	1802	₹20,600/month	Unfurnished	4	Any	Rent
+275	Sikkim Properties (Sikkim.txt)	2 BHK Apartment	Gangtok West	Gangtok / Sikkim	Apartment / 2 BHK	736	₹12,300/month	Fully-Furnished	1	Family	Rent
+276	Sikkim Properties (Sikkim.txt)	2 BHK Apartment	Gangtok Residential Area	Gangtok / Sikkim	Apartment / 2 BHK	885	₹49.83 L	Semi-Furnished	3	Family	Sale
+277	Sikkim Properties (Sikkim.txt)	1 BHK Studio	Gangtok Extension	Gangtok / Sikkim	Studio / 1 BHK	303	₹6,800/month	Semi-Furnished	2	Any	Rent
+278	Sikkim Properties (Sikkim.txt)	2 BHK Apartment	Gyalshing West	Gyalshing / Sikkim	Apartment / 2 BHK	719	₹11,600/month	Semi-Furnished	2	Family	Rent
+279	Sikkim Properties (Sikkim.txt)	4 BHK Apartment	Gyalshing Sector 1	Gyalshing / Sikkim	Apartment / 4 BHK	1855	₹18,200/month	Unfurnished	4	Family	Rent
+280	Sikkim Properties (Sikkim.txt)	3 BHK Builder Floor	Namchi Sector 3	Namchi / Sikkim	Builder Floor / 3 BHK	1151	₹73.18 L	Semi-Furnished	3	Any	Sale
+281	Sikkim Properties (Sikkim.txt)	3 BHK Apartment	Namchi Nagar	Namchi / Sikkim	Apartment / 3 BHK	1381	₹18,900/month	Unfurnished	3	Bachelors	Rent
+282	Sikkim Properties (Sikkim.txt)	3 BHK Villa	Gyalshing East	Gyalshing / Sikkim	Villa / 3 BHK	1208	₹15,100/month	Semi-Furnished	2	Any	Rent
+283	Sikkim Properties (Sikkim.txt)	4 BHK Builder Floor	Gangtok Extension	Gangtok / Sikkim	Builder Floor / 4 BHK	2356	₹20,100/month	Fully-Furnished	3	Bachelors	Rent
+284	Sikkim Properties (Sikkim.txt)	3 BHK Apartment	Gyalshing Residential Area	Gyalshing / Sikkim	Apartment / 3 BHK	1361	₹18,300/month	Semi-Furnished	3	Bachelors	Rent
+285	Sikkim Properties (Sikkim.txt)	4 BHK Apartment	Gyalshing Town Centre	Gyalshing / Sikkim	Apartment / 4 BHK	1936	₹92.43 L	Unfurnished	5	Bachelors	Sale
+286	Sikkim Properties (Sikkim.txt)	3 BHK Apartment	Gyalshing Extension	Gyalshing / Sikkim	Apartment / 3 BHK	1243	₹18,100/month	Semi-Furnished	3	Any	Rent
+287	Sikkim Properties (Sikkim.txt)	5 BHK Independent House	Gyalshing West	Gyalshing / Sikkim	Independent House / 5 BHK	2785	₹1.16 Cr	Semi-Furnished	4	Family	Sale
+288	Sikkim Properties (Sikkim.txt)	2 BHK Apartment	Gangtok Town Centre	Gangtok / Sikkim	Apartment / 2 BHK	765	₹14,100/month	Unfurnished	2	Family	Rent
+289	Sikkim Properties (Sikkim.txt)	3 BHK Apartment	Gangtok East	Gangtok / Sikkim	Apartment / 3 BHK	1139	₹69.01 L	Semi-Furnished	3	Bachelors	Sale
+290	Sikkim Properties (Sikkim.txt)	1 BHK Apartment	Namchi Extension	Namchi / Sikkim	Apartment / 1 BHK	618	₹29.14 L	Fully-Furnished	2	Bachelors	Sale
+291	Sikkim Properties (Sikkim.txt)	2 BHK Independent House	Namchi West	Namchi / Sikkim	Independent House / 2 BHK	1022	₹48.83 L	Fully-Furnished	1	Any	Sale
+292	Sikkim Properties (Sikkim.txt)	5 BHK Independent House	Gangtok North	Gangtok / Sikkim	Independent House / 5 BHK	3024	₹90.35 L	Semi-Furnished	4	Any	Sale
+293	Sikkim Properties (Sikkim.txt)	3 BHK Independent House	Gangtok Nagar	Gangtok / Sikkim	Independent House / 3 BHK	1539	₹63.91 L	Semi-Furnished	3	Any	Sale
+294	Sikkim Properties (Sikkim.txt)	2 BHK Builder Floor	Gangtok East	Gangtok / Sikkim	Builder Floor / 2 BHK	835	₹13,700/month	Unfurnished	1	Bachelors	Rent
+295	Sikkim Properties (Sikkim.txt)	2 BHK Apartment	Gyalshing West	Gyalshing / Sikkim	Apartment / 2 BHK	797	₹12,500/month	Semi-Furnished	1	Bachelors	Rent
+296	Sikkim Properties (Sikkim.txt)	3 BHK Independent House	Gangtok Sector 2	Gangtok / Sikkim	Independent House / 3 BHK	2008	₹64.24 L	Unfurnished	3	Family	Sale
+297	Sikkim Properties (Sikkim.txt)	4 BHK Apartment	Namchi Residential Area	Namchi / Sikkim	Apartment / 4 BHK	1632	₹69.76 L	Unfurnished	4	Any	Sale
+298	Sikkim Properties (Sikkim.txt)	2 BHK Apartment	Gangtok Central	Gangtok / Sikkim	Apartment / 2 BHK	756	₹37.80 L	Semi-Furnished	1	Bachelors	Sale
+299	Sikkim Properties (Sikkim.txt)	5 BHK Independent House	Gangtok South	Gangtok / Sikkim	Independent House / 5 BHK	2760	₹24,800/month	Semi-Furnished	6	Bachelors	Rent
+300	Sikkim Properties (Sikkim.txt)	3 BHK Independent House	Namchi Town Centre	Namchi / Sikkim	Independent House / 3 BHK	1570	₹57.58 L	Semi-Furnished	3	Family	Sale
+301	Sikkim Properties (Sikkim.txt)	1 BHK Villa	Gangtok Sector 3	Gangtok / Sikkim	Villa / 1 BHK	786	₹28.26 L	Semi-Furnished	1	Bachelors	Sale
+302	Sikkim Properties (Sikkim.txt)	1 BHK Apartment	Namchi East	Namchi / Sikkim	Apartment / 1 BHK	602	₹30.15 L	Unfurnished	1	Bachelors	Sale
+303	Sikkim Properties (Sikkim.txt)	4 BHK Apartment	Gangtok Central	Gangtok / Sikkim	Apartment / 4 BHK	1165	₹20,200/month	Fully-Furnished	4	Family	Rent
+304	Sikkim Properties (Sikkim.txt)	1 BHK Studio	Gangtok Central	Gangtok / Sikkim	Studio / 1 BHK	376	₹26.04 L	Unfurnished	2	Any	Sale
+305	Sikkim Properties (Sikkim.txt)	2 BHK Apartment	Gangtok Central	Gangtok / Sikkim	Apartment / 2 BHK	780	₹49.17 L	Fully-Furnished	2	Family	Sale
+306	Sikkim Properties (Sikkim.txt)	2 BHK Apartment	Gyalshing Colony	Gyalshing / Sikkim	Apartment / 2 BHK	858	₹54.85 L	Semi-Furnished	2	Bachelors	Sale
+307	Sikkim Properties (Sikkim.txt)	5 BHK Apartment	Gyalshing Main Road	Gyalshing / Sikkim	Apartment / 5 BHK	2640	₹86.03 L	Semi-Furnished	5	Family	Sale
+308	Sikkim Properties (Sikkim.txt)	4 BHK Apartment	Gangtok Town Centre	Gangtok / Sikkim	Apartment / 4 BHK	1708	₹18,300/month	Unfurnished	4	Bachelors	Rent
+309	Sikkim Properties (Sikkim.txt)	3 BHK Apartment	Gyalshing Main Road	Gyalshing / Sikkim	Apartment / 3 BHK	1177	₹58.48 L	Semi-Furnished	4	Family	Sale
+310	Sikkim Properties (Sikkim.txt)	2 BHK Builder Floor	Gangtok North	Gangtok / Sikkim	Builder Floor / 2 BHK	1031	₹13,900/month	Fully-Furnished	1	Family	Rent
+311	Sikkim Properties (Sikkim.txt)	2 BHK Independent House	Gangtok Sector 1	Gangtok / Sikkim	Independent House / 2 BHK	1039	₹40.35 L	Semi-Furnished	2	Family	Sale
+312	Sikkim Properties (Sikkim.txt)	3 BHK Apartment	Gyalshing Heights	Gyalshing / Sikkim	Apartment / 3 BHK	1031	₹50.99 L	Semi-Furnished	4	Bachelors	Sale
+313	Sikkim Properties (Sikkim.txt)	3 BHK Apartment	Gangtok Heights	Gangtok / Sikkim	Apartment / 3 BHK	1318	₹62.22 L	Unfurnished	4	Bachelors	Sale
+314	Sikkim Properties (Sikkim.txt)	4 BHK Apartment	Gangtok Central	Gangtok / Sikkim	Apartment / 4 BHK	1867	₹91.13 L	Fully-Furnished	4	Any	Sale
+315	Sikkim Properties (Sikkim.txt)	2 BHK Villa	Gyalshing Sector 2	Gyalshing / Sikkim	Villa / 2 BHK	989	₹13,300/month	Semi-Furnished	2	Any	Rent
+316	Sikkim Properties (Sikkim.txt)	3 BHK Builder Floor	Gyalshing North	Gyalshing / Sikkim	Builder Floor / 3 BHK	1407	₹19,000/month	Unfurnished	3	Bachelors	Rent
+317	Sikkim Properties (Sikkim.txt)	4 BHK Villa	Gyalshing North	Gyalshing / Sikkim	Villa / 4 BHK	2285	₹79.08 L	Unfurnished	4	Any	Sale
+318	Sikkim Properties (Sikkim.txt)	2 BHK Independent House	Namchi Sector 1	Namchi / Sikkim	Independent House / 2 BHK	1186	₹40.64 L	Unfurnished	2	Family	Sale
+319	Sikkim Properties (Sikkim.txt)	1 BHK Studio	Namchi West	Namchi / Sikkim	Studio / 1 BHK	367	₹24.24 L	Semi-Furnished	2	Family	Sale
+320	Sikkim Properties (Sikkim.txt)	5 BHK Apartment	Namchi North	Namchi / Sikkim	Apartment / 5 BHK	3149	₹35,900/month	Semi-Furnished	5	Family	Rent
+321	Sikkim Properties (Sikkim.txt)	2 BHK Apartment	Gyalshing West	Gyalshing / Sikkim	Apartment / 2 BHK	583	₹36.80 L	Semi-Furnished	2	Family	Sale
+322	Sikkim Properties (Sikkim.txt)	3 BHK Apartment	Gangtok Central	Gangtok / Sikkim	Apartment / 3 BHK	1169	₹52.98 L	Unfurnished	3	Any	Sale
+323	Sikkim Properties (Sikkim.txt)	3 BHK Apartment	Gyalshing Main Road	Gyalshing / Sikkim	Apartment / 3 BHK	1240	₹17,500/month	Semi-Furnished	3	Family	Rent
+324	Sikkim Properties (Sikkim.txt)	3 BHK Apartment	Gyalshing West	Gyalshing / Sikkim	Apartment / 3 BHK	1365	₹54.87 L	Semi-Furnished	3	Family	Sale
+325	Sikkim Properties (Sikkim.txt)	1 BHK Apartment	Namchi Residential Area	Namchi / Sikkim	Apartment / 1 BHK	677	₹32.42 L	Semi-Furnished	1	Bachelors	Sale
+326	Sikkim Properties (Sikkim.txt)	4 BHK Builder Floor	Gyalshing Main Road	Gyalshing / Sikkim	Builder Floor / 4 BHK	1750	₹97.33 L	Semi-Furnished	4	Family	Sale
+327	Sikkim Properties (Sikkim.txt)	2 BHK Builder Floor	Gyalshing Heights	Gyalshing / Sikkim	Builder Floor / 2 BHK	911	₹38.29 L	Semi-Furnished	2	Any	Sale
+328	Sikkim Properties (Sikkim.txt)	5 BHK Apartment	Namchi North	Namchi / Sikkim	Apartment / 5 BHK	2911	₹34,200/month	Semi-Furnished	4	Bachelors	Rent
+329	Sikkim Properties (Sikkim.txt)	4 BHK Builder Floor	Gyalshing Extension	Gyalshing / Sikkim	Builder Floor / 4 BHK	1626	₹94.61 L	Semi-Furnished	5	Bachelors	Sale
+330	Sikkim Properties (Sikkim.txt)	3 BHK Builder Floor	Namchi Residential Area	Namchi / Sikkim	Builder Floor / 3 BHK	979	₹15,500/month	Semi-Furnished	3	Bachelors	Rent
+331	Sikkim Properties (Sikkim.txt)	5 BHK Apartment	Namchi Town Centre	Namchi / Sikkim	Apartment / 5 BHK	2596	₹27,000/month	Fully-Furnished	5	Any	Rent
+332	Sikkim Properties (Sikkim.txt)	2 BHK Apartment	Gyalshing Central	Gyalshing / Sikkim	Apartment / 2 BHK	914	₹12,800/month	Fully-Furnished	2	Family	Rent
+333	Sikkim Properties (Sikkim.txt)	2 BHK Apartment	Gyalshing Residential Area	Gyalshing / Sikkim	Apartment / 2 BHK	1002	₹51.23 L	Fully-Furnished	2	Family	Sale
+334	Sikkim Properties (Sikkim.txt)	1 BHK Apartment	Gyalshing Sector 3	Gyalshing / Sikkim	Apartment / 1 BHK	584	₹35.93 L	Unfurnished	1	Bachelors	Sale
+335	Sikkim Properties (Sikkim.txt)	4 BHK Apartment	Gyalshing Sector 1	Gyalshing / Sikkim	Apartment / 4 BHK	1604	₹88.43 L	Unfurnished	4	Family	Sale
+336	Sikkim Properties (Sikkim.txt)	2 BHK Independent House	Gyalshing Sector 2	Gyalshing / Sikkim	Independent House / 2 BHK	1312	₹57.30 L	Unfurnished	2	Family	Sale
+337	Sikkim Properties (Sikkim.txt)	4 BHK Apartment	Gyalshing Sector 3	Gyalshing / Sikkim	Apartment / 4 BHK	1659	₹86.22 L	Semi-Furnished	4	Family	Sale
+338	Sikkim Properties (Sikkim.txt)	2 BHK Independent House	Gyalshing Heights	Gyalshing / Sikkim	Independent House / 2 BHK	905	₹10,800/month	Unfurnished	2	Any	Rent
+339	Sikkim Properties (Sikkim.txt)	3 BHK Apartment	Gyalshing Town Centre	Gyalshing / Sikkim	Apartment / 3 BHK	1139	₹54.32 L	Fully-Furnished	4	Bachelors	Sale
+340	Sikkim Properties (Sikkim.txt)	3 BHK Independent House	Gyalshing South	Gyalshing / Sikkim	Independent House / 3 BHK	1766	₹57.49 L	Semi-Furnished	4	Any	Sale
+341	Sikkim Properties (Sikkim.txt)	1 BHK Builder Floor	Gyalshing Town Centre	Gyalshing / Sikkim	Builder Floor / 1 BHK	434	₹23.68 L	Fully-Furnished	1	Family	Sale
+342	Sikkim Properties (Sikkim.txt)	2 BHK Apartment	Gyalshing East	Gyalshing / Sikkim	Apartment / 2 BHK	798	₹46.49 L	Unfurnished	3	Bachelors	Sale
+343	Sikkim Properties (Sikkim.txt)	1 BHK Independent House	Gyalshing East	Gyalshing / Sikkim	Independent House / 1 BHK	596	₹26.42 L	Unfurnished	1	Family	Sale
+344	Sikkim Properties (Sikkim.txt)	2 BHK Apartment	Gangtok Sector 2	Gangtok / Sikkim	Apartment / 2 BHK	803	₹46.23 L	Semi-Furnished	2	Family	Sale
+345	Sikkim Properties (Sikkim.txt)	2 BHK Apartment	Namchi Extension	Namchi / Sikkim	Apartment / 2 BHK	930	₹55.45 L	Unfurnished	2	Any	Sale
+346	Sikkim Properties (Sikkim.txt)	3 BHK Villa	Gyalshing Residential Area	Gyalshing / Sikkim	Villa / 3 BHK	1650	₹60.86 L	Fully-Furnished	4	Bachelors	Sale
+347	Sikkim Properties (Sikkim.txt)	2 BHK Builder Floor	Gyalshing Main Road	Gyalshing / Sikkim	Builder Floor / 2 BHK	887	₹44.79 L	Semi-Furnished	1	Family	Sale
+348	Sikkim Properties (Sikkim.txt)	2 BHK Independent House	Namchi Heights	Namchi / Sikkim	Independent House / 2 BHK	1066	₹54.67 L	Semi-Furnished	2	Family	Sale
+349	Sikkim Properties (Sikkim.txt)	1 BHK Apartment	Gangtok Extension	Gangtok / Sikkim	Apartment / 1 BHK	561	₹31.69 L	Fully-Furnished	1	Bachelors	Sale
+350	Sikkim Properties (Sikkim.txt)	3 BHK Apartment	Gyalshing East	Gyalshing / Sikkim	Apartment / 3 BHK	1452	₹75.17 L	Semi-Furnished	4	Family	Sale
+351	Sikkim Properties (Sikkim.txt)	1 BHK Apartment	Gyalshing North	Gyalshing / Sikkim	Apartment / 1 BHK	466	₹7,400/month	Unfurnished	2	Any	Rent
+352	Sikkim Properties (Sikkim.txt)	4 BHK Builder Floor	Gangtok Heights	Gangtok / Sikkim	Builder Floor / 4 BHK	1798	₹87.84 L	Unfurnished	3	Family	Sale
+353	Sikkim Properties (Sikkim.txt)	2 BHK Independent House	Gyalshing Town Centre	Gyalshing / Sikkim	Independent House / 2 BHK	1071	₹12,000/month	Semi-Furnished	3	Any	Rent
+354	Sikkim Properties (Sikkim.txt)	3 BHK Apartment	Gangtok Nagar	Gangtok / Sikkim	Apartment / 3 BHK	1278	₹69.88 L	Unfurnished	3	Any	Sale
+355	Sikkim Properties (Sikkim.txt)	3 BHK Villa	Gyalshing South	Gyalshing / Sikkim	Villa / 3 BHK	1574	₹14,800/month	Semi-Furnished	3	Bachelors	Rent
+356	Sikkim Properties (Sikkim.txt)	3 BHK Builder Floor	Namchi South	Namchi / Sikkim	Builder Floor / 3 BHK	1329	₹17,300/month	Fully-Furnished	4	Bachelors	Rent
+357	Sikkim Properties (Sikkim.txt)	4 BHK Villa	Gyalshing Extension	Gyalshing / Sikkim	Villa / 4 BHK	2759	₹80.21 L	Unfurnished	4	Family	Sale
+358	Sikkim Properties (Sikkim.txt)	1 BHK Apartment	Gyalshing Nagar	Gyalshing / Sikkim	Apartment / 1 BHK	559	₹27.34 L	Fully-Furnished	1	Bachelors	Sale
+359	Sikkim Properties (Sikkim.txt)	4 BHK Independent House	Gangtok Central	Gangtok / Sikkim	Independent House / 4 BHK	1911	₹74.82 L	Unfurnished	3	Bachelors	Sale
+360	Sikkim Properties (Sikkim.txt)	3 BHK Builder Floor	Gangtok Main Road	Gangtok / Sikkim	Builder Floor / 3 BHK	1290	₹61.21 L	Fully-Furnished	4	Family	Sale
+361	Sikkim Properties (Sikkim.txt)	3 BHK Apartment	Namchi Extension	Namchi / Sikkim	Apartment / 3 BHK	983	₹60.14 L	Semi-Furnished	4	Family	Sale
+362	Sikkim Properties (Sikkim.txt)	2 BHK Builder Floor	Gyalshing Central	Gyalshing / Sikkim	Builder Floor / 2 BHK	826	₹37.04 L	Semi-Furnished	1	Bachelors	Sale
+363	Sikkim Properties (Sikkim.txt)	2 BHK Villa	Gyalshing Sector 2	Gyalshing / Sikkim	Villa / 2 BHK	1177	₹40.63 L	Fully-Furnished	2	Any	Sale
+364	Sikkim Properties (Sikkim.txt)	2 BHK Apartment	Gangtok Extension	Gangtok / Sikkim	Apartment / 2 BHK	803	₹43.01 L	Semi-Furnished	2	Family	Sale
+365	Sikkim Properties (Sikkim.txt)	3 BHK Villa	Namchi Main Road	Namchi / Sikkim	Villa / 3 BHK	1630	₹65.14 L	Semi-Furnished	3	Family	Sale
+366	Sikkim Properties (Sikkim.txt)	1 BHK Studio	Gyalshing Colony	Gyalshing / Sikkim	Studio / 1 BHK	300	₹29.15 L	Unfurnished	1	Any	Sale
+367	Sikkim Properties (Sikkim.txt)	3 BHK Apartment	Gangtok Nagar	Gangtok / Sikkim	Apartment / 3 BHK	1192	₹71.16 L	Semi-Furnished	3	Family	Sale
+368	Sikkim Properties (Sikkim.txt)	5 BHK Apartment	Gangtok Residential Area	Gangtok / Sikkim	Apartment / 5 BHK	3110	₹90.82 L	Semi-Furnished	5	Any	Sale
+369	Sikkim Properties (Sikkim.txt)	1 BHK Apartment	Namchi West	Namchi / Sikkim	Apartment / 1 BHK	390	₹23.85 L	Fully-Furnished	1	Family	Sale
+370	Sikkim Properties (Sikkim.txt)	5 BHK Builder Floor	Gangtok Residential Area	Gangtok / Sikkim	Builder Floor / 5 BHK	2361	₹1.21 Cr	Semi-Furnished	6	Bachelors	Sale
+371	Sikkim Properties (Sikkim.txt)	2 BHK Villa	Namchi Heights	Namchi / Sikkim	Villa / 2 BHK	1035	₹48.37 L	Semi-Furnished	2	Family	Sale
+372	Sikkim Properties (Sikkim.txt)	2 BHK Apartment	Gyalshing Sector 3	Gyalshing / Sikkim	Apartment / 2 BHK	690	₹42.93 L	Semi-Furnished	3	Any	Sale
+373	Sikkim Properties (Sikkim.txt)	2 BHK Apartment	Gangtok Town Centre	Gangtok / Sikkim	Apartment / 2 BHK	810	₹45.38 L	Unfurnished	1	Family	Sale
+374	Sikkim Properties (Sikkim.txt)	1 BHK Apartment	Namchi Residential Area	Namchi / Sikkim	Apartment / 1 BHK	452	₹33.01 L	Fully-Furnished	1	Family	Sale
+375	Sikkim Properties (Sikkim.txt)	2 BHK Apartment	Gyalshing Sector 2	Gyalshing / Sikkim	Apartment / 2 BHK	833	₹41.25 L	Semi-Furnished	2	Any	Sale
+376	Sikkim Properties (Sikkim.txt)	3 BHK Apartment	Gangtok Sector 1	Gangtok / Sikkim	Apartment / 3 BHK	1498	₹78.73 L	Fully-Furnished	4	Any	Sale
+377	Sikkim Properties (Sikkim.txt)	1 BHK Apartment	Gyalshing Extension	Gyalshing / Sikkim	Apartment / 1 BHK	300	₹8,800/month	Unfurnished	2	Family	Rent
+378	Sikkim Properties (Sikkim.txt)	1 BHK Builder Floor	Gyalshing North	Gyalshing / Sikkim	Builder Floor / 1 BHK	554	₹7,500/month	Semi-Furnished	2	Family	Rent
+379	Sikkim Properties (Sikkim.txt)	3 BHK Apartment	Namchi Sector 3	Namchi / Sikkim	Apartment / 3 BHK	1333	₹76.74 L	Unfurnished	3	Bachelors	Sale
+380	Sikkim Properties (Sikkim.txt)	2 BHK Apartment	Gangtok Extension	Gangtok / Sikkim	Apartment / 2 BHK	1122	₹13,000/month	Fully-Furnished	3	Family	Rent
+381	Sikkim Properties (Sikkim.txt)	2 BHK Independent House	Gyalshing Residential Area	Gyalshing / Sikkim	Independent House / 2 BHK	1022	₹43.30 L	Unfurnished	2	Bachelors	Sale
+382	Sikkim Properties (Sikkim.txt)	2 BHK Apartment	Namchi Sector 2	Namchi / Sikkim	Apartment / 2 BHK	544	₹45.43 L	Semi-Furnished	1	Any	Sale
+383	Sikkim Properties (Sikkim.txt)	3 BHK Builder Floor	Gangtok South	Gangtok / Sikkim	Builder Floor / 3 BHK	1408	₹20,800/month	Semi-Furnished	4	Family	Rent
+384	Sikkim Properties (Sikkim.txt)	2 BHK Villa	Gyalshing Sector 2	Gyalshing / Sikkim	Villa / 2 BHK	1384	₹58.22 L	Semi-Furnished	2	Bachelors	Sale
+385	Sikkim Properties (Sikkim.txt)	3 BHK Villa	Namchi Extension	Namchi / Sikkim	Villa / 3 BHK	1513	₹61.16 L	Semi-Furnished	2	Family	Sale
+386	Sikkim Properties (Sikkim.txt)	3 BHK Apartment	Gyalshing Residential Area	Gyalshing / Sikkim	Apartment / 3 BHK	1309	₹71.51 L	Semi-Furnished	3	Family	Sale
+387	Sikkim Properties (Sikkim.txt)	1 BHK Apartment	Gangtok Sector 3	Gangtok / Sikkim	Apartment / 1 BHK	480	₹32.94 L	Semi-Furnished	1	Any	Sale
+388	Sikkim Properties (Sikkim.txt)	1 BHK Studio	Gangtok South	Gangtok / Sikkim	Studio / 1 BHK	444	₹25.04 L	Semi-Furnished	1	Bachelors	Sale
+389	Sikkim Properties (Sikkim.txt)	3 BHK Independent House	Gangtok Sector 2	Gangtok / Sikkim	Independent House / 3 BHK	1470	₹72.20 L	Unfurnished	3	Any	Sale
+390	Sikkim Properties (Sikkim.txt)	4 BHK Apartment	Gangtok Nagar	Gangtok / Sikkim	Apartment / 4 BHK	1671	₹72.21 L	Fully-Furnished	5	Any	Sale
+391	Sikkim Properties (Sikkim.txt)	1 BHK Builder Floor	Gyalshing Residential Area	Gyalshing / Sikkim	Builder Floor / 1 BHK	555	₹29.10 L	Semi-Furnished	1	Family	Sale
+392	Sikkim Properties (Sikkim.txt)	4 BHK Apartment	Gangtok Residential Area	Gangtok / Sikkim	Apartment / 4 BHK	1812	₹90.47 L	Fully-Furnished	3	Family	Sale
+393	Sikkim Properties (Sikkim.txt)	4 BHK Independent House	Gangtok South	Gangtok / Sikkim	Independent House / 4 BHK	2386	₹26,900/month	Semi-Furnished	4	Family	Rent
+394	Sikkim Properties (Sikkim.txt)	1 BHK Independent House	Gangtok South	Gangtok / Sikkim	Independent House / 1 BHK	581	₹35.05 L	Fully-Furnished	1	Bachelors	Sale
+395	Sikkim Properties (Sikkim.txt)	2 BHK Apartment	Namchi Sector 1	Namchi / Sikkim	Apartment / 2 BHK	915	₹14,300/month	Semi-Furnished	2	Family	Rent
+396	Sikkim Properties (Sikkim.txt)	4 BHK Independent House	Namchi East	Namchi / Sikkim	Independent House / 4 BHK	1956	₹18,700/month	Fully-Furnished	3	Bachelors	Rent
+397	Sikkim Properties (Sikkim.txt)	4 BHK Independent House	Gangtok West	Gangtok / Sikkim	Independent House / 4 BHK	1995	₹89.75 L	Fully-Furnished	3	Any	Sale
+398	Sikkim Properties (Sikkim.txt)	2 BHK Independent House	Namchi Heights	Namchi / Sikkim	Independent House / 2 BHK	918	₹54.47 L	Fully-Furnished	2	Bachelors	Sale
+399	Sikkim Properties (Sikkim.txt)	5 BHK Apartment	Namchi East	Namchi / Sikkim	Apartment / 5 BHK	2464	₹93.23 L	Semi-Furnished	5	Bachelors	Sale
+400	Sikkim Properties (Sikkim.txt)	2 BHK Independent House	Namchi Colony	Namchi / Sikkim	Independent House / 2 BHK	1109	₹41.62 L	Unfurnished	3	Any	Sale
+401	Sikkim Properties (Sikkim.txt)	1 BHK Independent House	Gangtok Nagar	Gangtok / Sikkim	Independent House / 1 BHK	736	₹36.12 L	Semi-Furnished	1	Family	Sale
+402	Sikkim Properties (Sikkim.txt)	4 BHK Independent House	Gyalshing Sector 3	Gyalshing / Sikkim	Independent House / 4 BHK	2306	₹25,600/month	Semi-Furnished	5	Bachelors	Rent
+403	Sikkim Properties (Sikkim.txt)	4 BHK Builder Floor	Namchi West	Namchi / Sikkim	Builder Floor / 4 BHK	1754	₹75.76 L	Semi-Furnished	4	Any	Sale
+404	Sikkim Properties (Sikkim.txt)	3 BHK Apartment	Gyalshing Residential Area	Gyalshing / Sikkim	Apartment / 3 BHK	1007	₹16,600/month	Semi-Furnished	3	Family	Rent
+405	Sikkim Properties (Sikkim.txt)	2 BHK Apartment	Gangtok West	Gangtok / Sikkim	Apartment / 2 BHK	975	₹11,700/month	Semi-Furnished	1	Any	Rent
+406	Sikkim Properties (Sikkim.txt)	2 BHK Independent House	Namchi South	Namchi / Sikkim	Independent House / 2 BHK	1128	₹57.64 L	Semi-Furnished	2	Family	Sale
+407	Sikkim Properties (Sikkim.txt)	2 BHK Builder Floor	Gangtok Sector 2	Gangtok / Sikkim	Builder Floor / 2 BHK	1084	₹58.32 L	Unfurnished	1	Bachelors	Sale
+408	Sikkim Properties (Sikkim.txt)	3 BHK Apartment	Gyalshing South	Gyalshing / Sikkim	Apartment / 3 BHK	1123	₹15,700/month	Fully-Furnished	4	Family	Rent
+409	Sikkim Properties (Sikkim.txt)	2 BHK Apartment	Namchi Sector 2	Namchi / Sikkim	Apartment / 2 BHK	643	₹13,100/month	Unfurnished	2	Family	Rent
+410	Sikkim Properties (Sikkim.txt)	2 BHK Apartment	Namchi Extension	Namchi / Sikkim	Apartment / 2 BHK	931	₹51.28 L	Semi-Furnished	2	Family	Sale
+411	Sikkim Properties (Sikkim.txt)	2 BHK Apartment	Namchi Main Road	Namchi / Sikkim	Apartment / 2 BHK	636	₹12,700/month	Semi-Furnished	3	Bachelors	Rent
+412	Sikkim Properties (Sikkim.txt)	1 BHK Apartment	Gangtok Town Centre	Gangtok / Sikkim	Apartment / 1 BHK	468	₹32.80 L	Fully-Furnished	2	Family	Sale
+413	Sikkim Properties (Sikkim.txt)	1 BHK Studio	Gyalshing Sector 1	Gyalshing / Sikkim	Studio / 1 BHK	328	₹32.07 L	Fully-Furnished	1	Bachelors	Sale
+414	Sikkim Properties (Sikkim.txt)	1 BHK Apartment	Gangtok Colony	Gangtok / Sikkim	Apartment / 1 BHK	507	₹9,000/month	Semi-Furnished	1	Bachelors	Rent
+415	Sikkim Properties (Sikkim.txt)	2 BHK Builder Floor	Gyalshing South	Gyalshing / Sikkim	Builder Floor / 2 BHK	825	₹13,800/month	Fully-Furnished	1	Any	Rent
+416	Sikkim Properties (Sikkim.txt)	1 BHK Studio	Gyalshing Town Centre	Gyalshing / Sikkim	Studio / 1 BHK	417	₹23 L	Fully-Furnished	1	Any	Sale
+417	Sikkim Properties (Sikkim.txt)	3 BHK Apartment	Namchi West	Namchi / Sikkim	Apartment / 3 BHK	1248	₹73.86 L	Semi-Furnished	3	Bachelors	Sale
+418	Sikkim Properties (Sikkim.txt)	4 BHK Apartment	Gangtok Extension	Gangtok / Sikkim	Apartment / 4 BHK	1745	₹93.65 L	Semi-Furnished	4	Bachelors	Sale
+419	Sikkim Properties (Sikkim.txt)	2 BHK Apartment	Gyalshing West	Gyalshing / Sikkim	Apartment / 2 BHK	778	₹44.09 L	Semi-Furnished	2	Any	Sale
+420	Sikkim Properties (Sikkim.txt)	4 BHK Apartment	Namchi Sector 1	Namchi / Sikkim	Apartment / 4 BHK	2163	₹81.79 L	Semi-Furnished	4	Bachelors	Sale
+421	Sikkim Properties (Sikkim.txt)	5 BHK Apartment	Gyalshing Heights	Gyalshing / Sikkim	Apartment / 5 BHK	2725	₹30,200/month	Semi-Furnished	5	Bachelors	Rent
+422	Sikkim Properties (Sikkim.txt)	2 BHK Apartment	Gangtok Extension	Gangtok / Sikkim	Apartment / 2 BHK	1032	₹52.10 L	Unfurnished	2	Bachelors	Sale
+423	Sikkim Properties (Sikkim.txt)	1 BHK Apartment	Namchi Sector 2	Namchi / Sikkim	Apartment / 1 BHK	501	₹8,800/month	Semi-Furnished	1	Family	Rent
+424	Sikkim Properties (Sikkim.txt)	2 BHK Apartment	Gangtok Nagar	Gangtok / Sikkim	Apartment / 2 BHK	658	₹38.83 L	Semi-Furnished	2	Family	Sale
+425	Sikkim Properties (Sikkim.txt)	2 BHK Independent House	Gangtok West	Gangtok / Sikkim	Independent House / 2 BHK	874	₹41.61 L	Semi-Furnished	2	Family	Sale
+426	Sikkim Properties (Sikkim.txt)	4 BHK Builder Floor	Namchi Residential Area	Namchi / Sikkim	Builder Floor / 4 BHK	1740	₹20,500/month	Semi-Furnished	4	Any	Rent
+427	Sikkim Properties (Sikkim.txt)	3 BHK Apartment	Namchi Sector 2	Namchi / Sikkim	Apartment / 3 BHK	1077	₹71.52 L	Semi-Furnished	4	Bachelors	Sale
+428	Sikkim Properties (Sikkim.txt)	3 BHK Builder Floor	Gangtok Main Road	Gangtok / Sikkim	Builder Floor / 3 BHK	1121	₹50.01 L	Semi-Furnished	2	Bachelors	Sale
+429	Sikkim Properties (Sikkim.txt)	1 BHK Apartment	Namchi South	Namchi / Sikkim	Apartment / 1 BHK	533	₹26.61 L	Semi-Furnished	1	Bachelors	Sale
+430	Sikkim Properties (Sikkim.txt)	2 BHK Independent House	Namchi South	Namchi / Sikkim	Independent House / 2 BHK	931	₹12,200/month	Semi-Furnished	1	Family	Rent
+431	Sikkim Properties (Sikkim.txt)	1 BHK Apartment	Gyalshing Extension	Gyalshing / Sikkim	Apartment / 1 BHK	430	₹33.62 L	Semi-Furnished	1	Family	Sale
+432	Sikkim Properties (Sikkim.txt)	1 BHK Apartment	Namchi Sector 3	Namchi / Sikkim	Apartment / 1 BHK	467	₹24.45 L	Semi-Furnished	1	Family	Sale
+433	Sikkim Properties (Sikkim.txt)	1 BHK Studio	Gyalshing Central	Gyalshing / Sikkim	Studio / 1 BHK	347	₹24.44 L	Unfurnished	1	Family	Sale
+434	Sikkim Properties (Sikkim.txt)	2 BHK Apartment	Namchi Sector 3	Namchi / Sikkim	Apartment / 2 BHK	875	₹42.70 L	Semi-Furnished	1	Bachelors	Sale
+435	Sikkim Properties (Sikkim.txt)	3 BHK Independent House	Gyalshing Residential Area	Gyalshing / Sikkim	Independent House / 3 BHK	1659	₹76.50 L	Semi-Furnished	4	Family	Sale
+436	Sikkim Properties (Sikkim.txt)	3 BHK Apartment	Namchi Sector 1	Namchi / Sikkim	Apartment / 3 BHK	1270	₹14,400/month	Fully-Furnished	3	Bachelors	Rent
+437	Sikkim Properties (Sikkim.txt)	3 BHK Villa	Namchi Colony	Namchi / Sikkim	Villa / 3 BHK	1852	₹20,300/month	Unfurnished	3	Any	Rent
+438	Sikkim Properties (Sikkim.txt)	2 BHK Apartment	Gangtok West	Gangtok / Sikkim	Apartment / 2 BHK	872	₹55.18 L	Fully-Furnished	3	Family	Sale
+439	Sikkim Properties (Sikkim.txt)	2 BHK Builder Floor	Namchi Central	Namchi / Sikkim	Builder Floor / 2 BHK	690	₹44.74 L	Semi-Furnished	2	Bachelors	Sale
+440	Sikkim Properties (Sikkim.txt)	4 BHK Apartment	Gangtok Sector 2	Gangtok / Sikkim	Apartment / 4 BHK	1911	₹89.29 L	Semi-Furnished	3	Family	Sale
+441	Sikkim Properties (Sikkim.txt)	2 BHK Independent House	Gangtok East	Gangtok / Sikkim	Independent House / 2 BHK	1026	₹14,100/month	Unfurnished	1	Family	Rent
+442	Sikkim Properties (Sikkim.txt)	3 BHK Independent House	Gangtok Sector 3	Gangtok / Sikkim	Independent House / 3 BHK	1734	₹15,500/month	Unfurnished	4	Family	Rent
+443	Sikkim Properties (Sikkim.txt)	1 BHK Apartment	Namchi Sector 3	Namchi / Sikkim	Apartment / 1 BHK	469	₹29.13 L	Fully-Furnished	1	Bachelors	Sale
+444	Sikkim Properties (Sikkim.txt)	3 BHK Independent House	Namchi Extension	Namchi / Sikkim	Independent House / 3 BHK	1611	₹55.30 L	Fully-Furnished	3	Bachelors	Sale
+445	Sikkim Properties (Sikkim.txt)	4 BHK Apartment	Gangtok Extension	Gangtok / Sikkim	Apartment / 4 BHK	1884	₹97.19 L	Unfurnished	4	Family	Sale
+446	Sikkim Properties (Sikkim.txt)	4 BHK Independent House	Gangtok Sector 2	Gangtok / Sikkim	Independent House / 4 BHK	1923	₹23,500/month	Semi-Furnished	4	Family	Rent
+447	Sikkim Properties (Sikkim.txt)	2 BHK Apartment	Gangtok Residential Area	Gangtok / Sikkim	Apartment / 2 BHK	1048	₹12,100/month	Unfurnished	2	Bachelors	Rent
+448	Sikkim Properties (Sikkim.txt)	3 BHK Apartment	Gangtok Main Road	Gangtok / Sikkim	Apartment / 3 BHK	1074	₹59.56 L	Semi-Furnished	3	Bachelors	Sale
+449	Sikkim Properties (Sikkim.txt)	1 BHK Studio	Namchi Residential Area	Namchi / Sikkim	Studio / 1 BHK	337	₹7,800/month	Semi-Furnished	1	Family	Rent
+450	Sikkim Properties (Sikkim.txt)	3 BHK Apartment	Gyalshing South	Gyalshing / Sikkim	Apartment / 3 BHK	1505	₹64.74 L	Unfurnished	3	Any	Sale
+451	Sikkim Properties (Sikkim.txt)	2 BHK Apartment	Gyalshing Main Road	Gyalshing / Sikkim	Apartment / 2 BHK	993	₹38.82 L	Fully-Furnished	1	Family	Sale
+452	Sikkim Properties (Sikkim.txt)	4 BHK Apartment	Gangtok Sector 3	Gangtok / Sikkim	Apartment / 4 BHK	1774	₹93.09 L	Unfurnished	4	Bachelors	Sale
+453	Sikkim Properties (Sikkim.txt)	1 BHK Builder Floor	Gangtok Sector 3	Gangtok / Sikkim	Builder Floor / 1 BHK	500	₹7,500/month	Semi-Furnished	2	Bachelors	Rent
+454	Sikkim Properties (Sikkim.txt)	3 BHK Apartment	Namchi Sector 1	Namchi / Sikkim	Apartment / 3 BHK	1052	₹18,400/month	Fully-Furnished	3	Bachelors	Rent
+455	Sikkim Properties (Sikkim.txt)	5 BHK Apartment	Namchi Sector 1	Namchi / Sikkim	Apartment / 5 BHK	2583	₹1.16 Cr	Fully-Furnished	5	Bachelors	Sale
+456	Sikkim Properties (Sikkim.txt)	2 BHK Independent House	Gangtok Main Road	Gangtok / Sikkim	Independent House / 2 BHK	1023	₹51.71 L	Semi-Furnished	3	Family	Sale
+457	Sikkim Properties (Sikkim.txt)	3 BHK Villa	Namchi Extension	Namchi / Sikkim	Villa / 3 BHK	1764	₹64.16 L	Fully-Furnished	3	Bachelors	Sale
+458	Sikkim Properties (Sikkim.txt)	3 BHK Builder Floor	Namchi South	Namchi / Sikkim	Builder Floor / 3 BHK	1406	₹65.96 L	Fully-Furnished	2	Family	Sale
+459	Sikkim Properties (Sikkim.txt)	4 BHK Apartment	Gangtok Town Centre	Gangtok / Sikkim	Apartment / 4 BHK	1695	₹86.02 L	Unfurnished	3	Bachelors	Sale
+460	Sikkim Properties (Sikkim.txt)	1 BHK Independent House	Namchi Nagar	Namchi / Sikkim	Independent House / 1 BHK	801	₹9,800/month	Unfurnished	1	Bachelors	Rent
+461	Sikkim Properties (Sikkim.txt)	2 BHK Apartment	Namchi East	Namchi / Sikkim	Apartment / 2 BHK	825	₹10,700/month	Unfurnished	2	Family	Rent
+462	Sikkim Properties (Sikkim.txt)	3 BHK Apartment	Gyalshing Town Centre	Gyalshing / Sikkim	Apartment / 3 BHK	1524	₹19,000/month	Semi-Furnished	2	Bachelors	Rent
+463	Sikkim Properties (Sikkim.txt)	2 BHK Villa	Gangtok West	Gangtok / Sikkim	Villa / 2 BHK	968	₹44.89 L	Semi-Furnished	1	Any	Sale
+464	Sikkim Properties (Sikkim.txt)	1 BHK Studio	Namchi Heights	Namchi / Sikkim	Studio / 1 BHK	461	₹32.97 L	Fully-Furnished	1	Family	Sale
+465	Sikkim Properties (Sikkim.txt)	3 BHK Builder Floor	Gyalshing East	Gyalshing / Sikkim	Builder Floor / 3 BHK	1272	₹16,900/month	Unfurnished	2	Bachelors	Rent
+466	Sikkim Properties (Sikkim.txt)	2 BHK Independent House	Namchi Sector 2	Namchi / Sikkim	Independent House / 2 BHK	958	₹14,100/month	Semi-Furnished	3	Bachelors	Rent
+467	Sikkim Properties (Sikkim.txt)	4 BHK Villa	Gangtok Sector 2	Gangtok / Sikkim	Villa / 4 BHK	2254	₹22,300/month	Semi-Furnished	4	Any	Rent
+468	Sikkim Properties (Sikkim.txt)	3 BHK Independent House	Gyalshing South	Gyalshing / Sikkim	Independent House / 3 BHK	1279	₹14,700/month	Semi-Furnished	2	Any	Rent
+469	Sikkim Properties (Sikkim.txt)	3 BHK Apartment	Namchi Sector 3	Namchi / Sikkim	Apartment / 3 BHK	1409	₹21,200/month	Semi-Furnished	3	Any	Rent
+470	Sikkim Properties (Sikkim.txt)	2 BHK Independent House	Gangtok North	Gangtok / Sikkim	Independent House / 2 BHK	1009	₹46.72 L	Semi-Furnished	2	Bachelors	Sale
+471	Sikkim Properties (Sikkim.txt)	4 BHK Apartment	Namchi Sector 1	Namchi / Sikkim	Apartment / 4 BHK	1989	₹26,400/month	Unfurnished	3	Bachelors	Rent
+472	Sikkim Properties (Sikkim.txt)	3 BHK Apartment	Gyalshing Sector 1	Gyalshing / Sikkim	Apartment / 3 BHK	1350	₹15,000/month	Unfurnished	3	Bachelors	Rent
+473	Sikkim Properties (Sikkim.txt)	2 BHK Builder Floor	Namchi Extension	Namchi / Sikkim	Builder Floor / 2 BHK	839	₹11,300/month	Semi-Furnished	2	Family	Rent
+474	Sikkim Properties (Sikkim.txt)	2 BHK Independent House	Gyalshing Sector 1	Gyalshing / Sikkim	Independent House / 2 BHK	1014	₹43.23 L	Fully-Furnished	3	Family	Sale
+475	Sikkim Properties (Sikkim.txt)	2 BHK Apartment	Gangtok West	Gangtok / Sikkim	Apartment / 2 BHK	1135	₹15,300/month	Semi-Furnished	3	Bachelors	Rent
+476	Sikkim Properties (Sikkim.txt)	2 BHK Independent House	Namchi Residential Area	Namchi / Sikkim	Independent House / 2 BHK	1289	₹50.65 L	Fully-Furnished	2	Bachelors	Sale
+477	Sikkim Properties (Sikkim.txt)	2 BHK Apartment	Namchi Central	Namchi / Sikkim	Apartment / 2 BHK	922	₹12,800/month	Unfurnished	1	Family	Rent
+478	Sikkim Properties (Sikkim.txt)	3 BHK Apartment	Gyalshing Extension	Gyalshing / Sikkim	Apartment / 3 BHK	1143	₹16,100/month	Fully-Furnished	3	Any	Rent
+479	Sikkim Properties (Sikkim.txt)	3 BHK Independent House	Gyalshing Main Road	Gyalshing / Sikkim	Independent House / 3 BHK	1284	₹19,500/month	Fully-Furnished	4	Any	Rent
+480	Sikkim Properties (Sikkim.txt)	4 BHK Independent House	Gangtok West	Gangtok / Sikkim	Independent House / 4 BHK	1928	₹76.46 L	Unfurnished	4	Any	Sale
+481	Sikkim Properties (Sikkim.txt)	3 BHK Apartment	Gangtok East	Gangtok / Sikkim	Apartment / 3 BHK	1140	₹55.64 L	Semi-Furnished	3	Family	Sale
+482	Sikkim Properties (Sikkim.txt)	2 BHK Apartment	Gyalshing Colony	Gyalshing / Sikkim	Apartment / 2 BHK	1049	₹44.36 L	Semi-Furnished	2	Bachelors	Sale
+483	Sikkim Properties (Sikkim.txt)	2 BHK Apartment	Gangtok East	Gangtok / Sikkim	Apartment / 2 BHK	826	₹40.98 L	Unfurnished	2	Any	Sale
+484	Sikkim Properties (Sikkim.txt)	1 BHK Apartment	Gyalshing Heights	Gyalshing / Sikkim	Apartment / 1 BHK	604	₹8,500/month	Semi-Furnished	1	Family	Rent
+485	Sikkim Properties (Sikkim.txt)	1 BHK Apartment	Gangtok Central	Gangtok / Sikkim	Apartment / 1 BHK	566	₹30.21 L	Unfurnished	1	Family	Sale
+486	Sikkim Properties (Sikkim.txt)	2 BHK Apartment	Gyalshing East	Gyalshing / Sikkim	Apartment / 2 BHK	758	₹14,300/month	Fully-Furnished	3	Any	Rent
+487	Sikkim Properties (Sikkim.txt)	1 BHK Studio	Gyalshing Sector 3	Gyalshing / Sikkim	Studio / 1 BHK	442	₹31.67 L	Semi-Furnished	2	Family	Sale
+488	Sikkim Properties (Sikkim.txt)	2 BHK Apartment	Gangtok Nagar	Gangtok / Sikkim	Apartment / 2 BHK	780	₹52.49 L	Semi-Furnished	2	Bachelors	Sale
+489	Sikkim Properties (Sikkim.txt)	2 BHK Independent House	Namchi Extension	Namchi / Sikkim	Independent House / 2 BHK	716	₹11,200/month	Semi-Furnished	2	Family	Rent
+490	Sikkim Properties (Sikkim.txt)	1 BHK Apartment	Gyalshing South	Gyalshing / Sikkim	Apartment / 1 BHK	445	₹28.04 L	Semi-Furnished	1	Family	Sale
+491	Sikkim Properties (Sikkim.txt)	3 BHK Apartment	Gyalshing Sector 2	Gyalshing / Sikkim	Apartment / 3 BHK	1139	₹71.79 L	Fully-Furnished	4	Any	Sale
+492	Sikkim Properties (Sikkim.txt)	3 BHK Apartment	Namchi Nagar	Namchi / Sikkim	Apartment / 3 BHK	813	₹13,100/month	Unfurnished	2	Bachelors	Rent
+493	Sikkim Properties (Sikkim.txt)	2 BHK Builder Floor	Namchi Nagar	Namchi / Sikkim	Builder Floor / 2 BHK	926	₹40 L	Semi-Furnished	2	Family	Sale
+494	Sikkim Properties (Sikkim.txt)	2 BHK Apartment	Gangtok Central	Gangtok / Sikkim	Apartment / 2 BHK	1066	₹39.43 L	Fully-Furnished	3	Family	Sale
+495	Sikkim Properties (Sikkim.txt)	3 BHK Apartment	Gangtok Extension	Gangtok / Sikkim	Apartment / 3 BHK	1260	₹73.11 L	Semi-Furnished	3	Family	Sale
+496	Sikkim Properties (Sikkim.txt)	1 BHK Studio	Gangtok Nagar	Gangtok / Sikkim	Studio / 1 BHK	437	₹27.59 L	Unfurnished	1	Family	Sale
+497	Sikkim Properties (Sikkim.txt)	4 BHK Apartment	Gyalshing Nagar	Gyalshing / Sikkim	Apartment / 4 BHK	1285	₹79.82 L	Unfurnished	3	Family	Sale
+498	Sikkim Properties (Sikkim.txt)	3 BHK Independent House	Namchi Sector 3	Namchi / Sikkim	Independent House / 3 BHK	1322	₹58.24 L	Fully-Furnished	3	Family	Sale
+499	Sikkim Properties (Sikkim.txt)	2 BHK Builder Floor	Gyalshing North	Gyalshing / Sikkim	Builder Floor / 2 BHK	741	₹14,200/month	Semi-Furnished	2	Any	Rent
+500	Sikkim Properties (Sikkim.txt)	3 BHK Villa	Gyalshing Town Centre	Gyalshing / Sikkim	Villa / 3 BHK	1927	₹21,100/month	Semi-Furnished	3	Family	Rent
+501	Sikkim Properties (Sikkim.txt)	3 BHK Apartment	Namchi Heights	Namchi / Sikkim	Apartment / 3 BHK	1259	₹73.92 L	Semi-Furnished	4	Family	Sale
+502	Sikkim Properties (Sikkim.txt)	2 BHK Independent House	Namchi Residential Area	Namchi / Sikkim	Independent House / 2 BHK	836	₹11,900/month	Semi-Furnished	3	Family	Rent
+503	Sikkim Properties (Sikkim.txt)	3 BHK Independent House	Namchi Heights	Namchi / Sikkim	Independent House / 3 BHK	1350	₹14,500/month	Fully-Furnished	3	Bachelors	Rent
+504	Sikkim Properties (Sikkim.txt)	1 BHK Independent House	Gyalshing Main Road	Gyalshing / Sikkim	Independent House / 1 BHK	520	₹32.88 L	Semi-Furnished	1	Family	Sale
+505	Sikkim Properties (Sikkim.txt)	2 BHK Villa	Gyalshing North	Gyalshing / Sikkim	Villa / 2 BHK	995	₹43.04 L	Semi-Furnished	2	Family	Sale
+506	Sikkim Properties (Sikkim.txt)	3 BHK Apartment	Gangtok West	Gangtok / Sikkim	Apartment / 3 BHK	1446	₹76.29 L	Semi-Furnished	3	Family	Sale
+507	Sikkim Properties (Sikkim.txt)	1 BHK Apartment	Namchi Town Centre	Namchi / Sikkim	Apartment / 1 BHK	594	₹26.23 L	Semi-Furnished	1	Bachelors	Sale
+508	Sikkim Properties (Sikkim.txt)	1 BHK Studio	Namchi South	Namchi / Sikkim	Studio / 1 BHK	358	₹6,600/month	Semi-Furnished	1	Family	Rent
+509	Sikkim Properties (Sikkim.txt)	2 BHK Independent House	Namchi Residential Area	Namchi / Sikkim	Independent House / 2 BHK	943	₹41.57 L	Fully-Furnished	2	Family	Sale
+510	Sikkim Properties (Sikkim.txt)	3 BHK Villa	Gangtok North	Gangtok / Sikkim	Villa / 3 BHK	1826	₹68.56 L	Semi-Furnished	3	Any	Sale
+511	Sikkim Properties (Sikkim.txt)	3 BHK Builder Floor	Gyalshing Main Road	Gyalshing / Sikkim	Builder Floor / 3 BHK	1408	₹75.65 L	Semi-Furnished	3	Family	Sale
+512	Sikkim Properties (Sikkim.txt)	1 BHK Apartment	Gyalshing Town Centre	Gyalshing / Sikkim	Apartment / 1 BHK	440	₹27.46 L	Unfurnished	2	Any	Sale
+513	Sikkim Properties (Sikkim.txt)	4 BHK Independent House	Gangtok Residential Area	Gangtok / Sikkim	Independent House / 4 BHK	1638	₹22,400/month	Unfurnished	3	Bachelors	Rent
+514	Sikkim Properties (Sikkim.txt)	3 BHK Apartment	Gangtok East	Gangtok / Sikkim	Apartment / 3 BHK	1365	₹15,800/month	Semi-Furnished	3	Bachelors	Rent
+515	Sikkim Properties (Sikkim.txt)	4 BHK Independent House	Namchi Colony	Namchi / Sikkim	Independent House / 4 BHK	1754	₹22,500/month	Fully-Furnished	5	Family	Rent
+516	Sikkim Properties (Sikkim.txt)	3 BHK Apartment	Namchi Colony	Namchi / Sikkim	Apartment / 3 BHK	672	₹14,500/month	Semi-Furnished	4	Any	Rent
+517	Sikkim Properties (Sikkim.txt)	3 BHK Apartment	Gangtok Residential Area	Gangtok / Sikkim	Apartment / 3 BHK	1266	₹13,900/month	Semi-Furnished	3	Family	Rent
+518	Sikkim Properties (Sikkim.txt)	1 BHK Apartment	Gangtok Sector 2	Gangtok / Sikkim	Apartment / 1 BHK	568	₹9,800/month	Unfurnished	1	Any	Rent
+519	Sikkim Properties (Sikkim.txt)	1 BHK Apartment	Namchi West	Namchi / Sikkim	Apartment / 1 BHK	523	₹7,600/month	Fully-Furnished	2	Bachelors	Rent
+520	Sikkim Properties (Sikkim.txt)	3 BHK Villa	Gyalshing Nagar	Gyalshing / Sikkim	Villa / 3 BHK	2101	₹77.51 L	Fully-Furnished	2	Family	Sale
+521	Sikkim Properties (Sikkim.txt)	1 BHK Apartment	Gangtok Central	Gangtok / Sikkim	Apartment / 1 BHK	563	₹8,300/month	Fully-Furnished	1	Family	Rent
+522	Sikkim Properties (Sikkim.txt)	1 BHK Studio	Namchi Nagar	Namchi / Sikkim	Studio / 1 BHK	340	₹22.89 L	Semi-Furnished	2	Family	Sale
+523	Sikkim Properties (Sikkim.txt)	3 BHK Independent House	Gyalshing Extension	Gyalshing / Sikkim	Independent House / 3 BHK	1340	₹57.01 L	Unfurnished	3	Family	Sale
+524	Sikkim Properties (Sikkim.txt)	3 BHK Independent House	Gyalshing North	Gyalshing / Sikkim	Independent House / 3 BHK	1468	₹68.07 L	Semi-Furnished	3	Family	Sale
+525	Sikkim Properties (Sikkim.txt)	2 BHK Apartment	Namchi South	Namchi / Sikkim	Apartment / 2 BHK	894	₹15,000/month	Semi-Furnished	2	Family	Rent
+526	Sikkim Properties (Sikkim.txt)	3 BHK Villa	Gangtok Extension	Gangtok / Sikkim	Villa / 3 BHK	1818	₹67.30 L	Semi-Furnished	4	Any	Sale
+527	Sikkim Properties (Sikkim.txt)	2 BHK Apartment	Namchi Colony	Namchi / Sikkim	Apartment / 2 BHK	925	₹14,200/month	Unfurnished	2	Family	Rent
+528	Sikkim Properties (Sikkim.txt)	4 BHK Apartment	Gangtok Central	Gangtok / Sikkim	Apartment / 4 BHK	2069	₹84.04 L	Semi-Furnished	3	Bachelors	Sale
+529	Sikkim Properties (Sikkim.txt)	1 BHK Studio	Namchi Sector 1	Namchi / Sikkim	Studio / 1 BHK	377	₹32.37 L	Unfurnished	1	Bachelors	Sale
+530	Sikkim Properties (Sikkim.txt)	2 BHK Builder Floor	Gyalshing Sector 2	Gyalshing / Sikkim	Builder Floor / 2 BHK	822	₹49.67 L	Fully-Furnished	1	Any	Sale
+531	Sikkim Properties (Sikkim.txt)	3 BHK Apartment	Namchi Heights	Namchi / Sikkim	Apartment / 3 BHK	1020	₹16,800/month	Semi-Furnished	3	Bachelors	Rent
+532	Sikkim Properties (Sikkim.txt)	2 BHK Apartment	Gyalshing Colony	Gyalshing / Sikkim	Apartment / 2 BHK	870	₹50.89 L	Semi-Furnished	2	Bachelors	Sale
+533	Sikkim Properties (Sikkim.txt)	1 BHK Independent House	Gangtok Main Road	Gangtok / Sikkim	Independent House / 1 BHK	574	₹27.89 L	Semi-Furnished	1	Family	Sale
+534	Sikkim Properties (Sikkim.txt)	2 BHK Apartment	Gangtok East	Gangtok / Sikkim	Apartment / 2 BHK	730	₹41.23 L	Fully-Furnished	2	Any	Sale
+535	Sikkim Properties (Sikkim.txt)	5 BHK Apartment	Gyalshing Sector 2	Gyalshing / Sikkim	Apartment / 5 BHK	2023	₹87.06 L	Semi-Furnished	5	Bachelors	Sale
+536	Sikkim Properties (Sikkim.txt)	2 BHK Builder Floor	Namchi Nagar	Namchi / Sikkim	Builder Floor / 2 BHK	1075	₹15,300/month	Fully-Furnished	2	Family	Rent
+537	Sikkim Properties (Sikkim.txt)	3 BHK Builder Floor	Gyalshing Central	Gyalshing / Sikkim	Builder Floor / 3 BHK	1348	₹18,600/month	Fully-Furnished	2	Family	Rent
+538	Sikkim Properties (Sikkim.txt)	3 BHK Apartment	Gyalshing South	Gyalshing / Sikkim	Apartment / 3 BHK	1190	₹53.49 L	Fully-Furnished	3	Family	Sale
+539	Sikkim Properties (Sikkim.txt)	2 BHK Apartment	Gangtok Central	Gangtok / Sikkim	Apartment / 2 BHK	845	₹39.48 L	Fully-Furnished	2	Any	Sale
+540	Sikkim Properties (Sikkim.txt)	2 BHK Apartment	Gyalshing West	Gyalshing / Sikkim	Apartment / 2 BHK	880	₹10,700/month	Semi-Furnished	2	Bachelors	Rent
+541	Sikkim Properties (Sikkim.txt)	1 BHK Independent House	Namchi West	Namchi / Sikkim	Independent House / 1 BHK	561	₹33.49 L	Semi-Furnished	1	Family	Sale
+542	Sikkim Properties (Sikkim.txt)	1 BHK Studio	Namchi Main Road	Namchi / Sikkim	Studio / 1 BHK	402	₹23.50 L	Fully-Furnished	1	Family	Sale
+543	Sikkim Properties (Sikkim.txt)	1 BHK Studio	Namchi Sector 3	Namchi / Sikkim	Studio / 1 BHK	425	₹28.68 L	Semi-Furnished	1	Family	Sale
+544	Sikkim Properties (Sikkim.txt)	4 BHK Apartment	Gangtok Extension	Gangtok / Sikkim	Apartment / 4 BHK	1420	₹19,300/month	Unfurnished	4	Family	Rent
+545	Sikkim Properties (Sikkim.txt)	1 BHK Apartment	Gyalshing Main Road	Gyalshing / Sikkim	Apartment / 1 BHK	506	₹31.54 L	Fully-Furnished	1	Bachelors	Sale
+546	Sikkim Properties (Sikkim.txt)	1 BHK Apartment	Gyalshing Extension	Gyalshing / Sikkim	Apartment / 1 BHK	609	₹8,100/month	Semi-Furnished	1	Bachelors	Rent
+547	Sikkim Properties (Sikkim.txt)	2 BHK Apartment	Gangtok East	Gangtok / Sikkim	Apartment / 2 BHK	973	₹12,500/month	Unfurnished	1	Bachelors	Rent
+548	Sikkim Properties (Sikkim.txt)	3 BHK Apartment	Gangtok Central	Gangtok / Sikkim	Apartment / 3 BHK	930	₹66.47 L	Unfurnished	2	Any	Sale
+549	Sikkim Properties (Sikkim.txt)	3 BHK Builder Floor	Gangtok East	Gangtok / Sikkim	Builder Floor / 3 BHK	1478	₹20,300/month	Unfurnished	3	Family	Rent
+550	Sikkim Properties (Sikkim.txt)	1 BHK Apartment	Gyalshing Sector 1	Gyalshing / Sikkim	Apartment / 1 BHK	589	₹9,700/month	Semi-Furnished	1	Family	Rent
+551	Sikkim Properties (Sikkim.txt)	2 BHK Apartment	Gyalshing North	Gyalshing / Sikkim	Apartment / 2 BHK	909	₹13,900/month	Unfurnished	2	Family	Rent
+552	Sikkim Properties (Sikkim.txt)	2 BHK Apartment	Gangtok Colony	Gangtok / Sikkim	Apartment / 2 BHK	845	₹14,900/month	Unfurnished	2	Family	Rent
+553	Sikkim Properties (Sikkim.txt)	2 BHK Builder Floor	Gyalshing Nagar	Gyalshing / Sikkim	Builder Floor / 2 BHK	754	₹51.16 L	Semi-Furnished	3	Bachelors	Sale
+554	Sikkim Properties (Sikkim.txt)	3 BHK Villa	Gangtok Sector 3	Gangtok / Sikkim	Villa / 3 BHK	1908	₹70.54 L	Unfurnished	3	Bachelors	Sale
+555	Sikkim Properties (Sikkim.txt)	2 BHK Independent House	Namchi North	Namchi / Sikkim	Independent House / 2 BHK	1293	₹41.36 L	Fully-Furnished	2	Family	Sale
+556	Sikkim Properties (Sikkim.txt)	1 BHK Apartment	Gyalshing North	Gyalshing / Sikkim	Apartment / 1 BHK	499	₹32.53 L	Fully-Furnished	1	Bachelors	Sale
+557	Sikkim Properties (Sikkim.txt)	2 BHK Apartment	Gyalshing Sector 3	Gyalshing / Sikkim	Apartment / 2 BHK	942	₹56.19 L	Semi-Furnished	2	Family	Sale
+558	Sikkim Properties (Sikkim.txt)	3 BHK Apartment	Gangtok West	Gangtok / Sikkim	Apartment / 3 BHK	1255	₹15,300/month	Fully-Furnished	3	Family	Rent
+559	Sikkim Properties (Sikkim.txt)	4 BHK Apartment	Namchi Central	Namchi / Sikkim	Apartment / 4 BHK	1623	₹23,000/month	Unfurnished	4	Family	Rent
+560	Sikkim Properties (Sikkim.txt)	1 BHK Builder Floor	Gangtok Extension	Gangtok / Sikkim	Builder Floor / 1 BHK	545	₹31.24 L	Unfurnished	1	Family	Sale
+561	Sikkim Properties (Sikkim.txt)	3 BHK Apartment	Namchi North	Namchi / Sikkim	Apartment / 3 BHK	1007	₹54.12 L	Semi-Furnished	2	Bachelors	Sale
+562	Sikkim Properties (Sikkim.txt)	3 BHK Villa	Gyalshing Extension	Gyalshing / Sikkim	Villa / 3 BHK	1387	₹62.75 L	Semi-Furnished	3	Bachelors	Sale
+563	Sikkim Properties (Sikkim.txt)	1 BHK Builder Floor	Gangtok Central	Gangtok / Sikkim	Builder Floor / 1 BHK	565	₹9,700/month	Semi-Furnished	1	Bachelors	Rent
+564	Sikkim Properties (Sikkim.txt)	4 BHK Apartment	Gangtok Residential Area	Gangtok / Sikkim	Apartment / 4 BHK	1981	₹81.05 L	Semi-Furnished	4	Any	Sale
+565	Sikkim Properties (Sikkim.txt)	2 BHK Independent House	Namchi Heights	Namchi / Sikkim	Independent House / 2 BHK	893	₹10,600/month	Semi-Furnished	3	Family	Rent
+566	Sikkim Properties (Sikkim.txt)	3 BHK Apartment	Gangtok Sector 2	Gangtok / Sikkim	Apartment / 3 BHK	1386	₹64.05 L	Fully-Furnished	4	Any	Sale
+567	Sikkim Properties (Sikkim.txt)	3 BHK Apartment	Gyalshing South	Gyalshing / Sikkim	Apartment / 3 BHK	1394	₹15,500/month	Fully-Furnished	3	Bachelors	Rent
+568	Sikkim Properties (Sikkim.txt)	2 BHK Builder Floor	Gyalshing East	Gyalshing / Sikkim	Builder Floor / 2 BHK	693	₹13,600/month	Unfurnished	2	Family	Rent
+569	Sikkim Properties (Sikkim.txt)	2 BHK Builder Floor	Gyalshing Sector 1	Gyalshing / Sikkim	Builder Floor / 2 BHK	844	₹13,400/month	Unfurnished	2	Any	Rent
+570	Sikkim Properties (Sikkim.txt)	3 BHK Builder Floor	Gyalshing Heights	Gyalshing / Sikkim	Builder Floor / 3 BHK	1414	₹67.69 L	Semi-Furnished	2	Bachelors	Sale
+571	Sikkim Properties (Sikkim.txt)	2 BHK Apartment	Gyalshing South	Gyalshing / Sikkim	Apartment / 2 BHK	939	₹43.36 L	Semi-Furnished	2	Family	Sale
+572	Sikkim Properties (Sikkim.txt)	1 BHK Studio	Gangtok Central	Gangtok / Sikkim	Studio / 1 BHK	496	₹6,700/month	Fully-Furnished	2	Family	Rent
+573	Sikkim Properties (Sikkim.txt)	2 BHK Apartment	Namchi North	Namchi / Sikkim	Apartment / 2 BHK	822	₹10,600/month	Semi-Furnished	3	Any	Rent
+574	Sikkim Properties (Sikkim.txt)	2 BHK Apartment	Gyalshing Town Centre	Gyalshing / Sikkim	Apartment / 2 BHK	877	₹49.96 L	Semi-Furnished	2	Any	Sale
+575	Sikkim Properties (Sikkim.txt)	1 BHK Studio	Gyalshing East	Gyalshing / Sikkim	Studio / 1 BHK	384	₹8,400/month	Semi-Furnished	1	Family	Rent
+576	Sikkim Properties (Sikkim.txt)	1 BHK Independent House	Gangtok Sector 3	Gangtok / Sikkim	Independent House / 1 BHK	697	₹32.83 L	Semi-Furnished	2	Any	Sale
+577	Sikkim Properties (Sikkim.txt)	3 BHK Apartment	Gyalshing East	Gyalshing / Sikkim	Apartment / 3 BHK	1159	₹66.40 L	Unfurnished	3	Bachelors	Sale
+578	Sikkim Properties (Sikkim.txt)	1 BHK Apartment	Namchi Colony	Namchi / Sikkim	Apartment / 1 BHK	580	₹31.75 L	Fully-Furnished	1	Bachelors	Sale
+579	Sikkim Properties (Sikkim.txt)	1 BHK Apartment	Gangtok Sector 3	Gangtok / Sikkim	Apartment / 1 BHK	510	₹7,400/month	Semi-Furnished	1	Any	Rent
+580	Sikkim Properties (Sikkim.txt)	3 BHK Apartment	Gyalshing Sector 1	Gyalshing / Sikkim	Apartment / 3 BHK	1440	₹56.13 L	Semi-Furnished	3	Family	Sale
+581	Sikkim Properties (Sikkim.txt)	1 BHK Builder Floor	Gyalshing Sector 1	Gyalshing / Sikkim	Builder Floor / 1 BHK	399	₹32.15 L	Unfurnished	2	Family	Sale
+582	Sikkim Properties (Sikkim.txt)	2 BHK Apartment	Gyalshing Sector 1	Gyalshing / Sikkim	Apartment / 2 BHK	1088	₹51.91 L	Semi-Furnished	3	Any	Sale
+583	Sikkim Properties (Sikkim.txt)	3 BHK Apartment	Namchi West	Namchi / Sikkim	Apartment / 3 BHK	1219	₹56.44 L	Semi-Furnished	4	Family	Sale
+584	Sikkim Properties (Sikkim.txt)	1 BHK Apartment	Namchi Main Road	Namchi / Sikkim	Apartment / 1 BHK	491	₹7,400/month	Fully-Furnished	2	Bachelors	Rent
+585	Sikkim Properties (Sikkim.txt)	2 BHK Apartment	Gyalshing Sector 2	Gyalshing / Sikkim	Apartment / 2 BHK	832	₹49.35 L	Semi-Furnished	2	Any	Sale
+586	Sikkim Properties (Sikkim.txt)	3 BHK Apartment	Namchi Heights	Namchi / Sikkim	Apartment / 3 BHK	1441	₹19,800/month	Semi-Furnished	3	Bachelors	Rent
+587	Sikkim Properties (Sikkim.txt)	2 BHK Apartment	Gyalshing East	Gyalshing / Sikkim	Apartment / 2 BHK	789	₹47.80 L	Semi-Furnished	2	Any	Sale
+588	Sikkim Properties (Sikkim.txt)	2 BHK Apartment	Gangtok Main Road	Gangtok / Sikkim	Apartment / 2 BHK	955	₹54.56 L	Fully-Furnished	2	Any	Sale
+589	Sikkim Properties (Sikkim.txt)	1 BHK Apartment	Namchi Sector 3	Namchi / Sikkim	Apartment / 1 BHK	483	₹26.87 L	Semi-Furnished	1	Bachelors	Sale
+590	Sikkim Properties (Sikkim.txt)	3 BHK Apartment	Gyalshing Town Centre	Gyalshing / Sikkim	Apartment / 3 BHK	1360	₹74.97 L	Semi-Furnished	3	Any	Sale
+591	Sikkim Properties (Sikkim.txt)	3 BHK Independent House	Gyalshing Extension	Gyalshing / Sikkim	Independent House / 3 BHK	1366	₹14,100/month	Semi-Furnished	2	Family	Rent
+592	Sikkim Properties (Sikkim.txt)	3 BHK Apartment	Gyalshing Extension	Gyalshing / Sikkim	Apartment / 3 BHK	1275	₹71.15 L	Semi-Furnished	3	Any	Sale
+593	Sikkim Properties (Sikkim.txt)	2 BHK Builder Floor	Gyalshing Nagar	Gyalshing / Sikkim	Builder Floor / 2 BHK	1020	₹12,600/month	Fully-Furnished	2	Family	Rent
+594	Sikkim Properties (Sikkim.txt)	2 BHK Independent House	Gangtok Heights	Gangtok / Sikkim	Independent House / 2 BHK	1121	₹45.76 L	Unfurnished	2	Bachelors	Sale
+595	Sikkim Properties (Sikkim.txt)	2 BHK Apartment	Namchi Heights	Namchi / Sikkim	Apartment / 2 BHK	775	₹37.24 L	Unfurnished	2	Any	Sale
+596	Sikkim Properties (Sikkim.txt)	5 BHK Builder Floor	Gyalshing East	Gyalshing / Sikkim	Builder Floor / 5 BHK	2285	₹1.01 Cr	Semi-Furnished	5	Any	Sale
+597	Sikkim Properties (Sikkim.txt)	2 BHK Apartment	Namchi West	Namchi / Sikkim	Apartment / 2 BHK	724	₹46.89 L	Unfurnished	2	Family	Sale
+598	Sikkim Properties (Sikkim.txt)	3 BHK Apartment	Gangtok Nagar	Gangtok / Sikkim	Apartment / 3 BHK	901	₹48.10 L	Fully-Furnished	4	Family	Sale
+599	Sikkim Properties (Sikkim.txt)	4 BHK Builder Floor	Gyalshing Colony	Gyalshing / Sikkim	Builder Floor / 4 BHK	1483	₹79.22 L	Semi-Furnished	4	Bachelors	Sale
+600	Sikkim Properties (Sikkim.txt)	3 BHK Builder Floor	Gyalshing Nagar	Gyalshing / Sikkim	Builder Floor / 3 BHK	938	₹52 L	Semi-Furnished	3	Bachelors	Sale
+601	Sikkim Properties (Sikkim.txt)	2 BHK Apartment	Namchi Town Centre	Namchi / Sikkim	Apartment / 2 BHK	809	₹47.96 L	Fully-Furnished	3	Family	Sale
+602	Sikkim Properties (Sikkim.txt)	2 BHK Apartment	Gangtok Town Centre	Gangtok / Sikkim	Apartment / 2 BHK	662	₹39.66 L	Semi-Furnished	2	Bachelors	Sale
+603	Sikkim Properties (Sikkim.txt)	2 BHK Apartment	Gyalshing West	Gyalshing / Sikkim	Apartment / 2 BHK	903	₹42.34 L	Semi-Furnished	2	Any	Sale
+604	Sikkim Properties (Sikkim.txt)	3 BHK Independent House	Namchi Sector 1	Namchi / Sikkim	Independent House / 3 BHK	1519	₹15,300/month	Unfurnished	3	Bachelors	Rent
+605	Sikkim Properties (Sikkim.txt)	3 BHK Apartment	Gangtok East	Gangtok / Sikkim	Apartment / 3 BHK	1324	₹71.88 L	Semi-Furnished	2	Bachelors	Sale
+606	Sikkim Properties (Sikkim.txt)	2 BHK Apartment	Gangtok Colony	Gangtok / Sikkim	Apartment / 2 BHK	925	₹11,200/month	Fully-Furnished	2	Bachelors	Rent
+607	Sikkim Properties (Sikkim.txt)	3 BHK Apartment	Gangtok Sector 1	Gangtok / Sikkim	Apartment / 3 BHK	1231	₹69.24 L	Semi-Furnished	3	Family	Sale
+608	Sikkim Properties (Sikkim.txt)	2 BHK Apartment	Gyalshing Residential Area	Gyalshing / Sikkim	Apartment / 2 BHK	815	₹14,500/month	Fully-Furnished	2	Bachelors	Rent
+609	Sikkim Properties (Sikkim.txt)	2 BHK Villa	Gangtok Colony	Gangtok / Sikkim	Villa / 2 BHK	1041	₹52.77 L	Fully-Furnished	2	Bachelors	Sale
+610	Sikkim Properties (Sikkim.txt)	4 BHK Apartment	Namchi Extension	Namchi / Sikkim	Apartment / 4 BHK	1582	₹91.96 L	Semi-Furnished	3	Family	Sale
+611	Sikkim Properties (Sikkim.txt)	4 BHK Apartment	Gangtok Sector 2	Gangtok / Sikkim	Apartment / 4 BHK	1240	₹69.61 L	Semi-Furnished	3	Bachelors	Sale
+612	Sikkim Properties (Sikkim.txt)	3 BHK Villa	Namchi Main Road	Namchi / Sikkim	Villa / 3 BHK	1757	₹65.98 L	Unfurnished	3	Family	Sale
+613	Sikkim Properties (Sikkim.txt)	3 BHK Apartment	Gangtok Residential Area	Gangtok / Sikkim	Apartment / 3 BHK	1363	₹19,500/month	Unfurnished	3	Bachelors	Rent
+614	Sikkim Properties (Sikkim.txt)	2 BHK Apartment	Namchi Nagar	Namchi / Sikkim	Apartment / 2 BHK	761	₹49.70 L	Semi-Furnished	1	Bachelors	Sale
+615	Sikkim Properties (Sikkim.txt)	2 BHK Villa	Namchi Central	Namchi / Sikkim	Villa / 2 BHK	1390	₹62.14 L	Semi-Furnished	1	Any	Sale
+616	Sikkim Properties (Sikkim.txt)	3 BHK Apartment	Gyalshing North	Gyalshing / Sikkim	Apartment / 3 BHK	1240	₹67.69 L	Semi-Furnished	3	Any	Sale
+617	Sikkim Properties (Sikkim.txt)	1 BHK Studio	Namchi West	Namchi / Sikkim	Studio / 1 BHK	435	₹33.62 L	Semi-Furnished	2	Family	Sale
+618	Sikkim Properties (Sikkim.txt)	1 BHK Builder Floor	Gangtok Residential Area	Gangtok / Sikkim	Builder Floor / 1 BHK	568	₹9,500/month	Semi-Furnished	1	Any	Rent
+619	Sikkim Properties (Sikkim.txt)	3 BHK Builder Floor	Gangtok Extension	Gangtok / Sikkim	Builder Floor / 3 BHK	1231	₹54.89 L	Semi-Furnished	3	Any	Sale
+620	Sikkim Properties (Sikkim.txt)	3 BHK Builder Floor	Gangtok Heights	Gangtok / Sikkim	Builder Floor / 3 BHK	1399	₹54.84 L	Semi-Furnished	3	Any	Sale
+621	Sikkim Properties (Sikkim.txt)	4 BHK Builder Floor	Gangtok Extension	Gangtok / Sikkim	Builder Floor / 4 BHK	1885	₹24,300/month	Semi-Furnished	4	Family	Rent
+622	Sikkim Properties (Sikkim.txt)	1 BHK Apartment	Gyalshing Heights	Gyalshing / Sikkim	Apartment / 1 BHK	632	₹29.94 L	Semi-Furnished	1	Family	Sale
+623	Sikkim Properties (Sikkim.txt)	4 BHK Independent House	Namchi Town Centre	Namchi / Sikkim	Independent House / 4 BHK	1938	₹70.50 L	Unfurnished	5	Family	Sale
+624	Sikkim Properties (Sikkim.txt)	3 BHK Villa	Namchi Extension	Namchi / Sikkim	Villa / 3 BHK	1709	₹56.09 L	Semi-Furnished	3	Bachelors	Sale
+625	Sikkim Properties (Sikkim.txt)	2 BHK Builder Floor	Namchi Heights	Namchi / Sikkim	Builder Floor / 2 BHK	832	₹14,700/month	Fully-Furnished	3	Any	Rent
+626	Sikkim Properties (Sikkim.txt)	4 BHK Villa	Gangtok Residential Area	Gangtok / Sikkim	Villa / 4 BHK	2547	₹28,100/month	Fully-Furnished	4	Any	Rent
+627	Sikkim Properties (Sikkim.txt)	4 BHK Apartment	Gyalshing Sector 2	Gyalshing / Sikkim	Apartment / 4 BHK	1784	₹21,300/month	Semi-Furnished	4	Family	Rent
+628	Sikkim Properties (Sikkim.txt)	3 BHK Apartment	Namchi Sector 2	Namchi / Sikkim	Apartment / 3 BHK	1207	₹74.46 L	Unfurnished	3	Bachelors	Sale
+629	Sikkim Properties (Sikkim.txt)	2 BHK Apartment	Namchi Sector 3	Namchi / Sikkim	Apartment / 2 BHK	982	₹50.73 L	Fully-Furnished	2	Family	Sale
+630	Sikkim Properties (Sikkim.txt)	4 BHK Builder Floor	Namchi South	Namchi / Sikkim	Builder Floor / 4 BHK	1707	₹82.02 L	Fully-Furnished	5	Family	Sale
+631	Sikkim Properties (Sikkim.txt)	3 BHK Independent House	Gyalshing Colony	Gyalshing / Sikkim	Independent House / 3 BHK	1288	₹70.14 L	Semi-Furnished	3	Bachelors	Sale
+632	Sikkim Properties (Sikkim.txt)	4 BHK Independent House	Namchi Sector 3	Namchi / Sikkim	Independent House / 4 BHK	2160	₹20,400/month	Semi-Furnished	4	Any	Rent
+633	Sikkim Properties (Sikkim.txt)	4 BHK Apartment	Gyalshing Main Road	Gyalshing / Sikkim	Apartment / 4 BHK	1863	₹93.07 L	Unfurnished	4	Any	Sale
+634	Sikkim Properties (Sikkim.txt)	2 BHK Apartment	Namchi South	Namchi / Sikkim	Apartment / 2 BHK	934	₹13,300/month	Fully-Furnished	2	Any	Rent
+635	Sikkim Properties (Sikkim.txt)	3 BHK Apartment	Gyalshing Heights	Gyalshing / Sikkim	Apartment / 3 BHK	1168	₹17,900/month	Semi-Furnished	3	Bachelors	Rent
+636	Sikkim Properties (Sikkim.txt)	1 BHK Studio	Gyalshing Nagar	Gyalshing / Sikkim	Studio / 1 BHK	409	₹24.19 L	Fully-Furnished	1	Family	Sale
+637	Sikkim Properties (Sikkim.txt)	1 BHK Independent House	Namchi Central	Namchi / Sikkim	Independent House / 1 BHK	768	₹28.08 L	Fully-Furnished	1	Family	Sale
+638	Sikkim Properties (Sikkim.txt)	1 BHK Apartment	Namchi North	Namchi / Sikkim	Apartment / 1 BHK	468	₹26.02 L	Fully-Furnished	1	Bachelors	Sale
+639	Sikkim Properties (Sikkim.txt)	2 BHK Independent House	Namchi Extension	Namchi / Sikkim	Independent House / 2 BHK	952	₹14,200/month	Semi-Furnished	2	Bachelors	Rent
+640	Sikkim Properties (Sikkim.txt)	2 BHK Builder Floor	Gangtok West	Gangtok / Sikkim	Builder Floor / 2 BHK	855	₹49.77 L	Unfurnished	2	Family	Sale
+641	Sikkim Properties (Sikkim.txt)	2 BHK Independent House	Namchi South	Namchi / Sikkim	Independent House / 2 BHK	946	₹42.15 L	Fully-Furnished	2	Family	Sale
+642	Sikkim Properties (Sikkim.txt)	3 BHK Independent House	Namchi Extension	Namchi / Sikkim	Independent House / 3 BHK	1702	₹18,800/month	Fully-Furnished	3	Family	Rent
+643	Sikkim Properties (Sikkim.txt)	2 BHK Apartment	Namchi West	Namchi / Sikkim	Apartment / 2 BHK	775	₹46.40 L	Unfurnished	2	Bachelors	Sale
+644	Sikkim Properties (Sikkim.txt)	3 BHK Apartment	Gyalshing South	Gyalshing / Sikkim	Apartment / 3 BHK	1365	₹19,700/month	Fully-Furnished	4	Bachelors	Rent
+645	Sikkim Properties (Sikkim.txt)	4 BHK Builder Floor	Gangtok Heights	Gangtok / Sikkim	Builder Floor / 4 BHK	1758	₹22,000/month	Semi-Furnished	5	Family	Rent
+646	Sikkim Properties (Sikkim.txt)	2 BHK Apartment	Gangtok East	Gangtok / Sikkim	Apartment / 2 BHK	1051	₹55.09 L	Fully-Furnished	2	Family	Sale
+647	Sikkim Properties (Sikkim.txt)	4 BHK Apartment	Namchi Heights	Namchi / Sikkim	Apartment / 4 BHK	2025	₹70.88 L	Semi-Furnished	5	Family	Sale
+648	Sikkim Properties (Sikkim.txt)	1 BHK Builder Floor	Gangtok Nagar	Gangtok / Sikkim	Builder Floor / 1 BHK	495	₹7,500/month	Fully-Furnished	1	Any	Rent
+649	Sikkim Properties (Sikkim.txt)	3 BHK Independent House	Namchi Extension	Namchi / Sikkim	Independent House / 3 BHK	1053	₹60.30 L	Fully-Furnished	3	Bachelors	Sale
+650	Sikkim Properties (Sikkim.txt)	3 BHK Independent House	Gyalshing North	Gyalshing / Sikkim	Independent House / 3 BHK	1879	₹66.28 L	Fully-Furnished	3	Any	Sale
+651	Sikkim Properties (Sikkim.txt)	2 BHK Independent House	Gyalshing Heights	Gyalshing / Sikkim	Independent House / 2 BHK	1220	₹16,000/month	Fully-Furnished	2	Family	Rent
+652	Sikkim Properties (Sikkim.txt)	2 BHK Apartment	Gyalshing West	Gyalshing / Sikkim	Apartment / 2 BHK	781	₹14,200/month	Fully-Furnished	3	Family	Rent
+653	Sikkim Properties (Sikkim.txt)	2 BHK Apartment	Gangtok Residential Area	Gangtok / Sikkim	Apartment / 2 BHK	926	₹48.57 L	Fully-Furnished	2	Any	Sale
+654	Sikkim Properties (Sikkim.txt)	1 BHK Apartment	Namchi Main Road	Namchi / Sikkim	Apartment / 1 BHK	422	₹8,700/month	Fully-Furnished	1	Bachelors	Rent
+655	Sikkim Properties (Sikkim.txt)	3 BHK Builder Floor	Gyalshing Heights	Gyalshing / Sikkim	Builder Floor / 3 BHK	694	₹51.95 L	Semi-Furnished	4	Bachelors	Sale
+656	Sikkim Properties (Sikkim.txt)	1 BHK Studio	Namchi Extension	Namchi / Sikkim	Studio / 1 BHK	300	₹7,300/month	Fully-Furnished	2	Any	Rent
+657	Sikkim Properties (Sikkim.txt)	1 BHK Villa	Namchi Colony	Namchi / Sikkim	Villa / 1 BHK	681	₹7,200/month	Semi-Furnished	2	Family	Rent
+658	Sikkim Properties (Sikkim.txt)	3 BHK Apartment	Gangtok Colony	Gangtok / Sikkim	Apartment / 3 BHK	1088	₹65.04 L	Fully-Furnished	3	Bachelors	Sale
+659	Sikkim Properties (Sikkim.txt)	1 BHK Independent House	Namchi Central	Namchi / Sikkim	Independent House / 1 BHK	561	₹32.56 L	Semi-Furnished	1	Family	Sale
+660	Sikkim Properties (Sikkim.txt)	4 BHK Independent House	Gyalshing Town Centre	Gyalshing / Sikkim	Independent House / 4 BHK	2156	₹22,600/month	Fully-Furnished	5	Family	Rent
+661	Sikkim Properties (Sikkim.txt)	2 BHK Apartment	Gyalshing Sector 3	Gyalshing / Sikkim	Apartment / 2 BHK	1006	₹12,400/month	Semi-Furnished	2	Any	Rent
+662	Sikkim Properties (Sikkim.txt)	1 BHK Independent House	Namchi North	Namchi / Sikkim	Independent House / 1 BHK	496	₹28.49 L	Unfurnished	1	Bachelors	Sale
+663	Sikkim Properties (Sikkim.txt)	4 BHK Apartment	Namchi South	Namchi / Sikkim	Apartment / 4 BHK	1563	₹21,100/month	Fully-Furnished	4	Bachelors	Rent
+664	Sikkim Properties (Sikkim.txt)	4 BHK Apartment	Namchi North	Namchi / Sikkim	Apartment / 4 BHK	1549	₹24,100/month	Semi-Furnished	4	Family	Rent
+665	Sikkim Properties (Sikkim.txt)	4 BHK Apartment	Namchi Colony	Namchi / Sikkim	Apartment / 4 BHK	2066	₹91.93 L	Fully-Furnished	3	Any	Sale
+666	Sikkim Properties (Sikkim.txt)	3 BHK Apartment	Gyalshing Nagar	Gyalshing / Sikkim	Apartment / 3 BHK	1212	₹16,100/month	Unfurnished	3	Family	Rent
+667	Sikkim Properties (Sikkim.txt)	3 BHK Villa	Namchi North	Namchi / Sikkim	Villa / 3 BHK	1952	₹18,300/month	Semi-Furnished	3	Any	Rent
+668	Sikkim Properties (Sikkim.txt)	4 BHK Apartment	Namchi Heights	Namchi / Sikkim	Apartment / 4 BHK	1466	₹73.37 L	Unfurnished	4	Family	Sale
+669	Sikkim Properties (Sikkim.txt)	3 BHK Apartment	Gangtok Sector 2	Gangtok / Sikkim	Apartment / 3 BHK	1156	₹19,400/month	Fully-Furnished	3	Bachelors	Rent
+670	Sikkim Properties (Sikkim.txt)	4 BHK Apartment	Gyalshing West	Gyalshing / Sikkim	Apartment / 4 BHK	1936	₹21,300/month	Unfurnished	4	Bachelors	Rent
+671	Sikkim Properties (Sikkim.txt)	1 BHK Apartment	Namchi Main Road	Namchi / Sikkim	Apartment / 1 BHK	590	₹8,300/month	Unfurnished	2	Any	Rent
+672	Sikkim Properties (Sikkim.txt)	2 BHK Builder Floor	Namchi Central	Namchi / Sikkim	Builder Floor / 2 BHK	681	₹10,800/month	Semi-Furnished	3	Any	Rent
+673	Sikkim Properties (Sikkim.txt)	3 BHK Independent House	Namchi East	Namchi / Sikkim	Independent House / 3 BHK	1752	₹22,100/month	Semi-Furnished	3	Family	Rent
+674	Sikkim Properties (Sikkim.txt)	2 BHK Villa	Namchi Extension	Namchi / Sikkim	Villa / 2 BHK	950	₹11,500/month	Semi-Furnished	3	Bachelors	Rent
+675	Sikkim Properties (Sikkim.txt)	3 BHK Builder Floor	Gangtok Sector 1	Gangtok / Sikkim	Builder Floor / 3 BHK	1351	₹56.87 L	Semi-Furnished	3	Family	Sale
+676	Sikkim Properties (Sikkim.txt)	1 BHK Apartment	Gangtok East	Gangtok / Sikkim	Apartment / 1 BHK	527	₹8,000/month	Unfurnished	1	Any	Rent
+677	Sikkim Properties (Sikkim.txt)	3 BHK Apartment	Gyalshing Colony	Gyalshing / Sikkim	Apartment / 3 BHK	1186	₹62.73 L	Fully-Furnished	3	Family	Sale
+678	Sikkim Properties (Sikkim.txt)	1 BHK Studio	Namchi Nagar	Namchi / Sikkim	Studio / 1 BHK	331	₹6,400/month	Unfurnished	1	Any	Rent
+679	Sikkim Properties (Sikkim.txt)	2 BHK Apartment	Gangtok South	Gangtok / Sikkim	Apartment / 2 BHK	937	₹10,800/month	Fully-Furnished	2	Family	Rent
+680	Sikkim Properties (Sikkim.txt)	2 BHK Independent House	Namchi Central	Namchi / Sikkim	Independent House / 2 BHK	1156	₹56.43 L	Unfurnished	2	Bachelors	Sale
+681	Sikkim Properties (Sikkim.txt)	2 BHK Independent House	Gangtok Central	Gangtok / Sikkim	Independent House / 2 BHK	896	₹38.25 L	Fully-Furnished	2	Family	Sale
+682	Sikkim Properties (Sikkim.txt)	4 BHK Apartment	Gyalshing Nagar	Gyalshing / Sikkim	Apartment / 4 BHK	1627	₹21,900/month	Semi-Furnished	3	Bachelors	Rent
+683	Sikkim Properties (Sikkim.txt)	2 BHK Apartment	Namchi Colony	Namchi / Sikkim	Apartment / 2 BHK	908	₹13,700/month	Semi-Furnished	2	Any	Rent
+684	Sikkim Properties (Sikkim.txt)	2 BHK Apartment	Gangtok North	Gangtok / Sikkim	Apartment / 2 BHK	769	₹45.14 L	Unfurnished	2	Bachelors	Sale
+685	Sikkim Properties (Sikkim.txt)	4 BHK Builder Floor	Gangtok Sector 2	Gangtok / Sikkim	Builder Floor / 4 BHK	1362	₹82.28 L	Fully-Furnished	4	Any	Sale
+686	Sikkim Properties (Sikkim.txt)	2 BHK Villa	Gangtok Sector 1	Gangtok / Sikkim	Villa / 2 BHK	875	₹12,000/month	Semi-Furnished	3	Family	Rent
+687	Sikkim Properties (Sikkim.txt)	2 BHK Apartment	Gangtok Sector 2	Gangtok / Sikkim	Apartment / 2 BHK	850	₹12,200/month	Semi-Furnished	2	Family	Rent
+688	Sikkim Properties (Sikkim.txt)	3 BHK Apartment	Gyalshing Colony	Gyalshing / Sikkim	Apartment / 3 BHK	1518	₹56.87 L	Fully-Furnished	2	Bachelors	Sale
+689	Sikkim Properties (Sikkim.txt)	3 BHK Apartment	Gangtok North	Gangtok / Sikkim	Apartment / 3 BHK	1274	₹68.38 L	Unfurnished	4	Any	Sale
+690	Sikkim Properties (Sikkim.txt)	1 BHK Studio	Gangtok Sector 2	Gangtok / Sikkim	Studio / 1 BHK	412	₹8,700/month	Unfurnished	1	Family	Rent
+691	Sikkim Properties (Sikkim.txt)	3 BHK Villa	Gyalshing Sector 2	Gyalshing / Sikkim	Villa / 3 BHK	1591	₹67.05 L	Semi-Furnished	3	Bachelors	Sale
+692	Sikkim Properties (Sikkim.txt)	2 BHK Apartment	Namchi South	Namchi / Sikkim	Apartment / 2 BHK	724	₹44.56 L	Fully-Furnished	1	Bachelors	Sale
+693	Sikkim Properties (Sikkim.txt)	3 BHK Independent House	Namchi Sector 3	Namchi / Sikkim	Independent House / 3 BHK	1273	₹20,400/month	Semi-Furnished	4	Any	Rent
+694	Sikkim Properties (Sikkim.txt)	3 BHK Builder Floor	Gangtok Colony	Gangtok / Sikkim	Builder Floor / 3 BHK	1426	₹54.07 L	Unfurnished	3	Bachelors	Sale
+695	Sikkim Properties (Sikkim.txt)	1 BHK Studio	Gyalshing Central	Gyalshing / Sikkim	Studio / 1 BHK	354	₹29.78 L	Semi-Furnished	1	Family	Sale
+696	Sikkim Properties (Sikkim.txt)	3 BHK Builder Floor	Gyalshing Heights	Gyalshing / Sikkim	Builder Floor / 3 BHK	1249	₹61.21 L	Semi-Furnished	4	Bachelors	Sale
+697	Sikkim Properties (Sikkim.txt)	2 BHK Independent House	Namchi Town Centre	Namchi / Sikkim	Independent House / 2 BHK	1004	₹52.24 L	Semi-Furnished	3	Family	Sale
+698	Sikkim Properties (Sikkim.txt)	2 BHK Apartment	Namchi Residential Area	Namchi / Sikkim	Apartment / 2 BHK	1082	₹46.02 L	Semi-Furnished	2	Any	Sale
+699	Sikkim Properties (Sikkim.txt)	2 BHK Independent House	Gyalshing Residential Area	Gyalshing / Sikkim	Independent House / 2 BHK	854	₹50.82 L	Unfurnished	2	Family	Sale
+700	Sikkim Properties (Sikkim.txt)	3 BHK Builder Floor	Namchi Sector 3	Namchi / Sikkim	Builder Floor / 3 BHK	1073	₹64.75 L	Semi-Furnished	2	Family	Sale
+701	Sikkim Properties (Sikkim.txt)	3 BHK Apartment	Gyalshing Town Centre	Gyalshing / Sikkim	Apartment / 3 BHK	1346	₹76.97 L	Unfurnished	3	Bachelors	Sale
+702	Sikkim Properties (Sikkim.txt)	2 BHK Apartment	Gyalshing Extension	Gyalshing / Sikkim	Apartment / 2 BHK	813	₹47.60 L	Unfurnished	2	Family	Sale
+703	Sikkim Properties (Sikkim.txt)	2 BHK Apartment	Namchi South	Namchi / Sikkim	Apartment / 2 BHK	900	₹14,400/month	Semi-Furnished	2	Any	Rent
+704	Sikkim Properties (Sikkim.txt)	2 BHK Independent House	Gyalshing Nagar	Gyalshing / Sikkim	Independent House / 2 BHK	979	₹53.47 L	Fully-Furnished	3	Bachelors	Sale
+705	Sikkim Properties (Sikkim.txt)	2 BHK Independent House	Gyalshing South	Gyalshing / Sikkim	Independent House / 2 BHK	858	₹42.60 L	Unfurnished	2	Family	Sale
+706	Sikkim Properties (Sikkim.txt)	1 BHK Apartment	Namchi Extension	Namchi / Sikkim	Apartment / 1 BHK	451	₹31.16 L	Unfurnished	1	Bachelors	Sale
+707	Sikkim Properties (Sikkim.txt)	2 BHK Independent House	Gangtok Main Road	Gangtok / Sikkim	Independent House / 2 BHK	873	₹48.80 L	Semi-Furnished	2	Family	Sale
+708	Sikkim Properties (Sikkim.txt)	1 BHK Apartment	Namchi South	Namchi / Sikkim	Apartment / 1 BHK	503	₹30.45 L	Semi-Furnished	1	Family	Sale
+709	Sikkim Properties (Sikkim.txt)	1 BHK Independent House	Namchi Town Centre	Namchi / Sikkim	Independent House / 1 BHK	655	₹24.95 L	Semi-Furnished	1	Family	Sale
+710	Sikkim Properties (Sikkim.txt)	2 BHK Independent House	Gangtok Colony	Gangtok / Sikkim	Independent House / 2 BHK	985	₹47.90 L	Semi-Furnished	2	Family	Sale
+711	Sikkim Properties (Sikkim.txt)	4 BHK Apartment	Gyalshing East	Gyalshing / Sikkim	Apartment / 4 BHK	1676	₹79.06 L	Semi-Furnished	4	Family	Sale
+712	Sikkim Properties (Sikkim.txt)	2 BHK Apartment	Gyalshing North	Gyalshing / Sikkim	Apartment / 2 BHK	941	₹12,500/month	Semi-Furnished	2	Any	Rent
+713	Sikkim Properties (Sikkim.txt)	3 BHK Apartment	Namchi South	Namchi / Sikkim	Apartment / 3 BHK	1285	₹56.81 L	Semi-Furnished	3	Any	Sale
+714	Sikkim Properties (Sikkim.txt)	2 BHK Apartment	Gyalshing North	Gyalshing / Sikkim	Apartment / 2 BHK	747	₹42.30 L	Fully-Furnished	1	Family	Sale
+715	Sikkim Properties (Sikkim.txt)	3 BHK Independent House	Namchi Sector 1	Namchi / Sikkim	Independent House / 3 BHK	1676	₹21,800/month	Semi-Furnished	2	Any	Rent
+716	Sikkim Properties (Sikkim.txt)	2 BHK Independent House	Gyalshing Main Road	Gyalshing / Sikkim	Independent House / 2 BHK	854	₹54.76 L	Fully-Furnished	2	Any	Sale
+717	Sikkim Properties (Sikkim.txt)	4 BHK Apartment	Namchi Town Centre	Namchi / Sikkim	Apartment / 4 BHK	1599	₹81.97 L	Fully-Furnished	4	Family	Sale
+718	Sikkim Properties (Sikkim.txt)	3 BHK Builder Floor	Gyalshing Sector 3	Gyalshing / Sikkim	Builder Floor / 3 BHK	1172	₹70.88 L	Semi-Furnished	3	Any	Sale
+719	Sikkim Properties (Sikkim.txt)	3 BHK Apartment	Gangtok Sector 1	Gangtok / Sikkim	Apartment / 3 BHK	1062	₹58.58 L	Fully-Furnished	3	Bachelors	Sale
+720	Sikkim Properties (Sikkim.txt)	3 BHK Independent House	Namchi Colony	Namchi / Sikkim	Independent House / 3 BHK	1600	₹74.98 L	Unfurnished	2	Family	Sale
+721	Sikkim Properties (Sikkim.txt)	3 BHK Builder Floor	Namchi Nagar	Namchi / Sikkim	Builder Floor / 3 BHK	1022	₹15,500/month	Semi-Furnished	4	Family	Rent
+722	Sikkim Properties (Sikkim.txt)	1 BHK Apartment	Namchi North	Namchi / Sikkim	Apartment / 1 BHK	466	₹28.94 L	Semi-Furnished	1	Bachelors	Sale
+723	Sikkim Properties (Sikkim.txt)	3 BHK Apartment	Gyalshing Sector 2	Gyalshing / Sikkim	Apartment / 3 BHK	1391	₹18,900/month	Semi-Furnished	3	Family	Rent
+724	Sikkim Properties (Sikkim.txt)	3 BHK Villa	Gyalshing Central	Gyalshing / Sikkim	Villa / 3 BHK	1651	₹69.58 L	Semi-Furnished	3	Family	Sale
+725	Sikkim Properties (Sikkim.txt)	3 BHK Independent House	Namchi Sector 2	Namchi / Sikkim	Independent House / 3 BHK	1407	₹18,200/month	Semi-Furnished	4	Any	Rent
+726	Sikkim Properties (Sikkim.txt)	2 BHK Builder Floor	Gangtok Heights	Gangtok / Sikkim	Builder Floor / 2 BHK	927	₹42.03 L	Unfurnished	1	Any	Sale
+727	Sikkim Properties (Sikkim.txt)	1 BHK Independent House	Namchi Residential Area	Namchi / Sikkim	Independent House / 1 BHK	737	₹37.69 L	Semi-Furnished	1	Family	Sale
+728	Sikkim Properties (Sikkim.txt)	1 BHK Apartment	Gyalshing Residential Area	Gyalshing / Sikkim	Apartment / 1 BHK	563	₹9,800/month	Semi-Furnished	1	Family	Rent
+729	Sikkim Properties (Sikkim.txt)	2 BHK Independent House	Namchi Colony	Namchi / Sikkim	Independent House / 2 BHK	1119	₹54.07 L	Unfurnished	3	Any	Sale
+730	Sikkim Properties (Sikkim.txt)	1 BHK Builder Floor	Namchi Heights	Namchi / Sikkim	Builder Floor / 1 BHK	448	₹22.83 L	Semi-Furnished	2	Family	Sale
+731	Sikkim Properties (Sikkim.txt)	2 BHK Apartment	Gangtok Sector 3	Gangtok / Sikkim	Apartment / 2 BHK	731	₹13,300/month	Semi-Furnished	2	Any	Rent
+732	Sikkim Properties (Sikkim.txt)	1 BHK Independent House	Gyalshing Central	Gyalshing / Sikkim	Independent House / 1 BHK	620	₹8,200/month	Semi-Furnished	1	Family	Rent
+733	Sikkim Properties (Sikkim.txt)	3 BHK Independent House	Gyalshing Sector 2	Gyalshing / Sikkim	Independent House / 3 BHK	1265	₹69.29 L	Semi-Furnished	3	Bachelors	Sale
+734	Sikkim Properties (Sikkim.txt)	2 BHK Independent House	Gyalshing South	Gyalshing / Sikkim	Independent House / 2 BHK	1019	₹41.09 L	Unfurnished	2	Family	Sale
+735	Sikkim Properties (Sikkim.txt)	4 BHK Builder Floor	Gangtok North	Gangtok / Sikkim	Builder Floor / 4 BHK	1817	₹74.34 L	Unfurnished	4	Any	Sale
+736	Sikkim Properties (Sikkim.txt)	3 BHK Apartment	Gyalshing Town Centre	Gyalshing / Sikkim	Apartment / 3 BHK	1275	₹63.76 L	Semi-Furnished	4	Family	Sale
+737	Sikkim Properties (Sikkim.txt)	3 BHK Apartment	Namchi Heights	Namchi / Sikkim	Apartment / 3 BHK	1235	₹68.29 L	Fully-Furnished	4	Family	Sale
+738	Sikkim Properties (Sikkim.txt)	3 BHK Apartment	Gyalshing Sector 2	Gyalshing / Sikkim	Apartment / 3 BHK	1191	₹14,600/month	Fully-Furnished	3	Family	Rent
+739	Sikkim Properties (Sikkim.txt)	3 BHK Villa	Gyalshing East	Gyalshing / Sikkim	Villa / 3 BHK	1853	₹20,800/month	Fully-Furnished	2	Family	Rent
+740	Sikkim Properties (Sikkim.txt)	5 BHK Independent House	Gangtok South	Gangtok / Sikkim	Independent House / 5 BHK	3528	₹35,700/month	Unfurnished	5	Any	Rent
+741	Sikkim Properties (Sikkim.txt)	2 BHK Apartment	Namchi Town Centre	Namchi / Sikkim	Apartment / 2 BHK	1022	₹15,000/month	Semi-Furnished	3	Family	Rent
+742	Sikkim Properties (Sikkim.txt)	2 BHK Villa	Gangtok North	Gangtok / Sikkim	Villa / 2 BHK	1306	₹14,700/month	Unfurnished	3	Any	Rent
+743	Sikkim Properties (Sikkim.txt)	2 BHK Apartment	Gyalshing Town Centre	Gyalshing / Sikkim	Apartment / 2 BHK	832	₹52.97 L	Unfurnished	3	Bachelors	Sale
+744	Sikkim Properties (Sikkim.txt)	4 BHK Apartment	Gyalshing Central	Gyalshing / Sikkim	Apartment / 4 BHK	1964	₹1 Cr	Unfurnished	4	Bachelors	Sale
+745	Sikkim Properties (Sikkim.txt)	3 BHK Apartment	Namchi North	Namchi / Sikkim	Apartment / 3 BHK	1301	₹14,400/month	Fully-Furnished	3	Bachelors	Rent
+746	Sikkim Properties (Sikkim.txt)	1 BHK Independent House	Gangtok Sector 3	Gangtok / Sikkim	Independent House / 1 BHK	628	₹26.94 L	Semi-Furnished	1	Family	Sale
+747	Sikkim Properties (Sikkim.txt)	1 BHK Apartment	Gangtok Sector 3	Gangtok / Sikkim	Apartment / 1 BHK	518	₹8,500/month	Fully-Furnished	1	Any	Rent
+748	Sikkim Properties (Sikkim.txt)	4 BHK Apartment	Namchi Heights	Namchi / Sikkim	Apartment / 4 BHK	1812	₹19,000/month	Semi-Furnished	3	Family	Rent
+749	Sikkim Properties (Sikkim.txt)	5 BHK Villa	Gyalshing Colony	Gyalshing / Sikkim	Villa / 5 BHK	3245	₹99.05 L	Fully-Furnished	5	Family	Sale
+750	Sikkim Properties (Sikkim.txt)	4 BHK Independent House	Gyalshing Extension	Gyalshing / Sikkim	Independent House / 4 BHK	2022	₹97.98 L	Unfurnished	3	Family	Sale
+751	Sikkim Properties (Sikkim.txt)	3 BHK Apartment	Gangtok South	Gangtok / Sikkim	Apartment / 3 BHK	1161	₹52.71 L	Unfurnished	3	Bachelors	Sale
+752	Sikkim Properties (Sikkim.txt)	2 BHK Apartment	Gyalshing West	Gyalshing / Sikkim	Apartment / 2 BHK	1109	₹40.19 L	Semi-Furnished	3	Any	Sale
+753	Sikkim Properties (Sikkim.txt)	4 BHK Villa	Gangtok Residential Area	Gangtok / Sikkim	Villa / 4 BHK	2152	₹99.25 L	Semi-Furnished	4	Family	Sale
+754	Sikkim Properties (Sikkim.txt)	1 BHK Villa	Namchi Sector 3	Namchi / Sikkim	Villa / 1 BHK	772	₹36.09 L	Unfurnished	1	Family	Sale
+755	Sikkim Properties (Sikkim.txt)	2 BHK Apartment	Gyalshing East	Gyalshing / Sikkim	Apartment / 2 BHK	781	₹11,600/month	Unfurnished	1	Family	Rent
+756	Sikkim Properties (Sikkim.txt)	2 BHK Builder Floor	Gyalshing Sector 2	Gyalshing / Sikkim	Builder Floor / 2 BHK	1018	₹38.86 L	Semi-Furnished	2	Bachelors	Sale
+757	Sikkim Properties (Sikkim.txt)	4 BHK Apartment	Gangtok Colony	Gangtok / Sikkim	Apartment / 4 BHK	1913	₹18,600/month	Fully-Furnished	4	Family	Rent
+758	Sikkim Properties (Sikkim.txt)	3 BHK Builder Floor	Namchi West	Namchi / Sikkim	Builder Floor / 3 BHK	972	₹62.21 L	Semi-Furnished	4	Bachelors	Sale
+759	Sikkim Properties (Sikkim.txt)	4 BHK Apartment	Gyalshing Residential Area	Gyalshing / Sikkim	Apartment / 4 BHK	1574	₹79.02 L	Fully-Furnished	3	Any	Sale
+760	Sikkim Properties (Sikkim.txt)	2 BHK Apartment	Gangtok Central	Gangtok / Sikkim	Apartment / 2 BHK	829	₹37.33 L	Semi-Furnished	2	Family	Sale
+761	Sikkim Properties (Sikkim.txt)	2 BHK Apartment	Gangtok Sector 3	Gangtok / Sikkim	Apartment / 2 BHK	705	₹13,000/month	Unfurnished	2	Any	Rent
+762	Sikkim Properties (Sikkim.txt)	2 BHK Villa	Namchi East	Namchi / Sikkim	Villa / 2 BHK	1050	₹11,400/month	Fully-Furnished	2	Any	Rent
+763	Sikkim Properties (Sikkim.txt)	5 BHK Apartment	Namchi Heights	Namchi / Sikkim	Apartment / 5 BHK	2032	₹1.02 Cr	Unfurnished	6	Family	Sale
+764	Sikkim Properties (Sikkim.txt)	2 BHK Independent House	Gyalshing South	Gyalshing / Sikkim	Independent House / 2 BHK	1217	₹44.43 L	Unfurnished	2	Bachelors	Sale
+765	Sikkim Properties (Sikkim.txt)	1 BHK Independent House	Namchi Colony	Namchi / Sikkim	Independent House / 1 BHK	570	₹10,000/month	Fully-Furnished	1	Any	Rent
+766	Sikkim Properties (Sikkim.txt)	2 BHK Apartment	Gyalshing Residential Area	Gyalshing / Sikkim	Apartment / 2 BHK	1190	₹16,300/month	Semi-Furnished	2	Bachelors	Rent
+767	Sikkim Properties (Sikkim.txt)	2 BHK Apartment	Gangtok Colony	Gangtok / Sikkim	Apartment / 2 BHK	644	₹36.78 L	Semi-Furnished	1	Any	Sale
+768	Sikkim Properties (Sikkim.txt)	1 BHK Builder Floor	Gyalshing East	Gyalshing / Sikkim	Builder Floor / 1 BHK	475	₹7,700/month	Semi-Furnished	1	Bachelors	Rent
+769	Sikkim Properties (Sikkim.txt)	2 BHK Independent House	Gyalshing Residential Area	Gyalshing / Sikkim	Independent House / 2 BHK	959	₹10,900/month	Semi-Furnished	2	Bachelors	Rent
+770	Sikkim Properties (Sikkim.txt)	2 BHK Apartment	Gangtok Sector 1	Gangtok / Sikkim	Apartment / 2 BHK	967	₹12,300/month	Fully-Furnished	2	Any	Rent
+771	Sikkim Properties (Sikkim.txt)	2 BHK Apartment	Gangtok Heights	Gangtok / Sikkim	Apartment / 2 BHK	756	₹52.20 L	Semi-Furnished	1	Bachelors	Sale
+772	Sikkim Properties (Sikkim.txt)	1 BHK Apartment	Gangtok Main Road	Gangtok / Sikkim	Apartment / 1 BHK	527	₹29.09 L	Semi-Furnished	1	Bachelors	Sale
+773	Sikkim Properties (Sikkim.txt)	3 BHK Independent House	Namchi Residential Area	Namchi / Sikkim	Independent House / 3 BHK	1581	₹72.11 L	Fully-Furnished	2	Family	Sale
+774	Sikkim Properties (Sikkim.txt)	1 BHK Independent House	Gyalshing Sector 1	Gyalshing / Sikkim	Independent House / 1 BHK	707	₹33.47 L	Unfurnished	1	Any	Sale
+775	Sikkim Properties (Sikkim.txt)	1 BHK Builder Floor	Gyalshing South	Gyalshing / Sikkim	Builder Floor / 1 BHK	574	₹9,700/month	Unfurnished	1	Family	Rent
+776	Sikkim Properties (Sikkim.txt)	1 BHK Builder Floor	Gangtok Central	Gangtok / Sikkim	Builder Floor / 1 BHK	681	₹33.30 L	Semi-Furnished	1	Bachelors	Sale
+777	Sikkim Properties (Sikkim.txt)	2 BHK Apartment	Gyalshing Sector 1	Gyalshing / Sikkim	Apartment / 2 BHK	845	₹54.48 L	Fully-Furnished	2	Any	Sale
+778	Sikkim Properties (Sikkim.txt)	3 BHK Independent House	Namchi Sector 3	Namchi / Sikkim	Independent House / 3 BHK	1059	₹63.62 L	Unfurnished	3	Family	Sale
+779	Sikkim Properties (Sikkim.txt)	2 BHK Independent House	Namchi Colony	Namchi / Sikkim	Independent House / 2 BHK	992	₹52.68 L	Unfurnished	3	Bachelors	Sale
+780	Sikkim Properties (Sikkim.txt)	4 BHK Villa	Gangtok Extension	Gangtok / Sikkim	Villa / 4 BHK	2005	₹27,100/month	Fully-Furnished	4	Bachelors	Rent
+781	Sikkim Properties (Sikkim.txt)	3 BHK Builder Floor	Gangtok Main Road	Gangtok / Sikkim	Builder Floor / 3 BHK	1377	₹62.28 L	Semi-Furnished	3	Family	Sale
+782	Sikkim Properties (Sikkim.txt)	4 BHK Apartment	Namchi South	Namchi / Sikkim	Apartment / 4 BHK	1850	₹91.32 L	Semi-Furnished	4	Any	Sale
+783	Sikkim Properties (Sikkim.txt)	2 BHK Independent House	Namchi Nagar	Namchi / Sikkim	Independent House / 2 BHK	1062	₹15,400/month	Unfurnished	1	Family	Rent
+784	Sikkim Properties (Sikkim.txt)	1 BHK Studio	Namchi Central	Namchi / Sikkim	Studio / 1 BHK	300	₹7,500/month	Semi-Furnished	1	Bachelors	Rent
+785	Sikkim Properties (Sikkim.txt)	2 BHK Independent House	Gangtok Sector 1	Gangtok / Sikkim	Independent House / 2 BHK	950	₹48.96 L	Semi-Furnished	2	Bachelors	Sale
+786	Sikkim Properties (Sikkim.txt)	3 BHK Apartment	Namchi Main Road	Namchi / Sikkim	Apartment / 3 BHK	1071	₹17,800/month	Semi-Furnished	3	Family	Rent
+787	Sikkim Properties (Sikkim.txt)	3 BHK Villa	Namchi Residential Area	Namchi / Sikkim	Villa / 3 BHK	1781	₹16,000/month	Semi-Furnished	3	Any	Rent
+788	Sikkim Properties (Sikkim.txt)	2 BHK Apartment	Gyalshing Central	Gyalshing / Sikkim	Apartment / 2 BHK	929	₹51.66 L	Fully-Furnished	2	Family	Sale
+789	Sikkim Properties (Sikkim.txt)	3 BHK Builder Floor	Gyalshing Sector 3	Gyalshing / Sikkim	Builder Floor / 3 BHK	791	₹17,500/month	Unfurnished	4	Any	Rent
+790	Sikkim Properties (Sikkim.txt)	1 BHK Studio	Gangtok Heights	Gangtok / Sikkim	Studio / 1 BHK	389	₹9,000/month	Semi-Furnished	1	Bachelors	Rent
+791	Sikkim Properties (Sikkim.txt)	2 BHK Apartment	Namchi North	Namchi / Sikkim	Apartment / 2 BHK	919	₹42.16 L	Fully-Furnished	2	Family	Sale
+792	Sikkim Properties (Sikkim.txt)	1 BHK Independent House	Namchi West	Namchi / Sikkim	Independent House / 1 BHK	608	₹7,000/month	Fully-Furnished	2	Any	Rent
+793	Sikkim Properties (Sikkim.txt)	3 BHK Apartment	Gangtok East	Gangtok / Sikkim	Apartment / 3 BHK	1357	₹68.27 L	Semi-Furnished	2	Family	Sale
+794	Sikkim Properties (Sikkim.txt)	4 BHK Apartment	Gyalshing South	Gyalshing / Sikkim	Apartment / 4 BHK	1556	₹75.73 L	Fully-Furnished	3	Bachelors	Sale
+795	Sikkim Properties (Sikkim.txt)	1 BHK Independent House	Namchi Main Road	Namchi / Sikkim	Independent House / 1 BHK	545	₹28.93 L	Semi-Furnished	1	Any	Sale
+796	Sikkim Properties (Sikkim.txt)	3 BHK Apartment	Gangtok Sector 1	Gangtok / Sikkim	Apartment / 3 BHK	1405	₹21,000/month	Semi-Furnished	4	Family	Rent
+797	Sikkim Properties (Sikkim.txt)	3 BHK Independent House	Gyalshing Nagar	Gyalshing / Sikkim	Independent House / 3 BHK	1519	₹73.26 L	Semi-Furnished	4	Family	Sale
+798	Sikkim Properties (Sikkim.txt)	4 BHK Apartment	Gyalshing South	Gyalshing / Sikkim	Apartment / 4 BHK	2209	₹28,100/month	Semi-Furnished	3	Bachelors	Rent
+799	Sikkim Properties (Sikkim.txt)	2 BHK Apartment	Namchi Colony	Namchi / Sikkim	Apartment / 2 BHK	802	₹14,200/month	Semi-Furnished	2	Any	Rent
+800	Sikkim Properties (Sikkim.txt)	3 BHK Builder Floor	Gyalshing West	Gyalshing / Sikkim	Builder Floor / 3 BHK	1053	₹13,900/month	Semi-Furnished	3	Any	Rent
+801	Sikkim Properties (Sikkim.txt)	3 BHK Apartment	Gangtok Central	Gangtok / Sikkim	Apartment / 3 BHK	1122	₹19,800/month	Unfurnished	3	Bachelors	Rent
+802	Sikkim Properties (Sikkim.txt)	3 BHK Independent House	Gangtok Central	Gangtok / Sikkim	Independent House / 3 BHK	1672	₹20,000/month	Fully-Furnished	3	Family	Rent
+803	Sikkim Properties (Sikkim.txt)	3 BHK Independent House	Gangtok Extension	Gangtok / Sikkim	Independent House / 3 BHK	1725	₹20,400/month	Semi-Furnished	2	Family	Rent
+804	Sikkim Properties (Sikkim.txt)	3 BHK Apartment	Gangtok Central	Gangtok / Sikkim	Apartment / 3 BHK	1102	₹14,900/month	Fully-Furnished	3	Family	Rent
+805	Sikkim Properties (Sikkim.txt)	1 BHK Apartment	Gangtok South	Gangtok / Sikkim	Apartment / 1 BHK	302	₹6,500/month	Fully-Furnished	1	Family	Rent
+806	Sikkim Properties (Sikkim.txt)	2 BHK Independent House	Gangtok Residential Area	Gangtok / Sikkim	Independent House / 2 BHK	888	₹13,800/month	Semi-Furnished	1	Bachelors	Rent
+807	Sikkim Properties (Sikkim.txt)	1 BHK Builder Floor	Gyalshing Nagar	Gyalshing / Sikkim	Builder Floor / 1 BHK	435	₹6,800/month	Semi-Furnished	1	Bachelors	Rent
+808	Sikkim Properties (Sikkim.txt)	2 BHK Apartment	Namchi Central	Namchi / Sikkim	Apartment / 2 BHK	816	₹37.45 L	Semi-Furnished	1	Any	Sale
+809	Sikkim Properties (Sikkim.txt)	3 BHK Builder Floor	Gangtok Residential Area	Gangtok / Sikkim	Builder Floor / 3 BHK	1281	₹17,500/month	Semi-Furnished	4	Family	Rent
+810	Sikkim Properties (Sikkim.txt)	4 BHK Apartment	Namchi Colony	Namchi / Sikkim	Apartment / 4 BHK	1768	₹83.24 L	Fully-Furnished	5	Bachelors	Sale
+811	Sikkim Properties (Sikkim.txt)	2 BHK Apartment	Namchi West	Namchi / Sikkim	Apartment / 2 BHK	963	₹44.70 L	Fully-Furnished	2	Family	Sale
+812	Sikkim Properties (Sikkim.txt)	3 BHK Apartment	Namchi East	Namchi / Sikkim	Apartment / 3 BHK	1015	₹16,700/month	Unfurnished	4	Family	Rent
+813	Sikkim Properties (Sikkim.txt)	3 BHK Apartment	Namchi North	Namchi / Sikkim	Apartment / 3 BHK	1364	₹72.57 L	Fully-Furnished	3	Family	Sale
+814	Sikkim Properties (Sikkim.txt)	3 BHK Apartment	Namchi Town Centre	Namchi / Sikkim	Apartment / 3 BHK	752	₹48.57 L	Semi-Furnished	4	Bachelors	Sale
+815	Sikkim Properties (Sikkim.txt)	4 BHK Apartment	Gangtok Central	Gangtok / Sikkim	Apartment / 4 BHK	1718	₹67.39 L	Semi-Furnished	3	Family	Sale
+816	Sikkim Properties (Sikkim.txt)	2 BHK Apartment	Namchi North	Namchi / Sikkim	Apartment / 2 BHK	887	₹39.70 L	Semi-Furnished	1	Bachelors	Sale
+817	Sikkim Properties (Sikkim.txt)	3 BHK Apartment	Gangtok Nagar	Gangtok / Sikkim	Apartment / 3 BHK	1213	₹68.84 L	Semi-Furnished	3	Bachelors	Sale
+818	Sikkim Properties (Sikkim.txt)	4 BHK Apartment	Gangtok Sector 2	Gangtok / Sikkim	Apartment / 4 BHK	1514	₹85.78 L	Semi-Furnished	5	Any	Sale
+819	Sikkim Properties (Sikkim.txt)	4 BHK Apartment	Gyalshing Sector 3	Gyalshing / Sikkim	Apartment / 4 BHK	1678	₹88.46 L	Fully-Furnished	4	Bachelors	Sale
+820	Sikkim Properties (Sikkim.txt)	2 BHK Villa	Gyalshing Extension	Gyalshing / Sikkim	Villa / 2 BHK	1069	₹43.17 L	Fully-Furnished	2	Family	Sale
+821	Sikkim Properties (Sikkim.txt)	3 BHK Apartment	Namchi Extension	Namchi / Sikkim	Apartment / 3 BHK	1833	₹57 L	Fully-Furnished	3	Any	Sale
+822	Sikkim Properties (Sikkim.txt)	3 BHK Apartment	Gyalshing Colony	Gyalshing / Sikkim	Apartment / 3 BHK	1440	₹17,300/month	Semi-Furnished	2	Any	Rent
+823	Sikkim Properties (Sikkim.txt)	2 BHK Apartment	Gangtok North	Gangtok / Sikkim	Apartment / 2 BHK	879	₹45.45 L	Semi-Furnished	3	Bachelors	Sale
+824	Sikkim Properties (Sikkim.txt)	1 BHK Builder Floor	Gangtok Colony	Gangtok / Sikkim	Builder Floor / 1 BHK	510	₹25.05 L	Unfurnished	1	Bachelors	Sale
+825	Sikkim Properties (Sikkim.txt)	3 BHK Apartment	Namchi Colony	Namchi / Sikkim	Apartment / 3 BHK	1095	₹67.21 L	Fully-Furnished	2	Family	Sale
+826	Sikkim Properties (Sikkim.txt)	2 BHK Apartment	Namchi Sector 3	Namchi / Sikkim	Apartment / 2 BHK	947	₹45.72 L	Fully-Furnished	2	Any	Sale
+827	Sikkim Properties (Sikkim.txt)	1 BHK Independent House	Gangtok South	Gangtok / Sikkim	Independent House / 1 BHK	651	₹30.02 L	Semi-Furnished	1	Bachelors	Sale
+828	Sikkim Properties (Sikkim.txt)	3 BHK Builder Floor	Gangtok Town Centre	Gangtok / Sikkim	Builder Floor / 3 BHK	1484	₹63.96 L	Fully-Furnished	2	Bachelors	Sale
+829	Sikkim Properties (Sikkim.txt)	4 BHK Apartment	Namchi East	Namchi / Sikkim	Apartment / 4 BHK	1120	₹61.30 L	Semi-Furnished	4	Family	Sale
+830	Sikkim Properties (Sikkim.txt)	1 BHK Villa	Gangtok Town Centre	Gangtok / Sikkim	Villa / 1 BHK	764	₹26.34 L	Fully-Furnished	2	Any	Sale
+831	Sikkim Properties (Sikkim.txt)	2 BHK Apartment	Gyalshing Sector 3	Gyalshing / Sikkim	Apartment / 2 BHK	759	₹11,800/month	Semi-Furnished	2	Any	Rent
+832	Sikkim Properties (Sikkim.txt)	2 BHK Apartment	Namchi North	Namchi / Sikkim	Apartment / 2 BHK	813	₹11,500/month	Fully-Furnished	2	Family	Rent
+833	Sikkim Properties (Sikkim.txt)	4 BHK Independent House	Gyalshing Central	Gyalshing / Sikkim	Independent House / 4 BHK	2085	₹92.89 L	Unfurnished	4	Family	Sale
+834	Sikkim Properties (Sikkim.txt)	3 BHK Apartment	Namchi South	Namchi / Sikkim	Apartment / 3 BHK	1404	₹66.53 L	Unfurnished	4	Any	Sale
+835	Sikkim Properties (Sikkim.txt)	5 BHK Apartment	Gyalshing Extension	Gyalshing / Sikkim	Apartment / 5 BHK	2243	₹1.10 Cr	Fully-Furnished	5	Family	Sale
+836	Sikkim Properties (Sikkim.txt)	1 BHK Independent House	Gyalshing East	Gyalshing / Sikkim	Independent House / 1 BHK	703	₹35.70 L	Fully-Furnished	1	Any	Sale
+837	Sikkim Properties (Sikkim.txt)	2 BHK Apartment	Gangtok Main Road	Gangtok / Sikkim	Apartment / 2 BHK	883	₹44.18 L	Semi-Furnished	1	Bachelors	Sale
+838	Sikkim Properties (Sikkim.txt)	1 BHK Studio	Gyalshing East	Gyalshing / Sikkim	Studio / 1 BHK	330	₹26.86 L	Semi-Furnished	1	Any	Sale
+839	Sikkim Properties (Sikkim.txt)	2 BHK Apartment	Gyalshing Extension	Gyalshing / Sikkim	Apartment / 2 BHK	1216	₹49.56 L	Semi-Furnished	3	Bachelors	Sale
+840	Sikkim Properties (Sikkim.txt)	2 BHK Villa	Namchi Nagar	Namchi / Sikkim	Villa / 2 BHK	1240	₹13,000/month	Unfurnished	2	Family	Rent
+841	Sikkim Properties (Sikkim.txt)	2 BHK Apartment	Gangtok Nagar	Gangtok / Sikkim	Apartment / 2 BHK	945	₹41.79 L	Semi-Furnished	2	Family	Sale
+842	Sikkim Properties (Sikkim.txt)	1 BHK Apartment	Gangtok East	Gangtok / Sikkim	Apartment / 1 BHK	595	₹28.25 L	Fully-Furnished	1	Any	Sale
+843	Sikkim Properties (Sikkim.txt)	4 BHK Builder Floor	Namchi South	Namchi / Sikkim	Builder Floor / 4 BHK	1436	₹17,800/month	Semi-Furnished	3	Family	Rent
+844	Sikkim Properties (Sikkim.txt)	3 BHK Apartment	Gyalshing East	Gyalshing / Sikkim	Apartment / 3 BHK	724	₹58.66 L	Semi-Furnished	3	Family	Sale
+845	Sikkim Properties (Sikkim.txt)	3 BHK Apartment	Namchi Extension	Namchi / Sikkim	Apartment / 3 BHK	1437	₹54.04 L	Unfurnished	3	Any	Sale
+846	Sikkim Properties (Sikkim.txt)	1 BHK Independent House	Gangtok Residential Area	Gangtok / Sikkim	Independent House / 1 BHK	533	₹25.04 L	Semi-Furnished	2	Family	Sale
+847	Sikkim Properties (Sikkim.txt)	2 BHK Apartment	Namchi Colony	Namchi / Sikkim	Apartment / 2 BHK	814	₹12,100/month	Semi-Furnished	3	Family	Rent
+848	Sikkim Properties (Sikkim.txt)	2 BHK Apartment	Gangtok West	Gangtok / Sikkim	Apartment / 2 BHK	837	₹14,200/month	Semi-Furnished	2	Family	Rent
+849	Sikkim Properties (Sikkim.txt)	1 BHK Apartment	Namchi East	Namchi / Sikkim	Apartment / 1 BHK	504	₹30.81 L	Unfurnished	1	Bachelors	Sale
+850	Sikkim Properties (Sikkim.txt)	5 BHK Apartment	Gyalshing Central	Gyalshing / Sikkim	Apartment / 5 BHK	2379	₹1.21 Cr	Semi-Furnished	4	Bachelors	Sale
+851	Sikkim Properties (Sikkim.txt)	2 BHK Builder Floor	Namchi Sector 1	Namchi / Sikkim	Builder Floor / 2 BHK	838	₹49.07 L	Fully-Furnished	2	Family	Sale
+852	Sikkim Properties (Sikkim.txt)	2 BHK Apartment	Namchi Colony	Namchi / Sikkim	Apartment / 2 BHK	731	₹52.66 L	Semi-Furnished	2	Bachelors	Sale
+853	Sikkim Properties (Sikkim.txt)	4 BHK Apartment	Gyalshing East	Gyalshing / Sikkim	Apartment / 4 BHK	1965	₹74.06 L	Fully-Furnished	3	Family	Sale
+854	Sikkim Properties (Sikkim.txt)	2 BHK Villa	Gyalshing East	Gyalshing / Sikkim	Villa / 2 BHK	1106	₹45.94 L	Semi-Furnished	2	Any	Sale
+855	Sikkim Properties (Sikkim.txt)	2 BHK Independent House	Namchi Town Centre	Namchi / Sikkim	Independent House / 2 BHK	905	₹44.13 L	Semi-Furnished	1	Bachelors	Sale
+856	Sikkim Properties (Sikkim.txt)	3 BHK Apartment	Gyalshing East	Gyalshing / Sikkim	Apartment / 3 BHK	1104	₹15,000/month	Unfurnished	3	Family	Rent
+857	Sikkim Properties (Sikkim.txt)	3 BHK Villa	Gangtok West	Gangtok / Sikkim	Villa / 3 BHK	1585	₹68.66 L	Fully-Furnished	3	Any	Sale
+858	Sikkim Properties (Sikkim.txt)	3 BHK Independent House	Gangtok Sector 3	Gangtok / Sikkim	Independent House / 3 BHK	1862	₹72.99 L	Fully-Furnished	3	Bachelors	Sale
+859	Sikkim Properties (Sikkim.txt)	4 BHK Apartment	Gyalshing Colony	Gyalshing / Sikkim	Apartment / 4 BHK	1617	₹94.46 L	Semi-Furnished	4	Bachelors	Sale
+860	Sikkim Properties (Sikkim.txt)	1 BHK Studio	Gyalshing Town Centre	Gyalshing / Sikkim	Studio / 1 BHK	413	₹7,600/month	Unfurnished	1	Family	Rent
+861	Sikkim Properties (Sikkim.txt)	2 BHK Independent House	Gangtok Main Road	Gangtok / Sikkim	Independent House / 2 BHK	1205	₹55.16 L	Unfurnished	3	Family	Sale
+862	Sikkim Properties (Sikkim.txt)	2 BHK Apartment	Gyalshing Main Road	Gyalshing / Sikkim	Apartment / 2 BHK	673	₹38.96 L	Fully-Furnished	1	Bachelors	Sale
+863	Sikkim Properties (Sikkim.txt)	3 BHK Builder Floor	Namchi East	Namchi / Sikkim	Builder Floor / 3 BHK	1403	₹61.81 L	Unfurnished	2	Any	Sale
+864	Sikkim Properties (Sikkim.txt)	2 BHK Builder Floor	Namchi Residential Area	Namchi / Sikkim	Builder Floor / 2 BHK	752	₹14,000/month	Semi-Furnished	1	Any	Rent
+865	Sikkim Properties (Sikkim.txt)	2 BHK Villa	Gangtok East	Gangtok / Sikkim	Villa / 2 BHK	1456	₹51.44 L	Semi-Furnished	2	Bachelors	Sale
+866	Sikkim Properties (Sikkim.txt)	3 BHK Villa	Gangtok Town Centre	Gangtok / Sikkim	Villa / 3 BHK	1281	₹58.98 L	Fully-Furnished	4	Bachelors	Sale
+867	Sikkim Properties (Sikkim.txt)	1 BHK Studio	Gangtok Nagar	Gangtok / Sikkim	Studio / 1 BHK	300	₹8,300/month	Fully-Furnished	2	Family	Rent
+868	Sikkim Properties (Sikkim.txt)	2 BHK Builder Floor	Namchi Colony	Namchi / Sikkim	Builder Floor / 2 BHK	836	₹11,200/month	Semi-Furnished	3	Family	Rent
+869	Sikkim Properties (Sikkim.txt)	1 BHK Studio	Gyalshing Central	Gyalshing / Sikkim	Studio / 1 BHK	348	₹9,200/month	Unfurnished	1	Bachelors	Rent
+870	Sikkim Properties (Sikkim.txt)	3 BHK Apartment	Namchi North	Namchi / Sikkim	Apartment / 3 BHK	1265	₹67.27 L	Fully-Furnished	2	Family	Sale
+871	Sikkim Properties (Sikkim.txt)	2 BHK Independent House	Namchi Colony	Namchi / Sikkim	Independent House / 2 BHK	888	₹12,700/month	Unfurnished	2	Family	Rent
+872	Sikkim Properties (Sikkim.txt)	2 BHK Apartment	Gyalshing Residential Area	Gyalshing / Sikkim	Apartment / 2 BHK	1028	₹47.48 L	Semi-Furnished	3	Bachelors	Sale
+873	Sikkim Properties (Sikkim.txt)	2 BHK Apartment	Gangtok North	Gangtok / Sikkim	Apartment / 2 BHK	882	₹44.47 L	Semi-Furnished	2	Any	Sale
+874	Sikkim Properties (Sikkim.txt)	4 BHK Apartment	Gyalshing Main Road	Gyalshing / Sikkim	Apartment / 4 BHK	2261	₹97.21 L	Fully-Furnished	4	Family	Sale
+875	Sikkim Properties (Sikkim.txt)	2 BHK Builder Floor	Gangtok Residential Area	Gangtok / Sikkim	Builder Floor / 2 BHK	724	₹41.30 L	Semi-Furnished	2	Bachelors	Sale
+876	Sikkim Properties (Sikkim.txt)	2 BHK Independent House	Gangtok Sector 3	Gangtok / Sikkim	Independent House / 2 BHK	1005	₹13,500/month	Unfurnished	2	Any	Rent
+877	Sikkim Properties (Sikkim.txt)	4 BHK Independent House	Namchi North	Namchi / Sikkim	Independent House / 4 BHK	1858	₹81.84 L	Unfurnished	5	Bachelors	Sale
+878	Sikkim Properties (Sikkim.txt)	3 BHK Apartment	Namchi Sector 2	Namchi / Sikkim	Apartment / 3 BHK	1263	₹17,700/month	Fully-Furnished	2	Bachelors	Rent
+879	Sikkim Properties (Sikkim.txt)	4 BHK Villa	Namchi Sector 1	Namchi / Sikkim	Villa / 4 BHK	2323	₹20,800/month	Semi-Furnished	3	Bachelors	Rent
+880	Sikkim Properties (Sikkim.txt)	4 BHK Builder Floor	Gangtok Residential Area	Gangtok / Sikkim	Builder Floor / 4 BHK	1783	₹91.34 L	Fully-Furnished	4	Family	Sale
+881	Sikkim Properties (Sikkim.txt)	2 BHK Apartment	Gangtok West	Gangtok / Sikkim	Apartment / 2 BHK	844	₹51.84 L	Fully-Furnished	3	Family	Sale
+882	Sikkim Properties (Sikkim.txt)	2 BHK Apartment	Namchi Sector 1	Namchi / Sikkim	Apartment / 2 BHK	989	₹14,200/month	Fully-Furnished	2	Family	Rent
+883	Sikkim Properties (Sikkim.txt)	3 BHK Independent House	Gangtok Sector 2	Gangtok / Sikkim	Independent House / 3 BHK	1944	₹20,600/month	Fully-Furnished	3	Family	Rent
+884	Sikkim Properties (Sikkim.txt)	3 BHK Apartment	Gyalshing Central	Gyalshing / Sikkim	Apartment / 3 BHK	1390	₹76.96 L	Unfurnished	4	Bachelors	Sale
+885	Sikkim Properties (Sikkim.txt)	1 BHK Apartment	Gangtok South	Gangtok / Sikkim	Apartment / 1 BHK	487	₹29.05 L	Fully-Furnished	1	Family	Sale
+886	Sikkim Properties (Sikkim.txt)	3 BHK Apartment	Gyalshing Sector 1	Gyalshing / Sikkim	Apartment / 3 BHK	1219	₹14,500/month	Semi-Furnished	3	Bachelors	Rent
+887	Sikkim Properties (Sikkim.txt)	3 BHK Independent House	Gangtok East	Gangtok / Sikkim	Independent House / 3 BHK	1619	₹20,900/month	Fully-Furnished	4	Any	Rent
+888	Sikkim Properties (Sikkim.txt)	4 BHK Apartment	Gangtok Nagar	Gangtok / Sikkim	Apartment / 4 BHK	1864	₹67.27 L	Semi-Furnished	3	Bachelors	Sale
+889	Sikkim Properties (Sikkim.txt)	3 BHK Apartment	Namchi Nagar	Namchi / Sikkim	Apartment / 3 BHK	1219	₹18,200/month	Fully-Furnished	3	Any	Rent
+890	Sikkim Properties (Sikkim.txt)	4 BHK Apartment	Gyalshing Nagar	Gyalshing / Sikkim	Apartment / 4 BHK	1707	₹23,600/month	Semi-Furnished	4	Any	Rent
+891	Sikkim Properties (Sikkim.txt)	3 BHK Independent House	Gangtok Heights	Gangtok / Sikkim	Independent House / 3 BHK	1131	₹59.64 L	Semi-Furnished	2	Family	Sale
+892	Sikkim Properties (Sikkim.txt)	3 BHK Independent House	Namchi Town Centre	Namchi / Sikkim	Independent House / 3 BHK	1596	₹58.51 L	Semi-Furnished	2	Family	Sale
+893	Sikkim Properties (Sikkim.txt)	1 BHK Apartment	Namchi Sector 1	Namchi / Sikkim	Apartment / 1 BHK	533	₹34.28 L	Unfurnished	1	Bachelors	Sale
+894	Sikkim Properties (Sikkim.txt)	2 BHK Builder Floor	Namchi Sector 1	Namchi / Sikkim	Builder Floor / 2 BHK	919	₹38.82 L	Semi-Furnished	2	Bachelors	Sale
+895	Sikkim Properties (Sikkim.txt)	1 BHK Studio	Gangtok Heights	Gangtok / Sikkim	Studio / 1 BHK	369	₹30.46 L	Semi-Furnished	1	Family	Sale
+896	Sikkim Properties (Sikkim.txt)	5 BHK Apartment	Gyalshing Heights	Gyalshing / Sikkim	Apartment / 5 BHK	2603	₹1.02 Cr	Semi-Furnished	4	Bachelors	Sale
+897	Sikkim Properties (Sikkim.txt)	2 BHK Apartment	Gyalshing Extension	Gyalshing / Sikkim	Apartment / 2 BHK	918	₹41.60 L	Semi-Furnished	3	Any	Sale
+898	Sikkim Properties (Sikkim.txt)	2 BHK Apartment	Gyalshing Residential Area	Gyalshing / Sikkim	Apartment / 2 BHK	858	₹13,900/month	Fully-Furnished	2	Any	Rent
+899	Sikkim Properties (Sikkim.txt)	3 BHK Villa	Gangtok Nagar	Gangtok / Sikkim	Villa / 3 BHK	1829	₹62.44 L	Semi-Furnished	4	Family	Sale
+900	Sikkim Properties (Sikkim.txt)	3 BHK Builder Floor	Namchi North	Namchi / Sikkim	Builder Floor / 3 BHK	1319	₹20,700/month	Unfurnished	2	Family	Rent
+901	Sikkim Properties (Sikkim.txt)	1 BHK Independent House	Gangtok Residential Area	Gangtok / Sikkim	Independent House / 1 BHK	438	₹28.94 L	Unfurnished	1	Bachelors	Sale
+902	Sikkim Properties (Sikkim.txt)	2 BHK Apartment	Namchi Sector 3	Namchi / Sikkim	Apartment / 2 BHK	933	₹43.66 L	Semi-Furnished	2	Family	Sale
+903	Sikkim Properties (Sikkim.txt)	2 BHK Apartment	Gyalshing Sector 3	Gyalshing / Sikkim	Apartment / 2 BHK	919	₹12,700/month	Fully-Furnished	2	Family	Rent
+904	Sikkim Properties (Sikkim.txt)	4 BHK Apartment	Gyalshing South	Gyalshing / Sikkim	Apartment / 4 BHK	1347	₹63.67 L	Unfurnished	4	Family	Sale
+905	Sikkim Properties (Sikkim.txt)	3 BHK Apartment	Namchi Town Centre	Namchi / Sikkim	Apartment / 3 BHK	1463	₹19,600/month	Fully-Furnished	4	Family	Rent
+906	Sikkim Properties (Sikkim.txt)	4 BHK Apartment	Namchi Town Centre	Namchi / Sikkim	Apartment / 4 BHK	1681	₹21,600/month	Unfurnished	4	Bachelors	Rent
+907	Sikkim Properties (Sikkim.txt)	2 BHK Apartment	Namchi Main Road	Namchi / Sikkim	Apartment / 2 BHK	750	₹40.04 L	Semi-Furnished	1	Bachelors	Sale
+908	Sikkim Properties (Sikkim.txt)	2 BHK Villa	Namchi South	Namchi / Sikkim	Villa / 2 BHK	1243	₹12,500/month	Semi-Furnished	2	Family	Rent
+909	Sikkim Properties (Sikkim.txt)	1 BHK Apartment	Gyalshing Colony	Gyalshing / Sikkim	Apartment / 1 BHK	573	₹34.06 L	Semi-Furnished	1	Family	Sale
+910	Sikkim Properties (Sikkim.txt)	3 BHK Apartment	Gyalshing Residential Area	Gyalshing / Sikkim	Apartment / 3 BHK	1195	₹55.41 L	Fully-Furnished	3	Bachelors	Sale
+911	Sikkim Properties (Sikkim.txt)	5 BHK Builder Floor	Namchi Colony	Namchi / Sikkim	Builder Floor / 5 BHK	2289	₹29,900/month	Semi-Furnished	4	Family	Rent
+912	Sikkim Properties (Sikkim.txt)	5 BHK Apartment	Gangtok Extension	Gangtok / Sikkim	Apartment / 5 BHK	1971	₹25,100/month	Semi-Furnished	5	Bachelors	Rent
+913	Sikkim Properties (Sikkim.txt)	2 BHK Builder Floor	Gangtok Town Centre	Gangtok / Sikkim	Builder Floor / 2 BHK	959	₹50.59 L	Unfurnished	2	Family	Sale
+914	Sikkim Properties (Sikkim.txt)	1 BHK Apartment	Gyalshing East	Gyalshing / Sikkim	Apartment / 1 BHK	496	₹30.14 L	Semi-Furnished	2	Family	Sale
+915	Sikkim Properties (Sikkim.txt)	1 BHK Apartment	Gangtok East	Gangtok / Sikkim	Apartment / 1 BHK	566	₹7,300/month	Semi-Furnished	1	Family	Rent
+916	Sikkim Properties (Sikkim.txt)	3 BHK Apartment	Gyalshing North	Gyalshing / Sikkim	Apartment / 3 BHK	1250	₹16,900/month	Fully-Furnished	3	Bachelors	Rent
+917	Sikkim Properties (Sikkim.txt)	1 BHK Builder Floor	Namchi Town Centre	Namchi / Sikkim	Builder Floor / 1 BHK	669	₹7,800/month	Unfurnished	1	Bachelors	Rent
+918	Sikkim Properties (Sikkim.txt)	4 BHK Apartment	Gangtok Sector 2	Gangtok / Sikkim	Apartment / 4 BHK	2271	₹73.62 L	Fully-Furnished	5	Any	Sale
+919	Sikkim Properties (Sikkim.txt)	2 BHK Villa	Gyalshing Central	Gyalshing / Sikkim	Villa / 2 BHK	1097	₹50.01 L	Fully-Furnished	1	Family	Sale
+920	Sikkim Properties (Sikkim.txt)	4 BHK Apartment	Gangtok Main Road	Gangtok / Sikkim	Apartment / 4 BHK	1890	₹73.03 L	Semi-Furnished	5	Any	Sale
+921	Sikkim Properties (Sikkim.txt)	4 BHK Apartment	Namchi East	Namchi / Sikkim	Apartment / 4 BHK	2003	₹99.59 L	Fully-Furnished	4	Bachelors	Sale
+922	Sikkim Properties (Sikkim.txt)	1 BHK Apartment	Gyalshing Town Centre	Gyalshing / Sikkim	Apartment / 1 BHK	481	₹30.81 L	Unfurnished	2	Family	Sale
+923	Sikkim Properties (Sikkim.txt)	2 BHK Villa	Namchi Town Centre	Namchi / Sikkim	Villa / 2 BHK	869	₹45.19 L	Semi-Furnished	2	Any	Sale
+924	Sikkim Properties (Sikkim.txt)	2 BHK Apartment	Gyalshing East	Gyalshing / Sikkim	Apartment / 2 BHK	816	₹45.38 L	Unfurnished	2	Any	Sale
+925	Sikkim Properties (Sikkim.txt)	1 BHK Apartment	Gyalshing Residential Area	Gyalshing / Sikkim	Apartment / 1 BHK	675	₹33.65 L	Unfurnished	1	Bachelors	Sale
+926	Sikkim Properties (Sikkim.txt)	3 BHK Apartment	Gyalshing Sector 2	Gyalshing / Sikkim	Apartment / 3 BHK	1259	₹71.76 L	Semi-Furnished	4	Any	Sale
+927	Sikkim Properties (Sikkim.txt)	2 BHK Apartment	Namchi West	Namchi / Sikkim	Apartment / 2 BHK	761	₹14,400/month	Semi-Furnished	2	Family	Rent
+928	Sikkim Properties (Sikkim.txt)	2 BHK Independent House	Namchi Nagar	Namchi / Sikkim	Independent House / 2 BHK	1049	₹15,500/month	Unfurnished	2	Family	Rent
+929	Sikkim Properties (Sikkim.txt)	4 BHK Builder Floor	Gyalshing South	Gyalshing / Sikkim	Builder Floor / 4 BHK	1653	₹83.93 L	Semi-Furnished	3	Any	Sale
+930	Sikkim Properties (Sikkim.txt)	3 BHK Independent House	Gyalshing Main Road	Gyalshing / Sikkim	Independent House / 3 BHK	1263	₹15,200/month	Semi-Furnished	2	Family	Rent
+931	Sikkim Properties (Sikkim.txt)	3 BHK Apartment	Gyalshing Colony	Gyalshing / Sikkim	Apartment / 3 BHK	1348	₹74.03 L	Unfurnished	3	Family	Sale
+932	Sikkim Properties (Sikkim.txt)	3 BHK Builder Floor	Gyalshing Extension	Gyalshing / Sikkim	Builder Floor / 3 BHK	1140	₹14,400/month	Unfurnished	3	Any	Rent
+933	Sikkim Properties (Sikkim.txt)	3 BHK Apartment	Namchi Heights	Namchi / Sikkim	Apartment / 3 BHK	1357	₹56.40 L	Fully-Furnished	2	Any	Sale
+934	Sikkim Properties (Sikkim.txt)	3 BHK Builder Floor	Gyalshing West	Gyalshing / Sikkim	Builder Floor / 3 BHK	1240	₹73.39 L	Semi-Furnished	3	Any	Sale
+935	Sikkim Properties (Sikkim.txt)	1 BHK Studio	Gyalshing Extension	Gyalshing / Sikkim	Studio / 1 BHK	387	₹27.69 L	Semi-Furnished	2	Any	Sale
+936	Sikkim Properties (Sikkim.txt)	3 BHK Apartment	Gangtok Sector 2	Gangtok / Sikkim	Apartment / 3 BHK	1226	₹67.93 L	Fully-Furnished	3	Family	Sale
+937	Sikkim Properties (Sikkim.txt)	4 BHK Builder Floor	Namchi Sector 3	Namchi / Sikkim	Builder Floor / 4 BHK	1695	₹76.94 L	Unfurnished	5	Any	Sale
+938	Sikkim Properties (Sikkim.txt)	2 BHK Builder Floor	Gyalshing Colony	Gyalshing / Sikkim	Builder Floor / 2 BHK	853	₹49.74 L	Semi-Furnished	2	Bachelors	Sale
+939	Sikkim Properties (Sikkim.txt)	5 BHK Independent House	Gangtok South	Gangtok / Sikkim	Independent House / 5 BHK	2971	₹1.21 Cr	Semi-Furnished	6	Any	Sale
+940	Sikkim Properties (Sikkim.txt)	1 BHK Apartment	Gyalshing Extension	Gyalshing / Sikkim	Apartment / 1 BHK	538	₹9,300/month	Semi-Furnished	2	Bachelors	Rent
+941	Sikkim Properties (Sikkim.txt)	2 BHK Villa	Gangtok North	Gangtok / Sikkim	Villa / 2 BHK	1215	₹43.92 L	Unfurnished	2	Bachelors	Sale
+942	Sikkim Properties (Sikkim.txt)	4 BHK Apartment	Namchi Central	Namchi / Sikkim	Apartment / 4 BHK	1318	₹84.05 L	Semi-Furnished	4	Family	Sale
+943	Sikkim Properties (Sikkim.txt)	2 BHK Independent House	Gangtok Sector 1	Gangtok / Sikkim	Independent House / 2 BHK	1223	₹15,000/month	Semi-Furnished	2	Bachelors	Rent
+944	Sikkim Properties (Sikkim.txt)	2 BHK Apartment	Namchi Central	Namchi / Sikkim	Apartment / 2 BHK	1057	₹11,100/month	Unfurnished	2	Family	Rent
+945	Sikkim Properties (Sikkim.txt)	1 BHK Studio	Gyalshing Residential Area	Gyalshing / Sikkim	Studio / 1 BHK	350	₹31.18 L	Unfurnished	1	Bachelors	Sale
+946	Sikkim Properties (Sikkim.txt)	3 BHK Builder Floor	Gangtok West	Gangtok / Sikkim	Builder Floor / 3 BHK	1028	₹48.93 L	Semi-Furnished	2	Family	Sale
+947	Sikkim Properties (Sikkim.txt)	1 BHK Apartment	Gyalshing Residential Area	Gyalshing / Sikkim	Apartment / 1 BHK	533	₹9,200/month	Semi-Furnished	2	Family	Rent
+948	Sikkim Properties (Sikkim.txt)	3 BHK Apartment	Gangtok Central	Gangtok / Sikkim	Apartment / 3 BHK	878	₹60.51 L	Semi-Furnished	2	Family	Sale
+949	Sikkim Properties (Sikkim.txt)	3 BHK Villa	Gangtok Extension	Gangtok / Sikkim	Villa / 3 BHK	1557	₹17,500/month	Semi-Furnished	3	Family	Rent
+950	Sikkim Properties (Sikkim.txt)	4 BHK Apartment	Gyalshing Heights	Gyalshing / Sikkim	Apartment / 4 BHK	2304	₹26,500/month	Semi-Furnished	4	Any	Rent
+951	Sikkim Properties (Sikkim.txt)	2 BHK Apartment	Gangtok Town Centre	Gangtok / Sikkim	Apartment / 2 BHK	836	₹52.43 L	Fully-Furnished	3	Family	Sale
+952	Sikkim Properties (Sikkim.txt)	2 BHK Apartment	Gangtok Residential Area	Gangtok / Sikkim	Apartment / 2 BHK	986	₹48.20 L	Semi-Furnished	2	Family	Sale
+953	Sikkim Properties (Sikkim.txt)	3 BHK Independent House	Gyalshing North	Gyalshing / Sikkim	Independent House / 3 BHK	1470	₹70.90 L	Fully-Furnished	2	Any	Sale
+954	Sikkim Properties (Sikkim.txt)	3 BHK Apartment	Gangtok Extension	Gangtok / Sikkim	Apartment / 3 BHK	1293	₹20,100/month	Unfurnished	3	Family	Rent
+955	Sikkim Properties (Sikkim.txt)	1 BHK Apartment	Gangtok Nagar	Gangtok / Sikkim	Apartment / 1 BHK	476	₹25.94 L	Fully-Furnished	1	Bachelors	Sale
+956	Sikkim Properties (Sikkim.txt)	4 BHK Apartment	Gangtok Sector 3	Gangtok / Sikkim	Apartment / 4 BHK	2233	₹28,100/month	Fully-Furnished	5	Any	Rent
+957	Sikkim Properties (Sikkim.txt)	2 BHK Apartment	Gyalshing Central	Gyalshing / Sikkim	Apartment / 2 BHK	748	₹44.40 L	Semi-Furnished	2	Family	Sale
+958	Sikkim Properties (Sikkim.txt)	2 BHK Apartment	Namchi Sector 3	Namchi / Sikkim	Apartment / 2 BHK	956	₹50.09 L	Unfurnished	2	Bachelors	Sale
+959	Sikkim Properties (Sikkim.txt)	3 BHK Apartment	Gyalshing Colony	Gyalshing / Sikkim	Apartment / 3 BHK	976	₹51.65 L	Fully-Furnished	3	Family	Sale
+960	Sikkim Properties (Sikkim.txt)	2 BHK Apartment	Namchi Sector 3	Namchi / Sikkim	Apartment / 2 BHK	944	₹46.40 L	Unfurnished	1	Bachelors	Sale
+961	Sikkim Properties (Sikkim.txt)	2 BHK Apartment	Namchi Residential Area	Namchi / Sikkim	Apartment / 2 BHK	884	₹41.22 L	Semi-Furnished	1	Bachelors	Sale
+962	Sikkim Properties (Sikkim.txt)	3 BHK Apartment	Gangtok Extension	Gangtok / Sikkim	Apartment / 3 BHK	1324	₹17,700/month	Semi-Furnished	3	Bachelors	Rent
+963	Sikkim Properties (Sikkim.txt)	2 BHK Villa	Gangtok Sector 1	Gangtok / Sikkim	Villa / 2 BHK	1010	₹45.06 L	Semi-Furnished	2	Family	Sale
+964	Sikkim Properties (Sikkim.txt)	1 BHK Apartment	Gyalshing Nagar	Gyalshing / Sikkim	Apartment / 1 BHK	539	₹7,600/month	Semi-Furnished	1	Any	Rent
+965	Sikkim Properties (Sikkim.txt)	4 BHK Independent House	Gangtok Nagar	Gangtok / Sikkim	Independent House / 4 BHK	2250	₹76.15 L	Unfurnished	3	Family	Sale
+966	Sikkim Properties (Sikkim.txt)	1 BHK Villa	Gangtok Extension	Gangtok / Sikkim	Villa / 1 BHK	664	₹29 L	Semi-Furnished	2	Family	Sale
+967	Sikkim Properties (Sikkim.txt)	4 BHK Apartment	Gangtok Sector 2	Gangtok / Sikkim	Apartment / 4 BHK	1535	₹71.78 L	Fully-Furnished	5	Family	Sale
+968	Sikkim Properties (Sikkim.txt)	3 BHK Apartment	Gyalshing Residential Area	Gyalshing / Sikkim	Apartment / 3 BHK	1404	₹20,400/month	Fully-Furnished	3	Bachelors	Rent
+969	Sikkim Properties (Sikkim.txt)	2 BHK Apartment	Namchi East	Namchi / Sikkim	Apartment / 2 BHK	959	₹45.74 L	Unfurnished	1	Family	Sale
+970	Sikkim Properties (Sikkim.txt)	3 BHK Independent House	Gyalshing Nagar	Gyalshing / Sikkim	Independent House / 3 BHK	1824	₹71.28 L	Fully-Furnished	3	Family	Sale
+971	Sikkim Properties (Sikkim.txt)	2 BHK Independent House	Gangtok Heights	Gangtok / Sikkim	Independent House / 2 BHK	1151	₹11,800/month	Semi-Furnished	3	Any	Rent
+972	Sikkim Properties (Sikkim.txt)	1 BHK Builder Floor	Gangtok Nagar	Gangtok / Sikkim	Builder Floor / 1 BHK	579	₹29.32 L	Fully-Furnished	1	Family	Sale
+973	Sikkim Properties (Sikkim.txt)	4 BHK Apartment	Gyalshing Extension	Gyalshing / Sikkim	Apartment / 4 BHK	1959	₹77.86 L	Fully-Furnished	5	Family	Sale
+974	Sikkim Properties (Sikkim.txt)	1 BHK Studio	Gyalshing Main Road	Gyalshing / Sikkim	Studio / 1 BHK	399	₹22.61 L	Semi-Furnished	1	Any	Sale
+975	Sikkim Properties (Sikkim.txt)	5 BHK Builder Floor	Gyalshing Town Centre	Gyalshing / Sikkim	Builder Floor / 5 BHK	2272	₹1.09 Cr	Unfurnished	4	Family	Sale
+976	Sikkim Properties (Sikkim.txt)	1 BHK Apartment	Gangtok Town Centre	Gangtok / Sikkim	Apartment / 1 BHK	491	₹31.75 L	Unfurnished	2	Any	Sale
+977	Sikkim Properties (Sikkim.txt)	2 BHK Apartment	Gyalshing Sector 3	Gyalshing / Sikkim	Apartment / 2 BHK	861	₹47.43 L	Semi-Furnished	1	Family	Sale
+978	Sikkim Properties (Sikkim.txt)	2 BHK Apartment	Gangtok Nagar	Gangtok / Sikkim	Apartment / 2 BHK	629	₹49.87 L	Semi-Furnished	2	Any	Sale
+979	Sikkim Properties (Sikkim.txt)	2 BHK Independent House	Namchi Extension	Namchi / Sikkim	Independent House / 2 BHK	1153	₹43.34 L	Semi-Furnished	3	Family	Sale
+980	Sikkim Properties (Sikkim.txt)	2 BHK Builder Floor	Gyalshing South	Gyalshing / Sikkim	Builder Floor / 2 BHK	847	₹12,500/month	Unfurnished	3	Family	Rent
+981	Sikkim Properties (Sikkim.txt)	2 BHK Apartment	Gyalshing Town Centre	Gyalshing / Sikkim	Apartment / 2 BHK	885	₹37.70 L	Semi-Furnished	1	Bachelors	Sale
+982	Sikkim Properties (Sikkim.txt)	2 BHK Apartment	Namchi Heights	Namchi / Sikkim	Apartment / 2 BHK	985	₹49.52 L	Semi-Furnished	2	Bachelors	Sale
+983	Sikkim Properties (Sikkim.txt)	3 BHK Villa	Gangtok Nagar	Gangtok / Sikkim	Villa / 3 BHK	1438	₹61.69 L	Semi-Furnished	2	Bachelors	Sale
+984	Sikkim Properties (Sikkim.txt)	1 BHK Studio	Gangtok Extension	Gangtok / Sikkim	Studio / 1 BHK	393	₹8,800/month	Semi-Furnished	1	Bachelors	Rent
+985	Sikkim Properties (Sikkim.txt)	2 BHK Apartment	Namchi Residential Area	Namchi / Sikkim	Apartment / 2 BHK	823	₹47 L	Fully-Furnished	1	Bachelors	Sale
+986	Sikkim Properties (Sikkim.txt)	2 BHK Apartment	Gangtok South	Gangtok / Sikkim	Apartment / 2 BHK	1027	₹49.69 L	Fully-Furnished	2	Family	Sale
+987	Sikkim Properties (Sikkim.txt)	2 BHK Independent House	Gangtok Sector 1	Gangtok / Sikkim	Independent House / 2 BHK	930	₹53.13 L	Semi-Furnished	2	Bachelors	Sale
+988	Sikkim Properties (Sikkim.txt)	1 BHK Apartment	Gyalshing Extension	Gyalshing / Sikkim	Apartment / 1 BHK	599	₹33.36 L	Semi-Furnished	1	Family	Sale
+989	Sikkim Properties (Sikkim.txt)	2 BHK Independent House	Gyalshing Nagar	Gyalshing / Sikkim	Independent House / 2 BHK	1002	₹11,400/month	Semi-Furnished	3	Family	Rent
+990	Sikkim Properties (Sikkim.txt)	1 BHK Apartment	Gangtok Extension	Gangtok / Sikkim	Apartment / 1 BHK	618	₹34.29 L	Semi-Furnished	2	Family	Sale
+991	Sikkim Properties (Sikkim.txt)	3 BHK Apartment	Gangtok Sector 1	Gangtok / Sikkim	Apartment / 3 BHK	1567	₹78.05 L	Unfurnished	2	Any	Sale
+992	Sikkim Properties (Sikkim.txt)	3 BHK Independent House	Gyalshing Main Road	Gyalshing / Sikkim	Independent House / 3 BHK	1700	₹17,300/month	Fully-Furnished	4	Any	Rent
+993	Sikkim Properties (Sikkim.txt)	1 BHK Studio	Namchi East	Namchi / Sikkim	Studio / 1 BHK	308	₹6,400/month	Semi-Furnished	2	Bachelors	Rent
+994	Sikkim Properties (Sikkim.txt)	2 BHK Apartment	Gyalshing Nagar	Gyalshing / Sikkim	Apartment / 2 BHK	781	₹42.25 L	Unfurnished	3	Family	Sale
+995	Sikkim Properties (Sikkim.txt)	4 BHK Independent House	Namchi Heights	Namchi / Sikkim	Independent House / 4 BHK	2020	₹73.02 L	Fully-Furnished	4	Family	Sale
+996	Sikkim Properties (Sikkim.txt)	2 BHK Apartment	Namchi Town Centre	Namchi / Sikkim	Apartment / 2 BHK	853	₹40.76 L	Unfurnished	2	Any	Sale
+997	Sikkim Properties (Sikkim.txt)	3 BHK Builder Floor	Gangtok Residential Area	Gangtok / Sikkim	Builder Floor / 3 BHK	1283	₹64.06 L	Unfurnished	3	Any	Sale
+998	Sikkim Properties (Sikkim.txt)	2 BHK Builder Floor	Gangtok West	Gangtok / Sikkim	Builder Floor / 2 BHK	720	₹13,200/month	Semi-Furnished	3	Bachelors	Rent
+999	Sikkim Properties (Sikkim.txt)	4 BHK Apartment	Gangtok Sector 1	Gangtok / Sikkim	Apartment / 4 BHK	1365	₹75.28 L	Semi-Furnished	5	Any	Sale
+1000	Sikkim Properties (Sikkim.txt)	1 BHK Builder Floor	Gangtok Sector 1	Gangtok / Sikkim	Builder Floor / 1 BHK	463	₹27.35 L	Unfurnished	2	Any	Sale
+1001	Sikkim Properties (Sikkim.txt)	1 BHK Studio	Gangtok Heights	Gangtok / Sikkim	Studio / 1 BHK	376	₹22.71 L	Semi-Furnished	1	Family	Sale
+1002	Sikkim Properties (Sikkim.txt)	3 BHK Apartment	Gyalshing East	Gyalshing / Sikkim	Apartment / 3 BHK	1375	₹73.02 L	Semi-Furnished	2	Family	Sale
+1003	Sikkim Properties (Sikkim.txt)	2 BHK Apartment	Gyalshing Colony	Gyalshing / Sikkim	Apartment / 2 BHK	791	₹13,000/month	Unfurnished	2	Any	Rent
+1004	Sikkim Properties (Sikkim.txt)	3 BHK Apartment	Gyalshing Main Road	Gyalshing / Sikkim	Apartment / 3 BHK	1387	₹16,600/month	Semi-Furnished	4	Any	Rent
+1005	Sikkim Properties (Sikkim.txt)	2 BHK Apartment	Gangtok West	Gangtok / Sikkim	Apartment / 2 BHK	953	₹14,100/month	Fully-Furnished	2	Bachelors	Rent
+1006	Sikkim Properties (Sikkim.txt)	2 BHK Apartment	Namchi Central	Namchi / Sikkim	Apartment / 2 BHK	857	₹50.79 L	Fully-Furnished	2	Any	Sale
+1007	Sikkim Properties (Sikkim.txt)	2 BHK Apartment	Namchi Sector 1	Namchi / Sikkim	Apartment / 2 BHK	738	₹41.18 L	Unfurnished	1	Family	Sale
+1008	Sikkim Properties (Sikkim.txt)	5 BHK Apartment	Gangtok Central	Gangtok / Sikkim	Apartment / 5 BHK	1869	₹1.05 Cr	Unfurnished	5	Any	Sale
+1009	Sikkim Properties (Sikkim.txt)	3 BHK Builder Floor	Gyalshing Town Centre	Gyalshing / Sikkim	Builder Floor / 3 BHK	1478	₹14,700/month	Fully-Furnished	4	Family	Rent
+1010	Sikkim Properties (Sikkim.txt)	4 BHK Builder Floor	Namchi Residential Area	Namchi / Sikkim	Builder Floor / 4 BHK	1630	₹21,900/month	Semi-Furnished	4	Bachelors	Rent
+1011	Sikkim Properties (Sikkim.txt)	2 BHK Apartment	Gyalshing South	Gyalshing / Sikkim	Apartment / 2 BHK	657	₹50.34 L	Fully-Furnished	1	Family	Sale
+1012	Sikkim Properties (Sikkim.txt)	3 BHK Apartment	Namchi Sector 3	Namchi / Sikkim	Apartment / 3 BHK	1210	₹17,400/month	Semi-Furnished	3	Family	Rent
+1013	Sikkim Properties (Sikkim.txt)	2 BHK Apartment	Gyalshing Sector 2	Gyalshing / Sikkim	Apartment / 2 BHK	670	₹39.02 L	Fully-Furnished	2	Family	Sale
+1014	Sikkim Properties (Sikkim.txt)	1 BHK Independent House	Namchi West	Namchi / Sikkim	Independent House / 1 BHK	679	₹35.96 L	Fully-Furnished	2	Bachelors	Sale
+1015	Sikkim Properties (Sikkim.txt)	2 BHK Villa	Gangtok West	Gangtok / Sikkim	Villa / 2 BHK	1328	₹12,500/month	Unfurnished	2	Bachelors	Rent
+1016	Sikkim Properties (Sikkim.txt)	1 BHK Apartment	Namchi South	Namchi / Sikkim	Apartment / 1 BHK	482	₹28.82 L	Semi-Furnished	1	Family	Sale
+1017	Sikkim Properties (Sikkim.txt)	3 BHK Apartment	Gangtok Extension	Gangtok / Sikkim	Apartment / 3 BHK	1078	₹18,900/month	Unfurnished	3	Family	Rent
+1018	Sikkim Properties (Sikkim.txt)	2 BHK Villa	Namchi Central	Namchi / Sikkim	Villa / 2 BHK	1159	₹55.11 L	Unfurnished	2	Any	Sale
+1019	Sikkim Properties (Sikkim.txt)	4 BHK Apartment	Gyalshing East	Gyalshing / Sikkim	Apartment / 4 BHK	1960	₹78.99 L	Fully-Furnished	4	Family	Sale
+1020	Sikkim Properties (Sikkim.txt)	1 BHK Apartment	Gyalshing Colony	Gyalshing / Sikkim	Apartment / 1 BHK	490	₹23.84 L	Unfurnished	2	Any	Sale
+1021	Sikkim Properties (Sikkim.txt)	3 BHK Apartment	Gyalshing Central	Gyalshing / Sikkim	Apartment / 3 BHK	1172	₹72.77 L	Fully-Furnished	2	Any	Sale
+1022	Sikkim Properties (Sikkim.txt)	1 BHK Studio	Gangtok Town Centre	Gangtok / Sikkim	Studio / 1 BHK	320	₹21.55 L	Fully-Furnished	1	Family	Sale
+1023	Sikkim Properties (Sikkim.txt)	3 BHK Villa	Gyalshing Town Centre	Gyalshing / Sikkim	Villa / 3 BHK	1493	₹71.51 L	Fully-Furnished	3	Family	Sale
+1024	Sikkim Properties (Sikkim.txt)	3 BHK Apartment	Namchi West	Namchi / Sikkim	Apartment / 3 BHK	1530	₹15,300/month	Semi-Furnished	3	Family	Rent
+1025	Sikkim Properties (Sikkim.txt)	2 BHK Apartment	Gangtok Main Road	Gangtok / Sikkim	Apartment / 2 BHK	693	₹36.53 L	Semi-Furnished	1	Family	Sale
+1026	Sikkim Properties (Sikkim.txt)	3 BHK Apartment	Gyalshing Town Centre	Gyalshing / Sikkim	Apartment / 3 BHK	1024	₹16,100/month	Unfurnished	3	Bachelors	Rent
+1027	Sikkim Properties (Sikkim.txt)	3 BHK Independent House	Namchi North	Namchi / Sikkim	Independent House / 3 BHK	1561	₹18,200/month	Semi-Furnished	2	Family	Rent
+1028	Sikkim Properties (Sikkim.txt)	3 BHK Builder Floor	Gangtok Central	Gangtok / Sikkim	Builder Floor / 3 BHK	1215	₹71.26 L	Semi-Furnished	4	Family	Sale
+1029	Sikkim Properties (Sikkim.txt)	2 BHK Apartment	Namchi North	Namchi / Sikkim	Apartment / 2 BHK	1040	₹12,600/month	Unfurnished	3	Bachelors	Rent
+1030	Sikkim Properties (Sikkim.txt)	2 BHK Apartment	Gangtok Sector 3	Gangtok / Sikkim	Apartment / 2 BHK	792	₹47.08 L	Unfurnished	3	Family	Sale
+1031	Sikkim Properties (Sikkim.txt)	5 BHK Independent House	Gyalshing South	Gyalshing / Sikkim	Independent House / 5 BHK	3592	₹1.17 Cr	Semi-Furnished	6	Family	Sale
+1032	Sikkim Properties (Sikkim.txt)	3 BHK Builder Floor	Gangtok Main Road	Gangtok / Sikkim	Builder Floor / 3 BHK	1201	₹18,100/month	Semi-Furnished	4	Any	Rent
+1033	Sikkim Properties (Sikkim.txt)	5 BHK Villa	Gangtok South	Gangtok / Sikkim	Villa / 5 BHK	3523	₹1.26 Cr	Semi-Furnished	5	Any	Sale
+1034	Sikkim Properties (Sikkim.txt)	2 BHK Villa	Namchi North	Namchi / Sikkim	Villa / 2 BHK	1106	₹41.92 L	Fully-Furnished	3	Any	Sale
+1035	Sikkim Properties (Sikkim.txt)	3 BHK Apartment	Gyalshing Residential Area	Gyalshing / Sikkim	Apartment / 3 BHK	1315	₹19,000/month	Semi-Furnished	2	Family	Rent
+1036	Sikkim Properties (Sikkim.txt)	1 BHK Apartment	Gyalshing North	Gyalshing / Sikkim	Apartment / 1 BHK	482	₹29.49 L	Semi-Furnished	1	Any	Sale
+1037	Sikkim Properties (Sikkim.txt)	2 BHK Villa	Gyalshing Central	Gyalshing / Sikkim	Villa / 2 BHK	1198	₹14,400/month	Unfurnished	1	Family	Rent
+1038	Sikkim Properties (Sikkim.txt)	2 BHK Villa	Namchi West	Namchi / Sikkim	Villa / 2 BHK	1397	₹12,500/month	Semi-Furnished	3	Family	Rent
+1039	Sikkim Properties (Sikkim.txt)	3 BHK Independent House	Gyalshing Heights	Gyalshing / Sikkim	Independent House / 3 BHK	1331	₹14,300/month	Fully-Furnished	4	Bachelors	Rent
+1040	Sikkim Properties (Sikkim.txt)	3 BHK Villa	Gangtok Town Centre	Gangtok / Sikkim	Villa / 3 BHK	1784	₹69.95 L	Semi-Furnished	3	Bachelors	Sale
+1041	Sikkim Properties (Sikkim.txt)	4 BHK Builder Floor	Namchi Main Road	Namchi / Sikkim	Builder Floor / 4 BHK	1834	₹87.22 L	Unfurnished	3	Any	Sale
+1042	Sikkim Properties (Sikkim.txt)	1 BHK Apartment	Gangtok Heights	Gangtok / Sikkim	Apartment / 1 BHK	443	₹27.13 L	Unfurnished	2	Any	Sale
+1043	Sikkim Properties (Sikkim.txt)	3 BHK Apartment	Namchi Nagar	Namchi / Sikkim	Apartment / 3 BHK	1271	₹60.06 L	Semi-Furnished	2	Family	Sale
+1044	Sikkim Properties (Sikkim.txt)	2 BHK Apartment	Gangtok Sector 3	Gangtok / Sikkim	Apartment / 2 BHK	662	₹36.22 L	Unfurnished	2	Any	Sale
+1045	Sikkim Properties (Sikkim.txt)	2 BHK Villa	Gangtok Heights	Gangtok / Sikkim	Villa / 2 BHK	1171	₹15,600/month	Unfurnished	2	Family	Rent
+1046	Sikkim Properties (Sikkim.txt)	2 BHK Builder Floor	Namchi Central	Namchi / Sikkim	Builder Floor / 2 BHK	805	₹52.82 L	Unfurnished	3	Any	Sale
+1047	Sikkim Properties (Sikkim.txt)	2 BHK Apartment	Gangtok Extension	Gangtok / Sikkim	Apartment / 2 BHK	959	₹12,200/month	Semi-Furnished	2	Bachelors	Rent
+1048	Sikkim Properties (Sikkim.txt)	3 BHK Apartment	Namchi East	Namchi / Sikkim	Apartment / 3 BHK	978	₹13,600/month	Semi-Furnished	2	Any	Rent
+1049	Sikkim Properties (Sikkim.txt)	2 BHK Apartment	Gyalshing Extension	Gyalshing / Sikkim	Apartment / 2 BHK	1026	₹43.02 L	Semi-Furnished	2	Family	Sale
+1050	Sikkim Properties (Sikkim.txt)	2 BHK Apartment	Namchi Nagar	Namchi / Sikkim	Apartment / 2 BHK	874	₹51.62 L	Semi-Furnished	3	Family	Sale
+1051	Sikkim Properties (Sikkim.txt)	2 BHK Builder Floor	Gyalshing Sector 3	Gyalshing / Sikkim	Builder Floor / 2 BHK	885	₹13,600/month	Semi-Furnished	2	Family	Rent
+1052	Sikkim Properties (Sikkim.txt)	3 BHK Builder Floor	Gyalshing Main Road	Gyalshing / Sikkim	Builder Floor / 3 BHK	1030	₹15,300/month	Fully-Furnished	3	Family	Rent
+1053	Sikkim Properties (Sikkim.txt)	2 BHK Apartment	Gangtok Town Centre	Gangtok / Sikkim	Apartment / 2 BHK	739	₹48.06 L	Fully-Furnished	2	Bachelors	Sale
+1054	Sikkim Properties (Sikkim.txt)	4 BHK Independent House	Gyalshing Extension	Gyalshing / Sikkim	Independent House / 4 BHK	1978	₹27,100/month	Semi-Furnished	4	Bachelors	Rent
+1055	Sikkim Properties (Sikkim.txt)	2 BHK Villa	Namchi Extension	Namchi / Sikkim	Villa / 2 BHK	977	₹54.12 L	Semi-Furnished	1	Bachelors	Sale
+1056	Sikkim Properties (Sikkim.txt)	4 BHK Apartment	Gyalshing Colony	Gyalshing / Sikkim	Apartment / 4 BHK	1681	₹95.17 L	Semi-Furnished	3	Family	Sale
+1057	Sikkim Properties (Sikkim.txt)	2 BHK Builder Floor	Gangtok Sector 3	Gangtok / Sikkim	Builder Floor / 2 BHK	818	₹54.05 L	Unfurnished	2	Family	Sale
+1058	Sikkim Properties (Sikkim.txt)	1 BHK Studio	Gangtok Town Centre	Gangtok / Sikkim	Studio / 1 BHK	345	₹23.79 L	Unfurnished	1	Family	Sale
+1059	Sikkim Properties (Sikkim.txt)	1 BHK Builder Floor	Gyalshing Colony	Gyalshing / Sikkim	Builder Floor / 1 BHK	501	₹24.08 L	Semi-Furnished	1	Any	Sale
+1060	Sikkim Properties (Sikkim.txt)	2 BHK Apartment	Gyalshing East	Gyalshing / Sikkim	Apartment / 2 BHK	915	₹48.86 L	Semi-Furnished	2	Any	Sale
+1061	Sikkim Properties (Sikkim.txt)	2 BHK Apartment	Gyalshing South	Gyalshing / Sikkim	Apartment / 2 BHK	840	₹13,700/month	Semi-Furnished	2	Family	Rent
+1062	Sikkim Properties (Sikkim.txt)	1 BHK Apartment	Namchi East	Namchi / Sikkim	Apartment / 1 BHK	474	₹28 L	Semi-Furnished	1	Any	Sale
+1063	Sikkim Properties (Sikkim.txt)	1 BHK Apartment	Namchi Main Road	Namchi / Sikkim	Apartment / 1 BHK	449	₹25.68 L	Semi-Furnished	1	Family	Sale
+1064	Sikkim Properties (Sikkim.txt)	2 BHK Apartment	Gyalshing Main Road	Gyalshing / Sikkim	Apartment / 2 BHK	1073	₹50.40 L	Unfurnished	2	Bachelors	Sale
+1065	Sikkim Properties (Sikkim.txt)	3 BHK Apartment	Gyalshing North	Gyalshing / Sikkim	Apartment / 3 BHK	930	₹67.56 L	Unfurnished	3	Family	Sale
+1066	Sikkim Properties (Sikkim.txt)	3 BHK Independent House	Gyalshing Residential Area	Gyalshing / Sikkim	Independent House / 3 BHK	1337	₹62.91 L	Unfurnished	3	Family	Sale
+1067	Sikkim Properties (Sikkim.txt)	1 BHK Apartment	Gangtok Central	Gangtok / Sikkim	Apartment / 1 BHK	467	₹6,600/month	Unfurnished	1	Family	Rent
+1068	Sikkim Properties (Sikkim.txt)	3 BHK Villa	Gyalshing Residential Area	Gyalshing / Sikkim	Villa / 3 BHK	1713	₹62.41 L	Fully-Furnished	3	Family	Sale
+1069	Sikkim Properties (Sikkim.txt)	3 BHK Independent House	Gangtok Colony	Gangtok / Sikkim	Independent House / 3 BHK	1311	₹58.54 L	Unfurnished	3	Any	Sale
+1070	Sikkim Properties (Sikkim.txt)	2 BHK Independent House	Namchi Heights	Namchi / Sikkim	Independent House / 2 BHK	745	₹44.52 L	Semi-Furnished	3	Family	Sale
+1071	Sikkim Properties (Sikkim.txt)	1 BHK Apartment	Namchi Central	Namchi / Sikkim	Apartment / 1 BHK	640	₹8,900/month	Semi-Furnished	2	Bachelors	Rent
+1072	Sikkim Properties (Sikkim.txt)	2 BHK Apartment	Namchi Sector 3	Namchi / Sikkim	Apartment / 2 BHK	961	₹47.66 L	Unfurnished	2	Bachelors	Sale
+1073	Sikkim Properties (Sikkim.txt)	3 BHK Apartment	Gangtok North	Gangtok / Sikkim	Apartment / 3 BHK	1381	₹20,500/month	Semi-Furnished	2	Family	Rent
+1074	Sikkim Properties (Sikkim.txt)	3 BHK Builder Floor	Gyalshing Sector 3	Gyalshing / Sikkim	Builder Floor / 3 BHK	1139	₹55.62 L	Unfurnished	3	Bachelors	Sale
+1075	Sikkim Properties (Sikkim.txt)	1 BHK Independent House	Namchi Main Road	Namchi / Sikkim	Independent House / 1 BHK	655	₹25.44 L	Fully-Furnished	1	Bachelors	Sale
+1076	Sikkim Properties (Sikkim.txt)	4 BHK Apartment	Gangtok North	Gangtok / Sikkim	Apartment / 4 BHK	1942	₹85.44 L	Fully-Furnished	5	Family	Sale
+1077	Sikkim Properties (Sikkim.txt)	2 BHK Independent House	Namchi North	Namchi / Sikkim	Independent House / 2 BHK	1137	₹12,300/month	Unfurnished	2	Family	Rent
+1078	Sikkim Properties (Sikkim.txt)	3 BHK Builder Floor	Gyalshing South	Gyalshing / Sikkim	Builder Floor / 3 BHK	1385	₹60.49 L	Unfurnished	3	Any	Sale
+1079	Sikkim Properties (Sikkim.txt)	3 BHK Apartment	Namchi Colony	Namchi / Sikkim	Apartment / 3 BHK	1547	₹71.28 L	Fully-Furnished	3	Family	Sale
+1080	Sikkim Properties (Sikkim.txt)	3 BHK Apartment	Namchi Extension	Namchi / Sikkim	Apartment / 3 BHK	1312	₹67.72 L	Unfurnished	3	Family	Sale
+1081	Sikkim Properties (Sikkim.txt)	2 BHK Apartment	Gyalshing North	Gyalshing / Sikkim	Apartment / 2 BHK	899	₹41.87 L	Semi-Furnished	2	Any	Sale
+1082	Sikkim Properties (Sikkim.txt)	3 BHK Villa	Gyalshing Colony	Gyalshing / Sikkim	Villa / 3 BHK	1839	₹69.30 L	Fully-Furnished	3	Bachelors	Sale
+1083	Sikkim Properties (Sikkim.txt)	5 BHK Independent House	Gyalshing Central	Gyalshing / Sikkim	Independent House / 5 BHK	2144	₹1.11 Cr	Semi-Furnished	5	Bachelors	Sale
+1084	Sikkim Properties (Sikkim.txt)	3 BHK Apartment	Gangtok East	Gangtok / Sikkim	Apartment / 3 BHK	1340	₹56.42 L	Fully-Furnished	3	Bachelors	Sale
+1085	Sikkim Properties (Sikkim.txt)	2 BHK Apartment	Gangtok South	Gangtok / Sikkim	Apartment / 2 BHK	672	₹11,500/month	Fully-Furnished	2	Any	Rent
+1086	Sikkim Properties (Sikkim.txt)	3 BHK Villa	Gangtok Sector 3	Gangtok / Sikkim	Villa / 3 BHK	1783	₹19,500/month	Semi-Furnished	2	Bachelors	Rent
+1087	Sikkim Properties (Sikkim.txt)	1 BHK Apartment	Gangtok Main Road	Gangtok / Sikkim	Apartment / 1 BHK	520	₹31.50 L	Unfurnished	1	Bachelors	Sale
+1088	Sikkim Properties (Sikkim.txt)	2 BHK Apartment	Gyalshing Residential Area	Gyalshing / Sikkim	Apartment / 2 BHK	734	₹51.32 L	Semi-Furnished	2	Bachelors	Sale
+1089	Sikkim Properties (Sikkim.txt)	3 BHK Apartment	Namchi Central	Namchi / Sikkim	Apartment / 3 BHK	1244	₹17,300/month	Semi-Furnished	4	Any	Rent
+1090	Sikkim Properties (Sikkim.txt)	1 BHK Studio	Namchi Town Centre	Namchi / Sikkim	Studio / 1 BHK	367	₹31.12 L	Unfurnished	1	Bachelors	Sale
+1091	Sikkim Properties (Sikkim.txt)	3 BHK Apartment	Gyalshing Sector 2	Gyalshing / Sikkim	Apartment / 3 BHK	933	₹60.37 L	Semi-Furnished	2	Family	Sale
+1092	Sikkim Properties (Sikkim.txt)	2 BHK Apartment	Gyalshing Extension	Gyalshing / Sikkim	Apartment / 2 BHK	794	₹13,100/month	Semi-Furnished	2	Any	Rent
+1093	Sikkim Properties (Sikkim.txt)	3 BHK Apartment	Gangtok Residential Area	Gangtok / Sikkim	Apartment / 3 BHK	1174	₹17,600/month	Semi-Furnished	4	Family	Rent
+1094	Sikkim Properties (Sikkim.txt)	1 BHK Studio	Gangtok Sector 1	Gangtok / Sikkim	Studio / 1 BHK	351	₹6,900/month	Semi-Furnished	1	Any	Rent
+1095	Sikkim Properties (Sikkim.txt)	3 BHK Independent House	Gyalshing South	Gyalshing / Sikkim	Independent House / 3 BHK	1116	₹15,300/month	Semi-Furnished	3	Bachelors	Rent
+1096	Sikkim Properties (Sikkim.txt)	2 BHK Apartment	Gangtok Central	Gangtok / Sikkim	Apartment / 2 BHK	799	₹48.76 L	Fully-Furnished	3	Family	Sale
+1097	Sikkim Properties (Sikkim.txt)	4 BHK Apartment	Gangtok Town Centre	Gangtok / Sikkim	Apartment / 4 BHK	2302	₹27,700/month	Semi-Furnished	3	Any	Rent
+1098	Sikkim Properties (Sikkim.txt)	3 BHK Apartment	Gangtok Town Centre	Gangtok / Sikkim	Apartment / 3 BHK	971	₹59.57 L	Unfurnished	3	Bachelors	Sale
+1099	Sikkim Properties (Sikkim.txt)	4 BHK Apartment	Gyalshing Nagar	Gyalshing / Sikkim	Apartment / 4 BHK	1268	₹80.34 L	Semi-Furnished	4	Family	Sale
+1100	Sikkim Properties (Sikkim.txt)	4 BHK Apartment	Gyalshing Extension	Gyalshing / Sikkim	Apartment / 4 BHK	1644	₹71.87 L	Fully-Furnished	4	Bachelors	Sale
+1101	Sikkim Properties (Sikkim.txt)	2 BHK Apartment	Gangtok Sector 1	Gangtok / Sikkim	Apartment / 2 BHK	723	₹11,800/month	Fully-Furnished	2	Any	Rent
+1102	Sikkim Properties (Sikkim.txt)	1 BHK Studio	Gangtok North	Gangtok / Sikkim	Studio / 1 BHK	367	₹22.93 L	Semi-Furnished	1	Family	Sale
+1103	Sikkim Properties (Sikkim.txt)	1 BHK Studio	Gyalshing Central	Gyalshing / Sikkim	Studio / 1 BHK	441	₹9,600/month	Unfurnished	1	Any	Rent
+1104	Sikkim Properties (Sikkim.txt)	3 BHK Independent House	Gangtok Sector 2	Gangtok / Sikkim	Independent House / 3 BHK	1700	₹17,700/month	Fully-Furnished	3	Family	Rent
+1105	Sikkim Properties (Sikkim.txt)	1 BHK Apartment	Gyalshing East	Gyalshing / Sikkim	Apartment / 1 BHK	502	₹8,300/month	Fully-Furnished	1	Family	Rent
+1106	Sikkim Properties (Sikkim.txt)	4 BHK Apartment	Namchi Heights	Namchi / Sikkim	Apartment / 4 BHK	1760	₹94.29 L	Semi-Furnished	4	Bachelors	Sale
+1107	Sikkim Properties (Sikkim.txt)	3 BHK Builder Floor	Gangtok North	Gangtok / Sikkim	Builder Floor / 3 BHK	1088	₹60.82 L	Unfurnished	3	Family	Sale
+1108	Sikkim Properties (Sikkim.txt)	1 BHK Apartment	Gyalshing Main Road	Gyalshing / Sikkim	Apartment / 1 BHK	409	₹8,200/month	Semi-Furnished	1	Family	Rent
+1109	Sikkim Properties (Sikkim.txt)	1 BHK Studio	Gyalshing Residential Area	Gyalshing / Sikkim	Studio / 1 BHK	300	₹30.39 L	Semi-Furnished	1	Family	Sale
+1110	Sikkim Properties (Sikkim.txt)	2 BHK Villa	Gyalshing Residential Area	Gyalshing / Sikkim	Villa / 2 BHK	995	₹15,000/month	Semi-Furnished	2	Any	Rent
+1111	Sikkim Properties (Sikkim.txt)	4 BHK Builder Floor	Namchi Colony	Namchi / Sikkim	Builder Floor / 4 BHK	1539	₹82.57 L	Semi-Furnished	4	Any	Sale
+1112	Sikkim Properties (Sikkim.txt)	1 BHK Independent House	Gyalshing Main Road	Gyalshing / Sikkim	Independent House / 1 BHK	540	₹8,500/month	Unfurnished	1	Any	Rent
+1113	Sikkim Properties (Sikkim.txt)	2 BHK Apartment	Namchi Sector 2	Namchi / Sikkim	Apartment / 2 BHK	788	₹47.18 L	Fully-Furnished	3	Any	Sale
+1114	Sikkim Properties (Sikkim.txt)	4 BHK Apartment	Gangtok Town Centre	Gangtok / Sikkim	Apartment / 4 BHK	1857	₹87.10 L	Semi-Furnished	3	Bachelors	Sale
+1115	Sikkim Properties (Sikkim.txt)	2 BHK Independent House	Gyalshing Sector 1	Gyalshing / Sikkim	Independent House / 2 BHK	1086	₹41.33 L	Fully-Furnished	2	Family	Sale
+1116	Sikkim Properties (Sikkim.txt)	4 BHK Apartment	Namchi Colony	Namchi / Sikkim	Apartment / 4 BHK	1764	₹93.31 L	Semi-Furnished	3	Any	Sale
+1117	Sikkim Properties (Sikkim.txt)	1 BHK Villa	Namchi Sector 2	Namchi / Sikkim	Villa / 1 BHK	691	₹32.41 L	Fully-Furnished	1	Bachelors	Sale
+1118	Sikkim Properties (Sikkim.txt)	1 BHK Independent House	Gyalshing Heights	Gyalshing / Sikkim	Independent House / 1 BHK	655	₹30.70 L	Fully-Furnished	1	Family	Sale
+1119	Sikkim Properties (Sikkim.txt)	4 BHK Apartment	Gangtok Sector 3	Gangtok / Sikkim	Apartment / 4 BHK	1498	₹75.66 L	Unfurnished	5	Bachelors	Sale
+1120	Sikkim Properties (Sikkim.txt)	3 BHK Builder Floor	Gyalshing Nagar	Gyalshing / Sikkim	Builder Floor / 3 BHK	1528	₹78.71 L	Fully-Furnished	3	Any	Sale
+1121	Sikkim Properties (Sikkim.txt)	4 BHK Apartment	Namchi South	Namchi / Sikkim	Apartment / 4 BHK	1819	₹91.05 L	Semi-Furnished	4	Bachelors	Sale
+1122	Sikkim Properties (Sikkim.txt)	2 BHK Apartment	Namchi Colony	Namchi / Sikkim	Apartment / 2 BHK	906	₹37.51 L	Fully-Furnished	2	Family	Sale
+1123	Sikkim Properties (Sikkim.txt)	1 BHK Apartment	Gangtok Extension	Gangtok / Sikkim	Apartment / 1 BHK	432	₹23.30 L	Semi-Furnished	1	Family	Sale
+1124	Sikkim Properties (Sikkim.txt)	3 BHK Apartment	Gyalshing Residential Area	Gyalshing / Sikkim	Apartment / 3 BHK	1158	₹64.73 L	Semi-Furnished	3	Family	Sale
+1125	Sikkim Properties (Sikkim.txt)	2 BHK Apartment	Gangtok South	Gangtok / Sikkim	Apartment / 2 BHK	778	₹37.87 L	Semi-Furnished	2	Any	Sale
+1126	Sikkim Properties (Sikkim.txt)	3 BHK Apartment	Gangtok Extension	Gangtok / Sikkim	Apartment / 3 BHK	896	₹15,700/month	Fully-Furnished	2	Family	Rent
+1127	Sikkim Properties (Sikkim.txt)	2 BHK Independent House	Gyalshing Extension	Gyalshing / Sikkim	Independent House / 2 BHK	945	₹13,200/month	Fully-Furnished	2	Bachelors	Rent
+1128	Sikkim Properties (Sikkim.txt)	2 BHK Apartment	Gyalshing Sector 1	Gyalshing / Sikkim	Apartment / 2 BHK	849	₹14,100/month	Fully-Furnished	3	Family	Rent
+1129	Sikkim Properties (Sikkim.txt)	4 BHK Apartment	Gyalshing Central	Gyalshing / Sikkim	Apartment / 4 BHK	1945	₹22,400/month	Unfurnished	4	Bachelors	Rent
+1130	Sikkim Properties (Sikkim.txt)	3 BHK Independent House	Gyalshing Central	Gyalshing / Sikkim	Independent House / 3 BHK	1464	₹69.75 L	Unfurnished	2	Bachelors	Sale
+1131	Sikkim Properties (Sikkim.txt)	1 BHK Builder Floor	Gangtok South	Gangtok / Sikkim	Builder Floor / 1 BHK	516	₹31.88 L	Unfurnished	1	Family	Sale
+1132	Sikkim Properties (Sikkim.txt)	2 BHK Villa	Gyalshing Central	Gyalshing / Sikkim	Villa / 2 BHK	1155	₹12,800/month	Unfurnished	2	Any	Rent
+1133	Sikkim Properties (Sikkim.txt)	4 BHK Apartment	Gyalshing Heights	Gyalshing / Sikkim	Apartment / 4 BHK	1807	₹18,600/month	Semi-Furnished	4	Any	Rent
+1134	Sikkim Properties (Sikkim.txt)	3 BHK Independent House	Namchi North	Namchi / Sikkim	Independent House / 3 BHK	1675	₹18,300/month	Unfurnished	3	Any	Rent
+1135	Sikkim Properties (Sikkim.txt)	2 BHK Builder Floor	Gyalshing Main Road	Gyalshing / Sikkim	Builder Floor / 2 BHK	936	₹45.39 L	Semi-Furnished	1	Bachelors	Sale
+1136	Sikkim Properties (Sikkim.txt)	1 BHK Studio	Namchi Sector 2	Namchi / Sikkim	Studio / 1 BHK	378	₹31.70 L	Semi-Furnished	1	Family	Sale
+1137	Sikkim Properties (Sikkim.txt)	1 BHK Apartment	Gangtok Residential Area	Gangtok / Sikkim	Apartment / 1 BHK	498	₹30.05 L	Fully-Furnished	1	Bachelors	Sale
+1138	Sikkim Properties (Sikkim.txt)	3 BHK Independent House	Namchi South	Namchi / Sikkim	Independent House / 3 BHK	1627	₹60.83 L	Semi-Furnished	3	Bachelors	Sale
+1139	Sikkim Properties (Sikkim.txt)	3 BHK Apartment	Gyalshing Main Road	Gyalshing / Sikkim	Apartment / 3 BHK	1219	₹51.13 L	Unfurnished	3	Bachelors	Sale
+1140	Sikkim Properties (Sikkim.txt)	3 BHK Apartment	Gyalshing South	Gyalshing / Sikkim	Apartment / 3 BHK	1138	₹68.40 L	Fully-Furnished	2	Family	Sale
+1141	Sikkim Properties (Sikkim.txt)	3 BHK Apartment	Gangtok Sector 1	Gangtok / Sikkim	Apartment / 3 BHK	1182	₹68.56 L	Fully-Furnished	3	Family	Sale
+1142	Sikkim Properties (Sikkim.txt)	2 BHK Builder Floor	Gyalshing East	Gyalshing / Sikkim	Builder Floor / 2 BHK	942	₹41.58 L	Unfurnished	2	Any	Sale
+1143	Sikkim Properties (Sikkim.txt)	3 BHK Independent House	Gangtok Colony	Gangtok / Sikkim	Independent House / 3 BHK	1095	₹13,500/month	Semi-Furnished	2	Family	Rent
+1144	Sikkim Properties (Sikkim.txt)	1 BHK Apartment	Namchi North	Namchi / Sikkim	Apartment / 1 BHK	448	₹6,800/month	Unfurnished	1	Family	Rent
+1145	Sikkim Properties (Sikkim.txt)	1 BHK Studio	Namchi West	Namchi / Sikkim	Studio / 1 BHK	405	₹25.67 L	Unfurnished	1	Family	Sale
+1146	Sikkim Properties (Sikkim.txt)	2 BHK Independent House	Gyalshing Sector 3	Gyalshing / Sikkim	Independent House / 2 BHK	1243	₹49.58 L	Semi-Furnished	1	Family	Sale
+1147	Sikkim Properties (Sikkim.txt)	2 BHK Apartment	Namchi West	Namchi / Sikkim	Apartment / 2 BHK	713	₹11,800/month	Semi-Furnished	2	Family	Rent
+1148	Sikkim Properties (Sikkim.txt)	1 BHK Apartment	Gyalshing Residential Area	Gyalshing / Sikkim	Apartment / 1 BHK	499	₹27.11 L	Fully-Furnished	2	Any	Sale
+1149	Sikkim Properties (Sikkim.txt)	3 BHK Apartment	Gangtok Nagar	Gangtok / Sikkim	Apartment / 3 BHK	1343	₹64.18 L	Unfurnished	3	Any	Sale
+1150	Sikkim Properties (Sikkim.txt)	2 BHK Apartment	Gyalshing Sector 3	Gyalshing / Sikkim	Apartment / 2 BHK	807	₹12,000/month	Fully-Furnished	2	Family	Rent
+1151	Sikkim Properties (Sikkim.txt)	2 BHK Apartment	Gyalshing Town Centre	Gyalshing / Sikkim	Apartment / 2 BHK	717	₹13,800/month	Fully-Furnished	1	Family	Rent
+1152	Sikkim Properties (Sikkim.txt)	5 BHK Independent House	Gyalshing Sector 2	Gyalshing / Sikkim	Independent House / 5 BHK	3021	₹35,500/month	Fully-Furnished	5	Bachelors	Rent
+1153	Sikkim Properties (Sikkim.txt)	2 BHK Apartment	Gangtok Sector 1	Gangtok / Sikkim	Apartment / 2 BHK	981	₹42.97 L	Fully-Furnished	1	Family	Sale
+1154	Sikkim Properties (Sikkim.txt)	2 BHK Apartment	Namchi Sector 1	Namchi / Sikkim	Apartment / 2 BHK	643	₹13,000/month	Unfurnished	2	Bachelors	Rent
+1155	Sikkim Properties (Sikkim.txt)	1 BHK Apartment	Gangtok Colony	Gangtok / Sikkim	Apartment / 1 BHK	537	₹6,900/month	Fully-Furnished	1	Any	Rent
+1156	Sikkim Properties (Sikkim.txt)	2 BHK Apartment	Namchi Sector 3	Namchi / Sikkim	Apartment / 2 BHK	852	₹11,300/month	Unfurnished	2	Family	Rent
+1157	Sikkim Properties (Sikkim.txt)	3 BHK Apartment	Gyalshing Central	Gyalshing / Sikkim	Apartment / 3 BHK	1062	₹72.41 L	Semi-Furnished	3	Any	Sale
+1158	Sikkim Properties (Sikkim.txt)	3 BHK Independent House	Namchi East	Namchi / Sikkim	Independent House / 3 BHK	1429	₹17,600/month	Unfurnished	3	Any	Rent
+1159	Sikkim Properties (Sikkim.txt)	1 BHK Builder Floor	Namchi Sector 1	Namchi / Sikkim	Builder Floor / 1 BHK	552	₹9,200/month	Semi-Furnished	2	Family	Rent
+1160	Sikkim Properties (Sikkim.txt)	1 BHK Studio	Gyalshing Sector 2	Gyalshing / Sikkim	Studio / 1 BHK	439	₹23.71 L	Semi-Furnished	2	Family	Sale
+1161	Sikkim Properties (Sikkim.txt)	3 BHK Apartment	Gyalshing Sector 2	Gyalshing / Sikkim	Apartment / 3 BHK	1092	₹16,300/month	Semi-Furnished	3	Bachelors	Rent
+1162	Sikkim Properties (Sikkim.txt)	2 BHK Apartment	Namchi Extension	Namchi / Sikkim	Apartment / 2 BHK	643	₹11,800/month	Semi-Furnished	2	Bachelors	Rent
+1163	Sikkim Properties (Sikkim.txt)	2 BHK Independent House	Gyalshing Sector 2	Gyalshing / Sikkim	Independent House / 2 BHK	1021	₹51.11 L	Semi-Furnished	2	Bachelors	Sale
+1164	Sikkim Properties (Sikkim.txt)	3 BHK Apartment	Namchi Town Centre	Namchi / Sikkim	Apartment / 3 BHK	1638	₹56.56 L	Semi-Furnished	3	Family	Sale
+1165	Sikkim Properties (Sikkim.txt)	1 BHK Apartment	Namchi Colony	Namchi / Sikkim	Apartment / 1 BHK	484	₹26.14 L	Unfurnished	1	Family	Sale
+1166	Sikkim Properties (Sikkim.txt)	4 BHK Apartment	Gangtok Extension	Gangtok / Sikkim	Apartment / 4 BHK	1369	₹83.35 L	Semi-Furnished	4	Bachelors	Sale
+1167	Sikkim Properties (Sikkim.txt)	2 BHK Builder Floor	Gyalshing Main Road	Gyalshing / Sikkim	Builder Floor / 2 BHK	1037	₹54.11 L	Unfurnished	2	Bachelors	Sale
+1168	Sikkim Properties (Sikkim.txt)	4 BHK Independent House	Gangtok Colony	Gangtok / Sikkim	Independent House / 4 BHK	1956	₹24,100/month	Semi-Furnished	4	Any	Rent
+1169	Sikkim Properties (Sikkim.txt)	4 BHK Independent House	Gyalshing Colony	Gyalshing / Sikkim	Independent House / 4 BHK	2443	₹76.52 L	Semi-Furnished	4	Bachelors	Sale
+1170	Sikkim Properties (Sikkim.txt)	1 BHK Studio	Namchi Sector 3	Namchi / Sikkim	Studio / 1 BHK	486	₹24.37 L	Fully-Furnished	1	Family	Sale
+1171	Sikkim Properties (Sikkim.txt)	3 BHK Independent House	Gyalshing Nagar	Gyalshing / Sikkim	Independent House / 3 BHK	1629	₹15,100/month	Semi-Furnished	4	Any	Rent
