@@ -1,0 +1,1172 @@
+No.	Source	Property	Location	City / State	Type / Config	Area	Price / Rent	Furnishing	Bathrooms	Tennants	Listing Type
+1	Mizoram Properties (Mizoram.txt)	2 BHK Apartment	Lunglei Town Centre	Lunglei / Mizoram	Apartment / 2 BHK	618	₹34.77 L	Semi-Furnished	2	Any	Sale
+2	Mizoram Properties (Mizoram.txt)	2 BHK Apartment	Aizawl North	Aizawl / Mizoram	Apartment / 2 BHK	824	₹29.77 L	Semi-Furnished	2	Family	Sale
+3	Mizoram Properties (Mizoram.txt)	4 BHK Apartment	Champhai Central	Champhai / Mizoram	Apartment / 4 BHK	1323	₹17,800/month	Fully-Furnished	4	Any	Rent
+4	Mizoram Properties (Mizoram.txt)	1 BHK Apartment	Aizawl East	Aizawl / Mizoram	Apartment / 1 BHK	502	₹6,700/month	Semi-Furnished	2	Family	Rent
+5	Mizoram Properties (Mizoram.txt)	2 BHK Apartment	Aizawl Nagar	Aizawl / Mizoram	Apartment / 2 BHK	866	₹39.42 L	Fully-Furnished	2	Family	Sale
+6	Mizoram Properties (Mizoram.txt)	2 BHK Apartment	Lunglei Nagar	Lunglei / Mizoram	Apartment / 2 BHK	1021	₹12,500/month	Fully-Furnished	1	Family	Rent
+7	Mizoram Properties (Mizoram.txt)	4 BHK Independent House	Aizawl Colony	Aizawl / Mizoram	Independent House / 4 BHK	2584	₹75.66 L	Fully-Furnished	4	Family	Sale
+8	Mizoram Properties (Mizoram.txt)	2 BHK Builder Floor	Champhai Nagar	Champhai / Mizoram	Builder Floor / 2 BHK	861	₹40.79 L	Fully-Furnished	3	Family	Sale
+9	Mizoram Properties (Mizoram.txt)	2 BHK Apartment	Lunglei Sector 3	Lunglei / Mizoram	Apartment / 2 BHK	935	₹30.43 L	Unfurnished	2	Any	Sale
+10	Mizoram Properties (Mizoram.txt)	2 BHK Independent House	Aizawl Sector 3	Aizawl / Mizoram	Independent House / 2 BHK	966	₹38.95 L	Semi-Furnished	1	Bachelors	Sale
+11	Mizoram Properties (Mizoram.txt)	4 BHK Apartment	Champhai Central	Champhai / Mizoram	Apartment / 4 BHK	1800	₹20,800/month	Unfurnished	5	Bachelors	Rent
+12	Mizoram Properties (Mizoram.txt)	2 BHK Apartment	Aizawl Main Road	Aizawl / Mizoram	Apartment / 2 BHK	966	₹32.78 L	Semi-Furnished	1	Bachelors	Sale
+13	Mizoram Properties (Mizoram.txt)	2 BHK Apartment	Lunglei Central	Lunglei / Mizoram	Apartment / 2 BHK	923	₹31.84 L	Semi-Furnished	3	Bachelors	Sale
+14	Mizoram Properties (Mizoram.txt)	3 BHK Apartment	Champhai Extension	Champhai / Mizoram	Apartment / 3 BHK	1371	₹50.54 L	Semi-Furnished	3	Any	Sale
+15	Mizoram Properties (Mizoram.txt)	1 BHK Apartment	Lunglei North	Lunglei / Mizoram	Apartment / 1 BHK	502	₹24.36 L	Fully-Furnished	1	Bachelors	Sale
+16	Mizoram Properties (Mizoram.txt)	2 BHK Apartment	Lunglei Nagar	Lunglei / Mizoram	Apartment / 2 BHK	740	₹11,700/month	Fully-Furnished	2	Family	Rent
+17	Mizoram Properties (Mizoram.txt)	2 BHK Apartment	Aizawl Heights	Aizawl / Mizoram	Apartment / 2 BHK	848	₹43.19 L	Semi-Furnished	2	Bachelors	Sale
+18	Mizoram Properties (Mizoram.txt)	2 BHK Builder Floor	Lunglei Main Road	Lunglei / Mizoram	Builder Floor / 2 BHK	821	₹11,100/month	Fully-Furnished	2	Family	Rent
+19	Mizoram Properties (Mizoram.txt)	3 BHK Apartment	Aizawl Sector 1	Aizawl / Mizoram	Apartment / 3 BHK	1267	₹58.95 L	Unfurnished	3	Family	Sale
+20	Mizoram Properties (Mizoram.txt)	1 BHK Apartment	Lunglei Town Centre	Lunglei / Mizoram	Apartment / 1 BHK	539	₹24.38 L	Fully-Furnished	2	Family	Sale
+21	Mizoram Properties (Mizoram.txt)	4 BHK Apartment	Champhai Sector 1	Champhai / Mizoram	Apartment / 4 BHK	2094	₹77.25 L	Fully-Furnished	4	Bachelors	Sale
+22	Mizoram Properties (Mizoram.txt)	3 BHK Builder Floor	Aizawl Sector 1	Aizawl / Mizoram	Builder Floor / 3 BHK	1213	₹48.98 L	Semi-Furnished	3	Bachelors	Sale
+23	Mizoram Properties (Mizoram.txt)	2 BHK Apartment	Lunglei Colony	Lunglei / Mizoram	Apartment / 2 BHK	960	₹32.08 L	Fully-Furnished	2	Any	Sale
+24	Mizoram Properties (Mizoram.txt)	3 BHK Apartment	Lunglei Main Road	Lunglei / Mizoram	Apartment / 3 BHK	1448	₹45.75 L	Fully-Furnished	2	Bachelors	Sale
+25	Mizoram Properties (Mizoram.txt)	3 BHK Apartment	Champhai Town Centre	Champhai / Mizoram	Apartment / 3 BHK	1228	₹58.24 L	Fully-Furnished	2	Bachelors	Sale
+26	Mizoram Properties (Mizoram.txt)	3 BHK Apartment	Lunglei Extension	Lunglei / Mizoram	Apartment / 3 BHK	1054	₹50.05 L	Fully-Furnished	3	Family	Sale
+27	Mizoram Properties (Mizoram.txt)	1 BHK Apartment	Lunglei Heights	Lunglei / Mizoram	Apartment / 1 BHK	622	₹24.06 L	Unfurnished	1	Family	Sale
+28	Mizoram Properties (Mizoram.txt)	2 BHK Independent House	Lunglei West	Lunglei / Mizoram	Independent House / 2 BHK	908	₹8,600/month	Fully-Furnished	3	Family	Rent
+29	Mizoram Properties (Mizoram.txt)	2 BHK Apartment	Lunglei Town Centre	Lunglei / Mizoram	Apartment / 2 BHK	919	₹11,000/month	Fully-Furnished	3	Any	Rent
+30	Mizoram Properties (Mizoram.txt)	2 BHK Apartment	Lunglei West	Lunglei / Mizoram	Apartment / 2 BHK	946	₹38.80 L	Semi-Furnished	2	Bachelors	Sale
+31	Mizoram Properties (Mizoram.txt)	4 BHK Apartment	Champhai Heights	Champhai / Mizoram	Apartment / 4 BHK	1719	₹74.88 L	Fully-Furnished	3	Family	Sale
+32	Mizoram Properties (Mizoram.txt)	2 BHK Apartment	Lunglei Sector 1	Lunglei / Mizoram	Apartment / 2 BHK	804	₹39.58 L	Fully-Furnished	3	Bachelors	Sale
+33	Mizoram Properties (Mizoram.txt)	2 BHK Independent House	Champhai Main Road	Champhai / Mizoram	Independent House / 2 BHK	1033	₹45.56 L	Semi-Furnished	2	Family	Sale
+34	Mizoram Properties (Mizoram.txt)	3 BHK Apartment	Aizawl Main Road	Aizawl / Mizoram	Apartment / 3 BHK	1145	₹12,100/month	Fully-Furnished	2	Any	Rent
+35	Mizoram Properties (Mizoram.txt)	4 BHK Independent House	Lunglei Extension	Lunglei / Mizoram	Independent House / 4 BHK	2159	₹16,600/month	Semi-Furnished	4	Bachelors	Rent
+36	Mizoram Properties (Mizoram.txt)	1 BHK Independent House	Lunglei Main Road	Lunglei / Mizoram	Independent House / 1 BHK	533	₹5,400/month	Fully-Furnished	2	Bachelors	Rent
+37	Mizoram Properties (Mizoram.txt)	2 BHK Villa	Aizawl Town Centre	Aizawl / Mizoram	Villa / 2 BHK	1276	₹35.16 L	Fully-Furnished	2	Any	Sale
+38	Mizoram Properties (Mizoram.txt)	1 BHK Independent House	Lunglei North	Lunglei / Mizoram	Independent House / 1 BHK	451	₹24.76 L	Semi-Furnished	1	Bachelors	Sale
+39	Mizoram Properties (Mizoram.txt)	3 BHK Independent House	Lunglei West	Lunglei / Mizoram	Independent House / 3 BHK	2007	₹68.26 L	Semi-Furnished	3	Bachelors	Sale
+40	Mizoram Properties (Mizoram.txt)	2 BHK Apartment	Aizawl Town Centre	Aizawl / Mizoram	Apartment / 2 BHK	605	₹10,900/month	Semi-Furnished	2	Bachelors	Rent
+41	Mizoram Properties (Mizoram.txt)	3 BHK Villa	Lunglei Sector 1	Lunglei / Mizoram	Villa / 3 BHK	2061	₹55.33 L	Fully-Furnished	3	Family	Sale
+42	Mizoram Properties (Mizoram.txt)	4 BHK Apartment	Lunglei Central	Lunglei / Mizoram	Apartment / 4 BHK	1486	₹15,900/month	Fully-Furnished	4	Family	Rent
+43	Mizoram Properties (Mizoram.txt)	4 BHK Apartment	Champhai Main Road	Champhai / Mizoram	Apartment / 4 BHK	1534	₹61.33 L	Semi-Furnished	4	Bachelors	Sale
+44	Mizoram Properties (Mizoram.txt)	3 BHK Villa	Lunglei Nagar	Lunglei / Mizoram	Villa / 3 BHK	1670	₹45.81 L	Semi-Furnished	3	Bachelors	Sale
+45	Mizoram Properties (Mizoram.txt)	4 BHK Independent House	Champhai Main Road	Champhai / Mizoram	Independent House / 4 BHK	2313	₹60.35 L	Semi-Furnished	3	Family	Sale
+46	Mizoram Properties (Mizoram.txt)	2 BHK Independent House	Champhai Colony	Champhai / Mizoram	Independent House / 2 BHK	794	₹8,400/month	Semi-Furnished	3	Bachelors	Rent
+47	Mizoram Properties (Mizoram.txt)	3 BHK Apartment	Lunglei Heights	Lunglei / Mizoram	Apartment / 3 BHK	1276	₹42 L	Semi-Furnished	3	Bachelors	Sale
+48	Mizoram Properties (Mizoram.txt)	3 BHK Apartment	Lunglei Residential Area	Lunglei / Mizoram	Apartment / 3 BHK	1523	₹17,100/month	Fully-Furnished	3	Family	Rent
+49	Mizoram Properties (Mizoram.txt)	4 BHK Apartment	Aizawl Colony	Aizawl / Mizoram	Apartment / 4 BHK	2067	₹20,900/month	Semi-Furnished	4	Any	Rent
+50	Mizoram Properties (Mizoram.txt)	4 BHK Apartment	Champhai Sector 3	Champhai / Mizoram	Apartment / 4 BHK	1807	₹75 L	Fully-Furnished	5	Family	Sale
+51	Mizoram Properties (Mizoram.txt)	3 BHK Apartment	Champhai Main Road	Champhai / Mizoram	Apartment / 3 BHK	1328	₹48.76 L	Fully-Furnished	3	Family	Sale
+52	Mizoram Properties (Mizoram.txt)	5 BHK Apartment	Champhai East	Champhai / Mizoram	Apartment / 5 BHK	2234	₹93.73 L	Unfurnished	5	Bachelors	Sale
+53	Mizoram Properties (Mizoram.txt)	1 BHK Independent House	Aizawl North	Aizawl / Mizoram	Independent House / 1 BHK	532	₹7,300/month	Unfurnished	1	Any	Rent
+54	Mizoram Properties (Mizoram.txt)	3 BHK Builder Floor	Lunglei East	Lunglei / Mizoram	Builder Floor / 3 BHK	1460	₹12,000/month	Unfurnished	3	Family	Rent
+55	Mizoram Properties (Mizoram.txt)	2 BHK Apartment	Champhai Sector 1	Champhai / Mizoram	Apartment / 2 BHK	1021	₹37.16 L	Semi-Furnished	2	Bachelors	Sale
+56	Mizoram Properties (Mizoram.txt)	3 BHK Apartment	Champhai Colony	Champhai / Mizoram	Apartment / 3 BHK	837	₹51.18 L	Unfurnished	3	Family	Sale
+57	Mizoram Properties (Mizoram.txt)	2 BHK Independent House	Lunglei South	Lunglei / Mizoram	Independent House / 2 BHK	1163	₹41.92 L	Semi-Furnished	3	Bachelors	Sale
+58	Mizoram Properties (Mizoram.txt)	4 BHK Apartment	Champhai Colony	Champhai / Mizoram	Apartment / 4 BHK	1401	₹17,500/month	Unfurnished	3	Any	Rent
+59	Mizoram Properties (Mizoram.txt)	3 BHK Apartment	Champhai Town Centre	Champhai / Mizoram	Apartment / 3 BHK	1192	₹42.12 L	Semi-Furnished	4	Family	Sale
+60	Mizoram Properties (Mizoram.txt)	3 BHK Apartment	Aizawl Sector 3	Aizawl / Mizoram	Apartment / 3 BHK	1129	₹12,000/month	Fully-Furnished	4	Bachelors	Rent
+61	Mizoram Properties (Mizoram.txt)	2 BHK Independent House	Lunglei East	Lunglei / Mizoram	Independent House / 2 BHK	689	₹32.39 L	Semi-Furnished	2	Family	Sale
+62	Mizoram Properties (Mizoram.txt)	3 BHK Independent House	Lunglei Extension	Lunglei / Mizoram	Independent House / 3 BHK	1605	₹46.54 L	Semi-Furnished	3	Bachelors	Sale
+63	Mizoram Properties (Mizoram.txt)	2 BHK Builder Floor	Champhai East	Champhai / Mizoram	Builder Floor / 2 BHK	888	₹34.75 L	Fully-Furnished	2	Family	Sale
+64	Mizoram Properties (Mizoram.txt)	2 BHK Builder Floor	Champhai North	Champhai / Mizoram	Builder Floor / 2 BHK	919	₹9,300/month	Fully-Furnished	2	Family	Rent
+65	Mizoram Properties (Mizoram.txt)	2 BHK Apartment	Lunglei North	Lunglei / Mizoram	Apartment / 2 BHK	761	₹42.27 L	Fully-Furnished	1	Bachelors	Sale
+66	Mizoram Properties (Mizoram.txt)	2 BHK Independent House	Lunglei Main Road	Lunglei / Mizoram	Independent House / 2 BHK	864	₹35.39 L	Unfurnished	2	Bachelors	Sale
+67	Mizoram Properties (Mizoram.txt)	2 BHK Apartment	Champhai East	Champhai / Mizoram	Apartment / 2 BHK	872	₹43.60 L	Unfurnished	1	Family	Sale
+68	Mizoram Properties (Mizoram.txt)	1 BHK Builder Floor	Aizawl Sector 3	Aizawl / Mizoram	Builder Floor / 1 BHK	530	₹22.07 L	Unfurnished	1	Family	Sale
+69	Mizoram Properties (Mizoram.txt)	2 BHK Apartment	Lunglei North	Lunglei / Mizoram	Apartment / 2 BHK	947	₹39.30 L	Unfurnished	2	Family	Sale
+70	Mizoram Properties (Mizoram.txt)	3 BHK Independent House	Champhai North	Champhai / Mizoram	Independent House / 3 BHK	1441	₹13,600/month	Fully-Furnished	3	Bachelors	Rent
+71	Mizoram Properties (Mizoram.txt)	2 BHK Villa	Champhai Extension	Champhai / Mizoram	Villa / 2 BHK	1328	₹39.45 L	Semi-Furnished	1	Family	Sale
+72	Mizoram Properties (Mizoram.txt)	3 BHK Villa	Champhai Residential Area	Champhai / Mizoram	Villa / 3 BHK	1561	₹16,700/month	Unfurnished	2	Bachelors	Rent
+73	Mizoram Properties (Mizoram.txt)	2 BHK Apartment	Lunglei Sector 1	Lunglei / Mizoram	Apartment / 2 BHK	750	₹8,500/month	Semi-Furnished	2	Any	Rent
+74	Mizoram Properties (Mizoram.txt)	3 BHK Apartment	Champhai Main Road	Champhai / Mizoram	Apartment / 3 BHK	1371	₹16,400/month	Semi-Furnished	2	Any	Rent
+75	Mizoram Properties (Mizoram.txt)	2 BHK Apartment	Lunglei Residential Area	Lunglei / Mizoram	Apartment / 2 BHK	871	₹31.28 L	Semi-Furnished	1	Bachelors	Sale
+76	Mizoram Properties (Mizoram.txt)	4 BHK Apartment	Lunglei Central	Lunglei / Mizoram	Apartment / 4 BHK	1647	₹52.45 L	Semi-Furnished	5	Family	Sale
+77	Mizoram Properties (Mizoram.txt)	3 BHK Apartment	Aizawl Sector 3	Aizawl / Mizoram	Apartment / 3 BHK	1319	₹48.09 L	Semi-Furnished	4	Bachelors	Sale
+78	Mizoram Properties (Mizoram.txt)	2 BHK Apartment	Lunglei Town Centre	Lunglei / Mizoram	Apartment / 2 BHK	979	₹40.42 L	Semi-Furnished	2	Any	Sale
+79	Mizoram Properties (Mizoram.txt)	2 BHK Apartment	Champhai Sector 1	Champhai / Mizoram	Apartment / 2 BHK	777	₹30.64 L	Semi-Furnished	2	Bachelors	Sale
+80	Mizoram Properties (Mizoram.txt)	1 BHK Studio	Aizawl Town Centre	Aizawl / Mizoram	Studio / 1 BHK	377	₹18.81 L	Semi-Furnished	1	Bachelors	Sale
+81	Mizoram Properties (Mizoram.txt)	3 BHK Independent House	Aizawl Colony	Aizawl / Mizoram	Independent House / 3 BHK	1439	₹59.15 L	Semi-Furnished	3	Family	Sale
+82	Mizoram Properties (Mizoram.txt)	1 BHK Apartment	Lunglei Colony	Lunglei / Mizoram	Apartment / 1 BHK	553	₹7,200/month	Semi-Furnished	1	Bachelors	Rent
+83	Mizoram Properties (Mizoram.txt)	2 BHK Builder Floor	Champhai Central	Champhai / Mizoram	Builder Floor / 2 BHK	753	₹9,900/month	Semi-Furnished	2	Bachelors	Rent
+84	Mizoram Properties (Mizoram.txt)	4 BHK Apartment	Lunglei Central	Lunglei / Mizoram	Apartment / 4 BHK	2257	₹75.60 L	Semi-Furnished	4	Any	Sale
+85	Mizoram Properties (Mizoram.txt)	2 BHK Apartment	Lunglei Central	Lunglei / Mizoram	Apartment / 2 BHK	942	₹10,800/month	Unfurnished	2	Family	Rent
+86	Mizoram Properties (Mizoram.txt)	1 BHK Apartment	Lunglei South	Lunglei / Mizoram	Apartment / 1 BHK	448	₹7,600/month	Semi-Furnished	2	Family	Rent
+87	Mizoram Properties (Mizoram.txt)	1 BHK Apartment	Aizawl North	Aizawl / Mizoram	Apartment / 1 BHK	538	₹21.48 L	Unfurnished	1	Bachelors	Sale
+88	Mizoram Properties (Mizoram.txt)	4 BHK Apartment	Lunglei Extension	Lunglei / Mizoram	Apartment / 4 BHK	1841	₹20,300/month	Semi-Furnished	4	Any	Rent
+89	Mizoram Properties (Mizoram.txt)	1 BHK Apartment	Champhai West	Champhai / Mizoram	Apartment / 1 BHK	439	₹20.09 L	Unfurnished	2	Any	Sale
+90	Mizoram Properties (Mizoram.txt)	2 BHK Apartment	Lunglei Sector 2	Lunglei / Mizoram	Apartment / 2 BHK	839	₹29.76 L	Semi-Furnished	1	Any	Sale
+91	Mizoram Properties (Mizoram.txt)	2 BHK Villa	Aizawl Colony	Aizawl / Mizoram	Villa / 2 BHK	1426	₹11,600/month	Fully-Furnished	2	Any	Rent
+92	Mizoram Properties (Mizoram.txt)	3 BHK Independent House	Lunglei North	Lunglei / Mizoram	Independent House / 3 BHK	1725	₹66.16 L	Semi-Furnished	3	Any	Sale
+93	Mizoram Properties (Mizoram.txt)	3 BHK Apartment	Champhai East	Champhai / Mizoram	Apartment / 3 BHK	1473	₹15,100/month	Semi-Furnished	3	Family	Rent
+94	Mizoram Properties (Mizoram.txt)	2 BHK Apartment	Lunglei West	Lunglei / Mizoram	Apartment / 2 BHK	637	₹10,400/month	Fully-Furnished	1	Any	Rent
+95	Mizoram Properties (Mizoram.txt)	4 BHK Builder Floor	Aizawl Residential Area	Aizawl / Mizoram	Builder Floor / 4 BHK	1921	₹64.55 L	Semi-Furnished	4	Bachelors	Sale
+96	Mizoram Properties (Mizoram.txt)	2 BHK Independent House	Lunglei East	Lunglei / Mizoram	Independent House / 2 BHK	1359	₹47.91 L	Unfurnished	3	Any	Sale
+97	Mizoram Properties (Mizoram.txt)	3 BHK Apartment	Aizawl South	Aizawl / Mizoram	Apartment / 3 BHK	1353	₹47.03 L	Unfurnished	2	Family	Sale
+98	Mizoram Properties (Mizoram.txt)	1 BHK Studio	Champhai Sector 1	Champhai / Mizoram	Studio / 1 BHK	370	₹24.65 L	Semi-Furnished	2	Any	Sale
+99	Mizoram Properties (Mizoram.txt)	4 BHK Apartment	Champhai Central	Champhai / Mizoram	Apartment / 4 BHK	1967	₹20,700/month	Semi-Furnished	4	Bachelors	Rent
+100	Mizoram Properties (Mizoram.txt)	3 BHK Apartment	Champhai Sector 1	Champhai / Mizoram	Apartment / 3 BHK	1431	₹16,100/month	Semi-Furnished	4	Any	Rent
+101	Mizoram Properties (Mizoram.txt)	3 BHK Apartment	Aizawl Nagar	Aizawl / Mizoram	Apartment / 3 BHK	1387	₹50.95 L	Unfurnished	4	Family	Sale
+102	Mizoram Properties (Mizoram.txt)	3 BHK Villa	Aizawl Nagar	Aizawl / Mizoram	Villa / 3 BHK	1647	₹64.90 L	Fully-Furnished	3	Family	Sale
+103	Mizoram Properties (Mizoram.txt)	3 BHK Apartment	Champhai Heights	Champhai / Mizoram	Apartment / 3 BHK	1369	₹51.83 L	Fully-Furnished	3	Any	Sale
+104	Mizoram Properties (Mizoram.txt)	3 BHK Villa	Lunglei Sector 3	Lunglei / Mizoram	Villa / 3 BHK	2133	₹48.83 L	Unfurnished	3	Any	Sale
+105	Mizoram Properties (Mizoram.txt)	3 BHK Independent House	Champhai Town Centre	Champhai / Mizoram	Independent House / 3 BHK	1597	₹11,900/month	Fully-Furnished	4	Bachelors	Rent
+106	Mizoram Properties (Mizoram.txt)	3 BHK Apartment	Champhai Main Road	Champhai / Mizoram	Apartment / 3 BHK	1353	₹16,000/month	Unfurnished	3	Family	Rent
+107	Mizoram Properties (Mizoram.txt)	1 BHK Independent House	Champhai Sector 3	Champhai / Mizoram	Independent House / 1 BHK	621	₹21.29 L	Fully-Furnished	2	Family	Sale
+108	Mizoram Properties (Mizoram.txt)	3 BHK Apartment	Champhai Town Centre	Champhai / Mizoram	Apartment / 3 BHK	941	₹50.76 L	Unfurnished	3	Any	Sale
+109	Mizoram Properties (Mizoram.txt)	2 BHK Apartment	Lunglei Sector 3	Lunglei / Mizoram	Apartment / 2 BHK	1076	₹34.57 L	Semi-Furnished	3	Bachelors	Sale
+110	Mizoram Properties (Mizoram.txt)	2 BHK Apartment	Aizawl Town Centre	Aizawl / Mizoram	Apartment / 2 BHK	985	₹42.34 L	Semi-Furnished	2	Family	Sale
+111	Mizoram Properties (Mizoram.txt)	5 BHK Apartment	Lunglei Town Centre	Lunglei / Mizoram	Apartment / 5 BHK	2402	₹88.54 L	Semi-Furnished	5	Family	Sale
+112	Mizoram Properties (Mizoram.txt)	3 BHK Apartment	Lunglei North	Lunglei / Mizoram	Apartment / 3 BHK	1106	₹52.94 L	Unfurnished	3	Bachelors	Sale
+113	Mizoram Properties (Mizoram.txt)	3 BHK Apartment	Champhai Main Road	Champhai / Mizoram	Apartment / 3 BHK	968	₹43.76 L	Unfurnished	3	Any	Sale
+114	Mizoram Properties (Mizoram.txt)	2 BHK Independent House	Lunglei Central	Lunglei / Mizoram	Independent House / 2 BHK	1004	₹38.01 L	Semi-Furnished	2	Any	Sale
+115	Mizoram Properties (Mizoram.txt)	1 BHK Builder Floor	Aizawl Extension	Aizawl / Mizoram	Builder Floor / 1 BHK	597	₹7,500/month	Semi-Furnished	1	Any	Rent
+116	Mizoram Properties (Mizoram.txt)	2 BHK Builder Floor	Lunglei West	Lunglei / Mizoram	Builder Floor / 2 BHK	851	₹11,300/month	Semi-Furnished	2	Bachelors	Rent
+117	Mizoram Properties (Mizoram.txt)	4 BHK Villa	Lunglei Town Centre	Lunglei / Mizoram	Villa / 4 BHK	2105	₹59.91 L	Fully-Furnished	4	Bachelors	Sale
+118	Mizoram Properties (Mizoram.txt)	2 BHK Independent House	Aizawl Central	Aizawl / Mizoram	Independent House / 2 BHK	1128	₹40.45 L	Semi-Furnished	2	Family	Sale
+119	Mizoram Properties (Mizoram.txt)	2 BHK Builder Floor	Lunglei Sector 1	Lunglei / Mizoram	Builder Floor / 2 BHK	746	₹41.91 L	Semi-Furnished	1	Bachelors	Sale
+120	Mizoram Properties (Mizoram.txt)	3 BHK Apartment	Aizawl Extension	Aizawl / Mizoram	Apartment / 3 BHK	1301	₹44.65 L	Semi-Furnished	2	Any	Sale
+121	Mizoram Properties (Mizoram.txt)	5 BHK Apartment	Lunglei Residential Area	Lunglei / Mizoram	Apartment / 5 BHK	2311	₹20,500/month	Semi-Furnished	5	Family	Rent
+122	Mizoram Properties (Mizoram.txt)	1 BHK Studio	Aizawl Nagar	Aizawl / Mizoram	Studio / 1 BHK	424	₹23.55 L	Fully-Furnished	2	Family	Sale
+123	Mizoram Properties (Mizoram.txt)	1 BHK Apartment	Lunglei Residential Area	Lunglei / Mizoram	Apartment / 1 BHK	529	₹26.55 L	Semi-Furnished	2	Family	Sale
+124	Mizoram Properties (Mizoram.txt)	2 BHK Builder Floor	Champhai Sector 3	Champhai / Mizoram	Builder Floor / 2 BHK	912	₹44.84 L	Fully-Furnished	2	Family	Sale
+125	Mizoram Properties (Mizoram.txt)	4 BHK Apartment	Aizawl Sector 2	Aizawl / Mizoram	Apartment / 4 BHK	2124	₹66.55 L	Unfurnished	5	Family	Sale
+126	Mizoram Properties (Mizoram.txt)	3 BHK Apartment	Lunglei Sector 2	Lunglei / Mizoram	Apartment / 3 BHK	1075	₹52.19 L	Unfurnished	2	Family	Sale
+127	Mizoram Properties (Mizoram.txt)	2 BHK Apartment	Champhai Residential Area	Champhai / Mizoram	Apartment / 2 BHK	894	₹41.71 L	Unfurnished	1	Family	Sale
+128	Mizoram Properties (Mizoram.txt)	2 BHK Independent House	Champhai South	Champhai / Mizoram	Independent House / 2 BHK	1209	₹32.73 L	Semi-Furnished	1	Family	Sale
+129	Mizoram Properties (Mizoram.txt)	1 BHK Studio	Lunglei Colony	Lunglei / Mizoram	Studio / 1 BHK	363	₹5,700/month	Semi-Furnished	1	Family	Rent
+130	Mizoram Properties (Mizoram.txt)	2 BHK Apartment	Lunglei Sector 2	Lunglei / Mizoram	Apartment / 2 BHK	836	₹10,800/month	Unfurnished	2	Family	Rent
+131	Mizoram Properties (Mizoram.txt)	1 BHK Apartment	Champhai Central	Champhai / Mizoram	Apartment / 1 BHK	525	₹6,000/month	Fully-Furnished	1	Family	Rent
+132	Mizoram Properties (Mizoram.txt)	1 BHK Studio	Champhai Extension	Champhai / Mizoram	Studio / 1 BHK	348	₹20.87 L	Fully-Furnished	1	Bachelors	Sale
+133	Mizoram Properties (Mizoram.txt)	3 BHK Apartment	Lunglei Main Road	Lunglei / Mizoram	Apartment / 3 BHK	1104	₹13,100/month	Semi-Furnished	3	Family	Rent
+134	Mizoram Properties (Mizoram.txt)	1 BHK Studio	Aizawl Sector 1	Aizawl / Mizoram	Studio / 1 BHK	306	₹5,400/month	Fully-Furnished	1	Family	Rent
+135	Mizoram Properties (Mizoram.txt)	1 BHK Apartment	Lunglei Nagar	Lunglei / Mizoram	Apartment / 1 BHK	504	₹6,300/month	Semi-Furnished	1	Any	Rent
+136	Mizoram Properties (Mizoram.txt)	1 BHK Apartment	Lunglei Sector 2	Lunglei / Mizoram	Apartment / 1 BHK	529	₹24.92 L	Fully-Furnished	2	Family	Sale
+137	Mizoram Properties (Mizoram.txt)	4 BHK Apartment	Lunglei Colony	Lunglei / Mizoram	Apartment / 4 BHK	1997	₹79.52 L	Unfurnished	4	Family	Sale
+138	Mizoram Properties (Mizoram.txt)	2 BHK Independent House	Aizawl Colony	Aizawl / Mizoram	Independent House / 2 BHK	1372	₹10,000/month	Fully-Furnished	3	Family	Rent
+139	Mizoram Properties (Mizoram.txt)	4 BHK Apartment	Champhai South	Champhai / Mizoram	Apartment / 4 BHK	1779	₹69.88 L	Semi-Furnished	4	Bachelors	Sale
+140	Mizoram Properties (Mizoram.txt)	3 BHK Apartment	Champhai Sector 2	Champhai / Mizoram	Apartment / 3 BHK	1015	₹39.23 L	Semi-Furnished	3	Family	Sale
+141	Mizoram Properties (Mizoram.txt)	5 BHK Independent House	Lunglei Sector 2	Lunglei / Mizoram	Independent House / 5 BHK	3239	₹74.35 L	Semi-Furnished	6	Bachelors	Sale
+142	Mizoram Properties (Mizoram.txt)	3 BHK Builder Floor	Lunglei West	Lunglei / Mizoram	Builder Floor / 3 BHK	994	₹47.18 L	Semi-Furnished	3	Family	Sale
+143	Mizoram Properties (Mizoram.txt)	3 BHK Apartment	Lunglei East	Lunglei / Mizoram	Apartment / 3 BHK	1044	₹12,400/month	Fully-Furnished	4	Any	Rent
+144	Mizoram Properties (Mizoram.txt)	3 BHK Apartment	Aizawl Nagar	Aizawl / Mizoram	Apartment / 3 BHK	1204	₹43.30 L	Semi-Furnished	4	Bachelors	Sale
+145	Mizoram Properties (Mizoram.txt)	2 BHK Apartment	Champhai Sector 2	Champhai / Mizoram	Apartment / 2 BHK	817	₹32.37 L	Semi-Furnished	3	Any	Sale
+146	Mizoram Properties (Mizoram.txt)	3 BHK Villa	Champhai Heights	Champhai / Mizoram	Villa / 3 BHK	1430	₹46.20 L	Unfurnished	3	Family	Sale
+147	Mizoram Properties (Mizoram.txt)	1 BHK Apartment	Aizawl North	Aizawl / Mizoram	Apartment / 1 BHK	432	₹19.14 L	Semi-Furnished	1	Bachelors	Sale
+148	Mizoram Properties (Mizoram.txt)	4 BHK Apartment	Lunglei Colony	Lunglei / Mizoram	Apartment / 4 BHK	1788	₹21,100/month	Semi-Furnished	4	Bachelors	Rent
+149	Mizoram Properties (Mizoram.txt)	4 BHK Villa	Champhai Central	Champhai / Mizoram	Villa / 4 BHK	2019	₹75.83 L	Unfurnished	3	Bachelors	Sale
+150	Mizoram Properties (Mizoram.txt)	4 BHK Independent House	Champhai Town Centre	Champhai / Mizoram	Independent House / 4 BHK	1935	₹16,600/month	Unfurnished	5	Family	Rent
+151	Mizoram Properties (Mizoram.txt)	3 BHK Builder Floor	Champhai Nagar	Champhai / Mizoram	Builder Floor / 3 BHK	1303	₹41.92 L	Semi-Furnished	2	Any	Sale
+152	Mizoram Properties (Mizoram.txt)	2 BHK Apartment	Champhai South	Champhai / Mizoram	Apartment / 2 BHK	934	₹34.44 L	Unfurnished	3	Bachelors	Sale
+153	Mizoram Properties (Mizoram.txt)	1 BHK Independent House	Champhai South	Champhai / Mizoram	Independent House / 1 BHK	611	₹24.34 L	Semi-Furnished	1	Any	Sale
+154	Mizoram Properties (Mizoram.txt)	1 BHK Apartment	Lunglei North	Lunglei / Mizoram	Apartment / 1 BHK	534	₹25.51 L	Fully-Furnished	2	Any	Sale
+155	Mizoram Properties (Mizoram.txt)	2 BHK Apartment	Lunglei Main Road	Lunglei / Mizoram	Apartment / 2 BHK	721	₹8,800/month	Semi-Furnished	2	Family	Rent
+156	Mizoram Properties (Mizoram.txt)	2 BHK Apartment	Lunglei Residential Area	Lunglei / Mizoram	Apartment / 2 BHK	696	₹8,400/month	Fully-Furnished	2	Family	Rent
+157	Mizoram Properties (Mizoram.txt)	1 BHK Builder Floor	Champhai Residential Area	Champhai / Mizoram	Builder Floor / 1 BHK	542	₹25.06 L	Semi-Furnished	1	Any	Sale
+158	Mizoram Properties (Mizoram.txt)	1 BHK Apartment	Lunglei Sector 3	Lunglei / Mizoram	Apartment / 1 BHK	652	₹7,200/month	Fully-Furnished	1	Family	Rent
+159	Mizoram Properties (Mizoram.txt)	2 BHK Apartment	Champhai North	Champhai / Mizoram	Apartment / 2 BHK	882	₹8,800/month	Unfurnished	1	Any	Rent
+160	Mizoram Properties (Mizoram.txt)	1 BHK Builder Floor	Champhai East	Champhai / Mizoram	Builder Floor / 1 BHK	496	₹25.63 L	Unfurnished	1	Bachelors	Sale
+161	Mizoram Properties (Mizoram.txt)	3 BHK Villa	Champhai Sector 3	Champhai / Mizoram	Villa / 3 BHK	2012	₹15,000/month	Fully-Furnished	3	Any	Rent
+162	Mizoram Properties (Mizoram.txt)	4 BHK Villa	Aizawl North	Aizawl / Mizoram	Villa / 4 BHK	2141	₹73.28 L	Fully-Furnished	4	Family	Sale
+163	Mizoram Properties (Mizoram.txt)	2 BHK Apartment	Lunglei West	Lunglei / Mizoram	Apartment / 2 BHK	695	₹8,100/month	Semi-Furnished	1	Bachelors	Rent
+164	Mizoram Properties (Mizoram.txt)	5 BHK Apartment	Lunglei Sector 3	Lunglei / Mizoram	Apartment / 5 BHK	2450	₹79.85 L	Unfurnished	5	Any	Sale
+165	Mizoram Properties (Mizoram.txt)	2 BHK Apartment	Aizawl Colony	Aizawl / Mizoram	Apartment / 2 BHK	958	₹42.52 L	Semi-Furnished	2	Any	Sale
+166	Mizoram Properties (Mizoram.txt)	1 BHK Apartment	Aizawl Heights	Aizawl / Mizoram	Apartment / 1 BHK	419	₹25.02 L	Semi-Furnished	1	Family	Sale
+167	Mizoram Properties (Mizoram.txt)	1 BHK Independent House	Champhai Residential Area	Champhai / Mizoram	Independent House / 1 BHK	693	₹7,100/month	Unfurnished	1	Bachelors	Rent
+168	Mizoram Properties (Mizoram.txt)	3 BHK Builder Floor	Aizawl Central	Aizawl / Mizoram	Builder Floor / 3 BHK	1140	₹53.42 L	Unfurnished	3	Family	Sale
+169	Mizoram Properties (Mizoram.txt)	3 BHK Apartment	Aizawl West	Aizawl / Mizoram	Apartment / 3 BHK	1272	₹13,300/month	Semi-Furnished	3	Family	Rent
+170	Mizoram Properties (Mizoram.txt)	4 BHK Independent House	Aizawl Colony	Aizawl / Mizoram	Independent House / 4 BHK	2394	₹16,200/month	Semi-Furnished	3	Any	Rent
+171	Mizoram Properties (Mizoram.txt)	3 BHK Apartment	Champhai North	Champhai / Mizoram	Apartment / 3 BHK	1031	₹11,200/month	Fully-Furnished	3	Family	Rent
+172	Mizoram Properties (Mizoram.txt)	3 BHK Apartment	Lunglei Extension	Lunglei / Mizoram	Apartment / 3 BHK	1415	₹12,100/month	Unfurnished	2	Bachelors	Rent
+173	Mizoram Properties (Mizoram.txt)	4 BHK Villa	Champhai East	Champhai / Mizoram	Villa / 4 BHK	2400	₹82.31 L	Semi-Furnished	4	Any	Sale
+174	Mizoram Properties (Mizoram.txt)	3 BHK Apartment	Lunglei Sector 3	Lunglei / Mizoram	Apartment / 3 BHK	1240	₹59.20 L	Unfurnished	3	Family	Sale
+175	Mizoram Properties (Mizoram.txt)	4 BHK Independent House	Champhai Town Centre	Champhai / Mizoram	Independent House / 4 BHK	2405	₹71.76 L	Fully-Furnished	5	Any	Sale
+176	Mizoram Properties (Mizoram.txt)	4 BHK Apartment	Lunglei Colony	Lunglei / Mizoram	Apartment / 4 BHK	1739	₹77.09 L	Semi-Furnished	5	Bachelors	Sale
+177	Mizoram Properties (Mizoram.txt)	3 BHK Apartment	Lunglei Central	Lunglei / Mizoram	Apartment / 3 BHK	1431	₹43.81 L	Semi-Furnished	3	Family	Sale
+178	Mizoram Properties (Mizoram.txt)	4 BHK Apartment	Champhai Central	Champhai / Mizoram	Apartment / 4 BHK	1770	₹61.51 L	Semi-Furnished	3	Bachelors	Sale
+179	Mizoram Properties (Mizoram.txt)	2 BHK Apartment	Lunglei Residential Area	Lunglei / Mizoram	Apartment / 2 BHK	843	₹42.33 L	Semi-Furnished	2	Family	Sale
+180	Mizoram Properties (Mizoram.txt)	3 BHK Builder Floor	Champhai Sector 1	Champhai / Mizoram	Builder Floor / 3 BHK	1183	₹43.42 L	Fully-Furnished	3	Any	Sale
+181	Mizoram Properties (Mizoram.txt)	2 BHK Apartment	Lunglei Sector 3	Lunglei / Mizoram	Apartment / 2 BHK	676	₹9,200/month	Unfurnished	2	Family	Rent
+182	Mizoram Properties (Mizoram.txt)	2 BHK Apartment	Champhai Town Centre	Champhai / Mizoram	Apartment / 2 BHK	894	₹11,200/month	Fully-Furnished	2	Family	Rent
+183	Mizoram Properties (Mizoram.txt)	3 BHK Independent House	Aizawl West	Aizawl / Mizoram	Independent House / 3 BHK	1524	₹13,100/month	Semi-Furnished	4	Bachelors	Rent
+184	Mizoram Properties (Mizoram.txt)	4 BHK Independent House	Champhai South	Champhai / Mizoram	Independent House / 4 BHK	2515	₹21,100/month	Semi-Furnished	4	Bachelors	Rent
+185	Mizoram Properties (Mizoram.txt)	2 BHK Independent House	Aizawl Heights	Aizawl / Mizoram	Independent House / 2 BHK	959	₹10,900/month	Semi-Furnished	2	Any	Rent
+186	Mizoram Properties (Mizoram.txt)	2 BHK Apartment	Aizawl Colony	Aizawl / Mizoram	Apartment / 2 BHK	937	₹41.45 L	Fully-Furnished	2	Family	Sale
+187	Mizoram Properties (Mizoram.txt)	1 BHK Apartment	Lunglei Central	Lunglei / Mizoram	Apartment / 1 BHK	615	₹20.31 L	Unfurnished	1	Family	Sale
+188	Mizoram Properties (Mizoram.txt)	3 BHK Independent House	Aizawl Sector 2	Aizawl / Mizoram	Independent House / 3 BHK	1217	₹47.14 L	Semi-Furnished	2	Any	Sale
+189	Mizoram Properties (Mizoram.txt)	1 BHK Apartment	Aizawl Extension	Aizawl / Mizoram	Apartment / 1 BHK	487	₹22.52 L	Semi-Furnished	2	Bachelors	Sale
+190	Mizoram Properties (Mizoram.txt)	2 BHK Apartment	Aizawl South	Aizawl / Mizoram	Apartment / 2 BHK	769	₹34.97 L	Semi-Furnished	2	Family	Sale
+191	Mizoram Properties (Mizoram.txt)	3 BHK Independent House	Champhai Heights	Champhai / Mizoram	Independent House / 3 BHK	1459	₹17,000/month	Unfurnished	3	Any	Rent
+192	Mizoram Properties (Mizoram.txt)	1 BHK Independent House	Lunglei Town Centre	Lunglei / Mizoram	Independent House / 1 BHK	769	₹8,000/month	Semi-Furnished	1	Family	Rent
+193	Mizoram Properties (Mizoram.txt)	2 BHK Independent House	Aizawl Residential Area	Aizawl / Mizoram	Independent House / 2 BHK	934	₹41.36 L	Unfurnished	2	Family	Sale
+194	Mizoram Properties (Mizoram.txt)	2 BHK Apartment	Champhai North	Champhai / Mizoram	Apartment / 2 BHK	803	₹38.79 L	Semi-Furnished	2	Bachelors	Sale
+195	Mizoram Properties (Mizoram.txt)	2 BHK Apartment	Aizawl Town Centre	Aizawl / Mizoram	Apartment / 2 BHK	905	₹12,200/month	Semi-Furnished	3	Bachelors	Rent
+196	Mizoram Properties (Mizoram.txt)	3 BHK Apartment	Aizawl Nagar	Aizawl / Mizoram	Apartment / 3 BHK	1423	₹15,400/month	Fully-Furnished	3	Bachelors	Rent
+197	Mizoram Properties (Mizoram.txt)	1 BHK Apartment	Lunglei Central	Lunglei / Mizoram	Apartment / 1 BHK	491	₹6,700/month	Fully-Furnished	1	Family	Rent
+198	Mizoram Properties (Mizoram.txt)	5 BHK Apartment	Champhai Sector 1	Champhai / Mizoram	Apartment / 5 BHK	2235	₹79.94 L	Semi-Furnished	4	Bachelors	Sale
+199	Mizoram Properties (Mizoram.txt)	2 BHK Apartment	Lunglei South	Lunglei / Mizoram	Apartment / 2 BHK	746	₹37.08 L	Fully-Furnished	1	Family	Sale
+200	Mizoram Properties (Mizoram.txt)	2 BHK Apartment	Aizawl Town Centre	Aizawl / Mizoram	Apartment / 2 BHK	927	₹35.77 L	Fully-Furnished	3	Any	Sale
+201	Mizoram Properties (Mizoram.txt)	3 BHK Independent House	Champhai Extension	Champhai / Mizoram	Independent House / 3 BHK	1454	₹15,400/month	Unfurnished	3	Family	Rent
+202	Mizoram Properties (Mizoram.txt)	1 BHK Apartment	Champhai Heights	Champhai / Mizoram	Apartment / 1 BHK	596	₹5,800/month	Semi-Furnished	1	Family	Rent
+203	Mizoram Properties (Mizoram.txt)	1 BHK Apartment	Aizawl East	Aizawl / Mizoram	Apartment / 1 BHK	394	₹23.24 L	Semi-Furnished	2	Bachelors	Sale
+204	Mizoram Properties (Mizoram.txt)	3 BHK Builder Floor	Aizawl South	Aizawl / Mizoram	Builder Floor / 3 BHK	1469	₹62.02 L	Unfurnished	3	Any	Sale
+205	Mizoram Properties (Mizoram.txt)	2 BHK Apartment	Lunglei Heights	Lunglei / Mizoram	Apartment / 2 BHK	688	₹11,000/month	Fully-Furnished	2	Bachelors	Rent
+206	Mizoram Properties (Mizoram.txt)	3 BHK Apartment	Aizawl Colony	Aizawl / Mizoram	Apartment / 3 BHK	940	₹49.01 L	Fully-Furnished	3	Bachelors	Sale
+207	Mizoram Properties (Mizoram.txt)	3 BHK Apartment	Aizawl Extension	Aizawl / Mizoram	Apartment / 3 BHK	1173	₹43.74 L	Semi-Furnished	2	Any	Sale
+208	Mizoram Properties (Mizoram.txt)	3 BHK Apartment	Champhai Sector 1	Champhai / Mizoram	Apartment / 3 BHK	1719	₹63.82 L	Semi-Furnished	3	Any	Sale
+209	Mizoram Properties (Mizoram.txt)	3 BHK Apartment	Champhai Town Centre	Champhai / Mizoram	Apartment / 3 BHK	1358	₹13,800/month	Semi-Furnished	3	Bachelors	Rent
+210	Mizoram Properties (Mizoram.txt)	2 BHK Apartment	Aizawl Sector 1	Aizawl / Mizoram	Apartment / 2 BHK	819	₹31.18 L	Fully-Furnished	1	Family	Sale
+211	Mizoram Properties (Mizoram.txt)	2 BHK Apartment	Aizawl Sector 1	Aizawl / Mizoram	Apartment / 2 BHK	756	₹35.95 L	Unfurnished	1	Family	Sale
+212	Mizoram Properties (Mizoram.txt)	3 BHK Apartment	Champhai East	Champhai / Mizoram	Apartment / 3 BHK	1053	₹45.84 L	Fully-Furnished	4	Bachelors	Sale
+213	Mizoram Properties (Mizoram.txt)	3 BHK Apartment	Lunglei Heights	Lunglei / Mizoram	Apartment / 3 BHK	1301	₹12,100/month	Unfurnished	3	Family	Rent
+214	Mizoram Properties (Mizoram.txt)	4 BHK Independent House	Lunglei Sector 1	Lunglei / Mizoram	Independent House / 4 BHK	2134	₹70.16 L	Semi-Furnished	4	Any	Sale
+215	Mizoram Properties (Mizoram.txt)	3 BHK Apartment	Lunglei Main Road	Lunglei / Mizoram	Apartment / 3 BHK	1139	₹41.58 L	Semi-Furnished	4	Any	Sale
+216	Mizoram Properties (Mizoram.txt)	4 BHK Builder Floor	Lunglei North	Lunglei / Mizoram	Builder Floor / 4 BHK	1625	₹75.80 L	Fully-Furnished	4	Bachelors	Sale
+217	Mizoram Properties (Mizoram.txt)	5 BHK Apartment	Aizawl Nagar	Aizawl / Mizoram	Apartment / 5 BHK	2321	₹96.83 L	Fully-Furnished	5	Family	Sale
+218	Mizoram Properties (Mizoram.txt)	2 BHK Independent House	Champhai Central	Champhai / Mizoram	Independent House / 2 BHK	1296	₹11,000/month	Fully-Furnished	1	Family	Rent
+219	Mizoram Properties (Mizoram.txt)	3 BHK Independent House	Champhai Town Centre	Champhai / Mizoram	Independent House / 3 BHK	1199	₹51.29 L	Semi-Furnished	3	Bachelors	Sale
+220	Mizoram Properties (Mizoram.txt)	1 BHK Studio	Aizawl South	Aizawl / Mizoram	Studio / 1 BHK	427	₹24.33 L	Unfurnished	1	Bachelors	Sale
+221	Mizoram Properties (Mizoram.txt)	2 BHK Independent House	Champhai Sector 2	Champhai / Mizoram	Independent House / 2 BHK	868	₹42.42 L	Fully-Furnished	2	Any	Sale
+222	Mizoram Properties (Mizoram.txt)	3 BHK Apartment	Lunglei Heights	Lunglei / Mizoram	Apartment / 3 BHK	1300	₹14,700/month	Semi-Furnished	3	Family	Rent
+223	Mizoram Properties (Mizoram.txt)	2 BHK Apartment	Lunglei Central	Lunglei / Mizoram	Apartment / 2 BHK	636	₹9,400/month	Semi-Furnished	2	Family	Rent
+224	Mizoram Properties (Mizoram.txt)	4 BHK Apartment	Champhai Heights	Champhai / Mizoram	Apartment / 4 BHK	2453	₹71.98 L	Unfurnished	4	Bachelors	Sale
+225	Mizoram Properties (Mizoram.txt)	1 BHK Apartment	Lunglei South	Lunglei / Mizoram	Apartment / 1 BHK	411	₹25.59 L	Unfurnished	1	Any	Sale
+226	Mizoram Properties (Mizoram.txt)	3 BHK Builder Floor	Aizawl Nagar	Aizawl / Mizoram	Builder Floor / 3 BHK	1080	₹15,500/month	Fully-Furnished	3	Family	Rent
+227	Mizoram Properties (Mizoram.txt)	1 BHK Independent House	Aizawl Sector 1	Aizawl / Mizoram	Independent House / 1 BHK	423	₹21.05 L	Semi-Furnished	1	Family	Sale
+228	Mizoram Properties (Mizoram.txt)	3 BHK Builder Floor	Champhai Sector 3	Champhai / Mizoram	Builder Floor / 3 BHK	999	₹54.89 L	Unfurnished	3	Family	Sale
+229	Mizoram Properties (Mizoram.txt)	3 BHK Apartment	Champhai West	Champhai / Mizoram	Apartment / 3 BHK	1267	₹41.28 L	Semi-Furnished	3	Family	Sale
+230	Mizoram Properties (Mizoram.txt)	2 BHK Builder Floor	Lunglei Residential Area	Lunglei / Mizoram	Builder Floor / 2 BHK	695	₹41.31 L	Fully-Furnished	1	Family	Sale
+231	Mizoram Properties (Mizoram.txt)	2 BHK Independent House	Champhai South	Champhai / Mizoram	Independent House / 2 BHK	1030	₹33.44 L	Fully-Furnished	3	Family	Sale
+232	Mizoram Properties (Mizoram.txt)	2 BHK Apartment	Lunglei Nagar	Lunglei / Mizoram	Apartment / 2 BHK	884	₹38.04 L	Unfurnished	1	Any	Sale
+233	Mizoram Properties (Mizoram.txt)	3 BHK Apartment	Lunglei Sector 3	Lunglei / Mizoram	Apartment / 3 BHK	1168	₹46.02 L	Semi-Furnished	3	Any	Sale
+234	Mizoram Properties (Mizoram.txt)	4 BHK Apartment	Aizawl Colony	Aizawl / Mizoram	Apartment / 4 BHK	2047	₹70.55 L	Unfurnished	4	Any	Sale
+235	Mizoram Properties (Mizoram.txt)	3 BHK Independent House	Aizawl Heights	Aizawl / Mizoram	Independent House / 3 BHK	1664	₹14,300/month	Semi-Furnished	4	Family	Rent
+236	Mizoram Properties (Mizoram.txt)	2 BHK Villa	Aizawl North	Aizawl / Mizoram	Villa / 2 BHK	908	₹42.24 L	Fully-Furnished	1	Family	Sale
+237	Mizoram Properties (Mizoram.txt)	3 BHK Apartment	Champhai Sector 1	Champhai / Mizoram	Apartment / 3 BHK	1573	₹57.44 L	Semi-Furnished	3	Any	Sale
+238	Mizoram Properties (Mizoram.txt)	1 BHK Apartment	Aizawl East	Aizawl / Mizoram	Apartment / 1 BHK	431	₹23.88 L	Semi-Furnished	2	Bachelors	Sale
+239	Mizoram Properties (Mizoram.txt)	2 BHK Apartment	Lunglei East	Lunglei / Mizoram	Apartment / 2 BHK	759	₹33.40 L	Semi-Furnished	2	Any	Sale
+240	Mizoram Properties (Mizoram.txt)	3 BHK Independent House	Aizawl West	Aizawl / Mizoram	Independent House / 3 BHK	1369	₹12,200/month	Semi-Furnished	3	Bachelors	Rent
+241	Mizoram Properties (Mizoram.txt)	3 BHK Builder Floor	Champhai West	Champhai / Mizoram	Builder Floor / 3 BHK	1051	₹14,800/month	Semi-Furnished	3	Family	Rent
+242	Mizoram Properties (Mizoram.txt)	3 BHK Apartment	Aizawl Sector 1	Aizawl / Mizoram	Apartment / 3 BHK	1188	₹44.18 L	Fully-Furnished	4	Any	Sale
+243	Mizoram Properties (Mizoram.txt)	5 BHK Apartment	Champhai West	Champhai / Mizoram	Apartment / 5 BHK	2454	₹22,700/month	Fully-Furnished	5	Family	Rent
+244	Mizoram Properties (Mizoram.txt)	3 BHK Apartment	Champhai Colony	Champhai / Mizoram	Apartment / 3 BHK	861	₹54.39 L	Unfurnished	3	Bachelors	Sale
+245	Mizoram Properties (Mizoram.txt)	4 BHK Apartment	Lunglei Heights	Lunglei / Mizoram	Apartment / 4 BHK	1529	₹57.15 L	Fully-Furnished	4	Family	Sale
+246	Mizoram Properties (Mizoram.txt)	4 BHK Apartment	Champhai Main Road	Champhai / Mizoram	Apartment / 4 BHK	1661	₹72.78 L	Unfurnished	4	Family	Sale
+247	Mizoram Properties (Mizoram.txt)	2 BHK Builder Floor	Champhai Central	Champhai / Mizoram	Builder Floor / 2 BHK	967	₹9,200/month	Semi-Furnished	2	Bachelors	Rent
+248	Mizoram Properties (Mizoram.txt)	1 BHK Apartment	Aizawl East	Aizawl / Mizoram	Apartment / 1 BHK	658	₹23.10 L	Semi-Furnished	1	Family	Sale
+249	Mizoram Properties (Mizoram.txt)	1 BHK Apartment	Aizawl Sector 3	Aizawl / Mizoram	Apartment / 1 BHK	447	₹19.92 L	Semi-Furnished	1	Bachelors	Sale
+250	Mizoram Properties (Mizoram.txt)	2 BHK Builder Floor	Lunglei West	Lunglei / Mizoram	Builder Floor / 2 BHK	879	₹43.35 L	Semi-Furnished	1	Family	Sale
+251	Mizoram Properties (Mizoram.txt)	2 BHK Apartment	Champhai Residential Area	Champhai / Mizoram	Apartment / 2 BHK	1027	₹10,400/month	Semi-Furnished	2	Family	Rent
+252	Mizoram Properties (Mizoram.txt)	3 BHK Apartment	Champhai East	Champhai / Mizoram	Apartment / 3 BHK	1146	₹14,000/month	Semi-Furnished	3	Family	Rent
+253	Mizoram Properties (Mizoram.txt)	1 BHK Studio	Lunglei Sector 1	Lunglei / Mizoram	Studio / 1 BHK	300	₹5,200/month	Fully-Furnished	2	Bachelors	Rent
+254	Mizoram Properties (Mizoram.txt)	2 BHK Apartment	Lunglei Sector 3	Lunglei / Mizoram	Apartment / 2 BHK	1010	₹34.63 L	Semi-Furnished	2	Family	Sale
+255	Mizoram Properties (Mizoram.txt)	2 BHK Apartment	Aizawl North	Aizawl / Mizoram	Apartment / 2 BHK	858	₹31.23 L	Fully-Furnished	2	Any	Sale
+256	Mizoram Properties (Mizoram.txt)	2 BHK Builder Floor	Aizawl Colony	Aizawl / Mizoram	Builder Floor / 2 BHK	782	₹8,800/month	Semi-Furnished	1	Any	Rent
+257	Mizoram Properties (Mizoram.txt)	4 BHK Apartment	Champhai Town Centre	Champhai / Mizoram	Apartment / 4 BHK	1844	₹17,500/month	Semi-Furnished	5	Bachelors	Rent
+258	Mizoram Properties (Mizoram.txt)	1 BHK Independent House	Aizawl East	Aizawl / Mizoram	Independent House / 1 BHK	620	₹27.31 L	Unfurnished	1	Family	Sale
+259	Mizoram Properties (Mizoram.txt)	1 BHK Studio	Champhai East	Champhai / Mizoram	Studio / 1 BHK	300	₹23.34 L	Unfurnished	1	Any	Sale
+260	Mizoram Properties (Mizoram.txt)	3 BHK Apartment	Lunglei Extension	Lunglei / Mizoram	Apartment / 3 BHK	1040	₹56.22 L	Semi-Furnished	3	Bachelors	Sale
+261	Mizoram Properties (Mizoram.txt)	2 BHK Apartment	Champhai Sector 1	Champhai / Mizoram	Apartment / 2 BHK	757	₹37.63 L	Semi-Furnished	1	Family	Sale
+262	Mizoram Properties (Mizoram.txt)	2 BHK Apartment	Aizawl North	Aizawl / Mizoram	Apartment / 2 BHK	899	₹9,200/month	Semi-Furnished	2	Family	Rent
+263	Mizoram Properties (Mizoram.txt)	2 BHK Apartment	Aizawl Residential Area	Aizawl / Mizoram	Apartment / 2 BHK	754	₹41.26 L	Semi-Furnished	3	Family	Sale
+264	Mizoram Properties (Mizoram.txt)	2 BHK Villa	Champhai Nagar	Champhai / Mizoram	Villa / 2 BHK	1080	₹9,700/month	Unfurnished	1	Bachelors	Rent
+265	Mizoram Properties (Mizoram.txt)	1 BHK Studio	Champhai Town Centre	Champhai / Mizoram	Studio / 1 BHK	373	₹5,200/month	Unfurnished	1	Bachelors	Rent
+266	Mizoram Properties (Mizoram.txt)	3 BHK Builder Floor	Lunglei Residential Area	Lunglei / Mizoram	Builder Floor / 3 BHK	941	₹54.74 L	Semi-Furnished	3	Family	Sale
+267	Mizoram Properties (Mizoram.txt)	1 BHK Studio	Lunglei North	Lunglei / Mizoram	Studio / 1 BHK	372	₹21.52 L	Semi-Furnished	1	Any	Sale
+268	Mizoram Properties (Mizoram.txt)	4 BHK Apartment	Champhai Sector 2	Champhai / Mizoram	Apartment / 4 BHK	1338	₹59.56 L	Fully-Furnished	4	Family	Sale
+269	Mizoram Properties (Mizoram.txt)	2 BHK Independent House	Champhai West	Champhai / Mizoram	Independent House / 2 BHK	901	₹11,300/month	Unfurnished	3	Bachelors	Rent
+270	Mizoram Properties (Mizoram.txt)	4 BHK Apartment	Lunglei Main Road	Lunglei / Mizoram	Apartment / 4 BHK	1648	₹19,000/month	Unfurnished	3	Any	Rent
+271	Mizoram Properties (Mizoram.txt)	1 BHK Apartment	Champhai Sector 3	Champhai / Mizoram	Apartment / 1 BHK	606	₹7,500/month	Fully-Furnished	2	Family	Rent
+272	Mizoram Properties (Mizoram.txt)	2 BHK Apartment	Champhai Sector 1	Champhai / Mizoram	Apartment / 2 BHK	843	₹11,600/month	Fully-Furnished	2	Bachelors	Rent
+273	Mizoram Properties (Mizoram.txt)	3 BHK Independent House	Lunglei Central	Lunglei / Mizoram	Independent House / 3 BHK	1648	₹13,700/month	Semi-Furnished	3	Family	Rent
+274	Mizoram Properties (Mizoram.txt)	2 BHK Independent House	Lunglei Residential Area	Lunglei / Mizoram	Independent House / 2 BHK	952	₹37.59 L	Semi-Furnished	1	Bachelors	Sale
+275	Mizoram Properties (Mizoram.txt)	2 BHK Apartment	Aizawl Town Centre	Aizawl / Mizoram	Apartment / 2 BHK	941	₹11,200/month	Semi-Furnished	3	Bachelors	Rent
+276	Mizoram Properties (Mizoram.txt)	3 BHK Apartment	Champhai Residential Area	Champhai / Mizoram	Apartment / 3 BHK	1107	₹41.89 L	Semi-Furnished	3	Family	Sale
+277	Mizoram Properties (Mizoram.txt)	3 BHK Builder Floor	Champhai Heights	Champhai / Mizoram	Builder Floor / 3 BHK	1337	₹45.18 L	Unfurnished	4	Any	Sale
+278	Mizoram Properties (Mizoram.txt)	2 BHK Apartment	Lunglei Heights	Lunglei / Mizoram	Apartment / 2 BHK	990	₹12,500/month	Fully-Furnished	2	Bachelors	Rent
+279	Mizoram Properties (Mizoram.txt)	4 BHK Independent House	Lunglei Sector 1	Lunglei / Mizoram	Independent House / 4 BHK	2497	₹17,100/month	Semi-Furnished	4	Family	Rent
+280	Mizoram Properties (Mizoram.txt)	3 BHK Apartment	Lunglei Nagar	Lunglei / Mizoram	Apartment / 3 BHK	1334	₹12,900/month	Fully-Furnished	3	Family	Rent
+281	Mizoram Properties (Mizoram.txt)	3 BHK Apartment	Champhai Town Centre	Champhai / Mizoram	Apartment / 3 BHK	1371	₹42.27 L	Semi-Furnished	3	Family	Sale
+282	Mizoram Properties (Mizoram.txt)	2 BHK Apartment	Aizawl South	Aizawl / Mizoram	Apartment / 2 BHK	828	₹35.73 L	Fully-Furnished	2	Bachelors	Sale
+283	Mizoram Properties (Mizoram.txt)	2 BHK Apartment	Aizawl Sector 3	Aizawl / Mizoram	Apartment / 2 BHK	869	₹38.87 L	Fully-Furnished	2	Bachelors	Sale
+284	Mizoram Properties (Mizoram.txt)	1 BHK Apartment	Champhai East	Champhai / Mizoram	Apartment / 1 BHK	474	₹19.03 L	Semi-Furnished	1	Any	Sale
+285	Mizoram Properties (Mizoram.txt)	1 BHK Studio	Aizawl Main Road	Aizawl / Mizoram	Studio / 1 BHK	473	₹18.96 L	Semi-Furnished	1	Bachelors	Sale
+286	Mizoram Properties (Mizoram.txt)	3 BHK Villa	Champhai Sector 2	Champhai / Mizoram	Villa / 3 BHK	1723	₹66.71 L	Fully-Furnished	3	Family	Sale
+287	Mizoram Properties (Mizoram.txt)	1 BHK Apartment	Aizawl Town Centre	Aizawl / Mizoram	Apartment / 1 BHK	561	₹20.59 L	Semi-Furnished	2	Bachelors	Sale
+288	Mizoram Properties (Mizoram.txt)	3 BHK Apartment	Champhai North	Champhai / Mizoram	Apartment / 3 BHK	1043	₹55.97 L	Semi-Furnished	3	Any	Sale
+289	Mizoram Properties (Mizoram.txt)	1 BHK Studio	Champhai Central	Champhai / Mizoram	Studio / 1 BHK	356	₹6,800/month	Unfurnished	1	Bachelors	Rent
+290	Mizoram Properties (Mizoram.txt)	4 BHK Apartment	Aizawl Town Centre	Aizawl / Mizoram	Apartment / 4 BHK	1778	₹19,100/month	Fully-Furnished	4	Family	Rent
+291	Mizoram Properties (Mizoram.txt)	4 BHK Apartment	Aizawl Main Road	Aizawl / Mizoram	Apartment / 4 BHK	1965	₹56.75 L	Unfurnished	4	Any	Sale
+292	Mizoram Properties (Mizoram.txt)	4 BHK Apartment	Champhai Main Road	Champhai / Mizoram	Apartment / 4 BHK	1488	₹74.75 L	Unfurnished	3	Bachelors	Sale
+293	Mizoram Properties (Mizoram.txt)	3 BHK Apartment	Champhai Town Centre	Champhai / Mizoram	Apartment / 3 BHK	921	₹52.69 L	Unfurnished	3	Bachelors	Sale
+294	Mizoram Properties (Mizoram.txt)	2 BHK Builder Floor	Lunglei Main Road	Lunglei / Mizoram	Builder Floor / 2 BHK	910	₹10,900/month	Semi-Furnished	2	Bachelors	Rent
+295	Mizoram Properties (Mizoram.txt)	3 BHK Builder Floor	Champhai Sector 1	Champhai / Mizoram	Builder Floor / 3 BHK	744	₹14,000/month	Unfurnished	3	Family	Rent
+296	Mizoram Properties (Mizoram.txt)	1 BHK Independent House	Lunglei Town Centre	Lunglei / Mizoram	Independent House / 1 BHK	684	₹26.35 L	Unfurnished	1	Bachelors	Sale
+297	Mizoram Properties (Mizoram.txt)	3 BHK Builder Floor	Aizawl Town Centre	Aizawl / Mizoram	Builder Floor / 3 BHK	980	₹10,600/month	Fully-Furnished	2	Any	Rent
+298	Mizoram Properties (Mizoram.txt)	1 BHK Independent House	Aizawl Town Centre	Aizawl / Mizoram	Independent House / 1 BHK	725	₹22.21 L	Fully-Furnished	2	Any	Sale
+299	Mizoram Properties (Mizoram.txt)	2 BHK Apartment	Aizawl South	Aizawl / Mizoram	Apartment / 2 BHK	851	₹40.08 L	Unfurnished	2	Any	Sale
+300	Mizoram Properties (Mizoram.txt)	1 BHK Apartment	Champhai East	Champhai / Mizoram	Apartment / 1 BHK	379	₹20.80 L	Semi-Furnished	1	Any	Sale
+301	Mizoram Properties (Mizoram.txt)	1 BHK Apartment	Champhai Town Centre	Champhai / Mizoram	Apartment / 1 BHK	607	₹7,600/month	Unfurnished	1	Family	Rent
+302	Mizoram Properties (Mizoram.txt)	3 BHK Builder Floor	Lunglei South	Lunglei / Mizoram	Builder Floor / 3 BHK	984	₹55.02 L	Semi-Furnished	3	Family	Sale
+303	Mizoram Properties (Mizoram.txt)	3 BHK Independent House	Aizawl West	Aizawl / Mizoram	Independent House / 3 BHK	1188	₹50.86 L	Semi-Furnished	3	Bachelors	Sale
+304	Mizoram Properties (Mizoram.txt)	2 BHK Apartment	Lunglei Sector 1	Lunglei / Mizoram	Apartment / 2 BHK	874	₹9,100/month	Semi-Furnished	2	Bachelors	Rent
+305	Mizoram Properties (Mizoram.txt)	2 BHK Apartment	Aizawl Nagar	Aizawl / Mizoram	Apartment / 2 BHK	801	₹30.79 L	Semi-Furnished	2	Any	Sale
+306	Mizoram Properties (Mizoram.txt)	1 BHK Independent House	Aizawl West	Aizawl / Mizoram	Independent House / 1 BHK	710	₹6,300/month	Unfurnished	1	Family	Rent
+307	Mizoram Properties (Mizoram.txt)	4 BHK Apartment	Aizawl Colony	Aizawl / Mizoram	Apartment / 4 BHK	1572	₹60.58 L	Semi-Furnished	4	Any	Sale
+308	Mizoram Properties (Mizoram.txt)	3 BHK Independent House	Lunglei West	Lunglei / Mizoram	Independent House / 3 BHK	1920	₹64.40 L	Semi-Furnished	3	Bachelors	Sale
+309	Mizoram Properties (Mizoram.txt)	3 BHK Apartment	Lunglei Residential Area	Lunglei / Mizoram	Apartment / 3 BHK	1339	₹55.99 L	Unfurnished	2	Family	Sale
+310	Mizoram Properties (Mizoram.txt)	5 BHK Apartment	Champhai Heights	Champhai / Mizoram	Apartment / 5 BHK	1888	₹19,700/month	Fully-Furnished	5	Family	Rent
+311	Mizoram Properties (Mizoram.txt)	2 BHK Independent House	Champhai Sector 2	Champhai / Mizoram	Independent House / 2 BHK	1023	₹12,100/month	Unfurnished	2	Bachelors	Rent
+312	Mizoram Properties (Mizoram.txt)	2 BHK Builder Floor	Champhai Town Centre	Champhai / Mizoram	Builder Floor / 2 BHK	801	₹34.06 L	Semi-Furnished	2	Family	Sale
+313	Mizoram Properties (Mizoram.txt)	3 BHK Apartment	Aizawl Extension	Aizawl / Mizoram	Apartment / 3 BHK	1353	₹49.37 L	Fully-Furnished	3	Bachelors	Sale
+314	Mizoram Properties (Mizoram.txt)	1 BHK Studio	Lunglei Heights	Lunglei / Mizoram	Studio / 1 BHK	399	₹24.34 L	Semi-Furnished	1	Family	Sale
+315	Mizoram Properties (Mizoram.txt)	2 BHK Apartment	Champhai Colony	Champhai / Mizoram	Apartment / 2 BHK	971	₹9,800/month	Semi-Furnished	2	Family	Rent
+316	Mizoram Properties (Mizoram.txt)	2 BHK Villa	Champhai Town Centre	Champhai / Mizoram	Villa / 2 BHK	1640	₹37.19 L	Semi-Furnished	3	Bachelors	Sale
+317	Mizoram Properties (Mizoram.txt)	2 BHK Apartment	Champhai Sector 1	Champhai / Mizoram	Apartment / 2 BHK	812	₹11,500/month	Fully-Furnished	2	Family	Rent
+318	Mizoram Properties (Mizoram.txt)	4 BHK Builder Floor	Champhai Sector 1	Champhai / Mizoram	Builder Floor / 4 BHK	2022	₹63.20 L	Fully-Furnished	4	Family	Sale
+319	Mizoram Properties (Mizoram.txt)	3 BHK Apartment	Champhai Nagar	Champhai / Mizoram	Apartment / 3 BHK	1230	₹11,600/month	Unfurnished	4	Family	Rent
+320	Mizoram Properties (Mizoram.txt)	4 BHK Apartment	Aizawl Sector 3	Aizawl / Mizoram	Apartment / 4 BHK	1660	₹54.72 L	Semi-Furnished	4	Family	Sale
+321	Mizoram Properties (Mizoram.txt)	3 BHK Builder Floor	Champhai North	Champhai / Mizoram	Builder Floor / 3 BHK	1540	₹16,100/month	Unfurnished	4	Bachelors	Rent
+322	Mizoram Properties (Mizoram.txt)	1 BHK Studio	Champhai Extension	Champhai / Mizoram	Studio / 1 BHK	399	₹5,600/month	Fully-Furnished	1	Family	Rent
+323	Mizoram Properties (Mizoram.txt)	3 BHK Villa	Aizawl West	Aizawl / Mizoram	Villa / 3 BHK	1745	₹12,600/month	Unfurnished	4	Family	Rent
+324	Mizoram Properties (Mizoram.txt)	1 BHK Studio	Lunglei South	Lunglei / Mizoram	Studio / 1 BHK	338	₹19.25 L	Unfurnished	1	Family	Sale
+325	Mizoram Properties (Mizoram.txt)	2 BHK Apartment	Lunglei Colony	Lunglei / Mizoram	Apartment / 2 BHK	1073	₹11,500/month	Semi-Furnished	2	Bachelors	Rent
+326	Mizoram Properties (Mizoram.txt)	3 BHK Apartment	Champhai Colony	Champhai / Mizoram	Apartment / 3 BHK	1556	₹59.12 L	Semi-Furnished	3	Family	Sale
+327	Mizoram Properties (Mizoram.txt)	2 BHK Apartment	Aizawl South	Aizawl / Mizoram	Apartment / 2 BHK	871	₹31.23 L	Fully-Furnished	3	Bachelors	Sale
+328	Mizoram Properties (Mizoram.txt)	2 BHK Builder Floor	Champhai Colony	Champhai / Mizoram	Builder Floor / 2 BHK	982	₹31.88 L	Semi-Furnished	3	Any	Sale
+329	Mizoram Properties (Mizoram.txt)	2 BHK Apartment	Champhai Central	Champhai / Mizoram	Apartment / 2 BHK	804	₹8,200/month	Unfurnished	2	Family	Rent
+330	Mizoram Properties (Mizoram.txt)	5 BHK Apartment	Lunglei Central	Lunglei / Mizoram	Apartment / 5 BHK	2587	₹20,700/month	Unfurnished	4	Family	Rent
+331	Mizoram Properties (Mizoram.txt)	1 BHK Villa	Champhai South	Champhai / Mizoram	Villa / 1 BHK	772	₹26.72 L	Fully-Furnished	1	Bachelors	Sale
+332	Mizoram Properties (Mizoram.txt)	2 BHK Independent House	Aizawl Sector 2	Aizawl / Mizoram	Independent House / 2 BHK	1053	₹10,000/month	Semi-Furnished	2	Family	Rent
+333	Mizoram Properties (Mizoram.txt)	2 BHK Independent House	Aizawl Sector 2	Aizawl / Mizoram	Independent House / 2 BHK	1136	₹10,200/month	Fully-Furnished	2	Family	Rent
+334	Mizoram Properties (Mizoram.txt)	1 BHK Studio	Lunglei Sector 3	Lunglei / Mizoram	Studio / 1 BHK	358	₹5,600/month	Semi-Furnished	1	Family	Rent
+335	Mizoram Properties (Mizoram.txt)	4 BHK Apartment	Lunglei West	Lunglei / Mizoram	Apartment / 4 BHK	1781	₹20,200/month	Fully-Furnished	3	Family	Rent
+336	Mizoram Properties (Mizoram.txt)	1 BHK Villa	Champhai Nagar	Champhai / Mizoram	Villa / 1 BHK	689	₹25.90 L	Fully-Furnished	1	Family	Sale
+337	Mizoram Properties (Mizoram.txt)	2 BHK Independent House	Champhai Residential Area	Champhai / Mizoram	Independent House / 2 BHK	1043	₹41.29 L	Fully-Furnished	2	Bachelors	Sale
+338	Mizoram Properties (Mizoram.txt)	1 BHK Independent House	Lunglei West	Lunglei / Mizoram	Independent House / 1 BHK	567	₹7,200/month	Unfurnished	2	Bachelors	Rent
+339	Mizoram Properties (Mizoram.txt)	1 BHK Studio	Champhai Residential Area	Champhai / Mizoram	Studio / 1 BHK	456	₹6,900/month	Semi-Furnished	2	Family	Rent
+340	Mizoram Properties (Mizoram.txt)	1 BHK Apartment	Champhai Residential Area	Champhai / Mizoram	Apartment / 1 BHK	494	₹21.69 L	Fully-Furnished	2	Any	Sale
+341	Mizoram Properties (Mizoram.txt)	4 BHK Builder Floor	Champhai West	Champhai / Mizoram	Builder Floor / 4 BHK	2034	₹68.96 L	Fully-Furnished	5	Bachelors	Sale
+342	Mizoram Properties (Mizoram.txt)	3 BHK Independent House	Aizawl Main Road	Aizawl / Mizoram	Independent House / 3 BHK	1697	₹16,100/month	Unfurnished	3	Bachelors	Rent
+343	Mizoram Properties (Mizoram.txt)	2 BHK Apartment	Champhai Central	Champhai / Mizoram	Apartment / 2 BHK	982	₹44.47 L	Fully-Furnished	3	Any	Sale
+344	Mizoram Properties (Mizoram.txt)	3 BHK Apartment	Lunglei Sector 2	Lunglei / Mizoram	Apartment / 3 BHK	1582	₹44.39 L	Semi-Furnished	3	Family	Sale
+345	Mizoram Properties (Mizoram.txt)	2 BHK Apartment	Aizawl Residential Area	Aizawl / Mizoram	Apartment / 2 BHK	821	₹10,000/month	Semi-Furnished	2	Bachelors	Rent
+346	Mizoram Properties (Mizoram.txt)	5 BHK Apartment	Champhai East	Champhai / Mizoram	Apartment / 5 BHK	2501	₹22,400/month	Fully-Furnished	5	Family	Rent
+347	Mizoram Properties (Mizoram.txt)	2 BHK Independent House	Lunglei Town Centre	Lunglei / Mizoram	Independent House / 2 BHK	1163	₹39.19 L	Semi-Furnished	2	Any	Sale
+348	Mizoram Properties (Mizoram.txt)	3 BHK Apartment	Champhai Nagar	Champhai / Mizoram	Apartment / 3 BHK	1433	₹11,900/month	Fully-Furnished	3	Family	Rent
+349	Mizoram Properties (Mizoram.txt)	2 BHK Apartment	Aizawl Central	Aizawl / Mizoram	Apartment / 2 BHK	987	₹10,600/month	Semi-Furnished	2	Bachelors	Rent
+350	Mizoram Properties (Mizoram.txt)	1 BHK Apartment	Lunglei North	Lunglei / Mizoram	Apartment / 1 BHK	487	₹5,600/month	Fully-Furnished	1	Bachelors	Rent
+351	Mizoram Properties (Mizoram.txt)	3 BHK Apartment	Lunglei West	Lunglei / Mizoram	Apartment / 3 BHK	1244	₹44.18 L	Fully-Furnished	3	Any	Sale
+352	Mizoram Properties (Mizoram.txt)	2 BHK Builder Floor	Aizawl South	Aizawl / Mizoram	Builder Floor / 2 BHK	825	₹37.51 L	Semi-Furnished	1	Any	Sale
+353	Mizoram Properties (Mizoram.txt)	1 BHK Independent House	Lunglei Central	Lunglei / Mizoram	Independent House / 1 BHK	587	₹8,000/month	Semi-Furnished	1	Bachelors	Rent
+354	Mizoram Properties (Mizoram.txt)	1 BHK Apartment	Lunglei Town Centre	Lunglei / Mizoram	Apartment / 1 BHK	551	₹22.92 L	Fully-Furnished	1	Family	Sale
+355	Mizoram Properties (Mizoram.txt)	1 BHK Apartment	Lunglei Colony	Lunglei / Mizoram	Apartment / 1 BHK	554	₹19.58 L	Unfurnished	1	Bachelors	Sale
+356	Mizoram Properties (Mizoram.txt)	3 BHK Apartment	Champhai Town Centre	Champhai / Mizoram	Apartment / 3 BHK	1160	₹56.75 L	Semi-Furnished	3	Bachelors	Sale
+357	Mizoram Properties (Mizoram.txt)	3 BHK Independent House	Champhai Colony	Champhai / Mizoram	Independent House / 3 BHK	1410	₹51.97 L	Semi-Furnished	3	Any	Sale
+358	Mizoram Properties (Mizoram.txt)	3 BHK Apartment	Lunglei Sector 1	Lunglei / Mizoram	Apartment / 3 BHK	1005	₹12,800/month	Semi-Furnished	2	Any	Rent
+359	Mizoram Properties (Mizoram.txt)	2 BHK Apartment	Lunglei Extension	Lunglei / Mizoram	Apartment / 2 BHK	862	₹33.49 L	Semi-Furnished	1	Family	Sale
+360	Mizoram Properties (Mizoram.txt)	1 BHK Apartment	Champhai Heights	Champhai / Mizoram	Apartment / 1 BHK	523	₹22.66 L	Semi-Furnished	1	Bachelors	Sale
+361	Mizoram Properties (Mizoram.txt)	5 BHK Apartment	Lunglei Main Road	Lunglei / Mizoram	Apartment / 5 BHK	2414	₹83.46 L	Semi-Furnished	5	Family	Sale
+362	Mizoram Properties (Mizoram.txt)	1 BHK Apartment	Aizawl Nagar	Aizawl / Mizoram	Apartment / 1 BHK	515	₹7,900/month	Unfurnished	1	Bachelors	Rent
+363	Mizoram Properties (Mizoram.txt)	3 BHK Apartment	Lunglei Town Centre	Lunglei / Mizoram	Apartment / 3 BHK	1400	₹15,700/month	Semi-Furnished	2	Family	Rent
+364	Mizoram Properties (Mizoram.txt)	4 BHK Independent House	Aizawl West	Aizawl / Mizoram	Independent House / 4 BHK	2281	₹62.19 L	Semi-Furnished	4	Family	Sale
+365	Mizoram Properties (Mizoram.txt)	3 BHK Apartment	Aizawl Town Centre	Aizawl / Mizoram	Apartment / 3 BHK	1145	₹59.21 L	Semi-Furnished	3	Family	Sale
+366	Mizoram Properties (Mizoram.txt)	2 BHK Independent House	Champhai South	Champhai / Mizoram	Independent House / 2 BHK	1155	₹10,100/month	Semi-Furnished	2	Bachelors	Rent
+367	Mizoram Properties (Mizoram.txt)	2 BHK Apartment	Lunglei West	Lunglei / Mizoram	Apartment / 2 BHK	874	₹11,100/month	Semi-Furnished	3	Any	Rent
+368	Mizoram Properties (Mizoram.txt)	3 BHK Independent House	Champhai South	Champhai / Mizoram	Independent House / 3 BHK	1391	₹46.34 L	Semi-Furnished	2	Bachelors	Sale
+369	Mizoram Properties (Mizoram.txt)	4 BHK Independent House	Lunglei East	Lunglei / Mizoram	Independent House / 4 BHK	1933	₹59.67 L	Unfurnished	4	Any	Sale
+370	Mizoram Properties (Mizoram.txt)	4 BHK Apartment	Aizawl Residential Area	Aizawl / Mizoram	Apartment / 4 BHK	1608	₹75.52 L	Semi-Furnished	4	Family	Sale
+371	Mizoram Properties (Mizoram.txt)	2 BHK Apartment	Lunglei Residential Area	Lunglei / Mizoram	Apartment / 2 BHK	949	₹38.46 L	Unfurnished	1	Family	Sale
+372	Mizoram Properties (Mizoram.txt)	3 BHK Apartment	Champhai Sector 1	Champhai / Mizoram	Apartment / 3 BHK	1166	₹45.89 L	Semi-Furnished	3	Family	Sale
+373	Mizoram Properties (Mizoram.txt)	1 BHK Studio	Champhai Colony	Champhai / Mizoram	Studio / 1 BHK	310	₹7,100/month	Semi-Furnished	1	Bachelors	Rent
+374	Mizoram Properties (Mizoram.txt)	3 BHK Apartment	Champhai North	Champhai / Mizoram	Apartment / 3 BHK	1167	₹52.20 L	Semi-Furnished	3	Bachelors	Sale
+375	Mizoram Properties (Mizoram.txt)	3 BHK Villa	Aizawl Nagar	Aizawl / Mizoram	Villa / 3 BHK	1681	₹52.61 L	Semi-Furnished	2	Family	Sale
+376	Mizoram Properties (Mizoram.txt)	4 BHK Independent House	Champhai Extension	Champhai / Mizoram	Independent House / 4 BHK	2128	₹58.20 L	Semi-Furnished	4	Any	Sale
+377	Mizoram Properties (Mizoram.txt)	3 BHK Apartment	Lunglei Sector 3	Lunglei / Mizoram	Apartment / 3 BHK	1291	₹15,200/month	Unfurnished	3	Family	Rent
+378	Mizoram Properties (Mizoram.txt)	2 BHK Apartment	Champhai Sector 1	Champhai / Mizoram	Apartment / 2 BHK	760	₹42.85 L	Semi-Furnished	2	Family	Sale
+379	Mizoram Properties (Mizoram.txt)	2 BHK Apartment	Lunglei South	Lunglei / Mizoram	Apartment / 2 BHK	971	₹9,700/month	Semi-Furnished	2	Family	Rent
+380	Mizoram Properties (Mizoram.txt)	1 BHK Apartment	Champhai Main Road	Champhai / Mizoram	Apartment / 1 BHK	460	₹26.85 L	Unfurnished	1	Bachelors	Sale
+381	Mizoram Properties (Mizoram.txt)	2 BHK Builder Floor	Lunglei Colony	Lunglei / Mizoram	Builder Floor / 2 BHK	828	₹29.91 L	Fully-Furnished	2	Bachelors	Sale
+382	Mizoram Properties (Mizoram.txt)	3 BHK Builder Floor	Lunglei Colony	Lunglei / Mizoram	Builder Floor / 3 BHK	1568	₹49.92 L	Semi-Furnished	2	Any	Sale
+383	Mizoram Properties (Mizoram.txt)	3 BHK Builder Floor	Aizawl North	Aizawl / Mizoram	Builder Floor / 3 BHK	1309	₹51.38 L	Fully-Furnished	3	Family	Sale
+384	Mizoram Properties (Mizoram.txt)	3 BHK Apartment	Aizawl Central	Aizawl / Mizoram	Apartment / 3 BHK	1040	₹50.94 L	Fully-Furnished	3	Family	Sale
+385	Mizoram Properties (Mizoram.txt)	2 BHK Apartment	Aizawl Heights	Aizawl / Mizoram	Apartment / 2 BHK	813	₹40.03 L	Semi-Furnished	2	Family	Sale
+386	Mizoram Properties (Mizoram.txt)	2 BHK Apartment	Lunglei East	Lunglei / Mizoram	Apartment / 2 BHK	822	₹8,500/month	Semi-Furnished	2	Family	Rent
+387	Mizoram Properties (Mizoram.txt)	3 BHK Apartment	Aizawl North	Aizawl / Mizoram	Apartment / 3 BHK	1184	₹13,300/month	Unfurnished	2	Family	Rent
+388	Mizoram Properties (Mizoram.txt)	2 BHK Apartment	Champhai Colony	Champhai / Mizoram	Apartment / 2 BHK	804	₹8,900/month	Semi-Furnished	1	Bachelors	Rent
+389	Mizoram Properties (Mizoram.txt)	4 BHK Apartment	Champhai Sector 3	Champhai / Mizoram	Apartment / 4 BHK	2090	₹66.46 L	Semi-Furnished	3	Family	Sale
+390	Mizoram Properties (Mizoram.txt)	4 BHK Villa	Lunglei Heights	Lunglei / Mizoram	Villa / 4 BHK	2923	₹71.23 L	Fully-Furnished	5	Any	Sale
+391	Mizoram Properties (Mizoram.txt)	2 BHK Builder Floor	Aizawl Sector 3	Aizawl / Mizoram	Builder Floor / 2 BHK	855	₹8,700/month	Unfurnished	3	Any	Rent
+392	Mizoram Properties (Mizoram.txt)	3 BHK Villa	Aizawl Extension	Aizawl / Mizoram	Villa / 3 BHK	2316	₹73.73 L	Unfurnished	3	Bachelors	Sale
+393	Mizoram Properties (Mizoram.txt)	5 BHK Apartment	Aizawl Extension	Aizawl / Mizoram	Apartment / 5 BHK	2457	₹25,800/month	Semi-Furnished	4	Bachelors	Rent
+394	Mizoram Properties (Mizoram.txt)	4 BHK Villa	Champhai Main Road	Champhai / Mizoram	Villa / 4 BHK	2201	₹22,100/month	Fully-Furnished	4	Bachelors	Rent
+395	Mizoram Properties (Mizoram.txt)	2 BHK Apartment	Lunglei Sector 1	Lunglei / Mizoram	Apartment / 2 BHK	839	₹33.41 L	Unfurnished	2	Family	Sale
+396	Mizoram Properties (Mizoram.txt)	1 BHK Apartment	Lunglei West	Lunglei / Mizoram	Apartment / 1 BHK	466	₹26.51 L	Semi-Furnished	1	Any	Sale
+397	Mizoram Properties (Mizoram.txt)	2 BHK Independent House	Aizawl West	Aizawl / Mizoram	Independent House / 2 BHK	948	₹9,000/month	Unfurnished	2	Family	Rent
+398	Mizoram Properties (Mizoram.txt)	4 BHK Villa	Lunglei Heights	Lunglei / Mizoram	Villa / 4 BHK	2203	₹71.18 L	Semi-Furnished	4	Family	Sale
+399	Mizoram Properties (Mizoram.txt)	2 BHK Independent House	Champhai Main Road	Champhai / Mizoram	Independent House / 2 BHK	1032	₹10,800/month	Unfurnished	3	Bachelors	Rent
+400	Mizoram Properties (Mizoram.txt)	4 BHK Villa	Lunglei Heights	Lunglei / Mizoram	Villa / 4 BHK	2443	₹83.64 L	Semi-Furnished	4	Any	Sale
+401	Mizoram Properties (Mizoram.txt)	1 BHK Apartment	Champhai Town Centre	Champhai / Mizoram	Apartment / 1 BHK	372	₹22.61 L	Semi-Furnished	1	Family	Sale
+402	Mizoram Properties (Mizoram.txt)	2 BHK Apartment	Aizawl Colony	Aizawl / Mizoram	Apartment / 2 BHK	998	₹9,500/month	Unfurnished	2	Bachelors	Rent
+403	Mizoram Properties (Mizoram.txt)	1 BHK Studio	Champhai Sector 1	Champhai / Mizoram	Studio / 1 BHK	329	₹21.92 L	Semi-Furnished	1	Family	Sale
+404	Mizoram Properties (Mizoram.txt)	5 BHK Independent House	Aizawl East	Aizawl / Mizoram	Independent House / 5 BHK	2306	₹90.99 L	Fully-Furnished	5	Family	Sale
+405	Mizoram Properties (Mizoram.txt)	3 BHK Apartment	Champhai Town Centre	Champhai / Mizoram	Apartment / 3 BHK	1287	₹45.70 L	Unfurnished	2	Any	Sale
+406	Mizoram Properties (Mizoram.txt)	3 BHK Builder Floor	Aizawl East	Aizawl / Mizoram	Builder Floor / 3 BHK	1516	₹54.70 L	Unfurnished	3	Any	Sale
+407	Mizoram Properties (Mizoram.txt)	2 BHK Builder Floor	Champhai West	Champhai / Mizoram	Builder Floor / 2 BHK	734	₹37.36 L	Fully-Furnished	2	Bachelors	Sale
+408	Mizoram Properties (Mizoram.txt)	2 BHK Apartment	Aizawl Sector 3	Aizawl / Mizoram	Apartment / 2 BHK	875	₹42.85 L	Semi-Furnished	2	Bachelors	Sale
+409	Mizoram Properties (Mizoram.txt)	1 BHK Independent House	Champhai Sector 2	Champhai / Mizoram	Independent House / 1 BHK	736	₹7,800/month	Semi-Furnished	1	Family	Rent
+410	Mizoram Properties (Mizoram.txt)	1 BHK Apartment	Champhai East	Champhai / Mizoram	Apartment / 1 BHK	553	₹7,900/month	Semi-Furnished	1	Family	Rent
+411	Mizoram Properties (Mizoram.txt)	3 BHK Apartment	Champhai Town Centre	Champhai / Mizoram	Apartment / 3 BHK	1145	₹13,000/month	Semi-Furnished	3	Family	Rent
+412	Mizoram Properties (Mizoram.txt)	2 BHK Apartment	Champhai Main Road	Champhai / Mizoram	Apartment / 2 BHK	760	₹30.71 L	Unfurnished	1	Family	Sale
+413	Mizoram Properties (Mizoram.txt)	3 BHK Independent House	Champhai Sector 2	Champhai / Mizoram	Independent House / 3 BHK	1530	₹50.30 L	Semi-Furnished	3	Family	Sale
+414	Mizoram Properties (Mizoram.txt)	2 BHK Apartment	Champhai Central	Champhai / Mizoram	Apartment / 2 BHK	868	₹44.23 L	Unfurnished	2	Bachelors	Sale
+415	Mizoram Properties (Mizoram.txt)	2 BHK Apartment	Champhai Extension	Champhai / Mizoram	Apartment / 2 BHK	666	₹9,200/month	Fully-Furnished	2	Family	Rent
+416	Mizoram Properties (Mizoram.txt)	1 BHK Builder Floor	Lunglei South	Lunglei / Mizoram	Builder Floor / 1 BHK	481	₹22.46 L	Fully-Furnished	1	Any	Sale
+417	Mizoram Properties (Mizoram.txt)	3 BHK Apartment	Aizawl Residential Area	Aizawl / Mizoram	Apartment / 3 BHK	1273	₹13,800/month	Unfurnished	3	Family	Rent
+418	Mizoram Properties (Mizoram.txt)	3 BHK Builder Floor	Aizawl South	Aizawl / Mizoram	Builder Floor / 3 BHK	1240	₹52.31 L	Unfurnished	3	Bachelors	Sale
+419	Mizoram Properties (Mizoram.txt)	4 BHK Builder Floor	Champhai Sector 2	Champhai / Mizoram	Builder Floor / 4 BHK	2030	₹20,800/month	Semi-Furnished	3	Family	Rent
+420	Mizoram Properties (Mizoram.txt)	2 BHK Villa	Lunglei West	Lunglei / Mizoram	Villa / 2 BHK	1309	₹9,500/month	Unfurnished	2	Any	Rent
+421	Mizoram Properties (Mizoram.txt)	4 BHK Apartment	Aizawl Sector 2	Aizawl / Mizoram	Apartment / 4 BHK	1419	₹69.26 L	Semi-Furnished	4	Family	Sale
+422	Mizoram Properties (Mizoram.txt)	2 BHK Builder Floor	Aizawl Nagar	Aizawl / Mizoram	Builder Floor / 2 BHK	744	₹11,300/month	Semi-Furnished	2	Bachelors	Rent
+423	Mizoram Properties (Mizoram.txt)	2 BHK Apartment	Champhai South	Champhai / Mizoram	Apartment / 2 BHK	828	₹39.88 L	Semi-Furnished	2	Bachelors	Sale
+424	Mizoram Properties (Mizoram.txt)	4 BHK Apartment	Lunglei Heights	Lunglei / Mizoram	Apartment / 4 BHK	1735	₹76.44 L	Semi-Furnished	5	Any	Sale
+425	Mizoram Properties (Mizoram.txt)	1 BHK Independent House	Lunglei Extension	Lunglei / Mizoram	Independent House / 1 BHK	662	₹7,200/month	Unfurnished	1	Bachelors	Rent
+426	Mizoram Properties (Mizoram.txt)	3 BHK Apartment	Lunglei Sector 1	Lunglei / Mizoram	Apartment / 3 BHK	1011	₹41.72 L	Fully-Furnished	3	Family	Sale
+427	Mizoram Properties (Mizoram.txt)	3 BHK Apartment	Lunglei Residential Area	Lunglei / Mizoram	Apartment / 3 BHK	1315	₹15,400/month	Fully-Furnished	3	Any	Rent
+428	Mizoram Properties (Mizoram.txt)	4 BHK Builder Floor	Aizawl North	Aizawl / Mizoram	Builder Floor / 4 BHK	1726	₹69.91 L	Semi-Furnished	4	Bachelors	Sale
+429	Mizoram Properties (Mizoram.txt)	4 BHK Apartment	Lunglei Sector 2	Lunglei / Mizoram	Apartment / 4 BHK	2127	₹16,600/month	Semi-Furnished	4	Bachelors	Rent
+430	Mizoram Properties (Mizoram.txt)	2 BHK Apartment	Aizawl Main Road	Aizawl / Mizoram	Apartment / 2 BHK	934	₹11,700/month	Unfurnished	1	Family	Rent
+431	Mizoram Properties (Mizoram.txt)	2 BHK Apartment	Champhai Colony	Champhai / Mizoram	Apartment / 2 BHK	870	₹35.55 L	Unfurnished	2	Bachelors	Sale
+432	Mizoram Properties (Mizoram.txt)	5 BHK Apartment	Lunglei Residential Area	Lunglei / Mizoram	Apartment / 5 BHK	2348	₹20,100/month	Fully-Furnished	5	Family	Rent
+433	Mizoram Properties (Mizoram.txt)	4 BHK Apartment	Aizawl West	Aizawl / Mizoram	Apartment / 4 BHK	2033	₹18,200/month	Unfurnished	5	Family	Rent
+434	Mizoram Properties (Mizoram.txt)	3 BHK Apartment	Lunglei East	Lunglei / Mizoram	Apartment / 3 BHK	1273	₹11,600/month	Semi-Furnished	3	Family	Rent
+435	Mizoram Properties (Mizoram.txt)	3 BHK Apartment	Aizawl Heights	Aizawl / Mizoram	Apartment / 3 BHK	1805	₹56.55 L	Fully-Furnished	4	Family	Sale
+436	Mizoram Properties (Mizoram.txt)	3 BHK Apartment	Lunglei Sector 2	Lunglei / Mizoram	Apartment / 3 BHK	1168	₹55.78 L	Fully-Furnished	3	Family	Sale
+437	Mizoram Properties (Mizoram.txt)	2 BHK Apartment	Lunglei Heights	Lunglei / Mizoram	Apartment / 2 BHK	711	₹33.51 L	Semi-Furnished	2	Bachelors	Sale
+438	Mizoram Properties (Mizoram.txt)	2 BHK Builder Floor	Lunglei East	Lunglei / Mizoram	Builder Floor / 2 BHK	811	₹41.95 L	Semi-Furnished	2	Bachelors	Sale
+439	Mizoram Properties (Mizoram.txt)	2 BHK Apartment	Lunglei Main Road	Lunglei / Mizoram	Apartment / 2 BHK	931	₹42.38 L	Unfurnished	3	Family	Sale
+440	Mizoram Properties (Mizoram.txt)	2 BHK Builder Floor	Lunglei North	Lunglei / Mizoram	Builder Floor / 2 BHK	844	₹33.78 L	Fully-Furnished	3	Bachelors	Sale
+441	Mizoram Properties (Mizoram.txt)	3 BHK Builder Floor	Lunglei East	Lunglei / Mizoram	Builder Floor / 3 BHK	1368	₹46.01 L	Semi-Furnished	4	Bachelors	Sale
+442	Mizoram Properties (Mizoram.txt)	1 BHK Builder Floor	Champhai Extension	Champhai / Mizoram	Builder Floor / 1 BHK	554	₹24.66 L	Unfurnished	1	Family	Sale
+443	Mizoram Properties (Mizoram.txt)	5 BHK Apartment	Lunglei Town Centre	Lunglei / Mizoram	Apartment / 5 BHK	2158	₹20,200/month	Fully-Furnished	6	Family	Rent
+444	Mizoram Properties (Mizoram.txt)	2 BHK Apartment	Champhai Sector 1	Champhai / Mizoram	Apartment / 2 BHK	1024	₹11,800/month	Unfurnished	3	Bachelors	Rent
+445	Mizoram Properties (Mizoram.txt)	2 BHK Villa	Aizawl Central	Aizawl / Mizoram	Villa / 2 BHK	1336	₹44.01 L	Semi-Furnished	3	Family	Sale
+446	Mizoram Properties (Mizoram.txt)	2 BHK Builder Floor	Lunglei Nagar	Lunglei / Mizoram	Builder Floor / 2 BHK	735	₹11,600/month	Unfurnished	1	Any	Rent
+447	Mizoram Properties (Mizoram.txt)	3 BHK Builder Floor	Lunglei South	Lunglei / Mizoram	Builder Floor / 3 BHK	1298	₹48.18 L	Unfurnished	3	Any	Sale
+448	Mizoram Properties (Mizoram.txt)	3 BHK Apartment	Lunglei Nagar	Lunglei / Mizoram	Apartment / 3 BHK	1432	₹49.31 L	Fully-Furnished	2	Any	Sale
+449	Mizoram Properties (Mizoram.txt)	1 BHK Independent House	Lunglei Residential Area	Lunglei / Mizoram	Independent House / 1 BHK	574	₹6,100/month	Semi-Furnished	2	Family	Rent
+450	Mizoram Properties (Mizoram.txt)	1 BHK Apartment	Champhai West	Champhai / Mizoram	Apartment / 1 BHK	604	₹19.79 L	Semi-Furnished	2	Any	Sale
+451	Mizoram Properties (Mizoram.txt)	1 BHK Villa	Champhai North	Champhai / Mizoram	Villa / 1 BHK	655	₹7,100/month	Semi-Furnished	1	Family	Rent
+452	Mizoram Properties (Mizoram.txt)	3 BHK Builder Floor	Aizawl North	Aizawl / Mizoram	Builder Floor / 3 BHK	1142	₹48.30 L	Fully-Furnished	3	Any	Sale
+453	Mizoram Properties (Mizoram.txt)	1 BHK Studio	Lunglei West	Lunglei / Mizoram	Studio / 1 BHK	412	₹24.80 L	Fully-Furnished	1	Family	Sale
+454	Mizoram Properties (Mizoram.txt)	4 BHK Apartment	Lunglei Sector 2	Lunglei / Mizoram	Apartment / 4 BHK	1876	₹57.46 L	Fully-Furnished	3	Any	Sale
+455	Mizoram Properties (Mizoram.txt)	2 BHK Builder Floor	Lunglei North	Lunglei / Mizoram	Builder Floor / 2 BHK	1000	₹34.53 L	Semi-Furnished	2	Any	Sale
+456	Mizoram Properties (Mizoram.txt)	3 BHK Apartment	Aizawl Colony	Aizawl / Mizoram	Apartment / 3 BHK	1225	₹50.11 L	Semi-Furnished	3	Bachelors	Sale
+457	Mizoram Properties (Mizoram.txt)	3 BHK Apartment	Champhai Extension	Champhai / Mizoram	Apartment / 3 BHK	1036	₹55.47 L	Semi-Furnished	4	Bachelors	Sale
+458	Mizoram Properties (Mizoram.txt)	2 BHK Villa	Aizawl West	Aizawl / Mizoram	Villa / 2 BHK	1224	₹40.74 L	Semi-Furnished	2	Family	Sale
+459	Mizoram Properties (Mizoram.txt)	2 BHK Apartment	Champhai Town Centre	Champhai / Mizoram	Apartment / 2 BHK	842	₹11,400/month	Semi-Furnished	3	Family	Rent
+460	Mizoram Properties (Mizoram.txt)	4 BHK Independent House	Aizawl Extension	Aizawl / Mizoram	Independent House / 4 BHK	1720	₹53.85 L	Semi-Furnished	4	Any	Sale
+461	Mizoram Properties (Mizoram.txt)	2 BHK Builder Floor	Aizawl South	Aizawl / Mizoram	Builder Floor / 2 BHK	1153	₹38.37 L	Fully-Furnished	3	Family	Sale
+462	Mizoram Properties (Mizoram.txt)	1 BHK Independent House	Aizawl Colony	Aizawl / Mizoram	Independent House / 1 BHK	483	₹19.13 L	Unfurnished	2	Any	Sale
+463	Mizoram Properties (Mizoram.txt)	3 BHK Apartment	Aizawl North	Aizawl / Mizoram	Apartment / 3 BHK	946	₹13,800/month	Unfurnished	3	Family	Rent
+464	Mizoram Properties (Mizoram.txt)	2 BHK Apartment	Lunglei East	Lunglei / Mizoram	Apartment / 2 BHK	800	₹40.05 L	Fully-Furnished	2	Bachelors	Sale
+465	Mizoram Properties (Mizoram.txt)	2 BHK Independent House	Champhai Sector 3	Champhai / Mizoram	Independent House / 2 BHK	1053	₹11,800/month	Fully-Furnished	1	Family	Rent
+466	Mizoram Properties (Mizoram.txt)	2 BHK Independent House	Aizawl Nagar	Aizawl / Mizoram	Independent House / 2 BHK	1074	₹46.88 L	Fully-Furnished	2	Family	Sale
+467	Mizoram Properties (Mizoram.txt)	2 BHK Apartment	Lunglei Extension	Lunglei / Mizoram	Apartment / 2 BHK	992	₹33.84 L	Semi-Furnished	1	Bachelors	Sale
+468	Mizoram Properties (Mizoram.txt)	2 BHK Independent House	Aizawl Sector 1	Aizawl / Mizoram	Independent House / 2 BHK	1162	₹44.07 L	Unfurnished	2	Any	Sale
+469	Mizoram Properties (Mizoram.txt)	4 BHK Apartment	Champhai Heights	Champhai / Mizoram	Apartment / 4 BHK	1577	₹75.93 L	Semi-Furnished	4	Any	Sale
+470	Mizoram Properties (Mizoram.txt)	2 BHK Apartment	Champhai Main Road	Champhai / Mizoram	Apartment / 2 BHK	674	₹40.23 L	Semi-Furnished	2	Bachelors	Sale
+471	Mizoram Properties (Mizoram.txt)	2 BHK Builder Floor	Aizawl East	Aizawl / Mizoram	Builder Floor / 2 BHK	1056	₹9,200/month	Unfurnished	2	Any	Rent
+472	Mizoram Properties (Mizoram.txt)	3 BHK Apartment	Lunglei Central	Lunglei / Mizoram	Apartment / 3 BHK	1322	₹15,200/month	Fully-Furnished	4	Bachelors	Rent
+473	Mizoram Properties (Mizoram.txt)	4 BHK Apartment	Lunglei Extension	Lunglei / Mizoram	Apartment / 4 BHK	1409	₹17,900/month	Unfurnished	4	Family	Rent
+474	Mizoram Properties (Mizoram.txt)	2 BHK Independent House	Aizawl Heights	Aizawl / Mizoram	Independent House / 2 BHK	750	₹39.48 L	Semi-Furnished	2	Family	Sale
+475	Mizoram Properties (Mizoram.txt)	4 BHK Independent House	Champhai Sector 2	Champhai / Mizoram	Independent House / 4 BHK	2024	₹21,800/month	Semi-Furnished	3	Family	Rent
+476	Mizoram Properties (Mizoram.txt)	1 BHK Apartment	Aizawl West	Aizawl / Mizoram	Apartment / 1 BHK	715	₹8,100/month	Unfurnished	1	Any	Rent
+477	Mizoram Properties (Mizoram.txt)	3 BHK Apartment	Lunglei Nagar	Lunglei / Mizoram	Apartment / 3 BHK	1375	₹12,500/month	Unfurnished	3	Family	Rent
+478	Mizoram Properties (Mizoram.txt)	1 BHK Independent House	Lunglei Extension	Lunglei / Mizoram	Independent House / 1 BHK	628	₹22.24 L	Semi-Furnished	1	Any	Sale
+479	Mizoram Properties (Mizoram.txt)	2 BHK Apartment	Lunglei Nagar	Lunglei / Mizoram	Apartment / 2 BHK	876	₹31.28 L	Unfurnished	2	Bachelors	Sale
+480	Mizoram Properties (Mizoram.txt)	5 BHK Villa	Champhai East	Champhai / Mizoram	Villa / 5 BHK	2899	₹86.65 L	Fully-Furnished	5	Any	Sale
+481	Mizoram Properties (Mizoram.txt)	3 BHK Apartment	Champhai Colony	Champhai / Mizoram	Apartment / 3 BHK	1401	₹12,600/month	Semi-Furnished	2	Any	Rent
+482	Mizoram Properties (Mizoram.txt)	1 BHK Apartment	Aizawl Sector 2	Aizawl / Mizoram	Apartment / 1 BHK	615	₹27.77 L	Fully-Furnished	1	Bachelors	Sale
+483	Mizoram Properties (Mizoram.txt)	3 BHK Independent House	Aizawl Colony	Aizawl / Mizoram	Independent House / 3 BHK	1591	₹15,000/month	Semi-Furnished	3	Family	Rent
+484	Mizoram Properties (Mizoram.txt)	2 BHK Independent House	Aizawl Central	Aizawl / Mizoram	Independent House / 2 BHK	1103	₹10,700/month	Fully-Furnished	2	Any	Rent
+485	Mizoram Properties (Mizoram.txt)	3 BHK Apartment	Aizawl South	Aizawl / Mizoram	Apartment / 3 BHK	977	₹46.96 L	Unfurnished	2	Any	Sale
+486	Mizoram Properties (Mizoram.txt)	2 BHK Apartment	Lunglei Sector 1	Lunglei / Mizoram	Apartment / 2 BHK	1071	₹39.90 L	Unfurnished	1	Family	Sale
+487	Mizoram Properties (Mizoram.txt)	3 BHK Villa	Aizawl South	Aizawl / Mizoram	Villa / 3 BHK	1544	₹43.96 L	Semi-Furnished	3	Family	Sale
+488	Mizoram Properties (Mizoram.txt)	3 BHK Apartment	Aizawl Extension	Aizawl / Mizoram	Apartment / 3 BHK	1369	₹46.64 L	Fully-Furnished	3	Bachelors	Sale
+489	Mizoram Properties (Mizoram.txt)	3 BHK Villa	Aizawl Central	Aizawl / Mizoram	Villa / 3 BHK	1654	₹53.60 L	Semi-Furnished	3	Bachelors	Sale
+490	Mizoram Properties (Mizoram.txt)	5 BHK Apartment	Champhai South	Champhai / Mizoram	Apartment / 5 BHK	2458	₹72.96 L	Unfurnished	5	Any	Sale
+491	Mizoram Properties (Mizoram.txt)	2 BHK Apartment	Lunglei Nagar	Lunglei / Mizoram	Apartment / 2 BHK	1017	₹42.91 L	Unfurnished	2	Family	Sale
+492	Mizoram Properties (Mizoram.txt)	1 BHK Villa	Champhai Nagar	Champhai / Mizoram	Villa / 1 BHK	755	₹27.82 L	Semi-Furnished	2	Any	Sale
+493	Mizoram Properties (Mizoram.txt)	4 BHK Apartment	Champhai Heights	Champhai / Mizoram	Apartment / 4 BHK	1580	₹14,900/month	Semi-Furnished	4	Family	Rent
+494	Mizoram Properties (Mizoram.txt)	2 BHK Builder Floor	Champhai Nagar	Champhai / Mizoram	Builder Floor / 2 BHK	827	₹37.35 L	Fully-Furnished	2	Any	Sale
+495	Mizoram Properties (Mizoram.txt)	3 BHK Builder Floor	Aizawl Main Road	Aizawl / Mizoram	Builder Floor / 3 BHK	1298	₹15,400/month	Semi-Furnished	2	Family	Rent
+496	Mizoram Properties (Mizoram.txt)	1 BHK Studio	Lunglei Sector 3	Lunglei / Mizoram	Studio / 1 BHK	319	₹6,400/month	Fully-Furnished	1	Bachelors	Rent
+497	Mizoram Properties (Mizoram.txt)	3 BHK Apartment	Champhai Sector 3	Champhai / Mizoram	Apartment / 3 BHK	1057	₹44.19 L	Fully-Furnished	3	Any	Sale
+498	Mizoram Properties (Mizoram.txt)	4 BHK Apartment	Lunglei Colony	Lunglei / Mizoram	Apartment / 4 BHK	1177	₹15,800/month	Fully-Furnished	5	Any	Rent
+499	Mizoram Properties (Mizoram.txt)	3 BHK Apartment	Champhai West	Champhai / Mizoram	Apartment / 3 BHK	1389	₹58.12 L	Semi-Furnished	3	Family	Sale
+500	Mizoram Properties (Mizoram.txt)	2 BHK Apartment	Lunglei Nagar	Lunglei / Mizoram	Apartment / 2 BHK	782	₹34.85 L	Unfurnished	2	Family	Sale
+501	Mizoram Properties (Mizoram.txt)	2 BHK Apartment	Champhai Town Centre	Champhai / Mizoram	Apartment / 2 BHK	999	₹33.69 L	Unfurnished	2	Bachelors	Sale
+502	Mizoram Properties (Mizoram.txt)	3 BHK Apartment	Champhai South	Champhai / Mizoram	Apartment / 3 BHK	1302	₹51.96 L	Unfurnished	3	Bachelors	Sale
+503	Mizoram Properties (Mizoram.txt)	4 BHK Villa	Champhai Main Road	Champhai / Mizoram	Villa / 4 BHK	2670	₹79.12 L	Semi-Furnished	4	Bachelors	Sale
+504	Mizoram Properties (Mizoram.txt)	2 BHK Apartment	Aizawl Nagar	Aizawl / Mizoram	Apartment / 2 BHK	805	₹35.76 L	Semi-Furnished	2	Bachelors	Sale
+505	Mizoram Properties (Mizoram.txt)	3 BHK Villa	Lunglei Sector 1	Lunglei / Mizoram	Villa / 3 BHK	1488	₹46.89 L	Unfurnished	2	Family	Sale
+506	Mizoram Properties (Mizoram.txt)	1 BHK Apartment	Aizawl Main Road	Aizawl / Mizoram	Apartment / 1 BHK	430	₹6,700/month	Fully-Furnished	1	Bachelors	Rent
+507	Mizoram Properties (Mizoram.txt)	1 BHK Apartment	Aizawl East	Aizawl / Mizoram	Apartment / 1 BHK	539	₹7,600/month	Semi-Furnished	1	Any	Rent
+508	Mizoram Properties (Mizoram.txt)	1 BHK Villa	Aizawl Colony	Aizawl / Mizoram	Villa / 1 BHK	705	₹24.78 L	Semi-Furnished	1	Bachelors	Sale
+509	Mizoram Properties (Mizoram.txt)	3 BHK Builder Floor	Aizawl Sector 3	Aizawl / Mizoram	Builder Floor / 3 BHK	1323	₹42.86 L	Unfurnished	2	Family	Sale
+510	Mizoram Properties (Mizoram.txt)	3 BHK Apartment	Aizawl Town Centre	Aizawl / Mizoram	Apartment / 3 BHK	1516	₹62.55 L	Semi-Furnished	4	Family	Sale
+511	Mizoram Properties (Mizoram.txt)	1 BHK Independent House	Lunglei Nagar	Lunglei / Mizoram	Independent House / 1 BHK	666	₹20.25 L	Unfurnished	2	Any	Sale
+512	Mizoram Properties (Mizoram.txt)	2 BHK Apartment	Lunglei Residential Area	Lunglei / Mizoram	Apartment / 2 BHK	779	₹35.97 L	Semi-Furnished	2	Bachelors	Sale
+513	Mizoram Properties (Mizoram.txt)	2 BHK Apartment	Lunglei Main Road	Lunglei / Mizoram	Apartment / 2 BHK	877	₹36.98 L	Fully-Furnished	1	Bachelors	Sale
+514	Mizoram Properties (Mizoram.txt)	3 BHK Builder Floor	Aizawl Sector 3	Aizawl / Mizoram	Builder Floor / 3 BHK	1032	₹39.54 L	Unfurnished	4	Any	Sale
+515	Mizoram Properties (Mizoram.txt)	1 BHK Apartment	Champhai Sector 2	Champhai / Mizoram	Apartment / 1 BHK	534	₹21.40 L	Fully-Furnished	1	Family	Sale
+516	Mizoram Properties (Mizoram.txt)	2 BHK Builder Floor	Aizawl Extension	Aizawl / Mizoram	Builder Floor / 2 BHK	753	₹8,400/month	Unfurnished	2	Family	Rent
+517	Mizoram Properties (Mizoram.txt)	2 BHK Apartment	Aizawl Sector 3	Aizawl / Mizoram	Apartment / 2 BHK	618	₹32.49 L	Semi-Furnished	1	Bachelors	Sale
+518	Mizoram Properties (Mizoram.txt)	3 BHK Apartment	Lunglei Residential Area	Lunglei / Mizoram	Apartment / 3 BHK	1511	₹12,600/month	Semi-Furnished	3	Bachelors	Rent
+519	Mizoram Properties (Mizoram.txt)	2 BHK Independent House	Aizawl Main Road	Aizawl / Mizoram	Independent House / 2 BHK	935	₹44.67 L	Semi-Furnished	3	Family	Sale
+520	Mizoram Properties (Mizoram.txt)	3 BHK Apartment	Aizawl Colony	Aizawl / Mizoram	Apartment / 3 BHK	1349	₹57.15 L	Semi-Furnished	2	Family	Sale
+521	Mizoram Properties (Mizoram.txt)	3 BHK Apartment	Aizawl South	Aizawl / Mizoram	Apartment / 3 BHK	1264	₹55.94 L	Semi-Furnished	2	Bachelors	Sale
+522	Mizoram Properties (Mizoram.txt)	4 BHK Builder Floor	Aizawl North	Aizawl / Mizoram	Builder Floor / 4 BHK	1516	₹19,500/month	Unfurnished	4	Family	Rent
+523	Mizoram Properties (Mizoram.txt)	2 BHK Apartment	Lunglei Colony	Lunglei / Mizoram	Apartment / 2 BHK	813	₹36.96 L	Semi-Furnished	2	Family	Sale
+524	Mizoram Properties (Mizoram.txt)	2 BHK Apartment	Aizawl North	Aizawl / Mizoram	Apartment / 2 BHK	1027	₹12,500/month	Unfurnished	2	Bachelors	Rent
+525	Mizoram Properties (Mizoram.txt)	3 BHK Villa	Lunglei Sector 3	Lunglei / Mizoram	Villa / 3 BHK	1660	₹58.39 L	Semi-Furnished	2	Bachelors	Sale
+526	Mizoram Properties (Mizoram.txt)	3 BHK Independent House	Lunglei Town Centre	Lunglei / Mizoram	Independent House / 3 BHK	1385	₹47.83 L	Semi-Furnished	3	Any	Sale
+527	Mizoram Properties (Mizoram.txt)	2 BHK Apartment	Champhai Colony	Champhai / Mizoram	Apartment / 2 BHK	694	₹34.07 L	Fully-Furnished	1	Family	Sale
+528	Mizoram Properties (Mizoram.txt)	2 BHK Apartment	Lunglei South	Lunglei / Mizoram	Apartment / 2 BHK	910	₹40.98 L	Fully-Furnished	3	Family	Sale
+529	Mizoram Properties (Mizoram.txt)	3 BHK Apartment	Aizawl Colony	Aizawl / Mizoram	Apartment / 3 BHK	1137	₹58.75 L	Unfurnished	3	Family	Sale
+530	Mizoram Properties (Mizoram.txt)	1 BHK Independent House	Aizawl Colony	Aizawl / Mizoram	Independent House / 1 BHK	613	₹23.29 L	Unfurnished	1	Bachelors	Sale
+531	Mizoram Properties (Mizoram.txt)	1 BHK Apartment	Aizawl Nagar	Aizawl / Mizoram	Apartment / 1 BHK	523	₹27.65 L	Semi-Furnished	1	Bachelors	Sale
+532	Mizoram Properties (Mizoram.txt)	4 BHK Apartment	Lunglei West	Lunglei / Mizoram	Apartment / 4 BHK	1657	₹68.63 L	Semi-Furnished	3	Any	Sale
+533	Mizoram Properties (Mizoram.txt)	1 BHK Apartment	Champhai East	Champhai / Mizoram	Apartment / 1 BHK	571	₹21.55 L	Unfurnished	1	Bachelors	Sale
+534	Mizoram Properties (Mizoram.txt)	1 BHK Studio	Aizawl Central	Aizawl / Mizoram	Studio / 1 BHK	364	₹7,000/month	Semi-Furnished	1	Any	Rent
+535	Mizoram Properties (Mizoram.txt)	1 BHK Apartment	Aizawl Colony	Aizawl / Mizoram	Apartment / 1 BHK	557	₹24.86 L	Unfurnished	2	Bachelors	Sale
+536	Mizoram Properties (Mizoram.txt)	3 BHK Apartment	Aizawl Town Centre	Aizawl / Mizoram	Apartment / 3 BHK	1366	₹13,800/month	Fully-Furnished	2	Any	Rent
+537	Mizoram Properties (Mizoram.txt)	2 BHK Apartment	Lunglei Main Road	Lunglei / Mizoram	Apartment / 2 BHK	935	₹32.01 L	Semi-Furnished	2	Any	Sale
+538	Mizoram Properties (Mizoram.txt)	2 BHK Apartment	Champhai Sector 1	Champhai / Mizoram	Apartment / 2 BHK	1125	₹39.15 L	Fully-Furnished	2	Family	Sale
+539	Mizoram Properties (Mizoram.txt)	3 BHK Apartment	Aizawl Main Road	Aizawl / Mizoram	Apartment / 3 BHK	1431	₹51.96 L	Unfurnished	3	Any	Sale
+540	Mizoram Properties (Mizoram.txt)	2 BHK Independent House	Champhai Sector 1	Champhai / Mizoram	Independent House / 2 BHK	1111	₹12,700/month	Unfurnished	3	Any	Rent
+541	Mizoram Properties (Mizoram.txt)	3 BHK Apartment	Champhai Central	Champhai / Mizoram	Apartment / 3 BHK	1395	₹42.68 L	Unfurnished	4	Any	Sale
+542	Mizoram Properties (Mizoram.txt)	1 BHK Independent House	Aizawl Sector 2	Aizawl / Mizoram	Independent House / 1 BHK	683	₹22.49 L	Unfurnished	1	Any	Sale
+543	Mizoram Properties (Mizoram.txt)	2 BHK Builder Floor	Lunglei Sector 3	Lunglei / Mizoram	Builder Floor / 2 BHK	926	₹8,700/month	Unfurnished	2	Family	Rent
+544	Mizoram Properties (Mizoram.txt)	4 BHK Villa	Aizawl Extension	Aizawl / Mizoram	Villa / 4 BHK	2265	₹78.89 L	Fully-Furnished	4	Family	Sale
+545	Mizoram Properties (Mizoram.txt)	1 BHK Apartment	Lunglei Sector 2	Lunglei / Mizoram	Apartment / 1 BHK	481	₹5,900/month	Semi-Furnished	2	Family	Rent
+546	Mizoram Properties (Mizoram.txt)	2 BHK Apartment	Lunglei Central	Lunglei / Mizoram	Apartment / 2 BHK	728	₹33.08 L	Fully-Furnished	1	Any	Sale
+547	Mizoram Properties (Mizoram.txt)	3 BHK Apartment	Lunglei Residential Area	Lunglei / Mizoram	Apartment / 3 BHK	1201	₹57.75 L	Semi-Furnished	3	Family	Sale
+548	Mizoram Properties (Mizoram.txt)	1 BHK Apartment	Lunglei North	Lunglei / Mizoram	Apartment / 1 BHK	499	₹7,900/month	Unfurnished	1	Family	Rent
+549	Mizoram Properties (Mizoram.txt)	3 BHK Apartment	Lunglei Extension	Lunglei / Mizoram	Apartment / 3 BHK	1277	₹46.71 L	Semi-Furnished	3	Bachelors	Sale
+550	Mizoram Properties (Mizoram.txt)	1 BHK Builder Floor	Aizawl Nagar	Aizawl / Mizoram	Builder Floor / 1 BHK	550	₹6,300/month	Fully-Furnished	1	Any	Rent
+551	Mizoram Properties (Mizoram.txt)	4 BHK Apartment	Lunglei Sector 1	Lunglei / Mizoram	Apartment / 4 BHK	1831	₹64.32 L	Unfurnished	4	Bachelors	Sale
+552	Mizoram Properties (Mizoram.txt)	5 BHK Apartment	Champhai Heights	Champhai / Mizoram	Apartment / 5 BHK	2325	₹93.12 L	Fully-Furnished	5	Any	Sale
+553	Mizoram Properties (Mizoram.txt)	2 BHK Apartment	Aizawl Residential Area	Aizawl / Mizoram	Apartment / 2 BHK	927	₹44.59 L	Semi-Furnished	2	Any	Sale
+554	Mizoram Properties (Mizoram.txt)	2 BHK Apartment	Aizawl Residential Area	Aizawl / Mizoram	Apartment / 2 BHK	854	₹9,400/month	Fully-Furnished	2	Bachelors	Rent
+555	Mizoram Properties (Mizoram.txt)	3 BHK Apartment	Aizawl Town Centre	Aizawl / Mizoram	Apartment / 3 BHK	1192	₹51.16 L	Unfurnished	2	Any	Sale
+556	Mizoram Properties (Mizoram.txt)	1 BHK Studio	Champhai Sector 3	Champhai / Mizoram	Studio / 1 BHK	360	₹24.30 L	Unfurnished	1	Bachelors	Sale
+557	Mizoram Properties (Mizoram.txt)	3 BHK Apartment	Champhai Sector 1	Champhai / Mizoram	Apartment / 3 BHK	1145	₹55.76 L	Unfurnished	4	Bachelors	Sale
+558	Mizoram Properties (Mizoram.txt)	1 BHK Apartment	Lunglei Colony	Lunglei / Mizoram	Apartment / 1 BHK	476	₹7,300/month	Unfurnished	1	Any	Rent
+559	Mizoram Properties (Mizoram.txt)	2 BHK Apartment	Champhai North	Champhai / Mizoram	Apartment / 2 BHK	988	₹45.66 L	Fully-Furnished	2	Bachelors	Sale
+560	Mizoram Properties (Mizoram.txt)	1 BHK Studio	Aizawl Sector 3	Aizawl / Mizoram	Studio / 1 BHK	380	₹20.34 L	Fully-Furnished	1	Family	Sale
+561	Mizoram Properties (Mizoram.txt)	2 BHK Apartment	Aizawl Sector 1	Aizawl / Mizoram	Apartment / 2 BHK	893	₹33.69 L	Unfurnished	1	Bachelors	Sale
+562	Mizoram Properties (Mizoram.txt)	2 BHK Apartment	Aizawl East	Aizawl / Mizoram	Apartment / 2 BHK	941	₹12,300/month	Semi-Furnished	2	Any	Rent
+563	Mizoram Properties (Mizoram.txt)	3 BHK Apartment	Lunglei North	Lunglei / Mizoram	Apartment / 3 BHK	1020	₹12,100/month	Unfurnished	3	Any	Rent
+564	Mizoram Properties (Mizoram.txt)	2 BHK Apartment	Champhai Central	Champhai / Mizoram	Apartment / 2 BHK	1010	₹42.60 L	Unfurnished	1	Any	Sale
+565	Mizoram Properties (Mizoram.txt)	5 BHK Villa	Aizawl Nagar	Aizawl / Mizoram	Villa / 5 BHK	3249	₹92.02 L	Fully-Furnished	4	Family	Sale
+566	Mizoram Properties (Mizoram.txt)	2 BHK Apartment	Aizawl East	Aizawl / Mizoram	Apartment / 2 BHK	734	₹37.24 L	Unfurnished	3	Family	Sale
+567	Mizoram Properties (Mizoram.txt)	3 BHK Independent House	Aizawl Town Centre	Aizawl / Mizoram	Independent House / 3 BHK	1430	₹13,200/month	Semi-Furnished	4	Any	Rent
+568	Mizoram Properties (Mizoram.txt)	2 BHK Apartment	Aizawl West	Aizawl / Mizoram	Apartment / 2 BHK	852	₹11,800/month	Fully-Furnished	2	Any	Rent
+569	Mizoram Properties (Mizoram.txt)	3 BHK Apartment	Aizawl Sector 2	Aizawl / Mizoram	Apartment / 3 BHK	995	₹15,300/month	Semi-Furnished	3	Family	Rent
+570	Mizoram Properties (Mizoram.txt)	1 BHK Villa	Lunglei North	Lunglei / Mizoram	Villa / 1 BHK	633	₹22.93 L	Semi-Furnished	1	Any	Sale
+571	Mizoram Properties (Mizoram.txt)	3 BHK Apartment	Aizawl Nagar	Aizawl / Mizoram	Apartment / 3 BHK	1552	₹55.84 L	Semi-Furnished	4	Bachelors	Sale
+572	Mizoram Properties (Mizoram.txt)	2 BHK Villa	Lunglei South	Lunglei / Mizoram	Villa / 2 BHK	1117	₹35.74 L	Fully-Furnished	2	Family	Sale
+573	Mizoram Properties (Mizoram.txt)	2 BHK Apartment	Aizawl Central	Aizawl / Mizoram	Apartment / 2 BHK	676	₹10,300/month	Unfurnished	1	Any	Rent
+574	Mizoram Properties (Mizoram.txt)	3 BHK Apartment	Lunglei Sector 1	Lunglei / Mizoram	Apartment / 3 BHK	1686	₹12,200/month	Semi-Furnished	2	Any	Rent
+575	Mizoram Properties (Mizoram.txt)	3 BHK Villa	Aizawl South	Aizawl / Mizoram	Villa / 3 BHK	1861	₹50.32 L	Semi-Furnished	3	Family	Sale
+576	Mizoram Properties (Mizoram.txt)	3 BHK Independent House	Lunglei South	Lunglei / Mizoram	Independent House / 3 BHK	1567	₹48.37 L	Semi-Furnished	4	Family	Sale
+577	Mizoram Properties (Mizoram.txt)	3 BHK Apartment	Lunglei Central	Lunglei / Mizoram	Apartment / 3 BHK	1321	₹52.81 L	Fully-Furnished	4	Bachelors	Sale
+578	Mizoram Properties (Mizoram.txt)	3 BHK Builder Floor	Lunglei Colony	Lunglei / Mizoram	Builder Floor / 3 BHK	1175	₹49.31 L	Semi-Furnished	3	Any	Sale
+579	Mizoram Properties (Mizoram.txt)	2 BHK Independent House	Aizawl Main Road	Aizawl / Mizoram	Independent House / 2 BHK	849	₹35.02 L	Unfurnished	2	Family	Sale
+580	Mizoram Properties (Mizoram.txt)	4 BHK Independent House	Champhai East	Champhai / Mizoram	Independent House / 4 BHK	2320	₹67.70 L	Semi-Furnished	3	Bachelors	Sale
+581	Mizoram Properties (Mizoram.txt)	3 BHK Independent House	Aizawl Central	Aizawl / Mizoram	Independent House / 3 BHK	1458	₹46.01 L	Fully-Furnished	3	Family	Sale
+582	Mizoram Properties (Mizoram.txt)	3 BHK Independent House	Aizawl West	Aizawl / Mizoram	Independent House / 3 BHK	1299	₹58.06 L	Unfurnished	2	Family	Sale
+583	Mizoram Properties (Mizoram.txt)	2 BHK Apartment	Lunglei Sector 1	Lunglei / Mizoram	Apartment / 2 BHK	809	₹32.34 L	Fully-Furnished	1	Family	Sale
+584	Mizoram Properties (Mizoram.txt)	3 BHK Independent House	Lunglei Central	Lunglei / Mizoram	Independent House / 3 BHK	1625	₹51.95 L	Fully-Furnished	3	Family	Sale
+585	Mizoram Properties (Mizoram.txt)	4 BHK Apartment	Aizawl Nagar	Aizawl / Mizoram	Apartment / 4 BHK	1775	₹16,300/month	Semi-Furnished	3	Bachelors	Rent
+586	Mizoram Properties (Mizoram.txt)	1 BHK Apartment	Aizawl Nagar	Aizawl / Mizoram	Apartment / 1 BHK	512	₹23.33 L	Semi-Furnished	1	Any	Sale
+587	Mizoram Properties (Mizoram.txt)	3 BHK Villa	Aizawl North	Aizawl / Mizoram	Villa / 3 BHK	1552	₹13,400/month	Semi-Furnished	3	Bachelors	Rent
+588	Mizoram Properties (Mizoram.txt)	3 BHK Builder Floor	Aizawl Sector 1	Aizawl / Mizoram	Builder Floor / 3 BHK	1575	₹57.83 L	Unfurnished	2	Family	Sale
+589	Mizoram Properties (Mizoram.txt)	2 BHK Apartment	Lunglei Nagar	Lunglei / Mizoram	Apartment / 2 BHK	812	₹29.78 L	Semi-Furnished	2	Any	Sale
+590	Mizoram Properties (Mizoram.txt)	2 BHK Villa	Champhai West	Champhai / Mizoram	Villa / 2 BHK	1266	₹42.39 L	Semi-Furnished	2	Bachelors	Sale
+591	Mizoram Properties (Mizoram.txt)	2 BHK Apartment	Aizawl West	Aizawl / Mizoram	Apartment / 2 BHK	774	₹29.78 L	Fully-Furnished	3	Any	Sale
+592	Mizoram Properties (Mizoram.txt)	4 BHK Builder Floor	Aizawl Sector 1	Aizawl / Mizoram	Builder Floor / 4 BHK	1492	₹66.41 L	Semi-Furnished	4	Family	Sale
+593	Mizoram Properties (Mizoram.txt)	4 BHK Apartment	Lunglei East	Lunglei / Mizoram	Apartment / 4 BHK	1793	₹14,700/month	Semi-Furnished	4	Family	Rent
+594	Mizoram Properties (Mizoram.txt)	2 BHK Villa	Champhai North	Champhai / Mizoram	Villa / 2 BHK	1286	₹42.18 L	Unfurnished	2	Family	Sale
+595	Mizoram Properties (Mizoram.txt)	2 BHK Apartment	Aizawl East	Aizawl / Mizoram	Apartment / 2 BHK	973	₹44.29 L	Semi-Furnished	3	Family	Sale
+596	Mizoram Properties (Mizoram.txt)	2 BHK Independent House	Champhai North	Champhai / Mizoram	Independent House / 2 BHK	761	₹10,900/month	Fully-Furnished	1	Family	Rent
+597	Mizoram Properties (Mizoram.txt)	2 BHK Villa	Champhai West	Champhai / Mizoram	Villa / 2 BHK	1136	₹46.17 L	Semi-Furnished	1	Any	Sale
+598	Mizoram Properties (Mizoram.txt)	3 BHK Apartment	Lunglei Sector 1	Lunglei / Mizoram	Apartment / 3 BHK	1509	₹16,100/month	Semi-Furnished	4	Bachelors	Rent
+599	Mizoram Properties (Mizoram.txt)	1 BHK Villa	Champhai Sector 3	Champhai / Mizoram	Villa / 1 BHK	735	₹21.12 L	Semi-Furnished	1	Family	Sale
+600	Mizoram Properties (Mizoram.txt)	1 BHK Builder Floor	Champhai Residential Area	Champhai / Mizoram	Builder Floor / 1 BHK	453	₹5,400/month	Fully-Furnished	1	Bachelors	Rent
+601	Mizoram Properties (Mizoram.txt)	3 BHK Apartment	Aizawl South	Aizawl / Mizoram	Apartment / 3 BHK	1177	₹60.14 L	Semi-Furnished	4	Bachelors	Sale
+602	Mizoram Properties (Mizoram.txt)	2 BHK Builder Floor	Champhai Extension	Champhai / Mizoram	Builder Floor / 2 BHK	679	₹38.62 L	Semi-Furnished	3	Any	Sale
+603	Mizoram Properties (Mizoram.txt)	3 BHK Builder Floor	Champhai Extension	Champhai / Mizoram	Builder Floor / 3 BHK	1395	₹59.29 L	Unfurnished	2	Family	Sale
+604	Mizoram Properties (Mizoram.txt)	2 BHK Independent House	Lunglei Nagar	Lunglei / Mizoram	Independent House / 2 BHK	1181	₹12,700/month	Fully-Furnished	3	Family	Rent
+605	Mizoram Properties (Mizoram.txt)	2 BHK Apartment	Champhai Heights	Champhai / Mizoram	Apartment / 2 BHK	666	₹40.03 L	Unfurnished	2	Family	Sale
+606	Mizoram Properties (Mizoram.txt)	2 BHK Builder Floor	Champhai Sector 2	Champhai / Mizoram	Builder Floor / 2 BHK	788	₹42.38 L	Unfurnished	2	Any	Sale
+607	Mizoram Properties (Mizoram.txt)	1 BHK Apartment	Champhai Sector 3	Champhai / Mizoram	Apartment / 1 BHK	475	₹6,400/month	Semi-Furnished	1	Family	Rent
+608	Mizoram Properties (Mizoram.txt)	1 BHK Builder Floor	Lunglei Residential Area	Lunglei / Mizoram	Builder Floor / 1 BHK	571	₹19.48 L	Semi-Furnished	1	Bachelors	Sale
+609	Mizoram Properties (Mizoram.txt)	3 BHK Apartment	Champhai Nagar	Champhai / Mizoram	Apartment / 3 BHK	1528	₹54.94 L	Unfurnished	3	Family	Sale
+610	Mizoram Properties (Mizoram.txt)	4 BHK Builder Floor	Champhai Sector 2	Champhai / Mizoram	Builder Floor / 4 BHK	1726	₹17,400/month	Unfurnished	4	Family	Rent
+611	Mizoram Properties (Mizoram.txt)	2 BHK Apartment	Champhai North	Champhai / Mizoram	Apartment / 2 BHK	785	₹43.03 L	Unfurnished	2	Family	Sale
+612	Mizoram Properties (Mizoram.txt)	4 BHK Independent House	Aizawl Nagar	Aizawl / Mizoram	Independent House / 4 BHK	1389	₹59.59 L	Semi-Furnished	4	Any	Sale
+613	Mizoram Properties (Mizoram.txt)	2 BHK Apartment	Champhai Sector 3	Champhai / Mizoram	Apartment / 2 BHK	1051	₹32.45 L	Fully-Furnished	1	Family	Sale
+614	Mizoram Properties (Mizoram.txt)	1 BHK Builder Floor	Lunglei Extension	Lunglei / Mizoram	Builder Floor / 1 BHK	616	₹23.52 L	Fully-Furnished	1	Family	Sale
+615	Mizoram Properties (Mizoram.txt)	2 BHK Apartment	Champhai West	Champhai / Mizoram	Apartment / 2 BHK	1063	₹34.63 L	Fully-Furnished	3	Family	Sale
+616	Mizoram Properties (Mizoram.txt)	2 BHK Apartment	Lunglei East	Lunglei / Mizoram	Apartment / 2 BHK	743	₹33.90 L	Semi-Furnished	3	Any	Sale
+617	Mizoram Properties (Mizoram.txt)	2 BHK Villa	Champhai Heights	Champhai / Mizoram	Villa / 2 BHK	1067	₹10,700/month	Fully-Furnished	2	Bachelors	Rent
+618	Mizoram Properties (Mizoram.txt)	2 BHK Villa	Lunglei North	Lunglei / Mizoram	Villa / 2 BHK	1119	₹11,600/month	Semi-Furnished	2	Any	Rent
+619	Mizoram Properties (Mizoram.txt)	3 BHK Apartment	Champhai Sector 2	Champhai / Mizoram	Apartment / 3 BHK	1358	₹51.28 L	Semi-Furnished	3	Bachelors	Sale
+620	Mizoram Properties (Mizoram.txt)	2 BHK Villa	Aizawl Central	Aizawl / Mizoram	Villa / 2 BHK	1290	₹36.97 L	Unfurnished	1	Bachelors	Sale
+621	Mizoram Properties (Mizoram.txt)	1 BHK Apartment	Lunglei Sector 1	Lunglei / Mizoram	Apartment / 1 BHK	533	₹7,600/month	Unfurnished	2	Bachelors	Rent
+622	Mizoram Properties (Mizoram.txt)	4 BHK Builder Floor	Champhai Heights	Champhai / Mizoram	Builder Floor / 4 BHK	2079	₹75.91 L	Unfurnished	4	Bachelors	Sale
+623	Mizoram Properties (Mizoram.txt)	4 BHK Apartment	Lunglei Sector 3	Lunglei / Mizoram	Apartment / 4 BHK	1669	₹65.15 L	Semi-Furnished	4	Family	Sale
+624	Mizoram Properties (Mizoram.txt)	2 BHK Apartment	Aizawl Main Road	Aizawl / Mizoram	Apartment / 2 BHK	944	₹36.47 L	Unfurnished	1	Bachelors	Sale
+625	Mizoram Properties (Mizoram.txt)	3 BHK Independent House	Champhai Sector 3	Champhai / Mizoram	Independent House / 3 BHK	1688	₹53.49 L	Semi-Furnished	3	Bachelors	Sale
+626	Mizoram Properties (Mizoram.txt)	1 BHK Studio	Aizawl Extension	Aizawl / Mizoram	Studio / 1 BHK	441	₹20.44 L	Semi-Furnished	1	Family	Sale
+627	Mizoram Properties (Mizoram.txt)	2 BHK Apartment	Lunglei Sector 2	Lunglei / Mizoram	Apartment / 2 BHK	679	₹9,600/month	Semi-Furnished	1	Family	Rent
+628	Mizoram Properties (Mizoram.txt)	2 BHK Independent House	Aizawl Heights	Aizawl / Mizoram	Independent House / 2 BHK	981	₹45.19 L	Unfurnished	2	Family	Sale
+629	Mizoram Properties (Mizoram.txt)	2 BHK Apartment	Champhai Nagar	Champhai / Mizoram	Apartment / 2 BHK	764	₹9,700/month	Semi-Furnished	2	Family	Rent
+630	Mizoram Properties (Mizoram.txt)	4 BHK Apartment	Lunglei Extension	Lunglei / Mizoram	Apartment / 4 BHK	1864	₹19,100/month	Fully-Furnished	4	Bachelors	Rent
+631	Mizoram Properties (Mizoram.txt)	3 BHK Builder Floor	Champhai Residential Area	Champhai / Mizoram	Builder Floor / 3 BHK	1234	₹53.47 L	Fully-Furnished	3	Family	Sale
+632	Mizoram Properties (Mizoram.txt)	5 BHK Independent House	Lunglei Sector 2	Lunglei / Mizoram	Independent House / 5 BHK	3189	₹20,300/month	Semi-Furnished	4	Family	Rent
+633	Mizoram Properties (Mizoram.txt)	1 BHK Independent House	Champhai Nagar	Champhai / Mizoram	Independent House / 1 BHK	415	₹19.77 L	Semi-Furnished	1	Family	Sale
+634	Mizoram Properties (Mizoram.txt)	1 BHK Apartment	Champhai Sector 1	Champhai / Mizoram	Apartment / 1 BHK	416	₹22.15 L	Semi-Furnished	1	Bachelors	Sale
+635	Mizoram Properties (Mizoram.txt)	5 BHK Builder Floor	Champhai Extension	Champhai / Mizoram	Builder Floor / 5 BHK	2508	₹86.52 L	Unfurnished	6	Bachelors	Sale
+636	Mizoram Properties (Mizoram.txt)	3 BHK Independent House	Aizawl Sector 1	Aizawl / Mizoram	Independent House / 3 BHK	1467	₹12,700/month	Fully-Furnished	2	Family	Rent
+637	Mizoram Properties (Mizoram.txt)	2 BHK Apartment	Aizawl Heights	Aizawl / Mizoram	Apartment / 2 BHK	956	₹35.03 L	Semi-Furnished	2	Family	Sale
+638	Mizoram Properties (Mizoram.txt)	2 BHK Apartment	Lunglei Extension	Lunglei / Mizoram	Apartment / 2 BHK	854	₹11,700/month	Unfurnished	2	Family	Rent
+639	Mizoram Properties (Mizoram.txt)	2 BHK Apartment	Champhai Heights	Champhai / Mizoram	Apartment / 2 BHK	786	₹33.07 L	Semi-Furnished	2	Family	Sale
+640	Mizoram Properties (Mizoram.txt)	2 BHK Apartment	Aizawl South	Aizawl / Mizoram	Apartment / 2 BHK	776	₹37.54 L	Unfurnished	3	Bachelors	Sale
+641	Mizoram Properties (Mizoram.txt)	5 BHK Builder Floor	Champhai Colony	Champhai / Mizoram	Builder Floor / 5 BHK	2209	₹70.74 L	Unfurnished	5	Bachelors	Sale
+642	Mizoram Properties (Mizoram.txt)	2 BHK Apartment	Aizawl Extension	Aizawl / Mizoram	Apartment / 2 BHK	960	₹34.39 L	Semi-Furnished	3	Family	Sale
+643	Mizoram Properties (Mizoram.txt)	2 BHK Independent House	Lunglei North	Lunglei / Mizoram	Independent House / 2 BHK	918	₹9,700/month	Fully-Furnished	2	Bachelors	Rent
+644	Mizoram Properties (Mizoram.txt)	4 BHK Apartment	Aizawl Extension	Aizawl / Mizoram	Apartment / 4 BHK	1881	₹78.58 L	Fully-Furnished	5	Bachelors	Sale
+645	Mizoram Properties (Mizoram.txt)	3 BHK Independent House	Aizawl Extension	Aizawl / Mizoram	Independent House / 3 BHK	1394	₹60.83 L	Semi-Furnished	3	Family	Sale
+646	Mizoram Properties (Mizoram.txt)	2 BHK Apartment	Lunglei Sector 1	Lunglei / Mizoram	Apartment / 2 BHK	944	₹40.60 L	Unfurnished	1	Any	Sale
+647	Mizoram Properties (Mizoram.txt)	3 BHK Apartment	Lunglei Heights	Lunglei / Mizoram	Apartment / 3 BHK	1150	₹15,400/month	Semi-Furnished	3	Any	Rent
+648	Mizoram Properties (Mizoram.txt)	2 BHK Independent House	Champhai East	Champhai / Mizoram	Independent House / 2 BHK	852	₹31.03 L	Semi-Furnished	2	Family	Sale
+649	Mizoram Properties (Mizoram.txt)	3 BHK Builder Floor	Lunglei Sector 2	Lunglei / Mizoram	Builder Floor / 3 BHK	1192	₹54.26 L	Unfurnished	4	Any	Sale
+650	Mizoram Properties (Mizoram.txt)	5 BHK Apartment	Lunglei Sector 1	Lunglei / Mizoram	Apartment / 5 BHK	2051	₹21,400/month	Semi-Furnished	6	Family	Rent
+651	Mizoram Properties (Mizoram.txt)	1 BHK Builder Floor	Aizawl Central	Aizawl / Mizoram	Builder Floor / 1 BHK	501	₹19.76 L	Semi-Furnished	1	Family	Sale
+652	Mizoram Properties (Mizoram.txt)	1 BHK Studio	Champhai Residential Area	Champhai / Mizoram	Studio / 1 BHK	463	₹23.62 L	Fully-Furnished	2	Any	Sale
+653	Mizoram Properties (Mizoram.txt)	2 BHK Apartment	Aizawl Colony	Aizawl / Mizoram	Apartment / 2 BHK	1009	₹9,000/month	Semi-Furnished	1	Family	Rent
+654	Mizoram Properties (Mizoram.txt)	1 BHK Studio	Aizawl Heights	Aizawl / Mizoram	Studio / 1 BHK	334	₹6,100/month	Unfurnished	1	Any	Rent
+655	Mizoram Properties (Mizoram.txt)	3 BHK Apartment	Lunglei Central	Lunglei / Mizoram	Apartment / 3 BHK	1369	₹42.65 L	Fully-Furnished	3	Any	Sale
+656	Mizoram Properties (Mizoram.txt)	1 BHK Studio	Lunglei Main Road	Lunglei / Mizoram	Studio / 1 BHK	386	₹5,700/month	Semi-Furnished	1	Bachelors	Rent
+657	Mizoram Properties (Mizoram.txt)	2 BHK Apartment	Aizawl Nagar	Aizawl / Mizoram	Apartment / 2 BHK	1060	₹10,400/month	Semi-Furnished	3	Family	Rent
+658	Mizoram Properties (Mizoram.txt)	3 BHK Apartment	Aizawl Central	Aizawl / Mizoram	Apartment / 3 BHK	1160	₹11,300/month	Fully-Furnished	3	Bachelors	Rent
+659	Mizoram Properties (Mizoram.txt)	5 BHK Apartment	Lunglei South	Lunglei / Mizoram	Apartment / 5 BHK	2423	₹88.14 L	Unfurnished	5	Bachelors	Sale
+660	Mizoram Properties (Mizoram.txt)	2 BHK Apartment	Champhai Extension	Champhai / Mizoram	Apartment / 2 BHK	833	₹8,800/month	Semi-Furnished	2	Bachelors	Rent
+661	Mizoram Properties (Mizoram.txt)	3 BHK Apartment	Champhai Residential Area	Champhai / Mizoram	Apartment / 3 BHK	1132	₹51.73 L	Semi-Furnished	3	Family	Sale
+662	Mizoram Properties (Mizoram.txt)	2 BHK Apartment	Aizawl North	Aizawl / Mizoram	Apartment / 2 BHK	874	₹30.60 L	Semi-Furnished	2	Bachelors	Sale
+663	Mizoram Properties (Mizoram.txt)	3 BHK Independent House	Aizawl South	Aizawl / Mizoram	Independent House / 3 BHK	1579	₹50.77 L	Semi-Furnished	3	Family	Sale
+664	Mizoram Properties (Mizoram.txt)	3 BHK Apartment	Aizawl Sector 3	Aizawl / Mizoram	Apartment / 3 BHK	1292	₹56.30 L	Semi-Furnished	4	Family	Sale
+665	Mizoram Properties (Mizoram.txt)	3 BHK Villa	Champhai Colony	Champhai / Mizoram	Villa / 3 BHK	1550	₹12,100/month	Semi-Furnished	2	Family	Rent
+666	Mizoram Properties (Mizoram.txt)	3 BHK Apartment	Aizawl Main Road	Aizawl / Mizoram	Apartment / 3 BHK	1109	₹58.80 L	Semi-Furnished	4	Bachelors	Sale
+667	Mizoram Properties (Mizoram.txt)	4 BHK Apartment	Aizawl Extension	Aizawl / Mizoram	Apartment / 4 BHK	1870	₹17,200/month	Fully-Furnished	3	Any	Rent
+668	Mizoram Properties (Mizoram.txt)	3 BHK Apartment	Aizawl Sector 3	Aizawl / Mizoram	Apartment / 3 BHK	1218	₹11,200/month	Fully-Furnished	3	Family	Rent
+669	Mizoram Properties (Mizoram.txt)	2 BHK Builder Floor	Aizawl Colony	Aizawl / Mizoram	Builder Floor / 2 BHK	703	₹31.98 L	Semi-Furnished	1	Any	Sale
+670	Mizoram Properties (Mizoram.txt)	1 BHK Independent House	Lunglei Main Road	Lunglei / Mizoram	Independent House / 1 BHK	707	₹7,400/month	Semi-Furnished	1	Bachelors	Rent
+671	Mizoram Properties (Mizoram.txt)	4 BHK Apartment	Aizawl South	Aizawl / Mizoram	Apartment / 4 BHK	1835	₹72.21 L	Unfurnished	4	Bachelors	Sale
+672	Mizoram Properties (Mizoram.txt)	1 BHK Studio	Lunglei Sector 3	Lunglei / Mizoram	Studio / 1 BHK	397	₹6,200/month	Semi-Furnished	1	Family	Rent
+673	Mizoram Properties (Mizoram.txt)	2 BHK Builder Floor	Aizawl Main Road	Aizawl / Mizoram	Builder Floor / 2 BHK	843	₹10,100/month	Fully-Furnished	2	Family	Rent
+674	Mizoram Properties (Mizoram.txt)	2 BHK Apartment	Aizawl Sector 2	Aizawl / Mizoram	Apartment / 2 BHK	752	₹34.41 L	Semi-Furnished	3	Bachelors	Sale
+675	Mizoram Properties (Mizoram.txt)	2 BHK Builder Floor	Lunglei North	Lunglei / Mizoram	Builder Floor / 2 BHK	910	₹9,000/month	Unfurnished	2	Family	Rent
+676	Mizoram Properties (Mizoram.txt)	3 BHK Villa	Lunglei Town Centre	Lunglei / Mizoram	Villa / 3 BHK	1648	₹54.54 L	Unfurnished	3	Family	Sale
+677	Mizoram Properties (Mizoram.txt)	1 BHK Builder Floor	Champhai Extension	Champhai / Mizoram	Builder Floor / 1 BHK	667	₹27.92 L	Fully-Furnished	1	Family	Sale
+678	Mizoram Properties (Mizoram.txt)	4 BHK Independent House	Lunglei Sector 3	Lunglei / Mizoram	Independent House / 4 BHK	1877	₹69.91 L	Semi-Furnished	4	Family	Sale
+679	Mizoram Properties (Mizoram.txt)	3 BHK Independent House	Aizawl Residential Area	Aizawl / Mizoram	Independent House / 3 BHK	1515	₹13,600/month	Fully-Furnished	2	Bachelors	Rent
+680	Mizoram Properties (Mizoram.txt)	2 BHK Builder Floor	Lunglei Heights	Lunglei / Mizoram	Builder Floor / 2 BHK	856	₹38.65 L	Unfurnished	2	Family	Sale
+681	Mizoram Properties (Mizoram.txt)	3 BHK Apartment	Champhai Heights	Champhai / Mizoram	Apartment / 3 BHK	1448	₹12,300/month	Semi-Furnished	4	Family	Rent
+682	Mizoram Properties (Mizoram.txt)	3 BHK Independent House	Aizawl Central	Aizawl / Mizoram	Independent House / 3 BHK	2076	₹15,500/month	Unfurnished	2	Family	Rent
+683	Mizoram Properties (Mizoram.txt)	2 BHK Apartment	Champhai North	Champhai / Mizoram	Apartment / 2 BHK	664	₹8,500/month	Semi-Furnished	2	Family	Rent
+684	Mizoram Properties (Mizoram.txt)	2 BHK Apartment	Aizawl Residential Area	Aizawl / Mizoram	Apartment / 2 BHK	1093	₹10,400/month	Unfurnished	2	Any	Rent
+685	Mizoram Properties (Mizoram.txt)	1 BHK Apartment	Champhai Sector 1	Champhai / Mizoram	Apartment / 1 BHK	637	₹25.47 L	Semi-Furnished	1	Any	Sale
+686	Mizoram Properties (Mizoram.txt)	4 BHK Builder Floor	Champhai Central	Champhai / Mizoram	Builder Floor / 4 BHK	2144	₹21,700/month	Unfurnished	5	Family	Rent
+687	Mizoram Properties (Mizoram.txt)	2 BHK Apartment	Champhai Heights	Champhai / Mizoram	Apartment / 2 BHK	756	₹8,700/month	Fully-Furnished	2	Family	Rent
+688	Mizoram Properties (Mizoram.txt)	3 BHK Independent House	Aizawl Residential Area	Aizawl / Mizoram	Independent House / 3 BHK	1760	₹50.24 L	Semi-Furnished	4	Bachelors	Sale
+689	Mizoram Properties (Mizoram.txt)	2 BHK Builder Floor	Champhai Main Road	Champhai / Mizoram	Builder Floor / 2 BHK	620	₹28.77 L	Semi-Furnished	1	Family	Sale
+690	Mizoram Properties (Mizoram.txt)	2 BHK Apartment	Aizawl Nagar	Aizawl / Mizoram	Apartment / 2 BHK	724	₹28.94 L	Fully-Furnished	2	Bachelors	Sale
+691	Mizoram Properties (Mizoram.txt)	3 BHK Apartment	Aizawl Residential Area	Aizawl / Mizoram	Apartment / 3 BHK	1292	₹46.23 L	Semi-Furnished	2	Any	Sale
+692	Mizoram Properties (Mizoram.txt)	1 BHK Studio	Aizawl Sector 1	Aizawl / Mizoram	Studio / 1 BHK	430	₹22.24 L	Fully-Furnished	1	Family	Sale
+693	Mizoram Properties (Mizoram.txt)	1 BHK Independent House	Champhai Heights	Champhai / Mizoram	Independent House / 1 BHK	714	₹26 L	Unfurnished	1	Bachelors	Sale
+694	Mizoram Properties (Mizoram.txt)	4 BHK Apartment	Lunglei West	Lunglei / Mizoram	Apartment / 4 BHK	1582	₹58.43 L	Semi-Furnished	4	Family	Sale
+695	Mizoram Properties (Mizoram.txt)	2 BHK Apartment	Lunglei Nagar	Lunglei / Mizoram	Apartment / 2 BHK	799	₹11,600/month	Unfurnished	1	Any	Rent
+696	Mizoram Properties (Mizoram.txt)	2 BHK Apartment	Lunglei Sector 3	Lunglei / Mizoram	Apartment / 2 BHK	814	₹10,300/month	Unfurnished	2	Family	Rent
+697	Mizoram Properties (Mizoram.txt)	4 BHK Apartment	Lunglei South	Lunglei / Mizoram	Apartment / 4 BHK	1830	₹66.60 L	Semi-Furnished	3	Bachelors	Sale
+698	Mizoram Properties (Mizoram.txt)	2 BHK Independent House	Champhai West	Champhai / Mizoram	Independent House / 2 BHK	1006	₹42.64 L	Unfurnished	1	Any	Sale
+699	Mizoram Properties (Mizoram.txt)	4 BHK Apartment	Aizawl Sector 2	Aizawl / Mizoram	Apartment / 4 BHK	1534	₹66.56 L	Fully-Furnished	4	Family	Sale
+700	Mizoram Properties (Mizoram.txt)	1 BHK Apartment	Aizawl North	Aizawl / Mizoram	Apartment / 1 BHK	518	₹20.37 L	Semi-Furnished	2	Family	Sale
+701	Mizoram Properties (Mizoram.txt)	2 BHK Builder Floor	Lunglei Sector 2	Lunglei / Mizoram	Builder Floor / 2 BHK	935	₹34.14 L	Semi-Furnished	3	Bachelors	Sale
+702	Mizoram Properties (Mizoram.txt)	3 BHK Independent House	Champhai Sector 3	Champhai / Mizoram	Independent House / 3 BHK	1543	₹60.33 L	Semi-Furnished	4	Bachelors	Sale
+703	Mizoram Properties (Mizoram.txt)	2 BHK Apartment	Lunglei East	Lunglei / Mizoram	Apartment / 2 BHK	709	₹8,600/month	Fully-Furnished	2	Family	Rent
+704	Mizoram Properties (Mizoram.txt)	4 BHK Independent House	Aizawl North	Aizawl / Mizoram	Independent House / 4 BHK	1789	₹70.37 L	Fully-Furnished	5	Family	Sale
+705	Mizoram Properties (Mizoram.txt)	3 BHK Independent House	Aizawl Colony	Aizawl / Mizoram	Independent House / 3 BHK	1552	₹15,500/month	Semi-Furnished	3	Family	Rent
+706	Mizoram Properties (Mizoram.txt)	4 BHK Apartment	Aizawl Main Road	Aizawl / Mizoram	Apartment / 4 BHK	1655	₹16,500/month	Fully-Furnished	4	Family	Rent
+707	Mizoram Properties (Mizoram.txt)	3 BHK Apartment	Aizawl Main Road	Aizawl / Mizoram	Apartment / 3 BHK	1225	₹46.38 L	Semi-Furnished	3	Bachelors	Sale
+708	Mizoram Properties (Mizoram.txt)	2 BHK Independent House	Aizawl Colony	Aizawl / Mizoram	Independent House / 2 BHK	1109	₹10,100/month	Semi-Furnished	3	Family	Rent
+709	Mizoram Properties (Mizoram.txt)	3 BHK Apartment	Champhai Main Road	Champhai / Mizoram	Apartment / 3 BHK	1240	₹11,500/month	Semi-Furnished	3	Bachelors	Rent
+710	Mizoram Properties (Mizoram.txt)	2 BHK Independent House	Lunglei Heights	Lunglei / Mizoram	Independent House / 2 BHK	947	₹32.33 L	Semi-Furnished	1	Family	Sale
+711	Mizoram Properties (Mizoram.txt)	3 BHK Independent House	Champhai Central	Champhai / Mizoram	Independent House / 3 BHK	1786	₹17,300/month	Fully-Furnished	2	Family	Rent
+712	Mizoram Properties (Mizoram.txt)	2 BHK Apartment	Aizawl North	Aizawl / Mizoram	Apartment / 2 BHK	752	₹35.36 L	Fully-Furnished	3	Any	Sale
+713	Mizoram Properties (Mizoram.txt)	2 BHK Builder Floor	Lunglei Heights	Lunglei / Mizoram	Builder Floor / 2 BHK	983	₹38.41 L	Semi-Furnished	2	Family	Sale
+714	Mizoram Properties (Mizoram.txt)	2 BHK Apartment	Lunglei Residential Area	Lunglei / Mizoram	Apartment / 2 BHK	842	₹41.11 L	Fully-Furnished	2	Bachelors	Sale
+715	Mizoram Properties (Mizoram.txt)	3 BHK Apartment	Lunglei Extension	Lunglei / Mizoram	Apartment / 3 BHK	1214	₹58.20 L	Fully-Furnished	3	Any	Sale
+716	Mizoram Properties (Mizoram.txt)	1 BHK Independent House	Aizawl Main Road	Aizawl / Mizoram	Independent House / 1 BHK	666	₹20.96 L	Fully-Furnished	2	Family	Sale
+717	Mizoram Properties (Mizoram.txt)	3 BHK Independent House	Champhai Sector 1	Champhai / Mizoram	Independent House / 3 BHK	1352	₹12,500/month	Fully-Furnished	2	Bachelors	Rent
+718	Mizoram Properties (Mizoram.txt)	4 BHK Builder Floor	Aizawl Colony	Aizawl / Mizoram	Builder Floor / 4 BHK	2043	₹60.59 L	Fully-Furnished	3	Family	Sale
+719	Mizoram Properties (Mizoram.txt)	1 BHK Studio	Champhai Heights	Champhai / Mizoram	Studio / 1 BHK	363	₹24.25 L	Semi-Furnished	1	Family	Sale
+720	Mizoram Properties (Mizoram.txt)	2 BHK Villa	Champhai Nagar	Champhai / Mizoram	Villa / 2 BHK	1338	₹12,300/month	Semi-Furnished	1	Any	Rent
+721	Mizoram Properties (Mizoram.txt)	1 BHK Studio	Aizawl Nagar	Aizawl / Mizoram	Studio / 1 BHK	335	₹18.51 L	Unfurnished	1	Family	Sale
+722	Mizoram Properties (Mizoram.txt)	3 BHK Apartment	Aizawl East	Aizawl / Mizoram	Apartment / 3 BHK	1358	₹13,500/month	Semi-Furnished	3	Family	Rent
+723	Mizoram Properties (Mizoram.txt)	3 BHK Independent House	Champhai South	Champhai / Mizoram	Independent House / 3 BHK	1803	₹48.74 L	Fully-Furnished	3	Family	Sale
+724	Mizoram Properties (Mizoram.txt)	3 BHK Apartment	Champhai Sector 1	Champhai / Mizoram	Apartment / 3 BHK	1394	₹11,600/month	Semi-Furnished	3	Family	Rent
+725	Mizoram Properties (Mizoram.txt)	2 BHK Apartment	Lunglei East	Lunglei / Mizoram	Apartment / 2 BHK	941	₹33.84 L	Fully-Furnished	2	Bachelors	Sale
+726	Mizoram Properties (Mizoram.txt)	2 BHK Independent House	Lunglei Colony	Lunglei / Mizoram	Independent House / 2 BHK	929	₹9,700/month	Unfurnished	2	Bachelors	Rent
+727	Mizoram Properties (Mizoram.txt)	1 BHK Apartment	Lunglei Extension	Lunglei / Mizoram	Apartment / 1 BHK	551	₹21.76 L	Semi-Furnished	1	Family	Sale
+728	Mizoram Properties (Mizoram.txt)	1 BHK Apartment	Lunglei Sector 3	Lunglei / Mizoram	Apartment / 1 BHK	652	₹7,800/month	Fully-Furnished	1	Family	Rent
+729	Mizoram Properties (Mizoram.txt)	2 BHK Apartment	Champhai West	Champhai / Mizoram	Apartment / 2 BHK	1015	₹12,400/month	Fully-Furnished	2	Family	Rent
+730	Mizoram Properties (Mizoram.txt)	2 BHK Builder Floor	Aizawl Town Centre	Aizawl / Mizoram	Builder Floor / 2 BHK	1143	₹41.51 L	Fully-Furnished	1	Bachelors	Sale
+731	Mizoram Properties (Mizoram.txt)	4 BHK Apartment	Champhai Colony	Champhai / Mizoram	Apartment / 4 BHK	2265	₹62.34 L	Fully-Furnished	5	Any	Sale
+732	Mizoram Properties (Mizoram.txt)	3 BHK Apartment	Lunglei Colony	Lunglei / Mizoram	Apartment / 3 BHK	1517	₹56.68 L	Semi-Furnished	2	Any	Sale
+733	Mizoram Properties (Mizoram.txt)	1 BHK Apartment	Aizawl East	Aizawl / Mizoram	Apartment / 1 BHK	418	₹18.75 L	Unfurnished	2	Family	Sale
+734	Mizoram Properties (Mizoram.txt)	3 BHK Apartment	Aizawl Extension	Aizawl / Mizoram	Apartment / 3 BHK	1412	₹13,200/month	Unfurnished	3	Family	Rent
+735	Mizoram Properties (Mizoram.txt)	4 BHK Independent House	Lunglei Sector 1	Lunglei / Mizoram	Independent House / 4 BHK	2146	₹59.37 L	Semi-Furnished	4	Any	Sale
+736	Mizoram Properties (Mizoram.txt)	3 BHK Builder Floor	Lunglei Colony	Lunglei / Mizoram	Builder Floor / 3 BHK	1221	₹53.38 L	Semi-Furnished	3	Family	Sale
+737	Mizoram Properties (Mizoram.txt)	3 BHK Apartment	Lunglei Residential Area	Lunglei / Mizoram	Apartment / 3 BHK	1218	₹16,200/month	Semi-Furnished	2	Any	Rent
+738	Mizoram Properties (Mizoram.txt)	2 BHK Apartment	Aizawl Sector 2	Aizawl / Mizoram	Apartment / 2 BHK	1001	₹37.33 L	Semi-Furnished	3	Any	Sale
+739	Mizoram Properties (Mizoram.txt)	2 BHK Builder Floor	Lunglei Town Centre	Lunglei / Mizoram	Builder Floor / 2 BHK	961	₹36.07 L	Fully-Furnished	2	Bachelors	Sale
+740	Mizoram Properties (Mizoram.txt)	2 BHK Apartment	Champhai Extension	Champhai / Mizoram	Apartment / 2 BHK	565	₹37.35 L	Unfurnished	2	Family	Sale
+741	Mizoram Properties (Mizoram.txt)	3 BHK Apartment	Aizawl South	Aizawl / Mizoram	Apartment / 3 BHK	1144	₹11,900/month	Semi-Furnished	4	Family	Rent
+742	Mizoram Properties (Mizoram.txt)	2 BHK Villa	Aizawl Extension	Aizawl / Mizoram	Villa / 2 BHK	1064	₹11,100/month	Semi-Furnished	2	Bachelors	Rent
+743	Mizoram Properties (Mizoram.txt)	2 BHK Apartment	Champhai Sector 2	Champhai / Mizoram	Apartment / 2 BHK	893	₹11,400/month	Semi-Furnished	2	Family	Rent
+744	Mizoram Properties (Mizoram.txt)	3 BHK Apartment	Aizawl West	Aizawl / Mizoram	Apartment / 3 BHK	1161	₹12,000/month	Semi-Furnished	3	Bachelors	Rent
+745	Mizoram Properties (Mizoram.txt)	1 BHK Apartment	Lunglei Extension	Lunglei / Mizoram	Apartment / 1 BHK	437	₹23.30 L	Unfurnished	1	Bachelors	Sale
+746	Mizoram Properties (Mizoram.txt)	2 BHK Villa	Champhai Extension	Champhai / Mizoram	Villa / 2 BHK	1262	₹13,400/month	Semi-Furnished	2	Bachelors	Rent
+747	Mizoram Properties (Mizoram.txt)	2 BHK Apartment	Champhai Central	Champhai / Mizoram	Apartment / 2 BHK	891	₹38.73 L	Unfurnished	2	Family	Sale
+748	Mizoram Properties (Mizoram.txt)	2 BHK Apartment	Champhai East	Champhai / Mizoram	Apartment / 2 BHK	717	₹10,900/month	Fully-Furnished	2	Any	Rent
+749	Mizoram Properties (Mizoram.txt)	3 BHK Apartment	Champhai Colony	Champhai / Mizoram	Apartment / 3 BHK	1189	₹53.14 L	Semi-Furnished	3	Bachelors	Sale
+750	Mizoram Properties (Mizoram.txt)	3 BHK Villa	Lunglei Sector 1	Lunglei / Mizoram	Villa / 3 BHK	1451	₹51.71 L	Semi-Furnished	3	Bachelors	Sale
+751	Mizoram Properties (Mizoram.txt)	1 BHK Studio	Lunglei North	Lunglei / Mizoram	Studio / 1 BHK	426	₹23.47 L	Semi-Furnished	1	Family	Sale
+752	Mizoram Properties (Mizoram.txt)	2 BHK Independent House	Aizawl Central	Aizawl / Mizoram	Independent House / 2 BHK	1291	₹38.78 L	Semi-Furnished	3	Family	Sale
+753	Mizoram Properties (Mizoram.txt)	1 BHK Apartment	Champhai East	Champhai / Mizoram	Apartment / 1 BHK	480	₹25.97 L	Fully-Furnished	2	Any	Sale
+754	Mizoram Properties (Mizoram.txt)	3 BHK Apartment	Champhai Nagar	Champhai / Mizoram	Apartment / 3 BHK	1286	₹59.21 L	Fully-Furnished	2	Bachelors	Sale
+755	Mizoram Properties (Mizoram.txt)	2 BHK Independent House	Champhai Town Centre	Champhai / Mizoram	Independent House / 2 BHK	1293	₹12,500/month	Semi-Furnished	1	Any	Rent
+756	Mizoram Properties (Mizoram.txt)	3 BHK Apartment	Champhai Town Centre	Champhai / Mizoram	Apartment / 3 BHK	1445	₹53.58 L	Semi-Furnished	4	Any	Sale
+757	Mizoram Properties (Mizoram.txt)	3 BHK Apartment	Champhai Heights	Champhai / Mizoram	Apartment / 3 BHK	1407	₹48.97 L	Semi-Furnished	3	Any	Sale
+758	Mizoram Properties (Mizoram.txt)	4 BHK Builder Floor	Champhai Colony	Champhai / Mizoram	Builder Floor / 4 BHK	2031	₹17,400/month	Fully-Furnished	4	Family	Rent
+759	Mizoram Properties (Mizoram.txt)	3 BHK Apartment	Aizawl East	Aizawl / Mizoram	Apartment / 3 BHK	1270	₹55.68 L	Unfurnished	4	Bachelors	Sale
+760	Mizoram Properties (Mizoram.txt)	2 BHK Independent House	Champhai North	Champhai / Mizoram	Independent House / 2 BHK	1000	₹45.65 L	Semi-Furnished	3	Family	Sale
+761	Mizoram Properties (Mizoram.txt)	3 BHK Villa	Aizawl Sector 2	Aizawl / Mizoram	Villa / 3 BHK	1762	₹59.12 L	Semi-Furnished	3	Bachelors	Sale
+762	Mizoram Properties (Mizoram.txt)	3 BHK Villa	Champhai Sector 1	Champhai / Mizoram	Villa / 3 BHK	1912	₹14,500/month	Semi-Furnished	3	Bachelors	Rent
+763	Mizoram Properties (Mizoram.txt)	3 BHK Apartment	Aizawl Sector 3	Aizawl / Mizoram	Apartment / 3 BHK	925	₹56.29 L	Semi-Furnished	2	Bachelors	Sale
+764	Mizoram Properties (Mizoram.txt)	3 BHK Builder Floor	Champhai Main Road	Champhai / Mizoram	Builder Floor / 3 BHK	1368	₹14,200/month	Semi-Furnished	4	Bachelors	Rent
+765	Mizoram Properties (Mizoram.txt)	3 BHK Apartment	Aizawl South	Aizawl / Mizoram	Apartment / 3 BHK	1300	₹55.31 L	Unfurnished	3	Family	Sale
+766	Mizoram Properties (Mizoram.txt)	3 BHK Villa	Champhai South	Champhai / Mizoram	Villa / 3 BHK	2117	₹55.43 L	Semi-Furnished	4	Bachelors	Sale
+767	Mizoram Properties (Mizoram.txt)	1 BHK Studio	Champhai Extension	Champhai / Mizoram	Studio / 1 BHK	420	₹20.75 L	Semi-Furnished	1	Any	Sale
+768	Mizoram Properties (Mizoram.txt)	2 BHK Apartment	Lunglei Sector 2	Lunglei / Mizoram	Apartment / 2 BHK	665	₹33.70 L	Unfurnished	2	Any	Sale
+769	Mizoram Properties (Mizoram.txt)	2 BHK Villa	Aizawl South	Aizawl / Mizoram	Villa / 2 BHK	981	₹41.97 L	Unfurnished	2	Family	Sale
+770	Mizoram Properties (Mizoram.txt)	3 BHK Apartment	Aizawl Nagar	Aizawl / Mizoram	Apartment / 3 BHK	1338	₹48.78 L	Semi-Furnished	2	Any	Sale
+771	Mizoram Properties (Mizoram.txt)	4 BHK Builder Floor	Aizawl Residential Area	Aizawl / Mizoram	Builder Floor / 4 BHK	2140	₹73.10 L	Unfurnished	4	Family	Sale
+772	Mizoram Properties (Mizoram.txt)	2 BHK Apartment	Lunglei Town Centre	Lunglei / Mizoram	Apartment / 2 BHK	1080	₹39.53 L	Semi-Furnished	2	Family	Sale
+773	Mizoram Properties (Mizoram.txt)	2 BHK Apartment	Aizawl Sector 1	Aizawl / Mizoram	Apartment / 2 BHK	874	₹41.86 L	Fully-Furnished	2	Family	Sale
+774	Mizoram Properties (Mizoram.txt)	2 BHK Apartment	Champhai South	Champhai / Mizoram	Apartment / 2 BHK	1049	₹33.73 L	Fully-Furnished	3	Bachelors	Sale
+775	Mizoram Properties (Mizoram.txt)	2 BHK Apartment	Lunglei Nagar	Lunglei / Mizoram	Apartment / 2 BHK	735	₹39.28 L	Unfurnished	3	Bachelors	Sale
+776	Mizoram Properties (Mizoram.txt)	3 BHK Builder Floor	Champhai Residential Area	Champhai / Mizoram	Builder Floor / 3 BHK	1556	₹47.51 L	Semi-Furnished	3	Any	Sale
+777	Mizoram Properties (Mizoram.txt)	3 BHK Independent House	Aizawl Residential Area	Aizawl / Mizoram	Independent House / 3 BHK	2237	₹17,700/month	Fully-Furnished	3	Bachelors	Rent
+778	Mizoram Properties (Mizoram.txt)	2 BHK Apartment	Lunglei Main Road	Lunglei / Mizoram	Apartment / 2 BHK	1005	₹45.31 L	Semi-Furnished	1	Family	Sale
+779	Mizoram Properties (Mizoram.txt)	1 BHK Apartment	Aizawl West	Aizawl / Mizoram	Apartment / 1 BHK	507	₹7,300/month	Fully-Furnished	1	Family	Rent
+780	Mizoram Properties (Mizoram.txt)	3 BHK Builder Floor	Lunglei Colony	Lunglei / Mizoram	Builder Floor / 3 BHK	944	₹11,500/month	Semi-Furnished	3	Family	Rent
+781	Mizoram Properties (Mizoram.txt)	2 BHK Independent House	Champhai Town Centre	Champhai / Mizoram	Independent House / 2 BHK	1011	₹44.86 L	Unfurnished	2	Any	Sale
+782	Mizoram Properties (Mizoram.txt)	2 BHK Apartment	Lunglei Extension	Lunglei / Mizoram	Apartment / 2 BHK	824	₹10,900/month	Unfurnished	3	Family	Rent
+783	Mizoram Properties (Mizoram.txt)	3 BHK Apartment	Aizawl Nagar	Aizawl / Mizoram	Apartment / 3 BHK	1269	₹14,500/month	Fully-Furnished	2	Bachelors	Rent
+784	Mizoram Properties (Mizoram.txt)	2 BHK Apartment	Lunglei East	Lunglei / Mizoram	Apartment / 2 BHK	821	₹10,000/month	Semi-Furnished	2	Bachelors	Rent
+785	Mizoram Properties (Mizoram.txt)	2 BHK Apartment	Champhai Residential Area	Champhai / Mizoram	Apartment / 2 BHK	839	₹33.06 L	Unfurnished	1	Any	Sale
+786	Mizoram Properties (Mizoram.txt)	2 BHK Apartment	Aizawl Sector 2	Aizawl / Mizoram	Apartment / 2 BHK	912	₹34.65 L	Fully-Furnished	3	Family	Sale
+787	Mizoram Properties (Mizoram.txt)	1 BHK Apartment	Lunglei Heights	Lunglei / Mizoram	Apartment / 1 BHK	553	₹23.23 L	Semi-Furnished	1	Bachelors	Sale
+788	Mizoram Properties (Mizoram.txt)	3 BHK Apartment	Champhai Residential Area	Champhai / Mizoram	Apartment / 3 BHK	1350	₹48.93 L	Unfurnished	3	Bachelors	Sale
+789	Mizoram Properties (Mizoram.txt)	2 BHK Independent House	Champhai Heights	Champhai / Mizoram	Independent House / 2 BHK	1044	₹10,500/month	Semi-Furnished	3	Bachelors	Rent
+790	Mizoram Properties (Mizoram.txt)	2 BHK Apartment	Aizawl Nagar	Aizawl / Mizoram	Apartment / 2 BHK	742	₹9,400/month	Unfurnished	2	Family	Rent
+791	Mizoram Properties (Mizoram.txt)	5 BHK Independent House	Lunglei Town Centre	Lunglei / Mizoram	Independent House / 5 BHK	2644	₹23,900/month	Unfurnished	5	Bachelors	Rent
+792	Mizoram Properties (Mizoram.txt)	5 BHK Apartment	Lunglei East	Lunglei / Mizoram	Apartment / 5 BHK	2076	₹67.49 L	Semi-Furnished	4	Family	Sale
+793	Mizoram Properties (Mizoram.txt)	3 BHK Villa	Aizawl East	Aizawl / Mizoram	Villa / 3 BHK	1840	₹51.24 L	Semi-Furnished	4	Bachelors	Sale
+794	Mizoram Properties (Mizoram.txt)	3 BHK Apartment	Lunglei Sector 3	Lunglei / Mizoram	Apartment / 3 BHK	1124	₹54.85 L	Fully-Furnished	3	Family	Sale
+795	Mizoram Properties (Mizoram.txt)	1 BHK Studio	Champhai Colony	Champhai / Mizoram	Studio / 1 BHK	300	₹5,000/month	Unfurnished	1	Any	Rent
+796	Mizoram Properties (Mizoram.txt)	1 BHK Apartment	Champhai Sector 1	Champhai / Mizoram	Apartment / 1 BHK	416	₹26.02 L	Fully-Furnished	1	Family	Sale
+797	Mizoram Properties (Mizoram.txt)	3 BHK Independent House	Champhai Heights	Champhai / Mizoram	Independent House / 3 BHK	917	₹15,000/month	Unfurnished	2	Bachelors	Rent
+798	Mizoram Properties (Mizoram.txt)	3 BHK Independent House	Champhai West	Champhai / Mizoram	Independent House / 3 BHK	1561	₹49.10 L	Unfurnished	3	Family	Sale
+799	Mizoram Properties (Mizoram.txt)	2 BHK Apartment	Champhai South	Champhai / Mizoram	Apartment / 2 BHK	834	₹12,000/month	Unfurnished	1	Bachelors	Rent
+800	Mizoram Properties (Mizoram.txt)	2 BHK Independent House	Lunglei Sector 1	Lunglei / Mizoram	Independent House / 2 BHK	1128	₹9,800/month	Unfurnished	2	Family	Rent
+801	Mizoram Properties (Mizoram.txt)	3 BHK Apartment	Champhai Town Centre	Champhai / Mizoram	Apartment / 3 BHK	1585	₹14,200/month	Unfurnished	3	Family	Rent
+802	Mizoram Properties (Mizoram.txt)	2 BHK Villa	Aizawl Colony	Aizawl / Mizoram	Villa / 2 BHK	1314	₹13,100/month	Unfurnished	2	Bachelors	Rent
+803	Mizoram Properties (Mizoram.txt)	1 BHK Apartment	Lunglei Sector 3	Lunglei / Mizoram	Apartment / 1 BHK	485	₹22.79 L	Fully-Furnished	1	Family	Sale
+804	Mizoram Properties (Mizoram.txt)	3 BHK Independent House	Champhai Sector 1	Champhai / Mizoram	Independent House / 3 BHK	1330	₹45.45 L	Unfurnished	3	Bachelors	Sale
+805	Mizoram Properties (Mizoram.txt)	4 BHK Apartment	Lunglei Sector 1	Lunglei / Mizoram	Apartment / 4 BHK	1301	₹58.23 L	Unfurnished	3	Bachelors	Sale
+806	Mizoram Properties (Mizoram.txt)	2 BHK Independent House	Champhai Extension	Champhai / Mizoram	Independent House / 2 BHK	980	₹8,700/month	Semi-Furnished	2	Family	Rent
+807	Mizoram Properties (Mizoram.txt)	5 BHK Apartment	Aizawl Sector 3	Aizawl / Mizoram	Apartment / 5 BHK	2388	₹23,300/month	Unfurnished	4	Family	Rent
+808	Mizoram Properties (Mizoram.txt)	3 BHK Apartment	Lunglei Sector 2	Lunglei / Mizoram	Apartment / 3 BHK	1153	₹41.23 L	Semi-Furnished	2	Bachelors	Sale
+809	Mizoram Properties (Mizoram.txt)	2 BHK Apartment	Champhai South	Champhai / Mizoram	Apartment / 2 BHK	859	₹38.96 L	Semi-Furnished	1	Family	Sale
+810	Mizoram Properties (Mizoram.txt)	2 BHK Independent House	Champhai Sector 2	Champhai / Mizoram	Independent House / 2 BHK	799	₹37.52 L	Fully-Furnished	2	Family	Sale
+811	Mizoram Properties (Mizoram.txt)	4 BHK Apartment	Aizawl East	Aizawl / Mizoram	Apartment / 4 BHK	2171	₹59.59 L	Semi-Furnished	4	Any	Sale
+812	Mizoram Properties (Mizoram.txt)	2 BHK Apartment	Champhai Sector 2	Champhai / Mizoram	Apartment / 2 BHK	950	₹10,100/month	Unfurnished	3	Bachelors	Rent
+813	Mizoram Properties (Mizoram.txt)	2 BHK Apartment	Aizawl Colony	Aizawl / Mizoram	Apartment / 2 BHK	670	₹35.37 L	Semi-Furnished	2	Family	Sale
+814	Mizoram Properties (Mizoram.txt)	2 BHK Independent House	Lunglei South	Lunglei / Mizoram	Independent House / 2 BHK	1079	₹44.32 L	Semi-Furnished	1	Any	Sale
+815	Mizoram Properties (Mizoram.txt)	4 BHK Apartment	Aizawl Heights	Aizawl / Mizoram	Apartment / 4 BHK	2120	₹16,800/month	Semi-Furnished	3	Bachelors	Rent
+816	Mizoram Properties (Mizoram.txt)	3 BHK Independent House	Lunglei Sector 2	Lunglei / Mizoram	Independent House / 3 BHK	1452	₹13,500/month	Fully-Furnished	2	Any	Rent
+817	Mizoram Properties (Mizoram.txt)	1 BHK Apartment	Champhai Main Road	Champhai / Mizoram	Apartment / 1 BHK	478	₹25.78 L	Semi-Furnished	1	Family	Sale
+818	Mizoram Properties (Mizoram.txt)	3 BHK Apartment	Aizawl Sector 2	Aizawl / Mizoram	Apartment / 3 BHK	1088	₹47.38 L	Semi-Furnished	3	Bachelors	Sale
+819	Mizoram Properties (Mizoram.txt)	1 BHK Apartment	Champhai Heights	Champhai / Mizoram	Apartment / 1 BHK	333	₹5,700/month	Semi-Furnished	1	Family	Rent
+820	Mizoram Properties (Mizoram.txt)	2 BHK Apartment	Champhai Nagar	Champhai / Mizoram	Apartment / 2 BHK	693	₹9,800/month	Fully-Furnished	1	Family	Rent
+821	Mizoram Properties (Mizoram.txt)	2 BHK Villa	Aizawl Residential Area	Aizawl / Mizoram	Villa / 2 BHK	1061	₹12,300/month	Semi-Furnished	2	Family	Rent
+822	Mizoram Properties (Mizoram.txt)	1 BHK Builder Floor	Aizawl Main Road	Aizawl / Mizoram	Builder Floor / 1 BHK	512	₹27.57 L	Semi-Furnished	1	Bachelors	Sale
+823	Mizoram Properties (Mizoram.txt)	2 BHK Apartment	Lunglei Central	Lunglei / Mizoram	Apartment / 2 BHK	1028	₹43.98 L	Semi-Furnished	2	Family	Sale
+824	Mizoram Properties (Mizoram.txt)	2 BHK Apartment	Lunglei East	Lunglei / Mizoram	Apartment / 2 BHK	666	₹9,300/month	Unfurnished	3	Family	Rent
+825	Mizoram Properties (Mizoram.txt)	1 BHK Builder Floor	Aizawl Town Centre	Aizawl / Mizoram	Builder Floor / 1 BHK	539	₹6,500/month	Semi-Furnished	1	Family	Rent
+826	Mizoram Properties (Mizoram.txt)	3 BHK Builder Floor	Champhai Residential Area	Champhai / Mizoram	Builder Floor / 3 BHK	1121	₹48.70 L	Unfurnished	3	Any	Sale
+827	Mizoram Properties (Mizoram.txt)	3 BHK Builder Floor	Champhai Main Road	Champhai / Mizoram	Builder Floor / 3 BHK	1415	₹16,500/month	Semi-Furnished	3	Bachelors	Rent
+828	Mizoram Properties (Mizoram.txt)	2 BHK Independent House	Lunglei Colony	Lunglei / Mizoram	Independent House / 2 BHK	1270	₹10,000/month	Unfurnished	2	Family	Rent
+829	Mizoram Properties (Mizoram.txt)	2 BHK Apartment	Lunglei West	Lunglei / Mizoram	Apartment / 2 BHK	938	₹11,700/month	Unfurnished	1	Bachelors	Rent
+830	Mizoram Properties (Mizoram.txt)	3 BHK Builder Floor	Lunglei Sector 3	Lunglei / Mizoram	Builder Floor / 3 BHK	1168	₹56.06 L	Unfurnished	3	Family	Sale
+831	Mizoram Properties (Mizoram.txt)	2 BHK Builder Floor	Aizawl East	Aizawl / Mizoram	Builder Floor / 2 BHK	996	₹39.26 L	Semi-Furnished	1	Family	Sale
+832	Mizoram Properties (Mizoram.txt)	3 BHK Apartment	Lunglei Sector 2	Lunglei / Mizoram	Apartment / 3 BHK	1097	₹12,400/month	Unfurnished	3	Any	Rent
+833	Mizoram Properties (Mizoram.txt)	2 BHK Builder Floor	Aizawl North	Aizawl / Mizoram	Builder Floor / 2 BHK	924	₹35.39 L	Fully-Furnished	3	Family	Sale
+834	Mizoram Properties (Mizoram.txt)	1 BHK Villa	Aizawl North	Aizawl / Mizoram	Villa / 1 BHK	660	₹21.03 L	Semi-Furnished	2	Family	Sale
+835	Mizoram Properties (Mizoram.txt)	3 BHK Apartment	Champhai Heights	Champhai / Mizoram	Apartment / 3 BHK	1236	₹14,600/month	Unfurnished	2	Any	Rent
+836	Mizoram Properties (Mizoram.txt)	2 BHK Independent House	Aizawl Heights	Aizawl / Mizoram	Independent House / 2 BHK	1121	₹12,600/month	Semi-Furnished	3	Bachelors	Rent
+837	Mizoram Properties (Mizoram.txt)	2 BHK Apartment	Champhai Central	Champhai / Mizoram	Apartment / 2 BHK	1087	₹36.21 L	Unfurnished	2	Any	Sale
+838	Mizoram Properties (Mizoram.txt)	2 BHK Apartment	Champhai Sector 1	Champhai / Mizoram	Apartment / 2 BHK	826	₹41.91 L	Fully-Furnished	1	Family	Sale
+839	Mizoram Properties (Mizoram.txt)	1 BHK Apartment	Lunglei Residential Area	Lunglei / Mizoram	Apartment / 1 BHK	478	₹22.58 L	Semi-Furnished	1	Bachelors	Sale
+840	Mizoram Properties (Mizoram.txt)	2 BHK Apartment	Champhai South	Champhai / Mizoram	Apartment / 2 BHK	752	₹32.02 L	Fully-Furnished	1	Family	Sale
+841	Mizoram Properties (Mizoram.txt)	1 BHK Apartment	Lunglei Sector 1	Lunglei / Mizoram	Apartment / 1 BHK	410	₹19.89 L	Fully-Furnished	1	Family	Sale
+842	Mizoram Properties (Mizoram.txt)	1 BHK Apartment	Aizawl Main Road	Aizawl / Mizoram	Apartment / 1 BHK	519	₹21.43 L	Unfurnished	1	Family	Sale
+843	Mizoram Properties (Mizoram.txt)	3 BHK Independent House	Champhai Nagar	Champhai / Mizoram	Independent House / 3 BHK	1467	₹15,300/month	Unfurnished	3	Family	Rent
+844	Mizoram Properties (Mizoram.txt)	2 BHK Apartment	Champhai Nagar	Champhai / Mizoram	Apartment / 2 BHK	962	₹39.11 L	Unfurnished	2	Family	Sale
+845	Mizoram Properties (Mizoram.txt)	3 BHK Apartment	Aizawl East	Aizawl / Mizoram	Apartment / 3 BHK	1326	₹57.94 L	Fully-Furnished	3	Bachelors	Sale
+846	Mizoram Properties (Mizoram.txt)	3 BHK Builder Floor	Lunglei Nagar	Lunglei / Mizoram	Builder Floor / 3 BHK	1214	₹13,400/month	Semi-Furnished	3	Bachelors	Rent
+847	Mizoram Properties (Mizoram.txt)	3 BHK Independent House	Aizawl Nagar	Aizawl / Mizoram	Independent House / 3 BHK	1434	₹59.51 L	Semi-Furnished	3	Any	Sale
+848	Mizoram Properties (Mizoram.txt)	1 BHK Apartment	Lunglei Town Centre	Lunglei / Mizoram	Apartment / 1 BHK	485	₹20.03 L	Semi-Furnished	1	Any	Sale
+849	Mizoram Properties (Mizoram.txt)	3 BHK Apartment	Lunglei South	Lunglei / Mizoram	Apartment / 3 BHK	1306	₹54.74 L	Fully-Furnished	3	Any	Sale
+850	Mizoram Properties (Mizoram.txt)	2 BHK Apartment	Champhai Sector 2	Champhai / Mizoram	Apartment / 2 BHK	854	₹40.29 L	Semi-Furnished	1	Bachelors	Sale
+851	Mizoram Properties (Mizoram.txt)	4 BHK Apartment	Champhai Sector 1	Champhai / Mizoram	Apartment / 4 BHK	2211	₹84.11 L	Fully-Furnished	4	Family	Sale
+852	Mizoram Properties (Mizoram.txt)	3 BHK Apartment	Champhai West	Champhai / Mizoram	Apartment / 3 BHK	1017	₹53.85 L	Semi-Furnished	3	Any	Sale
+853	Mizoram Properties (Mizoram.txt)	3 BHK Villa	Lunglei East	Lunglei / Mizoram	Villa / 3 BHK	2095	₹62.32 L	Semi-Furnished	3	Family	Sale
+854	Mizoram Properties (Mizoram.txt)	1 BHK Villa	Lunglei Nagar	Lunglei / Mizoram	Villa / 1 BHK	653	₹7,900/month	Semi-Furnished	1	Any	Rent
+855	Mizoram Properties (Mizoram.txt)	2 BHK Independent House	Champhai Extension	Champhai / Mizoram	Independent House / 2 BHK	999	₹11,800/month	Semi-Furnished	2	Bachelors	Rent
+856	Mizoram Properties (Mizoram.txt)	1 BHK Apartment	Aizawl Colony	Aizawl / Mizoram	Apartment / 1 BHK	514	₹25.81 L	Semi-Furnished	1	Bachelors	Sale
+857	Mizoram Properties (Mizoram.txt)	2 BHK Villa	Champhai North	Champhai / Mizoram	Villa / 2 BHK	1016	₹11,700/month	Semi-Furnished	2	Family	Rent
+858	Mizoram Properties (Mizoram.txt)	1 BHK Apartment	Lunglei North	Lunglei / Mizoram	Apartment / 1 BHK	511	₹21.78 L	Unfurnished	1	Family	Sale
+859	Mizoram Properties (Mizoram.txt)	3 BHK Villa	Champhai Colony	Champhai / Mizoram	Villa / 3 BHK	1493	₹14,800/month	Unfurnished	3	Any	Rent
+860	Mizoram Properties (Mizoram.txt)	4 BHK Independent House	Aizawl Nagar	Aizawl / Mizoram	Independent House / 4 BHK	2162	₹62.71 L	Semi-Furnished	5	Any	Sale
+861	Mizoram Properties (Mizoram.txt)	2 BHK Apartment	Lunglei East	Lunglei / Mizoram	Apartment / 2 BHK	844	₹10,700/month	Fully-Furnished	3	Bachelors	Rent
+862	Mizoram Properties (Mizoram.txt)	3 BHK Independent House	Champhai Nagar	Champhai / Mizoram	Independent House / 3 BHK	1572	₹14,400/month	Unfurnished	3	Family	Rent
+863	Mizoram Properties (Mizoram.txt)	5 BHK Villa	Champhai Nagar	Champhai / Mizoram	Villa / 5 BHK	2963	₹75.88 L	Fully-Furnished	5	Family	Sale
+864	Mizoram Properties (Mizoram.txt)	1 BHK Apartment	Champhai West	Champhai / Mizoram	Apartment / 1 BHK	584	₹6,500/month	Fully-Furnished	1	Any	Rent
+865	Mizoram Properties (Mizoram.txt)	3 BHK Apartment	Champhai East	Champhai / Mizoram	Apartment / 3 BHK	1353	₹53.44 L	Semi-Furnished	3	Bachelors	Sale
+866	Mizoram Properties (Mizoram.txt)	1 BHK Apartment	Aizawl Sector 1	Aizawl / Mizoram	Apartment / 1 BHK	464	₹23.73 L	Semi-Furnished	1	Bachelors	Sale
+867	Mizoram Properties (Mizoram.txt)	2 BHK Apartment	Champhai Heights	Champhai / Mizoram	Apartment / 2 BHK	719	₹8,900/month	Fully-Furnished	2	Family	Rent
+868	Mizoram Properties (Mizoram.txt)	3 BHK Apartment	Champhai Sector 3	Champhai / Mizoram	Apartment / 3 BHK	1380	₹15,500/month	Semi-Furnished	4	Family	Rent
+869	Mizoram Properties (Mizoram.txt)	2 BHK Builder Floor	Champhai Sector 3	Champhai / Mizoram	Builder Floor / 2 BHK	928	₹34.53 L	Semi-Furnished	1	Any	Sale
+870	Mizoram Properties (Mizoram.txt)	4 BHK Apartment	Champhai South	Champhai / Mizoram	Apartment / 4 BHK	2034	₹59.40 L	Unfurnished	4	Bachelors	Sale
+871	Mizoram Properties (Mizoram.txt)	2 BHK Apartment	Champhai Town Centre	Champhai / Mizoram	Apartment / 2 BHK	1072	₹36.22 L	Semi-Furnished	2	Bachelors	Sale
+872	Mizoram Properties (Mizoram.txt)	3 BHK Apartment	Lunglei Nagar	Lunglei / Mizoram	Apartment / 3 BHK	1164	₹44.13 L	Semi-Furnished	3	Family	Sale
+873	Mizoram Properties (Mizoram.txt)	1 BHK Apartment	Champhai West	Champhai / Mizoram	Apartment / 1 BHK	573	₹7,700/month	Unfurnished	1	Any	Rent
+874	Mizoram Properties (Mizoram.txt)	1 BHK Apartment	Lunglei South	Lunglei / Mizoram	Apartment / 1 BHK	469	₹26.59 L	Fully-Furnished	1	Any	Sale
+875	Mizoram Properties (Mizoram.txt)	3 BHK Villa	Lunglei Central	Lunglei / Mizoram	Villa / 3 BHK	2142	₹55.42 L	Unfurnished	3	Any	Sale
+876	Mizoram Properties (Mizoram.txt)	4 BHK Apartment	Lunglei Main Road	Lunglei / Mizoram	Apartment / 4 BHK	1399	₹18,200/month	Unfurnished	3	Any	Rent
+877	Mizoram Properties (Mizoram.txt)	2 BHK Builder Floor	Aizawl Town Centre	Aizawl / Mizoram	Builder Floor / 2 BHK	869	₹10,700/month	Fully-Furnished	3	Family	Rent
+878	Mizoram Properties (Mizoram.txt)	4 BHK Apartment	Aizawl East	Aizawl / Mizoram	Apartment / 4 BHK	2228	₹78.18 L	Unfurnished	5	Any	Sale
+879	Mizoram Properties (Mizoram.txt)	2 BHK Apartment	Champhai Heights	Champhai / Mizoram	Apartment / 2 BHK	730	₹32.87 L	Semi-Furnished	1	Bachelors	Sale
+880	Mizoram Properties (Mizoram.txt)	2 BHK Independent House	Lunglei South	Lunglei / Mizoram	Independent House / 2 BHK	1031	₹45.64 L	Semi-Furnished	2	Bachelors	Sale
+881	Mizoram Properties (Mizoram.txt)	2 BHK Builder Floor	Lunglei Extension	Lunglei / Mizoram	Builder Floor / 2 BHK	863	₹12,100/month	Fully-Furnished	2	Family	Rent
+882	Mizoram Properties (Mizoram.txt)	2 BHK Apartment	Aizawl North	Aizawl / Mizoram	Apartment / 2 BHK	826	₹37.71 L	Fully-Furnished	3	Bachelors	Sale
+883	Mizoram Properties (Mizoram.txt)	3 BHK Apartment	Lunglei Sector 3	Lunglei / Mizoram	Apartment / 3 BHK	1445	₹55.27 L	Fully-Furnished	2	Bachelors	Sale
+884	Mizoram Properties (Mizoram.txt)	3 BHK Builder Floor	Champhai Main Road	Champhai / Mizoram	Builder Floor / 3 BHK	1208	₹54.14 L	Semi-Furnished	3	Family	Sale
+885	Mizoram Properties (Mizoram.txt)	4 BHK Apartment	Champhai Nagar	Champhai / Mizoram	Apartment / 4 BHK	1911	₹19,800/month	Unfurnished	5	Any	Rent
+886	Mizoram Properties (Mizoram.txt)	5 BHK Villa	Aizawl Sector 3	Aizawl / Mizoram	Villa / 5 BHK	3767	₹24,700/month	Semi-Furnished	5	Family	Rent
+887	Mizoram Properties (Mizoram.txt)	1 BHK Apartment	Aizawl East	Aizawl / Mizoram	Apartment / 1 BHK	433	₹7,300/month	Unfurnished	1	Any	Rent
+888	Mizoram Properties (Mizoram.txt)	1 BHK Apartment	Champhai Colony	Champhai / Mizoram	Apartment / 1 BHK	624	₹20.30 L	Unfurnished	1	Any	Sale
+889	Mizoram Properties (Mizoram.txt)	2 BHK Independent House	Aizawl Central	Aizawl / Mizoram	Independent House / 2 BHK	1135	₹42.51 L	Semi-Furnished	2	Bachelors	Sale
+890	Mizoram Properties (Mizoram.txt)	4 BHK Apartment	Aizawl Central	Aizawl / Mizoram	Apartment / 4 BHK	1915	₹64.48 L	Semi-Furnished	4	Bachelors	Sale
+891	Mizoram Properties (Mizoram.txt)	3 BHK Independent House	Aizawl Colony	Aizawl / Mizoram	Independent House / 3 BHK	1331	₹57.55 L	Semi-Furnished	3	Any	Sale
+892	Mizoram Properties (Mizoram.txt)	1 BHK Builder Floor	Champhai Colony	Champhai / Mizoram	Builder Floor / 1 BHK	470	₹6,600/month	Semi-Furnished	1	Family	Rent
+893	Mizoram Properties (Mizoram.txt)	1 BHK Studio	Champhai Nagar	Champhai / Mizoram	Studio / 1 BHK	432	₹19.90 L	Semi-Furnished	2	Any	Sale
+894	Mizoram Properties (Mizoram.txt)	2 BHK Apartment	Lunglei Sector 2	Lunglei / Mizoram	Apartment / 2 BHK	816	₹33.06 L	Fully-Furnished	2	Any	Sale
+895	Mizoram Properties (Mizoram.txt)	2 BHK Apartment	Aizawl Main Road	Aizawl / Mizoram	Apartment / 2 BHK	948	₹32.59 L	Semi-Furnished	3	Family	Sale
+896	Mizoram Properties (Mizoram.txt)	1 BHK Studio	Champhai Extension	Champhai / Mizoram	Studio / 1 BHK	378	₹21.04 L	Semi-Furnished	2	Family	Sale
+897	Mizoram Properties (Mizoram.txt)	2 BHK Apartment	Aizawl South	Aizawl / Mizoram	Apartment / 2 BHK	851	₹38.83 L	Fully-Furnished	1	Bachelors	Sale
+898	Mizoram Properties (Mizoram.txt)	3 BHK Apartment	Aizawl Nagar	Aizawl / Mizoram	Apartment / 3 BHK	1231	₹11,200/month	Fully-Furnished	2	Bachelors	Rent
+899	Mizoram Properties (Mizoram.txt)	4 BHK Builder Floor	Aizawl South	Aizawl / Mizoram	Builder Floor / 4 BHK	1973	₹17,200/month	Semi-Furnished	5	Family	Rent
+900	Mizoram Properties (Mizoram.txt)	3 BHK Villa	Aizawl East	Aizawl / Mizoram	Villa / 3 BHK	1702	₹45.41 L	Semi-Furnished	3	Any	Sale
+901	Mizoram Properties (Mizoram.txt)	1 BHK Apartment	Lunglei Town Centre	Lunglei / Mizoram	Apartment / 1 BHK	450	₹18.79 L	Semi-Furnished	2	Bachelors	Sale
+902	Mizoram Properties (Mizoram.txt)	2 BHK Independent House	Aizawl Extension	Aizawl / Mizoram	Independent House / 2 BHK	1192	₹12,200/month	Fully-Furnished	2	Any	Rent
+903	Mizoram Properties (Mizoram.txt)	3 BHK Independent House	Aizawl Main Road	Aizawl / Mizoram	Independent House / 3 BHK	1496	₹59.39 L	Semi-Furnished	4	Any	Sale
+904	Mizoram Properties (Mizoram.txt)	3 BHK Villa	Aizawl Sector 1	Aizawl / Mizoram	Villa / 3 BHK	1328	₹47.81 L	Semi-Furnished	2	Bachelors	Sale
+905	Mizoram Properties (Mizoram.txt)	2 BHK Independent House	Lunglei Central	Lunglei / Mizoram	Independent House / 2 BHK	756	₹30.36 L	Semi-Furnished	2	Bachelors	Sale
+906	Mizoram Properties (Mizoram.txt)	2 BHK Villa	Lunglei Town Centre	Lunglei / Mizoram	Villa / 2 BHK	1053	₹9,000/month	Semi-Furnished	2	Bachelors	Rent
+907	Mizoram Properties (Mizoram.txt)	3 BHK Independent House	Champhai Town Centre	Champhai / Mizoram	Independent House / 3 BHK	1296	₹55.77 L	Semi-Furnished	4	Family	Sale
+908	Mizoram Properties (Mizoram.txt)	3 BHK Apartment	Lunglei Town Centre	Lunglei / Mizoram	Apartment / 3 BHK	1233	₹50.65 L	Semi-Furnished	4	Family	Sale
+909	Mizoram Properties (Mizoram.txt)	3 BHK Apartment	Aizawl East	Aizawl / Mizoram	Apartment / 3 BHK	910	₹14,900/month	Semi-Furnished	4	Family	Rent
+910	Mizoram Properties (Mizoram.txt)	3 BHK Apartment	Champhai South	Champhai / Mizoram	Apartment / 3 BHK	1092	₹43.56 L	Unfurnished	4	Family	Sale
+911	Mizoram Properties (Mizoram.txt)	3 BHK Independent House	Champhai Sector 2	Champhai / Mizoram	Independent House / 3 BHK	1617	₹61.06 L	Unfurnished	2	Bachelors	Sale
+912	Mizoram Properties (Mizoram.txt)	4 BHK Apartment	Champhai Extension	Champhai / Mizoram	Apartment / 4 BHK	1687	₹58.27 L	Fully-Furnished	4	Family	Sale
+913	Mizoram Properties (Mizoram.txt)	1 BHK Independent House	Aizawl Central	Aizawl / Mizoram	Independent House / 1 BHK	735	₹28.54 L	Fully-Furnished	1	Bachelors	Sale
+914	Mizoram Properties (Mizoram.txt)	2 BHK Villa	Champhai Town Centre	Champhai / Mizoram	Villa / 2 BHK	1296	₹44.88 L	Semi-Furnished	2	Bachelors	Sale
+915	Mizoram Properties (Mizoram.txt)	2 BHK Apartment	Champhai Heights	Champhai / Mizoram	Apartment / 2 BHK	854	₹8,300/month	Semi-Furnished	2	Any	Rent
+916	Mizoram Properties (Mizoram.txt)	1 BHK Studio	Champhai East	Champhai / Mizoram	Studio / 1 BHK	353	₹25.25 L	Semi-Furnished	1	Any	Sale
+917	Mizoram Properties (Mizoram.txt)	2 BHK Independent House	Aizawl Residential Area	Aizawl / Mizoram	Independent House / 2 BHK	1142	₹37.70 L	Fully-Furnished	2	Family	Sale
+918	Mizoram Properties (Mizoram.txt)	5 BHK Apartment	Lunglei Colony	Lunglei / Mizoram	Apartment / 5 BHK	2476	₹20,200/month	Semi-Furnished	5	Bachelors	Rent
+919	Mizoram Properties (Mizoram.txt)	1 BHK Apartment	Lunglei North	Lunglei / Mizoram	Apartment / 1 BHK	507	₹23.21 L	Semi-Furnished	2	Bachelors	Sale
+920	Mizoram Properties (Mizoram.txt)	1 BHK Villa	Aizawl Main Road	Aizawl / Mizoram	Villa / 1 BHK	724	₹20.88 L	Semi-Furnished	2	Family	Sale
+921	Mizoram Properties (Mizoram.txt)	1 BHK Independent House	Aizawl Main Road	Aizawl / Mizoram	Independent House / 1 BHK	554	₹25.61 L	Semi-Furnished	1	Family	Sale
+922	Mizoram Properties (Mizoram.txt)	1 BHK Studio	Aizawl Nagar	Aizawl / Mizoram	Studio / 1 BHK	327	₹5,400/month	Fully-Furnished	2	Family	Rent
+923	Mizoram Properties (Mizoram.txt)	2 BHK Apartment	Lunglei Sector 2	Lunglei / Mizoram	Apartment / 2 BHK	1007	₹43.23 L	Fully-Furnished	3	Bachelors	Sale
+924	Mizoram Properties (Mizoram.txt)	3 BHK Apartment	Aizawl Residential Area	Aizawl / Mizoram	Apartment / 3 BHK	1241	₹49.11 L	Semi-Furnished	3	Bachelors	Sale
+925	Mizoram Properties (Mizoram.txt)	5 BHK Apartment	Lunglei West	Lunglei / Mizoram	Apartment / 5 BHK	2828	₹98.05 L	Semi-Furnished	5	Bachelors	Sale
+926	Mizoram Properties (Mizoram.txt)	2 BHK Independent House	Champhai Sector 3	Champhai / Mizoram	Independent House / 2 BHK	820	₹38.31 L	Fully-Furnished	2	Any	Sale
+927	Mizoram Properties (Mizoram.txt)	1 BHK Apartment	Aizawl Sector 1	Aizawl / Mizoram	Apartment / 1 BHK	617	₹8,200/month	Unfurnished	2	Family	Rent
+928	Mizoram Properties (Mizoram.txt)	2 BHK Independent House	Champhai Sector 1	Champhai / Mizoram	Independent House / 2 BHK	1342	₹42.80 L	Fully-Furnished	2	Bachelors	Sale
+929	Mizoram Properties (Mizoram.txt)	1 BHK Studio	Lunglei East	Lunglei / Mizoram	Studio / 1 BHK	401	₹20.41 L	Semi-Furnished	2	Any	Sale
+930	Mizoram Properties (Mizoram.txt)	1 BHK Apartment	Champhai Sector 3	Champhai / Mizoram	Apartment / 1 BHK	523	₹6,300/month	Fully-Furnished	1	Family	Rent
+931	Mizoram Properties (Mizoram.txt)	4 BHK Apartment	Aizawl West	Aizawl / Mizoram	Apartment / 4 BHK	1914	₹14,700/month	Semi-Furnished	3	Family	Rent
+932	Mizoram Properties (Mizoram.txt)	3 BHK Independent House	Aizawl South	Aizawl / Mizoram	Independent House / 3 BHK	1553	₹60.69 L	Unfurnished	3	Any	Sale
+933	Mizoram Properties (Mizoram.txt)	3 BHK Independent House	Lunglei Town Centre	Lunglei / Mizoram	Independent House / 3 BHK	1564	₹55.07 L	Semi-Furnished	3	Any	Sale
+934	Mizoram Properties (Mizoram.txt)	3 BHK Independent House	Champhai Sector 2	Champhai / Mizoram	Independent House / 3 BHK	1542	₹14,300/month	Unfurnished	2	Any	Rent
+935	Mizoram Properties (Mizoram.txt)	1 BHK Studio	Aizawl Sector 3	Aizawl / Mizoram	Studio / 1 BHK	370	₹5,900/month	Semi-Furnished	2	Any	Rent
+936	Mizoram Properties (Mizoram.txt)	3 BHK Apartment	Aizawl Extension	Aizawl / Mizoram	Apartment / 3 BHK	1005	₹44.28 L	Semi-Furnished	3	Bachelors	Sale
+937	Mizoram Properties (Mizoram.txt)	3 BHK Apartment	Lunglei East	Lunglei / Mizoram	Apartment / 3 BHK	967	₹55.80 L	Semi-Furnished	4	Family	Sale
+938	Mizoram Properties (Mizoram.txt)	1 BHK Builder Floor	Lunglei Extension	Lunglei / Mizoram	Builder Floor / 1 BHK	516	₹26.62 L	Fully-Furnished	1	Any	Sale
+939	Mizoram Properties (Mizoram.txt)	3 BHK Independent House	Champhai East	Champhai / Mizoram	Independent House / 3 BHK	1554	₹61.49 L	Fully-Furnished	2	Family	Sale
+940	Mizoram Properties (Mizoram.txt)	1 BHK Apartment	Aizawl Colony	Aizawl / Mizoram	Apartment / 1 BHK	580	₹25.45 L	Unfurnished	1	Any	Sale
+941	Mizoram Properties (Mizoram.txt)	4 BHK Apartment	Aizawl Nagar	Aizawl / Mizoram	Apartment / 4 BHK	1629	₹17,500/month	Unfurnished	4	Family	Rent
+942	Mizoram Properties (Mizoram.txt)	2 BHK Apartment	Lunglei Residential Area	Lunglei / Mizoram	Apartment / 2 BHK	933	₹34.01 L	Fully-Furnished	2	Family	Sale
+943	Mizoram Properties (Mizoram.txt)	2 BHK Apartment	Lunglei East	Lunglei / Mizoram	Apartment / 2 BHK	777	₹43.21 L	Unfurnished	2	Any	Sale
+944	Mizoram Properties (Mizoram.txt)	2 BHK Apartment	Champhai Sector 2	Champhai / Mizoram	Apartment / 2 BHK	765	₹9,300/month	Semi-Furnished	3	Family	Rent
+945	Mizoram Properties (Mizoram.txt)	3 BHK Villa	Champhai Central	Champhai / Mizoram	Villa / 3 BHK	1884	₹14,700/month	Semi-Furnished	2	Family	Rent
+946	Mizoram Properties (Mizoram.txt)	5 BHK Apartment	Lunglei Colony	Lunglei / Mizoram	Apartment / 5 BHK	2359	₹92.12 L	Semi-Furnished	5	Family	Sale
+947	Mizoram Properties (Mizoram.txt)	3 BHK Apartment	Aizawl Heights	Aizawl / Mizoram	Apartment / 3 BHK	1060	₹48.23 L	Semi-Furnished	4	Family	Sale
+948	Mizoram Properties (Mizoram.txt)	2 BHK Builder Floor	Aizawl East	Aizawl / Mizoram	Builder Floor / 2 BHK	541	₹30.41 L	Fully-Furnished	2	Bachelors	Sale
+949	Mizoram Properties (Mizoram.txt)	5 BHK Apartment	Champhai Central	Champhai / Mizoram	Apartment / 5 BHK	1941	₹92.41 L	Fully-Furnished	5	Family	Sale
+950	Mizoram Properties (Mizoram.txt)	2 BHK Apartment	Champhai Sector 1	Champhai / Mizoram	Apartment / 2 BHK	598	₹35.84 L	Semi-Furnished	3	Bachelors	Sale
+951	Mizoram Properties (Mizoram.txt)	1 BHK Independent House	Champhai Heights	Champhai / Mizoram	Independent House / 1 BHK	724	₹7,000/month	Semi-Furnished	1	Family	Rent
+952	Mizoram Properties (Mizoram.txt)	1 BHK Studio	Champhai Extension	Champhai / Mizoram	Studio / 1 BHK	401	₹20.36 L	Semi-Furnished	1	Bachelors	Sale
+953	Mizoram Properties (Mizoram.txt)	3 BHK Builder Floor	Champhai West	Champhai / Mizoram	Builder Floor / 3 BHK	1459	₹15,500/month	Semi-Furnished	3	Family	Rent
+954	Mizoram Properties (Mizoram.txt)	1 BHK Independent House	Champhai West	Champhai / Mizoram	Independent House / 1 BHK	693	₹8,300/month	Unfurnished	1	Family	Rent
+955	Mizoram Properties (Mizoram.txt)	2 BHK Builder Floor	Aizawl Residential Area	Aizawl / Mizoram	Builder Floor / 2 BHK	974	₹35.69 L	Fully-Furnished	2	Family	Sale
+956	Mizoram Properties (Mizoram.txt)	3 BHK Apartment	Lunglei Central	Lunglei / Mizoram	Apartment / 3 BHK	1209	₹53.33 L	Unfurnished	3	Family	Sale
+957	Mizoram Properties (Mizoram.txt)	5 BHK Independent House	Champhai West	Champhai / Mizoram	Independent House / 5 BHK	2805	₹1.02 Cr	Semi-Furnished	5	Any	Sale
+958	Mizoram Properties (Mizoram.txt)	4 BHK Apartment	Lunglei North	Lunglei / Mizoram	Apartment / 4 BHK	1600	₹77.15 L	Fully-Furnished	4	Any	Sale
+959	Mizoram Properties (Mizoram.txt)	1 BHK Builder Floor	Lunglei South	Lunglei / Mizoram	Builder Floor / 1 BHK	524	₹19.83 L	Unfurnished	1	Family	Sale
+960	Mizoram Properties (Mizoram.txt)	3 BHK Builder Floor	Lunglei Colony	Lunglei / Mizoram	Builder Floor / 3 BHK	1454	₹62.57 L	Semi-Furnished	3	Family	Sale
+961	Mizoram Properties (Mizoram.txt)	4 BHK Villa	Champhai Residential Area	Champhai / Mizoram	Villa / 4 BHK	2203	₹17,500/month	Semi-Furnished	3	Bachelors	Rent
+962	Mizoram Properties (Mizoram.txt)	3 BHK Apartment	Champhai Colony	Champhai / Mizoram	Apartment / 3 BHK	1286	₹11,900/month	Semi-Furnished	3	Family	Rent
+963	Mizoram Properties (Mizoram.txt)	3 BHK Builder Floor	Lunglei North	Lunglei / Mizoram	Builder Floor / 3 BHK	1368	₹15,000/month	Semi-Furnished	2	Family	Rent
+964	Mizoram Properties (Mizoram.txt)	5 BHK Apartment	Lunglei Town Centre	Lunglei / Mizoram	Apartment / 5 BHK	2494	₹68.79 L	Fully-Furnished	5	Bachelors	Sale
+965	Mizoram Properties (Mizoram.txt)	1 BHK Studio	Champhai Town Centre	Champhai / Mizoram	Studio / 1 BHK	300	₹5,100/month	Semi-Furnished	2	Any	Rent
+966	Mizoram Properties (Mizoram.txt)	4 BHK Apartment	Champhai Main Road	Champhai / Mizoram	Apartment / 4 BHK	1765	₹75.60 L	Fully-Furnished	4	Bachelors	Sale
+967	Mizoram Properties (Mizoram.txt)	1 BHK Builder Floor	Champhai Main Road	Champhai / Mizoram	Builder Floor / 1 BHK	641	₹20.65 L	Fully-Furnished	1	Family	Sale
+968	Mizoram Properties (Mizoram.txt)	3 BHK Apartment	Champhai North	Champhai / Mizoram	Apartment / 3 BHK	1014	₹46.43 L	Semi-Furnished	3	Family	Sale
+969	Mizoram Properties (Mizoram.txt)	2 BHK Builder Floor	Aizawl Main Road	Aizawl / Mizoram	Builder Floor / 2 BHK	919	₹12,200/month	Semi-Furnished	2	Bachelors	Rent
+970	Mizoram Properties (Mizoram.txt)	2 BHK Apartment	Aizawl Sector 3	Aizawl / Mizoram	Apartment / 2 BHK	779	₹39.57 L	Semi-Furnished	2	Bachelors	Sale
+971	Mizoram Properties (Mizoram.txt)	2 BHK Apartment	Aizawl Nagar	Aizawl / Mizoram	Apartment / 2 BHK	920	₹12,300/month	Unfurnished	2	Family	Rent
+972	Mizoram Properties (Mizoram.txt)	4 BHK Independent House	Aizawl South	Aizawl / Mizoram	Independent House / 4 BHK	2217	₹82.88 L	Unfurnished	3	Family	Sale
+973	Mizoram Properties (Mizoram.txt)	1 BHK Independent House	Champhai Main Road	Champhai / Mizoram	Independent House / 1 BHK	694	₹7,400/month	Unfurnished	1	Any	Rent
+974	Mizoram Properties (Mizoram.txt)	4 BHK Apartment	Champhai Nagar	Champhai / Mizoram	Apartment / 4 BHK	1973	₹61.80 L	Fully-Furnished	4	Family	Sale
+975	Mizoram Properties (Mizoram.txt)	2 BHK Independent House	Aizawl Extension	Aizawl / Mizoram	Independent House / 2 BHK	802	₹32.36 L	Semi-Furnished	2	Family	Sale
+976	Mizoram Properties (Mizoram.txt)	4 BHK Apartment	Champhai Residential Area	Champhai / Mizoram	Apartment / 4 BHK	1666	₹15,600/month	Fully-Furnished	3	Any	Rent
+977	Mizoram Properties (Mizoram.txt)	1 BHK Apartment	Champhai Sector 3	Champhai / Mizoram	Apartment / 1 BHK	496	₹22.22 L	Fully-Furnished	1	Any	Sale
+978	Mizoram Properties (Mizoram.txt)	5 BHK Villa	Aizawl Sector 3	Aizawl / Mizoram	Villa / 5 BHK	3192	₹20,200/month	Semi-Furnished	5	Family	Rent
+979	Mizoram Properties (Mizoram.txt)	2 BHK Independent House	Aizawl Extension	Aizawl / Mizoram	Independent House / 2 BHK	1121	₹9,800/month	Semi-Furnished	1	Family	Rent
+980	Mizoram Properties (Mizoram.txt)	4 BHK Apartment	Champhai Sector 3	Champhai / Mizoram	Apartment / 4 BHK	1704	₹18,600/month	Semi-Furnished	4	Family	Rent
+981	Mizoram Properties (Mizoram.txt)	5 BHK Builder Floor	Lunglei Sector 1	Lunglei / Mizoram	Builder Floor / 5 BHK	2273	₹84.49 L	Unfurnished	4	Bachelors	Sale
+982	Mizoram Properties (Mizoram.txt)	4 BHK Independent House	Champhai Colony	Champhai / Mizoram	Independent House / 4 BHK	2298	₹85.66 L	Semi-Furnished	4	Family	Sale
+983	Mizoram Properties (Mizoram.txt)	2 BHK Apartment	Lunglei Main Road	Lunglei / Mizoram	Apartment / 2 BHK	1030	₹39.41 L	Semi-Furnished	1	Bachelors	Sale
+984	Mizoram Properties (Mizoram.txt)	3 BHK Apartment	Champhai West	Champhai / Mizoram	Apartment / 3 BHK	1496	₹14,600/month	Unfurnished	3	Any	Rent
+985	Mizoram Properties (Mizoram.txt)	3 BHK Apartment	Champhai Colony	Champhai / Mizoram	Apartment / 3 BHK	1454	₹52.80 L	Unfurnished	4	Family	Sale
+986	Mizoram Properties (Mizoram.txt)	3 BHK Villa	Lunglei Main Road	Lunglei / Mizoram	Villa / 3 BHK	2256	₹16,200/month	Fully-Furnished	2	Bachelors	Rent
+987	Mizoram Properties (Mizoram.txt)	2 BHK Apartment	Champhai Main Road	Champhai / Mizoram	Apartment / 2 BHK	916	₹10,900/month	Unfurnished	2	Family	Rent
+988	Mizoram Properties (Mizoram.txt)	3 BHK Apartment	Aizawl Town Centre	Aizawl / Mizoram	Apartment / 3 BHK	1270	₹54.93 L	Fully-Furnished	3	Any	Sale
+989	Mizoram Properties (Mizoram.txt)	3 BHK Apartment	Lunglei Central	Lunglei / Mizoram	Apartment / 3 BHK	1392	₹16,200/month	Unfurnished	3	Bachelors	Rent
+990	Mizoram Properties (Mizoram.txt)	1 BHK Studio	Aizawl Sector 3	Aizawl / Mizoram	Studio / 1 BHK	449	₹7,700/month	Semi-Furnished	2	Any	Rent
+991	Mizoram Properties (Mizoram.txt)	2 BHK Apartment	Lunglei East	Lunglei / Mizoram	Apartment / 2 BHK	698	₹36.01 L	Fully-Furnished	1	Any	Sale
+992	Mizoram Properties (Mizoram.txt)	1 BHK Studio	Champhai Residential Area	Champhai / Mizoram	Studio / 1 BHK	335	₹24.06 L	Fully-Furnished	2	Bachelors	Sale
+993	Mizoram Properties (Mizoram.txt)	2 BHK Builder Floor	Aizawl Nagar	Aizawl / Mizoram	Builder Floor / 2 BHK	827	₹9,500/month	Fully-Furnished	2	Family	Rent
+994	Mizoram Properties (Mizoram.txt)	2 BHK Apartment	Lunglei Town Centre	Lunglei / Mizoram	Apartment / 2 BHK	878	₹39.58 L	Semi-Furnished	2	Family	Sale
+995	Mizoram Properties (Mizoram.txt)	2 BHK Apartment	Aizawl Sector 2	Aizawl / Mizoram	Apartment / 2 BHK	740	₹11,300/month	Semi-Furnished	2	Any	Rent
+996	Mizoram Properties (Mizoram.txt)	2 BHK Apartment	Lunglei Colony	Lunglei / Mizoram	Apartment / 2 BHK	1026	₹40.49 L	Unfurnished	2	Bachelors	Sale
+997	Mizoram Properties (Mizoram.txt)	3 BHK Builder Floor	Aizawl Central	Aizawl / Mizoram	Builder Floor / 3 BHK	1445	₹15,300/month	Fully-Furnished	3	Any	Rent
+998	Mizoram Properties (Mizoram.txt)	4 BHK Independent House	Lunglei Town Centre	Lunglei / Mizoram	Independent House / 4 BHK	2070	₹57.33 L	Semi-Furnished	4	Any	Sale
+999	Mizoram Properties (Mizoram.txt)	3 BHK Apartment	Lunglei Main Road	Lunglei / Mizoram	Apartment / 3 BHK	1259	₹15,200/month	Unfurnished	3	Bachelors	Rent
+1000	Mizoram Properties (Mizoram.txt)	5 BHK Independent House	Lunglei Town Centre	Lunglei / Mizoram	Independent House / 5 BHK	3521	₹1.02 Cr	Semi-Furnished	5	Bachelors	Sale
+1001	Mizoram Properties (Mizoram.txt)	4 BHK Apartment	Lunglei West	Lunglei / Mizoram	Apartment / 4 BHK	1087	₹68.16 L	Semi-Furnished	5	Family	Sale
+1002	Mizoram Properties (Mizoram.txt)	3 BHK Builder Floor	Aizawl Sector 3	Aizawl / Mizoram	Builder Floor / 3 BHK	997	₹51.49 L	Unfurnished	4	Bachelors	Sale
+1003	Mizoram Properties (Mizoram.txt)	4 BHK Independent House	Lunglei Residential Area	Lunglei / Mizoram	Independent House / 4 BHK	2094	₹73.69 L	Unfurnished	4	Family	Sale
+1004	Mizoram Properties (Mizoram.txt)	4 BHK Builder Floor	Champhai Sector 1	Champhai / Mizoram	Builder Floor / 4 BHK	1740	₹15,000/month	Semi-Furnished	3	Bachelors	Rent
+1005	Mizoram Properties (Mizoram.txt)	1 BHK Villa	Lunglei Main Road	Lunglei / Mizoram	Villa / 1 BHK	673	₹25.55 L	Semi-Furnished	1	Family	Sale
+1006	Mizoram Properties (Mizoram.txt)	2 BHK Independent House	Champhai South	Champhai / Mizoram	Independent House / 2 BHK	870	₹12,200/month	Unfurnished	2	Any	Rent
+1007	Mizoram Properties (Mizoram.txt)	4 BHK Apartment	Aizawl Residential Area	Aizawl / Mizoram	Apartment / 4 BHK	1687	₹18,800/month	Fully-Furnished	4	Family	Rent
+1008	Mizoram Properties (Mizoram.txt)	1 BHK Apartment	Aizawl Sector 2	Aizawl / Mizoram	Apartment / 1 BHK	461	₹22.79 L	Semi-Furnished	2	Family	Sale
+1009	Mizoram Properties (Mizoram.txt)	2 BHK Builder Floor	Lunglei Colony	Lunglei / Mizoram	Builder Floor / 2 BHK	710	₹31.41 L	Semi-Furnished	3	Any	Sale
+1010	Mizoram Properties (Mizoram.txt)	3 BHK Independent House	Lunglei South	Lunglei / Mizoram	Independent House / 3 BHK	1445	₹14,600/month	Semi-Furnished	4	Any	Rent
+1011	Mizoram Properties (Mizoram.txt)	2 BHK Builder Floor	Champhai Extension	Champhai / Mizoram	Builder Floor / 2 BHK	833	₹36.94 L	Fully-Furnished	3	Family	Sale
+1012	Mizoram Properties (Mizoram.txt)	4 BHK Apartment	Aizawl Nagar	Aizawl / Mizoram	Apartment / 4 BHK	1965	₹77.66 L	Semi-Furnished	5	Bachelors	Sale
+1013	Mizoram Properties (Mizoram.txt)	3 BHK Apartment	Lunglei North	Lunglei / Mizoram	Apartment / 3 BHK	1539	₹50.53 L	Fully-Furnished	3	Family	Sale
+1014	Mizoram Properties (Mizoram.txt)	2 BHK Independent House	Champhai Town Centre	Champhai / Mizoram	Independent House / 2 BHK	872	₹37.96 L	Fully-Furnished	2	Family	Sale
+1015	Mizoram Properties (Mizoram.txt)	3 BHK Builder Floor	Champhai Sector 2	Champhai / Mizoram	Builder Floor / 3 BHK	1135	₹42.91 L	Semi-Furnished	3	Any	Sale
+1016	Mizoram Properties (Mizoram.txt)	1 BHK Studio	Aizawl Extension	Aizawl / Mizoram	Studio / 1 BHK	408	₹6,300/month	Unfurnished	1	Any	Rent
+1017	Mizoram Properties (Mizoram.txt)	1 BHK Apartment	Lunglei Central	Lunglei / Mizoram	Apartment / 1 BHK	498	₹6,900/month	Semi-Furnished	1	Family	Rent
+1018	Mizoram Properties (Mizoram.txt)	3 BHK Builder Floor	Champhai East	Champhai / Mizoram	Builder Floor / 3 BHK	1095	₹54.08 L	Semi-Furnished	3	Any	Sale
+1019	Mizoram Properties (Mizoram.txt)	3 BHK Villa	Lunglei Residential Area	Lunglei / Mizoram	Villa / 3 BHK	1614	₹48.07 L	Fully-Furnished	3	Family	Sale
+1020	Mizoram Properties (Mizoram.txt)	3 BHK Builder Floor	Lunglei Colony	Lunglei / Mizoram	Builder Floor / 3 BHK	1270	₹42.50 L	Semi-Furnished	3	Bachelors	Sale
+1021	Mizoram Properties (Mizoram.txt)	3 BHK Apartment	Lunglei Sector 2	Lunglei / Mizoram	Apartment / 3 BHK	1048	₹43.47 L	Semi-Furnished	3	Any	Sale
+1022	Mizoram Properties (Mizoram.txt)	1 BHK Independent House	Lunglei Residential Area	Lunglei / Mizoram	Independent House / 1 BHK	731	₹8,400/month	Fully-Furnished	1	Family	Rent
+1023	Mizoram Properties (Mizoram.txt)	3 BHK Villa	Lunglei Town Centre	Lunglei / Mizoram	Villa / 3 BHK	1783	₹58.14 L	Fully-Furnished	3	Family	Sale
+1024	Mizoram Properties (Mizoram.txt)	2 BHK Apartment	Champhai Residential Area	Champhai / Mizoram	Apartment / 2 BHK	663	₹38.71 L	Fully-Furnished	2	Bachelors	Sale
+1025	Mizoram Properties (Mizoram.txt)	2 BHK Apartment	Lunglei Heights	Lunglei / Mizoram	Apartment / 2 BHK	792	₹39.61 L	Unfurnished	3	Family	Sale
+1026	Mizoram Properties (Mizoram.txt)	3 BHK Builder Floor	Lunglei South	Lunglei / Mizoram	Builder Floor / 3 BHK	1074	₹12,700/month	Semi-Furnished	3	Family	Rent
+1027	Mizoram Properties (Mizoram.txt)	2 BHK Villa	Aizawl Sector 3	Aizawl / Mizoram	Villa / 2 BHK	1130	₹12,100/month	Unfurnished	2	Family	Rent
+1028	Mizoram Properties (Mizoram.txt)	3 BHK Apartment	Aizawl Sector 1	Aizawl / Mizoram	Apartment / 3 BHK	1239	₹45.10 L	Fully-Furnished	3	Any	Sale
+1029	Mizoram Properties (Mizoram.txt)	4 BHK Independent House	Champhai Sector 3	Champhai / Mizoram	Independent House / 4 BHK	2187	₹83.64 L	Semi-Furnished	4	Any	Sale
+1030	Mizoram Properties (Mizoram.txt)	2 BHK Builder Floor	Champhai Main Road	Champhai / Mizoram	Builder Floor / 2 BHK	921	₹9,800/month	Fully-Furnished	2	Bachelors	Rent
+1031	Mizoram Properties (Mizoram.txt)	3 BHK Independent House	Champhai East	Champhai / Mizoram	Independent House / 3 BHK	1602	₹13,700/month	Semi-Furnished	2	Any	Rent
+1032	Mizoram Properties (Mizoram.txt)	1 BHK Apartment	Aizawl Sector 1	Aizawl / Mizoram	Apartment / 1 BHK	411	₹22.51 L	Unfurnished	1	Bachelors	Sale
+1033	Mizoram Properties (Mizoram.txt)	2 BHK Villa	Aizawl West	Aizawl / Mizoram	Villa / 2 BHK	997	₹37.41 L	Semi-Furnished	2	Family	Sale
+1034	Mizoram Properties (Mizoram.txt)	1 BHK Apartment	Aizawl West	Aizawl / Mizoram	Apartment / 1 BHK	529	₹7,100/month	Fully-Furnished	1	Family	Rent
+1035	Mizoram Properties (Mizoram.txt)	2 BHK Villa	Lunglei Sector 1	Lunglei / Mizoram	Villa / 2 BHK	1198	₹44.77 L	Fully-Furnished	1	Family	Sale
+1036	Mizoram Properties (Mizoram.txt)	1 BHK Studio	Aizawl Nagar	Aizawl / Mizoram	Studio / 1 BHK	350	₹5,100/month	Semi-Furnished	1	Family	Rent
+1037	Mizoram Properties (Mizoram.txt)	1 BHK Studio	Aizawl Heights	Aizawl / Mizoram	Studio / 1 BHK	376	₹20.41 L	Semi-Furnished	1	Family	Sale
+1038	Mizoram Properties (Mizoram.txt)	2 BHK Apartment	Lunglei Sector 3	Lunglei / Mizoram	Apartment / 2 BHK	969	₹42.49 L	Fully-Furnished	1	Family	Sale
+1039	Mizoram Properties (Mizoram.txt)	2 BHK Apartment	Lunglei East	Lunglei / Mizoram	Apartment / 2 BHK	721	₹28.96 L	Semi-Furnished	2	Any	Sale
+1040	Mizoram Properties (Mizoram.txt)	3 BHK Villa	Lunglei Colony	Lunglei / Mizoram	Villa / 3 BHK	1913	₹14,600/month	Semi-Furnished	2	Bachelors	Rent
+1041	Mizoram Properties (Mizoram.txt)	2 BHK Apartment	Champhai Sector 3	Champhai / Mizoram	Apartment / 2 BHK	945	₹10,900/month	Fully-Furnished	2	Family	Rent
+1042	Mizoram Properties (Mizoram.txt)	3 BHK Apartment	Lunglei Nagar	Lunglei / Mizoram	Apartment / 3 BHK	1026	₹12,700/month	Unfurnished	3	Any	Rent
+1043	Mizoram Properties (Mizoram.txt)	1 BHK Apartment	Champhai Sector 2	Champhai / Mizoram	Apartment / 1 BHK	505	₹6,000/month	Semi-Furnished	1	Any	Rent
+1044	Mizoram Properties (Mizoram.txt)	4 BHK Apartment	Lunglei Main Road	Lunglei / Mizoram	Apartment / 4 BHK	1697	₹75.25 L	Semi-Furnished	4	Family	Sale
+1045	Mizoram Properties (Mizoram.txt)	2 BHK Builder Floor	Champhai Sector 2	Champhai / Mizoram	Builder Floor / 2 BHK	647	₹11,100/month	Fully-Furnished	2	Family	Rent
+1046	Mizoram Properties (Mizoram.txt)	4 BHK Apartment	Lunglei Heights	Lunglei / Mizoram	Apartment / 4 BHK	1979	₹73.91 L	Semi-Furnished	3	Family	Sale
+1047	Mizoram Properties (Mizoram.txt)	1 BHK Apartment	Aizawl Residential Area	Aizawl / Mizoram	Apartment / 1 BHK	356	₹6,600/month	Fully-Furnished	1	Family	Rent
+1048	Mizoram Properties (Mizoram.txt)	3 BHK Independent House	Champhai Central	Champhai / Mizoram	Independent House / 3 BHK	1766	₹16,100/month	Fully-Furnished	3	Family	Rent
+1049	Mizoram Properties (Mizoram.txt)	4 BHK Independent House	Lunglei Colony	Lunglei / Mizoram	Independent House / 4 BHK	1840	₹15,200/month	Unfurnished	4	Family	Rent
+1050	Mizoram Properties (Mizoram.txt)	1 BHK Builder Floor	Aizawl Sector 3	Aizawl / Mizoram	Builder Floor / 1 BHK	516	₹7,300/month	Semi-Furnished	2	Family	Rent
+1051	Mizoram Properties (Mizoram.txt)	2 BHK Apartment	Aizawl Colony	Aizawl / Mizoram	Apartment / 2 BHK	833	₹43.06 L	Unfurnished	1	Any	Sale
+1052	Mizoram Properties (Mizoram.txt)	2 BHK Builder Floor	Champhai Extension	Champhai / Mizoram	Builder Floor / 2 BHK	688	₹36.04 L	Semi-Furnished	2	Bachelors	Sale
+1053	Mizoram Properties (Mizoram.txt)	1 BHK Studio	Lunglei Colony	Lunglei / Mizoram	Studio / 1 BHK	312	₹19.86 L	Fully-Furnished	1	Bachelors	Sale
+1054	Mizoram Properties (Mizoram.txt)	2 BHK Independent House	Aizawl West	Aizawl / Mizoram	Independent House / 2 BHK	1061	₹42.45 L	Semi-Furnished	2	Family	Sale
+1055	Mizoram Properties (Mizoram.txt)	1 BHK Builder Floor	Aizawl East	Aizawl / Mizoram	Builder Floor / 1 BHK	572	₹6,800/month	Semi-Furnished	1	Family	Rent
+1056	Mizoram Properties (Mizoram.txt)	3 BHK Apartment	Champhai Sector 3	Champhai / Mizoram	Apartment / 3 BHK	1540	₹16,500/month	Semi-Furnished	2	Bachelors	Rent
+1057	Mizoram Properties (Mizoram.txt)	2 BHK Apartment	Champhai Sector 1	Champhai / Mizoram	Apartment / 2 BHK	810	₹39.54 L	Unfurnished	1	Family	Sale
+1058	Mizoram Properties (Mizoram.txt)	4 BHK Apartment	Champhai Sector 1	Champhai / Mizoram	Apartment / 4 BHK	1447	₹74.64 L	Semi-Furnished	5	Family	Sale
+1059	Mizoram Properties (Mizoram.txt)	2 BHK Independent House	Aizawl North	Aizawl / Mizoram	Independent House / 2 BHK	1079	₹45 L	Unfurnished	2	Bachelors	Sale
+1060	Mizoram Properties (Mizoram.txt)	1 BHK Builder Floor	Champhai Main Road	Champhai / Mizoram	Builder Floor / 1 BHK	478	₹21.31 L	Fully-Furnished	1	Family	Sale
+1061	Mizoram Properties (Mizoram.txt)	2 BHK Builder Floor	Champhai Sector 2	Champhai / Mizoram	Builder Floor / 2 BHK	885	₹34.90 L	Unfurnished	1	Bachelors	Sale
+1062	Mizoram Properties (Mizoram.txt)	2 BHK Builder Floor	Aizawl Sector 2	Aizawl / Mizoram	Builder Floor / 2 BHK	851	₹11,000/month	Semi-Furnished	2	Bachelors	Rent
+1063	Mizoram Properties (Mizoram.txt)	3 BHK Independent House	Lunglei Extension	Lunglei / Mizoram	Independent House / 3 BHK	1642	₹58.74 L	Semi-Furnished	3	Any	Sale
+1064	Mizoram Properties (Mizoram.txt)	4 BHK Apartment	Aizawl North	Aizawl / Mizoram	Apartment / 4 BHK	2147	₹19,100/month	Semi-Furnished	4	Any	Rent
+1065	Mizoram Properties (Mizoram.txt)	2 BHK Apartment	Lunglei Colony	Lunglei / Mizoram	Apartment / 2 BHK	725	₹11,000/month	Fully-Furnished	2	Bachelors	Rent
+1066	Mizoram Properties (Mizoram.txt)	3 BHK Builder Floor	Champhai Extension	Champhai / Mizoram	Builder Floor / 3 BHK	1409	₹62.89 L	Semi-Furnished	3	Family	Sale
+1067	Mizoram Properties (Mizoram.txt)	4 BHK Apartment	Champhai West	Champhai / Mizoram	Apartment / 4 BHK	1979	₹16,900/month	Semi-Furnished	4	Any	Rent
+1068	Mizoram Properties (Mizoram.txt)	2 BHK Apartment	Lunglei Sector 3	Lunglei / Mizoram	Apartment / 2 BHK	908	₹37.66 L	Unfurnished	3	Family	Sale
+1069	Mizoram Properties (Mizoram.txt)	3 BHK Apartment	Champhai Heights	Champhai / Mizoram	Apartment / 3 BHK	1227	₹12,800/month	Fully-Furnished	3	Bachelors	Rent
+1070	Mizoram Properties (Mizoram.txt)	3 BHK Apartment	Aizawl Colony	Aizawl / Mizoram	Apartment / 3 BHK	1720	₹14,800/month	Semi-Furnished	3	Family	Rent
+1071	Mizoram Properties (Mizoram.txt)	4 BHK Independent House	Champhai Main Road	Champhai / Mizoram	Independent House / 4 BHK	2194	₹71.33 L	Fully-Furnished	4	Family	Sale
+1072	Mizoram Properties (Mizoram.txt)	1 BHK Independent House	Aizawl Heights	Aizawl / Mizoram	Independent House / 1 BHK	635	₹6,000/month	Unfurnished	2	Family	Rent
+1073	Mizoram Properties (Mizoram.txt)	1 BHK Studio	Champhai Main Road	Champhai / Mizoram	Studio / 1 BHK	391	₹21.91 L	Semi-Furnished	1	Any	Sale
+1074	Mizoram Properties (Mizoram.txt)	3 BHK Independent House	Lunglei Town Centre	Lunglei / Mizoram	Independent House / 3 BHK	1356	₹16,400/month	Unfurnished	3	Bachelors	Rent
+1075	Mizoram Properties (Mizoram.txt)	1 BHK Studio	Aizawl Sector 1	Aizawl / Mizoram	Studio / 1 BHK	315	₹24.30 L	Semi-Furnished	1	Any	Sale
+1076	Mizoram Properties (Mizoram.txt)	3 BHK Villa	Champhai Nagar	Champhai / Mizoram	Villa / 3 BHK	1603	₹17,500/month	Semi-Furnished	3	Family	Rent
+1077	Mizoram Properties (Mizoram.txt)	3 BHK Apartment	Aizawl Heights	Aizawl / Mizoram	Apartment / 3 BHK	1153	₹12,800/month	Semi-Furnished	3	Family	Rent
+1078	Mizoram Properties (Mizoram.txt)	2 BHK Builder Floor	Champhai Sector 3	Champhai / Mizoram	Builder Floor / 2 BHK	758	₹42.58 L	Unfurnished	2	Family	Sale
+1079	Mizoram Properties (Mizoram.txt)	3 BHK Builder Floor	Champhai Residential Area	Champhai / Mizoram	Builder Floor / 3 BHK	1329	₹15,300/month	Fully-Furnished	2	Bachelors	Rent
+1080	Mizoram Properties (Mizoram.txt)	1 BHK Apartment	Lunglei Town Centre	Lunglei / Mizoram	Apartment / 1 BHK	598	₹6,900/month	Semi-Furnished	1	Any	Rent
+1081	Mizoram Properties (Mizoram.txt)	2 BHK Apartment	Aizawl Sector 3	Aizawl / Mizoram	Apartment / 2 BHK	964	₹11,400/month	Semi-Furnished	3	Bachelors	Rent
+1082	Mizoram Properties (Mizoram.txt)	3 BHK Independent House	Aizawl Sector 1	Aizawl / Mizoram	Independent House / 3 BHK	1676	₹62.63 L	Unfurnished	3	Bachelors	Sale
+1083	Mizoram Properties (Mizoram.txt)	2 BHK Apartment	Champhai Residential Area	Champhai / Mizoram	Apartment / 2 BHK	870	₹29.89 L	Unfurnished	3	Bachelors	Sale
+1084	Mizoram Properties (Mizoram.txt)	2 BHK Independent House	Champhai West	Champhai / Mizoram	Independent House / 2 BHK	1043	₹37.50 L	Fully-Furnished	2	Family	Sale
+1085	Mizoram Properties (Mizoram.txt)	2 BHK Apartment	Champhai Sector 2	Champhai / Mizoram	Apartment / 2 BHK	802	₹43.15 L	Unfurnished	2	Family	Sale
+1086	Mizoram Properties (Mizoram.txt)	4 BHK Apartment	Aizawl Sector 2	Aizawl / Mizoram	Apartment / 4 BHK	1886	₹58.36 L	Fully-Furnished	5	Any	Sale
+1087	Mizoram Properties (Mizoram.txt)	2 BHK Villa	Champhai Central	Champhai / Mizoram	Villa / 2 BHK	1256	₹10,500/month	Unfurnished	2	Any	Rent
+1088	Mizoram Properties (Mizoram.txt)	5 BHK Apartment	Lunglei East	Lunglei / Mizoram	Apartment / 5 BHK	2219	₹21,000/month	Unfurnished	5	Family	Rent
+1089	Mizoram Properties (Mizoram.txt)	2 BHK Independent House	Aizawl South	Aizawl / Mizoram	Independent House / 2 BHK	980	₹43.15 L	Unfurnished	2	Family	Sale
+1090	Mizoram Properties (Mizoram.txt)	2 BHK Apartment	Lunglei Main Road	Lunglei / Mizoram	Apartment / 2 BHK	740	₹29.03 L	Semi-Furnished	3	Any	Sale
+1091	Mizoram Properties (Mizoram.txt)	3 BHK Apartment	Champhai Colony	Champhai / Mizoram	Apartment / 3 BHK	1349	₹49.40 L	Semi-Furnished	3	Family	Sale
+1092	Mizoram Properties (Mizoram.txt)	3 BHK Apartment	Aizawl Nagar	Aizawl / Mizoram	Apartment / 3 BHK	1370	₹15,900/month	Unfurnished	3	Bachelors	Rent
+1093	Mizoram Properties (Mizoram.txt)	1 BHK Apartment	Aizawl East	Aizawl / Mizoram	Apartment / 1 BHK	536	₹5,600/month	Unfurnished	1	Bachelors	Rent
+1094	Mizoram Properties (Mizoram.txt)	1 BHK Apartment	Champhai South	Champhai / Mizoram	Apartment / 1 BHK	471	₹23.47 L	Unfurnished	1	Family	Sale
+1095	Mizoram Properties (Mizoram.txt)	4 BHK Apartment	Aizawl Extension	Aizawl / Mizoram	Apartment / 4 BHK	2121	₹71.37 L	Fully-Furnished	4	Bachelors	Sale
+1096	Mizoram Properties (Mizoram.txt)	2 BHK Apartment	Aizawl Heights	Aizawl / Mizoram	Apartment / 2 BHK	807	₹29.44 L	Fully-Furnished	3	Bachelors	Sale
+1097	Mizoram Properties (Mizoram.txt)	1 BHK Apartment	Aizawl Heights	Aizawl / Mizoram	Apartment / 1 BHK	540	₹7,300/month	Semi-Furnished	1	Family	Rent
+1098	Mizoram Properties (Mizoram.txt)	2 BHK Apartment	Champhai Colony	Champhai / Mizoram	Apartment / 2 BHK	995	₹11,800/month	Fully-Furnished	3	Bachelors	Rent
+1099	Mizoram Properties (Mizoram.txt)	3 BHK Apartment	Lunglei North	Lunglei / Mizoram	Apartment / 3 BHK	1434	₹55.80 L	Semi-Furnished	4	Family	Sale
+1100	Mizoram Properties (Mizoram.txt)	2 BHK Apartment	Champhai Sector 1	Champhai / Mizoram	Apartment / 2 BHK	868	₹31.16 L	Unfurnished	2	Family	Sale
+1101	Mizoram Properties (Mizoram.txt)	2 BHK Apartment	Lunglei North	Lunglei / Mizoram	Apartment / 2 BHK	672	₹39.66 L	Semi-Furnished	2	Bachelors	Sale
+1102	Mizoram Properties (Mizoram.txt)	3 BHK Apartment	Aizawl Nagar	Aizawl / Mizoram	Apartment / 3 BHK	1298	₹13,200/month	Semi-Furnished	3	Family	Rent
+1103	Mizoram Properties (Mizoram.txt)	2 BHK Apartment	Champhai Sector 1	Champhai / Mizoram	Apartment / 2 BHK	705	₹8,300/month	Semi-Furnished	2	Family	Rent
+1104	Mizoram Properties (Mizoram.txt)	3 BHK Independent House	Lunglei South	Lunglei / Mizoram	Independent House / 3 BHK	1035	₹14,500/month	Semi-Furnished	4	Bachelors	Rent
+1105	Mizoram Properties (Mizoram.txt)	2 BHK Builder Floor	Champhai Town Centre	Champhai / Mizoram	Builder Floor / 2 BHK	606	₹34.05 L	Unfurnished	2	Bachelors	Sale
+1106	Mizoram Properties (Mizoram.txt)	1 BHK Villa	Champhai Nagar	Champhai / Mizoram	Villa / 1 BHK	621	₹26.61 L	Unfurnished	1	Bachelors	Sale
+1107	Mizoram Properties (Mizoram.txt)	3 BHK Builder Floor	Lunglei Residential Area	Lunglei / Mizoram	Builder Floor / 3 BHK	1206	₹43.35 L	Unfurnished	4	Family	Sale
+1108	Mizoram Properties (Mizoram.txt)	3 BHK Independent House	Champhai Sector 3	Champhai / Mizoram	Independent House / 3 BHK	1298	₹16,400/month	Semi-Furnished	3	Family	Rent
+1109	Mizoram Properties (Mizoram.txt)	3 BHK Apartment	Lunglei Central	Lunglei / Mizoram	Apartment / 3 BHK	1209	₹12,500/month	Unfurnished	3	Any	Rent
+1110	Mizoram Properties (Mizoram.txt)	1 BHK Builder Floor	Lunglei Sector 3	Lunglei / Mizoram	Builder Floor / 1 BHK	580	₹7,600/month	Fully-Furnished	1	Bachelors	Rent
+1111	Mizoram Properties (Mizoram.txt)	1 BHK Villa	Lunglei Extension	Lunglei / Mizoram	Villa / 1 BHK	762	₹27.22 L	Fully-Furnished	2	Family	Sale
+1112	Mizoram Properties (Mizoram.txt)	2 BHK Apartment	Champhai Colony	Champhai / Mizoram	Apartment / 2 BHK	832	₹41.06 L	Unfurnished	2	Family	Sale
+1113	Mizoram Properties (Mizoram.txt)	1 BHK Studio	Aizawl Sector 1	Aizawl / Mizoram	Studio / 1 BHK	390	₹20.15 L	Semi-Furnished	2	Family	Sale
+1114	Mizoram Properties (Mizoram.txt)	4 BHK Apartment	Champhai Town Centre	Champhai / Mizoram	Apartment / 4 BHK	1486	₹60.13 L	Semi-Furnished	4	Bachelors	Sale
+1115	Mizoram Properties (Mizoram.txt)	2 BHK Apartment	Aizawl Town Centre	Aizawl / Mizoram	Apartment / 2 BHK	858	₹42.81 L	Semi-Furnished	1	Family	Sale
+1116	Mizoram Properties (Mizoram.txt)	2 BHK Apartment	Aizawl Residential Area	Aizawl / Mizoram	Apartment / 2 BHK	846	₹32.65 L	Semi-Furnished	2	Bachelors	Sale
+1117	Mizoram Properties (Mizoram.txt)	2 BHK Apartment	Champhai Central	Champhai / Mizoram	Apartment / 2 BHK	755	₹34 L	Semi-Furnished	3	Family	Sale
+1118	Mizoram Properties (Mizoram.txt)	1 BHK Apartment	Lunglei Colony	Lunglei / Mizoram	Apartment / 1 BHK	522	₹24.02 L	Fully-Furnished	1	Any	Sale
+1119	Mizoram Properties (Mizoram.txt)	4 BHK Builder Floor	Aizawl Sector 1	Aizawl / Mizoram	Builder Floor / 4 BHK	1817	₹16,700/month	Semi-Furnished	4	Family	Rent
+1120	Mizoram Properties (Mizoram.txt)	2 BHK Apartment	Champhai West	Champhai / Mizoram	Apartment / 2 BHK	760	₹9,800/month	Semi-Furnished	2	Family	Rent
+1121	Mizoram Properties (Mizoram.txt)	3 BHK Apartment	Lunglei Town Centre	Lunglei / Mizoram	Apartment / 3 BHK	1477	₹16,400/month	Semi-Furnished	4	Bachelors	Rent
+1122	Mizoram Properties (Mizoram.txt)	3 BHK Apartment	Champhai Colony	Champhai / Mizoram	Apartment / 3 BHK	1436	₹15,900/month	Fully-Furnished	2	Any	Rent
+1123	Mizoram Properties (Mizoram.txt)	3 BHK Builder Floor	Champhai Nagar	Champhai / Mizoram	Builder Floor / 3 BHK	1151	₹48.77 L	Unfurnished	3	Bachelors	Sale
+1124	Mizoram Properties (Mizoram.txt)	4 BHK Apartment	Champhai South	Champhai / Mizoram	Apartment / 4 BHK	1482	₹51.44 L	Semi-Furnished	4	Family	Sale
+1125	Mizoram Properties (Mizoram.txt)	2 BHK Apartment	Aizawl Residential Area	Aizawl / Mizoram	Apartment / 2 BHK	845	₹33.69 L	Semi-Furnished	2	Family	Sale
+1126	Mizoram Properties (Mizoram.txt)	2 BHK Independent House	Lunglei West	Lunglei / Mizoram	Independent House / 2 BHK	1112	₹38.15 L	Unfurnished	2	Family	Sale
+1127	Mizoram Properties (Mizoram.txt)	3 BHK Apartment	Champhai Colony	Champhai / Mizoram	Apartment / 3 BHK	1226	₹46.64 L	Fully-Furnished	2	Family	Sale
+1128	Mizoram Properties (Mizoram.txt)	2 BHK Apartment	Champhai Sector 3	Champhai / Mizoram	Apartment / 2 BHK	824	₹9,100/month	Semi-Furnished	2	Family	Rent
+1129	Mizoram Properties (Mizoram.txt)	3 BHK Apartment	Aizawl North	Aizawl / Mizoram	Apartment / 3 BHK	1127	₹12,700/month	Semi-Furnished	3	Family	Rent
+1130	Mizoram Properties (Mizoram.txt)	3 BHK Builder Floor	Aizawl Colony	Aizawl / Mizoram	Builder Floor / 3 BHK	1351	₹60.15 L	Semi-Furnished	3	Bachelors	Sale
+1131	Mizoram Properties (Mizoram.txt)	3 BHK Independent House	Lunglei Heights	Lunglei / Mizoram	Independent House / 3 BHK	1502	₹52.29 L	Semi-Furnished	3	Bachelors	Sale
+1132	Mizoram Properties (Mizoram.txt)	3 BHK Apartment	Lunglei Main Road	Lunglei / Mizoram	Apartment / 3 BHK	1557	₹15,000/month	Unfurnished	2	Any	Rent
+1133	Mizoram Properties (Mizoram.txt)	2 BHK Apartment	Aizawl West	Aizawl / Mizoram	Apartment / 2 BHK	695	₹36.08 L	Unfurnished	2	Any	Sale
+1134	Mizoram Properties (Mizoram.txt)	2 BHK Builder Floor	Champhai Town Centre	Champhai / Mizoram	Builder Floor / 2 BHK	978	₹11,000/month	Unfurnished	2	Family	Rent
+1135	Mizoram Properties (Mizoram.txt)	1 BHK Apartment	Aizawl Residential Area	Aizawl / Mizoram	Apartment / 1 BHK	489	₹21.24 L	Semi-Furnished	1	Bachelors	Sale
+1136	Mizoram Properties (Mizoram.txt)	2 BHK Apartment	Aizawl Nagar	Aizawl / Mizoram	Apartment / 2 BHK	750	₹39.51 L	Fully-Furnished	2	Bachelors	Sale
+1137	Mizoram Properties (Mizoram.txt)	2 BHK Apartment	Champhai East	Champhai / Mizoram	Apartment / 2 BHK	949	₹9,900/month	Semi-Furnished	2	Family	Rent
+1138	Mizoram Properties (Mizoram.txt)	4 BHK Builder Floor	Lunglei Heights	Lunglei / Mizoram	Builder Floor / 4 BHK	1951	₹68.32 L	Fully-Furnished	4	Family	Sale
+1139	Mizoram Properties (Mizoram.txt)	2 BHK Apartment	Aizawl North	Aizawl / Mizoram	Apartment / 2 BHK	770	₹36.21 L	Unfurnished	2	Bachelors	Sale
+1140	Mizoram Properties (Mizoram.txt)	3 BHK Independent House	Champhai Central	Champhai / Mizoram	Independent House / 3 BHK	1004	₹57.21 L	Fully-Furnished	4	Bachelors	Sale
+1141	Mizoram Properties (Mizoram.txt)	2 BHK Builder Floor	Champhai Colony	Champhai / Mizoram	Builder Floor / 2 BHK	765	₹10,300/month	Semi-Furnished	3	Family	Rent
+1142	Mizoram Properties (Mizoram.txt)	3 BHK Apartment	Lunglei Heights	Lunglei / Mizoram	Apartment / 3 BHK	1086	₹12,500/month	Semi-Furnished	3	Family	Rent
+1143	Mizoram Properties (Mizoram.txt)	1 BHK Studio	Champhai North	Champhai / Mizoram	Studio / 1 BHK	514	₹19.92 L	Semi-Furnished	1	Bachelors	Sale
+1144	Mizoram Properties (Mizoram.txt)	3 BHK Apartment	Lunglei Main Road	Lunglei / Mizoram	Apartment / 3 BHK	1333	₹49.50 L	Semi-Furnished	2	Any	Sale
+1145	Mizoram Properties (Mizoram.txt)	2 BHK Apartment	Lunglei Sector 1	Lunglei / Mizoram	Apartment / 2 BHK	921	₹8,500/month	Semi-Furnished	2	Bachelors	Rent
+1146	Mizoram Properties (Mizoram.txt)	4 BHK Apartment	Lunglei East	Lunglei / Mizoram	Apartment / 4 BHK	1736	₹58.83 L	Unfurnished	4	Bachelors	Sale
+1147	Mizoram Properties (Mizoram.txt)	2 BHK Builder Floor	Champhai North	Champhai / Mizoram	Builder Floor / 2 BHK	1050	₹9,200/month	Unfurnished	2	Any	Rent
+1148	Mizoram Properties (Mizoram.txt)	1 BHK Apartment	Aizawl East	Aizawl / Mizoram	Apartment / 1 BHK	508	₹23.04 L	Semi-Furnished	1	Any	Sale
+1149	Mizoram Properties (Mizoram.txt)	4 BHK Builder Floor	Aizawl Residential Area	Aizawl / Mizoram	Builder Floor / 4 BHK	1563	₹52.30 L	Semi-Furnished	4	Bachelors	Sale
+1150	Mizoram Properties (Mizoram.txt)	1 BHK Apartment	Lunglei South	Lunglei / Mizoram	Apartment / 1 BHK	409	₹5,800/month	Semi-Furnished	1	Any	Rent
+1151	Mizoram Properties (Mizoram.txt)	2 BHK Independent House	Aizawl Sector 3	Aizawl / Mizoram	Independent House / 2 BHK	1321	₹35.34 L	Semi-Furnished	2	Family	Sale
+1152	Mizoram Properties (Mizoram.txt)	4 BHK Apartment	Champhai Residential Area	Champhai / Mizoram	Apartment / 4 BHK	1706	₹61.71 L	Semi-Furnished	4	Family	Sale
+1153	Mizoram Properties (Mizoram.txt)	2 BHK Apartment	Aizawl Residential Area	Aizawl / Mizoram	Apartment / 2 BHK	778	₹33 L	Semi-Furnished	3	Bachelors	Sale
+1154	Mizoram Properties (Mizoram.txt)	4 BHK Apartment	Champhai Colony	Champhai / Mizoram	Apartment / 4 BHK	1744	₹20,400/month	Unfurnished	5	Any	Rent
+1155	Mizoram Properties (Mizoram.txt)	1 BHK Studio	Lunglei East	Lunglei / Mizoram	Studio / 1 BHK	313	₹21.95 L	Fully-Furnished	1	Family	Sale
+1156	Mizoram Properties (Mizoram.txt)	1 BHK Studio	Aizawl Sector 3	Aizawl / Mizoram	Studio / 1 BHK	307	₹23.17 L	Fully-Furnished	2	Family	Sale
+1157	Mizoram Properties (Mizoram.txt)	2 BHK Builder Floor	Lunglei West	Lunglei / Mizoram	Builder Floor / 2 BHK	999	₹8,800/month	Semi-Furnished	1	Family	Rent
+1158	Mizoram Properties (Mizoram.txt)	4 BHK Apartment	Aizawl Main Road	Aizawl / Mizoram	Apartment / 4 BHK	1510	₹17,800/month	Unfurnished	4	Any	Rent
+1159	Mizoram Properties (Mizoram.txt)	2 BHK Apartment	Aizawl West	Aizawl / Mizoram	Apartment / 2 BHK	952	₹33.71 L	Semi-Furnished	3	Bachelors	Sale
+1160	Mizoram Properties (Mizoram.txt)	2 BHK Villa	Champhai Sector 1	Champhai / Mizoram	Villa / 2 BHK	1166	₹13,000/month	Semi-Furnished	3	Bachelors	Rent
+1161	Mizoram Properties (Mizoram.txt)	1 BHK Villa	Aizawl Town Centre	Aizawl / Mizoram	Villa / 1 BHK	675	₹24.61 L	Fully-Furnished	2	Any	Sale
+1162	Mizoram Properties (Mizoram.txt)	1 BHK Studio	Champhai West	Champhai / Mizoram	Studio / 1 BHK	427	₹6,500/month	Semi-Furnished	2	Bachelors	Rent
+1163	Mizoram Properties (Mizoram.txt)	3 BHK Builder Floor	Lunglei East	Lunglei / Mizoram	Builder Floor / 3 BHK	1187	₹14,900/month	Unfurnished	3	Family	Rent
+1164	Mizoram Properties (Mizoram.txt)	3 BHK Independent House	Aizawl Extension	Aizawl / Mizoram	Independent House / 3 BHK	1387	₹58.67 L	Unfurnished	3	Family	Sale
+1165	Mizoram Properties (Mizoram.txt)	4 BHK Builder Floor	Lunglei East	Lunglei / Mizoram	Builder Floor / 4 BHK	1558	₹62.69 L	Unfurnished	4	Any	Sale
+1166	Mizoram Properties (Mizoram.txt)	1 BHK Studio	Champhai Sector 2	Champhai / Mizoram	Studio / 1 BHK	403	₹7,000/month	Unfurnished	1	Bachelors	Rent
+1167	Mizoram Properties (Mizoram.txt)	2 BHK Apartment	Champhai Town Centre	Champhai / Mizoram	Apartment / 2 BHK	719	₹10,100/month	Semi-Furnished	1	Bachelors	Rent
+1168	Mizoram Properties (Mizoram.txt)	3 BHK Apartment	Champhai North	Champhai / Mizoram	Apartment / 3 BHK	1039	₹11,800/month	Semi-Furnished	2	Family	Rent
+1169	Mizoram Properties (Mizoram.txt)	2 BHK Apartment	Aizawl Sector 3	Aizawl / Mizoram	Apartment / 2 BHK	1139	₹13,100/month	Semi-Furnished	3	Any	Rent
+1170	Mizoram Properties (Mizoram.txt)	2 BHK Apartment	Lunglei East	Lunglei / Mizoram	Apartment / 2 BHK	632	₹9,600/month	Unfurnished	3	Bachelors	Rent
+1171	Mizoram Properties (Mizoram.txt)	3 BHK Apartment	Aizawl East	Aizawl / Mizoram	Apartment / 3 BHK	1082	₹11,900/month	Semi-Furnished	3	Family	Rent
