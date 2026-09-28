@@ -14,6 +14,14 @@ import java.util.Map;
 
 public class CorpusLoader {
 
+    // The data/ directory now also holds the other Phase 2 datasets (up.txt and
+    // the per-state listing files, which include the merged-in Delhi housing and
+    // Indian house rent rows) for the multi-dataset GUI. This CLI
+    // loader is scoped to the original Hyderabad corpus file specifically so
+    // its search results and behavior stay exactly as before regardless of
+    // what else lives alongside it in data/.
+    private static final String CORPUS_FILENAME_GLOB = "hyderabad_recent_properties.txt";
+
     private final Path corpusDirectory;
 
     public CorpusLoader(Path corpusDirectory) {
@@ -24,7 +32,7 @@ public class CorpusLoader {
         return Files.isDirectory(corpusDirectory);
     }
 
-    // Loads every .txt file in the corpus directory: filename -> full contents
+    // Loads the Hyderabad corpus file: filename -> full contents
     public Map<String, String> loadCorpus() throws IOException {
 
         Map<String, String> documents = new LinkedHashMap<>();
@@ -33,7 +41,7 @@ public class CorpusLoader {
             return documents;
         }
 
-        try (DirectoryStream<Path> files = Files.newDirectoryStream(corpusDirectory, "*.txt")) {
+        try (DirectoryStream<Path> files = Files.newDirectoryStream(corpusDirectory, CORPUS_FILENAME_GLOB)) {
             for (Path file : files) {
                 String contents = Files.readString(file, StandardCharsets.UTF_8);
                 documents.put(file.getFileName().toString(), contents);
@@ -43,7 +51,7 @@ public class CorpusLoader {
         return documents;
     }
 
-    // Parses every .txt file's rows into property records, using the first line as the header.
+    // Parses the Hyderabad corpus file's rows into property records, using the first line as the header.
     public List<PropertyRecord> loadPropertyRecords() throws IOException {
 
         List<PropertyRecord> records = new ArrayList<>();
@@ -52,7 +60,7 @@ public class CorpusLoader {
             return records;
         }
 
-        try (DirectoryStream<Path> files = Files.newDirectoryStream(corpusDirectory, "*.txt")) {
+        try (DirectoryStream<Path> files = Files.newDirectoryStream(corpusDirectory, CORPUS_FILENAME_GLOB)) {
             for (Path file : files) {
 
                 List<String> lines = Files.readAllLines(file, StandardCharsets.UTF_8);
